@@ -29,6 +29,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
+            repository: koinize/news.koinize.com
+            token: ${{ secrets.REPO_TOKEN }}
             submodules: true  # Fetch Hugo themes
             fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 

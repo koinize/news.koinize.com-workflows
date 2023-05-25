@@ -41,7 +41,10 @@ jobs:
         
       - name: Commit and push files
         run: |
-          git config --local user.email "actions@github.com" || { echo "Failed to configure Git. Probably, there are NO news to commit."; exit 1; }
+          if ! git config --local user.email "actions@github.com"; then
+            echo "Failed to configure Git. Probably, there are NO news to commit."
+            exit 1
+          fi
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Added generated MD files"

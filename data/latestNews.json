@@ -1,65 +1,16 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-06-05T21:00:19.000Z",
-    "title": "Institutional Investors Have Pulled $329 Million From Crypto Funds Since April",
-    "url": "https://decrypt.co/143500/institutional-investors-have-pulled-329-million-from-crypto-funds-since-april",
-    "description": "CoinShares wrote that the withdrawals could be investors pulling seed capital out of funds, rather than \"anything more ominous.\""
+    "source": "CoinDesk",
+    "date": "2023-06-05T21:17:11.000Z",
+    "title": "Optimism 'Bedrock' Upgrade to Speed Confirmations, Cut Gas Fees, Set Path to 'Superchain'",
+    "url": "https://www.coindesk.com/tech/2023/06/05/optimism-bedrock-upgrade-to-speed-confirmations-cut-gas-fees-set-path-to-superchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The \"Bedrock” upgrade will improve the usability of the chain by lowering gas fees and cutting deposit-confirmation times by 90% – pitched as a key step toward the Optimism network's goal of becoming a \"Superchain.\""
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-06-05T20:58:52.000Z",
-    "title": "TRON’s Justin Sun, Cardano’s Charles Hoskinson side with Binance in SEC case",
-    "url": "https://cryptoslate.com/trons-justin-sun-cardanos-charles-hoskinson-side-with-binance-in-sec-case/",
-    "description": "<p>Binance attracted support from other members of the cryptocurrency industry on June 5 after receiving charges of securities violations on the same day. TRON founder expresses support The U.S. Securities and Exchange Commission (SEC) filed charges against Binance CEO Changpeng Zhao and various associated companies. Following that news, Huobi advisor and former TRON CEO Justin [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/trons-justin-sun-cardanos-charles-hoskinson-side-with-binance-in-sec-case/\">TRON&#8217;s Justin Sun, Cardano&#8217;s Charles Hoskinson side with Binance in SEC case</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-05T21:08:24.000Z",
-    "title": "Top 10 Blockchain Funding Companies in Africa",
-    "url": "https://www.cryptopolitan.com/top-blockchain-funding-companies-in-africa/",
-    "description": "Africa is experiencing an unprecedented surge in the adoption and development of blockchain technology, driven by its transformative potential to address some of the continent&#8217;s unique challenges. While the technology has proven promising, the ecosystem&#8217;s growth largely depends on substantial and strategic financial backing. Enter blockchain funding companies – entities propelling the advancement of this ... <a title=\"Top 10 Blockchain Funding Companies in Africa\" class=\"read-more\" href=\"https://www.cryptopolitan.com/top-blockchain-funding-companies-in-africa/\" aria-label=\"More on Top 10 Blockchain Funding Companies in Africa\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-05T21:00:31.000Z",
-    "title": "Ripple contemplates IPO as legal battle with SEC nears conclusion",
-    "url": "https://www.cryptopolitan.com/ripple-contemplates-ipo-as-legal-battle-with-sec-nears-conclusion/",
-    "description": "Ripple, the blockchain firm currently embroiled in a legal dispute with the U.S. Securities and Exchange Commission (SEC), is reportedly considering an initial public offering (IPO) as the legal battle concludes. Industry veteran Linda P. Jones has analyzed the potential implications of a Ripple IPO, shedding light on the valuation and investor interest surrounding the ... <a title=\"Ripple contemplates IPO as legal battle with SEC nears conclusion\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ripple-contemplates-ipo-as-legal-battle-with-sec-nears-conclusion/\" aria-label=\"More on Ripple contemplates IPO as legal battle with SEC nears conclusion\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-05T20:51:11.000Z",
-    "title": "I asked ChatGPT: What will the price of Shiba Inu be on November 5?",
-    "url": "https://www.cryptopolitan.com/chatgpt-says-the-price-of-shiba-inu-on-nov-5/",
-    "description": "With an ever-rising interest in the dog-themed cryptocurrency, the curious financial world seems to be incessantly pondering: What does the future hold for the Shiba Inu token (SHIB)? Speculating the potential valuation of this volatile digital asset come November 5, 2023, the question takes a plunge into the murky waters of crypto fortune telling. To ... <a title=\"I asked ChatGPT: What will the price of Shiba Inu be on November 5?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chatgpt-says-the-price-of-shiba-inu-on-nov-5/\" aria-label=\"More on I asked ChatGPT: What will the price of Shiba Inu be on November 5?\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-05T20:46:33.000Z",
-    "title": "How To Explain Smart Contracts In Layman Terms",
-    "url": "https://www.cryptopolitan.com/smart-contracts-in-layman-terms/",
-    "description": "The world of finance and business has evolved substantially with the advent of technology, and this guide aims to decipher one of the most groundbreaking aspects of this evolution &#8211; smart contracts. This Cryptopolitan will clarify the intricate yet compelling domain of smart contracts in terms that even those unfamiliar with the tech jargon can ... <a title=\"How To Explain Smart Contracts In Layman Terms\" class=\"read-more\" href=\"https://www.cryptopolitan.com/smart-contracts-in-layman-terms/\" aria-label=\"More on How To Explain Smart Contracts In Layman Terms\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-05T20:44:22.000Z",
-    "title": "UK Proposes ‘Crypto Tsar’ role in ambitious bid to lead global crypto regulation",
-    "url": "https://www.cryptopolitan.com/uk-proposes-crypto-tsar-role-in-ambitious-bid-to-lead-global-crypto-regulation/",
-    "description": "The Crypto and Digital Assets All Party Parliamentary Group (APPG) has released a comprehensive report today outlining 53 key recommendations for regulating cryptocurrencies in the United Kingdom. To establish the nation as a global hub for the burgeoning industry, the party has suggested creating a new role, the “Crypto Tsar,” to coordinate efforts and ensure ... <a title=\"UK Proposes &#8216;Crypto Tsar&#8217; role in ambitious bid to lead global crypto regulation\" class=\"read-more\" href=\"https://www.cryptopolitan.com/uk-proposes-crypto-tsar-role-in-ambitious-bid-to-lead-global-crypto-regulation/\" aria-label=\"More on UK Proposes &#8216;Crypto Tsar&#8217; role in ambitious bid to lead global crypto regulation\">Read more</a>"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-06-05T20:52:47.000Z",
-    "title": "Apple’s new Vision Pro MR debuts to a global audience",
-    "url": "https://crypto.news/apples-new-vision-pro-mr-debuts-to-a-global-audience/",
-    "description": "Apple's new Vision Pro MR headset, with dual processor architecture and a dozen cameras, is not likely to be a realistic purchase for the masses just yet, despite its impressive specifications. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-06-05T21:00:06.000Z",
-    "title": "Crypto Clash: Bitcoin Bulls And Bears Wrestle For Control At Key Support Level",
-    "url": "https://www.newsbtc.com/bitcoin-news/crypto-clash-bitcoin-bulls-and-bears-wrestle-for-control-at-key-support-level/",
-    "description": "Bitcoin (BTC) and other cryptocurrencies have taken a hit in the wake of recent news regarding Binance, the world&#8217;s largest cryptocurrency exchange by trading volume. The market has reacted with concern to the disclosure of a complaint against the exchange, which has sparked a wider downtrend throughout the cryptocurrency industry. As of this writing, Bitcoin has declined by over 5% in response to the news, trading at $25,700. This drop in value mirrors the current market sentiment as investors grapple with the implications of the complaint against Binance. Related Reading: Cardano Founder Urges ADA Investors to Beware of New Scams The Bitcoin MA Standoff According to the analysis firm Material Indicators, their popular Fire Charts tool shows approximately $6.3 million in bid support defending the 200-week moving average (MA) placed at $25,200 for Bitcoin. If the bid support can maintain its strength and consolidate above this level, it would be a bullish sign for Bitcoin&#8217;s prospects. However, Material Indicators notes they are not confident that the 200-week MA will hold without additional bid support. The 200-week MA is crucial for Bitcoin, representing a long-term trend line historically supporting the cryptocurrency. A breach of this level could signal further downside for Bitcoin and the wider cryptocurrency market. Furthermore, Market analyst Maartun has reported $650 million of Bitcoin open interest flushed from the market, resulting in a 5% price decline. Open interest is the total number of outstanding contracts not settled in the Bitcoin futures market. These contracts represent positions taken by traders who are betting on the future price of Bitcoin. The $650 million of open interest flushed from the market suggests that traders were caught off guard by the sudden decline in Bitcoin&#8217;s price, highlighting the ongoing volatility of the cryptocurrency market. However, the market will likely remain volatile in the short term as investors continue to digest the news surrounding Bitcoin and the wider regulatory landscape for cryptocurrencies. It remains to be seen how this will impact the industry in the long term, but for now, investors are bracing themselves for further turbulence in the cryptocurrency industry. Crucial Moment For The Crypto Market The total market capitalization of the cryptocurrency market has been volatile in recent months, experiencing significant ups and downs as the market reacts to various news and events. However, many analysts remain bullish on the market&#8217;s long-term prospects, citing increasing adoption and institutional interest as factors that could drive prices higher in the future. However, according to trader and analyst Michael Van De Poppe, the total market capitalization of the cryptocurrency market is currently undergoing a test of its 200-week moving average and exponential moving average (EMA). This is a significant technical indicator that traders and analysts closely watch as it provides insight into the market&#8217;s long-term trend. Van De Poppe explains that if the market can hold above the 200-week MA and EMA, it could signal the current correction&#8217;s end and a new bullish trend. On the other hand, if the market fails to hold above the 200-week MA and EMA, it could indicate a continuation of the bear market.  Related Reading: Cardano (ADA) A Security? Price Collapses On SEC v. Binance Lawsuit Featured image from iStock, chart from TradingView.com "
+    "source": "Bitcoin.com",
+    "date": "2023-06-05T21:30:14.000Z",
+    "title": "BNB Plunges 9% as Binance Faces Lawsuit, Exchange’s Bitcoin Reserves Record Significant Outflow",
+    "url": "https://news.bitcoin.com/bnb-plunges-9-as-binance-faces-lawsuit-exchanges-bitcoin-reserves-record-significant-outflow/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"BNB Plunges 9% as Binance Faces Lawsuit, Exchange&#039;s Bitcoin Reserves Record Significant Outflow\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/dd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Following the lawsuit filed by the U.S. Securities and Exchange Commission (SEC) against Binance and its founder Changpeng Zhao (CZ), the crypto economy experienced a substantial decline of over 5% against the U.S. dollar, reaching a total valuation of $1.13 trillion. Among the leading digital currencies, Binance&#x2019;s BNB token suffered significant losses, dropping by 9.7% [&#8230;]"
   }
 ]

@@ -1,51 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-06-07T12:12:48.000Z",
-    "title": "First Mover Americas: Bitcoin Shows Resilience Amid SEC Lawsuits Against Binance, Coinbase ",
-    "url": "https://www.coindesk.com/markets/2023/06/07/first-mover-americas-bitcoin-shows-resilience-amid-sec-lawsuits-against-binance-coinbase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for June 7, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+    "date": "2023-06-07T13:01:32.000Z",
+    "title": "Crypto Needs to Be Private by Default, Some Consensus 2023 Guests Say",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/06/07/crypto-needs-to-be-private-by-default-some-consensus-2023-guests-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Participants at Consensus 2023 describe the tension between the need for privacy, transparency and regulation in crypto and DeFi in an excerpt from CoinDesk’s first-ever Consensus @ Consensus Report."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-06-07T12:10:20.000Z",
-    "title": "US Senators raise concerns about ethical control on Meta’s AI-model LLaMA",
-    "url": "https://cryptoslate.com/us-senators-raise-concerns-about-ethical-control-on-metas-ai-model-llama/",
-    "description": "<p>U.S. Senators Richard Blumenthal and Josh Hawley wrote to Meta CEO Mark Zuckerberg on June 6, raising concerns about LLaMA &#8211; an artificial intelligence language model capable of generating human-like text based on a given input. In particular, issues were highlighted concerning the risk of AI abuses and Meta doing little to &#8220;restrict the model [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/us-senators-raise-concerns-about-ethical-control-on-metas-ai-model-llama/\">US Senators raise concerns about ethical control on Meta&#8217;s AI-model LLaMA</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CoinDesk",
+    "date": "2023-06-07T13:00:01.000Z",
+    "title": "No More FTXs! Consensus 2023 Attendees Discuss Future of Crypto Custody",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/06/07/no-more-ftxs-consensus-2023-attendees-discuss-future-of-crypto-custody/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "FTX's collapse reignites the self-custody debate with Consensus 2023 attendees in an excerpt from CoinDesk’s first-ever Consensus @ Consensus Report."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-06-07T12:30:08.000Z",
-    "title": "Bitcoin, Ethereum Technical Analysis: ETH Nears $1,900, as BTC Rebounds From 3-Month Low",
-    "url": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-eth-nears-1900-as-btc-rebounds-from-3-month-low/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_794562280.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin rebounded from a near three-month low on Wednesday, as traders moved to buy the latest price dip. Yesterday&#x2019;s decline came as the U.S. Securities and Exchange Commission sued both Binance and Coinbase. Ethereum moved closer to $1,900 in today&#x2019;s session. Bitcoin Bitcoin (BTC) bounced back above the $27,000 level on Wednesday, as traders moved [&#8230;]"
+    "source": "Decrypt",
+    "date": "2023-06-07T12:51:34.000Z",
+    "title": "IKEA Research Studio Uses AI to Create a Folding Sofa that Fits in an Envelope",
+    "url": "https://decrypt.co/143677/ikea-research-studio-uses-ai-to-create-a-folding-sofa-that-fits-in-an-envelope",
+    "description": "We’re heading towards a future where getting sofas up and down flights of stairs is no longer a Sisyphean chore. "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-06-07T12:52:52.000Z",
+    "title": "AI-Powered Crypto Scams Threaten to Drain Millions in Cardano (ADA), Warns Charles Hoskinson",
+    "url": "https://www.cryptoglobe.com/latest/2023/06/ai-powered-crypto-scams-threaten-to-drain-millions-in-cardano-ada-warns-charles-hoskinson/",
+    "description": "Charles Hoskinson, the creator of Cardano (ADA), has issued a stark warning about the potential rise in cryptocurrency scams driven by generative artificial intelligence (AI). He anticipates that these scams could result in the loss of millions of dollars worth of ADA within the next year, according to a recent report by The Daily Hodl. […]\n"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-06-07T13:00:38.000Z",
+    "title": "Sleap.io: First Hotel Booking Platform on Blockchain",
+    "url": "https://www.cryptopolitan.com/sleap-io-first-hotel-booking-platform-on-blockchain/",
+    "description": "Zurich, Switzerland, June 7th, 2023, Chainwire Sleap.io, the world&#8217;s first native Web3 hotel booking platform, is all set for a spectacular launch this summer. This first-of-its-kind platform will transform the hospitality industry by integrating blockchain technology, AI-driven personalization, and seamless cryptocurrency transactions. Founded by travel tech entrepreneur Michael Ros, and utilizing the next-gen Camino Network ... <a title=\"Sleap.io: First Hotel Booking Platform on Blockchain\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sleap-io-first-hotel-booking-platform-on-blockchain/\" aria-label=\"More on Sleap.io: First Hotel Booking Platform on Blockchain\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-06-07T12:46:51.000Z",
+    "title": "US senators aim at SEC, call for crypto regulatory clarity amid Coinbase lawsuit",
+    "url": "https://www.cryptopolitan.com/us-senators-aim-at-sec-call-for-crypto-regulatory-clarity-amid-coinbase-lawsuit/",
+    "description": "In a surprising turn of events, two prominent US senators have come forward to criticize the Securities and Exchange Commission (SEC) for its recent lawsuit against Coinbase, the largest American cryptocurrency exchange. The senators, Cynthia Lummis and Bill Hagerty argue that the SEC&#8217;s regulatory approach harms consumers and stifles innovation in the crypto industry. The ... <a title=\"US senators aim at SEC, call for crypto regulatory clarity amid Coinbase lawsuit\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-senators-aim-at-sec-call-for-crypto-regulatory-clarity-amid-coinbase-lawsuit/\" aria-label=\"More on US senators aim at SEC, call for crypto regulatory clarity amid Coinbase lawsuit\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-07T12:24:45.000Z",
-    "title": "US court orders SEC to respond to Coinbase’s rulemaking petition",
-    "url": "https://crypto.news/us-court-orders-sec-to-respond-to-coinbases-rulemaking-petition/",
-    "description": "US court has directed the SEC to address Coinbase&#8217;s rulemaking petition within a week, as the crypto exchange seeks regulatory clarity for digital assets amidst an ongoing lawsuit and heightened enforcement actions against market participants. The US Court of Appeals&#8230;"
+    "date": "2023-06-07T13:00:00.000Z",
+    "title": "DigiToads competes with dogecoin for meme coin dominance",
+    "url": "https://crypto.news/digitoads-competes-dogecoin-meme-coin-dominance/",
+    "description": "DigiToads and Dogecoin are competing to dominate the meme coin market. TOADS presale success and features makes the project stands out"
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-07T12:16:53.000Z",
-    "title": "Circle receives digital token license in Singapore",
-    "url": "https://crypto.news/circle-receives-digital-token-license-in-singapore/",
-    "description": "Circle, the issuer of the USDC stablecoin, is expanding its presence in the Asian market with a new license to operate in Singapore. The Monetary Authority of Singapore (MAS), the country&#8217;s central bank, has granted the company&#8217;s Singapore division, affiliated&#8230;"
+    "date": "2023-06-07T12:58:03.000Z",
+    "title": "Cathie Wood boosts Coinbase holdings amid escalating SEC crackdown ",
+    "url": "https://crypto.news/cathie-wood-boosts-coinbase-holdings-amid-escalating-sec-crackdown/",
+    "description": "Amid the SEC&#8217;s allegations of Coinbase operating an illegal exchange, Cathie Wood&#8217;s managed funds have increased their stake in the company&#8217;s stock. Coinbase shares experienced a significant 21% decline on June 6 amid the SEC complaint. However, Ark Investment acquired&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-06-07T12:12:14.000Z",
-    "title": "What is Inverse Cramer: how CNBC host accidentally created trading strategy",
-    "url": "https://crypto.news/what-is-inverse-cramer-how-cnbc-host-accidentally-created-trading-strategy/",
-    "description": "Picture a bumbling anti-hero who unintentionally lays a path of gold with his off-mark predictions. Enter stage right, Jim Cramer. His ill-fated crypto prophecies have paved the way for some surprising successes in the cryptocurrency realm. In this twist-laden narrative,&#8230;"
+    "source": "NewsBTC",
+    "date": "2023-06-07T13:00:20.000Z",
+    "title": "Bitcoin Contrarians Win As Rebound Occurs Against Crowd Expectations: Santiment",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-contrarians-rebound-crowd-expectations-santiment/",
+    "description": "Data from Santiment suggests that the latest Bitcoin rebound took place after most investors had given up on the idea of it happening. Bitcoin Observes Rebound After &#8220;Buy The Dip&#8221; Crowd Goes Silent According to data from the on-chain analytics firm Santiment, calls for buying the dip had mostly disappeared right before the actual rebound. The indicator of interest here is the &#8220;social volume,&#8221; which measures the total number of social media text documents that mention a given topic or term. The text documents here refer to a collection of posts/threads derived from various social media platforms like Reddit, Twitter, Telegram, and 4chan. Note that the metric only cares about whether such posts make at least one mention of the given term, and not exactly how many times they do it. This means that even if a thread mentions the topic several times, its contribution to the social volume still remains one unit. The benefit of this restriction is that it provides a better picture about the trend being followed in the whole sector, as only a few posts with a lot of discussion can&#8217;t skew the total in their favor this way. Related Reading: Bitcoin Slips Below $26,000, Triggers Over $300 Million In Liquidations Now, in the context of the current discussion, cryptocurrency-related talks where users call out to &#8220;buy the dip&#8221; are of relevance. So, Santiment has taken the social volume of the entire digital asset sector and has then filtered it specifically using terms related to &#8220;buy&#8221; and &#8220;dip.&#8221; Here is a chart that shows the social volume related to this topic broken down for each of the major social media platforms: The value of the metric seems to have had a surge a couple of days back &#124; Source: Santiment on Twitter As displayed in the above graph, right after Bitcoin and the rest of the market had crashed due to the news of SEC suing Binance breaking out, the social volume for discussions related to these terms had observed a large spike on Reddit and Twitter. This would imply that users had become hyped and had started calling for buying the dip as soon as the price plunge had occurred. As it turned out, however, there wasn&#8217;t any price rebound just yet, and BTC rather continued to go down after the market had become excited. Related Reading: Bitcoin Crash To $25,800 Sends 6.5% Of Supply Into Loss As the coin continued to move mostly sideways over the next day, though, the discussions related to buying the dip started to die out. That&#8217;s when the actual rebound in the asset&#8217;s price took place, seemingly catching the mainstream crowd off guard. Historically, Bitcoin and other assets have usually been more likely to show moves in a direction opposite to the majority&#8217;s view. The more lopsided the crowd gets toward one direction, the more probable the market becomes to show the reverse kind of move. Because of this reason, the followers of &#8220;contrarian investing&#8221; believe that it&#8217;s best to buy whenever the crowd is fearful and ideal to sell when greed is king in the market. It seems like this Bitcoin rebound would have worked into the favor of these contrarian traders. BTC Price At the time of writing, Bitcoin is trading around $26,600, down 2% in the last week. BTC has declined since the recovery above $27,000 &#124; Source: BTCUSD on TradingView Featured image from Kanchanara on Unsplash.com, charts from TradingView.com, Santiment.net"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-06-07T12:52:43.000Z",
+    "title": "Bitcoin Resilient as Industry Remains Unfazed by SEC Chair Gary Gensler’s Actions; BTC Price of $30,000 by Weekend Is Next",
+    "url": "https://www.crypto-news-flash.com/bitcoin-resilient-as-industry-remains-unfazed-by-sec-chair-gary-genslers-actions-btc-price-of-30000-by-weekend-is-next/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-resilient-as-industry-remains-unfazed-by-sec-chair-gary-genslers-actions-btc-price-of-30000-by-weekend-is-next",
+    "description": "<p>The U.S. Securities and Exchange Commission (SEC) has initiated legal action against two of the largest global crypto exchanges, Binance and Coinbase. Trading at $27,200, Bitcoin witnessed a 4.3% increase over the last 24 hours. It has been a tumultuous week in the cryptocurrency industry. The U.S. Securities and Exchange Commission (SEC) has initiated legal [...]</p>\n<p>Der Beitrag <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com/bitcoin-resilient-as-industry-remains-unfazed-by-sec-chair-gary-genslers-actions-btc-price-of-30000-by-weekend-is-next/\">Bitcoin Resilient as Industry Remains Unfazed by SEC Chair Gary Gensler&#8217;s Actions; BTC Price of $30,000 by Weekend Is Next</a> erschien zuerst auf <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com\">Crypto News Flash</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-06-07T12:22:00.000Z",
-    "title": "Judge Dismisses Kim Kardashian’s Claims in EthereumMax Lawsuit",
-    "url": "https://coinedition.com/judge-dismisses-kim-kardashians-claims-in-ethereummax-lawsuit/",
-    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Kardashian_Crypto_Hype_Lawsuit_Advances_Over_Alleged_False_Ads-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Kardashian_Crypto_Hype_Lawsuit_Advances_Over_Alleged_False_Ads-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Kardashian_Crypto_Hype_Lawsuit_Advances_Over_Alleged_False_Ads-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Kardashian_Crypto_Hype_Lawsuit_Advances_Over_Alleged_False_Ads.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>Popular American media personality Kim Kardashian is facing hard luck in the Ethereum Max (EMAX) token controversy as a US District Judge rejected arguments by Kardashian&#8217;s lawyers that they should dismiss false advertising claims over her social media posts. According to a Bloomberg report, US District Judge Michael Fitzgerald stated that the investors who filed [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/judge-dismisses-kim-kardashians-claims-in-ethereummax-lawsuit/\">Judge Dismisses Kim Kardashian’s Claims in EthereumMax Lawsuit</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-06-07T13:05:00.000Z",
+    "title": "Crypto Will Eventually Defeat the Global Financial Order: Hoskinson",
+    "url": "https://coinedition.com/crypto-will-eventually-defeat-the-global-financial-order-hoskinson/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/In-case-anyone-missed-my-recent-comments-on-Chokepoint-2.0-2-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/In-case-anyone-missed-my-recent-comments-on-Chokepoint-2.0-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/In-case-anyone-missed-my-recent-comments-on-Chokepoint-2.0-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/In-case-anyone-missed-my-recent-comments-on-Chokepoint-2.0-2.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>Cardano co-founder Charles Hoskinson shared his take on troubling recent developments in the crypto space in a new YouTube video. In his video, he argued that cryptos are not investment products at their core, but are collectively a gateway to achieving liberation for the first time in humanity’s history.  Hoskinson said that the crypto industry [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-will-eventually-defeat-the-global-financial-order-hoskinson/\">Crypto Will Eventually Defeat the Global Financial Order: Hoskinson</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-06-07T12:40:00.000Z",
+    "title": "Meme Coins Avoid SEC Scrutiny: Will DOGE, SHIB, PEPE Rise?",
+    "url": "https://coinedition.com/meme-coins-avoid-sec-scrutiny-will-doge-shib-pepe-rise/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_Crackdown_Could_Revive_Memecoin_Craze_But_Will_Doge_Shib-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_Crackdown_Could_Revive_Memecoin_Craze_But_Will_Doge_Shib-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/SEC_Crackdown_Could_Revive_Memecoin_Craze_But_Will_Doge_Shib-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/SEC_Crackdown_Could_Revive_Memecoin_Craze_But_Will_Doge_Shib.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>The Securities and Exchange Commission (SEC) recently set their sights on the US crypto giant Coinbase. The lawsuit was filed on Tuesday in the Southern District of New York, and it accused Coinbase and its parent company, CGI, of breaking securities law by acting as an unregistered broker for its main crypto trading platform. In [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/meme-coins-avoid-sec-scrutiny-will-doge-shib-pepe-rise/\">Meme Coins Avoid SEC Scrutiny: Will DOGE, SHIB, PEPE Rise?</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

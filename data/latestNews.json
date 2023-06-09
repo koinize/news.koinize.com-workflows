@@ -1,51 +1,93 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-06-09T13:29:02.000Z",
+    "title": "The Meaning of Community in Crypto Discussed at Consensus 2023",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/06/09/the-meaning-of-community-in-crypto-discussed-at-consensus-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Consensus 2023 participants explored how user-focused design, cultural understanding, and gradual decentralization can drive mainstream crypto adoption"
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-06-09T13:23:51.000Z",
+    "title": "Defiant by Default: Why Regulators Must Understand, Not Police, DeFi",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/06/09/defiant-by-default-why-regulators-must-understand-not-police-defi/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Consensus 2023 visitors discussed DeFi's growth, its need to comply with regulations, and the challenges of balancing crypto-native concepts with traditional finance requirements."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-06-09T12:54:47.000Z",
-    "title": "Moody’s Drops Coinbase Outlook From Stable to Negative Over Medium Term",
-    "url": "https://decrypt.co/143941/moodys-drops-coinbase-outlook-from-stable-to-negative-over-medium-term",
-    "description": "Moody’s affirmed its previous Coinbase credit rating but changed its price outlook to negative for the next 12 to 18 months."
+    "date": "2023-06-09T13:19:07.000Z",
+    "title": "Custodia Lands Court Win After Judge Denies Fed Request to Dismiss ‘Master Account’ Lawsuit",
+    "url": "https://decrypt.co/143942/custodia-lands-court-win-judge-denies-fed-request-dismiss-master-account-lawsuit",
+    "description": "“We look forward to the court’s review of this power grab by the Fed,” said Custodia after a judge denied the Fed’s motion to dismiss the lawsuit."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-06-09T13:32:41.000Z",
+    "title": "Exodus’ profitability soars despite decline in revenues",
+    "url": "https://cryptoslate.com/exodus-wallet-profitability-soars-while-revenues-decline/",
+    "description": "<p>Exodus, a publicly listed company whose primary product is its self-custodial crypto wallet, recently announced its Q1 2023 financial results, which showed a year-over-year decrease of 13% in revenue, amounting to $13.3 million compared to Q1 2022. Despite the revenue decline, however, the company&#8217;s adjusted EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) increased to [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/exodus-wallet-profitability-soars-while-revenues-decline/\">Exodus&#8217; profitability soars despite decline in revenues</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-06-09T13:32:49.000Z",
+    "title": "ERD DeFi Lending Platform and USDE Stablecoin Unveiled at EDCON 2023",
+    "url": "https://www.cryptoglobe.com/latest/2023/06/erd-defi-lending-platform-and-usde-stablecoin-unveiled-at-edcon-2023/",
+    "description": "Podgorica, Montenegro, June 9th, 2023, Chainwire At EDCON 2023 in Montenegro, the Ethereum Reserve Dollar (“ERD”) team introduced their innovative decentralized lending platform and USDE stablecoin to the industry. ERD is a lending platform that allows users to borrow USDE, a USD-pegged stablecoin native to the platform, using liquid staking derivatives (LSDs) and blue-chip DeFi […]\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-06-09T13:26:21.000Z",
+    "title": "Cardano’s Bullish Strides: A Look at the Latest Development Update",
+    "url": "https://www.cryptoglobe.com/latest/2023/06/cardanos-bullish-strides-a-look-at-the-latest-development-update/",
+    "description": "The latest Cardano weekly development update, published on June 9, 2023, by Input Output (IOG), reveals some exciting progress in the Cardano ecosystem. The report highlights advancements in core technology, smart contracts, scaling, governance, and more. Here are the most bullish aspects of the report. The core technology teams have been diligently working on node, […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-09T12:42:24.000Z",
-    "title": "HKMA signals future implementation of retail central bank digital currency",
-    "url": "https://www.cryptopolitan.com/hkma-signals-future-implementation-of-retail-central-bank-digital-currency/",
-    "description": "The Hong Kong Monetary Authority (HKMA) has announced its plans to lay the foundation for implementing a retail central bank digital currency (CBDC). The decision comes after extensive research and feedback gathered through two rounds of market consultation, leading the HKMA to conclude that initiating the groundwork for a potential future implementation is necessary. The ... <a title=\"HKMA signals future implementation of retail central bank digital currency\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hkma-signals-future-implementation-of-retail-central-bank-digital-currency/\" aria-label=\"More on HKMA signals future implementation of retail central bank digital currency\">Read more</a>"
+    "date": "2023-06-09T13:16:52.000Z",
+    "title": "U.K. financial watchdog to ban promotional incentives",
+    "url": "https://www.cryptopolitan.com/uk-to-ban-promotional-incentives/",
+    "description": "In a move that could significantly impact the crypto industry, the U.K.&#8217;s Financial Conduct Authority (FCA) is set to implement new rules that would prohibit the distribution of free non-fungible tokens (NFTs) and cryptocurrencies through airdrops as part of promotional campaigns. An official at the FCA confirmed the impending restrictions, stating that after the rules ... <a title=\"U.K. financial watchdog to ban promotional incentives\" class=\"read-more\" href=\"https://www.cryptopolitan.com/uk-to-ban-promotional-incentives/\" aria-label=\"More on U.K. financial watchdog to ban promotional incentives\">Read more</a>"
   },
   {
-    "source": "NullTX",
-    "date": "2023-06-09T13:00:19.000Z",
-    "title": "Dogecoin holds $0.068 support Tradecurve and Solana price surges",
-    "url": "https://nulltx.com/dogecoin-holds-0-068-support-tradecurve-and-solana-price-surges/",
-    "description": "The value of the Solana cryptocurrency has risen even despite the number of transactions surrounding Solana NFTs declining sharply throughout the previous months. Dogecoin, on the other hand, has experienced a decline in value but is holding onto the $0.068 price point, and investors are bullish about its future. Tradecurve has surged by 25% in [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-06-09T13:00:00.000Z",
-    "title": "Bybit join forces with luxury watchmaker, Franck Muller, in a co-branding deal",
-    "url": "https://crypto.news/bybit-join-forces-with-luxury-watchmaker-franck-muller-in-a-co-branding-deal/",
-    "description": "Bybit, the world's third most visited Dubai-based crypto exchange, has announced a collaboration with Franck Muller, a Swiss luxury watch manufacturer to form a co-branding partnership"
+    "source": "NewsBTC",
+    "date": "2023-06-09T13:30:50.000Z",
+    "title": "Bearish BNB Signs Hint Downtrend May Persist Beyond Expectations",
+    "url": "https://www.newsbtc.com/news/bearish-bnb-signs-hint-downtrend/",
+    "description": "BNB is currently displaying bearish signs that suggest a possible continuation of the ongoing downtrend, surpassing the expectations of many investors.  Despite initial hopes for a swift recovery, the persistence of these bearish signs compels investors to explore the implications and brace for the possibility of a more prolonged downturn, provoking further scrutiny of the future of BNB and its impact on the wider cryptocurrency ecosystem. But what exactly are these signals telling us about the future of BNB? Related Reading: ApeCoin Holders Suffer Financial Pain As 95% Endure Negative Returns BNB Recent Downturn Coincides With Surge In Trading Volume According to a recent tweet by Santiment, BNB has experienced a notable downturn of -15% since June 4. The decline in BNB&#8217;s price coincided with a surge in its trading volume, reaching a level not seen in the past five weeks.  📉 #BinanceCoin has been hammered compared to the rest of the markets these past couple days. Now -15% since Sunday, social dominance has surged as the asset has become quite polarizing. $BNB trading volume is at 5-week high levels as well. https://t.co/E7sU59lkRe pic.twitter.com/FL0Er5vmQa — Santiment (@santimentfeed) June 7, 2023 This increase in trading activity suggests that market participants are actively engaging with BNB during its price decline, possibly seeking buying opportunities or adjusting their positions in response to the market movement. The higher trading volume indicates heightened market interest and the potential for increased price volatility as investors closely monitor BNB&#8217;s performance.  BNB market cap currently at $40.5 billion. Chart: TradingView.com This confluence of factors, with BNB experiencing a significant decrease in value alongside a surge in trading volume, presents a dynamic and evolving situation for traders and investors, warranting careful attention and analysis of the underlying market dynamics. Amidst the volatility of the cryptocurrency market, BNB&#8217;s price on CoinGecko stands at $260.59, reflecting a mere 0.8% drop in the past 24 hours. However, a more concerning trend emerges when we consider its seven-day decline, which amounts to a significant 15.1%. Source: Coingecko Open Interest Up, Whale Transactions Down Adding to the prevailing bearish sentiment surrounding BNB, its chart analysis reveals additional causes for concern. Notably, BNB&#8217;s open interest has gained upward momentum, indicating an influx of new or additional capital entering the market. This increase in open interest suggests that the current market trend may persist for a longer period, without any imminent reversal. Source: Coinalyze However, a bearish indication came from the Market Value Realized Value (MVRV) Ratio, which showed a considerable decrease. This decline suggests that the average profit or loss of BNB holders is currently lower, reflecting the downward pressure on the coin&#8217;s value. Related Reading: Pepecoin 15% Drop Sparks Speculation: Will Further Pain Follow? In line with the bearish trend, whale interest in BNB has also waned, evident from the decrease in the number of whale transactions. This decline in whale activity signifies a reduced involvement of large-scale investors or entities, potentially adding to the market&#8217;s cautious outlook.  Furthermore, BNB&#8217;s velocity, representing the frequency at which the coin is used in transactions within a given timeframe, registered a decline. This decrease in velocity suggests that BNB is being utilized less frequently for transactions, possibly indicating a decrease in overall market activity. Featured image from Tradedog"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-09T13:00:24.000Z",
-    "title": "Cronos (CRO), Lido DAO (LDO) and DigiToads (TOADS) Continue to Grow As Markets Rallies",
-    "url": "https://www.crypto-news-flash.com/cronos-cro-lido-dao-ldo-and-digitoads-toads-continue-to-grow-as-markets-rallies/?utm_source=rss&utm_medium=rss&utm_campaign=cronos-cro-lido-dao-ldo-and-digitoads-toads-continue-to-grow-as-markets-rallies",
-    "description": "<p>The crypto market is rallying, with Cronos, Lido Dao, and DigiToads at the forefront of the race. With strong fundamentals and huge growth potential, these three projects have all it takes to become new investors’ darlings these following months and generate exponential growth. Read on to find out why you should consider investing in DigiToads, [...]</p>\n<p>Der Beitrag <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com/cronos-cro-lido-dao-ldo-and-digitoads-toads-continue-to-grow-as-markets-rallies/\">Cronos (CRO), Lido DAO (LDO) and DigiToads (TOADS) Continue to Grow As Markets Rallies</a> erschien zuerst auf <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com\">Crypto News Flash</a>.</p>\n"
+    "date": "2023-06-09T13:30:46.000Z",
+    "title": "Dogecoin Untold Story & Hollywood X PEPE $HXPE Presale Relevance",
+    "url": "https://www.crypto-news-flash.com/dogecoin-untold-story-hollywood-x-pepe-hxpe-presale-relevance/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-untold-story-hollywood-x-pepe-hxpe-presale-relevance",
+    "description": "<p>Cryptocurrencies have, undeniably, become an essential part of the modern financial ecosystem, with several digital assets gaining significant importance. While Bitcoin may have paved the way, it is the story of Dogecoin, a coin initially established as a joke, that has been truly captivating. Today, we&#8217;re also looking at Hollywood X PEPE ($HXPE), another rising [...]</p>\n<p>Der Beitrag <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com/dogecoin-untold-story-hollywood-x-pepe-hxpe-presale-relevance/\">Dogecoin Untold Story &#038; Hollywood X PEPE $HXPE Presale Relevance</a> erschien zuerst auf <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com\">Crypto News Flash</a>.</p>\n"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-09T13:00:14.000Z",
-    "title": "Bullish Momentum Building: Bitcoin (BTC) Poised for Major Move, Is $30,000 Next? Report",
-    "url": "https://www.crypto-news-flash.com/bullish-momentum-building-bitcoin-btc-poised-for-major-move-is-30000-next-report/?utm_source=rss&utm_medium=rss&utm_campaign=bullish-momentum-building-bitcoin-btc-poised-for-major-move-is-30000-next-report",
-    "description": "<p>Bitcoin has faced significant hurdles in recent times, fueling erratic price action. Despite this, top market analyst foresees a bright future ahead for the cryptocurrency. Bitcoin (BTC), the world&#8217;s leading crypto, has been experiencing mild turbulence in recent weeks. However, as we approach the midpoint of 2023, there are hints of bullish momentum building, implying [...]</p>\n<p>Der Beitrag <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com/bullish-momentum-building-bitcoin-btc-poised-for-major-move-is-30000-next-report/\">Bullish Momentum Building: Bitcoin (BTC) Poised for Major Move, Is $30,000 Next? Report</a> erschien zuerst auf <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com\">Crypto News Flash</a>.</p>\n"
+    "date": "2023-06-09T13:26:33.000Z",
+    "title": "Breaking News: Terra Classic’s Massive v2.1.0 Parity Upgrade Proposal Triumphs, Fueling Speculation of LUNC Surging to $1",
+    "url": "https://www.crypto-news-flash.com/breaking-news-terra-classics-massive-v2-1-0-parity-upgrade-proposal-triumphs-fueling-speculation-of-lunc-surging-to-1/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-news-terra-classics-massive-v2-1-0-parity-upgrade-proposal-triumphs-fueling-speculation-of-lunc-surging-to-1",
+    "description": "<p>The long awaited Parity Upgrade of the Terra Classic (LUNC) protocol has finally been passed. Billed to introduced a plethora of beneficial features, the vote received almost a 100% support to be passed. Terra Classic&#8217;s v2.1.0 Parity upgrade proposal submitted by the core developer group Joint L1 Task Force (L1TF) has finally been passed.  The [...]</p>\n<p>Der Beitrag <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com/breaking-news-terra-classics-massive-v2-1-0-parity-upgrade-proposal-triumphs-fueling-speculation-of-lunc-surging-to-1/\">Breaking News: Terra Classic&#8217;s Massive v2.1.0 Parity Upgrade Proposal Triumphs, Fueling Speculation of LUNC Surging to $1</a> erschien zuerst auf <a rel=\"nofollow\" href=\"https://www.crypto-news-flash.com\">Crypto News Flash</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2023-06-09T13:30:12.000Z",
+    "title": "Top 4 China & Hong Kong Coins Under $1 -Part 3",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-4-china-hong-kong-coins-under-1-part-3/",
+    "description": "<p>China is all over the news, and that’s because crypto activities have returned to the region. We’ve recently focused on some of the coins we believe have good potential that is currently under $1.  Hong Kong’s new regulatory structure allows people to trade cryptocurrencies. We’ve seen serious activity over the last few days. So finding [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-4-china-hong-kong-coins-under-1-part-3/\">Top 4 China &#038; Hong Kong Coins Under $1 -Part 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-06-09T12:56:00.000Z",
-    "title": "Crypto Firms Seek Alternative Banking Amid Regulatory Scrutiny",
-    "url": "https://coinedition.com/crypto-firms-seek-alternative-banking-amid-regulatory-scrutiny/",
-    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/A_New_Crypto_Banking_System_Arises_Under_the_Shadow_of_a_Regulatory-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/A_New_Crypto_Banking_System_Arises_Under_the_Shadow_of_a_Regulatory-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/A_New_Crypto_Banking_System_Arises_Under_the_Shadow_of_a_Regulatory-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/A_New_Crypto_Banking_System_Arises_Under_the_Shadow_of_a_Regulatory.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>Cryptocurrency firms are turning to a new banking system amid increasing regulatory scrutiny. In the U.S., smaller lenders now provide an alternative for crypto startups after the collapse of Silvergate Capital Corp. and Signature Bank. Customers Bancorp Inc., Pennsylvania, is one of the favorite destinations for many crypto firms. The search for alternative banking systems [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-firms-seek-alternative-banking-amid-regulatory-scrutiny/\">Crypto Firms Seek Alternative Banking Amid Regulatory Scrutiny</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-06-09T13:38:00.000Z",
+    "title": "Binance Prepares to Embrace Europe’s New Regulatory Certainty, MiCA",
+    "url": "https://coinedition.com/binance-prepares-to-embrace-europes-new-regulatory-certainty-mica/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Important_dates_for_the_industry_coming_up_MiCA_has_now_been_published-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Important_dates_for_the_industry_coming_up_MiCA_has_now_been_published-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Important_dates_for_the_industry_coming_up_MiCA_has_now_been_published-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Important_dates_for_the_industry_coming_up_MiCA_has_now_been_published.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>In light of the recent regulatory challenges faced by Binance with U.S. regulators, the crypto exchange is now focusing on implementing the Markets in Crypto-Assets (MiCA) regulations in Europe. Binance CEO Changpeng Zhao, popularly known as CZ, took to Twitter to highlight the publication of MiCA in the official journal of the EU, which provides [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/binance-prepares-to-embrace-europes-new-regulatory-certainty-mica/\">Binance Prepares to Embrace Europe’s New Regulatory Certainty, MiCA</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-06-09T13:19:00.000Z",
+    "title": "Pattern Emerges Over the SEC’s Crypto Exchange Clampdown",
+    "url": "https://coinedition.com/pattern-emerges-over-the-secs-crypto-exchange-clampdown/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/This_chart_shows_the_number_of_traded_instruments_listed_on_U_S-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/This_chart_shows_the_number_of_traded_instruments_listed_on_U_S-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/This_chart_shows_the_number_of_traded_instruments_listed_on_U_S-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/This_chart_shows_the_number_of_traded_instruments_listed_on_U_S.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>Data analysis platform Kaiko has observed a pattern in the clampdown on US-based crypto exchanges. Kaiko’s observation suggests regulators in the US target flourishing crypto exchanges. In a tweet, Kaiko indicated that the Securities and Exchange Commission (SEC) first charged Bittrex Exchange over regulatory issues. At the time of the charge, Bittrex had the highest [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/pattern-emerges-over-the-secs-crypto-exchange-clampdown/\">Pattern Emerges Over the SEC&#8217;s Crypto Exchange Clampdown</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

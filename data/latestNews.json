@@ -1,128 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-06-14T14:00:00.000Z",
-    "title": "Blockchain Developer Platform Alchemy Releases AI-Powered Tools for Web3 Builders",
-    "url": "https://www.coindesk.com/tech/2023/06/14/blockchain-developer-platform-alchemy-releases-ai-powered-tools-for-web3-builders/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "AlchemyAI will launch as two new products – an in-app chatbot and a ChatGPT plugin – to help web3 developers access data faster and speed up product development."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-06-14T14:00:00.000Z",
-    "title": "Strike Expands Lightning-Powered Cross-Border Payments to Mexico",
-    "url": "https://www.coindesk.com/business/2023/06/14/strike-expands-lightning-powered-cross-border-payments-to-mexico/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The company says Mexico is the largest market for remittances from the U.S."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-06-14T13:58:43.000Z",
-    "title": "Binance.US, SEC Ordered to Start Negotiations Wednesday Amid Asset Freeze Tussle",
-    "url": "https://www.coindesk.com/policy/2023/06/14/binanceus-sec-ordered-to-start-negotiations-wednesday-amid-asset-freeze-tussle/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "A U.S. federal judge on Tuesday rejected SEC's request to order a freeze on Binance.US' assets – provided the parties could agree on limits."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-06-14T14:00:00.000Z",
-    "title": "Interoperability Protocol Connext Labs Raises $7.5M at $250M Valuation",
-    "url": "https://www.coindesk.com/business/2023/06/14/interoperability-protocol-connext-labs-raises-75m-at-250m-valuation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Connext said it is \"building the HTTP of Web3\" to create a communication layer across different blockchain networks."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-06-14T13:49:18.000Z",
-    "title": "Crypto Firms Should Start Preparing for MiCA ‘Now–Maybe Even Yesterday’: Chainalysis",
-    "url": "https://decrypt.co/144572/crypto-firms-should-start-preparing-mica-now-maybe-even-yesterday-chainalysis",
-    "description": "MiCA comes into effect next year, but that doesn't mean crypto firms should wait to become compliant, said Chainalysis' EU policy lead."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-06-14T14:00:00.000Z",
-    "title": "Here’s what happened to Arbitrum post-airdrop",
-    "url": "https://cointelegraph.com/news/arbitrum-post-airdrop-report-nansen",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/45a8a66c-c7c6-4d4a-b5b9-9064777b8a53.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The number of new wallets making initial transactions has gradually decreased post-airdrop, indicating a decline in new user adoption following the event.</p>\n                    <p><p>On-chain analytics firm Nansen released a new report detailing what happened to the Arbitrum network after its popular airdrop event. From sustaining the surge of users and transactions to a decline in new wallets conducting their first transaction, the analytics company analyzed the impact of the airdrop on the chain’s ecosystem. </p><p>On March 23, the Arbitrum Foundation <a href=\"https://cointelegraph.com/news/arbitrum-token-finds-its-way-to-otc-market-before-the-airdrop\">airdropped its new token</a> to eligible community members. According to the organization, Arbitrum (ARB) tokens marked its shift into a <a href=\"https://cointelegraph.com/learn/what-is-a-dao\">decentralized autonomous organization (DAO)</a>. </p><p>More than two months after the airdrop, Nansen analyzed the blockchain’s performance in various metrics on-chain. Within a new report, the analytics company highlighted that the influx of on-chain activities had been sustained. </p><p>According to Nansen’s data, transactions and daily users remained at historically high levels even after the airdrop. </p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-06/f1b71fb6-969f-4170-a69f-c1d3600d5d89.png\"  /><figcaption style=\"text-align: center;\"><em>Daily transaction count on Optimism, Ethereum and Arbitrum in the past six months. Source: Nansen</em></figcaption></figure><p>In addition, the data also showed an upward trend in the increase in gas spending on Arbitrum, showcasing growth in the chain’s usage. The value of transactions and transfers also exhibited similar patterns. </p><p>While many metrics showed significant growth for the ecosystem, the number of wallets making their first transactions slowly declined after the airdrop. This suggests that the number of new users coming in has dropped since the popular event. </p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/arbitrum-airdrop-hacked-vanity-addresses-used-to-siphon-500k\"><strong><em>Arbitrum airdrop: Hacked vanity addresses used to siphon $500K</em></strong></a></p><p>Despite this, the Arbitrum network was able to retain a significant share of bridging volume from Ethereum. Data showed that the gross volume of Ethereum bridging to Arbitrum has stayed strong after the airdrop, with Arbitrum keeping the second-largest spot just after Polygon.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-06/41000195-5946-4909-a5dd-367deec3ad55.png\"  /><figcaption style=\"text-align: center;\"><em>Net bridging value from Ethereum to Arbitrum in USD. Source: Nansen </em></figcaption></figure><p>The Arbitrum airdrop was one of the most-hyped crypto events in the first half of 2023. It <a href=\"https://cointelegraph.com/news/arbitrum-s-arb-token-signifies-the-start-of-airdrop-season-here-are-5-to-look-out-for\">sparked the start of an airdrop season</a> and allowed some airdrop hunters to collect tokens and <a href=\"https://cointelegraph.com/news/arbitrum-airdrop-sees-1-500-addresses-consolidate-3-3m-into-two-wallets\">consolidate assets worth up to $3.3 million</a> into two wallets. </p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/bitcoin-net-zero-2050-climate-change/\"><strong><em>Bitcoin is on a collision course with ‘Net Zero’ promises</em></strong></a></p></p>\n                \n            "
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-06-14T13:46:16.000Z",
-    "title": "Gensler is laying waste to tech/crypto industry in US",
-    "url": "https://cryptodaily.co.uk/2023/06/gensler-is-laying-waste-to-tech-crypto-industry-in-us",
-    "description": "<p>According to Tim Draper, billionaire venture capitalist, and exponent of cryptocurrencies, the SEC Chair Gary Gensler is stifling the crypto sector leading to a potential long-term detrimental effect on technology in the US.</p>\n<p>Gensler said the following at a recent Fintech conference, leaving no doubt on his views on crypto:</p>\n\n<p>&ldquo;hucksters, fraudsters, scam artists, Ponzi schemes. The public left in line at the bankruptcy court&rdquo;.&nbsp;</p>\n\n<p>Tim Draper remarked in reply to the above in a Fox Business interview:</p>\n\n<p>&ldquo;Weak regulators spread fear, and strong regulators spread opportunity.&rdquo;</p>\n\n<p>Draper said that the problem was that the SEC was spreading fear, and that the innovative projects in crypto were leaving the country.</p>\n<p>He said that the SEC&rsquo;s regulation by enforcement was causing a tech flight out of the country, and that it was far better that all the innovation that crypto projects were providing should stay in the United States.</p>\n<p>The entrepreneur remarked that the tech was fleeing abroad to Dubai, Singapore, Northern Europe, South America and other jurisdictions across the world.</p>\n<p>His view is that one of the main reasons for the flight is the impact that the Howey test has on classifying cryptocurrencies as securities. He believes that this test is too old to have relevance in the crypto industry, and that it needs to be regulated &ldquo;in a new way&rdquo;.</p>\n<p>Draper accused the US regulatory agencies of spreading fear on new technologies such as crypto and AI, saying:</p>\n\n<p>&ldquo;What&rsquo;s America going to look like in 40 years? It&rsquo;s going to be a total wasteland. There&rsquo;s going to be no technology. Look, crypto is coming. AI is coming. What is this spreading fear about these new technologies? They&rsquo;re great for us.&rdquo;</p>\n\n<p>On both crypto and AI Draper stated that crypto is disrupting banking, insurance, real estate, government, and much more. He suggests that AI will transform how people are educated, and will carry out all the mundane tasks.</p>\n<p>He says that all this cannot be regulated out of the country so that the US loses all this innovation. At the end of the interview, Draper made the following comment which spells out his opposition to heavy-handed regulation:</p>\n\n<p>&ldquo;If you have a command and control government that tells everybody what to do, that shrinks the growth rate to almost zero.&rdquo;&nbsp;</p>\n\n<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-06-14T14:00:25.000Z",
-    "title": "Bitcoin Mining Difficulty Reaches Unprecedented Highs Amidst Challenging Market Conditions",
-    "url": "https://news.bitcoin.com/bitcoin-mining-difficulty-reaches-unprecedented-highs-amidst-challenging-market-conditions/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Mining Difficulty Reaches Unprecedented Highs Amidst Challenging Market Conditions\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/diff.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Wednesday, June 14, 2023, at block height 794,304, the Bitcoin network recorded its third consecutive mining difficulty increase since May 18. The mining difficulty climbed by 2.18%, bringing the overall difficulty to another unprecedented high at 52.35 trillion. Bitcoin Mining Difficulty Hits All-Time High Amidst Price Dip Bitcoin&#x2019;s mining difficulty experienced yet another surge [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2023-06-14T14:14:31.000Z",
+    "title": "Another South Korean crypto platform temporarily suspends withdrawals",
+    "url": "https://cryptoslate.com/another-south-korean-crypto-platform-temporarily-suspends-withdrawals/",
+    "description": "<p>South Korean crypto lending platform Delio announced on June 14 that it would temporarily halt withdrawals by 18:30 (KST) today to protect customers&#8217; assets. Decision blamed on Haru situation The company attributed its decision to the heightened market volatility following Haru Invest&#8217;s suspension of deposits and withdrawal services. On June 13, Haru halted transactions on [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/another-south-korean-crypto-platform-temporarily-suspends-withdrawals/\">Another South Korean crypto platform temporarily suspends withdrawals</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-14T14:00:51.000Z",
-    "title": "Ripple visibility boosted in Australia as BTC Markets introduce XRP/USDT pair",
-    "url": "https://www.cryptopolitan.com/ripple-visibility-boosted-in-australia-as-btc-markets-introduce-xrp-usdt-pair/",
-    "description": "Australia&#8217;s leading cryptocurrency exchange, BTC Markets, has recently expanded its trading offerings. This expansion came as a new XRP/USDT trading pair. This development will likely increase XRP&#8217;s visibility in the Australian crypto landscape. Additionally, it offers a new trading option for BTC Markets&#8217; users. Since its establishment in 2013, BTC Markets has traditionally offered AUD ... <a title=\"Ripple visibility boosted in Australia as BTC Markets introduce XRP/USDT pair\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ripple-visibility-boosted-in-australia-as-btc-markets-introduce-xrp-usdt-pair/\" aria-label=\"More on Ripple visibility boosted in Australia as BTC Markets introduce XRP/USDT pair\">Read more</a>"
+    "date": "2023-06-14T14:17:25.000Z",
+    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
+    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
+    "description": "BTC Price Predictions 2023-2032 The $2Million bet by ex-CTO of Coinbase has been the subject of much discussion and debate in the crypto world. At the heart of the controversy is Srinivasan’s prediction that Bitcoin will reach $1 million per coin within just 90 days. This Bitcoin Price Prediction intends to shed light on the ... <a title=\"Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-price-forecast/\" aria-label=\"More on Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\">Read more</a>"
   },
   {
-    "source": "NullTX",
-    "date": "2023-06-14T14:00:57.000Z",
-    "title": "Savvy Crypto Investors Are Looking for Gems and QUBE Stands Out",
-    "url": "https://nulltx.com/savvy-crypto-investors-are-looking-for-gems-and-qube-stands-out/",
-    "description": "With the ongoing growth and expansion of the crypto market, savvy investors are perpetually searching for undiscovered opportunities that promise extraordinary gains. Among the multitude of digital assets, InQubeta (QUBE) is garnering increasing attention and stands out for its alternative investment options. This innovative DeFi project has risen to prominence, standing out as a potential [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-06-14T14:00:37.000Z",
-    "title": "“Bitcoin Has Never Had a Stronger Use case” According to Avorak AI CEO",
-    "url": "https://nulltx.com/bitcoin-has-never-had-a-stronger-use-case-according-to-avorak-ai-ceo/",
-    "description": "The CEO of Avorak AI, a fast-rising AI crypto utility solution to blockchains, made observations on Bitcoin’s current and future use cases. According to the CEO, Bitcoin has never had a stronger use case than it does today. This assertion underscores the growing importance and relevance of the world&#8217;s leading cryptocurrency by market cap. Bitcoin [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-06-14T14:00:00.000Z",
-    "title": "AI is not ChatGPT, InQubeta brings all innovations under one roof",
-    "url": "https://crypto.news/ai-is-not-chatgpt-inqubeta-brings-all-innovations-under-one-roof/",
-    "description": "In a world where AI models like ChatGPT have captivated audiences with language capabilities, InQubeta aims to redefine what AI can achieve"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-06-14T13:56:31.000Z",
-    "title": "Prime Trust subsidiary files for bankruptcy in the US ",
-    "url": "https://crypto.news/prime-trust-subsidiary-files-for-bankruptcy-in-the-us/",
-    "description": "Banq, a subsidiary of the Nevada-based crypto custodian Prime Trust, has filed for bankruptcy in a US bankruptcy court in Nevada."
+    "source": "NewsBTC",
+    "date": "2023-06-14T14:11:11.000Z",
+    "title": "Bitcoin (BTC) Stored On Exchanges Plummets Amid Regulatory Uncertainties: Santiment",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-btc-stored-on-exchanges-plummets-amid-regulatory/",
+    "description": "So far, the supply of Bitcoin (BTC) held on exchanges has recently seen a significant decrease, reaching levels last observed in February 2018. This trend underscores a developing pattern in the crypto market &#8211; traders and investors preferring to secure their digital assets outside of these platforms. Data from the blockchain intelligence firm, Santiment, confirms this trend, as reported in a recent tweet. It revealed that the decline in Bitcoin&#8217;s supply on exchanges could be attributed to the prevailing uncertainty associated with the legal actions taken by the Securities and Exchange Commission (SEC) against cryptocurrency giants, Binance and Coinbase. Regulatory Tensions Drive Bitcoin Off Exchanges According to Santiment, the ongoing SEC lawsuits against major exchange platforms have prompted a shift in the dynamics of Bitcoin storage. The firm maintains that as long as these lawsuits persist, Bitcoin holders will continue to seek safer self-custody options, minimizing their reliance on exchange platforms. As Santiment pointed out: Bitcoin&#8217;s exchange supply has now fallen to its lowest level since February 2018. Traders continue moving BTC to self-custody during the uncertainty surrounding Binance and Coinbase. As long as these SEC lawsuits loom, this trend should continue. Notably, the latest reports reveal that Amy Berman Jackson, a District Judge in the United States, has instructed the Securities and Exchange Commission (SEC) and Binance.US to find common ground concerning the original order to freeze the exchange&#8217;s assets. Related Reading: Data Reveals Short-Term Bitcoin Holders Refuse To Sell Despite SEC Crackdown Highlighting the broader implications of an outright shutdown, Jackson noted in a hearing on June 13: A total shutdown would yield considerable repercussions, not only for the firm but also for the overall digital asset market. Thus far, it appears both parties are willing to collaborate on a plan that could enable the exchange to evade the comprehensive freezing of its assets. Market Reactions Amid Ongoing Litigation While the legal issues unfold, the crypto market has not remained untouched. At the time of writing, Bitcoin was trading at $25,990, marking a modest drop of 0.5% in the last 24 hours and a further plunge of 3.1% in the past seven days. Bitcoin’s trading volume has also recorded a significant plunge from $23.6 billion last Wednesday to $9.1 billion in the past 24 hours indicating less trading activity. The asset’s market capitalization has seen a more than $10 billion loss in the past week, causing BTC’s market cap has plummeted from $518 billion last Wednesday to $503 billion as of today. Related Reading: Bitcoin Slips Below $26,000, Triggers Over $300 Million In Liquidations Furthermore, the litigation cloud hanging over the crypto giants represents more than a fleeting problem for the crypto industry. It introduces a level of uncertainty that could disrupt the usual flow of operations and, as it is being witnessed, influence the way Bitcoin is stored. Nonetheless, despite these challenges, the tenacity of Bitcoin holders in securing their assets exhibits the resilience of the cryptocurrency industry. As the market navigates the ever-evolving regulatory landscape, market dynamics such as these provide crucial insights into the coping mechanisms adopted by traders and investors. Featured image from iStock, Chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-14T14:01:45.000Z",
-    "title": "U.S. DOJ Reveals Identities of Mt. Gox Hackers, Charging Russian Nationals for Laundering Stolen Bitcoins and Operating Illicit Crypto Exchange",
-    "url": "https://www.crypto-news-flash.com/u-s-doj-reveals-identities-of-mt-gox-hackers-charging-russian-nationals-for-laundering-stolen-bitcoins-and-operating-illicit-crypto-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-doj-reveals-identities-of-mt-gox-hackers-charging-russian-nationals-for-laundering-stolen-bitcoins-and-operating-illicit-crypto-exchange",
-    "description": "Mt.Gox hackers have finally been charged by the US DoJ. The hackers are two Russian Nationals known for deep influence in the early days of Bitcoin. In a significant development for the crypto industry, the United States Department of Justice (DOJ) has made public the identities of the hackers involved in the infamous Mt. Gox [...]"
+    "date": "2023-06-14T14:23:33.000Z",
+    "title": "Tokenizing Assets & Creativity: A Journey into HedgeUp (HDUP) NFT Ecosystem launch",
+    "url": "https://www.crypto-news-flash.com/tokenizing-assets-creativity-a-journey-into-hedgeup-hdup-nft-ecosystem-launch/?utm_source=rss&utm_medium=rss&utm_campaign=tokenizing-assets-creativity-a-journey-into-hedgeup-hdup-nft-ecosystem-launch",
+    "description": "In a time where blockchain-based technologies are disrupting traditional financial landscapes, HedgeUp (HDUP) steps forward, making waves with its innovative approach to asset tokenization and creativity. As HedgeUp (HDUP) prepares for the imminent launch of its Non-Fungible Token (NFT) ecosystem, it brings a fascinating blend of finance and art, defining a new frontier in the [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-14T14:00:41.000Z",
-    "title": "Filecoin, Vechain Prices Down Over 12%, Investors Accumulating Tradecurve At Record Rates",
-    "url": "https://www.crypto-news-flash.com/filecoin-vechain-prices-down-over-12-investors-accumulating-tradecurve-at-record-rates/?utm_source=rss&utm_medium=rss&utm_campaign=filecoin-vechain-prices-down-over-12-investors-accumulating-tradecurve-at-record-rates",
-    "description": "Filecoin is one of several DeFi projects the SEC is now trying to classify as a security. Although Filecoin has disputed this new classification, its value has dropped significantly in the last five days. VeChain is also struggling with price decreases as the project struggles to regain its momentum.  With both Filecoin and VeChain now [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-06-14T13:55:07.000Z",
-    "title": "KyberSwap AMA with Imran Mohamed",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/kyberswap-ama-with-imran-mohamed/",
-    "description": "<p>In May 2023, Kyberswap announced its latest updates. From KyberSwap Elastic comeback to the addition of more liquidity in DEXs.  Source: Twitter Altcoin Buzz General Manager Anindya (Ani) Baidya anchored the KyberSwap AMA session with Imran Mohamed, CEO of KyberSwap. Segment 1: Introduction Q &#8211; It’s been almost 10 months since we last spoke. Can [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/kyberswap-ama-with-imran-mohamed/\">KyberSwap AMA with Imran Mohamed</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-06-14T14:17:51.000Z",
+    "title": "Chainlink Whale Activity Surges to 2023 High Following Significant Price Drop – Is Now the Time to Invest? Report",
+    "url": "https://www.crypto-news-flash.com/chainlink-whale-activity-surges-to-2023-high-following-significant-price-drop-is-now-the-time-to-invest-report/?utm_source=rss&utm_medium=rss&utm_campaign=chainlink-whale-activity-surges-to-2023-high-following-significant-price-drop-is-now-the-time-to-invest-report",
+    "description": "Chainlink (LINK) has seen a massive embrace following its latest price plunge. Analysts now have a bullish projection for LINK in the short and long term. According to the blockchain analytic platform Santiment, several big money investors are currently leveraging the sudden price drop of Chainlink (LINK) to expand their portfolio.  The cryptocurrency is presently [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-06-14T13:55:00.000Z",
-    "title": "BTC and ETH Offer Investors Protection While Market Tumbles",
-    "url": "https://coinedition.com/btc-and-eth-offer-investors-protection-while-market-tumbles/",
-    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/BTC-and-ETH-update-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/BTC-and-ETH-update-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/BTC-and-ETH-update-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/BTC-and-ETH-update.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>IntoTheBlock, the on-chain analysis firm, noted in a recent tweet that the majority of holders of many crypto assets are currently at a loss. According to the post, investors of some cryptos are at a more than 90% loss due to the recent tumble in the market. Nevertheless, there are cryptos that are weathering the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/btc-and-eth-offer-investors-protection-while-market-tumbles/\">BTC and ETH Offer Investors Protection While Market Tumbles</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-06-14T14:25:00.000Z",
+    "title": "Michael Saylor Claims Regulators Remain Unfavorable Toward Bitcoin",
+    "url": "https://coinedition.com/michael-saylor-claims-regulators-remain-unfavorable-toward-bitcoin/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/071-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/071-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/071-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/071.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>In a recent interview on Bloomberg, Michael Saylor, CEO of MicroStrategy, shared his perspective on the regulatory landscape for cryptocurrencies, particularly Bitcoin. MicroStrategy Incorporated is a company based in the United States that offers business intelligence (BI), mobile software, and cloud-based services. Saylor expressed his belief that regulators, including Gary Gensler at the U.S. Securities [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/michael-saylor-claims-regulators-remain-unfavorable-toward-bitcoin/\">Michael Saylor Claims Regulators Remain Unfavorable Toward Bitcoin</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-06-14T13:45:16.000Z",
-    "title": "Fantom (FTM) Price Prediction 2023-2030: Will FTM Reach $1 Soon?",
-    "url": "https://coinedition.com/fantom-ftm-price-prediction/",
-    "description": "<img width=\"150\" height=\"150\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Fantom-FTM-Price-Prediction-150x150.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Fantom-(FTM)-Price-Prediction 2022\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" /><p>Users and developers are seeking more smart contract platforms as the demand for blockchain continues to rise. Fantom is one such smart contract platform that promises “high-performance, scalable, customizable, and secure” features for everyone.&#160; One of the unique attributes of Fantom is that it is designed to address several limitations of existing blockchain platforms. Furthermore, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/fantom-ftm-price-prediction/\">Fantom (FTM) Price Prediction 2023-2030: Will FTM Reach $1 Soon?</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-06-14T14:30:58.000Z",
+    "title": "Trading Giant eToro Halts Purchases of Polygon (MATIC), Algorand (ALGO) and Two Other Altcoins Amid SEC Crackdown",
+    "url": "https://dailyhodl.com/2023/06/14/trading-giant-etoro-halts-purchases-for-polygon-matic-algorand-algo-and-two-other-altcoins-amid-sec-crackdown/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/06/Trading-Giant-eToro-Halts-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Popular social trading platform eToro is halting purchases of layer-2 scaling solution Polygon (MATIC), smart contract platform Algorand (ALGO) and two other altcoins after a US regulator labeled them as securities. In a new announcement, eToro says that US customers will no longer have the ability to purchase ALGO, MATIC as well as gaming metaverse [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/06/14/trading-giant-etoro-halts-purchases-for-polygon-matic-algorand-algo-and-two-other-altcoins-amid-sec-crackdown/\">Trading Giant eToro Halts Purchases of Polygon (MATIC), Algorand (ALGO) and Two Other Altcoins Amid SEC Crackdown</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

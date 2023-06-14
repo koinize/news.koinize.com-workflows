@@ -1,65 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-06-14T18:04:07.000Z",
-    "title": "Fed Leaves Policy on Hold, Ending Long String of Rate Hikes",
-    "url": "https://www.coindesk.com/business/2023/06/14/fed-leaves-policy-on-hold-ending-long-string-of-rate-hikes/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The U.S. central bank signaled it might restart rate hikes in coming months if inflation doesn't continue to recede."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-06-14T17:45:46.000Z",
-    "title": "Gary Gensler’s Catch-22 Vision of ‘Regulated’ Crypto Brokers",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/06/14/gary-genslers-catch-22-vision-of-regulated-crypto-brokers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The SEC-registered trading platform Prometheum pitched the House on Gary Gensler's vision. But skeptical legislators highlighted that the platform won't offer major assets, including Bitcoin."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-06-14T17:45:00.000Z",
-    "title": "South Korean Bitcoin lending platform Delio pauses withdrawals",
-    "url": "https://cointelegraph.com/news/south-korean-bitcoin-lending-platform-delio-pauses-withdrawals",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/105541a9-f285-42e6-aef9-ec5b4c17da3b.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The virtual asset manager and lending platform suspended withdrawals following challenges at Haru Invest, a similar entity. </p>\n                    <p><p>Delio, a virtual asset manager and lending platform based in South Korea, has <a href=\"https://delio.io/notice/noticeDetail?id=376&amp;p=0\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> the temporary suspension of customer withdrawals “in order to safely protect the assets of customers currently in custody.”</p><p>The company made the decision in response to the <a href=\"https://cointelegraph.com/news/crypto-yield-platform-haru-suspends-transfers-after-investigation\">recent suspension of digital asset deposits and withdrawals</a> at Haru Invest, which has led to heightened market volatility and increased confusion among investors within the region. According to Delio, the suspension will remain in effect until “the situation and its aftermath are resolved.” A translation of the announcement read: </p><blockquote>“In order to safely protect the assets of customers currently in custody, Delio will inevitably suspend withdrawals temporarily as of June 14, 2023, 18:30.\"</blockquote><p>Delio has reassured its clients that it will do its best to protect their assets “while quickly grasping the facts and aftermath related to this situation.” The company also pledged to provide regular updates through announcements regarding the forthcoming facts, measures taken to safeguard customer assets and other related developments.</p><p><em><strong>Related: <a href=\"https://cointelegraph.com/news/sec-lawsuit-against-binance-stalls-gopax-acquisition-deal-in-south-korea\">SEC lawsuit against Binance stalls Gopax acquisition deal in South Korea</a></strong></em></p><p>On June 13, South Korean yield platform Haru Invest announced the suspension of deposits and withdrawals due to concerns over potentially false information provided by a consignment operator during an internal inspection. The challenges faced by Haru Invest have the potential to create a ripple effect on other platforms in South Korea, as Delio is already experiencing.</p><p>Founded in 2018, Delio reportedly holds an estimated $1 billion in Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), $200 million in Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) and approximately $8.1 billion in altcoins, data from its website revealed. </p><p><strong><em>Magazine: <a href=\"https://cointelegraph.com/magazine/binance-humilated-on-china-tv-hong-kong-100k-crypto-workers-chinese-ai-unicorn-asia-express/\">Binance humiliated, HK needs 100K crypto workers, China’s AI unicorn: Asia Express</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-06-14T18:00:11.000Z",
-    "title": "Judge Postpones Asset Freeze as Binance US and SEC Agree to Work on Deal",
-    "url": "https://news.bitcoin.com/judge-postpones-asset-freeze-as-binance-us-and-sec-agree-to-work-on-deal/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Judge Postpones Asset Freeze as Binance US and SEC Agree to Work on Deal\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_1499682773.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />A judge in Washington decided to give Binance US and the Securities and Exchange Commission (SEC) time to work out a deal to avoid the freezing of the exchange’s assets. The two sides are close to an agreement that will protect customer funds without paralyzing the crypto trading platform. Crypto Exchange Binance US and SEC [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2023-06-14T18:20:44.000Z",
+    "title": "Fed cools interest rate hikes at June FOMC meeting",
+    "url": "https://cryptoslate.com/fed-cools-interest-rates-hikes-at-june-fomc-meeting/",
+    "description": "<p>At its June meeting, the Federal Open Market Committee unanimously decided to maintain the federal funds rate between 5% and 5.25%. This decision becomes effective June 15, and marks a pause in the Federal Reserve&#8217;s trend of rate hikes. Further monetary policy decisions include standing overnight repurchase agreement operations with a minimum bid rate of [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/fed-cools-interest-rates-hikes-at-june-fomc-meeting/\">Fed cools interest rate hikes at June FOMC meeting</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-14T17:58:44.000Z",
-    "title": "Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?",
-    "url": "https://www.cryptopolitan.com/ethereum-price-prediction/",
-    "description": "Ethereum Price Prediction 2023-2032 &#8220;The Merge did not change anything for holders/users.&#8221; Is that a fact? Crypto prices are unlikely to see a major recovery without new or returning investors bringing cash back into the market.&#160;Unless the retail people enter the market, Ethereum won&#8217;t strongly blast above ATH. Maybe something sparks retail, though, like Coinbase, ... <a title=\"Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ethereum-price-prediction/\" aria-label=\"More on Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?\">Read more</a>"
+    "date": "2023-06-14T18:38:05.000Z",
+    "title": "Arbitrum Airdrop boosts On-Chain activity but fails to sustain new user growth",
+    "url": "https://www.cryptopolitan.com/arbitrum-airdrop-boosts-on-chain-activity/",
+    "description": "The much-awaited Arbitrum airdrop, which aims to empower the community and decentralize the network, has increased on-chain activity, including transactions and daily users. Data shows a slow fall in the number of new wallets making their first transaction, despite the initial euphoria, indicating a struggle in maintaining new user growth. Arbitrum Airdrop drives On-Chain surge ... <a title=\"Arbitrum Airdrop boosts On-Chain activity but fails to sustain new user growth\" class=\"read-more\" href=\"https://www.cryptopolitan.com/arbitrum-airdrop-boosts-on-chain-activity/\" aria-label=\"More on Arbitrum Airdrop boosts On-Chain activity but fails to sustain new user growth\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-14T17:52:56.000Z",
-    "title": "Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?",
-    "url": "https://www.cryptopolitan.com/cosmos-price-prediction/",
-    "description": "Cosmos Price Prediction 2023-2032 Binance chief executive Changpeng Zhao likened the recent FTX collapse to the start of the 2008 financial crisis. Will its demise cause other crypto firms to fold? The debacle promises to have its repercussions in 2023 That&#8217;s the essential question, for now, is how will this affect our Cosmos Price Prediction? ... <a title=\"Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cosmos-price-prediction/\" aria-label=\"More on Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?\">Read more</a>"
+    "date": "2023-06-14T18:31:39.000Z",
+    "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
+    "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
+    "description": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary."
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-06-14T18:25:30.000Z",
+    "title": "Polkadot Price Prediction 2023-2032: A Bullish Pattern?",
+    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
+    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price ... <a title=\"Polkadot Price Prediction 2023-2032: A Bullish Pattern?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/polkadot-price-prediction/\" aria-label=\"More on Polkadot Price Prediction 2023-2032: A Bullish Pattern?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-14T17:41:19.000Z",
-    "title": "Ripple CTO questions Uniswap’s decentralization claims",
-    "url": "https://crypto.news/ripple-cto-questions-uniswaps-decentralization-claims/",
-    "description": "Ripple's chief technology officer (CTO), David Schwartz, has argued on Twitter that Uniswap, a leading automated market maker (AMM) and decentralized exchange (DEX), is not as decentralized as it claims to be."
+    "date": "2023-06-14T18:22:32.000Z",
+    "title": "DWF Labs joins TON accelerator program",
+    "url": "https://crypto.news/dwf-labs-joins-ton-accelerator-program/",
+    "description": "DWF Labs becomes the latest addition to the $25 million fund known as the TON accelerator program."
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-06-14T18:00:09.000Z",
-    "title": "This AI Crypto is flourishing amid crypto bloodbath",
-    "url": "https://www.crypto-news-flash.com/this-ai-crypto-is-flourishing-amid-crypto-bloodbath/?utm_source=rss&utm_medium=rss&utm_campaign=this-ai-crypto-is-flourishing-amid-crypto-bloodbath",
-    "description": "The digital currency world faces chaotic times characterized by inherent volatility and unpredictability caused by SEC regulations’ uncertainty. Amid this tumultuous period, the crypto arena is witnessing price drops, market downturns, and the fall of some digital assets. However, one AI-powered digital currency is unfazed and flourishing against all odds. Avorak AI (AVRK) thrives and [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-06-14T18:05:53.000Z",
-    "title": "American Sanctions Are Pushing Countries To Consider Alternatives To US Dollar: Treasury Secretary Janet Yellen",
-    "url": "https://dailyhodl.com/2023/06/14/american-sanctions-are-pushing-countries-to-consider-alternatives-to-us-dollar-janet-yellen/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/06/us-dollar-alternatives-yellen.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Treasury Secretary Janet Yellen says that it&#8217;s reasonable to expect other countries to gradually look for alternatives to the US dollar as the geopolitical world stage evolves. Speaking during The Annual Testimony of the Secretary of the Treasury on the State of the International Financial System meeting, Yellen says that US sanctions may push other [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/06/14/american-sanctions-are-pushing-countries-to-consider-alternatives-to-us-dollar-janet-yellen/\">American Sanctions Are Pushing Countries To Consider Alternatives To US Dollar: Treasury Secretary Janet Yellen</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2023-06-14T18:11:37.000Z",
+    "title": "The Graph’s migration to Arbitrum in final phase",
+    "url": "https://crypto.news/the-graphs-migration-to-arbitrum-in-final-phase/",
+    "description": "The Graph, a blockchain data indexing and query protocol, has started the final phase of its transition process to Arbitrum, a layer-2 scaling solution operating on Ethereum."
   }
 ]

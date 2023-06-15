@@ -1,44 +1,23 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-06-15T20:26:20.000Z",
-    "title": "Dmitri Cherniak's 'The Goose' NFT Sells at Sotheby's Auction for $5.4M",
-    "url": "https://www.coindesk.com/web3/2023/06/15/dmitri-cherniaks-the-goose-nft-sells-at-sothebys-auction-for-54m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The NFT was purchased by 3AC co-founders Su Zhu and Kyle Davies in August 2021 for about 1,800 ETH – worth roughly $5.8 million at the time."
+    "date": "2023-06-15T20:42:44.000Z",
+    "title": "Bitcoin Regains Ground to Reach $25.2K, but Investors Remain Jittery About U.S. Economy, Monetary Policy",
+    "url": "https://www.coindesk.com/markets/2023/06/15/bitcoin-regains-ground-to-reach-252k-but-investors-remain-jittery-about-us-economy-monetary-policy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Tether’s USDT stablecoin loses its $1 peg, while other major cryptos spend their day in red territory."
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-06-15T20:17:28.000Z",
-    "title": "MakerDAO Hikes DAI Savings Rate, Ousts Paxos Dollar, Curbs Gemini Dollar in Reserve",
-    "url": "https://www.coindesk.com/business/2023/06/15/makerdao-hikes-dai-savings-rate-ousts-paxos-dollar-curbs-gemini-dollar-in-reserve/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The move could redefine baseline interest rates in the DeFi space, spurring higher stablecoin lending rates and making leverage more expensive, one analyst noted."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-06-15T20:22:55.000Z",
-    "title": "3AC liquidators file motion to hold Kyle Davies in contempt",
-    "url": "https://cointelegraph.com/news/3ac-liquidators-file-motion-hold-kyle-davies-in-contempt",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/f92cf0f3-5ece-45f0-8ac2-4e16c8d935ff.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Civil sanctions against 3AC's co-founder Kyle Davies include an award of attorneys’ fees and a $10,000 daily fine until compliance with a subpoena. </p>\n                    <p><p>Three Arrows Capital (3AC) co-founder Kyle Davies should be held in contempt of court for ignoring a subpoena connected to bankruptcy proceedings, June 14 court filings from 3AC's creditor council show. According to 3AC's creditor counsel, Davies is purposely delaying asset recovery from the former crypto hedge fund.</p><p>The civil sanctions against Davies for his contempt include an award of attorneys’ fees and a $10,000 daily fine until compliance. The motion does not apply to Su Zhu, the fellow co-founder of the bankrupt hedge fund. Due to his Singaporean citizenship, Zhu is not subject to the jurisdiction of the United States courts, Cointelegraph learned from Teneo, the firm serving as liquidator in the case.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-06/1cfc76d5-fe2d-434b-80f5-baead74485f5.png\"  alt=\"\"  title=\"\"  /><figcaption style=\"text-align: center;\"><em>Screenshot of motion for holding Kyle Davies to be in civil contempt. Source: Teneo.</em></figcaption></figure><p>On Jan. 5, Davies and Zhu were <a href=\"https://cointelegraph.com/news/three-arrows-capital-founders-subpoenaed-on-twitter\">subpoenaed on Twitter for failing to engage in asset recovery</a> after 3AC filed for Chapter 15 in July 2022. Since then, creditors have accused the founders of being “on the run” from the bankruptcy court. </p><p>The founders' whereabouts and legal jurisdictions play a significant role in recovery challenges. For instance, liquidators had to obtain permission from Singapore and U.S. authorities to subpoena Davies and Zhu via digital channels.</p><p>\"The founders of Three Arrows, Kyle Livingstone Davies and Su Zhu [...] have repeatedly defied their obligations to the Court and failed to cooperate with the Foreign Representatives’ efforts to marshal the assets of the Debtor,\" reads the document. A hearing on the motion should take place in the coming weeks. </p><p>According to the liquidators, instead of complying with subpoenas and information requests, the \"founders have ignored their obligations, hidden their whereabouts, and instead spent their time creating, amongst other things, a new venture to trade claims in cryptocurrency bankruptcy cases.\" </p><p>The motion also asks the United States to seek personal jurisdiction on Davies, who is believed to be in Bali. \"[...] On this record, it cannot be clearer that the Court can—and should— exercise personal jurisdiction over Davies, hold him in willful contempt of court, and impose sanctions.\"</p><p>An auction for parts of 3AC's nonfungible token collection <a href=\"https://cointelegraph.com/news/bankrupt-crypto-hedge-fund-3ac-s-nft-auction-fetches-2-5m\">held last month brought in $2.5 million</a>. The firm reportedly owes creditors a total of $3.5 billion. During its peak, 3AC's estimated assets under management reached $10 billion.</p><p><a href=\"https://cointelegraph.com/magazine/3-4-billion-bitcoin-popcorn-tin-silk-road-hacker/\"><strong><em>Magazine: $3.4B of Bitcoin in a popcorn tin — The Silk Road hacker’s story</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-06-15T21:05:14.000Z",
+    "title": "Jack Dorsey's Block Bitcoin Wallet Opens Beta, Announces Coinbase Support",
+    "url": "https://decrypt.co/144825/jack-dorseys-block-bitcoin-wallet-opens-beta-announces-coinbase-support",
+    "description": "Bitkey will allow beta users to withdraw Bitcoin from Coinbase and Cashapp using \"copy and paste.\""
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T20:39:28.000Z",
-    "title": "Binance.US implements staff reductions as legal battle with SEC looms",
-    "url": "https://www.cryptopolitan.com/binance-us-implements-staff-reductions-as-legal-battle-with-sec-looms/",
-    "description": "Binance.US, the United States affiliate of cryptocurrency exchange Binance, has reportedly laid off a portion of its workforce in response to the legal action taken by the U.S. Securities and Exchange Commission (SEC) against both entities. The SEC lawsuits alleging the offering of unregistered securities have compelled Binance.US to transition into a &#8220;crypto-only exchange,&#8221; leading ... <a title=\"Binance.US implements staff reductions as legal battle with SEC looms\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-us-implements-staff-reductions-as-legal-battle-with-sec-looms/\" aria-label=\"More on Binance.US implements staff reductions as legal battle with SEC looms\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-15T20:25:28.000Z",
-    "title": "Coinbase and cash app partner to empower self-custody with Jack Dorsey’s Bitcoin wallet",
-    "url": "https://www.cryptopolitan.com/coinbase-and-cash-app-partner-self-custody/",
-    "description": "Two major companies in the crypto industry, Coinbase, and Cash App, have announced that they will be integrating Jack Dorsey&#8217;s Bitcoin self-custody wallet. This partnership is a monumental advance in the widespread use of decentralized finance, giving investors greater discretion over their digital possessions. The expanding use of self-custody wallets With more and more people ... <a title=\"Coinbase and cash app partner to empower self-custody with Jack Dorsey&#8217;s Bitcoin wallet\" class=\"read-more\" href=\"https://www.cryptopolitan.com/coinbase-and-cash-app-partner-self-custody/\" aria-label=\"More on Coinbase and cash app partner to empower self-custody with Jack Dorsey&#8217;s Bitcoin wallet\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-15T20:17:04.000Z",
-    "title": "NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?",
-    "url": "https://www.cryptopolitan.com/near-price-prediction/",
-    "description": "NEAR Price Prediction 2023-2032 Near Protocol (NEAR) is a blockchain platform with significant attention and partnerships within the cryptocurrency industry. Initially established by a small team in San Francisco, NEAR Protocol has rapidly expanded its influence and formed collaborations with industry giants. As a result, it has witnessed a consistent upward trajectory since its inception. ... <a title=\"NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/near-price-prediction/\" aria-label=\"More on NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?\">Read more</a>"
+    "date": "2023-06-15T21:07:48.000Z",
+    "title": "UN Secretary-General champions regulation of AI technology",
+    "url": "https://www.cryptopolitan.com/un-secretary-general-champions-regulation-ai/",
+    "description": "Generative AI, the latest form of artificial intelligence, has ignited high-level discussions among world leaders, prompting the UN Secretary-General António Guterres, to join the growing chorus of voices advocating for the regulation of this technology. Guterres expressed deep concern over the potential dangers posed by generative AI, comparing it to the existential threat of nuclear ... <a title=\"UN Secretary-General champions regulation of AI technology\" class=\"read-more\" href=\"https://www.cryptopolitan.com/un-secretary-general-champions-regulation-ai/\" aria-label=\"More on UN Secretary-General champions regulation of AI technology\">Read more</a>"
   }
 ]

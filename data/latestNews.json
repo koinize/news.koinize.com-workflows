@@ -1,93 +1,121 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-06-15T14:54:00.000Z",
-    "title": "Former FTX Ventures Head Amy Wu Joins Menlo Ventures",
-    "url": "https://www.coindesk.com/business/2023/06/15/former-ftx-ventures-head-amy-wu-joins-menlo-ventures/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The 47-year-old firm has $5 billion in assets and has backed the likes of Uber and Roku."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-06-15T15:00:00.000Z",
-    "title": "DeFi options platform uses social logins, margin trading to draw in liquidity",
-    "url": "https://cointelegraph.com/news/defi-options-platform-uses-social-logins-margin-trading-to-draw-in-liquidity",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/c6283dc5-d8c5-4939-8804-6cd1339d013a.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Developers claim Synquote handled one single trade of over $1 million of notional volume with no detectable slippage in its beta period. </p>\n                    <p><p>A DeFi options platform using social logins and undercollateralized trading to draw in liquidity providers just launched, according to a June 15 announcement. The protocol, called “Synquote,” is capable of handling large trades with much less slippage than previous options platforms, the team claims.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-06/d8c21095-75cd-4f74-b903-24059fa2521f.png\"  /><figcaption style=\"text-align: center;\"><em>Synquote user interface. Source: Synquote</em></figcaption></figure><p>According to the announcement, Synquote did over $25 million of notional volume in its beta period, which began on March 17. The largest trade during this period was for $1 million in notional volume, which was executed without any detectable slippage, developers told Cointelegraph.</p><p>In a conversation with Cointelegraph, Synquote founder Ahmed Attia explained the strategy the protocol uses to attract liquidity. First, it doesn’t use an <a href=\"https://cointelegraph.com/explained/uniswap-and-automated-market-makers-explained\">automated market maker</a> to determine prices. Instead, an off-chain, peer-to-peer request-for-quote protocol matches buyers and sellers, helping to allow greater flexibility in terms of the types of orders that can be placed by market makers.</p><p>Second, the protocol allows liquidity providers to make undercollateralized trades. For example, they can issue or sell options with “as little USDC [USD Coin] as one-tenth of the underlying asset’s value if [they’re] selling a short-dated naked call.” Attia argued that allowing undercollateralized trades is the only way to attract large institutions to the DeFi space, stating:</p><blockquote>“We launched a fully collateralized platform before, and we saw that activity was limited by the amount of size market makers were willing to trade on-chain with a fully collateralized [position]. So this is a huge improvement that unlocks the ability for them to trade with size and have capital efficiency on-chain.”</blockquote><p>Social logins have also been implemented as part of the public launch, the Synquote founder stated. Both market makers and traders can now log in using their Google credentials without needing to download a wallet or copy down seed words. This is possible because of the Web3Auth platform, a type of <a href=\"https://cointelegraph.com/news/new-tech-could-make-crypto-and-web3-wallets-more-convenient\">new wallet tech</a> that allows for seedless wallets.</p><p><em><strong>Related: </strong><a href=\"https://cointelegraph.com/news/anon-powered-options-defi-platform-premia-goes-live\"><strong>Anon-powered options: DeFi platform Premia goes live</strong></a></em></p><p>In the past, some undercollateralized platforms have suffered liquidity crises during large swings in the market. For example, the Vires.Finance lending app on Waves <a href=\"https://forum.vires.finance/t/the-liquidity-squeeze-whats-happening-and-whats-next/307\" target=\"_blank\" rel=\"noopener nofollow\">suffered</a> frozen withdrawals in April 2022, as its liquidation mechanism was unable to cope with the rapidly escalating fall of crypto prices during that time period. <a href=\"https://cointelegraph.com/news/waves-community-back-defi-revival-plan-for-vires-finance\">The app was later recapitalized</a> through a “revival plan.”</p><p>Attia stated that the Synquote team is well aware of this risk and has implemented very conservative risk-management practices in order to help prevent such a crisis from occurring on Synquote.</p><p>“Our margin requirements are actually pretty conservative still,” he said. “We’ve done a lot of backtesting with historical data, and we’ve seen that even the biggest market moves […] even on the day FTX went bankrupt and the market was absolutely plummeting, even on those black swan days, the system is safe, with the liquidation system responding in an appropriate amount of time.”</p><p><strong><em>Magazine: <a href=\"https://cointelegraph.com/magazine/defi-abandons-ponzinomics-real-yield/\">DeFi abandons Ponzi farms for ‘real yield’</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "date": "2023-06-15T15:32:25.000Z",
+    "title": "Crypto Trading Volumes Drop in Q2 to Yearly Lows",
+    "url": "https://www.coindesk.com/markets/2023/06/15/crypto-trading-volumes-drop-in-q2-to-yearly-lows/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin, the world’s largest cryptocurrency, lost the most market share of trading volume in the second quarter of this year."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-06-15T14:45:17.000Z",
-    "title": "BlackRock is reportedly close to filing its Bitcoin ETF application",
-    "url": "https://cryptoslate.com/blackrock-is-reportedly-close-to-filing-its-bitcoin-etf-application/",
-    "description": "<p>BlackRock, the world&#8217;s largest asset manager, is reportedly on the verge of filing a Bitcoin ETF application, an unknown source has revealed to CoinDesk. CoinDesk reported today that BlackRock intends to use Coinbase Custody to secure digital assets and use the exchange&#8217;s spot market data for pricing. The Securities Exchange Commission (SEC) sued Coinbase on [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/blackrock-is-reportedly-close-to-filing-its-bitcoin-etf-application/\">BlackRock is reportedly close to filing its Bitcoin ETF application</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-06-15T15:30:20.000Z",
+    "title": "Short-term holders react swiftly to SEC lawsuits, sending Bitcoin deposits soaring on exchanges",
+    "url": "https://cryptoslate.com/how-short-term-holders-flood-exchanges-with-deposits/",
+    "description": "<p>The SEC&#8217;s lawsuits against Binance and Coinbase have had a notable impact on the crypto market, affecting the behavior of all market participants, particularly short-term holders. Short-term holders (STHs) are addresses that have held onto their coins for less than 155 days. While often appearing impulsive, this cohort&#8217;s actions provide an essential insight into broader [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/how-short-term-holders-flood-exchanges-with-deposits/\">Short-term holders react swiftly to SEC lawsuits, sending Bitcoin deposits soaring on exchanges</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-06-15T15:10:02.000Z",
+    "title": "Uniswap defends business source licensing choice amid criticism",
+    "url": "https://cryptoslate.com/uniswap-defends-business-source-licensing-choice-amid-criticism/",
+    "description": "<p>Decentralized exchange Uniswap (UNI) defended its Business Source Licensing (BSL) choice for its V4 in a June 14 Youtube video. Uniswap Labs Engineering lead Noah Zinsmeister argued that making the source code BSL-protected is a balance between incentivizing innovation and giving exclusive proprietary rights for a short time, as the code will become General Public [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/uniswap-defends-business-source-licensing-choice-amid-criticism/\">Uniswap defends business source licensing choice amid criticism</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-06-15T15:27:13.000Z",
+    "title": "Sam Bankman-Fried’s Original 8 Charges Remain; Will the Bahamas Follow?",
+    "url": "https://cryptobriefing.com/sam-bankman-fried-tried-8-original-charges/?utm_source=feed&utm_medium=rss",
+    "description": "Sam Bankman-Fried, the infamous cryptocurrency entrepreneur and former CEO of FTX, will stand trial on the original eight criminal charges, according to U.S. prosecutors. The move opens up the possibility..."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-06-15T15:30:00.000Z",
+    "title": "Bitcoin Price Analysis:  Major Bearish 24568 Risk - 16 June 2023",
+    "url": "https://cryptodaily.co.uk/2023/06/bitcoin-price-analysis-major-bearish-24568-risk-16-june-2023",
+    "description": "<p>BTC/USD Major Bearish 24568 Risk:&nbsp; Sally Ho&rsquo;s Technical Analysis &ndash; 16 June 2023</p>\n<p>Bitcoin (BTC/USD) extended its ongoing slide lower early in the Asian session as the pair traded below the 25000 figure for the first time since March 2023, descending to the 24750 level.&nbsp; Stops were elected below the 25142.29 area, a previous upside price objective related to legacy buying pressure that emerged around the 3858 area.&nbsp; Large Stops are in place below similar levels around the 24660 and 24568 levels, and bears are eyeing the 23196.08 area as a significant downside price objective.&nbsp; Above the market, Stops are cited above the 26544, 26912, 27281, 27737, and 27805 levels.&nbsp; &nbsp;Below the market, downside price objectives include the 25323.24 and 24680.87 levels.&nbsp; Notably, the 25309.26 area represents the 50% retracement of the appreciating range from 19568.52 to 30825.30.&nbsp; Stops are cited below major retracement levels linked to the 19568.52 and 15460 levels, including the 25094, 23954, 23255, 22278, 22025, 21415, 19139, and 18796 areas.</p>\n<p>Additional downside price objectives include the 24440, 23208, and 22769 levels.&nbsp; Following recent price activity, areas of technical resistance and potential selling pressure include the 27528, 27737, 27805, 28200, 28473, and 28873 levels.&nbsp; Upside retracement levels in recent depreciating ranges include the 28700, 28741, 28868, 29243, 29299, and 29284 levels.&nbsp; Above the market, upside price objectives include the 30420.74, 31237.11, 31477.37, 32501.23, 32556.73, 32989.19, 34583.96, 34658.69, 35222.66, 37765.28, and 38403.97 levels.&nbsp; &nbsp;Traders are&nbsp;observing&nbsp;that the&nbsp;50-bar MA (4-hourly)&nbsp;is&nbsp;bearishly indicating below the 100-bar MA (4-hourly)&nbsp;and&nbsp;below the&nbsp;200-bar MA (4-hourly).&nbsp; Also, the 50-bar MA (hourly) is bearishly indicating below the 100-bar MA (hourly) and below the 200-bar MA (hourly).</p>\n<p>Price activity is nearest the&nbsp;50-bar MA&nbsp;(4-hourly) at 26068.17 and the&nbsp;50-bar MA&nbsp;(Hourly) at 25620.51.</p>\n<p>Technical Support&nbsp;is expected around&nbsp;24440.41/ 23270.10/ 22769.39 with&nbsp;Stops&nbsp;expected below.</p>\n<p>Technical Resistance&nbsp;is expected around&nbsp;31986.16/ 32989.19/ 34658.69 with&nbsp;Stops&nbsp;expected above.&nbsp;&nbsp;</p>\n<p>On&nbsp;4-Hourly&nbsp;chart,&nbsp;SlowK&nbsp;is Bearishly below SlowD&nbsp;while&nbsp;MACD&nbsp;is Bearishly below MACDAverage.</p>\n<p>On&nbsp;60-minute&nbsp;chart,&nbsp;SlowK&nbsp;is Bullishly above SlowD&nbsp;while&nbsp;MACD&nbsp;is&nbsp;Bullishly above MACDAverage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>Disclaimer: Sally Ho&rsquo;s Technical Analysis is provided by a third party, and for informational purposes only. It does not reflect the views of Crypto Daily, nor is it intended to be used as legal, tax, investment, or financial advice.</p>"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-06-15T15:32:49.000Z",
+    "title": "Biggest Movers: MATIC Remains Near 11-Month Low, as Price Plunges by 9%",
+    "url": "https://news.bitcoin.com/biggest-movers-matic-remains-near-11-month-low-as-price-plunges-by-9/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"MATIC Remains Near 11-Month Low, as Price Plunges by 9%\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/shutterstock_2152596447-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Polygon moved closer to an 11-month low on Thursday, as crypto markets continue to react to yesterday&#x2019;s United States Fed rate decision. The global market cap is trading 4% lower as of writing, as a wave of bears captured sentiment. Litecoin plunged to a three-month low today. Polygon (MATIC) Polygon (MATIC) was a notable mover [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T15:08:15.000Z",
-    "title": "Bybit teams up with ChatGPT for cutting-edge AI trading tools",
-    "url": "https://www.cryptopolitan.com/bybit-chatgpt-cutting-edge-ai-trading-tools/",
-    "description": "Bybit, one of the world&#8217;s top-ranking digital currency exchanges, has launched an innovative new tool known as ToolsGPT. This platform is the result of a groundbreaking collaboration between Bybit and ChatGPT, integrating their robust market data with leading-edge artificial intelligence (AI) technology. The result? A revolutionary tool that promises to redefine how traders strategize and ... <a title=\"Bybit teams up with ChatGPT for cutting-edge AI trading tools\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bybit-chatgpt-cutting-edge-ai-trading-tools/\" aria-label=\"More on Bybit teams up with ChatGPT for cutting-edge AI trading tools\">Read more</a>"
+    "date": "2023-06-15T15:39:45.000Z",
+    "title": "Aave Price Prediction 2023-2032: Is AAVE a Good Investment?",
+    "url": "https://www.cryptopolitan.com/aave-price-prediction/",
+    "description": "Aave Price Prediction 2023-2032 How much is Aave worth today? The live Aave price is $49.62, with a 24-hour trading volume of $63,238,456. AAVE is down 10.79% in the last 24 hours. The current CoinMarketCap ranking is #48, with a live market cap of $715,653,489. It has a circulating supply of 14,426,583 AAVE coins and a max. supply of 16,000,000 ... <a title=\"Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/aave-price-prediction/\" aria-label=\"More on Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T15:02:00.000Z",
-    "title": "Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?",
-    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
-    "description": "Binance Coin Price Prediction 2023-2032 After a long torrid wave in the cryptocurrency market, most digital coins are beginning to tread the path of recovery &#8211; just as predicted by analysts. BNB, in particular, has made gains of about 30% since the start of January 2023. What does the future hold for Binance Coin? How ... <a title=\"Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-coin-price-prediction/\" aria-label=\"More on Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\">Read more</a>"
+    "date": "2023-06-15T15:38:21.000Z",
+    "title": "How the Unexpected Surge in Crypto Gifting through Unconventional Memes Spurs Exclusive Token Presales",
+    "url": "https://www.cryptopolitan.com/crypto-gifting-through-memes-token-presales/",
+    "description": "The founder of Notlarvalabs, Pauly, who also enjoys a significant following on Twitter, has received an astonishing accumulation of cryptocurrency exceeding $1 million &#8211; all without the need to exchange any goods or services. This intriguing event is largely attributed to the current fascination with meme coins, a subset of the cryptocurrency landscape, taking an ... <a title=\"How the Unexpected Surge in Crypto Gifting through Unconventional Memes Spurs Exclusive Token Presales\" class=\"read-more\" href=\"https://www.cryptopolitan.com/crypto-gifting-through-memes-token-presales/\" aria-label=\"More on How the Unexpected Surge in Crypto Gifting through Unconventional Memes Spurs Exclusive Token Presales\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T14:56:14.000Z",
-    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
-    "description": "BTC Price Predictions 2023-2032 The $2Million bet by ex-CTO of Coinbase has been the subject of much discussion and debate in the crypto world. At the heart of the controversy is Srinivasan’s prediction that Bitcoin will reach $1 million per coin within just 90 days. This Bitcoin Price Prediction intends to shed light on the ... <a title=\"Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-price-forecast/\" aria-label=\"More on Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\">Read more</a>"
+    "date": "2023-06-15T15:35:32.000Z",
+    "title": "Here are the firms fueling the U.S. stock rally",
+    "url": "https://www.cryptopolitan.com/here-are-firms-fueling-the-us-stock-rally/",
+    "description": "In a surprising twist for financial markets, 2023 stands in stark contrast to expectations, defying the pessimistic forecasts of investors and analysts who entered the year bracing for an economic downfall in the U.S. Contrary to predictions, despite a series of regional bank failures and rising interest rates, the U.S. economy continues its growth trajectory. ... <a title=\"Here are the firms fueling the U.S. stock rally\" class=\"read-more\" href=\"https://www.cryptopolitan.com/here-are-firms-fueling-the-us-stock-rally/\" aria-label=\"More on Here are the firms fueling the U.S. stock rally\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T14:52:24.000Z",
-    "title": "Trust Wallet vs MetaMask: Which Is the Better Wallet for 2023?",
-    "url": "https://www.cryptopolitan.com/trust-vs-metamask-whats-the-better-wallet/",
-    "description": "Not all crypto platforms are created equal; Trust Wallet vs MetaMask provides or suggests crypto wallets for your use, but there&#8217;s a lot to consider when buying or trading cryptocurrencies to keep your crypto purchases/profits safe. It does not take long to learn that not your keys, not your crypto, is the rule, so you ... <a title=\"Trust Wallet vs MetaMask: Which Is the Better Wallet for 2023?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/trust-vs-metamask-whats-the-better-wallet/\" aria-label=\"More on Trust Wallet vs MetaMask: Which Is the Better Wallet for 2023?\">Read more</a>"
+    "date": "2023-06-15T15:35:27.000Z",
+    "title": "Banking giants in South Korea embrace the future of digital assets",
+    "url": "https://www.cryptopolitan.com/banking-giants-in-south-korea-embrace-the-future-of-digital-assets/",
+    "description": "In a significant development, several influential lenders in South Korea have now become part of a bank consortium. This consortium, led by Seoul&#8217;s NongHyup, centers around the exciting new world of security token offerings (STOs). These STOs, unique to South Korea, are essentially traditional investments with a twist. They exist on blockchain or DLT, representing ... <a title=\"Banking giants in South Korea embrace the future of digital assets\" class=\"read-more\" href=\"https://www.cryptopolitan.com/banking-giants-in-south-korea-embrace-the-future-of-digital-assets/\" aria-label=\"More on Banking giants in South Korea embrace the future of digital assets\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T14:52:12.000Z",
-    "title": "Nvidia’s competitors falter in AI chip war",
-    "url": "https://www.cryptopolitan.com/nvidias-competitors-falter-in-ai-chip-war/",
-    "description": "In the rapidly evolving landscape of the artificial intelligence chip industry, Nvidia continues to distance itself from its competitors. This divide became even more pronounced in the wake of Nvidia&#8217;s unexpected sales surge, as rivals scramble to gain ground. AMD&#8217;s foray into AI chips fails to impress Nvidia&#8217;s key competitor, AMD, recently unveiled its latest ... <a title=\"Nvidia&#8217;s competitors falter in AI chip war\" class=\"read-more\" href=\"https://www.cryptopolitan.com/nvidias-competitors-falter-in-ai-chip-war/\" aria-label=\"More on Nvidia&#8217;s competitors falter in AI chip war\">Read more</a>"
+    "date": "2023-06-15T15:29:58.000Z",
+    "title": "Avalanche Price Prediction 2023-2032: Time to Buy the AVAX Dip?",
+    "url": "https://www.cryptopolitan.com/avalanche-price-prediction/",
+    "description": "Avalanche Price Prediction 2023-2032 While the crypto market navigated the fallout from the&#160;collapse&#160;of FTX in late 2022, Ava Labs says it dodged the bullet. Ava Labs founder and CEO Emin Gün Sirer assure its stakeholders that FTX impacts very little the companies and projects operating in the Avalanche ecosystem. The company had an account on ... <a title=\"Avalanche Price Prediction 2023-2032: Time to Buy the AVAX Dip?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/avalanche-price-prediction/\" aria-label=\"More on Avalanche Price Prediction 2023-2032: Time to Buy the AVAX Dip?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-15T14:47:15.000Z",
-    "title": "Apple’s rejection of Zeus Bitcoin wallet sparks controversy in crypto community",
-    "url": "https://www.cryptopolitan.com/apples-rejection-of-zeus-bitcoin-wallet-sparks-controversy-in-crypto-community/",
-    "description": "In a move that has garnered attention from the cryptocurrency community, Apple (AAPL) has rejected the latest version of the non-custodial Lightning Network-enabled Bitcoin wallet, Zeus. The rejection comes shortly after Apple&#8217;s warning to another Bitcoin-related app, Damus, suggesting the tech giant&#8217;s increased scrutiny of cryptocurrency apps on its platform. The decisions have sparked concerns ... <a title=\"Apple&#8217;s rejection of Zeus Bitcoin wallet sparks controversy in crypto community\" class=\"read-more\" href=\"https://www.cryptopolitan.com/apples-rejection-of-zeus-bitcoin-wallet-sparks-controversy-in-crypto-community/\" aria-label=\"More on Apple&#8217;s rejection of Zeus Bitcoin wallet sparks controversy in crypto community\">Read more</a>"
+    "date": "2023-06-15T15:24:17.000Z",
+    "title": "Crypto exchanges pooled $2.5b to safeguard users after FTX",
+    "url": "https://www.cryptopolitan.com/crypto-exchanges-pooled-2-5b-safeguard-users/",
+    "description": "Following the unexpected bankruptcy of the once-celebrated cryptocurrency exchange FTX, which led to a loss of $4 billion in customer deposits, the crypto landscape has been undeniably shaken. As a response, crypto exchanges have pooled a staggering $2.5 billion, making significant strides in safeguarding their users and renewing their focus on credibility. The emphasis on ... <a title=\"Crypto exchanges pooled $2.5b to safeguard users after FTX\" class=\"read-more\" href=\"https://www.cryptopolitan.com/crypto-exchanges-pooled-2-5b-safeguard-users/\" aria-label=\"More on Crypto exchanges pooled $2.5b to safeguard users after FTX\">Read more</a>"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-06-15T14:44:53.000Z",
-    "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
-    "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
-    "description": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary."
+    "source": "BTCManager",
+    "date": "2023-06-15T15:33:54.000Z",
+    "title": "BlackRock nears bitcoin ETF filing, partnering with Coinbase custody",
+    "url": "https://crypto.news/blackrock-nears-bitcoin-etf-filing-partnering-with-coinbase-custody/",
+    "description": "BlackRock, the asset management company with a staggering $9 trillion under its control, is said to be on the verge of applying to a bitcoin exchange-traded fund."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-06-15T15:12:16.000Z",
+    "title": "Celsius users will be allowed to swap altcoins for BTC and ETH",
+    "url": "https://crypto.news/celsius-users-will-be-allowed-to-swap-altcoins-for-btc-and-eth/",
+    "description": "In a recent court filing, the Celsius Network has announced plans to facilitate the conversion of all altcoins into bitcoin and ethereum starting from July 1, 2023."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-15T15:00:40.000Z",
-    "title": "“Expect an Easy 10,000%!”, Analysts Recommend Dropping Dogecoin for This New Token in Presale",
-    "url": "https://www.crypto-news-flash.com/expect-an-easy-10000-analysts-recommend-dropping-dogecoin-for-this-new-token-in-presale/?utm_source=rss&utm_medium=rss&utm_campaign=expect-an-easy-10000-analysts-recommend-dropping-dogecoin-for-this-new-token-in-presale",
-    "description": "Get ready for an investment opportunity that could potentially deliver an impressive 10,000% return! As the cryptocurrency market continues to evolve, analysts are recommending a strategic move away from Dogecoin and towards an enticing new token in its presale phase. This promising token has caught the attention of experts, who believe it holds the potential [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-06-15T14:57:00.000Z",
-    "title": "Ethereum and Binance Coin to Overtake Bitcoin as Other Altcoins Continue to Plummet",
-    "url": "https://www.crypto-news-flash.com/ethereum-and-binance-coin-to-overtake-bitcoin-as-other-altcoins-continue-to-plummet/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-and-binance-coin-to-overtake-bitcoin-as-other-altcoins-continue-to-plummet",
-    "description": "Bitcoin social interest is going low as Ethereum’s and other altcoins rise  Bitcoin and Ethereum have not been swayed much by the industry turmoil  Santiment, a popular on-chain data vendor, has tweeted that three leading altcoins; XRP, Ethereum, and Binance Coins, are rising in social sentiment. 🗣️ With #Bitcoin&#39;s social volume finally declining ever so [...]"
+    "date": "2023-06-15T15:09:55.000Z",
+    "title": "Bitcoin: US Banks Tap Fed’s Emergency Lending Platform for $100 Billion Amid Crisis: – Will It Drive BTC Price to $100,000?",
+    "url": "https://www.crypto-news-flash.com/bitcoin-us-banks-tap-feds-emergency-lending-platform-for-100-billion-amid-crisis-will-it-drive-btc-price-to-100000/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-us-banks-tap-feds-emergency-lending-platform-for-100-billion-amid-crisis-will-it-drive-btc-price-to-100000",
+    "description": "The US central bank&#8217;s lending program, Bank Term Fund Program (BTFP), has issued loans exceeding $100 billion to US banks, indicating high demand for liquidity in the banking industry. The increasing number of loans suggests that banks still require additional funding to meet their obligations to depositors. Meanwhile, banks are facing unrealized losses of $620 [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-06-15T14:45:00.000Z",
-    "title": "Celsius Adopts Set Off Treatment For Retail Borrow Claims: Simon Dixon",
-    "url": "https://coinedition.com/celsius-adopts-set-off-treatment-for-retail-borrow-claims-simon-dixon/",
-    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Independent-Group-Mandates-Celsius-2-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Independent-Group-Mandates-Celsius-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Independent-Group-Mandates-Celsius-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Independent-Group-Mandates-Celsius-2.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>On June 15, Bank To The Future CEO Simon Dixon announced that Celsius has decided to handle the Retail Borrow Claims using the Set Off Treatment. He tweeted that the Borrower Ad Hoc group intends to challenge the extension of exclusivity and the Sponsors Plan going forward. He also shared images from the Joint Chapter [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/celsius-adopts-set-off-treatment-for-retail-borrow-claims-simon-dixon/\">Celsius Adopts Set Off Treatment For Retail Borrow Claims: Simon Dixon</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-06-15T15:35:44.000Z",
+    "title": "XRP Recovers by 10%+ After Every Crash; Will It Reciprocate Its Form?",
+    "url": "https://coinedition.com/xrp-recovers-by-10-after-every-crash-will-it-reciprocate-its-form/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/XRP-1-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/XRP-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/XRP-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/XRP-1.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>XRP has been performing at a mediocre level considering its price fluctuations during the past seven days. It had its moments of increase and its swing lows. However, although the climb was hard, XRP’s crashes were brutal and vertical at times. Looking at the chart below, XRP started the previous week with an opening market [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/xrp-recovers-by-10-after-every-crash-will-it-reciprocate-its-form/\">XRP Recovers by 10%+ After Every Crash; Will It Reciprocate Its Form?</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-06-15T15:11:15.000Z",
+    "title": "Whales Dump Millions of USDT, Concerns Cause USDT to De-Peg",
+    "url": "https://coinedition.com/whales-dump-millions-of-usdt-concerns-cause-usdt-to-de-peg/",
+    "description": "<img width=\"380\" height=\"214\" src=\"https://coinedition.com/wp-content/uploads/2023/06/USDt_is_time_tested_Tether_is_on_track_for_another_record_quarter-2-380x214.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/USDt_is_time_tested_Tether_is_on_track_for_another_record_quarter-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/USDt_is_time_tested_Tether_is_on_track_for_another_record_quarter-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/USDt_is_time_tested_Tether_is_on_track_for_another_record_quarter-2.jpg 730w\" sizes=\"(max-width: 380px) 100vw, 380px\" /><p>Tether concerns are arising again as whales have recently initiated a dumping spree of USDT, causing it to account for more than 73% of the Curve 3pool. This surge in inflows is highly abnormal and has raised suspicions of either increased fear, uncertainty, and doubt (FUD) or insider knowledge. Tether&#8217;s USDT, the dominant stablecoin with [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/whales-dump-millions-of-usdt-concerns-cause-usdt-to-de-peg/\">Whales Dump Millions of USDT, Concerns Cause USDT to De-Peg</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

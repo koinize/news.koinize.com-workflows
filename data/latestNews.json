@@ -1,30 +1,16 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-06-16T01:57:06.000Z",
+    "title": "U.S. Court Will Rule on Terraform Labs' Push to Dismiss SEC Lawsuit Within a Month",
+    "url": "https://www.coindesk.com/policy/2023/06/16/us-court-will-rule-on-terraform-labs-push-to-dismiss-sec-lawsuit-within-a-month/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Was UST a security because it was designed for practical uses rather than as an investment?"
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-06-16T01:23:54.000Z",
-    "title": "BlockFi Sues State Commission for Not Accepting Its Surrendered License",
-    "url": "https://decrypt.co/144879/blockfi-sues-connecticut-banking-commission",
-    "description": "The bankrupt crypto exchange wants to surrender its license, but regulators are insisting on what BlockFi says would be an expensive court proceeding."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-06-16T01:26:17.000Z",
-    "title": "Coinbase doubles USDC rewards to 4% amid SEC scrutiny on staking services",
-    "url": "https://cryptoslate.com/coinbase-raises-usdc-rewards-to-4/",
-    "description": "<p>Coinbase said in a June 15 tweet that it now offers 4% rewards on USDC. Coinbase&#8217;s newly increased reward rate means that the company has approximately doubled its previously offered returns on USD Coin (USDC). As recently as June 9, the company&#8217;s website said that customers could only earn 2% on USDC purchased or held [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinbase-raises-usdc-rewards-to-4/\">Coinbase doubles USDC rewards to 4% amid SEC scrutiny on staking services</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-06-16T01:30:24.000Z",
-    "title": "Crypto Firm Abra Said to be Insolvent in Texas State Regulators’ Cease-and-Desist Order",
-    "url": "https://news.bitcoin.com/crypto-firm-abra-said-to-be-insolvent-in-texas-state-regulators-cease-and-desist-order/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/06/abra.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />According to an emergency cease-and-desist order from the Texas State Securities Board, the cryptocurrency firm Abra is &#8220;insolvent or nearly insolvent.&#8221; The filing alleges that a group of state securities regulators has been investigating Abra, and the working group interviewed William Barhydt, the company&#8217;s founder, in March 2023. Texas State Regulators Issue Cease-and-Desist Order, Citing [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-16T01:12:55.000Z",
-    "title": "Exploring the Features of Top 10 NFT APIs on Polygon",
-    "url": "https://www.cryptopolitan.com/features-of-top-10-nft-apis-on-polygon/",
-    "description": "The emergence of NFTs transforms how we perceive digital ownership, and the Polygon network has gained significant popularity as a blockchain platform for NFT-related endeavors. Polygon provides a unique ecosystem for NFT development and transactions, characterized by scalability, affordability, and a thriving community. To enhance the seamless integration and advanced capabilities of NFTs on the ... <a title=\"Exploring the Features of Top 10 NFT APIs on Polygon\" class=\"read-more\" href=\"https://www.cryptopolitan.com/features-of-top-10-nft-apis-on-polygon/\" aria-label=\"More on Exploring the Features of Top 10 NFT APIs on Polygon\">Read more</a>"
+    "date": "2023-06-16T01:55:31.000Z",
+    "title": "Mercedes-Benz Is Adding ChatGPT to Cars for AI Voice Commands",
+    "url": "https://decrypt.co/144872/mercedes-benz-adding-chatgpt-cars-ai-voice-commands",
+    "description": "The luxury automaker is set to integrate OpenAI's ChatGPT chatbot into its Mercedes-Benz User Experience (MBUX) feature in the U.S."
   }
 ]

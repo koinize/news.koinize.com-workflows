@@ -1,100 +1,58 @@
 [
   {
     "source": "Decrypt",
-    "date": "2023-06-21T19:54:16.000Z",
-    "title": "US Congress Presses Forward on AI Regulation With Proposed Commission",
-    "url": "https://decrypt.co/145685/ai-commission-proposed-us-congress",
-    "description": "A new bipartisan bid emerges to set a regulatory framework amid a global race to control how AI takes part in the society of the future."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-06-21T20:02:44.000Z",
-    "title": "Bitcoin think tank rejects science behind ‘limited adoption problem’ paper",
-    "url": "https://cointelegraph.com/news/bitcoin-think-tank-rejects-science-behind-limited-adoption-problem-paper",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-06/7335f0fc-5c21-4e73-b4ad-17f4bc8a1f65.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The researchers claim the ideas driving the conclusions found in the original paper were based on flawed assumptions about the nature of Bitcoin.</p>\n                    <p><p>A team of researchers from the Bitcoin Policy Institute, a non-profit think tank, have roundly rejected the conclusions reached in a 2022 paper claiming that Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) has an intrinsic scaling problem that will lead to limited adoption in the future.</p><p>According to the Bitcoin Policy Institute’s researchers, the original paper, <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3334262\" target=\"_blank\" rel=\"noopener nofollow\">dubbed</a> “Bitcoin’s Limited Adoption Problem,” is predicated on three faulty assumptions. </p><p>First, the authors of the original paper claim that payments on the Bitcoin network require full network consensus for settlement. Second, they assert that the addition of miners to the network prolongs time to settlement by “delaying network consensus.” Third, they claim there’s an upper limit on Bitcoin payments due to the architecture of bitcoin’s blockchain.</p><p>The Bitcoin Policy Institute researchers reject each premise in a recently-published paper <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486727\" target=\"_blank\" rel=\"noopener nofollow\">cheekily-titled</a> “Bitcoin works in practice, but does it work in theory?”</p><p>The institute researchers, who hail from six different prestigious U.S. universities, claim that the so-called “limited adoption problem” is theoretical and counterintuitive to the reality of how bitcoin operates:</p><blockquote>“Hinzen, John, and Salah argue that the design of the Bitcoin protocol results in a negative network effect […] this is an interesting theoretical result, but rests on faulty assumptions about how bitcoin actually works.”</blockquote><p>In rebuking the first paper’s assertions, the institute researchers argue that its authors “fundamentally misunderstand how Bitcoin achieves consensus and how the entry and exit of miners affects the timing of new transaction blocks,” and that their research ignores “existing, widely-implemented scaling solutions.”</p><p>While the institute research paper does conclude that the work being criticized comes to a sound conclusion — namely, that “Bitcoin’s blockchain does not scale well for on-chain payments,” it also points out that these scaling issues have been known since Bitcoin’s inception and have thus been properly mitigated in the time since.</p><p>Ultimately, the institute team observes that the original paper’s authors are “tilting at windmills” because “bitcoin scales through off-chain payments, not by increasing throughput at the base layer. Off-chain protocols afford more scalability precisely because they do not require consensus of the entire network.”</p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/bitcoin-think-tank-reject-cbdcs-and-look-to-btc-and-stablecoins-instead\"><strong><em>Bitcoin think tank: Reject CBDCs and look to BTC and stablecoins instead</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
+    "date": "2023-06-21T20:16:42.000Z",
+    "title": "Jeff Staple, Gmoney Drop 'Pigeon Shit' Cap Collab at Paris Fashion Week",
+    "url": "https://decrypt.co/145690/jeff-staple-gmoney-drop-pigeon-shit-cap-collab-paris-fashion-week",
+    "description": "The 9dcc x Stapleverse baseball cap is sold via a redeemable NFT and can be digitally signed. The co-creators spoke to Decrypt in Paris."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-06-21T20:08:14.000Z",
-    "title": "Binance asks court to make SEC comply with rules of conduct after ‘misleading’ press release",
-    "url": "https://cryptoslate.com/binance-asks-court-to-make-sec-comply-with-rules-of-conduct-after-misleading-press-release/",
-    "description": "<p>Binance-related companies asked courts on June 21 to restrict the U.S. Securities and Exchange Commission (SEC) from making certain statements. That filing notes that the Binance companies and the SEC agreed on a consent order on June 17 that dictates how Binance.US can make use of its funds. However, almost immediately after that agreement, the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/binance-asks-court-to-make-sec-comply-with-rules-of-conduct-after-misleading-press-release/\">Binance asks court to make SEC comply with rules of conduct after &#8216;misleading&#8217; press release</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-06-21T19:51:39.000Z",
-    "title": "German intelligence agency is using NFTs to attract cybersecurity talent",
-    "url": "https://cryptoslate.com/german-intelligence-agency-is-using-nfts-to-attract-cybersecurity-talent/",
-    "description": "<p>The German intelligence agency — Bundesnachrichtendienst  (BND) — has launched an NFT collection called Dogs of BND to attract people proficient in blockchain and web3 technology as part of a recruitment drive. The agency has gamified the campaign and locked access to the collection behind a &#8220;cyber treasure hunt&#8221; and invited German citizens above the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/german-intelligence-agency-is-using-nfts-to-attract-cybersecurity-talent/\">German intelligence agency is using NFTs to attract cybersecurity talent</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-06-21T20:37:03.000Z",
+    "title": "Valkyrie Investments throws its hat in the ring for a spot Bitcoin ETF, joining BlackRock, Invesco, WisdomTree, and Bitwise",
+    "url": "https://cryptoslate.com/valkyrie-investments-throws-its-hat-in-the-ring-for-a-spot-bitcoin-etf-joining-blackrock-invesco-wisdomtree-and-bitwise/",
+    "description": "<p>Valkyrie Investments has filed for a spot Bitcoin ETF with the U.S. Securities and Exchange Commission (SEC), according to a June 21 filing. That filing describes the proposed investment as an exchange-traded fund (ETF) that allows investors to purchase shares of a trust containing Bitcoin. Like many other applicants, Valkyrie saw the SEC reject its [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/valkyrie-investments-throws-its-hat-in-the-ring-for-a-spot-bitcoin-etf-joining-blackrock-invesco-wisdomtree-and-bitwise/\">Valkyrie Investments throws its hat in the ring for a spot Bitcoin ETF, joining BlackRock, Invesco, WisdomTree, and Bitwise</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-21T20:05:54.000Z",
-    "title": "China Discovers Rare Earth Minerals in the Himalayas Aided by 95% Accurate AI System",
-    "url": "https://www.cryptopolitan.com/china-uncovers-rare-earth-minerals-in-himalayas/",
-    "description": "Chinese geologists have made a groundbreaking discovery in the Himalayas, uncovering a potentially enormous reserve of rare earth minerals. The findings, reported by the South China Morning Post (SCMP), could significantly enhance China&#8217;s global supplier status in this critical industry. To gain a strategic advantage and expedite the identification of the deposits, Chinese government geologists ... <a title=\"China Discovers Rare Earth Minerals in the Himalayas Aided by 95% Accurate AI System\" class=\"read-more\" href=\"https://www.cryptopolitan.com/china-uncovers-rare-earth-minerals-in-himalayas/\" aria-label=\"More on China Discovers Rare Earth Minerals in the Himalayas Aided by 95% Accurate AI System\">Read more</a>"
+    "date": "2023-06-21T20:38:00.000Z",
+    "title": "Monero Price Prediction 2023-2032: Should You Buy XMR Now?",
+    "url": "https://www.cryptopolitan.com/monero-price-prediction/",
+    "description": "Monero Price Prediction 2023-2032 This Monero Price Prediction will cover details about Monero, applications, price history, and factors affecting the native currency. There are plenty of things to consider before moving on to the Monero (XMR) price prediction. How much is Monero worth? Today&#8217;s Monero price is $144.99 USD with a 24-hour trading volume of $80,960,466 ... <a title=\"Monero Price Prediction 2023-2032: Should You Buy XMR Now?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/monero-price-prediction/\" aria-label=\"More on Monero Price Prediction 2023-2032: Should You Buy XMR Now?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-21T20:05:26.000Z",
-    "title": "BlackRock’s Bitcoin ETF: A crypto power play in disguise?",
-    "url": "https://www.cryptopolitan.com/blackrock-crypto-power-play-in-disguise/",
-    "description": "At the crux of the contemporary financial landscape lies the intersection of tradition and innovation. BlackRock, the world&#8217;s largest asset manager, now seeks to bridge this divide with its proposed Bitcoin ETF, an endeavor that promises to reshape our understanding of the market. It&#8217;s not your average Binance or other profit-driven entity making a play, ... <a title=\"BlackRock&#8217;s Bitcoin ETF: A crypto power play in disguise?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/blackrock-crypto-power-play-in-disguise/\" aria-label=\"More on BlackRock&#8217;s Bitcoin ETF: A crypto power play in disguise?\">Read more</a>"
+    "date": "2023-06-21T20:30:00.000Z",
+    "title": "VeChain Price Prediction 2023-2031: What’s the Growth Potential of VET?",
+    "url": "https://www.cryptopolitan.com/vechain-price-prediction/",
+    "description": "VeChain Price Prediction 2023-2032 Since its launch, Vechain’s focus has been building technologies that solve obstacles impeding the mass adoption of blockchain technology. Two mnths ago, one of the most important pieces of technology in this mission was officially launched — VORJ. VORJ is a no-code Web3-as-a-Service platform that enables anyone to create, deploy and ... <a title=\"VeChain Price Prediction 2023-2031: What&#8217;s the Growth Potential of VET?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/vechain-price-prediction/\" aria-label=\"More on VeChain Price Prediction 2023-2031: What&#8217;s the Growth Potential of VET?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-21T20:01:49.000Z",
-    "title": "Aave Price Prediction 2023-2032: Is AAVE a Good Investment?",
-    "url": "https://www.cryptopolitan.com/aave-price-prediction/",
-    "description": "Aave Price Prediction 2023-2032 How much is Aave worth today? The live Aave price today is $54.68 USD with a 24-hour trading volume of $46,853,213 USD. Aave is up 4.19% in the last 24 hours. The current CoinMarketCap ranking is #50, with a live market cap of $789,260,531 USD. It has a circulating supply of 14,434,916 AAVE coins and a max. ... <a title=\"Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/aave-price-prediction/\" aria-label=\"More on Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-06-21T19:50:41.000Z",
-    "title": "Filecoin Price Prediction 2023-2032: What’s the future for FIL?",
-    "url": "https://www.cryptopolitan.com/filecoin-price-prediction/",
-    "description": "Filecoin Price Prediction 2023-2032 How much is Filecoin (FIL) worth? Today&#8217;s live Filecoin price is $3.90, with a 24-hour trading volume of $164,985,567. Filecoin is up 4.13% in the last 24 hours. The current CoinMarketCap ranking is #32, with a live market cap of $1,683,789,637. It has a circulating supply of 431,476,953 FIL coins, and ... <a title=\"Filecoin Price Prediction 2023-2032: What&#8217;s the future for FIL?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/filecoin-price-prediction/\" aria-label=\"More on Filecoin Price Prediction 2023-2032: What&#8217;s the future for FIL?\">Read more</a>"
+    "date": "2023-06-21T20:20:03.000Z",
+    "title": "Struct Finance launches DeFi’s answer to predictable returns",
+    "url": "https://www.cryptopolitan.com/struct-finance-defi-predictable-returns/",
+    "description": "The cutting-edge landscape of decentralized finance (DeFi) just took a major step forward with the launch of Struct Finance&#8217;s innovative interest rate products. This exciting development heralds a new era of customizable DeFi solutions, expanding the opportunities for investors of all risk appetites to tap into the dynamic world of digital assets. A revolution in ... <a title=\"Struct Finance launches DeFi&#8217;s answer to predictable returns\" class=\"read-more\" href=\"https://www.cryptopolitan.com/struct-finance-defi-predictable-returns/\" aria-label=\"More on Struct Finance launches DeFi&#8217;s answer to predictable returns\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-21T20:06:46.000Z",
-    "title": "Tether (USDT) set to go live on the Kava blockchain",
-    "url": "https://crypto.news/tether-usdt-set-to-go-live-on-the-kava-blockchain/",
-    "description": "Tether.to, the company in charge of USDT, the world’s largest stablecoin, has signaled plans to roll out the token on the Kava blockchain."
+    "date": "2023-06-21T20:20:29.000Z",
+    "title": "Bakkt research shows investors remain interested in crypto despite regulatory uncertainties",
+    "url": "https://crypto.news/bakkt-research-shows-investors-remain-interested-in-crypto-despite-regulatory-uncertainties/",
+    "description": "Bakkt Holdings’ research report reveals sustained interest in cryptocurrencies among market participants, emphasizing the need for regulatory clarity in driving adoption."
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-21T19:58:23.000Z",
-    "title": "Singapore takes the lead in establishing norms for ‘designated’ digital currency",
-    "url": "https://crypto.news/singapore-takes-the-lead-in-establishing-norms-for-designated-digital-currency/",
-    "description": "Singapore's central bank, the Monetary Authority of Singapore, has unveiled a proposed common protocol aimed at establishing clear conditions for the utilization of digital currencies."
+    "date": "2023-06-21T20:13:05.000Z",
+    "title": "Ticketmaster secures USPTO web3 trademark for online marketplace",
+    "url": "https://crypto.news/ticketmaster-secures-uspto-web3-trademark-for-online-marketplace/",
+    "description": "Ticketmaster has received a web3 trademark from the USPTO, granting the company exclusive rights to operate online marketplaces for crypto-collectibles and non-fungible assets."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-06-21T19:46:45.000Z",
-    "title": "Chainlink releases Q2 2023 product update",
-    "url": "https://crypto.news/chainlink-releases-q2-2023-product-update/",
-    "description": "Chainlink, a web3 services platform, has published its Q2 2023 product update. The update focuses on three pillars: data, computing, and cross-chain capabilities. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-06-21T20:00:21.000Z",
-    "title": "Solana Bulls Must Overcome This Resistance To Avoid A 10% Plunge",
-    "url": "https://www.newsbtc.com/news/solana/solana-bulls-must-overcome-this-resistance-to-avoid-a-10-plunge/",
-    "description": "At present, the price of Solana (SOL) is showing signs of recovery from a corrective phase. However, to sustain the momentum, it is crucial for SOL to surpass a significant resistance level. In the past 24 hours, SOL has experienced a 4% increase in value. Over the course of the past week, the altcoin has displayed notable upward movement, gaining over 9%. Despite the recent price rise, the technical outlook for SOL still leans towards a bearish influence. Both the demand and accumulation for SOL have remained low, indicating a bearish sentiment. The volatility of Bitcoin, with its price reaching $28,900, has affected the overall market, including altcoins. Although some major altcoins have seen price appreciation, they are still struggling to break through immediate resistance levels. Related Reading: US Bitcoin Investor Trading Volume Rises, Stage Set For Another Massive Rally? The stability of the broader market is crucial for the future performance of SOL. The market capitalization of SOL has declined, indicating a higher selling strength in the market Solana Price Analysis: One-Day Chart At the time of writing, SOL was trading at $16.74. The altcoin has rebounded from the price level of $14.40 and is currently showing a steady appreciation on its chart. However, in order for the bullish momentum to strengthen, SOL needs to surpass the immediate resistance level of $17.20. If buyers fail to step in and drive the price higher, there is a possibility of a retracement in the chart. The local support level for SOL is situated at $15.21. If the coin is unable to sustain its position above this support level, it may further decline below $14.40. Technical Analysis Although SOL has recovered from the oversold territory, the buying strength remains relatively weak despite a slight improvement. This is evident from the Relative Strength Index (RSI) being below the half-line, indicating that sellers maintain control over the price action. Additionally, SOL has fallen below the 20-Simple Moving Average (SMA) line, suggesting that demand is still low and sellers are the driving force behind the market momentum. For a more positive outlook, it is essential for SOL to successfully surpass the $17 price level. This breakthrough would potentially attract renewed demand to the market. On the one-day chart, SOL has displayed mixed signals, including the emergence of buy signals. The Moving Average Convergence Divergence (MACD), which indicates momentum and potential shifts, has started forming green histograms associated with buy signals. This suggests the possibility of a positive price change for SOL in the future. Related Reading: Shiba Inu Breaks Through Crucial Resistance Point With 10% Climb On the other hand, the Chaikin Money Flow (CMF), which depicts capital inflows and outflows, has remained below the half-line. This indicates that capital inflows have been relatively low on the chart, implying a lack of significant buying pressure for SOL. Featured Image From UnSplash, Charts From TradingView.com"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-06-21T20:00:51.000Z",
-    "title": "Bitcoin Forming Bullish Picture As BTC Gears Up for Imminent Leg Up, According to Crypto Strategist",
-    "url": "https://dailyhodl.com/2023/06/21/bitcoin-forming-bullish-picture-as-btc-gears-up-for-imminent-leg-up-according-to-crypto-strategist/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/06/bitcoin-bullish-picture-leg.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Closely followed crypto strategist Jason Pizzino believes that it is only a matter of time before the next burst to the upside for Bitcoin (BTC). In a new strategy session, Pizzino tells his 285,000 YouTube subscribers that Bitcoin is in the later stages of a Wyckoff accumulation schematic, which suggests that an asset is forming [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/06/21/bitcoin-forming-bullish-picture-as-btc-gears-up-for-imminent-leg-up-according-to-crypto-strategist/\">Bitcoin Forming Bullish Picture As BTC Gears Up for Imminent Leg Up, According to Crypto Strategist</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-06-21T19:55:39.000Z",
-    "title": "Ethereum (ETH) and Crypto About To Explode to New Highs in Fresh Bull Market: Macro Guru Raoul Pal",
-    "url": "https://dailyhodl.com/2023/06/21/ethereum-eth-and-crypto-about-to-explode-to-new-highs-in-fresh-bull-market-macro-guru-raoul-pal/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/12/Ethereum-Details-Catalysts-That.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Real Vision CEO Raoul Pal is predicting a break out for Ethereum (ETH) and new 2023 highs for the broader crypto market. The former Goldman Sachs executive tells his 996,600 Twitter followers that what he calls the “Exponential Age” has ignited the start of a bull cycle for digital assets. Pal predicts that tech stocks [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/06/21/ethereum-eth-and-crypto-about-to-explode-to-new-highs-in-fresh-bull-market-macro-guru-raoul-pal/\">Ethereum (ETH) and Crypto About To Explode to New Highs in Fresh Bull Market: Macro Guru Raoul Pal</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-06-21T20:30:26.000Z",
+    "title": "Exciting Adventure Awaits as My Neighbor Alice Unveils Alpha Season 3: ELLE, Crafting, and a Free Trial",
+    "url": "https://www.crypto-news-flash.com/exciting-adventure-awaits-as-my-neighbor-alice-unveils-alpha-season-3-elle-crafting-and-a-free-trial/?utm_source=rss&utm_medium=rss&utm_campaign=exciting-adventure-awaits-as-my-neighbor-alice-unveils-alpha-season-3-elle-crafting-and-a-free-trial",
+    "description": "Stockholm, Sweden, June 21st, 2023, Chainwire My Neighbor Alice unveils crafting features, Elle Collaboration, and free trials in the upcoming ALPHA Season 3. My Neighbor Alice, the innovative fully-decentralized open-world game, is thrilled to announce its latest crafting features in its immersive gameplay in Alpha Season 3, launching on June 27, 2023. The Alpha Season [...]"
   }
 ]

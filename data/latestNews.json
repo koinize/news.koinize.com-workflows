@@ -1,72 +1,65 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-06-22T12:00:00.000Z",
-    "title": "Animoca Brands' Anichess Secures $1.5M for Decentralized Chess Game",
-    "url": "https://www.coindesk.com/business/2023/06/22/animoca-brands-anichess-secures-15m-for-decentralized-chess-game/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The game, launching in early 2024, was made in partnership with Chess.com."
+    "date": "2023-06-22T12:18:27.000Z",
+    "title": "First Mover Americas: BTC Crosses $30K and Bitcoin Layer 2 Stacks Networks Gains 15% ",
+    "url": "https://www.coindesk.com/markets/2023/06/22/first-mover-americas-btc-crosses-30k-and-bitcoin-layer-2-stacks-networks-gains-15/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for June 22, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
   },
   {
     "source": "Decrypt",
-    "date": "2023-06-22T12:01:03.000Z",
-    "title": "Ripple Has Played Its Hinman Hand—Could It Help Coinbase?",
-    "url": "https://decrypt.co/145310/ripple-hinman-emails-coinbase",
-    "description": "How will the revelations in the Hinman emails play out for Ripple and Coinbase in their SEC court battles? Legal experts weigh in."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-06-22T11:44:20.000Z",
-    "title": "Bitcoin trades at $500 discount on Binance.US amid liquidity crisis",
-    "url": "https://cryptoslate.com/bitcoin-trades-at-500-discount-on-binance-us-amid-liquidity-issues/",
-    "description": "<p>Bitcoin is trading at a &#8220;heavy discount&#8221; on Binance.US, presenting a significant arbitrage opportunity for traders, according to Kaiko data. Data from Cryptocompare corroborates the above. The flagship digital asset is trading for $29,523 on Binance.US, or $500 lower than on major rivals like Coinbase, Kraken, BitStamp, and others. Meanwhile, it should be noted that [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/bitcoin-trades-at-500-discount-on-binance-us-amid-liquidity-issues/\">Bitcoin trades at $500 discount on Binance.US amid liquidity crisis</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-06-22T11:45:00.000Z",
-    "title": "Radius Raises $1.7M in Pre-Seed Funding Round Led by Hashed",
-    "url": "https://cryptodaily.co.uk/2023/06/radius-raises-dollar17m-in-pre-seed-funding-round-led-by-hashed",
-    "description": "<p>In a significant development in the blockchain ecosystem, Radius, a pioneering blockchain technology company, has successfully raised $1.7 million in a pre-seed funding round. The funding initiative was spearheaded by Hashed VC and also saw participation from a host of other investors, including Superscrypt, Lambdaclass, and Crypto.com.The groundbreaking work of Radius, focuses on Practical Verifiable Delay Encryption (PVDE) and Miner Extractable Value (MEV)-resistant ZK-Rollups, a Layer 2 solution. With these innovations, Radius aims to separate the tasks of sequencing and execution, thereby addressing the damaging effects of centralized sequencing where a single entity exercises control over the ordering of transactions in a block. Or in simple words, Radius is making the blockchain more efficient and secure, by preventing the unfair manipulation of transaction orders.</p>\n\n<p dir=\"ltr\" lang=\"en\">We&rsquo;re incredibly thrilled to announce our $1.7M pre-seed round led by @hashed_official, joined by @superscrypt, @class_lambda, and @Cryptocom_Cap.Radius brings a new paradigm for trustless shared sequencing, revolutionizing the way modular blockchains are built and operated. pic.twitter.com/3QIFHCZLER</p>\n&mdash; R&aacute;dius | Trustless Shared Sequencer (@radius_xyz) June 22, 2023\n<p>\n\n</p>\n<p>Essentially Radius's PVDE technology helps to protect the privacy of transactions by encrypting them. This makes it harder for anyone to manipulate the order of transactions to their advantage, a practice known as maximum extractable value (MEV).</p>\n\n<p>\"We are committed to setting the standard for a trustless shared sequencing layer that not only maximizes revenue for Rollups but also safeguards users from the harmful effects of MEV.\" said the founder of Radius, AJ Ji Hoon Park.</p>\n\n<p>In addition to PVDE, Radius is also developing an MEV-resistant decentralized exchange named 360, aiming to shield users from front-running bots and sandwich attacks. While the launch date for 360 remains unconfirmed, Radius plans to release an early version of its sequencing layer solution early next year, marking another significant milestone in its journey to reshape blockchain technology.Radius has also announced a partnership with Saga, a Rollup-as-a-Service, and joined the Celestia Ecosystem. This collaboration aims to further advance rollup technology and enhance blockchain ecosystem security.</p>\n<p>Radius plans to launch an alpha version of its sequencing layer in the first quarter of 2024, marking its commitment to the further development of blockchain technology.</p>\n<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>"
+    "date": "2023-06-22T12:19:05.000Z",
+    "title": "Atomic Wallet Claims 'Less Than 0.1%' of Users Affected by $100M Hack",
+    "url": "https://decrypt.co/145765/atomic-wallet-claims-less-than-0-1-of-users-affected-by-100m-hack",
+    "description": "The Atomic Wallet team reported that they are working to recover the funds, but would not confirm how much money was stolen in the attack."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-22T12:01:54.000Z",
-    "title": "Gemini’s co-founder reveals a significant phase called ‘The Great Accumulation’ for Bitcoin",
-    "url": "https://www.cryptopolitan.com/accumulation-for-bitcoin-revealed/",
-    "description": "&#8220;The Great Accumulation Race&#8221; for Bitcoin has been sparked by renewed optimism for an approved Bitcoin spot exchange-traded fund (ETF), according to industry experts. Several major players in the investment industry, including Fidelity, Invesco, Wisdom Tree, and Valkyrie, have recently applied for a Bitcoin spot ETF with the United States Securities Exchange Commission (SEC), following ... <a title=\"Gemini&#8217;s co-founder reveals a significant phase called &#8216;The Great Accumulation&#8217; for Bitcoin\" class=\"read-more\" href=\"https://www.cryptopolitan.com/accumulation-for-bitcoin-revealed/\" aria-label=\"More on Gemini&#8217;s co-founder reveals a significant phase called &#8216;The Great Accumulation&#8217; for Bitcoin\">Read more</a>"
+    "date": "2023-06-22T12:33:48.000Z",
+    "title": "Gods Unchained launches to 230 million players on Epic Games Store",
+    "url": "https://www.cryptopolitan.com/gods-unchained-launches-on-epic-games-store/",
+    "description": "Immutable Games, a global pioneer in web3 game creation and publishing, has announced that its flagship product, Gods Unchained – Ethereum&#8217;s highest-grossing trading card game — has become the next crypto game to premiere on major digital distribution platform Epic Games Store (EGS). According to a June 21 release, the game is now available to ... <a title=\"Gods Unchained launches to 230 million players on Epic Games Store\" class=\"read-more\" href=\"https://www.cryptopolitan.com/gods-unchained-launches-on-epic-games-store/\" aria-label=\"More on Gods Unchained launches to 230 million players on Epic Games Store\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-06-22T11:43:55.000Z",
-    "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
-    "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
-    "description": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary."
+    "date": "2023-06-22T12:31:41.000Z",
+    "title": "Ripple receives in-principle regulatory approval in Singapore",
+    "url": "https://www.cryptopolitan.com/ripple-in-principle-regulatory-approval/",
+    "description": "Ripple, a blockchain-based payments firm, has received provisional regulatory approval from Singapore&#8217;s financial regulator, the Monetary Authority of Singapore (MAS), to offer digital asset payments and token products in the country. Ripple&#8217;s subsidiary, Ripple Markets Asia Pacific, will be able to expand its On-Demand Liquidity (ODL) service, which enables customers to move XRP globally without ... <a title=\"Ripple receives in-principle regulatory approval in Singapore\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ripple-in-principle-regulatory-approval/\" aria-label=\"More on Ripple receives in-principle regulatory approval in Singapore\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-06-22T12:14:27.000Z",
+    "title": "Polygon Price Prediction 2023-2032: Is MATIC Going Past $1 Soon?",
+    "url": "https://www.cryptopolitan.com/polygon-price-prediction/",
+    "description": "Polygon Price Prediction 2023-2032 In an official blog post, Polygon explains how they were able to retire $400,000 of carbon credits that offset the entirety of CO2 debt accumulated by the network since inception. Polygon is always on the forefront of green business. They lead their industry by converting to carbon neutrality and moving towards ... <a title=\"Polygon Price Prediction 2023-2032: Is MATIC Going Past $1 Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/polygon-price-prediction/\" aria-label=\"More on Polygon Price Prediction 2023-2032: Is MATIC Going Past $1 Soon?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-06-22T12:00:00.000Z",
-    "title": "Exploring Caged Beasts’ referral program and benefits of ethereum, solana staking",
-    "url": "https://crypto.news/exploring-caged-beasts-referral-program-and-benefits-of-ethereum-solana-staking/",
-    "description": "Staking ethereum and solana yield handsome results in passive income. But the Caged Beasts referral program might be offer better benefits"
+    "date": "2023-06-22T12:22:11.000Z",
+    "title": "Web3 game Gods Unchained expands to Epic Games Store",
+    "url": "https://crypto.news/web3-game-gods-unchained-expands-to-epic-games-store/",
+    "description": "Immutable Games has expanded the reach of its Web3 digital trading card game, Gods Unchained, with its recent launch on the renowned Epic Games Store."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-06-22T12:30:51.000Z",
+    "title": "‘Ripple (XRP) Is A Must-Hold For The Next Bull Run,’ Says Bitcoin Maxi",
+    "url": "https://www.newsbtc.com/analysis/xrp/ripple-xrp-is-a-must-hold-for-the-next-bull-run-says-bitcoin-maxi/",
+    "description": "In the often-polarizing universe of crypto, it isn&#8217;t often that an established Bitcoin maximalist or advocate publicly places a bet on a different coin. However, in a sudden turn of events, Crypto Rover, a crypto influencer and Bitcoin devotee, recently confirmed his substantial investment in XRP. The influencer did not only seem to boast its latest XRP purchase but also gave advice in the same tweet that read &#8220;Ripple is a must-hold for the next Bull Run.&#8221; While this type of word coming from a Bitcoin maxi is quite unusual, there could be possible reasons behind the BTC devotee XRP support. Unforeseen Support For XRP From A Bitcoin Proponent Crypto Rover who is famous for his Bitcoin-centric views recently surprised the crypto community by revealing a major purchase of $250,000 in XRP in recent weeks. He shared this update via a tweet, indicating a departure from his usual investment pattern of Bitcoin holdings. Related Reading: XRP Price Projection: Assessing The Ripple-Colombia Central Bank Partnership According to the influencer, he believes Ripple will emerge winner in its ongoing legal proceedings, which, in his opinion, may lead to a widespread FOMO (Fear of Missing Out) effect. It is worth noting that this factor alone could be one of the reasons behind the Bitcoin Maxi&#8217;s sudden support for XRP.  Ripple will win the case, and the $XRP FOMO will be insane. I have bought $250,000 worth of #XRP in the past few weeks. I don&#8217;t have a lot of #Altcoins in my portfolio now. But Ripple is a must-hold for the next Bull Run. — Crypto Rover (@rovercrc) June 21, 2023 Rover&#8217;s backing of XRP spurred an enthusiastic reaction from the XRP community, leading to speculation and investment interest. Comments following his announcement range from assertions of Ripple&#8217;s stocks and XRP as a &#8216;must-hold&#8217; to enthusiastic declarations of imminent large XRP purchases, citing it as a &#8216;lifetime opportunity&#8217;. Ripple Court Case &#8211; A Deciding Factor For XRP&#8217;s Future? Ripple Labs, the firm responsible for the creation of XRP, is currently in a legal dispute with the United States Securities and Exchange Commission (SEC). The crux of the argument revolves around whether XRP should be classified as a security. So far, Ripple Labs has moved to dismiss the lawsuit filed against it by the SEC. The company maintains that XRP, unlike traditional securities, functions as a digital currency due to its utility and decentralized attributes. Ripple is challenging the SEC&#8217;s jurisdiction in this matter and criticizes the regulatory body for not providing clear guidance on XRP&#8217;s status as a security. The company asserts that the ongoing legal battle has negatively impacted XRP holders and hindered innovation in the crypto industry. As such, the court&#8217;s decision on Ripple&#8217;s request for dismissal is highly anticipated and could significantly influence the course of the lawsuit. Related Reading: XRP Price Could Regain Strength If It Clears This Resistance If approved, it could pose a serious blow to the SEC&#8217;s case and if not, the legal dispute will proceed with the SEC&#8217;s allegations against Ripple still in play. Overall, a win for Ripple could potentially influence how digital assets are classified, improving XRP&#8217;s standing and possibly enhancing its price. Meanwhile, amid the ongoing legal dispute, XRP is still able to mirror the ubiquitous uptrend in the global crypto market. Over the past 24 hours, XRP has surged 3.5% with a market price above $0.5, at the time of writing. Featured image from Shutterstock, Chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-06-22T11:56:37.000Z",
-    "title": "Shiba Inu to Release SHIBA Worldpaper, Aiming to Conquer Billion-Dollar Market with Massive Update – Will the Price Wipe Out Another Zero? Report",
-    "url": "https://www.crypto-news-flash.com/shiba-inu-to-release-shiba-worldpaper-aiming-to-conquer-billion-dollar-market-with-massive-update-will-the-price-wipe-out-another-zero-report/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inu-to-release-shiba-worldpaper-aiming-to-conquer-billion-dollar-market-with-massive-update-will-the-price-wipe-out-another-zero-report",
-    "description": "Following the announcement, Shiba Inu&#8217;s price gained approximately 11 percent in the past 24 hours to trade around $0.00000821 on Thursday. The launch of Shibacals is geared towards increasing utility for SHIB and other crypto projects that integrate the NFC chips. The mainstream adoption of meme coins, including Shiba Inu (SHIB), is significantly shifting from [...]"
+    "date": "2023-06-22T12:37:46.000Z",
+    "title": "Ultimate Guide to Spotting Top & Best Meme Coins – Hollywood X PEPE",
+    "url": "https://www.crypto-news-flash.com/ultimate-guide-to-spotting-top-best-meme-coins-hollywood-x-pepe/?utm_source=rss&utm_medium=rss&utm_campaign=ultimate-guide-to-spotting-top-best-meme-coins-hollywood-x-pepe",
+    "description": "Cryptocurrencies have been taking over the financial world, with meme coins becoming increasingly popular among enthusiasts and investors. One such coin gaining traction is the Hollywood X PEPE $HXPE, best meme coin that&#8217;s currently in its Presale Stage 1 Before we delve deeper into $HXPE and other potential top meme coins, let&#8217;s first understand the [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-06-22T11:48:10.000Z",
-    "title": "Bitcoin Accumulation Race Heats Up as BlackRock Leads ETF Filing",
-    "url": "https://coinedition.com/bitcoin-accumulation-race-heats-up-as-blackrock-leads-etf-filing/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-gain-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Anthony Pompliano, the founder of Pomp Investments, declares that the race to accumulate Bitcoin has begun, citing the recent filing of a BTC spot exchange-traded fund (ETF) application by BlackRock, the world&#8217;s largest investment company. If approved, this would mark the first-ever crypto spot ETF in the United States. While speaking with CNBC Anchor Brian [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/bitcoin-accumulation-race-heats-up-as-blackrock-leads-etf-filing/\">Bitcoin Accumulation Race Heats Up as BlackRock Leads ETF Filing</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-06-22T11:45:43.000Z",
-    "title": "Bloomberg Analyst Mike McGlone Issues Bitcoin Alert, Says BTC To Encounter ‘Major Pressure Factor’ – Here’s Why",
-    "url": "https://dailyhodl.com/2023/06/22/bloomberg-analyst-mike-mcglone-issues-bitcoin-alert-says-btc-to-encounter-major-pressure-factor-heres-why/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/06/Major-Pressure-Factor-btc.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Mike McGlone, Bloomberg Intelligence’s senior macro strategist, isn&#8217;t convinced Bitcoin (BTC) is ready for a bull market. McGlone says in a new interview with David Lin that Bitcoin&#8217;s price jump in the days following BlackRock&#8217;s exchange-traded fund (ETF) application announcement last week has been &#8220;hopium.&#8221; Last Thursday, BlackRock, the largest asset manager in the world, submitted [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/06/22/bloomberg-analyst-mike-mcglone-issues-bitcoin-alert-says-btc-to-encounter-major-pressure-factor-heres-why/\">Bloomberg Analyst Mike McGlone Issues Bitcoin Alert, Says BTC To Encounter ‘Major Pressure Factor’ – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Altcoin Buzz",
+    "date": "2023-06-22T12:30:23.000Z",
+    "title": "3 Coins That Grew +40% In the Last Week",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-coins-that-grew-40-in-the-last-week/",
+    "description": "<p>In the last 7 days, the price of bitcoin has grown 20% due to the great interest of different investment groups in creating an ETF. As a result, altcoins also tend to increase in price. In this article, we will tell you which coins grew by at least 40% in the last 7 days. 1) [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-coins-that-grew-40-in-the-last-week/\">3 Coins That Grew +40% In the Last Week</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

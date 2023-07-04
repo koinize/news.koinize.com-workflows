@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "source": "CoinDesk",
+    "date": "2023-07-04T05:52:31.000Z",
+    "title": "Voyager Creditors Billed $5.1M for March-May by Law Firm",
+    "url": "https://www.coindesk.com/policy/2023/07/04/voyager-creditors-billed-51m-for-march-may-by-law-firm/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Latest bill brings total compensation bills to $16.4 million for bankruptcy and restructuring firm."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-07-04T06:00:37.000Z",
+    "title": "Dappradar: Metaverse Projects Command 43.68% of the Web3 Investments in 2023",
+    "url": "https://news.bitcoin.com/dappradar-metaverse-projects-command-43-68-of-the-web3-investments-in-2023/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Dappradar: Metaverse Projects Command 43.68% of the Web3 Investments in 2023\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_2128971668.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />While metaverse and virtual world projects have nosedived, a recent report of Dappradar, a Web3 tracking site, has revealed that venture capital firms have invested $707 million in these projects since the start of 2023. This means that, even when the metaverse narrative was substituted by meme tokens and artificial intelligence (AI), 43.68% of these [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T06:07:00.000Z",
+    "title": "Winklevoss Presents “Final Offer” in Genesis Crypto Bankruptcy Proceedings",
+    "url": "https://www.cryptopolitan.com/winklevoss-offer-genesis-crypto-bankruptcy/",
+    "description": "In the ongoing bankruptcy restructuring of digital-asset lender Genesis Global Holdco, billionaire Cameron Winklevoss, co-founder of Gemini Trust Co., has put forth what he calls a &#8220;best and final offer.&#8221; Winklevoss took to social media to share the proposal, emphasizing that it serves as the minimum acceptable terms for the creditors involved. With the deadline ... <a title=\"Winklevoss Presents &#8220;Final Offer&#8221; in Genesis Crypto Bankruptcy Proceedings\" class=\"read-more\" href=\"https://www.cryptopolitan.com/winklevoss-offer-genesis-crypto-bankruptcy/\" aria-label=\"More on Winklevoss Presents &#8220;Final Offer&#8221; in Genesis Crypto Bankruptcy Proceedings\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T06:02:13.000Z",
+    "title": "Bluesky Surges in Popularity as Twitter Falters Amid Musk Mistakes",
+    "url": "https://www.cryptopolitan.com/bluesky-surges-in-popularity-twitter-falters/",
+    "description": "In the dynamic world of digital innovation, where competition thrives, the initial fervor surrounding ChatGPT, the chatbot developed by OpenAI, appears to be waning. Recent data reveals a decline in web traffic as desktop and mobile visitors to the platform dropped. Meanwhile, as ChatGPT faces challenges, a promising Twitter rival called Bluesky is enjoying a ... <a title=\"Bluesky Surges in Popularity as Twitter Falters Amid Musk Mistakes\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bluesky-surges-in-popularity-twitter-falters/\" aria-label=\"More on Bluesky Surges in Popularity as Twitter Falters Amid Musk Mistakes\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T05:54:08.000Z",
+    "title": "Monero (XMR) vs. Aptos (APT) Price Prediction: Uwerx (WERX) Continues To Surge On Presale",
+    "url": "https://www.cryptopolitan.com/monero-xmr-vs-aptos-apt-price-prediction-uwerx-werx-continues-to-surge-on-presale/",
+    "description": "There are no signs that crypto trading will cease soon, despite the coin market&#8217;s poor performance lately. This is because new projects are introduced to the coin market constantly, all aiming to succeed. One new project that is about to enter the market is Uwerx, and analysts believe it has all it takes to be ... <a title=\"Monero (XMR) vs. Aptos (APT) Price Prediction: Uwerx (WERX) Continues To Surge On Presale\" class=\"read-more\" href=\"https://www.cryptopolitan.com/monero-xmr-vs-aptos-apt-price-prediction-uwerx-werx-continues-to-surge-on-presale/\" aria-label=\"More on Monero (XMR) vs. Aptos (APT) Price Prediction: Uwerx (WERX) Continues To Surge On Presale\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T05:53:22.000Z",
+    "title": "Ethereum Implements New Token Standard, ERC-223, Enhancing Security and Functionality",
+    "url": "https://www.cryptopolitan.com/ethereum-implements-new-token-standard/",
+    "description": "In an exciting development for the Ethereum blockchain, a new token standard called ERC-223 has been added to the Ethereum documentation. This standard aims to address the flaws of its predecessor, ERC-20, and introduce enhanced security and functionality to the Ethereum network. With the launch of ERC-223, ETH demonstrates its ability to evolve and overcome ... <a title=\"Ethereum Implements New Token Standard, ERC-223, Enhancing Security and Functionality\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ethereum-implements-new-token-standard/\" aria-label=\"More on Ethereum Implements New Token Standard, ERC-223, Enhancing Security and Functionality\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T05:49:46.000Z",
+    "title": "Emerging Technologies in the Online Casino World: Blockchain and Beyond",
+    "url": "https://www.cryptopolitan.com/emerging-technologies-in-the-online-casino-world-blockchain-and-beyond/",
+    "description": "The landscape of online casinos is a vibrant tapestry woven with threads of constant innovation. From platforms that have long set the standard for online gambling experiences to the emerging technologies reshaping the industry&#8217;s future, the world of online casinos is teeming with change and growth. This article delves into the impact of groundbreaking technologies ... <a title=\"Emerging Technologies in the Online Casino World: Blockchain and Beyond\" class=\"read-more\" href=\"https://www.cryptopolitan.com/emerging-technologies-in-the-online-casino-world-blockchain-and-beyond/\" aria-label=\"More on Emerging Technologies in the Online Casino World: Blockchain and Beyond\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-07-04T05:45:52.000Z",
+    "title": "Golteum (GLTM) is set to be greater than Litecoin (LTC) in the crypto market",
+    "url": "https://www.cryptopolitan.com/golteum-gltm-is-set-to-be-greater-than-litecoin-ltc-in-the-crypto-market/",
+    "description": "The cryptocurrency market has had many altcoins as investment options for investors based on their interests and needs to diversify their portfolios.&#160; Safety is also another factor that investors look out for with cryptocurrency investments, and only the best and most secure projects get to rank in the cryptocurrency market.&#160; Among the top 10 coins ... <a title=\"Golteum (GLTM) is set to be greater than Litecoin (LTC) in the crypto market\" class=\"read-more\" href=\"https://www.cryptopolitan.com/golteum-gltm-is-set-to-be-greater-than-litecoin-ltc-in-the-crypto-market/\" aria-label=\"More on Golteum (GLTM) is set to be greater than Litecoin (LTC) in the crypto market\">Read more</a>"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-07-04T06:03:08.000Z",
+    "title": "5 P2E Blockchain Gaming Coins That Can Explode 20x By 2024",
+    "url": "https://www.crypto-news-flash.com/5-p2e-blockchain-gaming-coins-that-can-explode-20x-by-2024/?utm_source=rss&utm_medium=rss&utm_campaign=5-p2e-blockchain-gaming-coins-that-can-explode-20x-by-2024",
+    "description": "Embark on an exciting journey into the world of play-to-earn (P2E) blockchain gaming as we uncover five remarkable gaming coins with the potential to surge by an astonishing 20X by 2024. These gaming coins serve as gateways to immersive virtual realms, where players can not only engage in thrilling gameplay but also earn real-world value [...]"
+  }
+]

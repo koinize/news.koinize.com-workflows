@@ -1,79 +1,44 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-07-16T16:53:38.000Z",
-    "title": "Celo blockchain proposes return to Ethereum ecosystem, transition to L2 ",
-    "url": "https://cointelegraph.com/news/celo-blockchain-proposes-return-to-ethereum-ecosystem-transition-to-l2",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/dce7bc67-6e04-4eb1-ae70-9c0df1067e60.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>According to cLabs, the Celo transition would include leveraging OP Stack as the architecture to become an Ethereum L2 blockchain. </p>\n                    <p><p>CLabs, the organization responsible for developing the Celo blockchain, is <a href=\"https://forum.celo.org/t/clabs-proposal-for-celo-to-transition-to-an-ethereum-l2/6109\" target=\"_blank\" rel=\"noopener nofollow\">seeking</a> to return to the Ethereum ecosystem by transitioning from an independent EVM-compatible layer-1 blockchain to an Ethereum layer-2 solution. </p><p>According to a proposal discussion on Celo's governance forum, the transition would include leveraging OP Stack as the architecture to become an Ethereum L2 blockchain, eliminating the need to monitor tooling and libraries composability through upgrades, thus \"making it easy for Celo developers to utilize the full gambit of Ethereum tooling/libraries.\"</p><p>Other key differentiating factors would include an off-chain data availability layer operated by Ethereum node operators and protected by restaked Ether (ETH), along with transforming current validators into decentralized sequencers for L2. </p><p>Layer-1 and Layer-2 blockchains differ primarily in purpose, but also in their design and architecture. While L1 networks are designed to be self-sufficient, L2 solutions are aimed at enhancing the performance of L1 blockchains rather than operating independently.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-07/4f42b160-1a1b-41fb-a75d-99fbce081ce6.jpeg\"  /><figcaption style=\"text-align: center;\"><em>cLabs proposed upgrade. Source: Celo's governance forum.</em></figcaption></figure><p>Benefits from the transition would allegedly include increased security while maintaining low gas fees. \"We expect no material change of gas fees. As the proposal is for an L2 solution with off-chain data availability, gas costs can be a lot lower than on other L2s,\" reads the proposal, scheduled to be discussed on a governance call on July 21 before being released for a \"temperature check\" on the following day. </p><p>By adopting the proposal, end-users would not be affected by the migration, and CELO token holders would retain control over core contracts by voting on governance proposals. Additionally, CELO tokens will also be used to pay for gas. </p><p>Although the transition seems purely technical, it may affect the Celo ecosystem in different ways. As per the forum discussion, it could potentially enable more liquidity to flow between Celo and other chains, but also generate extra costs for sequencers, such as fees on the data availability layer and gas on Ethereum. In addition, it is also unclear whether sequencers' rewards would match with current validators' rewards. </p><p>With blockchains becoming increasingly competitive, Celo<a href=\"https://cointelegraph.com/news/celo-president-rene-reinsberg-explains-why-the-protocol-is-optimizing-for-mobile\"> has been working on improving its mobile experience</a> by incorporating increased functionality and particular features. The Celo ecosystem is also targeting developing economies, where more technological solutions for payments are in demand.</p><p><em><strong><em><a href=\"https://mint.cointelegraph.com/?url=https://cointelegraph.com/news/coinbase-pauses-staking-services-following-regulators-orders&amp;utm_source=cointelegraph_com&amp;utm_medium=appendix&amp;utm_campaign=articles\">Collect this article as an NFT</a></em></strong><em> to preserve this moment in history and show your support for independent journalism in the crypto space.</em></em></p><p><a href=\"https://cointelegraph.com/magazine/ethereums-layer-2-zk-rollups-can-become-interoperable/\"><strong><em>Magazine: Here’s how Ethereum’s ZK-rollups can become interoperable</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-07-16T17:22:07.000Z",
+    "title": "This Week on Crypto Twitter: XRP Scores Courtroom Victory Against SEC, Cryptoverse Explodes",
+    "url": "https://decrypt.co/148764/this-week-on-crypto-twitter-xrp-versus-sec-victory-security",
+    "description": "The universe gave crypto fans a lot to chew on this week. Some of it good, some of it outrageous, and all of it highly entertaining."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-16T17:08:59.000Z",
-    "title": "EOS Price Prediction 2023-2032: Is EOS a good investment?",
-    "url": "https://www.cryptopolitan.com/eos-price-prediction/",
-    "description": "EOS Price Prediction 2023-2032 EOS, a crypto token formed by the company to promote its decentralized app creation, ranks #47, a little lower on the charts, thanks to its slightly lower market cap of $3,365,472,360. Lately, it has resumed its upward projectile with renewed activities and is viewed by some analysts as a &#8220;ticking time ... <a title=\"EOS Price Prediction 2023-2032: Is EOS a good investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/eos-price-prediction/\" aria-label=\"More on EOS Price Prediction 2023-2032: Is EOS a good investment?\">Read more</a>"
+    "date": "2023-07-16T17:33:25.000Z",
+    "title": "Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?",
+    "url": "https://www.cryptopolitan.com/cosmos-price-prediction/",
+    "description": "Cosmos Price Prediction 2023-2032 Binance chief executive Changpeng Zhao likened the recent FTX collapse to the start of the 2008 financial crisis. Will its demise cause other crypto firms to fold? The debacle promises to have its repercussions in 2023 That&#8217;s the essential question, for now, is how will this affect our Cosmos Price Prediction? ... <a title=\"Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cosmos-price-prediction/\" aria-label=\"More on Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-16T17:05:07.000Z",
-    "title": "Aptos Price Prediction for 2023 – 2032: Will APT Token Hold Bullish Hopes?",
-    "url": "https://www.cryptopolitan.com/aptos-price-prediction/",
-    "description": "Aptos Price Prediction 2023-2032 Cryptopolitan foresees risk factors moving from&#160;Bitcoin&#160;to Ethereum-specific risk factors with the increasing importance of market factors, providing evidence for decoupling on-chain and off-chain trading activity. There was evidence that, unlike traditional financial markets, cryptocurrency volatility is not associated with market downturns. Observers also noted that, after gaining widespread attention and with ... <a title=\"Aptos Price Prediction for 2023 &#8211; 2032: Will APT Token Hold Bullish Hopes?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/aptos-price-prediction/\" aria-label=\"More on Aptos Price Prediction for 2023 &#8211; 2032: Will APT Token Hold Bullish Hopes?\">Read more</a>"
+    "date": "2023-07-16T17:32:58.000Z",
+    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
+    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
+    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s ... <a title=\"Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chainlink-price-prediction/\" aria-label=\"More on Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-16T17:03:39.000Z",
-    "title": "Behind closed doors: Putin’s intriguing discussions",
-    "url": "https://www.cryptopolitan.com/closed-doors-putin-intriguing-discussions/",
-    "description": "In a world where political chess games are played out in full view of the international community, Russian President Vladimir Putin engages in compelling dialogues that never fail to spark intrigue. In a recent clandestine communication, Putin found himself in conversation with South African President Cyril Ramaphosa, discussing a range of contentious issues, from the ... <a title=\"Behind closed doors: Putin&#8217;s intriguing discussions\" class=\"read-more\" href=\"https://www.cryptopolitan.com/closed-doors-putin-intriguing-discussions/\" aria-label=\"More on Behind closed doors: Putin&#8217;s intriguing discussions\">Read more</a>"
+    "date": "2023-07-16T17:32:30.000Z",
+    "title": "NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?",
+    "url": "https://www.cryptopolitan.com/near-price-prediction/",
+    "description": "NEAR Price Prediction 2023-2032 Near Protocol (NEAR) is a blockchain platform with significant attention and partnerships within the cryptocurrency industry. Initially established by a small team in San Francisco, NEAR Protocol has rapidly expanded its influence and formed collaborations with industry giants. As a result, it has witnessed a consistent upward trajectory since its inception. ... <a title=\"NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/near-price-prediction/\" aria-label=\"More on NEAR Price Prediction 2023-2032: Is the NEAR Protocol a Good Investment?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-16T16:56:47.000Z",
-    "title": "Israel’s Military Deploys AI Systems in Combat Operations, Raising Ethical Concerns",
-    "url": "https://www.cryptopolitan.com/israels-military-deploys-ai-systems-in-combat-operations-raising-ethical-concerns/",
-    "description": "The Israel Defense Forces (IDF) have discreetly integrated artificial intelligence (AI) into their military operations, utilizing AI recommendation systems to select targets for air strikes and streamline wartime logistics. While human operators still oversee and approve individual targets and plans, critics warn of the potential dangers associated with increasingly autonomous systems. The IDF&#8217;s deployment of ... <a title=\"Israel&#8217;s Military Deploys AI Systems in Combat Operations, Raising Ethical Concerns\" class=\"read-more\" href=\"https://www.cryptopolitan.com/israels-military-deploys-ai-systems-in-combat-operations-raising-ethical-concerns/\" aria-label=\"More on Israel&#8217;s Military Deploys AI Systems in Combat Operations, Raising Ethical Concerns\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-07-16T16:48:11.000Z",
-    "title": "China beckons global investors amidst faltering economy",
-    "url": "https://www.cryptopolitan.com/china-beckons-global-investors/",
-    "description": "Amid the tempestuous waves of its faltering economy, China is extending an olive branch to global investors. Beijing officials are striving to fortify confidence in their nation&#8217;s economy by hosting a novel symposium, set to bring together world-renowned investors. This pivotal move aims to buoy foreign investment, despite the nation&#8217;s economic frailty and escalating geopolitical ... <a title=\"China beckons global investors amidst faltering economy\" class=\"read-more\" href=\"https://www.cryptopolitan.com/china-beckons-global-investors/\" aria-label=\"More on China beckons global investors amidst faltering economy\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-07-16T16:48:06.000Z",
-    "title": "Top Blockchain Development Companies in Russia: Consider Long-Term and Short-Term Strategies",
-    "url": "https://www.cryptopolitan.com/blockchain-development-companies-in-russia/",
-    "description": "After the widespread adoption of cryptocurrencies, blockchain technology has emerged as a highly promising technology with the potential to revolutionize businesses. Today, numerous large and medium-sized enterprises are actively exploring the possibilities of blockchain development to gain a competitive edge in the market. The global blockchain technology market is projected to surpass USD 39 billion ... <a title=\"Top Blockchain Development Companies in Russia: Consider Long-Term and Short-Term Strategies\" class=\"read-more\" href=\"https://www.cryptopolitan.com/blockchain-development-companies-in-russia/\" aria-label=\"More on Top Blockchain Development Companies in Russia: Consider Long-Term and Short-Term Strategies\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-07-16T16:43:00.000Z",
-    "title": "Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?",
-    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
-    "description": "Binance Coin Price Prediction 2023-2032 Despite the gains made in the past couple of months, BNB and the entire crypto market seem to be experiencing winter in the summer. BNB prices have dropped by 23.95% since April 2023. What does the future hold for Binance Coin? How much is BNB worth? The current Binance coin ... <a title=\"Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-coin-price-prediction/\" aria-label=\"More on Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\">Read more</a>"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-07-16T17:06:58.000Z",
-    "title": "InQubeta inspires Polkadot and other crypto projects to integrate AI",
-    "url": "https://crypto.news/inqubeta-inspires-polkadot-and-other-crypto-projects-to-integrate-ai/",
-    "description": "Inspired by InQubeta&#8217;s achievements, other projects, including Polkadot, are exploring integrating AI technology into their platforms. InQubeta, an AI-based crowdfunding platform, сaptured the attention of both investors and industry leaders with its ongoing presale. It has already raised over $1.3&#8230;"
+    "date": "2023-07-16T17:13:07.000Z",
+    "title": "Twitter is still not making Elon Musk any money",
+    "url": "https://www.cryptopolitan.com/twitter-still-not-making-elon-musk-any-money/",
+    "description": "In the swirling whirl of the social media landscape, Twitter, under the stewardship of Elon Musk, continues to navigate turbulent waters, grappling with a striking lack of financial buoyancy. A staggering drop in ad revenue and a burdensome debt stack are primarily to blame for the platform&#8217;s failure to generate positive cash flow. Sagging profits, ... <a title=\"Twitter is still not making Elon Musk any money\" class=\"read-more\" href=\"https://www.cryptopolitan.com/twitter-still-not-making-elon-musk-any-money/\" aria-label=\"More on Twitter is still not making Elon Musk any money\">Read more</a>"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-07-16T16:47:14.000Z",
-    "title": "Bitcoin Transaction Fees Hit Record Low: A Game-Changer for Adoption",
-    "url": "https://www.crypto-news-flash.com/bitcoin-transaction-fees-hit-record-low-a-game-changer-for-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-transaction-fees-hit-record-low-a-game-changer-for-adoption",
-    "description": "<img width=\"512\" height=\"228\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-94.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-94.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-94-300x134.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Bitcoin transaction fees have plummeted by around 96% due to a decrease in network congestion and the implementation of a modified version of the BRC-20 standard. Despite the low fees, the debate around Bitcoin NFTs continues, with supporters emphasizing the blockchain&#8217;s expanded capabilities and critics expressing concerns about network congestion. According to data from the [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-07-16T16:55:47.000Z",
-    "title": "Ripple’s Brad Garlinghouse Says Landmark Ruling Puts SEC in Check, Calls for Clear Rules of the Road for Crypto",
-    "url": "https://dailyhodl.com/2023/07/16/ripples-brad-garlinghouse-says-landmark-ruling-puts-sec-in-check-calls-for-clear-rules-of-the-road-for-crypto/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/09/Lawsuit-Filings-Will-ripple.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Ripple Labs CEO Brad Garlinghouse says that the most recent landmark ruling against the U.S. Securities and Exchange Commission (SEC) has put the regulatory agency in check. In a new interview with CNBC, Garlinghouse says Judge Analisa Torres’ ruling that Ripple’s automated, open-market sales of XRP don’t count as securities is a huge win for [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/07/16/ripples-brad-garlinghouse-says-landmark-ruling-puts-sec-in-check-calls-for-clear-rules-of-the-road-for-crypto/\">Ripple’s Brad Garlinghouse Says Landmark Ruling Puts SEC in Check, Calls for Clear Rules of the Road for Crypto</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-07-16T17:37:04.000Z",
+    "title": "Crypto Community Predicts Cardano (ADA) Price for July 31 with 86% Historical Accuracy",
+    "url": "https://www.crypto-news-flash.com/crypto-community-predicts-cardano-ada-price-for-july-31-with-86-historical-accuracy/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-community-predicts-cardano-ada-price-for-july-31-with-86-historical-accuracy",
+    "description": "<img width=\"1000\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Cardano-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano ADA\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Cardano-2.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Cardano-2-300x203.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Cardano-2-768x518.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Cardano-2-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Cardano is one of the biggest beneficiary of the XRP-fueled market rally. The coin is projected to reach an average price of $0.3793 by July 31 with an 86% historical accuracy. Following Ripple Lab&#8217;s momentary victory over the United States Securities and Exchange Commission (SEC), the value of many tokens printed bullish runs, especially those [...]"
   }
 ]

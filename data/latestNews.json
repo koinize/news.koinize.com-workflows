@@ -1,93 +1,107 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-07-25T15:10:15.000Z",
-    "title": "Crypto Exchange KuCoin to 'Adjust Some Personnel as Needed', but Denies Report of Major Layoffs",
-    "url": "https://www.coindesk.com/business/2023/07/25/crypto-exchange-kucoin-to-adjust-some-personnel-as-needed-denies-layoffs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "A report circulated on Twitter on Tuesday that the exchange plans to eliminate 30% of its workforce amid declining profit."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-07-25T15:16:18.000Z",
-    "title": "Solana game developer Automata announces mass layoffs",
-    "url": "https://cointelegraph.com/news/solana-game-developer-automata-announces-mass-layoffs",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-07/3eb8fd8a-6cf1-4768-b223-36eb393f9c61.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>\"It is with a heavy heart that I am writing today to share news about team restructuring efforts we are effectuating today,\" wrote CEO and co-founder Michael Wagner.  </p>\n                    <p><p>Solana game developer Automata (ATMTA) will undergo \"a significant headcount reduction\" to preserve its ability to develop Star Atlas. After the restructuring, the Automata team will comprise just 45 staff, compared to 235 in late 2022.</p><p>According to the July 24 <a href=\"https://discord.com/channels/789226204980707409/799478132993425429\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a> on Discord, Michael Wagner, CEO and co-founder of ATMTA, said the restructured team will instead shift its focus to \"delivering SAGE and the newly announced Crew Mobile App.\" Meanwhile, the development of a software development kit (SDK) combining Unreal Engine 5 and Solana will \"resume at a significantly slower pace.\" The SDK serves as the basis for the Star Atlas game.</p><p>In explaining the changes, Wagner wrote that approximately 33% of the project's revenue was taken as in-game token Atlas, which the team \"steadfastly held.\" The token has lost approximately 80% of its value in the past year. In addition:</p><blockquote>\"We also had to pay a material tax liability approaching $30 million. And as many of you already know, we lost approximately $15 million from our treasury with the collapse of FTX, which represented a significant portion of our liquid cash balance.\"</blockquote><p>Developers said that the team managed to recover a \"sizable portion\" of the FTX funds in January, but runway remains \"greatly reduced.\" Wagner also stated that it was \"unlikely\" for the project to close an equity and debt financing deal signed in January.</p><blockquote>\"It is a hard truth that our current high rate of AAA-quality development is capital intensive and, at present, unsustainable without a significant shift in business strategy.\"</blockquote><p>At the same time, the Solana blockchain <a href=\"https://cointelegraph.com/news/solana-uptime-improves-with-one-outage-this-year\">recorded all-time high usage</a> in the first half of 2023. The network had a 100% uptime in Q2. The Solana Foundation introduced grants to support the ecosystem earlier this year. </p><p><strong><em>Magazine: <a href=\"https://cointelegraph.com/magazine/how-smart-people-invest-in-dumb-memecoins-3-point-plan-for-success/\">How smart people invest in dumb memecoins: 3-point plan for success</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-07-25T16:00:59.000Z",
+    "title": "Solana Gaming Franchise Aurory Expands to Ethereum Layer-2 Arbitrum",
+    "url": "https://decrypt.co/149830/solana-gaming-franchise-aurory-expands-ethereum-layer-2-arbitrum",
+    "description": "The blockchain world of Aurory just got a little bigger. The studio behind two upcoming NFT games is going cross-chain to Arbitrum."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-07-25T15:14:55.000Z",
-    "title": "Worldcoin faces regulatory scrutiny amid community backlash on privacy concerns",
-    "url": "https://cryptoslate.com/worldcoin-faces-regulatory-scrutiny-amid-community-backlash-on-privacy-concerns/",
-    "description": "<p>Worldcoin&#8217;s (WLD) recent launch has drawn Britain&#8217;s regulatory scrutiny amid community concerns over its privacy issues. Reuters reported that a spokesperson for the Information Commissioner&#8217;s Office (ICO) acknowledged the project&#8217;s launch, adding that the regulatory body would inquire further about its operations. ICO has yet to respond to CryptoSlate&#8217;s request for comment at the time [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/worldcoin-faces-regulatory-scrutiny-amid-community-backlash-on-privacy-concerns/\">Worldcoin faces regulatory scrutiny amid community backlash on privacy concerns</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-07-25T16:05:37.000Z",
+    "title": "FOMC preview: Brace for impact",
+    "url": "https://cryptoslate.com/insights/fomc-preview-brace-for-impact/",
+    "description": "<p>Quick Take As the upcoming FOMC meeting looms tomorrow, July 26, anticipation builds up around the Federal Reserve&#8217;s projected interest rate hike of another 25 basis points. Market estimates attribute a near-certainty to this adjustment, assigning it a 99% probability. This increment would bring the federal funds rate to a range between 5.25 and 5.50 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/fomc-preview-brace-for-impact/\">FOMC preview: Brace for impact</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-07-25T16:00:35.000Z",
+    "title": "Bitcoin sees realized losses as it dips below $30K",
+    "url": "https://cryptoslate.com/bitcoin-sees-50m-in-realized-losses-as-it-dips-below-30k/",
+    "description": "<p>Bitcoin slipping to $29,200 followed a two-month trading period in which BTC retained a tight range between $30,000 and $31,000. The drop was substantial, causing the most significant liquidation event in recent weeks, accounting for around $85 million. This shift was particularly unexpected given Bitcoin&#8217;s previously robust support level of $30,000. To unpack Bitcoin&#8217;s price [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/bitcoin-sees-50m-in-realized-losses-as-it-dips-below-30k/\">Bitcoin sees realized losses as it dips below $30K</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2023-07-25T15:27:34.000Z",
-    "title": "Worldcoin’s Shady History and Data Collection Practices: MIT Technology Review",
-    "url": "https://cryptobriefing.com/worldcoins-shady-history-and-data-collection-practices-mit-technology-review/?utm_source=feed&utm_medium=rss",
-    "description": "Worldcoin has been courting users with a plan as ambitious as it is controversial and was recently launched on July 24, 2023. Built on the promise of an equitably distributed,..."
+    "date": "2023-07-25T15:53:57.000Z",
+    "title": "DeFi Hack Worth $3.4M Strikes EraLend, zkSync’s Top Lender",
+    "url": "https://cryptobriefing.com/defi-hack-strikes-eralend-zksyncs/?utm_source=feed&utm_medium=rss",
+    "description": "EraLend, a lending protocol on Ethereums scaling blockchain, zkSync, faced a substantial exploit that resulted in a loss of $3.4 million, according to an analysis by CertiK, a leading firm..."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-07-25T16:00:00.000Z",
+    "title": "Avalanche Foundation's Bold Move Towards Tokenised Assets",
+    "url": "https://cryptodaily.co.uk/2023/07/avalanche-foundation-bold-move-towards-tokenised-assets",
+    "description": "<p>Avalanche Foundation has earmarked a whopping $50M to acquire assets that are tokenised on its blockchain.&nbsp;</p>\nReshaping the financial landscape\n<p>In a blog on the Avalanche website, the ambitious venture, named \"Avalanche Vista,\" is explained. By converting real-world assets into digital tokens on the blockchain, Avalanche aims to revolutionise the way assets are viewed and handled, making the process faster, more scalable, and tailored to specific needs.&nbsp;</p>\n<p>This significant financial commitment underscores the foundation's vision of reshaping the financial landscape. By leveraging Avalanche's cutting-edge consensus mechanism, innovative Subnet structure, and technological prowess, the foundation seeks to propel the concept of tokenization into the mainstream. The goal? To showcase how blockchain can transform traditionally cumbersome processes like asset issuance, settlement, and management.&nbsp;</p>\nA new era of tokenisation\n<p>John Wu, Ava Labs' President, remarked:</p>\n\n<p>\"Asset tokenization isn&rsquo;t just the future of capital markets, it&rsquo;s a critical driver of the present,&rdquo; said John Wu, President of Ava Labs. &ldquo;The groundswell of momentum across institutions building on-chain has been astounding, and the Avalanche Foundation is taking a big leap forward with this initiative.\"&nbsp;</p>\n\n<p>Historically, private market investments have been a playground for the elite. But the barriers that kept many at bay, such as high operational costs and manual processes, are being dismantled. By merging on-chain asset management with tokenization, we're ushering in a new era of efficiency and enhanced user experience.</p>\nA $20 trillion market by 2030\n<p>Reports suggest a bright future for tokenised assets. Security Token Advisors found that a staggering 77% of capital market players foresee the digitization of traditional securities in the next decade. By 2030, the market for tokenised securities could skyrocket to $20T. Moreover, VanEck anticipates institutions will tokenise assets worth $25B in 2023. </p>\n<p>Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-07-25T16:00:41.000Z",
+    "title": "Biggest Movers: DOGE Surges to Fresh 2-Month High, AVAX Rebounds on Tuesday",
+    "url": "https://news.bitcoin.com/biggest-movers-doge-surges-to-fresh-2-month-high-avax-rebounds-on-tuesday/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Biggest Movers: DOGE Surges to Fresh 2-Month High, Whilst AVAX Rebounds on Tuesday\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/07/shutterstock_1295015857.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Dogecoin rose for a third consecutive session on Tuesday, as markets continue to speculate what role the meme coin could play on the newly rebranded X platform. The latest surge took the price to its highest level since early May. Avalanche was another notable gainer today, rebounding from recent losses. Dogecoin (DOGE) Dogecoin (DOGE) climbed [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:32:23.000Z",
-    "title": "Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?",
-    "url": "https://www.cryptopolitan.com/flow-coin-price-prediction/",
-    "description": "Flow Coin Price Prediction 2023-2032 Seasoned traders go by the time-tested formula: invest&#160;most of your crypto portfolio in BTC (50%); 35% in a basket of big-cap coins, and the rest in small projects with huge upside.&#160;But for beginners, all cryptocurrencies are risky&#160;investments, so they must tread lightly and keep all their senses open in the ... <a title=\"Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/flow-coin-price-prediction/\" aria-label=\"More on Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?\">Read more</a>"
+    "date": "2023-07-25T16:08:11.000Z",
+    "title": "Worldcoin’s token launch sparks controversy amidst price fluctuations",
+    "url": "https://www.cryptopolitan.com/worldcoins-token-launch-sparks-controversy-amidst-price-fluctuations/",
+    "description": "Worldcoin&#8217;s native token, WLD, experienced a surge in value following its listing on major crypto exchanges, soaring to $3.58 before retracing to $2.28 at the time of writing, according to CoinMarketCap data. The project, co-founded by Sam Altman, seeks to revolutionize identity verification using a hardware unit known as the Orb, which scans individuals&#8217; irises. ... <a title=\"Worldcoin&#8217;s token launch sparks controversy amidst price fluctuations\" class=\"read-more\" href=\"https://www.cryptopolitan.com/worldcoins-token-launch-sparks-controversy-amidst-price-fluctuations/\" aria-label=\"More on Worldcoin&#8217;s token launch sparks controversy amidst price fluctuations\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:28:19.000Z",
-    "title": "Algorand Price Prediction 2023-2032: Resurgence possible?",
-    "url": "https://www.cryptopolitan.com/algorand-price-prediction/",
-    "description": "Algorand Price Prediction 2023-2032 Algorand is one of the best choices considering investing in cryptocurrency. However, it is insufficient to hold the ALGO cryptocurrency in high esteem. The coin has to perform up to expectations. You must look at Algorand’s price prediction from 2023 to 2032, its expected minimum price, and what it brings. For ... <a title=\"Algorand Price Prediction 2023-2032: Resurgence possible?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/algorand-price-prediction/\" aria-label=\"More on Algorand Price Prediction 2023-2032: Resurgence possible?\">Read more</a>"
+    "date": "2023-07-25T16:06:52.000Z",
+    "title": "Japan unveils new Web3 promotion policies",
+    "url": "https://www.cryptopolitan.com/japan-unveils-new-web3-promotion-policies/",
+    "description": "In a recent annual broad policy outline, Japan’s Prime Minister Fumio Kishida laid out the country’s commitment to enhancing user protection while simultaneously promoting the adoption of Web3 tokens and invigorating the content industry. The announcement was made during the WebX conference held in Tokyo, where the ruling Liberal Democratic Party exhibited its support for ... <a title=\"Japan unveils new Web3 promotion policies\" class=\"read-more\" href=\"https://www.cryptopolitan.com/japan-unveils-new-web3-promotion-policies/\" aria-label=\"More on Japan unveils new Web3 promotion policies\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:25:05.000Z",
-    "title": "Aave Price Prediction 2023-2032: Is AAVE a Good Investment?",
-    "url": "https://www.cryptopolitan.com/aave-price-prediction/",
-    "description": "Aave Price Prediction 2023-2032 How much is Aave worth today? Today&#8217;s Aave price is $70.69, with a 24-hour trading volume of $46,901,072. Aave is up 1.84% in the last 24 hours. The current CoinMarketCap ranking is #42, with a live market cap of $1,024,249,121. It has a circulating supply of 14,488,605 AAVE coins and a max. supply of 16,000,000 AAVE ... <a title=\"Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/aave-price-prediction/\" aria-label=\"More on Aave Price Prediction 2023-2032: Is AAVE a Good Investment?\">Read more</a>"
+    "date": "2023-07-25T16:02:07.000Z",
+    "title": "ApeCoin Price Prediction 2023-2032: BAYC sales crush, Sell Sentiment for APE?",
+    "url": "https://www.cryptopolitan.com/apecoin-price-prediction/",
+    "description": "ApeCoin Price Prediction 2023-2032 The NFT industry has been booming for the past few years and is not stopping anytime soon. The NFT project Bored Ape Yacht Club has been one of the most successful in the blockchain industry. However, recent statistics indicate that the project is losing its momentum. Various APE price highlights unfold ... <a title=\"ApeCoin Price Prediction 2023-2032: BAYC sales crush, Sell Sentiment for APE?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/apecoin-price-prediction/\" aria-label=\"More on ApeCoin Price Prediction 2023-2032: BAYC sales crush, Sell Sentiment for APE?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:20:07.000Z",
-    "title": "ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?",
-    "url": "https://www.cryptopolitan.com/icp-price-prediction/",
-    "description": "ICP Price Prediction 2023-2032 Internet Computer is the first cryptocurrency backed by a protocol. So many crypto experts believe ICP is a good investment and could grow further and, with new developments, could get better. ICP, the native token of the Internet Computer network, is mainly used for processing the network&#8217;s power. Will ICP Price ... <a title=\"ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/icp-price-prediction/\" aria-label=\"More on ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?\">Read more</a>"
+    "date": "2023-07-25T15:59:51.000Z",
+    "title": "We’re ignoring stablecoin risks, says CFTC chair",
+    "url": "https://www.cryptopolitan.com/were-ignoring-stablecoin-risks-cftc-chair/",
+    "description": "Stablecoins &#8211; a form of cryptocurrency that is supposedly backed by real assets &#8211; are increasingly gaining popularity in the financial world. Despite their potential to revolutionize the payment mechanism, their risks are being largely overlooked, warned Timothy Massad, former chair of the Commodity Futures Trading Commission (CFTC). He posits that the persistent disregard for ... <a title=\"We&#8217;re ignoring stablecoin risks, says CFTC chair\" class=\"read-more\" href=\"https://www.cryptopolitan.com/were-ignoring-stablecoin-risks-cftc-chair/\" aria-label=\"More on We&#8217;re ignoring stablecoin risks, says CFTC chair\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:18:22.000Z",
-    "title": "Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?",
-    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
-    "description": "Shiba Inu Price Prediction 2023-2032 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of ... <a title=\"Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/shiba-inu-price-prediction/\" aria-label=\"More on Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\">Read more</a>"
+    "date": "2023-07-25T15:54:20.000Z",
+    "title": "Optimism Price Prediction 2023 – 2032: Will OP Token Gain Momentum In 2023?",
+    "url": "https://www.cryptopolitan.com/optimism-price-prediction/",
+    "description": "Optimism Price Prediction 2023-2032 Imagine a world where Ethereum, the second largest cryptocurrency by market cap, is not just a giant because of its support for smart contracts, but also a fast, affordable, and efficient platform. This is the world that the Ethereum community dreams of, a world where decentralized apps (dApps) and decentralized finance ... <a title=\"Optimism Price Prediction 2023 &#8211; 2032: Will OP Token Gain Momentum In 2023?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/optimism-price-prediction/\" aria-label=\"More on Optimism Price Prediction 2023 &#8211; 2032: Will OP Token Gain Momentum In 2023?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:12:13.000Z",
-    "title": "EOS Price Prediction 2023-2032: Is EOS a good investment?",
-    "url": "https://www.cryptopolitan.com/eos-price-prediction/",
-    "description": "EOS Price Prediction 2023-2032 EOS, a crypto token formed by the company to promote its decentralized app creation, ranks #47, a little lower on the charts, thanks to its slightly lower market cap of $3,365,472,360. Lately, it has resumed its upward projectile with renewed activities and is viewed by some analysts as a &#8220;ticking time ... <a title=\"EOS Price Prediction 2023-2032: Is EOS a good investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/eos-price-prediction/\" aria-label=\"More on EOS Price Prediction 2023-2032: Is EOS a good investment?\">Read more</a>"
+    "date": "2023-07-25T15:53:32.000Z",
+    "title": "OpenAI discontinues its AI-detection software amid accuracy concerns",
+    "url": "https://www.cryptopolitan.com/openai-detection-software-amid-concerns/",
+    "description": "OpenAI, a prominent name in the field of artificial intelligence, recently decided to discontinue its AI-detection software, citing a significant lack of accuracy. Introduced on January 31, the software aimed to assist users, including educators and professionals, in distinguishing between human-written and AI-generated text. OpenAI acknowledges the tool’s limitation The company took an unexpected turn ... <a title=\"OpenAI discontinues its AI-detection software amid accuracy concerns\" class=\"read-more\" href=\"https://www.cryptopolitan.com/openai-detection-software-amid-concerns/\" aria-label=\"More on OpenAI discontinues its AI-detection software amid accuracy concerns\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-07-25T15:10:22.000Z",
-    "title": "Tezos Price Prediction 2023-2032: How High can XTZ Rise?",
-    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
-    "description": "Tezos Price Prediction 2023-2032 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to ... <a title=\"Tezos Price Prediction 2023-2032: How High can XTZ Rise?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tezos-price-prediction/\" aria-label=\"More on Tezos Price Prediction 2023-2032: How High can XTZ Rise?\">Read more</a>"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-07-25T15:30:43.000Z",
-    "title": "Here’s How Crypto Offers A Lifeline For This Bahamian Payment Company",
-    "url": "https://www.newsbtc.com/news/crypto-payments-by-bahamian-payment-company/",
-    "description": "The Latin American region faces high costs and challenges of traditional settlements, as people sending money to their close ones have to deal with high rates of transfer, and a portion of the population still remains unbanked. However, in a recent development, the Bahamas payment company, Island Pay, is now incorporating cryptocurrency for remittance transactions to make it a smoother and cheaper process. Island Pay is set to introduce crypto wallets that utilize the stablecoin USDC as the medium of exchange. The payment firm plans to roll out the CiNKO wallet in more than 30 countries. The wallet which caters to users in the Caribbean and LATAM regions will enable individuals to conduct transactions with vendors, make payments to others (including those without bank accounts), and fund pre-paid cards. Island Pay CEO Richard Douglas stated: Our goal is to continuously look for ways to advance financial inclusion in the region and enhance financial experiences for both the unbanked and banked populations. Related Reading: Will Bitcoin Rebound? This Metric May Be The One To Watch Crypto Revolutionizes Remittance Landscape, Advancing Financial Inclusion By integrating crypto for remittance, Island Pay demonstrates its commitment to fostering financial inclusion and enriching monetary experiences for both banked and unbanked individuals in the region. The incorporation of this technology will lead to significant reductions in international money transfer fees. When receiving USDC stablecoins on CiNKO, users will not be charged. They may, however, encounter gas fees, depending on the blockchain network used for the transaction. The demand for crypto transactions has surged due to the existing challenges in conventional remittance methods. According to the World Bank, the average cost of sending $200 can be as high as 6.2%. Additionally, these transactions often take several days to process through traditional financial intermediaries. As pointed out in Circle&#8217;s recent report, the technology has the potential to slash the cost of sending money abroad by a substantial 80%. This report predicts that Blockchain&#8217;s capacity to enhance cost savings for financial institutions engaged in cross-border transactions will reach a market cap of $10 billion by the year 2030. Even before this, the Bahamas boasted a well-established presence in the fintech sector, with various global payment platforms and crypto wallets operating in the region. Rifos disclosed that the remittance and payments sectors are currently the fastest-growing fintech segments in LATAM. The surge in smartphone adoption and connectivity has also played a crucial role in fostering innovation and advancements in these areas. Related Reading: Aave May Rally 20% Supported by Historical Levels, But Crucial Resistance Remains Despite the high fees with traditional channels, remittances to Latin America and the Caribbean witnessed remarkable growth. There has been a 27% increase in 2021 and an 11% increase in 2022, with a total of $145 billion in 2017. The region&#8217;s GDP is expected to slow down to 3.3% this year, but remittances are expected to reach an all-time high. Featured image from Freeman Law, chart from TradingView.com"
+    "date": "2023-07-25T15:49:00.000Z",
+    "title": "Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?",
+    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
+    "description": "Binance Coin Price Prediction 2023-2032 Despite the gains made in the past couple of months, BNB and the entire crypto market seem to be experiencing winter in the summer. BNB prices have dropped by 23.95% since April 2023. What does the future hold for Binance Coin? How much is BNB worth? The current Binance coin ... <a title=\"Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-coin-price-prediction/\" aria-label=\"More on Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\">Read more</a>"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-07-25T15:30:52.000Z",
-    "title": "Decentraland (MANA) Suffers Miserable Week While VC Spectra (SPCT) Continues to Impress Investors",
-    "url": "https://www.crypto-news-flash.com/decentraland-mana-suffers-miserable-week-while-vc-spectra-spct-continues-to-impress-investors/?utm_source=rss&utm_medium=rss&utm_campaign=decentraland-mana-suffers-miserable-week-while-vc-spectra-spct-continues-to-impress-investors",
-    "description": "<img width=\"512\" height=\"301\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T161010.970.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T161010.970.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T161010.970-300x176.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Decentraland (MANA) is struggling to keep up with the expectations of its investors. As big whales turn their backs on Decentraland (MANA), VC Spectra (SPCT) is the best alternative. Having given a 37.5% ROI to its investors in Stage 2 of the public presale and raising over $2.4 million in private presale events, VC Spectra [...]"
+    "date": "2023-07-25T16:00:34.000Z",
+    "title": "These Gems Are the Must-Buy Altcoins of the Moment: Monero (XMR), Polygon (ADA), Borroe (ROE)",
+    "url": "https://www.crypto-news-flash.com/these-gems-are-the-must-buy-altcoins-of-the-moment-monero-xmr-polygon-ada-borroe-roe-2/?utm_source=rss&utm_medium=rss&utm_campaign=these-gems-are-the-must-buy-altcoins-of-the-moment-monero-xmr-polygon-ada-borroe-roe-2",
+    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859-300x188.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859-326x205.png 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-25T112627.859-163x102.png 163w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The crypto market is continuously expanding, with new projects pushing the boundaries of blockchain technology and its impact on traditional industries. Among the plethora of altcoins on the market, three cryptocurrencies stand out, capturing investors’ attention: Monero (XMR), Polygon (ADA), and a game-changer entrant in the Web3 space, Borroe (ROE).  Borroe: Unleashing the Potential of [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-07-25T15:51:16.000Z",
+    "title": "BRICS Embrace Bitcoin Adoption, Prioritize De-dollarization and Promote National Currencies in International Trade",
+    "url": "https://www.crypto-news-flash.com/brics-embrace-bitcoin-adoption-prioritize-de-dollarization-and-promote-national-currencies-in-international-trade/?utm_source=rss&utm_medium=rss&utm_campaign=brics-embrace-bitcoin-adoption-prioritize-de-dollarization-and-promote-national-currencies-in-international-trade",
+    "description": "<img width=\"1431\" height=\"954\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BTC\" decoding=\"async\" loading=\"lazy\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC.jpg 1431w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-104x69.jpg 104w\" sizes=\"(max-width: 1431px) 100vw, 1431px\" />BRICS to discuss de-dollarization in upcoming leaders&#8217; summit in a bid to break away from Western powers. It is rumored that Bitcoin could be considered an alternative to the US Dollar since it provides greater autonomy and diversification.  BRICS countries consisting of Brazil, Russia, India, China, and South Africa would reportedly discuss de-dollarization and the [...]"
   }
 ]

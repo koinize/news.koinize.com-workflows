@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "source": "Decrypt",
+    "date": "2023-08-06T21:31:01.000Z",
+    "title": "NFT Trader Admits Nabbing $1.5 Million in Ethereum After ‘Elizab.eth’ Gets Rekt on Blur",
+    "url": "https://decrypt.co/151528/nft-trader-admits-nabbing-1-5-million-in-ethereum-after-elizab-eth-gets-rekt-on-blur",
+    "description": "Spotting a bot mimicking his trades, Hanwe Chang used the strategy against its owner to earn a huge premium."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-08-06T21:21:31.000Z",
+    "title": "Curve Finance opens bounty after exploiter's return deadline expires",
+    "url": "https://cointelegraph.com/news/curve-finance-opens-bounty-after-exploiter-deadline-expires",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/51ef670a-0e2d-4243-a9b0-e2d8fa9ef2dd.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Curve Finance is extending a $1.85 million bug bounty offer to anyone who can identify the exploiter of its stable pools.</p>\n                    <p><p>Decentralized finance (DeFi) protocol Curve Finance is extending a bug bounty offer to anyone who is able to identify the exploiter responsible for draining over $61 million from its pools on July 30. </p><p>Curve and other protocols affected by the attack offered a 10% bug bounty to the hacker on Aug. 3, totaling more than $6 million. Upon accepting the offer, the hacker<a href=\"https://cointelegraph.com/news/alchemix-reports-return-of-all-stolen-funds-from-curve-pools\"> returned stolen assets to Alchemix and JPEGd</a>, but did not complete refunds to other affected pools. As the deadline has passed, anyone who can identify the attacker will now be rewarded with assets worth $1.85 million. </p><p>\"The deadline for the voluntary return of funds in the Curve exploit passed at 0800 UTC. We now extend the bounty to the public, and offer a reward valued at 10% of remaining exploited funds (currently $1.85M USD) to the person who is able to identify the exploited in a way that leads to a conviction in the courts,\" <a href=\"https://etherscan.io/tx/0xa28be0f8ebcf0e334bd19b1ef7bfac5e169ea40952ff5862d80254bba8e58e16\" target=\"_blank\" rel=\"noopener nofollow\">reads</a> the on-chain message, adding that \"if the exploiter chooses to return the funds in full, we will not pursue this further.\" </p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The deadline for the CRV/ETH exploiter passes<a href=\"https://t.co/VphQ0bfYr2\">https://t.co/VphQ0bfYr2</a> <a href=\"https://t.co/x8LP9Tx4rs\">pic.twitter.com/x8LP9Tx4rs</a></p>&mdash; Curve Finance (@CurveFinance) <a href=\"https://twitter.com/CurveFinance/status/1688221472815284224?ref_src=twsrc%5Etfw\">August 6, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n<p>Prior to returning the funds, the attacker posted a message that appears to have been directed at the Alchemix and Curve teams, claiming to be willing to return the funds only because they didn’t want to “ruin” the projects involved. “I’m refunding not because you can find me, it’s because I don’t want to ruin your project,” reads the on-chain message.</p><p>The attack occurred on July 30 and resulted in the drain of over $61 million in cryptocurrencies from Curve's pools, including $13.6 million from Alchemix's alETH-ETH, $11.4 million from JPEGd’s pETH-ETH, and $1.6 million from Metronome’s sETH-ETH. The hacker targeted stable pools using vulnerable versions of the Vyper programming language through reentrancy attacks.</p><p>The exploit <a href=\"https://cointelegraph.com/news/curve-vyper-exploit-whole-story-so-far\">exposed vulnerabilities across DeFi projects</a> and sparked efforts to recover stolen funds across the ecosystem over the past week.</p><p><a href=\"https://cointelegraph.com/magazine/how-smart-people-invest-in-dumb-memecoins-3-point-plan-for-success/\"><strong><em>Magazine: How smart people invest in dumb memecoins — 3-point plan for success</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-08-06T21:38:17.000Z",
+    "title": "Dash Price Prediction 2023-2032: Is DASH Recovering soon?",
+    "url": "https://www.cryptopolitan.com/dash-price-prediction/",
+    "description": "Dash Price Prediction 2023-2032 Since it entered the cryptocurrency space, Dash has held the attention of investors and crypto enthusiasts being a Bitcoin fork. For some years, it has been around, and Dash Crypto has maintained an impressive performance all this while. However, the price action in recent times has been unremarkable. If you are ... <a title=\"Dash Price Prediction 2023-2032: Is DASH Recovering soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dash-price-prediction/\" aria-label=\"More on Dash Price Prediction 2023-2032: Is DASH Recovering soon?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-08-06T21:31:58.000Z",
+    "title": "Study Reveals ChatGPT’s Struggles with Basic Math",
+    "url": "https://www.cryptopolitan.com/study-reveals-chatgpts-struggles/",
+    "description": "In the rapidly evolving world of technology, Artificial Intelligence (AI) chatbots have emerged as a significant breakthrough. Among them, OpenAI&#8217;s ChatGPT has been a standout, captivating audience since its public introduction last year. Its ability to engage in fluid conversations has earned it accolades and ignited a fierce global race to develop even more advanced ... <a title=\"Study Reveals ChatGPT&#8217;s Struggles with Basic Math\" class=\"read-more\" href=\"https://www.cryptopolitan.com/study-reveals-chatgpts-struggles/\" aria-label=\"More on Study Reveals ChatGPT&#8217;s Struggles with Basic Math\">Read more</a>"
+  }
+]

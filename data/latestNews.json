@@ -1,9 +1,16 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-08-13T22:17:01.000Z",
+    "title": "First Mover Asia: Bitcoin Steady Below $30K as SBF Goes Back to Jail",
+    "url": "https://www.coindesk.com/markets/2023/08/13/first-mover-asia-bitcoin-steady-below-30k-as-sbf-goes-back-to-jail/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "PLUS: The tragicomedy of Sam Bankman-Fried continued on Friday with the revocation of his bail. Even before the decision, CoinDesk columnist David Morris explained why the decision was predictable."
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-08-13T22:01:49.000Z",
-    "title": "Uniswap fires employee responsible for a $25k worth rug pull scam ",
-    "url": "https://www.cryptopolitan.com/uniswap-fires-employee-responsible-for-scam/",
-    "description": "The leading decentralized exchange, Uniswap found itself embroiled in a controversy that has rather surprised the crypto community. A developer associated with the exchange faced serious allegations of misconduct related to a memecoin project. The individual, known in the crypto community as AzFlin, has been accused of manipulating a memecoin project, leading to significant financial ... <a title=\"Uniswap fires employee responsible for a $25k worth rug pull scam \" class=\"read-more\" href=\"https://www.cryptopolitan.com/uniswap-fires-employee-responsible-for-scam/\" aria-label=\"More on Uniswap fires employee responsible for a $25k worth rug pull scam \">Read more</a>"
+    "date": "2023-08-13T22:32:07.000Z",
+    "title": "Steadefi hackers successfully launder $185K in ETH through TornadoCash ",
+    "url": "https://www.cryptopolitan.com/steadefi-hackers-launder-185k-using-mixer/",
+    "description": "Steadefi, the decentralized finance (DeFi) platform hit by a devastating exploit last week, has observed hackers laundering some of the stolen funds through privacy protocol TornadoCash. Blockchain security firm CertiK Alert revealed that an Ethereum account linked to the Steadefi hack deposited 100 ETH worth $185,000 into TornadoCash on August 9th. This transaction was flagged ... <a title=\"Steadefi hackers successfully launder $185K in ETH through TornadoCash \" class=\"read-more\" href=\"https://www.cryptopolitan.com/steadefi-hackers-launder-185k-using-mixer/\" aria-label=\"More on Steadefi hackers successfully launder $185K in ETH through TornadoCash \">Read more</a>"
   }
 ]

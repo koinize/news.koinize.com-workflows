@@ -1,16 +1,23 @@
 [
   {
-    "source": "NewsBTC",
-    "date": "2023-08-23T00:01:47.000Z",
-    "title": "Rise In Bitcoin Outflows Suggests Institutional Investors May Be Losing Faith In The Asset",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-outflows-institutional-investors/",
-    "description": "This year has been marked by significant volatility across the crypto market, including for Bitcoin, which has seen both gains and losses over the course of the year. Just a month ago in the middle of July, Bitcoin crossed over $30,000 and many investors saw this as the start of another bull run.  However, things seem to have taken a turn, as the price of Bitcoin has plateaued since then. The asset is currently struggling to find a push in price, and it would seem this sentiment has flowed into digital asset funds. According to the weekly report published by digital asset manager CoinShares, Bitcoin outflows from institutional accounts have resumed in the past week. Outflows From Digital Asset Investment Products Outflows from digital asset investment products have spiked in recent weeks to register a three-week run of outflows. This would indicate that institutional investors might be avoiding volatile cryptos. This comes two weeks after a brief period of inflows, where Ripple&#8217;s partial victory in court and recent US inflation data led to inflows in digital asset products.  Related Reading: Dogecoin Proof Of Stake Discussion Heats Up As Lead Dev Chimes In However, data shows that outflows resumed last week, and it appears that the euphoria that followed Ripple&#8217;s partial triumph against the SEC has dissipated. Digital asset investment products saw $55 million in outflows last week, with Bitcoin leading the charge with outflows of $42 million. Other cryptocurrencies like Ethereum registered $9 million outflows, while Polygon, Litecoin, and Polkadot saw outflows of $0.9 million, $0.6 million, and $0.5 million, respectively. On the other hand, XRP and Cardano saw an increase in their respective inflows of $1.2 million and $0.1 million.  In terms of region, Canada had the most outflows of $35.9. million, and Germany followed with $11 million. BTC price falls below $26,000 support &#124; Source: BTCUSD On Tradingview.com Rise In Bitcoin Outflows Bitcoin outflows from exchanges suggest big investors may be losing faith in the popular cryptocurrency. One factor that fueled this outflow is speculations going around that the SEC might not actually approve applications for spot Bitcoin ETFs in the US. As a result, total assets under management (AuM) declined by 10% to close the week at $32.3 billion.  Related Reading: Gemini Hits Back At SEC Lawsuit With Dismissal Filing The speculations come as the SEC has delayed making a decision on Spot Bitcoin ETF applications multiple times. Each postponement casts more doubt on whether they will ever approve one and an outright rejection from the SEC will most likely lead to the price of Bitcoin falling to $20,000 and digital asset investment products registering more outflows. At the time of writing, Bitcoin is trading at $26,053 and is down by 11.09% in a 7-day timeframe.  Featured image from Unsplash, chart from Tradingview.com"
+    "source": "Decrypt",
+    "date": "2023-08-23T00:32:45.000Z",
+    "title": "Cyberpunk 2077: 5 Major Upgrades Coming With ‘Phantom Liberty’",
+    "url": "https://decrypt.co/153414/cyberpunk-2077-5-major-upgrades-coming-with-phantom-liberty",
+    "description": "Update 2.0 showcases years of improvements by the game developer—and may be the redemption players have been waiting for."
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-08-23T00:00:44.000Z",
-    "title": "GMX Trader Makes Over $1 Million Shorting and Then Longing Ethereum During Crypto Market Crash: On-Chain Data",
-    "url": "https://dailyhodl.com/2023/08/22/gmx-trader-makes-over-1-million-shorting-and-then-longing-ethereum-during-crypto-market-crash-on-chain-data/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/gmx-trader-short-ethereum.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Blockchain tracker Lookonchain finds that a trader using the decentralized exchange (DEX) GMX made more than $1 million by accurately predicting Ethereum&#8217;s (ETH) price action over the past several weeks. Lookonchain notes the trader shorted ETH on July 14th, when it was trading near a recent high at around $2,000, and then the trader closed [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/08/22/gmx-trader-makes-over-1-million-shorting-and-then-longing-ethereum-during-crypto-market-crash-on-chain-data/\">GMX Trader Makes Over $1 Million Shorting and Then Longing Ethereum During Crypto Market Crash: On-Chain Data</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Decrypt",
+    "date": "2023-08-23T00:15:00.000Z",
+    "title": "Build Your Own ChatGPT with New Fine-Tuning Feature From OpenAI",
+    "url": "https://decrypt.co/153381/chatgpt-gpt-3-5-turbo-openai-customization",
+    "description": "The AI unicorn says that, with proper training, a fine tuned version of GPT-3.5 can outperform GPT-4 in certain tasks."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-08-23T00:20:43.000Z",
+    "title": "Balancer Secures Over 80% of Funds at Risk After Vulnerability Report",
+    "url": "https://cryptobriefing.com/balancer-vulnerability-funds-at-risk-withdraws/?utm_source=feed&utm_medium=rss",
+    "description": "Balancer, a DeFi lending pioneer, received a vulnerability report a few hours ago that found over 100 of its V2 pools are at risk."
   }
 ]

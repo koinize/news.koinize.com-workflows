@@ -1,93 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-08-23T18:45:18.000Z",
-    "title": "DAI Stablecoin Surpasses $5B Market Cap on Higher Yield, Lifting Spark Protocol",
-    "url": "https://www.coindesk.com/markets/2023/08/23/dai-stablecoin-surpasses-5b-market-cap-on-higher-yield-lifting-spark-protocol/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The recently-introduced Enhanced Dai Savings Rate reversed some of the token’s decline in market value."
+    "source": "Decrypt",
+    "date": "2023-08-23T19:23:47.000Z",
+    "title": "Former Corrections Officer Charged in Crypto Fraud Targeting Police",
+    "url": "https://decrypt.co/153512/police-officers-trageted-in-crypto-scam-sec",
+    "description": "John DeSalvo falsely promised extraordinarily high returns and claimed the unregistered token would replace pensions."
   },
   {
-    "source": "Decrypt",
-    "date": "2023-08-23T19:00:16.000Z",
-    "title": "Bitstamp Ends Ethereum Staking for US Investors",
-    "url": "https://decrypt.co/153488/bitstamp-ends-ethereum-staking-for-us-investors",
-    "description": "The crypto exchange said it made the decision due to “regulatory dynamics” in the States. "
+    "source": "CryptoSlate",
+    "date": "2023-08-23T19:10:47.000Z",
+    "title": "Tornado Cash co-founders charged by DOJ; one sanctioned by U.S. Treasury while the other arrested by FBI",
+    "url": "https://cryptoslate.com/tornado-cash-founders-charged-by-doj-one-sanctioned-by-u-s-treasury/",
+    "description": "<p>The U.S. Department of Justice (DOJ) announced charges against two individuals who co-founded Tornado Cash on Aug. 23. The agency unsealed an indictment charging Roman Storm and Roman Semenov with various wrongdoings related to creating, operating, and promoting Tornado Cash — a once-popular Ethereum-based coin mixer that obscured crypto transactions. U.S. Attorney Damian Williams said: [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/tornado-cash-founders-charged-by-doj-one-sanctioned-by-u-s-treasury/\">Tornado Cash co-founders charged by DOJ; one sanctioned by U.S. Treasury while the other arrested by FBI</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-08-23T19:30:07.000Z",
+    "title": "Local Currencies Are Not Alternatives to the Dollar but the System, BRICS Bank Chair Says",
+    "url": "https://news.bitcoin.com/local-currencies-are-not-alternatives-to-the-dollar-but-the-system-brics-bank-chair-says/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Local Currencies Are Not Alternatives to the Dollar but the System, BRICS Bank Chair Says\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1611384406.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The development bank founded by the BRICS bloc of emerging economies aims to promote a multipolar financial system, its head, Dilma Rousseff, has indicated. As part of these efforts, the institution seeks to expand lending in local currencies, those of member states in particular, such the South African rand and the Brazilian real. BRICS Development [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-23T19:09:03.000Z",
-    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
-    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
-    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s ... <a title=\"Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chainlink-price-prediction/\" aria-label=\"More on Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\">Read more</a>"
+    "date": "2023-08-23T19:26:15.000Z",
+    "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
+    "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
+    "description": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary."
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-08-23T19:23:11.000Z",
+    "title": "How Dfinity’s AstroX ME Enhances Interoperability with the Ethereum Ecosystem",
+    "url": "https://www.cryptopolitan.com/how-dfinitys-astrox-me-enhances-ethereum/",
+    "description": "Numerous cryptocurrency wallets exist only as browser-only plugins, which lack compatibility with the demands of modern mobile lifestyles. However, requiring users to be stationed at a computer, and installing a specific browser to access a wallet, would introduce significant inconvenience. In addition, the evolution of wallets is inevitably geared toward widespread adoption, necessitating a user ... <a title=\"How Dfinity&#8217;s AstroX ME Enhances Interoperability with the Ethereum Ecosystem\" class=\"read-more\" href=\"https://www.cryptopolitan.com/how-dfinitys-astrox-me-enhances-ethereum/\" aria-label=\"More on How Dfinity&#8217;s AstroX ME Enhances Interoperability with the Ethereum Ecosystem\">Read more</a>"
   },
   {
     "source": "NullTX",
-    "date": "2023-08-23T19:03:46.000Z",
-    "title": "Top Ten (10) Metrics For Trading Cryptocurrency, Beyond Price Analysis",
-    "url": "https://nulltx.com/top-ten-10-metrics-for-trading-cryptocurrency-beyond-price-analysis/",
-    "description": "When trading cryptocurrencies, monitoring various metrics is crucial for making informed decisions. Social and fundamental indicators play a significant role in assessing the potential value and volatility of a cryptocurrency. Social metrics involve gauging community sentiment and engagement, which can influence price trends. Monitoring online forums, social media discussions, and sentiment analysis tools can offer [&#8230;]"
+    "date": "2023-08-23T19:30:17.000Z",
+    "title": "5 Strategies To Stay Active in the Cryptocurrency Space During Bear Markets",
+    "url": "https://nulltx.com/5-strategies-to-stay-active-in-the-cryptocurrency-space-during-bear-markets/",
+    "description": "During a bear market in the cryptocurrency space, when market conditions are unfavorable for traditional investments, there are several alternative activities and strategies you can consider to stay engaged and potentially benefit from the downturn. Here are five cryptocurrency-related options to explore: Educational Endeavors: Utilize the downtime to deepen your understanding of blockchain technology, cryptocurrency [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-08-23T19:04:06.000Z",
-    "title": "Young South Koreans prefer XRP to Bitcoin and Ethereum",
-    "url": "https://crypto.news/young-south-koreans-prefer-xrp-to-bitcoin-and-ethereum/",
-    "description": "Bithumb data shows that young crypto investors in South Korea prefer XRP to Bitcoin (BTC) and Ethereum (ETH)"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-08-23T18:46:15.000Z",
-    "title": "Deep web drug vendor misusing crypto faces 96 years in prison",
-    "url": "https://crypto.news/deep-web-drug-vendor-misusing-crypto-faces-96-years-in-prison/",
-    "description": "32-year-old  New York man James Charles Rivera was sentenced to 96 years in a federal prison for selling steroids for crypto on a deep web black market"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-08-23T19:00:30.000Z",
-    "title": "Rarible To Stop Aggregating Orders From These Three NFT Marketplaces – Here’s Why",
-    "url": "https://www.newsbtc.com/nft/rarible-stop-aggregating-orders-from-three-nft-marketplaces-why/",
-    "description": "Non-fungible token (NFT) aggregator Rarible has plans to cease aggregating orders from marketplaces OpenSea, LooksRare, and X2Y2. The decision comes after OpenSea decided to shift to an optional royalty model. On Thursday, August 17, OpenSea disclosed that royalties &#8211; pay cuts from secondary sales &#8211; will become optional for new NFT collections after August 31, 2023. Meanwhile, royalty fees for NFT collections that currently utilize the Operator Filter &#8211; a feature that enforces creator royalties &#8211; will become optional after February 29, 2024. Although the optional royalty model has always been a source of debate in the NFT community, many marketplaces embrace it &#8211; with X2Y2 and LooksRare introducing zero royalty fees for artists as far back as 2022. Rarible Throws Support Behind NFT Creators And Artists On Tuesday, August 22, Rarible announced &#8211; via a post on X (formerly Twitter) that it will no longer aggregate orders from OpenSea, LooksRare, and X2Y2 by September 30. According to the NFT aggregator, this decision was taken because of its &#8220;unwavering support for NFT creators and artists.&#8221; Related Reading:  Lacoste Unveils Exclusive Ethereum-Based Virtual Store For NFT Holders Alex Salnikov, co-founder of Rarible, said in a statement: The principle of royalties is at the heart of decentralization &#8211; a continual affirmation of a creator&#8217;s value in every transaction. We stand in solidarity with creators and artists. That&#8217;s why we will no longer support marketplaces that neglect royalties. The Rarible co-founder stated that by making royalties optional, the value and compensation for creativity are also being stripped off. “Decentralization offers the opportunity to dispel the stigma of the &#8220;starving artist,&#8221; and enable the continued growth of projects through true ownership and ongoing earnings,” he noted. Salniko urged the NFT community to become more active in defining the future of Web3. Pressure Mounts On OpenSea This news is another potential setback for OpenSea, especially as Rarible is not the first NFT entity aiming to cut ties with the one-time largest digital asset marketplace due to its proposed zero-royalty shift.  On Friday, August 18, Yuga Labs &#8211; creators of the popular Bored Ape Yacht Club collection &#8211; declared that it had begun the process of sunsetting support for OpenSea’s SeaPort for all &#8220;upgradable contracts and new collections&#8221; before February 2024. Despite the seemingly waning interest in the collection, Bored Ape Yacht Club is still one of the most significant contributors to the total trading activity on OpenSea. It ranks as the top collection on the marketplace, with a daily trading volume of 1,440 ETH (approximately $2.37 million).  Hence, losing this blue-chip collection &#8211; and other Yuga Labs’ creations &#8211; will likely affect OpenSea’s performance and position in the market.  According to a new Messari report, Blur remains the dominant marketplace, accounting for about 60% of the total NFT trading volume. Crypto Total Market Cap at $1.029 trillion &#124; Source: daily TOTAL chart on TradingView Featured image from iStock, chart from TradingView"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-08-23T19:00:01.000Z",
-    "title": "Tether CTO’s Insight on Breakthrough Bitcoin Mining Software; Bullish Winds Favor The Launch Of DigiToads’ Web3 Gaming Ecosystem",
-    "url": "https://www.crypto-news-flash.com/tether-ctos-insight-on-breakthrough-bitcoin-mining-software-bullish-winds-favor-the-launch-of-digitoads-web3-gaming-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=tether-ctos-insight-on-breakthrough-bitcoin-mining-software-bullish-winds-favor-the-launch-of-digitoads-web3-gaming-ecosystem",
-    "description": "<img width=\"512\" height=\"394\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-74.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-74.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-74-300x231.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Tether, the stablecoin issuer, is venturing into a groundbreaking realm with its innovative Bitcoin mining software. The brainchild of Tether&#8217;s Chief Technology Officer, Paolo Ardoino, and his team, the software named &#8220;Moria&#8221; is poised to revolutionize the Bitcoin mining landscape. While existing cloud-based trackers for Bitcoin mining lack customization and advanced orchestration capabilities, Moria aims [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-08-23T18:49:49.000Z",
-    "title": "Hedera Defies Market Downturn: Locks Over $35 Million and 18 Billion Transactions After FedNow Activity Explodes",
-    "url": "https://www.crypto-news-flash.com/hedera-defies-market-downturn-locks-over-35-million-and-18-billion-transactions-after-fednow-activity-explodes/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-defies-market-downturn-locks-over-35-million-and-18-billion-transactions-after-fednow-activity-explodes",
-    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/AdobeStock_537172582.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/AdobeStock_537172582.jpeg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/AdobeStock_537172582-300x200.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/AdobeStock_537172582-104x69.jpeg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Hedera Hashgraph has shown resilience by recording a 10% surge in total value locked (TVL) over the past week. Dropp, a Hedera-based micropayments application, makes its way into the US Federal Reserve&#8217;s instant payments platform, FedNow. The broader crypto market scenario looks pretty gloomy as of now as the market faces huge selling pressure. But [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-08-23T18:44:49.000Z",
-    "title": "XRP Gets Major Boost with BitPay Integration: Spend, Swap, and Store Now",
-    "url": "https://www.crypto-news-flash.com/xrp-gets-major-boost-with-bitpay-integration-spend-swap-and-store-now/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-gets-major-boost-with-bitpay-integration-spend-swap-and-store-now",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-21T092410.947.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-21T092410.947.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-21T092410.947-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-21T092410.947-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />BitPay re-announces support for XRP weeks after CoinFlip added the asset to its list of supported cryptos.  Users worldwide can now purchase XRP on the app, swap it for different assets, or store it on BitPay&#8217;s inbuilt wallet.  With the world&#8217;s eye fixed on the next price action of Ripple&#8217;s XRP following its regulatory clarity, [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-08-23T18:51:35.000Z",
-    "title": "Oasys and AWS Unveil Web 3.0 Gaming Hackathon With the Support of Ubisoft and Leading Web 3.0 Brands",
-    "url": "https://dailyhodl.com/2023/08/23/oasys-and-aws-unveil-web-3-0-gaming-hackathon-with-the-support-of-ubisoft-and-leading-web-3-0-brands/",
-    "description": "<img width=\"500\" height=\"500\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?w=500\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg 500w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w\" sizes=\"(max-width: 500px) 100vw, 500px\" /><p>August 23, 2023 – Singapore, Singapore Oasys, a game-optimized blockchain, is proud to co-host an online hackathon with AWS (Amazon Web Services) in Singapore in collaboration with event partners Ubisoft, ChainGuardians, Adventure Gold DAO and AAG. With a total prize pool of $42,000, the GameWave Genesis hackathon focuses on Web 3.0 game development and innovation [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/08/23/oasys-and-aws-unveil-web-3-0-gaming-hackathon-with-the-support-of-ubisoft-and-leading-web-3-0-brands/\">Oasys and AWS Unveil Web 3.0 Gaming Hackathon With the Support of Ubisoft and Leading Web 3.0 Brands</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-08-23T18:45:31.000Z",
-    "title": "Shibarium Almost Ready To Reopen to the Public After Days of Testing and Tweaking, Says Lead Developer",
-    "url": "https://dailyhodl.com/2023/08/23/shibarium-almost-ready-to-reopen-to-the-public-after-days-of-testing-and-tweaking-says-lead-developer/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/shibarium-almost-ready-public.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Shiba Inu&#8217;s (SHIB) new layer-2 scaling solution will soon reopen to the public after experiencing technical difficulties last week, according to Shytoshi Kusama, the project&#8217;s pseudonymous lead developer. In a new blog post, Kusama says that testing and tweaks of Shibarium have been going well to prevent the network issues that forced its closure after [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/08/23/shibarium-almost-ready-to-reopen-to-the-public-after-days-of-testing-and-tweaking-says-lead-developer/\">Shibarium Almost Ready To Reopen to the Public After Days of Testing and Tweaking, Says Lead Developer</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-08-23T18:41:37.000Z",
-    "title": "FBI Issues Warning to Crypto Investors, Says North Korean Hackers May Sell Off $40,000,000 in Bitcoin (BTC)",
-    "url": "https://dailyhodl.com/2023/08/23/fbi-issues-warning-to-crypto-investors-says-north-korean-hackers-may-sell-off-40000000-in-bitcoin-btc/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2021/05/hackers-siphon-crypto.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The Federal Bureau of Investigation (FBI) is issuing a warning to crypto investors that North Korean hackers are looking to unload tens of millions of dollars worth of stolen Bitcoin (BTC) onto the market. In a new press release, the enforcement agency says they have identified wallet addresses associated with the North Korean hacking group [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/08/23/fbi-issues-warning-to-crypto-investors-says-north-korean-hackers-may-sell-off-40000000-in-bitcoin-btc/\">FBI Issues Warning to Crypto Investors, Says North Korean Hackers May Sell Off $40,000,000 in Bitcoin (BTC)</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-08-23T19:12:11.000Z",
+    "title": "Former FTX boss plans to blame prior legal counsel ahead of October hearing",
+    "url": "https://crypto.news/former-ftx-boss-plans-to-blame-prior-legal-counsel-ahead-of-october-hearing/",
+    "description": "Former FTX CEO Sam Bankman-Fried's defense team plans to highlight the role of previous legal counsel in key decisions as his trial approaches in October"
   }
 ]

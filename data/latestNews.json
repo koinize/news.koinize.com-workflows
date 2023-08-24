@@ -1,100 +1,51 @@
 [
   {
     "source": "Decrypt",
-    "date": "2023-08-24T09:58:58.000Z",
-    "title": "Alchemy Hires Former Stripe Exec as New Head of Engineering",
-    "url": "https://decrypt.co/153582/alchemy-hires-former-stripe-exec-as-new-head-of-engineering",
-    "description": "In his new role at Alchemy, Guillaume Poncin will be focused on building out new Web3 products and scaling the company’s existing services."
+    "date": "2023-08-24T10:17:34.000Z",
+    "title": "DeFi Exchange Token Powering dYdX Soars 9% Overnight",
+    "url": "https://decrypt.co/153602/defi-exchange-token-powering-dydx-soars-overnight",
+    "description": "dYdX's imminent launch of its newest blockchain appears to have fueled continued speculation, with investors scooping up its token."
   },
   {
-    "source": "Decrypt",
-    "date": "2023-08-24T09:51:30.000Z",
-    "title": "How AI Could Lead To Discriminatory Hiring Practices",
-    "url": "https://decrypt.co/resources/how-ai-could-lead-to-discriminatory-hiring-practices",
-    "description": "Recruiting-oriented AI tools aim to use applicant computer and cellphone cameras to analyze facial movements, speaking voice, and other parameters to create what it calls an “employability” score."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-08-24T10:00:01.000Z",
-    "title": "Bitcoin market signals local bottom as key indicators suggest potential reversal",
-    "url": "https://cryptoslate.com/insights/bitcoin-market-signals-local-bottom-as-key-indicators-suggest-potential-reversal/",
-    "description": "<p>Quick Take Several key metrics in the Bitcoin market suggest a local bottom, an inflection point indicating a potential reversal from the recent downward trend. Open interest, a metric that tracks the total number of outstanding derivatives contracts, has been reset, indicating that players are repositioning themselves for a potential market shift. Meanwhile, the perpetual [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/bitcoin-market-signals-local-bottom-as-key-indicators-suggest-potential-reversal/\">Bitcoin market signals local bottom as key indicators suggest potential reversal</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-08-24T09:51:00.000Z",
-    "title": "\n                        Shiba Inu Plans Shibarium Comeback After Botched Launch\n                    ",
-    "url": "https://cryptodaily.co.uk/2023/8/shiba-inu-plans-shibarium-comeback-after-botched-launch",
-    "description": "\n                        <p dir=\"ltr\">Shiba Inu's much-anticipated Shibarium network, a layer-2 solution built on Ethereum, is gearing up for a fresh launch after encountering initial setbacks. The developers are diligently addressing the issues that plagued its debut, with hopes of a smoother second attempt.</p>\nNetwork Improvement Efforts Underway\n<p dir=\"ltr\">Following a problematic launch that left the network stalled and funds trapped on a bridge, Shiba Inu's lead developer, Shytoshi Kusama, has provided an update on the project's progress.&nbsp;</p>\n<p dir=\"ltr\">Kusama revealed that the team has been diligently working to optimize the network, stating,</p>\n\n<p dir=\"ltr\">\"After two days of testing and tweaking parameters to achieve 'ready' state Shibarium is now enhanced and optimized.\"&nbsp;</p>\n\n<p dir=\"ltr\">This involved the implementation of fail-safe measures to prevent a recurrence of the previous outage.</p>\n<p dir=\"ltr\">To bolster Shibarium's stability, the development team has introduced a series of further safeguards, including rate limiting at the RPC (Remote Procedure Call) level and an automatic server reset mechanism. These measures are expected to counteract the impact of sudden surges in traffic, which contributed to the network's initial troubles.</p>\nTesting Success and Initial Hiccups\n<p dir=\"ltr\">During its testing phase, Shibarium demonstrated its potential by facilitating an impressive 22 million transactions across millions of wallets over four months.&nbsp;</p>\n<p dir=\"ltr\">However, the official launch encountered severe disruptions. The network suffered an 11-hour transaction stall, leaving funds stranded due to an overload triggered by an unexpected influx of transactions. As reported by blockchain security firm PeckShield, around $1.7 million worth of ETH was stuck in the Shibarium Bridge as a result of the network failure.&nbsp;</p>\n<p dir=\"ltr\">The development team clarified that the launch failure was not due to a bridge issue, as initially speculated. Instead, the network was overwhelmed by an unprecedented surge in user transactions, causing server failures. The influx of transactions far exceeded the servers' capacity to process them efficiently.</p>\nSteps Toward Redemption\n<p dir=\"ltr\">The network has been temporarily closed to the public as the team focuses on resolving the underlying issues. Validators responsible for processing network transactions are now being gradually onboarded to pave the way for the network's reopening. This controlled approach aims to ensure a smoother experience upon relaunch.</p>\n<p dir=\"ltr\">Shytoshi Kusama's recent update indicates that Shibarium's comeback is on the horizon. Additional validators are poised to join the network, expanding its operational capacity. However, the incident had a short-term impact on SHIB token prices, with a 4.3% drop in the past 24 hours, according to CoinGecko data.</p>\n<p dir=\"ltr\">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.&nbsp;</p>\n                    "
+    "source": "Bitcoin.com",
+    "date": "2023-08-24T10:30:08.000Z",
+    "title": "BRICS Countries Can Use India’s UPI Instant Payment System, Prime Minister Modi Suggests",
+    "url": "https://news.bitcoin.com/brics-countries-can-use-indias-upi-instant-payment-system-prime-minister-modi-suggests/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"BRICS Countries Can Use India’s UPI Instant Payment System, Prime Minister Modi Suggests\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/08/shutterstock_1767186614.jpg 1281w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Member states of the BRICS bloc can follow the example of other nations and start using India’s Unified Payments Interface (UPI) system, according to Prime Minister Narendra Modi. The country is a leader in digital transactions, the head of the Indian government said in South Africa where the organization is holding its annual summit. India [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-24T09:56:42.000Z",
-    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
-    "description": "BTC Price Predictions 2023-2032 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $26,467, with a 24-hour trading volume totalling $38.62 billion. It boasts a market capitalization of $507 billion and commands 47% of the cryptocurrency market. Over the past day, Bitcoin’s price experienced an increase of 1.77%. Currently, there are ... <a title=\"Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-price-forecast/\" aria-label=\"More on Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\">Read more</a>"
+    "date": "2023-08-24T10:18:34.000Z",
+    "title": "Ripple vs. SEC trial dates revealed",
+    "url": "https://www.cryptopolitan.com/ripple-vs-sec-trial-dates-revealed/",
+    "description": "In the ongoing legal battle between Ripple Labs and the Securities and Exchange Commission (SEC), both parties have reportedly submitted a list of dates indicating their availability and unavailability for the upcoming trial, scheduled for the second quarter of next year. This development comes as part of the protracted legal proceedings surrounding the classification of ... <a title=\"Ripple vs. SEC trial dates revealed\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ripple-vs-sec-trial-dates-revealed/\" aria-label=\"More on Ripple vs. SEC trial dates revealed\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-24T09:54:38.000Z",
-    "title": "Paxos Trust company highlights blockchain’s role in swift international remittances",
-    "url": "https://www.cryptopolitan.com/paxos-trust-company-highlights-blockchains-role-in-swift-international-remittances/",
-    "description": "New York&#8217;s Paxos Trust Company, a leading stablecoin entity, recently emphasized the potential of blockchain technology in expediting international money transfers. Significantly, the firm pointed out that global remittances, such as expatriates sending money to their home countries, play a pivotal role in the financial ecosystem. Moreover, these funds act as a lifeline, supporting families ... <a title=\"Paxos Trust company highlights blockchain&#8217;s role in swift international remittances\" class=\"read-more\" href=\"https://www.cryptopolitan.com/paxos-trust-company-highlights-blockchains-role-in-swift-international-remittances/\" aria-label=\"More on Paxos Trust company highlights blockchain&#8217;s role in swift international remittances\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-08-24T09:52:26.000Z",
-    "title": "BRICS to invite Saudi Arabia and Egypt to join despite caution from some members",
-    "url": "https://www.cryptopolitan.com/brics-to-invite-saudi-arabia-and-egypt/",
-    "description": "BRICS members are making arrangements to extend invitations to prominent oil exporter Saudi Arabia and several other nations to join their coalition to enhance their worldwide impact. At a summit taking place this week in Johannesburg, the heads of state from Brazil, Russia, India, China, and South Africa have reached a consensus to broaden the ... <a title=\"BRICS to invite Saudi Arabia and Egypt to join despite caution from some members\" class=\"read-more\" href=\"https://www.cryptopolitan.com/brics-to-invite-saudi-arabia-and-egypt/\" aria-label=\"More on BRICS to invite Saudi Arabia and Egypt to join despite caution from some members\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-08-24T09:51:41.000Z",
-    "title": "Sui Price Prediction 2023-2032: Is SUI A Good Investment?",
-    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
-    "description": "Sui Price Prediction 2023-2032 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a ... <a title=\"Sui Price Prediction 2023-2032: Is SUI A Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sui-price-prediction/\" aria-label=\"More on Sui Price Prediction 2023-2032: Is SUI A Good Investment?\">Read more</a>"
+    "date": "2023-08-24T10:12:04.000Z",
+    "title": "Solana Price Prediction 2023-2032: Is SOL a Good Investment?",
+    "url": "https://www.cryptopolitan.com/solana-price-prediction/",
+    "description": "Solana Price Prediction 2023-2032 How much is SOL worth? Today&#8217;s Solana price is $21.74 with a 24-hour trading volume of $618,897,839. Solana is down 3.33% in the last 24 hours. The current CoinMarketCap ranking is #9, with a live market cap of $9,473,881,101. It has a circulating supply of 418,890,490 SOL coins, and the maximum supply is not available. Solana price ... <a title=\"Solana Price Prediction 2023-2032: Is SOL a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/solana-price-prediction/\" aria-label=\"More on Solana Price Prediction 2023-2032: Is SOL a Good Investment?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-08-24T10:04:01.000Z",
-    "title": "Bitcoin goes bullish as supply on exchanges plunges",
-    "url": "https://crypto.news/bitcoin-goes-bullish-as-supply-on-exchanges-plunges/",
-    "description": "Bitcoin’s (BTC) price has been struggling around the $26,000 mark over the past week, but with the recent incline, more investors have shifted to self-custody. The flagship cryptocurrency finally gained bullish traction with a 1.5% rise in the past 24&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-08-24T09:52:04.000Z",
-    "title": "Tornado Cash developers charged with money laundering in US",
-    "url": "https://crypto.news/tornado-cash-developers-charged-with-money-laundering-in-us/",
-    "description": "Founders of crypto mixer Tornado Cash, Roman Storm and Roman Semenov, are indicted on charges including money laundering, potentially facing 20 years in prison. In the Aug. 23 press release, Roman Storm and Roman Semenov, the developers behind Tornado Cash, have&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-08-24T09:41:08.000Z",
-    "title": "Cybercriminals launch new crypto scam using Google Ads",
-    "url": "https://crypto.news/cybercriminals-launch-new-crypto-scam-using-google-ads/",
-    "description": "Cybercriminals deploy new crypto scams using Google ads to redirect users to phishing sites deceptively. A new type of crypto scam has surfaced recently, where scammers are buying ads for genuine crypto websites on Google, and then using URL injection&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-08-24T09:45:14.000Z",
-    "title": "Pantera CEO Calls Ripple Victory A Black Swan, But Is It Bad?",
-    "url": "https://www.newsbtc.com/ripple-2/ripple-victory-black-swan/",
-    "description": "A recent release suggests that Pantera CEO Dan Morehead may have predicted the impact of a Ripple victory long before it occurred.   Ripple Victory: A “Positive Black Swan” Speaking at the Bloomberg Invest Panel, held back in June, Morehead was quizzed about what “black swans” the world should expect next, considering that we had just recently experienced a pandemic, complete shutdown, and financial crisis due to the pandemic.  Morehead responded and stated that we already had the “massive shoes drop last year,” most likely in reference to the events surrounding the collapse of prominent crypto firms like FTX, Three Arrows Capital (3AC), Terra, and BlockFi.  Related Reading: Shiba Inu Team Will Start Implementing ShibPaper, What does This Mean? However, while Morehead believed the worst had happened, he noted that the regulatory clarity was something that no one in the crypto community was expecting but could happen soon.  He stated how that could happen and highlighted the three-year ongoing lawsuit between the SEC and Ripple Labs as one of the ways.  Considering that “black swan” had been used earlier as a metaphor for disastrous events like the pandemic, Morehead quickly labeled a potential Ripple victory as a “positive black swan.” He emphasized that this could be the next ‘shoe to drop’ and could positively impact the crypto industry. Interestingly, when Morehead made these comments, he had no idea of the impending victory for Ripple, as he stated that a ruling could go in favor of either party. About a month later, Judge Analisa Torres ruled in favor of Ripple and said that its secondary XRP sales didn’t constitute an investment contract, nor were programmatic XRP sales classified as a security.  As predicted by Morehead, Ripple’s victory has undoubtedly had immense impacts on XRP and the crypto community in general.  XRP price holds steady above $0.5 &#124; Source: XRPUSD on Tradingview.com Has Ripple’s Victory Provided Regulatory Clarity? Morehead had predicted that Ripple’s victory would be one of the ways in which the crypto industry attains regulatory clarity. While this may have not yet been attained, it is obvious that Judge Torres’ ruling has provided some form of guidance, especially to firms like Binance and Coinbase.  The SEC sued both crypto exchanges in June for allegedly offering unregistered securities on their platforms. Additionally, the regulator also tagged tokens like SOL, ADA, MATIC, ATOM, and ALGO as securities.  Related Reading: The $20 Billion Delay: Appeal Court Pushes Back Decision On Grayscale Spot Bitcoin ETF As such, Ripple’s case provides a precedent for these firms to cite when putting forward their arguments in court. The SEC recognizes the impact that Judge Torres’ ruling could have against it as it continues to clamp down on the crypto industry, and that is why it moved to file an interlocutory appeal against the ruling.  However, some experts have predicted that the SEC will likely lose when the case is heard upon appeal. Featured image from iStock, chart from Tradingview.com"
+    "date": "2023-08-24T10:15:58.000Z",
+    "title": "Top NFT floor prices plunge while sales slightly hike",
+    "url": "https://crypto.news/top-nft-floor-prices-plunge-while-sales-slightly-hike/",
+    "description": "The NFT sales have been constantly dropping since early 2022. The floor prices of some of the top NFT collections plunged further over the past week. According to data provided by CoinGecko, over the past week, the floor prices of&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-08-24T10:00:25.000Z",
-    "title": "Crypto Investors Shift to VC Spectra (SPCT) Amid Decline of Avalanche (AVAX) & Aptos (APT)!",
-    "url": "https://www.crypto-news-flash.com/crypto-investors-shift-to-vc-spectra-spct-amid-decline-of-avalanche-avax-aptos-apt/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-investors-shift-to-vc-spectra-spct-amid-decline-of-avalanche-avax-aptos-apt",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-75.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-75.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-75-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-75-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />New exciting developments from Avalanche (AVAX) and Aptos (APT) seem to be overshadowed by the bearish trend prevailing in the market. As a result, the prices of Avalanche (AVAX) and Aptos (APT) saw a decline in the past week. On the other hand, VC Spectra (SPCT) remains on top as investors flock to it amid [...]"
+    "date": "2023-08-24T10:27:34.000Z",
+    "title": "Ripple CEO Brad Garlinghouse and Chairman Cannot Attend Court During Bitcoin Halving; Long Delay for XRP Case Expected",
+    "url": "https://www.crypto-news-flash.com/ripple-ceo-brad-garlinghouse-and-chairman-cannot-attend-court-during-bitcoin-halving-long-delay-for-xrp-case-expected/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-ceo-brad-garlinghouse-and-chairman-cannot-attend-court-during-bitcoin-halving-long-delay-for-xrp-case-expected",
+    "description": "The letter was submitted to Judge Analisa Torres on August 22 by attorneys representing both Ripple executives charged in the lawsuit. The letter noted that individual defendants will not be present during the trial from April 1, 2024, through April 14, 2024. The road to the final ruling on the SEC vs. Ripple case is [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-08-24T09:48:05.000Z",
-    "title": "Ripple: XRP Emerges as Sole Asset with Regulatory Clarity Among 22,930 in Bitcoin Market; Price Poised to Skyrocket to $125",
-    "url": "https://www.crypto-news-flash.com/ripple-xrp-emerges-as-sole-asset-with-regulatory-clarity-among-22930-in-bitcoin-market-price-poised-to-skyrocket-to-125/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-xrp-emerges-as-sole-asset-with-regulatory-clarity-among-22930-in-bitcoin-market-price-poised-to-skyrocket-to-125",
-    "description": "<img width=\"780\" height=\"520\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/ripple-xrp-a.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/ripple-xrp-a.jpg 780w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/ripple-xrp-a-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/ripple-xrp-a-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/ripple-xrp-a-104x69.jpg 104w\" sizes=\"(max-width: 780px) 100vw, 780px\" />XRP&#8217;s unique legal and regulatory clarity in the U.S. sets it apart in the vast crypto market. Expectations are rife about XRP experiencing a surge reminiscent of the 2017 crypto boom. In a rapidly evolving cryptocurrency landscape, XRP emerges as a promising beacon, especially after a tweet from EGRAG CRYPTO. This tweet underscores a renewed [...]"
+    "source": "Altcoin Buzz",
+    "date": "2023-08-24T10:25:41.000Z",
+    "title": "How Solana Wants to Lead Crypto Payments in E-commerce?",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/how-solana-wants-to-lead-crypto-payments-in-e-commerce/",
+    "description": "<p>This partnership marks a significant step forward for both companies and has the potential to bring about a new era of payment methods in online shopping. With Solana Pay now being integrated as an accepted payment method on Shopify, the industry is set to witness enhanced efficiency, security, and scalability, while Solana aims to achieve [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/how-solana-wants-to-lead-crypto-payments-in-e-commerce/\">How Solana Wants to Lead Crypto Payments in E-commerce?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

@@ -1,58 +1,135 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-08-29T14:25:45.000Z",
-    "title": "SEC Must Review Grayscale's ETF Bid, Appeals Court Rules",
-    "url": "https://www.coindesk.com/policy/2023/08/29/sec-must-review-grayscales-etf-bid-appeals-court-rules/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "*** TEMPLATE DNP ****"
+    "date": "2023-08-29T14:49:55.000Z",
+    "title": "SEC's Secret Binance Court Filing Has Observers Bracing for Bad News",
+    "url": "https://www.coindesk.com/policy/2023/08/29/secs-secret-binance-court-filing-has-observers-bracing-for-bad-news/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A new secret court filing related to Binance, the crypto exchange that already faces U.S. accusations of abetting money laundering and sanctions circumvention, has some wondering whether more bad news is about to hit the industry giant."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-08-29T14:58:44.000Z",
+    "title": "What Is an \"Algorithm of Thoughts\" (AoT)? Microsoft's Human-like AI Training Method",
+    "url": "https://decrypt.co/resources/what-is-an-algorithm-of-thoughts-aot-microsofts-human-like-ai-training-method",
+    "description": "The algorithm evaluates whether the initial steps—\"thoughts,\" to use a word generally associated only with humans—are sound, thereby avoiding a situation where an early wrong \"thought\" snowballs into an absurd outcome."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-08-29T14:48:18.000Z",
+    "title": "Grayscale Wins Appeal Against SEC to Convert Bitcoin Trust to ETF",
+    "url": "https://decrypt.co/154119/grayscale-wins-appeal-against-sec-to-convert-bitcoin-trust-to-etf",
+    "description": "GBTC is Grayscale's flagship Bitcoin fund, with $16 billion in assets under management."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-08-29T14:45:24.000Z",
+    "title": "Bitcoin Surges After Grayscale Wins Appeal Against SEC",
+    "url": "https://decrypt.co/154118/bitcoin-surges-after-grayscale-wins-appeal-against-sec",
+    "description": "The price of Bitcoin is on the rise after Grayscale prevailed in its court case against the SEC to launch a Bitcoin spot ETF."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-08-29T14:26:29.000Z",
-    "title": "Iris Energy buys 248 Nvidia GPUs worth $10M for generative AI & Bitcoin mining ",
-    "url": "https://cointelegraph.com/news/nvidia-iris-energy-buys-nvidia-gpus-worth-10-m-for-generative-ai",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/143741b5-ae85-423f-828f-f0c5f6d2965b.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Iris Energy has invested $10 million in the latest generation Nvidia GPUs to explore generative AI while it continues to focus on Bitcoin mining. </p>\n                    <p><p>Nasdaq-listed Iris Energy has bought 248 state of the art Nvidia H100 GPUs for $10 million as it looks to explore opportunities in generative AI in addition to its core business focus on <a href=\"https://cointelegraph.com/tags/bitcoin-mining\">Bitcoin mining</a>.</p><p>The firm expects to receive delivery of the 248 GPUs in the coming months and plans to deploy the hardware to serve opportunities in cloud computing. </p><p>Iris Energy co-founder and co-CEO Daniel Roberts said the company was looking to leverage its existing data centers into serving generative AI computing requirements.</p><blockquote>“We believe demand for sustainable computing is unlikely to go away, and feel we are uniquely positioned to capture ongoing growth in the broader industry; whether that be ASICs for Bitcoin mining, or GPUs for generative AI and beyond.”</blockquote><p>Iris Energy operates in regions that have an abundance of renewable energy including wind, solar, hydro and has set up its modular data centers nearby to the source of low-cost excess renewable energy to be monetized for Bitcoin.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-08/082740b1-6ecb-43ec-98f6-2826fdc79a45.jpg\"  /><figcaption style=\"text-align: center;\">Nvidia's H100 Tensor Core GPU.  Source: Nvidia.com.</figcaption></figure><p>According to the Iris Energy website, it has four major data center mining facilities, including Canal Flats, Mackenzie and Prince George in Canada’s British Columbia as well as its Childress site in Texas.</p><p><a href=\"https://cointelegraph.com/news/tether-cto-paolo-ardoino-bitcoin-mining-locations\"><strong><em>Related: Tether CTO stays silent on Bitcoin mining locations</em></strong></a></p><p>Renewable-powered Bitcoin mining operations continue to attract investment, with Genesis Digital Assets Limited opening a new data centre in Sweden in <a href=\"https://cointelegraph.com/news/renewable-energy-bitcoin-mining-sweden\">August 2023</a> that will operate off abundant power from the nearby Porjus Hydroelectric Power Station.</p><p>Meanwhile Blockstream recently announced its intent to <a href=\"https://cointelegraph.com/news/blockstream-plans-50m-raise-to-buy-miners\">raise up to $50 million</a> in an official investment note to purchase, store and then sell BTC mining hardware ahead of Bitcoin's next halving event in 2024. </p><p>GPU hardware manufacturer Nvidia has also seen significant windfall from the rise of AI-powered tools and AI computing, with its total market capitalization eclipsing $1 trillion in <a href=\"https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap\">May 2023</a>. </p><p>Nvidia also <a href=\"https://cointelegraph.com/news/nvidia-drops-new-ai-chip-expected-to-cut-development-costs\">recently teased</a> its next-generation GH200 Grace Hopper Superchip which is touted to be able to process complex generative AI workloads, includling large language models, recommender systems and vector databases.</p><p><em>Magazine: <a href=\"https://cointelegraph.com/magazine/recursive-inscriptions-bitcoin-supercomputer-defi-aws-possible/\">Recursive inscriptions: Bitcoin ‘supercomputer’ and BTC DeFi coming soon</a></em></p><template data-name=\"subscription_form\" data-type=\"markets_outlook\"></template></p>\n                \n            "
+    "date": "2023-08-29T14:43:48.000Z",
+    "title": "Breaking: Grayscale wins SEC lawsuit",
+    "url": "https://cointelegraph.com/news/grayscale-wins-sec-lawsuit",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-08/b8e61573-fd7e-4c0f-bc42-56afbd6761b5.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Bitcoin and the broader cryptocurrency market rose sharply on the news. </p>\n                    <p><p>Crypto asset manager Grayscale Bitcoin Trust (GBTC) has scored a major victory against the U.S. Securities and Exchange Commission in its efforts to convert its over-the-counter GBTC application into a listed Bitcoin ETF.</p><p>According to August 29 court filings, U.S. Court of Appeals Circuit Judge Neomi Rao ordered that Grayscale's petition for review be granted and for the SEC's order to deny the GBTC listing application to be vacated. Previously, Judge Rao said that the SEC did not \"offer any explanation\" as to why Grayscale was in the wrong. However, the order does not guarantee the listing of a Grayscale spot Bitcoin ETF.</p><p class=\"post-content__disclaimer\">This is a breaking news story, and further information will be added as it becomes available. </p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template>\n</p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-08-29T14:30:27.000Z",
-    "title": "NEAR Protocol",
-    "url": "https://cryptoslate.com/project-reports/near-protocol/",
-    "description": "<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/project-reports/near-protocol/\">NEAR Protocol</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-08-29T14:47:48.000Z",
+    "title": "Grayscale wins court battle against SEC; Bitcoin jumps 6% within first hour after ruling",
+    "url": "https://cryptoslate.com/grayscale-wins-court-battle-with-sec/",
+    "description": "<p>In a landmark ruling on August 29, 2023, the United States Court of Appeals for the District of Columbia Circuit vacated an order from the Securities and Exchange Commission (SEC), granting Grayscale Investments LLC a long-awaited victory in its lawsuit over the conversion of its Bitcoin Trust into a spot Bitcoin exchange-traded fund (ETF). The [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/grayscale-wins-court-battle-with-sec/\">Grayscale wins court battle against SEC; Bitcoin jumps 6% within first hour after ruling</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-08-29T15:07:20.000Z",
+    "title": "\n                        Grayscale wins against SEC - Bitcoin pumps\n                    ",
+    "url": "https://cryptodaily.co.uk/2023/08/grayscale-wins-against-sec-bitcoin-pumps",
+    "description": "\n                        <p dir=\"ltr\">The judge in the Grayscale vs SEC case has decided in favour of Grayscale. Once more the SEC is defeated in the courts over crypto-related judgements.</p>\nBTC surges on the news\n<p dir=\"ltr\">As the news dropped on Twitter that the SEC has been embarrassed yet again, BTC shot higher. At time of going to press BTC is up nearly 5% at $27,350. An assault on $28,000 is potentially the next step.&nbsp;</p>\nSEC losing its battle\n<p dir=\"ltr\">However, all is not won yet. Losing this particular battle does not mean that the SEC has to approve a Grayscale ETF. It just means that it cannot disapprove it over the reasons that it has so far given.</p>\n<p dir=\"ltr\">Be that as it may, the judge maintained that the SEC was unable to explain how Grayscale was wrong in its summation of the relationship between the bitcoin spot and futures markets.</p>\nBitcoin spot ETFs about to be approved?\n<p dir=\"ltr\">The news could now lead to a massive influx of capital into bitcoin should the Grayscale ETF go ahead, and of course there are a whole raft of EFTs that can potentially be approved as early as this Friday, when the SEC has to either approve them, or announce that it is going to put its decision back.</p>\n<p dir=\"ltr\">Grayscale&rsquo;s lawsuit against the SEC was launched in October 2022 after the SEC had rejected Grayscale&rsquo;s latest application for a bitcoin ETF. The Grayscale case was mainly based on the fact that the SEC had continually rejected bitcoin spot ETFs while at the same time approving bitcoin futures ETFs, which have been allowed since 2021.</p>\nGrayscale to take next steps\n<p dir=\"ltr\">A representative of Grayscale, was quoted in an article just published by Blockworks.co:</p>\n\n<p dir=\"ltr\">&ldquo;This is a monumental step forward for American investors, the bitcoin ecosystem and all those who have been advocating for bitcoin exposure through the added protections of the ETF wrapper,&rdquo;&nbsp;</p>\n\n<p dir=\"ltr\">They added:</p>\n\n<p dir=\"ltr\">(Grayscale) &ldquo;will be pursuing next steps with the SEC&rdquo; after reviewing the opinion,&rdquo;</p>\n\n<p dir=\"ltr\">Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.</p>\n                    "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-29T14:34:38.000Z",
-    "title": "DOJ urges court to stop SBF’s expert witnesses from testifying",
-    "url": "https://www.cryptopolitan.com/doj-urges-court-to-stop-sbfs-witnesses/",
-    "description": "As the trial of FTX founder Sam Bankman-Fried approaches, a legal tug-of-war over proposed witnesses has emerged between the defense and the Department of Justice (DOJ). Both parties have submitted their views on why certain witnesses should be disqualified from testifying, shedding light on the strategies they intend to employ in the upcoming trial involving ... <a title=\"DOJ urges court to stop SBF’s expert witnesses from testifying\" class=\"read-more\" href=\"https://www.cryptopolitan.com/doj-urges-court-to-stop-sbfs-witnesses/\" aria-label=\"More on DOJ urges court to stop SBF’s expert witnesses from testifying\">Read more</a>"
+    "date": "2023-08-29T15:07:53.000Z",
+    "title": "Cyber Expert Warns of Growing Misinformation Threat in the Digital Age",
+    "url": "https://www.cryptopolitan.com/cyber-expert-warns-of-growing-misinformation/",
+    "description": "As the world becomes increasingly interconnected, the prevalence of misinformation and cyber threats has surged, with cyber-phishing scams emerging as a significant concern. A cybersecurity expert from the University of Gloucestershire has issued a stark warning about the growing threat of misinformation and cyber-attacks, shedding light on the urgent need for enhanced awareness and preventive ... <a title=\"Cyber Expert Warns of Growing Misinformation Threat in the Digital Age\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cyber-expert-warns-of-growing-misinformation/\" aria-label=\"More on Cyber Expert Warns of Growing Misinformation Threat in the Digital Age\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-29T14:32:34.000Z",
-    "title": "Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?",
-    "url": "https://www.cryptopolitan.com/floki-inu-price-prediction/",
-    "description": "Floki Inu Price Prediction 2023-2032 What&#8217;s the good news from the Floki Inu community? Apparently, more believers are &#8220;flocking to it&#8221;. Another major exchange listing on Cetoex while waiting to be listed in Binance. Also, FLOKI joins the rest of the Musk dog-meme coins in celebrating a successful 2022 turnout. In case you&#8217;re wondering, here&#8217;s ... <a title=\"Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/floki-inu-price-prediction/\" aria-label=\"More on Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?\">Read more</a>"
+    "date": "2023-08-29T15:02:48.000Z",
+    "title": "Polkadot Price Prediction 2023-2032: A Bullish Pattern?",
+    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
+    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price ... <a title=\"Polkadot Price Prediction 2023-2032: A Bullish Pattern?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/polkadot-price-prediction/\" aria-label=\"More on Polkadot Price Prediction 2023-2032: A Bullish Pattern?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-29T14:19:57.000Z",
-    "title": "Tezos Price Prediction 2023-2032: How High can XTZ Rise?",
-    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
-    "description": "Tezos Price Prediction 2023-2032 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to ... <a title=\"Tezos Price Prediction 2023-2032: How High can XTZ Rise?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tezos-price-prediction/\" aria-label=\"More on Tezos Price Prediction 2023-2032: How High can XTZ Rise?\">Read more</a>"
+    "date": "2023-08-29T15:01:11.000Z",
+    "title": "Friend.tech announces plans to penalize users of copycat platforms",
+    "url": "https://www.cryptopolitan.com/friend-tech-plans-to-penalize-users-copycats/",
+    "description": "In the fast-evolving world of cryptocurrency and decentralized social media, the recent launch of Friend.tech’s app, touted as a decentralized social media platform built on blockchain technology, has ignited a firestorm of criticism. The controversy revolves around Friend.tech’s decision to penalize users who explore alternative forks or copycat versions of their tokenized social media ecosystem. ... <a title=\"Friend.tech announces plans to penalize users of copycat platforms\" class=\"read-more\" href=\"https://www.cryptopolitan.com/friend-tech-plans-to-penalize-users-copycats/\" aria-label=\"More on Friend.tech announces plans to penalize users of copycat platforms\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-08-29T14:14:58.000Z",
-    "title": "Artificial Intelligence is Here, So Secure Your Career Against Tech Advancement",
-    "url": "https://www.cryptopolitan.com/secure-your-career-against-tech-advancement/",
-    "description": "In an era marked by rapid technological advancements, the advent of artificial intelligence (AI) has ignited discussions about its potential impact on various industries and professions. A recent article from The Toronto Star sheds light on this very topic, highlighting which job roles might be among the first to face disruption from AI and offering ... <a title=\"Artificial Intelligence is Here, So Secure Your Career Against Tech Advancement\" class=\"read-more\" href=\"https://www.cryptopolitan.com/secure-your-career-against-tech-advancement/\" aria-label=\"More on Artificial Intelligence is Here, So Secure Your Career Against Tech Advancement\">Read more</a>"
+    "date": "2023-08-29T14:54:47.000Z",
+    "title": "Breakthrough in Soft Robotics – Self-Destructing Robots Leave Minimal Trace",
+    "url": "https://www.cryptopolitan.com/robotics-self-destructing-leaves-no-trace/",
+    "description": "In a groundbreaking development that could revolutionize the field of robotics, researchers in Korea have unveiled a new breed of soft robots equipped with a remarkable self-destruct mechanism. These robots are designed to dissolve into an inconspicuous oily residue, leaving minimal traces behind. This innovation has far-reaching implications, from environmental conservation to sensitive operations, and ... <a title=\"Breakthrough in Soft Robotics &#8211; Self-Destructing Robots Leave Minimal Trace\" class=\"read-more\" href=\"https://www.cryptopolitan.com/robotics-self-destructing-leaves-no-trace/\" aria-label=\"More on Breakthrough in Soft Robotics &#8211; Self-Destructing Robots Leave Minimal Trace\">Read more</a>"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-08-29T14:30:43.000Z",
-    "title": "The Fed Could Decide Start of Next Bitcoin (BTC) Bull Run, According to Analyst Benjamin Cowen – Here’s How",
-    "url": "https://dailyhodl.com/2023/08/29/the-fed-could-decide-start-of-next-bitcoin-btc-bull-run-according-to-analyst-benjamin-cowen-heres-how/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/Start-of-Next-Bitcoin-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst Benjamin Cowen says the U.S. Federal Reserve will play an integral role in deciding when the next Bitcoin (BTC) bull market kicks off. In a new strategy session, Cowen tells his 786,000 YouTube subscribers that BTC is currently flashing a mixed bag of indicators. According to Cowen, some metrics suggest the top crypto [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/08/29/the-fed-could-decide-start-of-next-bitcoin-btc-bull-run-according-to-analyst-benjamin-cowen-heres-how/\">The Fed Could Decide Start of Next Bitcoin (BTC) Bull Run, According to Analyst Benjamin Cowen – Here’s How</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-08-29T14:49:01.000Z",
+    "title": "DoorDash introduces AI-powered voice order system",
+    "url": "https://www.cryptopolitan.com/doordash-introduces-ai-powered-order-system/",
+    "description": "In a bid to revolutionize the restaurant industry, DoorDash has unveiled an innovative AI-powered voice ordering system. The company asserts that this technology will not only maximize revenue for restaurants but also ensure that no customer call goes unanswered. Going a step further, the AI system will offer personalized recommendations to customers, thereby boosting the ... <a title=\"DoorDash introduces AI-powered voice order system\" class=\"read-more\" href=\"https://www.cryptopolitan.com/doordash-introduces-ai-powered-order-system/\" aria-label=\"More on DoorDash introduces AI-powered voice order system\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-08-29T15:02:05.000Z",
+    "title": "Argo records $18.8m net loss despite increased mining efforts",
+    "url": "https://crypto.news/argo-records-18-8m-net-loss-despite-increased-mining-efforts/",
+    "description": "Despite trimming debt and operational expenses, Argo Blockchain posted a net loss of over $18 million in H1 2023, records show. Argo Blockchain, a leading crypto mining company (LSE: ARB; NASDAQ: ARBK), has released its performance report for the first&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-08-29T14:52:58.000Z",
+    "title": "CoinSwitch downsizes customer support amid CoinDCX layoffs",
+    "url": "https://crypto.news/coinswitch-downsizes-customer-support-amid-coindcx-layoffs/",
+    "description": "Major Indian crypto exchange CoinSwitch has laid off some members of its customer support team amid uncertain crypto regulation and stringent crypto taxation. CoinSwitch, a crypto exchange backed by Andreessen Horowitz and Coinbase Ventures, has axed 44 employees from the&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-08-29T14:42:33.000Z",
+    "title": "CoinsPaid reveals how job offer led to $37m hack",
+    "url": "https://crypto.news/coinspaid-reveals-how-job-offer-led-to-37m-hack/",
+    "description": "The CoinsPaid attack was a six-month-long operation that involved infiltrating the company and was likely carried out by the North Korean hacker group Lazarus. In a lengthy Twitter thread published on Aug. 29, entrepreneur and CoinsPaid advisor Evan Luthra described&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-08-29T15:00:22.000Z",
+    "title": "MATIC Risks Heavy Decline If It Falls Below This Price Level, Analyst Says",
+    "url": "https://www.newsbtc.com/matic/matic-risks-heavy-decline-if-it-falls-below-this-price-level-analyst-says/",
+    "description": "MATIC, the native token of the Polygon network, has experienced both sides of the crypto market volatility in the last day, with a temporary boost followed by a steady price decline. Over the past 24 hours, the prominent altcoin has had its price bounce between $0.55 and $0.56, forming a major consolidation zone. As many MATIC investors speculate on the token’s next movement, popular crypto analyst Ali Martinez has given an interesting prediction that implies an impending market loss. MATIC In Danger Of 27% Price Decline Via an X Post on Monday, Ali Martinez alerted the crypto space that the MATIC token was in a critical price zone, which could result in heavy investor losses.  Related Reading: MATIC Social Sentiment Slides To Negative Territory – What’s The Impact On Price? Over the last seven days, MATIC has recorded both negative and positive movements, often finding support at the $0.53-$0.54 price zone.  Interestingly,  Martinez predicts that if the Polygon native token lost this support level, it would likely fall as low as $0.40, representing a potential 27% decline from MATIC’s current price.  The analyst further emphasizes the importance of this support level, stating it is “guarded” by 3,770 wallet addresses that collectively own 70.19 million MATIC tokens.  Looking at MATIC’s daily chart, investors may have real cause to pay attention to Martinez’s prediction as the token’s price movement forms a descending channel.  Based on this pattern, MATIC could likely record little gains in the coming days, but its long-term outlook indicates the continuation of its current bearish trend. However, investors are reminded that all price predictions are speculative with no guarantees.  MATIC trading at $0.554 on the daily chart &#124; Source: MATICUSD chart on Tradingview.com MATIC Daily Active Address On the Rise On a more positive note for MATIC, the Polygon network has experienced a significant rise in its daily active addresses over the last few days based on data from market intelligence firm Santiment. Following a steady decline in mid-August that saw this metric fall to around 182,000 on August 20, there has been a notable recovery, with the daily active address count reaching about 264,000 on Monday, August 28. This indicates an increased interest in Polygon despite MATIC&#8217;s little price movement in the last week.  Related Reading: Polygon (MATIC) At June Lows Again – Prospects For Bullish Recovery? In other news, Polygon co-founder Sandeep Naiwal has posted an update on Polygon 2.0 detailing the benefits of MATIC’s proposed upgrade, the POL token.  According to data from CoinMarketCap, MATIC is currently trading at $0.55 with a 0.05% loss in the last day. However, the token’s daily trading volume is on the green side, rising by 0.52% to be valued at $248.56 million. With a market cap of $5.16 billion, MATIC is ranked as the 14th largest cryptocurrency.  Featured image from The One Brief, chart from Tradingview."
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-08-29T15:00:34.000Z",
+    "title": "ALICE vs Baby Doge Coin vs. Anarchy (ANA): Meme coins That Will Shape the Future of Cryptocurrency",
+    "url": "https://www.crypto-news-flash.com/alice-vs-baby-doge-coin-vs-anarchy-ana-meme-coins-that-will-shape-the-future-of-cryptocurrency/",
+    "description": "<img width=\"512\" height=\"272\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-106.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-106.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-106-300x159.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-106-351x185.jpg 351w\" sizes=\"(max-width: 512px) 100vw, 512px\" />There is no end to mind-blowing innovations in the crypto market. From DeFi to GameFi, these innovations keep getting brighter and brighter, leaving the battle for supremacy fiercer than ever. As the market continues to grow, three cryptocurrencies have emerged as frontrunners, each with its own unique story and potential Which of them has the [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-08-29T14:41:04.000Z",
+    "title": "Here’s When the SEC Can Approve BlackRock Bitcoin Spot ETF That Can Drive Price to $150,000 – All Dates and Deadlines",
+    "url": "https://www.crypto-news-flash.com/heres-when-the-sec-can-approve-blackrock-bitcoin-spot-etf-that-can-drive-price-to-150000-all-dates-and-deadlines/",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Mark-Van-Scyoc-SEC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Mark-Van-Scyoc-SEC.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Mark-Van-Scyoc-SEC-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Mark-Van-Scyoc-SEC-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Mark-Van-Scyoc-SEC-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />The crypto ecosystem is still anticipating the first spot Bitcoin ETF approval from the US SEC. The timeline for this approval is pegged at about 6 months from now, a move that can help trigger massive BTC price run. A number of spot Bitcoin (BTC) Exchange Traded Fund (ETF) applications have reached the desk of [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-08-29T14:59:00.000Z",
+    "title": "DWF Labs Withdraws 2M $CRV Tokens from Binance for Inventory Management",
+    "url": "https://coinedition.com/dwf-labs-withdraws-2m-crv-tokens-from-binance-for-inventory-management/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/067.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/067.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/067-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/067-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/067-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/067-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/067-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/067-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/067-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/067-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/067-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/067-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/067-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/067-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/067-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/067-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/067-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Digital asset market marker and Web3 investment firm DWF Labs has transferred 2 million $CRV tokens, worth $972K, from Binance a week after it deposited the tokens in the crypto exchange. On-Chain analytical platform Lookonchain made this revelation today in a recent post on X. Confirming the news,  Andrei Grachev, co-founder of DWF Labs, said [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/dwf-labs-withdraws-2m-crv-tokens-from-binance-for-inventory-management/\">DWF Labs Withdraws 2M $CRV Tokens from Binance for Inventory Management</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

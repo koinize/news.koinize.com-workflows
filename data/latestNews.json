@@ -1,72 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-09-06T09:12:21.000Z",
-    "title": "Anoma Foundation Plans Native Blockchain for Privacy-Focused Namada Protocol",
-    "url": "https://www.coindesk.com/tech/2023/09/06/anoma-foundation-plans-native-blockchain-for-privacy-focused-namada-protocol/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The mainnet joins the ranks of at least 50 other blockchains in the crypto ecosystem as of Tuesday."
+    "date": "2023-09-06T09:42:00.000Z",
+    "title": "Bitcoin Set to Form Death Cross as Dollar Index Teases Golden Crossover",
+    "url": "https://www.coindesk.com/markets/2023/09/06/bitcoin-set-to-form-death-cross-as-dollar-index-teases-golden-crossover/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A death cross indicates a potential long-term bearish shift in momentum while a golden cross suggests the opposite."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-09-06T09:42:39.000Z",
+    "title": "PUBG Developers Unveil Cosmos-Based Settlus Blockchain for USDC Settlements",
+    "url": "https://decrypt.co/155092/pubg-developers-unveil-settlus-a-cosmos-based-blockchain-for-usdc-settlements",
+    "description": "Krafton, the developer behind popular battle royale title PUBG: Battlegrounds, has joined the Cosmos with new layer-1 blockchain Settlus."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-09-06T09:58:33.000Z",
+    "title": "Sam Bankman-Fried appeal against bail revocation 'meritless': Prosecutors",
+    "url": "https://cointelegraph.com/news/prosecutors-call-former-ftx-ceo-sbf-appeal-against-bail-revocation-meritless",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/28d0ccbd-b70a-434e-bba6-8f601b2ea11f.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The New York South District court revoked former FTX CEO Sam Bankman-Fried’s bail on Aug. 11 after an appeal from the prosecution in July citing multiple instances of violation of bail conditions. </p>\n                    <p><p>The United States Attorney's Office has filed an affirmation of the denial of bail to former FTX CEO Sam Bankman-Fried, claiming that he could attempt witness tampering, and stating that no release conditions would assure the safety of the witnesses. Prosecutors responded to several claims made in his appeal against the bail revocation, calling it \"meritless.\"</p><p>The prosecutors in their response argued that SBF was found to have twice committed/attempted witness tampering in violation of the court orders. Thus, in light of the continued evasions of his pre-trial release conditions, Bankman-Fried was unlikely to abide by the conditions of release.</p><p>The first time SBF attempted to contact witnesses came to light in January earlier this year when the former FTX CEO initiated contact with the then-General Counsel of FTX US, who is also a potential trial witness represented by counsel. </p><p>The second such instance came in July 2023, when a New York Times report published private journal messages of Caroline Ellison, the former CEO of Alameda and SBF’s associate. SBF’s counsel confirmed that the journal was leaked by the former FTX CEO himself. The prosecutors reached out to the District Court to highlight how SBF had covertly provided private and potentially embarrassing writings of Ellison to discredit her and potentially influence the perception of the jury in the case when it goes to trial.</p><p>On July 26 during a court conference, prosecutors appealed to revoke SBF’s bail plea based on his violations of the bail conditions and attempts to influence witnesses. Federal judge Lewis Kaplan from the District Court for the Southern District of New York, <a href=\"https://cointelegraph.com/news/judge-orders-sam-bankman-fried-bail-revoked-following-allegations-witness-intimidation\">revoked SBF’s bail on Aug. 11</a> after he was found to have contacted witnesses in an attempt to influence or intimidate them. The former FTX CEO had been out on bail on a $250 million bond since December 2022.</p><p><strong><em>Related: <a href=\"https://cointelegraph.com/news/coin-center-takes-aim-at-unconstitutional-sec-redefinition-of-an-exchange\">Coin Center takes aim at ‘unconstitutional’ SEC redefinition of an 'exchange'</a></em></strong></p><p>On Aug. 28, SBF lawyers <a href=\"https://cointelegraph.com/news/sam-bankman-fried-lawyers-appeal-decision-bail-first-amendment-issues\">appealed against the revocation of the bail</a> ruling and claimed that the former FTX CEO was well within his right to talk to the press about Caroline Ellison as it was protected under the First Amendment. However, prosecutors argued that Judge Kaplan took SBF’s First Amendment rights into consideration in the ruling. The judge in the ruling had noted that “the law is that once communication is undertaken as part of or with the intent to intimidate or influence a witness, it’s a crime, and the First Amendment has nothing to do with it.”</p><p>The prosecutors made two key arguments against the SBF appeal:</p><blockquote>The District Court did not clearly err in finding probable cause to believe Bankman-Fried twice committed attempted witness tampering while on pretrial release.</blockquote><blockquote>Judge Kaplan did not clearly err in finding probable cause that Bankman-Fried attempted to tamper with Witness 1</blockquote><p>The prosecutors also argued that the defendants didn’t argue or dispute against the ruling in SBF’s attempt to witness former FTX US counsel which the judge found a clear attempt of witness tampering.</p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/money-back-crypto-litigation/\"><strong><em>Get your money back: The weird world of crypto litigation</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-09-06T09:15:21.000Z",
-    "title": "Coinbase-backed Base restores block production after more than 40 minutes outage",
-    "url": "https://cryptoslate.com/coinbase-backed-base-restores-block-production-after-more-than-40-minutes-outage/",
-    "description": "<p>Coinbase-backed layer2 network Base suffered a temporary outage that led to a stalled block production on Sept. 5. The blockchain network, however, has &#8220;identified and remediated&#8221; the issue and assured users that their funds were safe. According to its status page, Base&#8217;s stalled block production led to users having problems submitting new transactions on the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinbase-backed-base-restores-block-production-after-more-than-40-minutes-outage/\">Coinbase-backed Base restores block production after more than 40 minutes outage</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-09-06T09:27:23.000Z",
-    "title": "Blockchain Consultant Explains How XRP Holders Can Profit from XRPL’s Upcoming AMM Without Risking a Single XRP Token",
-    "url": "https://www.cryptoglobe.com/latest/2023/09/blockchain-consultant-explains-how-xrp-holders-can-profit-from-xrpls-upcoming-amm-without-risking-a-single-xrp-token/",
-    "description": "Blockchain consultant Panos Mekras, who is the Founder of DigitalGen Financial Services, Co-Founder of startup Anodos Finance, and author of the book “Understanding the Crypto Economy: A Full Guide for Beginners“, recently posted a thread on X (formerly known as Twitter) about the profit opportunities awaiting XRP holders with the upcoming introduction of a new […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-06T09:37:51.000Z",
-    "title": "Google Bets on ChainGPT's Web3 Vision with a Whopping $350,000 Grant",
-    "url": "https://cryptodaily.co.uk/2023/09/google-bets-on-chaingpts-web3-vision-with-a-whopping-350000-grant",
-    "description": "ChainGPT, the leading AI Infrastructure provider for the crypto, blockchain, and Web3 industry has put its best foot forward and applied to the Google Cloud Web3 Startup Program."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-09-06T09:30:01.000Z",
-    "title": "China Wants the Digital Yuan to Be Ubiquitous in Retail Payments Arena",
-    "url": "https://news.bitcoin.com/china-wants-the-digital-yuan-to-be-ubiquitous-in-retail-payments-arena/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"China Wants the Digital Yuan to Be Ubiquitous in Retail Payments\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />China is pushing for universal national adoption of the digital yuan, with People&#8217;s Bank of China&#8217;s (PBOC) officials stating the currency should be available for all retail payment scenarios. The recent introduction of a standard for QR-based payment codes is part of this move, which also seeks to make wholesale payments interoperable with the digital [&#8230;]"
+    "date": "2023-09-06T10:07:20.000Z",
+    "title": "Owocki rejoins Gitcoin amid shifting landscape and open-source funding needs",
+    "url": "https://cryptoslate.com/owocki-rejoins-gitcoin-amid-shifting-landscape-and-open-source-funding-needs/",
+    "description": "<p>In a recent Gitcoin forum post, Kevin Owocki, co-founder of Gitcoin, outlined his intentions for the platform following significant changes within the company. Owocki announced his departure from Supermodular, now Buildbox, with plans to refocus his efforts on Gitcoin and its Decentralized Autonomous Organization (DAO). Owocki&#8217;s decision to return to Gitcoin, albeit in a different [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/owocki-rejoins-gitcoin-amid-shifting-landscape-and-open-source-funding-needs/\">Owocki rejoins Gitcoin amid shifting landscape and open-source funding needs</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-06T09:36:51.000Z",
-    "title": "Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series",
-    "url": "https://www.cryptopolitan.com/yuga-labs-interest-in-bitcoin-ordinals/",
-    "description": "The world of Non-Fungible Tokens (NFTs) continues to captivate as Yuga Labs, the creative studio behind the infamous Bored Ape Yacht Club, ventures deeper into the cryptosphere. The NFT giant is adding another layer of complexity and thrill to its audience engagement by launching a 13-week cipher puzzle series. Based on its Twelvefold Bitcoin NFT ... <a title=\"Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series\" class=\"read-more\" href=\"https://www.cryptopolitan.com/yuga-labs-interest-in-bitcoin-ordinals/\" aria-label=\"More on Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series\">Read more</a>"
+    "date": "2023-09-06T10:07:10.000Z",
+    "title": "India leads G20 in active discussions for global crypto framework",
+    "url": "https://www.cryptopolitan.com/india-leads-g20-in-active-discussions-for-global-crypto-framework/",
+    "description": "The G20 countries, under India&#8217;s presidency, are actively discussing the creation of a global framework for regulating cryptocurrencies. Indian Finance Minister Nirmala Sitharaman confirmed the ongoing discussions during the Global Fintech Fest on September 5, emphasizing the need for a unified approach to this emerging asset class. India&#8217;s role in shaping global crypto policy India ... <a title=\"India leads G20 in active discussions for global crypto framework\" class=\"read-more\" href=\"https://www.cryptopolitan.com/india-leads-g20-in-active-discussions-for-global-crypto-framework/\" aria-label=\"More on India leads G20 in active discussions for global crypto framework\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-06T09:26:39.000Z",
-    "title": "Zoom Introduces AI-Powered Assistant to Boost User Productivity",
-    "url": "https://www.cryptopolitan.com/zoom-introduces-ai-powered-assistant/",
-    "description": "Zoom, a prominent video conferencing and collaboration solutions provider, has introduced an innovative feature to its suite: the AI-powered assistant. This AI-driven companion is now accessible to all paid subscribers at no extra cost, aiming to redefine productivity and streamline various tasks within the Zoom platform. AI-powered assistant unveiled Zoom&#8217;s AI-Powered Assistant, formerly known as ... <a title=\"Zoom Introduces AI-Powered Assistant to Boost User Productivity\" class=\"read-more\" href=\"https://www.cryptopolitan.com/zoom-introduces-ai-powered-assistant/\" aria-label=\"More on Zoom Introduces AI-Powered Assistant to Boost User Productivity\">Read more</a>"
+    "date": "2023-09-06T09:44:34.000Z",
+    "title": "Microsoft Revolutionizes AI Development with New Compiler Suite",
+    "url": "https://www.cryptopolitan.com/microsoft-revolutionizes-ai-development/",
+    "description": "Microsoft has taken a significant leap forward in the field of artificial intelligence with the unveiling of a suite of four cutting-edge AI compilers—Rammer, Roller, Welder, and Grinder. These powerful tools are set to revolutionize the way AI models are optimized, making development faster, better, and more powerful. A collaborative endeavor with academic institutions Developed ... <a title=\"Microsoft Revolutionizes AI Development with New Compiler Suite\" class=\"read-more\" href=\"https://www.cryptopolitan.com/microsoft-revolutionizes-ai-development/\" aria-label=\"More on Microsoft Revolutionizes AI Development with New Compiler Suite\">Read more</a>"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T09:20:08.000Z",
-    "title": "Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements",
-    "url": "https://www.cryptopolitan.com/tech-anxiety-rise-among-senior-leaders/",
-    "description": "A staggering 94% of senior business leaders are grappling with &#8216;tech anxiety,&#8217; according to a new study by global digital transformation consultancy, Kin + Carta. The phenomenon of tech anxiety is linked to the rapid pace of technological advancements, particularly in the areas of cybersecurity, AI, and machine learning. This sentiment is driving business leaders ... <a title=\"Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tech-anxiety-rise-among-senior-leaders/\" aria-label=\"More on Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements\">Read more</a>"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-09-06T09:17:40.000Z",
-    "title": "Crypto Analysts Warn: Spot Bitcoin ETF Approval Could Send XRP Price to $5, $10 and Beyond",
-    "url": "https://www.crypto-news-flash.com/crypto-analysts-warn-spot-bitcoin-etf-approval-could-send-xrp-price-to-5-10-and-beyond/",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Crypto analysts have pointed out the massive opportunity presented by the approval of a spot Bitcoin ETF, deeming it reckless not to aggressively accumulate. Experts believe that the SEC will approve all filed spot Bitcoin ETFs simultaneously as Grayscale asks the SEC to meet and discuss the way forward on the same. Despite the stubbornness [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-09-06T09:15:53.000Z",
-    "title": "One Ethereum Rival at ‘Screaming’ Low Prices Amid Institutional Interest: InvestAnswers",
-    "url": "https://dailyhodl.com/2023/09/06/one-ethereum-rival-at-screaming-low-prices-amid-institutional-interest-investanswers/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto strategist believes that one Ethereum (ETH) competitor with high institutional interest has massive upside potential. The anonymous host of InvestAnswers tells his 447,000 YouTube subscribers that Solana (SOL) has key advantages over ETH that could send its price soaring. “But the real difference is how much better by what magnitude is [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/06/one-ethereum-rival-at-screaming-low-prices-amid-institutional-interest-investanswers/\">One Ethereum Rival at ‘Screaming’ Low Prices Amid Institutional Interest: InvestAnswers</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2023-09-06T10:00:42.000Z",
+    "title": "Crypto millionaires number exceeds 88k, report reveals",
+    "url": "https://crypto.news/crypto-millionaires-number-exceeds-88k-report-reveals/",
+    "description": "According to a report by the investment migration company Henley and Partners, there are 88,200 crypto millionaires worldwide, with almost half owning Bitcoin (BTC). The report reveals around 40,500 of the millionaires hold Bitcoin despite the recent price fluctuations.  Moreover,&#8230;"
   }
 ]

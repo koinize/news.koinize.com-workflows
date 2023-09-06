@@ -1,58 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-09-06T15:00:00.000Z",
+    "title": "‘Sequencers’ Are Blockchain’s Air Traffic Control. Here’s Why They’re Misunderstood",
+    "url": "https://www.coindesk.com/tech/2023/09/06/everybody-in-blockchains-talking-about-sequencers-heres-why-theyre-misunderstood/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Leading rollup operators are criticized for using \"centralized sequencers\" to package transactions and pass them down to Ethereum, but the real risks may lie elsewhere."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-09-06T14:40:41.000Z",
+    "title": "Ex-Celsius CEO Mashinsky's Assets Ordered Frozen by Court as DOJ Case Continues",
+    "url": "https://www.coindesk.com/policy/2023/09/06/ex-celsius-ceo-mashinskys-assets-ordered-frozen-by-court-as-doj-case-continues/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Corporate bank accounts and a Texas property are now untouchable after the executive’s July arrest"
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-09-06T15:03:30.000Z",
+    "title": "Star Wars Outlaws: Everything You Need to Know",
+    "url": "https://decrypt.co/155149/star-wars-outlaws-everything-you-need-to-know",
+    "description": "The sci-fi franchise takes its first step into open-world adventure with thief Kay Vess and her creature companion Nix in Star Wars Outlaws."
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-09-06T14:30:13.000Z",
-    "title": "Decoding SLRV Ribbons and what they mean for Bitcoin’s price",
-    "url": "https://cryptoslate.com/what-slrv-ribbons-mean-for-bitcoin-price/",
-    "description": "<p>Spent Lifespan Relative Value (SLRV) offers a lens into the age of coins transacted on the Bitcoin network. Essentially, it helps differentiate the actions of long-term holders and short-term speculators, acting as a measure of market sentiment. The SLRV ribbons are a visual representation of the SLRV ratio, plotted over different time frames, primarily the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/what-slrv-ribbons-mean-for-bitcoin-price/\">Decoding SLRV Ribbons and what they mean for Bitcoin’s price</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-09-06T15:00:18.000Z",
+    "title": "Coinbase Singapore now requires counterparty’s personal information to process transactions",
+    "url": "https://cryptoslate.com/coinbase-singapore-now-requires-counterpartys-personal-information-to-process-transactions/",
+    "description": "<p>Coinbase Singapore users must provide additional counterparty information when initiating cryptocurrency deposits or withdrawals from their accounts starting Sept. 5. The exchange said it introduced these measures in compliance with the Monetary Authority of Singapore (MAS) regulations on anti-money laundering and countering the financing of terrorism. According to its website, Coinbase Singapore users are required [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinbase-singapore-now-requires-counterpartys-personal-information-to-process-transactions/\">Coinbase Singapore now requires counterparty&#8217;s personal information to process transactions</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T14:38:27.000Z",
-    "title": "SBI Remit expands Ripple-based remittance services to Southeast Asia",
-    "url": "https://www.cryptopolitan.com/sbi-remit-expands-ripple-based-remittance-services-to-southeast-asia/",
-    "description": "In a significant expansion, SBI Remit, a subsidiary of Japan&#8217;s financial holding company SBI Group, has announced its collaboration with Ripple and SBI Ripple Asia to extend its XRP-based remittance services to bank accounts in Vietnam, Indonesia, and the Philippines. A strategic move to streamline international remittances According to a press release, SBI Remit has ... <a title=\"SBI Remit expands Ripple-based remittance services to Southeast Asia\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sbi-remit-expands-ripple-based-remittance-services-to-southeast-asia/\" aria-label=\"More on SBI Remit expands Ripple-based remittance services to Southeast Asia\">Read more</a>"
+    "source": "Crypto Daily",
+    "date": "2023-09-06T15:05:50.000Z",
+    "title": "Market Stabilizes: Is Now the Time To Buy Solana, Chainlink, and Watchvestor?",
+    "url": "https://cryptodaily.co.uk/2023/09/market-stabilizes-is-now-the-time-to-buy-solana-chainlink-and-watchvestor",
+    "description": "With every waking moment, more and more individuals are becoming more enlightened about the crypto market."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T14:27:12.000Z",
-    "title": "Marathon’s Bitcoin mining suffered a slight declined in August",
-    "url": "https://www.cryptopolitan.com/marathons-bitcoin-mining-suffered-a-slight-declined-in-august/",
-    "description": "In August 2023, Marathon Digital Holdings, a United States-based cryptocurrency mining operator, achieved significant milestones in its operations. The company produced 1,072 Bitcoin during the month, marking a 9% decrease from July but an impressive fivefold increase compared to August 2022. The firm recently shared unaudited BTC production and miner installation updates for August, providing ... <a title=\"Marathon’s Bitcoin mining suffered a slight declined in August\" class=\"read-more\" href=\"https://www.cryptopolitan.com/marathons-bitcoin-mining-suffered-a-slight-declined-in-august/\" aria-label=\"More on Marathon’s Bitcoin mining suffered a slight declined in August\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T14:21:29.000Z",
-    "title": "“The Next Crypto Gem” TV show premieres on September 7th in 56 countries",
-    "url": "https://www.cryptopolitan.com/the-next-crypto-gem-premieres-on-september-7/",
-    "description": "The world of crypto is coming live to you in a matter of hours. The Next Crypto Gem, a show many have dubbed “the Shark Tank of crypto,” premiers on September 7th in 56 countries. What can investors, enthusiasts, and critics expect? As per the production reports, The Next Crypto Gem draws its inspiration from ... <a title=\"&#8220;The Next Crypto Gem&#8221; TV show premieres on September 7th in 56 countries\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-next-crypto-gem-premieres-on-september-7/\" aria-label=\"More on &#8220;The Next Crypto Gem&#8221; TV show premieres on September 7th in 56 countries\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T14:11:22.000Z",
-    "title": "Bitop Exchange Launches Enhanced Crypto, Stocks,Commodities, and Binary Solutions",
-    "url": "https://www.cryptopolitan.com/bitop-exchange-launches-enhanced-crypto-stockscommodities-and-binary-solutions/",
-    "description": "Toronto, Canada, September 6th, 2023, Chainwire Bitop, the regulated cryptocurrency exchange, has unveiled enhancements to its core products to better meet the needs of retail and institutional clients and position itself as a primary hub for crypto, commodities, binary, and stocks trading. The exchange is aiming to attract traders exploring investment options in commodities, stocks, ... <a title=\"Bitop Exchange Launches Enhanced Crypto, Stocks,Commodities, and Binary Solutions\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitop-exchange-launches-enhanced-crypto-stockscommodities-and-binary-solutions/\" aria-label=\"More on Bitop Exchange Launches Enhanced Crypto, Stocks,Commodities, and Binary Solutions\">Read more</a>"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-09-06T14:30:20.000Z",
-    "title": "FDUSD Market Cap Jumps By 20% Following Binance Directive",
-    "url": "https://www.newsbtc.com/binance/fdusd-market-cap-jumps-by-20-following-binance-directive/",
-    "description": "The First Digital USD (FDUSD) stablecoin has recorded a significant rise in its market cap following an announcement by the Binance exchange in August. FDUSD, a dollar-pegged stablecoin, was recently launched on June 1, 2023, debuting on the Ethereum network and the BNB Smart Chain. The token was officially listed for specific trading pairs on the crypto exchange in July. Related Reading: Binance Will Halt These 39 Liquidity Mining Pools This Week Binance’s Directive Drives Adoption Of FDUSD  On August 31, Binance confirmed reports of intention to halt support for Binance USD (BUSD) stablecoin following the regulatory embargo on the token’s issuance. Back in March, The New York Department of Financial Services (NYDFS) had ordered Paxos Trust, the issuing company of BUSD, to cease minting the stablecoin. Since then, BUSD’s market supply has taken a nosedive, crashing by over 80% in the last eight months.  According to an official post, the exchange will begin the gradual termination of all BUSD products on its platform, urging its 150 million customers to swap their BUSD tokens for other assets before February 2024.  In particular, the crypto exchange encouraged users to convert their BUSD to FDUSD, touting incentives such as zero trading fees and a 1:1 direct swap ratio.  According to data from CoinMarketCap, FDUSD’s market cap value has grown by 21.49% from August 31, rising from $324.75 million to its current value of $394.68 million. This indicates that Binance’s promotion of FDUSD as a BUSD alternative is paying dividends, resulting in a rapid rise in the former&#8217;s adoption over the last few days.  For context, the market cap metric represents the total value of a cryptocurrency based on its market price and the number of circulating tokens. Since FDUSD is a stablecoin with a fixed value of $1, CoinMarketCap’s data means that over 70 million FDUSD tokens entered circulation over the past week.  In addition, according to the DeFi analytics platform, DeFiLlama, FDUSD now ranks as the ninth largest stablecoin in the crypto market ahead of other popular assets such as Gemini USD (GUSD).  FDUSD valued at $0.9992 on the hourly chart &#124; Source: FDUSDUSDT chart on Tradingview.com Related Reading: Court Says Yes To Binance Request In Case Against SEC Binance Announces New FDUSD Trading Pairs In other news, Binance unveiled three new FDUSD trading pairs on September 6, maintaining its stablecoin support.  These trading pairs are DOGE/FDUSD, SOL/FDUSD, and XRP/FDUSD, which will become available for trading on September 7 at exactly 08:00 UTC. This move comes a week after Binance announced the “gradual” discontinuation of its support for the BUSD token while directing users to convert their BUSD token to other assets. The exchange has begun discontinuing by delisting eight BUSD isolated and cross-margin pairs. Following these announcements, the BUSD market fall continues, with the token’s market share now valued at an all-time low of $2.73 billion. More data from DeFiLlama shows that the BUSD market cap is down by 4.16% and 12.23% in the last one and seven days, respectively.  Nevertheless, BUSD remains an important item in the market, ranking as the fifth largest stablecoin in the crypto space. Feature image from CNBC, chart from Tradingview"
+    "source": "Crypto Daily",
+    "date": "2023-09-06T14:53:32.000Z",
+    "title": "Move Aside Polygon (MATIC) and Litecoin (LTC): Everlodge Shoots for the Crypto Stars",
+    "url": "https://cryptodaily.co.uk/2023/09/move-aside-polygon-matic-and-litecoin-ltc-everlodge-shoots-for-the-crypto-stars",
+    "description": "Two well-known players in the crypto realm, Polygon (MATIC) and Litecoin (LTC), have long held their ground. But, a fresh entrant is making waves - Everlodge."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-09-06T14:30:15.000Z",
-    "title": "Best Coins on Sushiswap | Guide to the Top Coins on Sushiswap, Newest Crypto Coin Listings on Sushi and Hot New Crypto Presales",
-    "url": "https://www.crypto-news-flash.com/best-coins-on-sushiswap-guide-to-the-top-coins-on-sushiswap-newest-crypto-coin-listings-on-sushi-and-hot-new-crypto-presales/",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T155751.650.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T155751.650.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T155751.650-300x169.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Welcome to your comprehensive guide to the most noteworthy crypto coins on Sushiswap or currently available for presale in 2023. This guide diligently explores the frontiers of crypto innovation, providing you with the latest insights from thought leaders and rising stars in the crypto universe. Let’s dive into the most anticipated Sushiswap listings and the [...]"
+    "date": "2023-09-06T15:00:09.000Z",
+    "title": "Pepe Coin Might Have a Huge Comeback Before December, But Whales Are Favoring Anarchy For Better ROI",
+    "url": "https://www.crypto-news-flash.com/pepe-coin-might-have-a-huge-comeback-before-december-but-whales-are-favoring-anarchy-for-better-roi/",
+    "description": "<img width=\"512\" height=\"272\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T150501.504.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T150501.504.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T150501.504-300x159.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T150501.504-351x185.jpg 351w\" sizes=\"(max-width: 512px) 100vw, 512px\" />A few days ago, BTC broke its bearish trend with a spike of about 7%, after hovering around the $26,000 region for two weeks. BTC’s price break had a consequential impact on the general market; total market capitalization rose by almost 6% in the same timeframe.   As crypto market volatility continues, PEPE whales and investors [...]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-09-06T14:30:14.000Z",
-    "title": "Trader Who Called 2021 Bitcoin Collapse Predicts Meteoric BTC Rally, Says To Expect the Unexpected",
-    "url": "https://dailyhodl.com/2023/09/06/trader-who-called-2021-bitcoin-collapse-predicts-meteoric-btc-rally-says-to-expect-the-unexpected/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Collapse-Predicts-Meteoric.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A crypto strategist who nailed Bitcoin&#8217;s (BTC) May 2021 meltdown is unveiling his massive long-term target for the flagship digital asset. Pseudonymous analyst Dave the Wave tells his 140,000 followers on the social media platform X that Bitcoin appears to be in the midst of forming an immense inverse head and shoulders pattern on the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/06/trader-who-called-2021-bitcoin-collapse-predicts-meteoric-btc-rally-says-to-expect-the-unexpected/\">Trader Who Called 2021 Bitcoin Collapse Predicts Meteoric BTC Rally, Says To Expect the Unexpected</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-09-06T14:49:57.000Z",
+    "title": "Polygon Faces the Heat: Rising L2 Rivals Arbitrum, Loopring, Immutable X, and xDai Chain Threaten Its Supremacy",
+    "url": "https://www.crypto-news-flash.com/polygon-faces-the-heat-rising-l2-rivals-arbitrum-loopring-immutable-x-and-xdai-chain-threaten-its-supremacy/",
+    "description": "<img width=\"1043\" height=\"606\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/polygon-network-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/polygon-network-.png 1043w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/polygon-network--300x174.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/polygon-network--1024x595.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/polygon-network--768x446.png 768w\" sizes=\"(max-width: 1043px) 100vw, 1043px\" />Polygon leads in Layer 2 adoption but lags in fee generation compared to peers.  Layer 2 scaling solutions are reshaping the crypto landscape, with Arbitrum emerging as a notable contender.  The competition within the Layer 2 scaling solutions industry has become fiercer daily. Newcomers such as &#8220;BuildOnBase&#8221; have experienced substantial growth and have accumulated substantial [...]"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2023-09-06T14:51:31.000Z",
+    "title": "Change Log: Version 1.79",
+    "url": "https://blog.bitfinex.com/changelogs/change-log-version-1-79/",
+    "description": "<p>The Bitfinex Change Log is an overview of all performance and UI changes made to the Bitfinex trading platform. For an overview of all previous changes, please refer to blog.bitfinex.com/category/changelogs. Version 1.79 Features Updated the look of the increase position and the derivatives* edit order...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/changelogs/change-log-version-1-79/\">Change Log: Version 1.79</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2023-09-06T14:48:26.000Z",
+    "title": "Bitfinex Securities Two year Anniversary: Disrupting the Traditional IPO Landscape",
+    "url": "https://blog.bitfinex.com/announcements/bitfinex-securities-two-year-anniversary-disrupting-the-traditional-ipo-landscape/",
+    "description": "<p>In the fast-paced world of finance, two years can signify a lifetime of change, and that’s especially true for Bitfinex Securities as it marks its second anniversary. Pioneering the evolution of Security Token Offerings (STO), Bitfinex Securities has been instrumental in redefining how we think...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/announcements/bitfinex-securities-two-year-anniversary-disrupting-the-traditional-ipo-landscape/\">Bitfinex Securities Two year Anniversary: Disrupting the Traditional IPO Landscape</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

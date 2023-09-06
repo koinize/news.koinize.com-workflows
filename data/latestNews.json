@@ -1,58 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-09-06T09:12:21.000Z",
+    "title": "Anoma Foundation Plans Native Blockchain for Privacy-Focused Namada Protocol",
+    "url": "https://www.coindesk.com/tech/2023/09/06/anoma-foundation-plans-native-blockchain-for-privacy-focused-namada-protocol/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The mainnet joins the ranks of at least 50 other blockchains in the crypto ecosystem as of Tuesday."
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-09-06T09:00:27.000Z",
-    "title": "Grappling with new normal as debt levels skyrocket, stalling return to average interest rates",
-    "url": "https://cryptoslate.com/insights/grappling-with-new-normal-as-debt-levels-skyrocket-stalling-return-to-average-interest-rates/",
-    "description": "<p>Quick Take A closer look at the question, &#8220;When are interest rates returning to normal?&#8221; reveals an intriguing aspect of economic dynamics. The Bank of England (BOE) still hovers approximately 50 basis points (bps) from the average interest rate levels since 1970. However, the intervening years have witnessed stark shifts in the economic landscape. According [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/grappling-with-new-normal-as-debt-levels-skyrocket-stalling-return-to-average-interest-rates/\">Grappling with new normal as debt levels skyrocket, stalling return to average interest rates</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-09-06T09:15:21.000Z",
+    "title": "Coinbase-backed Base restores block production after more than 40 minutes outage",
+    "url": "https://cryptoslate.com/coinbase-backed-base-restores-block-production-after-more-than-40-minutes-outage/",
+    "description": "<p>Coinbase-backed layer2 network Base suffered a temporary outage that led to a stalled block production on Sept. 5. The blockchain network, however, has &#8220;identified and remediated&#8221; the issue and assured users that their funds were safe. According to its status page, Base&#8217;s stalled block production led to users having problems submitting new transactions on the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinbase-backed-base-restores-block-production-after-more-than-40-minutes-outage/\">Coinbase-backed Base restores block production after more than 40 minutes outage</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-09-06T09:27:23.000Z",
+    "title": "Blockchain Consultant Explains How XRP Holders Can Profit from XRPL’s Upcoming AMM Without Risking a Single XRP Token",
+    "url": "https://www.cryptoglobe.com/latest/2023/09/blockchain-consultant-explains-how-xrp-holders-can-profit-from-xrpls-upcoming-amm-without-risking-a-single-xrp-token/",
+    "description": "Blockchain consultant Panos Mekras, who is the Founder of DigitalGen Financial Services, Co-Founder of startup Anodos Finance, and author of the book “Understanding the Crypto Economy: A Full Guide for Beginners“, recently posted a thread on X (formerly known as Twitter) about the profit opportunities awaiting XRP holders with the upcoming introduction of a new […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-09-06T09:37:51.000Z",
+    "title": "Google Bets on ChainGPT's Web3 Vision with a Whopping $350,000 Grant",
+    "url": "https://cryptodaily.co.uk/2023/09/google-bets-on-chaingpts-web3-vision-with-a-whopping-350000-grant",
+    "description": "ChainGPT, the leading AI Infrastructure provider for the crypto, blockchain, and Web3 industry has put its best foot forward and applied to the Google Cloud Web3 Startup Program."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-09-06T09:30:01.000Z",
+    "title": "China Wants the Digital Yuan to Be Ubiquitous in Retail Payments Arena",
+    "url": "https://news.bitcoin.com/china-wants-the-digital-yuan-to-be-ubiquitous-in-retail-payments-arena/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"China Wants the Digital Yuan to Be Ubiquitous in Retail Payments\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/shutterstock_2016931682.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />China is pushing for universal national adoption of the digital yuan, with People&#8217;s Bank of China&#8217;s (PBOC) officials stating the currency should be available for all retail payment scenarios. The recent introduction of a standard for QR-based payment codes is part of this move, which also seeks to make wholesale payments interoperable with the digital [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-06T09:04:19.000Z",
-    "title": "Grayscale petitions SEC to convert GBTC into a spot Bitcoin ETF",
-    "url": "https://www.cryptopolitan.com/grayscale-to-convert-gbtc-into-bitcoin-etf/",
-    "description": "In a significant move that could reshape the cryptocurrency landscape, Grayscale Investments, the world’s largest digital asset manager, has formally submitted a letter to the U.S. Securities and Exchange Commission (SEC), urging the regulatory body to greenlight its proposal to convert its Grayscale Bitcoin Trust (GBTC) into a spot Bitcoin Exchange-Traded Fund (ETF). This formal ... <a title=\"Grayscale petitions SEC to convert GBTC into a spot Bitcoin ETF\" class=\"read-more\" href=\"https://www.cryptopolitan.com/grayscale-to-convert-gbtc-into-bitcoin-etf/\" aria-label=\"More on Grayscale petitions SEC to convert GBTC into a spot Bitcoin ETF\">Read more</a>"
+    "date": "2023-09-06T09:36:51.000Z",
+    "title": "Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series",
+    "url": "https://www.cryptopolitan.com/yuga-labs-interest-in-bitcoin-ordinals/",
+    "description": "The world of Non-Fungible Tokens (NFTs) continues to captivate as Yuga Labs, the creative studio behind the infamous Bored Ape Yacht Club, ventures deeper into the cryptosphere. The NFT giant is adding another layer of complexity and thrill to its audience engagement by launching a 13-week cipher puzzle series. Based on its Twelvefold Bitcoin NFT ... <a title=\"Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series\" class=\"read-more\" href=\"https://www.cryptopolitan.com/yuga-labs-interest-in-bitcoin-ordinals/\" aria-label=\"More on Yuga Labs stirs up interest in Bitcoin ordinals with cipher puzzle series\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-06T08:43:38.000Z",
-    "title": "Coinbase fills the void in the crypto lending space with new services ",
-    "url": "https://www.cryptopolitan.com/coinbase-fills-void-in-crypto-lending-space/",
-    "description": "Coinbase Global, the popular cryptocurrency exchange, is seizing a significant opportunity in the volatile crypto lending market. With several major players like BlockFi and Genesis Global exiting the market following financial distress, Coinbase has announced its entry into the lending space for institutional investors in the United States. A new service for institutional lending On ... <a title=\"Coinbase fills the void in the crypto lending space with new services \" class=\"read-more\" href=\"https://www.cryptopolitan.com/coinbase-fills-void-in-crypto-lending-space/\" aria-label=\"More on Coinbase fills the void in the crypto lending space with new services \">Read more</a>"
+    "date": "2023-09-06T09:26:39.000Z",
+    "title": "Zoom Introduces AI-Powered Assistant to Boost User Productivity",
+    "url": "https://www.cryptopolitan.com/zoom-introduces-ai-powered-assistant/",
+    "description": "Zoom, a prominent video conferencing and collaboration solutions provider, has introduced an innovative feature to its suite: the AI-powered assistant. This AI-driven companion is now accessible to all paid subscribers at no extra cost, aiming to redefine productivity and streamline various tasks within the Zoom platform. AI-powered assistant unveiled Zoom&#8217;s AI-Powered Assistant, formerly known as ... <a title=\"Zoom Introduces AI-Powered Assistant to Boost User Productivity\" class=\"read-more\" href=\"https://www.cryptopolitan.com/zoom-introduces-ai-powered-assistant/\" aria-label=\"More on Zoom Introduces AI-Powered Assistant to Boost User Productivity\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-06T08:47:59.000Z",
-    "title": "1inch acquires $10m in ETH, ADA and QUBE potentially next in line",
-    "url": "https://crypto.news/1inch-acquires-10m-in-eth-ada-and-qube-potentially-next-in-line/",
-    "description": "InQubeta (QUBE) and Cardano (ADA) are being explored after 1inch fund recently acquired $10 million of Ethereum (ETH)"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-09-06T09:06:49.000Z",
-    "title": "Ethereum Wallet MetaMask Makes Waves: New Feature Allows Users to Sell ETH for Fiat",
-    "url": "https://www.crypto-news-flash.com/ethereum-wallet-metamask-makes-waves-new-feature-allows-users-to-sell-eth-for-fiat/",
-    "description": "<img width=\"512\" height=\"333\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/unnamed-42-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Metamask\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/unnamed-42-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/unnamed-42-1-300x195.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/unnamed-42-1-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/unnamed-42-1-214x140.jpg 214w\" sizes=\"(max-width: 512px) 100vw, 512px\" />MetaMask allows users to exchange digital assets for fiat currency and transfer them to banks or PayPal accounts. The current service is available in the US, UK, and select European regions. MetaMask cryptocurrency wallet users can now exchange their digital assets for fiat currency and transfer it to either a bank or a PayPal account. [...]"
+    "source": "Cryptopolitan",
+    "date": "2023-09-06T09:20:08.000Z",
+    "title": "Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements",
+    "url": "https://www.cryptopolitan.com/tech-anxiety-rise-among-senior-leaders/",
+    "description": "A staggering 94% of senior business leaders are grappling with &#8216;tech anxiety,&#8217; according to a new study by global digital transformation consultancy, Kin + Carta. The phenomenon of tech anxiety is linked to the rapid pace of technological advancements, particularly in the areas of cybersecurity, AI, and machine learning. This sentiment is driving business leaders ... <a title=\"Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tech-anxiety-rise-among-senior-leaders/\" aria-label=\"More on Tech Anxiety on the Rise Among Senior Leaders Due to Rapid Technological Advancements\">Read more</a>"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-09-06T09:00:39.000Z",
-    "title": "Solana and XRP Soar As Ripple Celebrates SEC Victory, Pomerdoge Sets New Milestone",
-    "url": "https://www.crypto-news-flash.com/solana-and-xrp-soar-as-ripple-celebrates-sec-victory-pomerdoge-sets-new-milestone/",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T102827.949.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T102827.949.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T102827.949-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T102827.949-104x69.png 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />After weeks of trading sideways, the cryptocurrency market is back in bullish territory following Ripple&#8217;s celebrated victory against the SEC. Leading the price rally are Solana (SOL) and XRP (XRP). Meanwhile, Pomerdoge (POMD), a rising star in the crypto space, has achieved a remarkable milestone. Click Here To Find Out More About The Pomerdoge (POMD) [...]"
+    "date": "2023-09-06T09:17:40.000Z",
+    "title": "Crypto Analysts Warn: Spot Bitcoin ETF Approval Could Send XRP Price to $5, $10 and Beyond",
+    "url": "https://www.crypto-news-flash.com/crypto-analysts-warn-spot-bitcoin-etf-approval-could-send-xrp-price-to-5-10-and-beyond/",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-26T115059.287-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Crypto analysts have pointed out the massive opportunity presented by the approval of a spot Bitcoin ETF, deeming it reckless not to aggressively accumulate. Experts believe that the SEC will approve all filed spot Bitcoin ETFs simultaneously as Grayscale asks the SEC to meet and discuss the way forward on the same. Despite the stubbornness [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-09-06T08:45:53.000Z",
-    "title": "Cardano (ADA) Surges with 1,700% On-Chain Activity Growth: Bullish Signs Ahead",
-    "url": "https://www.crypto-news-flash.com/cardano-ada-surges-with-1700-on-chain-activity-growth-bullish-signs-ahead/",
-    "description": "<img width=\"1920\" height=\"1277\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO-1024x681.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO-1536x1022.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/CARDANO-104x69.jpg 104w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Cardano (ADA)&#8217;s price is 4 percent down in the last seven days, but the network activities have been on an upward trajectory since January. According to Santiment, its weekly on-chain transactions have increased by 1700 percent since January.  Cardano (ADA)&#8217;s current price performance has been an eyesore as the asset lost 4 percent of its [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-09-06T08:55:00.000Z",
-    "title": "Cardano’s ADA is Set For a Potential Bull Run: Technical Analyst",
-    "url": "https://coinedition.com/cardanos-ada-is-set-for-a-potential-bull-run-technical-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/ADA-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/ADA-3.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto technical analyst CryptoBusy thinks Cardano’s current price situation sets it up for a potential bull run. According to CryptoBusy, ADA has formed a large falling wedge from an all-time high (ATH) down to its current price. CryptoBusy posted on Twitter (X), using the ADA/USDT daily chart to explain Cardano’s price setup. The analyst revealed [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/cardanos-ada-is-set-for-a-potential-bull-run-technical-analyst/\">Cardano’s ADA is Set For a Potential Bull Run: Technical Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-09-06T09:15:53.000Z",
+    "title": "One Ethereum Rival at ‘Screaming’ Low Prices Amid Institutional Interest: InvestAnswers",
+    "url": "https://dailyhodl.com/2023/09/06/one-ethereum-rival-at-screaming-low-prices-amid-institutional-interest-investanswers/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Screaming-rival.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto strategist believes that one Ethereum (ETH) competitor with high institutional interest has massive upside potential. The anonymous host of InvestAnswers tells his 447,000 YouTube subscribers that Solana (SOL) has key advantages over ETH that could send its price soaring. “But the real difference is how much better by what magnitude is [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/06/one-ethereum-rival-at-screaming-low-prices-amid-institutional-interest-investanswers/\">One Ethereum Rival at ‘Screaming’ Low Prices Amid Institutional Interest: InvestAnswers</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

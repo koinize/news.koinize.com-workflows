@@ -1,100 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-09-06T17:35:00.000Z",
-    "title": "Ethereum Learns of Potential Defector as ‘Supreme Court’ Mooted",
-    "url": "https://www.coindesk.com/tech/2023/09/06/ethereum-learns-of-potential-defector-as-supreme-court-mooted/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "What is a blockchain “sequencer?” Here’s why you need to know"
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-09-06T17:33:29.000Z",
-    "title": "Crypto Lenders Caused Crypto Contagion Last Year. How Is the Industry Rebuilding?",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/09/06/crypto-lenders-caused-crypto-contagion-last-year-how-is-the-industry-rebuilding/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "After bankruptcies tore apart the crypto lending, the industry is attempting to rebuild in a sustainable and accountable manner."
-  },
-  {
     "source": "Decrypt",
-    "date": "2023-09-06T17:13:57.000Z",
-    "title": "Justin Bieber Producer Is Selling Royalties for the Song 'Company' as NFTs",
-    "url": "https://decrypt.co/155164/justin-bieber-producer-selling-royalties-song-company-nfts",
-    "description": "Want to own a small share of streaming royalty rights for a Justin Bieber hit? AnotherBlock is set to serve them up via NFTs."
+    "date": "2023-09-06T17:58:15.000Z",
+    "title": "Racing Legend Michael Andretti Bets on AI With $200 Million Zapata Merger",
+    "url": "https://decrypt.co/155181/racing-legend-michael-andretti-bets-ai-200-million-zapata-merger",
+    "description": "IndyCar icon Michael Andretti's SPAC has agreed to merge with startup Zapata AI, which is already helping his racing teams on the track."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-09-06T17:30:25.000Z",
-    "title": "Base's 'Onchain Summer' saw over 700K NFTs minted from 268K users in August",
-    "url": "https://cointelegraph.com/news/base-onchain-summer-over-700-thousand-nfts-minted-268-thousand-users",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/83b3765e-d419-41a7-9e3f-f64a57744139.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The \"Onchain Summer\" promotion drove activity to the new network, with hundreds of thousands of users minting NFTs in August.</p>\n                    <p><p>Base network’s “Onchain Summer” promotion in August resulted in over 700,000 non-fungible tokens (NFTs) minted by over 268,000 unique wallets, according to a Sept. 6 announcement from the team.</p><p>Coinbase <a href=\"https://cointelegraph.com/news/coinbase-base-network-officially-launched-heres-how-it-can-be-used\">launched Base, its Ethereum layer-2</a>, on Aug. 9. To spur adoption, the network’s team implemented a month-long launch event. It partnered with over 50 companies, artists, and creators to release new digital art NFTs exclusively on Base. Each art set was released on a different date, requiring users to return to the network repeatedly to collect every piece.</p><p>Over the first two weeks of the promotion, over $242 million worth of crypto <a href=\"https://cointelegraph.com/news/coinbase-base-network-first-seven-days-of-onchain-summer\">was bridged to Base</a>, with over 130,000 unique wallets using it each day.</p><p>The final NFT set was released on Aug. 31; it will continue to be mintable until Sept. 7. Meanwhile, the Base team has released more detailed information about which digital art sets collectors were interested in the most.</p><p>According to the announcement, the Coca-Cola collection available from Aug. 13-16 saw the most activity, with over 80,000 pieces being minted over the period. </p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-09/10b4df06-8006-40fd-adeb-a70f942dd579.png\"  alt=\"\"  title=\"\"  /><figcaption style=\"text-align: center;\"><em>Vermeer, \"Girl with a Pearl Earring,\" from the Coca-Cola “Onchain Summer” collection. Source: Onchain Summer.</em></figcaption></figure><p>Other highly-minted collections include those of Web3 gaming platform Iskra (71,000 mints), social media platform Friends With Benefits (71,000 mints), layer-2 network Zora (70,000 mints) and music rights marketplace anotherblock (55,000 mints).</p><p><em><strong>Related: </strong><a href=\"https://cointelegraph.com/news/usd-coin-expands-base-optimism-networks\"><strong>USD Coin officially expands to Base and Optimism networks</strong></a></em></p><p>During this period, Base also saw the amount of cryptocurrency locked in its contracts steadily increase, <a href=\"https://defillama.com/chain/Base\" target=\"_blank\" rel=\"noopener nofollow\">reaching</a> a peak of over $402 million on Sept. 3, according to data from DefiLlama.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-09/47da820f-c493-43dd-b333-a4dd32620fa3.png\"  /><figcaption style=\"text-align: center;\"><em>Base network total value locked (TVL). Source: DefiLlama.</em></figcaption></figure><p>Despite these achievements, Base’s launch hasn’t been entirely smooth. The network <a href=\"https://cointelegraph.com/news/coinbase-base-network-major-outage\">suffered an outage</a> on Sept. 5 when its sequencer stopped producing blocks. Multiple scams have been promoted on the network as well, <a href=\"https://cointelegraph.com/news/magnate-finance-on-base-rug-pulls-users-of-6-5m-as-predicted-by-on-chain-sleuth\">including $6.5 million rug-pull</a> Magnate Finance.</p><template data-name=\"subscription_form\" data-type=\"nifty_newsletter\"></template></p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2023-09-06T17:50:44.000Z",
+    "title": "Japan’s SBI Group partners with Ripple, but XRP price remains unaffected",
+    "url": "https://cryptoslate.com/japans-sbi-group-partners-with-ripple-but-xrp-price-remains-unaffected/",
+    "description": "<p>Japan-based financial services company SBI Group has partnered with Ripple to use XRP to expand its international payment remittances to bank accounts in the Philippines, Vietnam, and Indonesia. In a Sept. 6 press statement, SBI disclosed its plan to utilize XRP as a bridge currency between the mentioned countries. Additionally, it entered into a strategic [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/japans-sbi-group-partners-with-ripple-but-xrp-price-remains-unaffected/\">Japan’s SBI Group partners with Ripple, but XRP price remains unaffected</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-09-06T17:25:18.000Z",
-    "title": "Château EDMUS invents NFT wine allocations",
-    "url": "https://cryptodaily.co.uk/2023/09/chateau-edmus-invents-nft-wine-allocations",
-    "description": "Château EDMUS remains in the cutting age of innovation. After a successful experiment with a first NFT Sale in 2022, the estate run by Laurent David, a new winegrower with a passion for innovation and President of La WineTech"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-06T17:20:11.000Z",
-    "title": "TON Foundation Founded in Switzerland as a Non-Profit Organization",
-    "url": "https://cryptodaily.co.uk/2023/09/ton-foundation-founded-in-switzerland-as-a-non-profit-organization",
-    "description": "The Open Network Foundation (TON Foundation), the non-profit association supporting the growth of The Open Network (TON), announces its official launch as a Swiss non-profit organization."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-06T17:21:33.000Z",
-    "title": "Consensys Gears Up For MetaMask Snaps Q4 Launch",
-    "url": "https://cryptodaily.co.uk/2023/09/consensys-gears-up-for-metamask-snaps-q4-launch",
-    "description": "MetaMask Snaps aims to enhance the Web3 wallet's functionality by allowing third-party developers to create DApps, or Snaps, that can be integrated into the wallet."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-09-06T17:14:44.000Z",
-    "title": "AI Can Help You Save Money, Here’s How",
-    "url": "https://www.cryptopolitan.com/ai-can-help-you-save-money-heres-how/",
-    "description": "The idea of saving money or even investing sounds interesting and advisable for everyone, yet many people struggle with it. Among many reasons, people often find it difficult to save or budget their money due to financial illiteracy &#8211; i.e., not knowing the right way to go about it. How Can AI Help People Save ... <a title=\"AI Can Help You Save Money, Here&#8217;s How\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-can-help-you-save-money-heres-how/\" aria-label=\"More on AI Can Help You Save Money, Here&#8217;s How\">Read more</a>"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-09-06T17:28:30.000Z",
-    "title": "Crypto market makers’ profits rapidly shrinking amid liquidation, legal woes",
-    "url": "https://crypto.news/crypto-market-makers-profits-rapidly-shrinking-amid-liquidation-legal-woes/",
-    "description": "Growing operational costs, lack of trust, and legal scrutiny mark massive losses for crypto market makers"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-09-06T17:21:25.000Z",
-    "title": "XRP to power more services in Asia after SBI expands partnership with Ripple",
-    "url": "https://crypto.news/xrp-to-power-more-services-in-asia-after-sbi-expands-partnership-with-ripple/",
-    "description": "SBI Group announced an expanded partnership with Ripple and SBI Ripple Asia to broaden its remittance services on Sep. 6"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-09-06T17:31:30.000Z",
-    "title": "PERP Spikes 90%, Perpetual Protocol Foundation Sends Tokens To Binance: Is This Good",
-    "url": "https://www.newsbtc.com/news/defi/perp-spikes-90-perpetual-protocol-foundation-binance/",
-    "description": "PERP, the native token of Perpetual Protocol, is one of the top-performing assets, looking at price action in the past 48 hours. As of September 6, the token is changing hands at $0.78, adding roughly 90% from August 2023 highs.  Amid this stellar performance, reports reveal that the Perpetual Protocol Foundation has transferred 903,000 PERP worth approximately $691,000 to Binance, the world&#8217;s largest cryptocurrency exchange by trading volumes and client count. PERP Ripping Higher After Dumping In Q2 2023 According to Lookonchain, a blockchain analytic platform, the wallet associated with the foundation has been regularly moving tokens to Binance in the past few months, starting from March. At that time, PERP was trading at a relatively higher price, at around $1, looking at trackers like CoinMarketCap. Since then, however, the token has been on a downtrend.  Related Reading: FDUSD Market Cap Jumps By 20% Following Binance Directive To illustrate, after peaking at about $1.22 in early March, PERP tanked by over 65% to $0.38 in June. A marginal increase from July before prices contracted to around $0.40 in August, bouncing to spot rates in the past few trading sessions. Looking at the PERP/USDT candlestick arrangement in the daily chart, buyers have the upper hand after a clear double bottom was printed following gains in early September. Whether the uptrend will continue and PERP has effectively bottomed after a rough few months is yet to be seen. What&#8217;s clear is that buyers appear to be in control, and PERP is trading at April 2023 levels, peeling back losses of the past four months. Perpetual Protocol TVL Remains Depressed, Will The Foundation Sell? Perpetual Protocol is a popular decentralized finance (DeFi) protocol allowing users to trade crypto perpetual futures with leverage trustlessly. Perpetuals are complex derivatives products with no expiry dates. Perpetual Protocol also supports concentrated liquidity, a feature first introduced in Uniswap v3. Moreover, it allows leverage of up to 10X. Related Reading: Bitcoin MVRV At Critical Support Line, Will Retest Be Successful? Through this exchange, DeFi users have an alternative to Binance or Coinbase, both centralized options. By September 6, the exchange&#8217;s total value locked (TVL) was steady at around $12 million, down from $18 million in late July 2023. Of note, PERP is rallying without any sharp increment in TVL, as DefiLlama data shows.  Typically, outflow from a non-custodial wallet to a centralized exchange is interpreted as bearish in crypto circles. So far, trackers reveal that the Perpetual Protocol Foundation has 7 million PERP in Binance worth over $4.62 million. It is also not clear whether they plan to sell. Feature image from Canva, chart from TradingView"
+    "source": "Bitcoin.com",
+    "date": "2023-09-06T18:00:47.000Z",
+    "title": "Bitcoin Mining Difficulty Dips 2.65%; Network Clocks Modest Uptick in Hash Price",
+    "url": "https://news.bitcoin.com/bitcoin-mining-difficulty-dips-2-65-network-clocks-modest-uptick-in-hash-price/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/diffdd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Tuesday, September 5, 2023, Bitcoin&#x2019;s mining difficulty experienced a 2.65% dip at block height 806,400, offering a slight reprieve for miners. This marks the first decline since July 26, when a 2.94% slide was recorded at block height 802,368. Bitcoin Miners See Relief With 2.65% Difficulty Drop and Rising Hash Price As of Tuesday [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-09-06T17:34:35.000Z",
-    "title": "Pepe Coin and ASTR Token Rally: Bulls Return to Crypto",
-    "url": "https://www.crypto-news-flash.com/pepe-coin-and-astr-token-rally-bulls-return-to-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=pepe-coin-and-astr-token-rally-bulls-return-to-crypto",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PEPE.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"As of Tuesday, Pepe 2.0, which appears to be the most favored among the imitations, witnessed a trading volume of nearly $7 million in the last 24 hours.\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PEPE.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PEPE-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PEPE-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />PEPE and Astar Network are leading altcoin momentum at the moment. There has been a broad-based effort to revive the market and usher in the bulls. Only a few days ago, Pepe Coin (PEPE) was not performing so well as it was down by more than 5% and was trading at $0.000000715 as the price [...]"
+    "date": "2023-09-06T18:11:16.000Z",
+    "title": "VeChain’s Web3forBetter: Empowering Environmental and Social Value Creation",
+    "url": "https://www.crypto-news-flash.com/vechains-web3forbetter-empowering-environmental-and-social-value-creation/?utm_source=rss&utm_medium=rss&utm_campaign=vechains-web3forbetter-empowering-environmental-and-social-value-creation",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/h_f_a-VeChain.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/h_f_a-VeChain.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/h_f_a-VeChain-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/h_f_a-VeChain-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/h_f_a-VeChain-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />VeChain introduces Blockchain Biosphere for Sustainability, aiming to create value with an environmental and social focus. The company collaborates with SingularityNET to advance AI and blockchain-powered tools. VeChain, a leading blockchain technology provider, has introduced the revolutionary Blockchain Biosphere for Sustainability. This initiative integrates environmental, human, and social aspects into value creation, aiming to generate [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-09-06T17:27:18.000Z",
-    "title": "New BRICS Countries Expected to Boost Ripple and XRP Adoption in Trillion-Dollar Market, According to Report",
-    "url": "https://www.crypto-news-flash.com/new-brics-countries-expected-to-boost-ripple-and-xrp-adoption-in-trillion-dollar-market-according-to-report/?utm_source=rss&utm_medium=rss&utm_campaign=new-brics-countries-expected-to-boost-ripple-and-xrp-adoption-in-trillion-dollar-market-according-to-report",
-    "description": "<img width=\"940\" height=\"530\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BRICS\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS.png 940w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS-768x433.png 768w\" sizes=\"(max-width: 940px) 100vw, 940px\" />S&#38;P doesn&#8217;t expect significant short-term economic gains from BRICS expansion, including Saudi Arabia, Iran, UAE, Argentina, Egypt, and Ethiopia. JP Morgan analyzes BRICS de-dollarization efforts; the U.S. dollar&#8217;s global dominance is challenged, primarily by the Chinese Yuan. S&#38;P has anticipated that the BRICS alliance&#8217;s expansion to include six new countries may not lead to a [...]"
+    "date": "2023-09-06T18:00:08.000Z",
+    "title": "Polygon Price Prediction: MATIC Witnesses a Stellar 7% Uptick; Crypto AI Presale Breaks $2.6M in Funding.",
+    "url": "https://www.crypto-news-flash.com/polygon-price-prediction-matic-witnesses-a-stellar-7-uptick-crypto-ai-presale-breaks-2-6m-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=polygon-price-prediction-matic-witnesses-a-stellar-7-uptick-crypto-ai-presale-breaks-2-6m-in-funding",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T153434.547.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T153434.547.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-06T153434.547-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The crypto market is abuzz with the current trend shift it is experiencing. Polygon (MATIC), the layer two scaling solution for Ethereum, has seen a remarkable price recovery in the market. MATIC has recently seen a stellar uptick of 7% and the coin has been one of the best performers in the crypto market, alongside [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-09-06T17:29:00.000Z",
-    "title": "ETH Could Drop to $1,200 With Prolonged Trading Under $1,680",
-    "url": "https://coinedition.com/eth-could-drop-to-1200-with-prolonged-trading-under-1680/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ETH Could Drop to $1,200 With Prolonged Trading Under $1,680\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/We-finally-kicked-ethereum-off-our-marketplace-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ali, a crypto analyst, thinks Ethereum’s recent price behavior may pave the way for a further drop. Dropping below $1,680 has opened the way for a potential ETH drop to the $1,200 region. IntoTheBlock’s analysis shows that more users bought ETH tokens above $1,631.11. Ali, an on-chain analyst and crypto trader, known on X (formerly [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/eth-could-drop-to-1200-with-prolonged-trading-under-1680/\">ETH Could Drop to $1,200 With Prolonged Trading Under $1,680</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-09-06T18:05:33.000Z",
+    "title": "Ethereum-Based DeFI Altcoin Project Ignites Rallies Amid Rollout of New Upgrade",
+    "url": "https://dailyhodl.com/2023/09/06/ethereum-based-defi-altcoin-project-ignites-rallies-amid-rollout-of-new-upgrade/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/11/Explode-in-2023-altcoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>One decentralized finance (DeFi) altcoin project is surging amid the rollout of a highly anticipated network revamp. In the past there days, Synthetix Network (SNX), a protocol that allows users to trade synthetic assets, shot up from a low of $1.91 to a high of $2.51, a more than 32% increase. As the rally took [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/06/ethereum-based-defi-altcoin-project-ignites-rallies-amid-rollout-of-new-upgrade/\">Ethereum-Based DeFI Altcoin Project Ignites Rallies Amid Rollout of New Upgrade</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

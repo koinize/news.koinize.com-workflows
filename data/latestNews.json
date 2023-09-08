@@ -1,93 +1,93 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-09-08T12:00:35.000Z",
+    "title": "First Mover Americas: Bitcoin Shows Signs of Life",
+    "url": "https://www.coindesk.com/markets/2023/09/08/first-mover-americas-bitcoin-shows-signs-of-life/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Sept. 8, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-09-08T11:27:08.000Z",
-    "title": "CFTC Charges Three DeFi Protocols With Violating AML Rules, Operating Without Licenses",
-    "url": "https://decrypt.co/155509/cftc-charges-three-defi-protocols-with-violating-aml-rules-operating-without-licenses",
-    "description": "Decentralized exchanges Opyn, ZeroEx and Deridex settled with the CFTC on charges that included failing to geoblock U.S. users."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-09-08T11:11:03.000Z",
-    "title": "CFTC Commissioner proposes sandbox scheme for digital assets amidst crackdown on DeFi platforms",
-    "url": "https://cryptoslate.com/cftc-commissioner-proposes-sandbox-scheme-for-digital-assets-amidst-crackdown-on-defi-platforms/",
-    "description": "<p>Caroline Pham, a Commissioner of the U.S. Commodity Futures Trading Commission (CFTC), proposed that the financial regulator launch a pilot regulatory sandbox scheme for digital assets in a speech delivered before the Cato Institute on Sept. 7. In the speech, Commissioner Pham highlighted how the U.S. hands-off approach has placed it behind other countries as [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/cftc-commissioner-proposes-sandbox-scheme-for-digital-assets-amidst-crackdown-on-defi-platforms/\">CFTC Commissioner proposes sandbox scheme for digital assets amidst crackdown on DeFi platforms</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-09-08T11:54:08.000Z",
+    "title": "Thodex CEO Gets 11,000-Year Jail Sentence Over $2B Crypto Exchange Collapse",
+    "url": "https://decrypt.co/155522/thodex-ceo-gets-11000-year-jail-sentence-over-2b-crypto-exchange-collapse",
+    "description": "Once the biggest crypto exchange in Turkey, Thodex collapsed in 2021, leaving 400,000 users without access to their crypto deposits. "
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-09-08T11:38:37.000Z",
-    "title": "Huge good news rains down on crypto - but what about price?",
-    "url": "https://cryptodaily.co.uk/2023/09/huge-good-news-rains-down-on-crypto-but-what-about-price",
-    "description": "Extremely good news has permeated the crypto sector over recent weeks. However, the price of bitcoin and other cryptocurrencies remain depressed."
+    "date": "2023-09-08T11:50:24.000Z",
+    "title": "LBRY Fights On, Files Notice Of Appeal Against SEC",
+    "url": "https://cryptodaily.co.uk/2023/09/lbry-fights-on-files-notice-of-appeal-against-sec",
+    "description": "The development sees LBRY go back on an earlier decision to wind down after a federal judge ruling that went in favor of the Securities and Exchange Commission."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-09-08T11:28:13.000Z",
+    "date": "2023-09-08T11:55:15.000Z",
     "title": "One Trading Launch Instant Trade",
     "url": "https://cryptodaily.co.uk/2023/09/one-trading-launch-instant-trade",
     "description": "One Trading, the crypto asset exchange formerly operating under the Bitpanda Pro brand, today announced its new product, Instant Trade."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-09-08T11:22:11.000Z",
-    "title": "VEXTIs Now Available On MEXC",
-    "url": "https://cryptodaily.co.uk/2023/09/vextis-now-available-on-mexc",
-    "description": "VEXT is now available (10am UTC) on MEXC, a highly established global centralized exchange. VEXT's listing on the MEXC exchange represents a significant milestone for VEXT's journey."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-08T11:16:49.000Z",
-    "title": "The Open Platform Aims to Pioneer Web3 SuperApp Development Through Wallet Integration in Telegram",
-    "url": "https://cryptodaily.co.uk/2023/09/the-open-platform-aims-to-pioneer-web3-superapp-development-through-wallet-integration-in-telegram",
-    "description": "The company previously known as First Stage Labs is rebranding as The Open Platform (TOP) today. This strategic move aligns the name and mission of the company with those of its blockchain partner, TON Foundation"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-08T11:10:45.000Z",
-    "title": "Zeebu Secures $25 Million in Presale Funding for World’s First On-chain Invoice Settlement Platform for Telecom Carriers",
-    "url": "https://cryptodaily.co.uk/2023/09/zeebu-secures-25-million-in-presale-funding-for-worlds-first-on-chain-invoice-settlement-platform-for-telecom-carriers",
-    "description": "Zeebu, the innovative blockchain-based settlement platform for the telecom carrier industry, has successfully raised $25 million in a presale funding round, surpassing its hard cap target of $15 million. The round saw participation from several strategic investors, including Bankai Ventures."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-09-08T11:30:11.000Z",
-    "title": "Australian Crypto Exchange Swyftx Offers Financial Incentives to Learners Completing Crypto Course",
-    "url": "https://news.bitcoin.com/australian-crypto-exchange-swyftx-offers-financial-incentives-to-learners-completing-crypto-course/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Australian Crypto Exchange Swyftx Offers Financial Incentives to Learners Completing Crypto Course\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/laptop-3087585_1280.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Australian cryptocurrency exchange Swyftx has said it will offer financial rewards to users who complete its crypto education course. The crypto exchange said it expects as many as 80,000 participants and has promised a reward of just over $64 for those completing the course. Improving the Public&#x2019;s Knowledge and Understanding of Cryptocurrencies An Australian [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2023-09-08T12:00:11.000Z",
+    "title": "Ottochain Launches Testnet Powered by Cosmos SDK and Octopus 2.0",
+    "url": "https://www.cryptopolitan.com/ottochain-launches-testnet-powered-by-cosmos-sdk-and-octopus-2-0/",
+    "description": "Abuja, Nigeria/FCT, September 8th, 2023, Chainwire Ottochain, a revolutionary application-specific blockchain (Appchain) within the Octopus Network, is poised to reshape the landscape of Web3 and redefine how communities engage with groundbreaking technology. With its focus on interoperability, security, and community-driven governance, Ottochain empowers users, developers, investors, and communities to collaboratively build the future of Web3 ... <a title=\"Ottochain Launches Testnet Powered by Cosmos SDK and Octopus 2.0\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ottochain-launches-testnet-powered-by-cosmos-sdk-and-octopus-2-0/\" aria-label=\"More on Ottochain Launches Testnet Powered by Cosmos SDK and Octopus 2.0\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-08T11:16:56.000Z",
-    "title": "Warren Buffett’s $690 Million Powerhouse Investments in 5 Artificial Intelligence (AI) Stocks",
-    "url": "https://www.cryptopolitan.com/warren-buffetts-690-invest-in-5-ai-stocks/",
-    "description": "Warren Buffett, the legendary investor and CEO of Berkshire Hathaway, has quietly placed a significant bet on artificial intelligence (AI). While he is known for his value investing approach, Buffett&#8217;s hidden portfolio, managed by New England Asset Management (NEAM), reveals his interest in AI. This secret portfolio, valued at $690 million, comprises investments in five ... <a title=\"Warren Buffett&#8217;s $690 Million Powerhouse Investments in 5 Artificial Intelligence (AI) Stocks\" class=\"read-more\" href=\"https://www.cryptopolitan.com/warren-buffetts-690-invest-in-5-ai-stocks/\" aria-label=\"More on Warren Buffett&#8217;s $690 Million Powerhouse Investments in 5 Artificial Intelligence (AI) Stocks\">Read more</a>"
+    "date": "2023-09-08T11:51:10.000Z",
+    "title": "Ant Group Unveils Finance-Specific AI Model in the Heavily Regulated Chinese Market",
+    "url": "https://www.cryptopolitan.com/ant-group-unveils-finance-specific-ai-model-in-the-heavily-regulated-chinese-market/",
+    "description": "Ant Group, the fintech giant founded by billionaire Jack Ma, has introduced a finance-specific artificial intelligence (AI) model, marking a significant development in China&#8217;s AI race. The company has commenced testing consumer and professional applications for this AI model, entering a competitive landscape in which deploying AI is subject to rigorous regulation. Ant Group&#8217;s venture ... <a title=\"Ant Group Unveils Finance-Specific AI Model in the Heavily Regulated Chinese Market\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ant-group-unveils-finance-specific-ai-model-in-the-heavily-regulated-chinese-market/\" aria-label=\"More on Ant Group Unveils Finance-Specific AI Model in the Heavily Regulated Chinese Market\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-08T11:18:44.000Z",
-    "title": "CFTC filed complaints against three defi protocols",
-    "url": "https://crypto.news/cftc-filed-complaints-against-three-defi-protocols/",
-    "description": "The United States Commodity Futures Trading Commission (CFTC) has issued orders against three defi protocols for failing to register derivative trading offerings. The regulatory body has acted against the three decentralized finance (defi) protocols: Opyn, ZeroEx, and Deridex. The regulator&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2023-09-08T11:40:32.000Z",
+    "title": "Journalists Skeptical of Generative AI Tools in Newsrooms",
+    "url": "https://www.cryptopolitan.com/journalists-skeptical-of-generative-ai/",
+    "description": "Artificial Intelligence (AI) has been making its way into newsrooms, with publishers experimenting with generative AI tools to create content. However, many journalists have expressed skepticism about the readiness and impact of these AI tools on the quality of journalism. Digiday recently interviewed seven journalists at five digital publishers to gain insights into their thoughts ... <a title=\"Journalists Skeptical of Generative AI Tools in Newsrooms\" class=\"read-more\" href=\"https://www.cryptopolitan.com/journalists-skeptical-of-generative-ai/\" aria-label=\"More on Journalists Skeptical of Generative AI Tools in Newsrooms\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-08T11:15:30.000Z",
-    "title": "SEC settles with Linus Financial over unregistered crypto lending",
-    "url": "https://crypto.news/sec-settles-with-linus-financial-over-unregistered-crypto-lending/",
-    "description": "The SEC settled with Nashville-based Linus Financial, Inc. for not registering its crypto lending product, appreciating its cooperative stance and swift corrective measures. The Securities and Exchange Commission (SEC) settled charges against Linus Financial, Inc., stemming from its failure to&#8230;"
+    "source": "Crypto News Flash",
+    "date": "2023-09-08T12:00:15.000Z",
+    "title": "Could Domini ($DOMI) Surpass DOGE and SHIB? Here’s Why Experts Believe So!",
+    "url": "https://www.crypto-news-flash.com/could-domini-domi-surpass-doge-and-shib-heres-why-experts-believe-so/?utm_source=rss&utm_medium=rss&utm_campaign=could-domini-domi-surpass-doge-and-shib-heres-why-experts-believe-so",
+    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56-300x188.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56-326x205.png 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-56-163x102.png 163w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Near Protocol (NEAR) is on a bearish trajectory, and analysts expect this trend to continue. Also, Gala (GALA) s bearish despite its ecosystem progress. Right now, investors are looking for the best cryptocurrency to buy today. Luckily, Domini ($DOMI) plans to disrupt the art investment space, and this platform offers mouth-watering utilities to forward-thinking art [...]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-09-08T11:10:04.000Z",
-    "title": "LINK Price Surge Ahead? Chainlink Sharks Bet Big On Accumulation",
-    "url": "https://www.newsbtc.com/news/link-price-surge-ahead/",
-    "description": "Chainlink (LINK) has managed to break through the critical resistance level at $6. This unexpected surge in price can be attributed, in part, to the relentless accumulation of LINK tokens by large wallet investors, known as sharks.  The trend among these influential players has been particularly pronounced, and it could hold the key to Chainlink&#8217;s bullish resurgence.  On-chain date cited in a report has provided valuable insights into this remarkable shift in Chainlink&#8217;s fortunes. According to their data, the shark tier of investors has swiftly acquired a staggering $9.6 million worth of LINK tokens within just three days. This surge in demand from these heavyweights is expected to act as a significant catalyst for further upward movement in LINK&#8217;s price. Related Reading: BNB Road To Recovery: Can It Thrive Amid Declining Network Engagement? Emergence Of New Shark Wallets: A Bullish Sign For Chainlink? Recent data also reveals that 98 new shark wallets have emerged within the Chainlink ecosystem since the start of the week, marking a 3.2% increase. As of Thursday, a total of 3,127 shark wallets were holding between 10,000 and 100,000 LINK tokens. This demonstrates a growing appetite among larger investors for Chainlink, further fueling the cryptocurrency&#8217;s recent rally. The current LINK price, as per CoinGecko, stands at $6.34, with a slight 0.7% decline in the past 24 hours. However, over the last seven days, LINK has seen a notable 6.4% rally, defying the broader bearish sentiment that has gripped the altcoin market. LINK market cap currently at $3.3 billion. Chart: TradingView.com The accumulation of Chainlink tokens by shark investors has historically served as a powerful indicator for predicting LINK&#8217;s price movements. Previous instances have shown that when these influential players increase their holdings, it often precedes a substantial uptick in the token&#8217;s value. As such, the ongoing accumulation by sharks is a metric worth closely monitoring to gauge the future trajectory of Chainlink&#8217;s price. Potential For LINK To Break Out Against Bitcoin Prominent crypto trader Michaël van de Poppe, sharing his insights on the social media platform X, suggests that Chainlink might be on the brink of a breakout against Bitcoin (BTC). Would #Chainlink still be considered as a buy? I know, it sounds boring, but Chainlink is still going sideways and still an investment opportunity. Why would that be the case? Wouldn&#8217;t you be better off selling the entire bag and just leaving it alone for the coming period? 👇… pic.twitter.com/j52Ul93som — Michaël van de Poppe (@CryptoMichNL) September 5, 2023 While Chainlink has recently revisited the lower end of its trading range, fluctuating between $7.27 and $5.50, LINK could signal an upward trend if it establishes a higher low price against Bitcoin on the weekly timeframe. Chainlink&#8217;s remarkable resilience and ascent above the $6 resistance level, even amidst a broader bearish altcoin market, can be attributed to the strategic accumulation of LINK tokens by large wallet investors.  Related Reading: Ethereum Price Maze: Will It Soar To $2,000 Or Stay At $1,500 In September? As new shark wallets continue to emerge, and with LINK showing signs of a potential breakout against Bitcoin, the cryptocurrency&#8217;s future prospects appear increasingly promising. Investors and traders alike will be watching closely to see if Chainlink can maintain this upward momentum in the face of ongoing market challenges. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from The Daily Hodl"
+    "source": "Crypto News Flash",
+    "date": "2023-09-08T11:59:56.000Z",
+    "title": "Cardano’s Revolution: How Warp Transactions Are Reshaping ADA Transfers – Can it Drive the Price to $0.50?",
+    "url": "https://www.crypto-news-flash.com/cardanos-revolution-how-warp-transactions-are-reshaping-ada-transfers-can-it-drive-the-price-to-0-50/?utm_source=rss&utm_medium=rss&utm_campaign=cardanos-revolution-how-warp-transactions-are-reshaping-ada-transfers-can-it-drive-the-price-to-0-50",
+    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-2048x1365.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/cardano-blockchain-platform-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Strica, the company behind popular Cardano-related tools, has introduced &#8220;Warp Transactions,&#8221; a game-changing feature set to simplify ADA token transfers within the Cardano network. Warp Transactions, exclusive to Typhon Wallet users, operate as straightforward UTXO transactions, utilizing multi-signature capabilities without the need for smart contracts. While the ADA price has faced the wrath of the [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-09-08T11:59:35.000Z",
+    "title": "Bitcoin Crosses $26K: Altcoins Follow Suit as Pepe Coin Bulls Reign Supreme",
+    "url": "https://www.crypto-news-flash.com/bitcoin-crosses-26k-altcoins-follow-suit-as-pepe-coin-bulls-reign-supreme/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-crosses-26k-altcoins-follow-suit-as-pepe-coin-bulls-reign-supreme",
+    "description": "<img width=\"1431\" height=\"954\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BTC\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC.jpg 1431w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/BTC-104x69.jpg 104w\" sizes=\"(max-width: 1431px) 100vw, 1431px\" />While the BTC price surged above $26,000, a large number of Bitcoin moving to exchanges hinted at rising selling pressure. Altcoins like Pepe Coin and Chainlink have been showing bullish activity over the last week. On Thursday, September 8, the world&#8217;s largest cryptocurrency Bitcoin (BTC) made a surprise bounce back above the $26,000 level gaining [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-09-08T11:15:00.000Z",
-    "title": "Optim Finance Proposal Shows Cardano’s Economic Cogs Interaction",
-    "url": "https://coinedition.com/optim-finance-proposal-shows-cardanos-economic-cogs-interaction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/Users-Can-Now-Create-Cardano-Smart-Contracts-On-Ledger-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to ADA Whale, an X user who provides information on developments in the Cardano network, the details of a recent proposal show how the economic cogs in Cardano interact. The user noted that the new proposal funds innovation, secures the network, pays people with three different risk tolerances, and maintains liquidity. ADA whale further [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/optim-finance-proposal-shows-cardanos-economic-cogs-interaction/\">Optim Finance Proposal Shows Cardano&#8217;s Economic Cogs Interaction</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-09-08T12:05:00.000Z",
+    "title": "Shibburn Tracker Reports 24 Million SHIB Tokens Burned in 24 Hours",
+    "url": "https://coinedition.com/shibburn-tracker-reports-24-million-shib-tokens-burned-in-24-hours/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance.US Launches Active Trading for Shiba Inu (SHIB) \" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB-.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB--300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB--380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB--150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB--600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Binance.US-Launches-Active-Trading-for-Shiba-Inu-SHIB--696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to data shared by the Shibburn tracker in a recent tweet, there have been a total of 24,471,166 SHIB tokens burned in the past 24 hours. As per the post, these tokens burned came from 10 different transactions. Recently, the amount of Shiba Inu tokens burn rate increased significantly, raising attention in the crypto [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/shibburn-tracker-reports-24-million-shib-tokens-burned-in-24-hours/\">Shibburn Tracker Reports 24 Million SHIB Tokens Burned in 24 Hours</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-09-08T11:48:00.000Z",
+    "title": "CFTC Charges Opyn, ZeroEx, and Deridex — Are DeFi Activities Illegal?",
+    "url": "https://coinedition.com/cftc-charges-opyn-zeroex-and-deridex-are-defi-activities-illegal/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"CFTC Commissioner Wants Industry Standard Regulation For Crypto\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/CFTC-Commissioner-Wants-Industry-Standard-Regulation-For-Crypto-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Commodity Futures Trading Commission (CFTC) recently took enforcement actions against Opyn, ZeroEx, and Deridex, sending a stern message to the decentralized finance (DeFi) community. Opyn, Inc., headquartered in California, ZeroEx, Inc. of California, and Deridex, Inc. based in North Carolina, all Delaware-registered entities, were all accused of offering leveraged and margined retail commodity transactions [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/cftc-charges-opyn-zeroex-and-deridex-are-defi-activities-illegal/\">CFTC Charges Opyn, ZeroEx, and Deridex — Are DeFi Activities Illegal?</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-09-08T11:45:55.000Z",
+    "title": "Ethereum Creator Vitalik Buterin Co-Authors Paper Detailing Method for Weeding Out ‘Dishonest’ Crypto Users",
+    "url": "https://dailyhodl.com/2023/09/08/ethereum-creator-vitalik-buterin-co-authors-paper-detailing-method-for-weeding-out-dishonest-crypto-users/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Mechanism-for-Weeding-Out-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The co-creator of Ethereum (ETH) is detailing a mechanism by which dishonest crypto users can be rooted out of crypto mixing protocols. In a new paper, Ethereum co-creator Vitalik Buterin and four additional authors detail how privacy pools can be useful in weeding out unscrupulous crypto traders. A privacy pool is a smart contract-based privacy [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/08/ethereum-creator-vitalik-buterin-co-authors-paper-detailing-method-for-weeding-out-dishonest-crypto-users/\">Ethereum Creator Vitalik Buterin Co-Authors Paper Detailing Method for Weeding Out ‘Dishonest’ Crypto Users</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

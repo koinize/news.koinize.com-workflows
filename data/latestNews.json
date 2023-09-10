@@ -1,9 +1,65 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2023-09-10T18:01:02.000Z",
+    "title": "Prime Trust Bankruptcy Exposes ‘Widespread’ Self-Custody Risks, Says Anchorage Digital CEO",
+    "url": "https://decrypt.co/155714/prime-trust-bankruptcy-self-custody-risks-anchorage-digital-ceo",
+    "description": "Diogo Monica says applying existing bank rules, not creating new regulations, can ensure business continuity."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-09-10T18:06:25.000Z",
+    "title": "Pomerdoge (POMD) Rises Above the Fray as Binance (BNB) and Ripple (XRP) Grapple with Legal Woes",
+    "url": "https://cryptodaily.co.uk/2023/09/pomerdoge-pomd-rises-above-the-fray-as-binance-bnb-and-ripple-xrp-grapple-with-legal-woes",
+    "description": "In the tumultuous world of cryptocurrency, Pomerdoge (POMD) emerges as a beacon of stability amidst the legal challenges faced by prominent players such as Binance (BNB) and Ripple (XRP)."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-09-10T17:59:13.000Z",
+    "title": "Ethereum (ETH), Filecoin (FIL), Everlodge (ELDG): Top Three Blockchain Titans That Should Be on Everyone's Radar",
+    "url": "https://cryptodaily.co.uk/2023/09/ethereum-eth-filecoin-fil-everlodge-eldg-top-three-blockchain-titans-that-should-be-on-everyones-radar",
+    "description": "Blockchain technology has continued to evolve, with various projects shaping the future of decentralized applications, cryptocurrencies, and the digital landscape."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-09-10T18:00:03.000Z",
+    "title": "Crypto Tycoon Bankman-Fried Seeks Release From Jail Over Trial Prep and Laptop Complaints",
+    "url": "https://news.bitcoin.com/crypto-tycoon-bankman-fried-seeks-release-from-jail-over-trial-prep-and-laptop-complaints/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Crypto Tycoon Bankman-Fried Seeks Release From Jail Over Trial Prep and Laptop Complaints\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/sbf.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Attorneys for fallen cryptocurrency tycoon Sam Bankman-Fried are requesting his temporary release from a Brooklyn jail, arguing that limited access to trial evidence and computers is impeding his ability to prepare his defense. Sam Bankman-Fried&#8217;s Lawyers Urge Temporary Release Amid Trial Challenges In a letter to federal judge Lewis Kaplan filed Friday, Bankman-Fried&#8217;s lawyers Mark [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-09-10T17:32:05.000Z",
-    "title": "US Senator Schumer Enlists Big Tech’s AI Insight in Washington, slated for Sept 13 – This Week’s Headlines",
-    "url": "https://www.cryptopolitan.com/us-senator-schumer-big-techs-ai-insight/",
-    "description": "Senator Chuck Schumer has invited prominent leaders from Big Tech to an AI Insight Forum in Washington, DC. Set for September 13, this closed-door meeting will focus on addressing the challenges and opportunities surrounding artificial intelligence (AI) regulation. The attendees include industry giants such as OpenAI&#8217;s Sam Altman, Meta&#8217;s Mark Zuckerberg, Microsoft&#8217;s Satya Nadella, Alphabet/Google&#8217;s ... <a title=\"US Senator Schumer Enlists Big Tech&#8217;s AI Insight in Washington, slated for Sept 13 &#8211; This Week&#8217;s Headlines\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-senator-schumer-big-techs-ai-insight/\" aria-label=\"More on US Senator Schumer Enlists Big Tech&#8217;s AI Insight in Washington, slated for Sept 13 &#8211; This Week&#8217;s Headlines\">Read more</a>"
+    "date": "2023-09-10T18:06:03.000Z",
+    "title": "Media pressure forces Bank of America to refund scam victim: The inside story",
+    "url": "https://www.cryptopolitan.com/media-pressure-forces-bank-of-america-to-refund-scam-victim-the-inside-story/",
+    "description": "According to a recent report by CBS Boston, Cheryl Friedman, a resident of Norton, Massachusetts, fell victim to a scam that led to a loss of $3,500 from her Bank of America account. Despite promptly reporting the incident to the bank and local authorities, her request for a refund was initially denied. It wasn&#8217;t until ... <a title=\"Media pressure forces Bank of America to refund scam victim: The inside story\" class=\"read-more\" href=\"https://www.cryptopolitan.com/media-pressure-forces-bank-of-america-to-refund-scam-victim-the-inside-story/\" aria-label=\"More on Media pressure forces Bank of America to refund scam victim: The inside story\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-10T17:52:05.000Z",
+    "title": "The Intersection of Blockchain, AI, and IoT: A Revolution in Financial Services",
+    "url": "https://www.cryptopolitan.com/blockchain-ai-and-iot-in-financial-services/",
+    "description": "In today&#8217;s rapidly evolving digital landscape, the financial world is experiencing a profound transformation driven by integrating advanced technologies. Blockchain, Artificial Intelligence (AI), and the Internet of Things (IoT) are at the forefront of this technological revolution, reshaping financial services with unprecedented efficiency and transparency. This article explores the profound impact of these technologies while ... <a title=\"The Intersection of Blockchain, AI, and IoT: A Revolution in Financial Services\" class=\"read-more\" href=\"https://www.cryptopolitan.com/blockchain-ai-and-iot-in-financial-services/\" aria-label=\"More on The Intersection of Blockchain, AI, and IoT: A Revolution in Financial Services\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-10T17:43:13.000Z",
+    "title": "Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?",
+    "url": "https://www.cryptopolitan.com/ethereum-price-prediction/",
+    "description": "Ethereum Price Prediction 2023-2032 &#8220;The Merge did not change anything for holders/users.&#8221; Is that a fact? Crypto prices are unlikely to see a major recovery without new or returning investors bringing cash back into the market.&#160;Unless the retail people enter the market, Ethereum won&#8217;t strongly blast above ATH. Maybe something sparks retail, though, like Coinbase, ... <a title=\"Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ethereum-price-prediction/\" aria-label=\"More on Ethereum Price Prediction 2023-2032: Will ETH reach $8000 soon?\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-09-10T18:02:17.000Z",
+    "title": "India considers regulating crypto with IMF-FSB guidelines",
+    "url": "https://crypto.news/india-considers-regulating-crypto-with-imf-fsb-guidelines/",
+    "description": "India is set to make a decisive move on cryptocurrency regulations following recent global discussions, leaning away from an outright ban. "
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-09-10T17:42:33.000Z",
+    "title": "Harry Potter actors, Ripple exec feud over home renovation plans",
+    "url": "https://crypto.news/harry-potter-actors-ripple-execs-feud-over-home-renovation-plans/",
+    "description": "'Harry Potter' actors live next-door neighbors to Sendi Young, a Ripple executive. They're concerned that Young's renovation plans will cause damage to their homes and the surrounding area. "
   }
 ]

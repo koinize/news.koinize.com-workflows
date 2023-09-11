@@ -1,44 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-09-11T09:26:59.000Z",
-    "title": "Steve Kokinos, Creditors Named to Run Celsius 2.0",
-    "url": "https://www.coindesk.com/business/2023/09/11/steve-kokinos-creditors-named-to-run-celsius-20/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Executives from WeWork, Lehman Brothers, US Bitcoin, and Arrington Capital will serve on the board of the crypto lender’s successor, as will two members of Celsius’ own creditor committee."
+    "date": "2023-09-11T09:49:52.000Z",
+    "title": "Coinbase Exchange Remains Inactive in India, While Other Operations Are Still Active",
+    "url": "https://www.coindesk.com/policy/2023/09/11/coinbase-exchange-remains-inactive-in-india-while-other-operations-are-still-active/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Coinbase continues to operate its tech-hub in India and provide wallet services to Indian customers while its exchange operations remain suspended."
+  },
+  {
+    "source": "Coin Telegraph India",
+    "date": "2023-09-11T10:02:38.000Z",
+    "title": "India working on 5-point crypto legislation as  ban is ruled out ",
+    "url": "https://cointelegraph.com/news/crypto-india-working-on-5-point-crypto-legislation",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/21f05494-2c52-418f-8190-25e5fdaa4d61.jpg\"></p><p>Indian crypto platforms could attain similar status as authorized dealers (similar to banks) under the guidelines of the Indian Central Bank RBI. </p>\n            "
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-09-11T09:42:29.000Z",
+    "title": "Nexera Exchange: A Leap into the Future of Decentralized Trading",
+    "url": "https://cryptodaily.co.uk/2023/09/nexera-exchange-a-leap-into-the-future-of-decentralized-trading",
+    "description": "Decentralized finance (DeFi) is no longer a market reserved for only the crypto savvy, as highlighted by the fact that the sector has transformed into a multi-billion dollar industry within just a few years’ time. DeFi’s meteoric rise can, in large part, be attributed to the fact that it has made a wide range of quality financial services accessible to people across the globe, irrespective of their economic status, location, etc."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-09-11T10:00:28.000Z",
+    "title": "Environmentalists Rally Against Crypto Mining Facility Renewal in New York, Citing Climate Concerns",
+    "url": "https://news.bitcoin.com/environmentalists-rally-against-crypto-mining-facility-renewal-in-new-york-citing-climate-concerns/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Environmentalists Rally Against Crypto Mining Facility Renewal in New York, Citing Climate Concerns\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/enviro.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Environmental advocates are redoubling their efforts to persuade New York officials to decline an air permit renewal for a cryptocurrency mining facility in North Tonawanda. They assert that the operation imperils residents&#8217; quality of life and undermines the state&#8217;s climate objectives, as per a report by Mark Scheer for the Niagara Gazette. Battle Brews Over [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-11T09:31:44.000Z",
-    "title": "Lido Finance reassures investors amid security flaw concerns in LDO token contract",
-    "url": "https://www.cryptopolitan.com/lido-finance-reassures-investors-security-flaw-concerns-ldo-token-contract/",
-    "description": "Ethereum staking protocol Lido Finance has publicly acknowledged a known security flaw in its LDO token contract. The announcement came in response to a September 10 post by blockchain security firm SlowMist, which highlighted the vulnerability that could potentially enable &#8220;fake deposit&#8221; attacks on cryptocurrency exchanges, Cryptopolitan reported.  Despite the concerns, Lido Finance reassured investors ... <a title=\"Lido Finance reassures investors amid security flaw concerns in LDO token contract\" class=\"read-more\" href=\"https://www.cryptopolitan.com/lido-finance-reassures-investors-security-flaw-concerns-ldo-token-contract/\" aria-label=\"More on Lido Finance reassures investors amid security flaw concerns in LDO token contract\">Read more</a>"
+    "date": "2023-09-11T10:00:57.000Z",
+    "title": "Is AI Fueling Tech Anxiety Among Business Leaders?",
+    "url": "https://www.cryptopolitan.com/ai-fueling-tech-anxiety-business-leaders/",
+    "description": "In a recent survey conducted by Kin + Carta, it has come to light that a substantial majority of business leaders are grappling with a pervasive sense of unease labeled as ‘tech anxiety’ after the emergence of AI. This unsettling phenomenon, brought about by the breakneck pace of technological advancements, is casting a shadow of ... <a title=\"Is AI Fueling Tech Anxiety Among Business Leaders?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-fueling-tech-anxiety-business-leaders/\" aria-label=\"More on Is AI Fueling Tech Anxiety Among Business Leaders?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-11T09:25:32.000Z",
-    "title": "Lawmakers Support Google’s New AI Disclosure Policy for Political Ads",
-    "url": "https://www.cryptopolitan.com/lawmakers-support-googles-new-ai-disclosure/",
-    "description": "Last week, Google announced a significant update to its political content policy, set to take effect in November. The tech giant will now require political campaigns to disclose if their advertisements contain artificial intelligence-generated content. This policy will apply to ads on YouTube and other Google platforms. It will be enforced in the U.S. and ... <a title=\"Lawmakers Support Google&#8217;s New AI Disclosure Policy for Political Ads\" class=\"read-more\" href=\"https://www.cryptopolitan.com/lawmakers-support-googles-new-ai-disclosure/\" aria-label=\"More on Lawmakers Support Google&#8217;s New AI Disclosure Policy for Political Ads\">Read more</a>"
+    "date": "2023-09-11T09:57:39.000Z",
+    "title": "France issues new rules for financial influencers— what you need to know",
+    "url": "https://www.cryptopolitan.com/france-new-rules-for-financial-influencers-what-you-need-to-know/",
+    "description": "In a move aimed at professionalizing financial influencers, France&#8217;s Autorité des Marchés Financiers (AMF) and the Autorité de Régulation Professionnelle de la Publicité (ARPP) have jointly launched a training module. This initiative is part of a broader effort to regulate commercial influence in the financial sector, an activity that has come under legal scrutiny. The ... <a title=\"France issues new rules for financial influencers— what you need to know\" class=\"read-more\" href=\"https://www.cryptopolitan.com/france-new-rules-for-financial-influencers-what-you-need-to-know/\" aria-label=\"More on France issues new rules for financial influencers— what you need to know\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-11T09:39:50.000Z",
+    "title": "Fed orders teen hacker to return $5.2M in BTC stolen in 2016",
+    "url": "https://www.cryptopolitan.com/hacker-to-return-5-2m-in-btc-stolen-in-2016/",
+    "description": "In a case that exemplifies the murky intersection between cutting-edge technology and traditional criminal justice, federal authorities are pursuing a teenage hacker accused of stealing millions of dollars in Bitcoin. The officials are not only seeking the return of $5.2 million in stolen crypto but have also set their sights on a high-end sports car, ... <a title=\"Fed orders teen hacker to return $5.2M in BTC stolen in 2016\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hacker-to-return-5-2m-in-btc-stolen-in-2016/\" aria-label=\"More on Fed orders teen hacker to return $5.2M in BTC stolen in 2016\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-09-11T09:37:31.000Z",
-    "title": "Ethereum Futures ETF approval could be a game-changer for Polygon, Uniswap, and Everlodge",
-    "url": "https://crypto.news/ethereum-futures-etf-approval-could-be-a-game-changer-for-polygon-uniswap-and-everlodge/",
-    "description": "October could be the month that brings Ethereum Futures ETF to the market – but how will Polygon (MATIC), Uniswap (UNI), and Everlodge (ELDG) react?\n"
+    "date": "2023-09-11T10:00:24.000Z",
+    "title": "Animoca Brands raises $20m to launch Mocaverse",
+    "url": "https://crypto.news/animoca-brands-raises-20m-to-launch-mocaverse/",
+    "description": "Animoca Brands, a Hong Kong-based entertainment company, has announced that it has secured $20 million in funding for its latest project, Mocaverse. Mocaverse is a web3 platform that leverages blockchain, NFTs, and AI technologies for the gaming, culture, and entertainment&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2023-09-11T09:34:36.000Z",
-    "title": "Coinbase is developing new stablecoin generation",
-    "url": "https://crypto.news/coinbase-is-developing-new-stablecoin-generation/",
-    "description": "The head of the Coinbase, Brian Armstrong, believes that flatcoins could become the next iteration of stablecoins. In an interview with Yahoo Finance, he stated that flatcoins are “the next iteration of stablecoins.” Coinbase has not yet started development in&#8230;"
+    "date": "2023-09-11T09:41:44.000Z",
+    "title": "NFT startup Glass suspends development year after $5m funding",
+    "url": "https://crypto.news/nft-startup-glass-suspends-development-year-after-5m-funding/",
+    "description": "A video platform startup, Glass Protocol, has suspended its development, citing a lack of &#8220;sustainable demand for video NFTs.&#8221; Glass Protocol, a video platform allowing creators to monetize their videos with non-fungible tokens (NFTs), won&#8217;t get any new updates as&#8230;"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-09-11T09:15:26.000Z",
-    "title": "$3,000,000,000 Sell-Off Event Could Be Coming to Crypto Markets, Warns Analytics Firm IntoTheBlock",
-    "url": "https://dailyhodl.com/2023/09/11/3000000000-sell-off-event-could-be-coming-to-crypto-markets-warns-analytics-firm-intotheblock/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/02/Crypto-Whale-Moves-28.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Analytics firm IntoTheBlock is warning that one bankrupt crypto firm holding billions of dollars in digital assets could trigger cascading prices. In a report, IntotheBlock&#8217;s Lucas Outumuro says that traders are selling their holdings out of fear that the now-defunct crypto exchange FTX could liquidate their massive digital asset trove worth $3 billion. Outumuro zeroes [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/11/3000000000-sell-off-event-could-be-coming-to-crypto-markets-warns-analytics-firm-intotheblock/\">$3,000,000,000 Sell-Off Event Could Be Coming to Crypto Markets, Warns Analytics Firm IntoTheBlock</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2023-09-11T10:00:54.000Z",
+    "title": "Shiba Inu Community Sounds  Warning Alarm As Scammers Siege Shibarium",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-scammers-shibarium/",
+    "description": "In a recent development, the Shiba Inu community has warned of a “scam” project that may be responsible for some of the FUD attacks that have plagued the Shibarium network since it launched on August 16.  Shibarium Admin Warns Of Scam Project In a tweet on the X (formerly Twitter) platform, a member of the Shibarium tech team (known as Digarch) shared a screenshot of the admin warning of a scam project set to be deployed on the layer-2 network. According to the Shibarium tech admin named DaVinci, “Pawswap” is the scam project responsible for funding attacks on Shibarium.  Related Reading: New Shibarium Update Sets The Stage For Shiba Inu To Reach All-Time High Besides funding these attacks, Pawswap allegedly uses its community to spread fear, uncertainty, and doubt (FUD) about the network. DaVinci said the project and its team had infiltrated the Shibarmy by passing off as Pawzone, a credible project set to launch on the Shibarium network. Community member warns community of scam making the rounds &#124; Source: X As a result of this, he urged the Shib community to stay safe from Pawswap, which he called a “Scam or Shitcoin,” and that they defend the ecosystem from such projects.  Meanwhile, Digarch, who shared the screenshot, clarified that Pawzone was different from Pawswap, which DaVinci had mentioned, and stated that Pawzone was the team behind the NFT marketplace Pawzaar, which will be one of the NFT marketplaces that will be launching on Shibarium soon.  Pawswap Legit Or Not? Following Digarch’s tweet, another user on the X platform said that Pawswap wasn’t a scam and pointed out that the project was certified by Certik, a leading blockchain security firm, and certification always inspires confidence in the minds of the public about a particular project. Upon further investigation, this user’s assertion is correct, as Certik awarded a silver KYC badge to the project on September 3, according to data from their website. As part of the verification process, Certik also verified 8 of the project’s core team members and reviewed its token contract.  Related Reading: Shiba Inu Whales Begin Accumulation As Shibarium Grows It is also worth mentioning that the project plans to launch its decentralized exchange (DEX) on the Shibarium network. As such, one might wonder why the Pawswap team would be looking to cause Shibarium to fail when it does not benefit the team. The project also seems to have a significant following, with over 13,000 followers on its X platform.  While there are no assurances that Pawswap is legit or a scam like DaVinci has asserted, it is important for the community to always do their research.  This is something that Shibarium’s lead developer, Shytoshi Kusama, has always emphasized in the network’s updates as he mentioned the influx of tokens and projects into the Shibarium ecosystem. SHIB price falls as scam allegations gain ground &#124; Source: SHIBUSD on Tradingview.com Featured image from Unsplash, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-09-11T09:55:37.000Z",
+    "title": "Crypto Investors To Gain Far More On Golden Inu ($GOLDEN) Than Shiba Inu ($SHIB) in 2023, MACD Signals Forecasts Massive Returns",
+    "url": "https://www.crypto-news-flash.com/crypto-investors-to-gain-far-more-on-golden-inu-golden-than-shiba-inu-shib-in-2023-macd-signals-forecasts-massive-returns/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-investors-to-gain-far-more-on-golden-inu-golden-than-shiba-inu-shib-in-2023-macd-signals-forecasts-massive-returns",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-11T124719.200.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-11T124719.200.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-11T124719.200-300x169.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As of September 2023, the landscape for the memecoin market provides an interesting perspective for investors. In the past, these types of joke-inspired currencies were often disregarded by investors due to their utter lack of real-world use. However, as the market develops, up-and-coming projects like Golden Inu, as well as already established Shiba Inu battle [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-09-11T10:09:16.000Z",
+    "title": "Taiji Capital Launches Hong Kong’s First Token-Based Real Estate Fund",
+    "url": "https://coinedition.com/taiji-capital-launches-hong-kongs-first-token-based-real-estate-fund/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real.png 730w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-311x175.png 311w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-124x70.png 124w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/09/Taiji_Capital_today_announced_the_launch_of_Hong_Kongs_first_real-129x73.png 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>As reported by local news outlets, investment firm Taiji Capital has announced the launch of Hong Kong’s first real estate fund Security Token Offering (STO) through its subsidiary Pioneer Asset Management. The &#8220;closed-end fund&#8221; revealed that STO PRINCE will allocate exclusive tokens to professional investors, with the goal of securing HK$100 million in funding. Additionally, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/taiji-capital-launches-hong-kongs-first-token-based-real-estate-fund/\">Taiji Capital Launches Hong Kong’s First Token-Based Real Estate Fund</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,100 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-09-12T10:13:32.000Z",
-    "title": "Bitcoin Price-Volatility Correlation Turns Negative Again as Crypto Traders Eye FTX Liquidations",
-    "url": "https://www.coindesk.com/markets/2023/09/12/bitcoin-price-volatility-correlation-turns-negative-again-as-crypto-traders-eye-ftx-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The shift from positive correlation comes amid concerns the looming $3 billion FTX liquidations will crater the crypto market."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-09-12T10:11:43.000Z",
-    "title": "One Year After Trudeau's Bitcoin Warning, BTC Still Beat Inflation and S&P 500",
-    "url": "https://www.coindesk.com/markets/2023/09/12/one-year-after-trudeaus-bitcoin-warning-btc-still-beat-inflation-and-sp-500/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Despite bitcoin’s tumultuous year, the world’s largest digital asset proved to be a reliable hedge against inflation. And a number of Liberal MPs own it."
-  },
-  {
     "source": "Decrypt",
-    "date": "2023-09-12T10:15:10.000Z",
-    "title": "PayPal Launches Crypto to USD Off-Ramps",
-    "url": "https://decrypt.co/156008/paypal-launches-crypto-to-usd-off-ramps",
-    "description": "The launch of the new feature follows PayPal's introduction last month of a crypto on-ramp service through MetaMask and Ledger."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-09-12T10:11:35.000Z",
-    "title": "Bitget exec says KYC is useful to filter out illegitimate users",
-    "url": "https://cointelegraph.com/news/bitget-exec-says-kyc-useful-filter-out-illegitimate-users",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/a39e7b92-97c6-44e9-baf0-d0fefcc8309d.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Bitget managing director Gracy Chen said that if users are not doing illegitimate activities like money laundering, they should be \"pretty comfortable\" with the KYC process.  </p>\n                    <p><p>Crypto exchange Bitget has grown significantly despite the challenges brought by the bear market. In 2023, the exchange announced two $100 million funds—one <a href=\"https://cointelegraph.com/news/bitget-launches-100m-web3-fund-for-crypto-projects-in-asia\">dedicated to crypto projects in Asia</a> and another for <a href=\"https://cointelegraph.com/news/bitget-announces-further-100-m-fund-for-ecosystem-development\">maximizing the company’s long-term impact</a> in the crypto space. </p><p>At the Bitget EmpowerX Summit held in Singapore, Cointelegraph’s Zhiyuan Sun spoke with Gracy Chen, the managing director of Bitget. The two spoke about Bitget’s growth amid the bear market, pausing its expansion in Hong Kong and the United States and why they believe that implementing Know Your Customer (KYC) protocols is important for exchanges.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-09/660a7993-a704-4efd-acae-fe9743c0df70.jpg\"  /><figcaption style=\"text-align: center;\"><em>A panel discussion at the Bitget event held in Singapore. Source: Cointelegraph</em></figcaption></figure><p>According to Chen, the company grew ten times its original number just in two years. “For our company's employees we had about 150, 2 years ago and right now, 1500,” Chen said. The executive highlighted that this is a result of their efforts in the past few years and them being driven by results. Chen explained: </p><blockquote>“We think it's like running a marathon. So what we've been doing and if you look at our team, it's a very operating result-driven team.”</blockquote><p>The Bitget executive also mentioned a lot of their efforts from branding and product launches to the company’s partnership with soccer superstar Lionel Messi as some of the reasons for its growth over the past years. “In terms of the secret sauce, I guess it's because of these things that we are doing, we are growing,” she added. At the same time, the growth makes them “financially healthy” to do more activities according to Chen. </p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/taiwan-restricts-unregistered-overseas-crypto-exchanges\"><strong><em>Taiwan to restrict unregistered, noncompliant foreign crypto exchanges</em></strong></a></p><p>When asked about the exchanges’ lack of presence in two key markets the United States and Hong Kong, Chen noted that regulatory uncertainty in the US is holding Bitget back from coming in. She said: </p><blockquote>“We want to wait and see how it develops and then make a decision on whether we want to serve the US customers or not. This is something that has always been developing, but I don't see us serving the US market in the short term.” </blockquote><p>When it comes to Hong Kong, Chen said that they’ve already been in talks with the Hong Kong government and are currently in the process of applying for a license in the special administrative region. </p><p>Chen also spoke about why the exchange <a href=\"https://cointelegraph.com/news/bitget-kyc-mandate-september-2023\">implemented mandatory KYC requirements</a> for all of its users on Sept. 1. According to the executive, some of their users were complaining about the new requirement. However, the executive believes that implementing KYC is a good way to filter out “illegitimate” users. She said: </p><blockquote>“I'm pretty sure if the user is a financially healthy user such as like if they're not doing something illegitimate, such as money laundering. They should be pretty comfortable with the KYC process.”</blockquote><p>Apart from this, the executive believes that mandatory KYC is going to become a trend among the bigger crypto exchanges in the near future. </p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/defi-faces-stress-test-doj-fears-run-on-binance-hong-kongs-crypto-trading-hodlers-digest-july-30-aug-5/\"><strong><em>DeFi faces stress test, DoJ fears run on Binance, Hong Kong’s crypto trading</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "date": "2023-09-12T10:45:27.000Z",
+    "title": "Former Celsius Boss Mashinsky Seeks to Have FTC Case Dropped",
+    "url": "https://decrypt.co/156010/former-celsius-boss-mashinsky-seeks-to-have-ftc-case-dropped",
+    "description": "Alex Mashinsky’s lawyers argue that the FTC case against the former CEO of the Celsius Network should be dismissed."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-09-12T10:35:19.000Z",
-    "title": "Despite industry objections, SEC’s Gensler continues to classify crypto as securities",
-    "url": "https://cryptoslate.com/despite-industry-objections-secs-gensler-holds-continues-to-classify-crypto-as-securities/",
-    "description": "<p>Securities and Exchange Commission (SEC) Chairman Gary Gensler remains steadfast that most cryptocurrencies fall under the agency&#8217;s securities regulations despite ongoing criticism from the crypto industry. In written testimony on Sept. 12 for the Senate Banking Committee, Gensler reiterated the SEC&#8217;s strict stance that crypto trading platforms and intermediaries must register with the agency as [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/despite-industry-objections-secs-gensler-holds-continues-to-classify-crypto-as-securities/\">Despite industry objections, SEC&#8217;s Gensler continues to classify crypto as securities</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-09-12T11:00:09.000Z",
+    "title": "Long-term Bitcoin holders continue to eclipse exchange supply",
+    "url": "https://cryptoslate.com/insights/long-term-bitcoin-holders-continue-to-eclipse-exchange-supply/",
+    "description": "<p>Quick Take An intriguing shift in the Bitcoin market since October last year. The current data reveals that the cohort of Bitcoin on exchanges, standing at 2.3 million, is being outweighed by long-term holders, who collectively account for around 2.9 million Bitcoin. This change in the Bitcoin holding pattern signifies an apparent divergence, indicating a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/long-term-bitcoin-holders-continue-to-eclipse-exchange-supply/\">Long-term Bitcoin holders continue to eclipse exchange supply</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-09-12T10:58:09.000Z",
+    "title": "Three Key Events That Could Skyrocket XRP’s Value,  Explains Crypto Influencer",
+    "url": "https://www.cryptoglobe.com/latest/2023/09/three-key-events-that-could-skyrocket-xrps-value-explains-crypto-influencer/",
+    "description": "As various crypto analysts — such as Dr. Benjamin Cowen — have pointed out, XRP has retraced the entirety of the move that came after Judge Analisa Torres delivered her mixed ruling in the SEC v. Ripple lawsuit (which was initiated in December 2020). Yesterday, Zach Rector, a well-known figure in the XRP community, took […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-09-12T10:40:09.000Z",
+    "date": "2023-09-12T11:02:13.000Z",
     "title": "Arena Of Faith Will Launch the Pioneer Avatar NFT Mint Event on September 14",
     "url": "https://cryptodaily.co.uk/2023/09/arena-of-faith-will-launch-the-pioneer-avatar-nft-mint-event-on-september-14",
     "description": "Arena Of Faith Will Launch the Pioneer Avatar NFT Mint Event on September 14"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-09-12T10:40:09.000Z",
-    "title": "CCDAS, London’s Flagship Institutional Digital Asset Summit, Returns to London October 2-3",
-    "url": "https://cryptodaily.co.uk/2023/09/ccdas-londons-flagship-institutional-digital-asset-summit-returns-to-london-october-2-3",
-    "description": "CCDAS, London’s Flagship Institutional Digital Asset Summit, Returns to London October 2-3"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-12T10:40:09.000Z",
-    "title": "MixMarvel and Yeeha Games Announce Trailblazing Partnership at Exclusive TOKEN2049 Side Event",
-    "url": "https://cryptodaily.co.uk/2023/09/mixmarvel-and-yeeha-games-announce-trailblazing-partnership-at-exclusive-token2049-side-event",
-    "description": "MixMarvel and Yeeha Games Announce Trailblazing Partnership at Exclusive TOKEN2049 Side Event"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-12T10:40:09.000Z",
-    "title": "Gateway.fm Launches Presto to Abstract Complexity of Blockchain Infrastructure",
-    "url": "https://cryptodaily.co.uk/2023/09/gatewayfm-launches-presto-to-abstract-complexity-of-blockchain-infrastructure",
-    "description": "Gateway.fm, the first truly decentralized blockchain infrastructure node provider, has announced the launch of Presto, its Zero-knowledge-based Web3 platform-as-a-service, geared towards greatly simplifying the implementation of Zero-knowledge roll-ups"
+    "source": "Bitcoin.com",
+    "date": "2023-09-12T11:00:19.000Z",
+    "title": "Wirex and Polygon CDK Join Forces to Revolutionize Digital Payments With W-Pay",
+    "url": "https://news.bitcoin.com/wirex-and-polygon-cdk-join-forces-to-revolutionize-digital-payments-with-w-pay/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/img_8568.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. Wirex, a major player in crypto payments with over 6 million users, has chosen to partner with Polygon CDK (Chain Development Kit) to create a new App Chain focused on payments, named W-Pay. This move marks a significant development in the world of cryptocurrency payments. By utilizing Polygon CDK, an advanced blockchain technology [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-12T10:36:35.000Z",
-    "title": "Rwanda Set to Become Africa’s Hub for AI Research and Development",
-    "url": "https://www.cryptopolitan.com/rwanda-set-to-become-africas-hub-for-ai/",
-    "description": "Rwanda, a country located in the Eastern part of Africa, is quietly championing artificial intelligence innovation across the continent. The country, which is already considered a leader in innovation and technology, is now on pace to become the central hub for AI research in Africa.&#160; InstaDeep Set to Establish AI Hub in Rwanda The New ... <a title=\"Rwanda Set to Become Africa’s Hub for AI Research and Development\" class=\"read-more\" href=\"https://www.cryptopolitan.com/rwanda-set-to-become-africas-hub-for-ai/\" aria-label=\"More on Rwanda Set to Become Africa’s Hub for AI Research and Development\">Read more</a>"
+    "date": "2023-09-12T10:55:07.000Z",
+    "title": "Arm IPO Is a Different Proposition Than Nvidia, Yet Both Share AI Potential",
+    "url": "https://www.cryptopolitan.com/arm-ipo-different-proposition-than-nvidia/",
+    "description": "As Arm, the British chip designer owned by SoftBank, prepares for its blockbuster initial public offering (IPO), investors are eager to see if it can replicate the success of Nvidia, which has seen its stock price surge by a remarkable 200% in the current year. Arm aims to raise nearly $5 billion through its IPO, ... <a title=\"Arm IPO Is a Different Proposition Than Nvidia, Yet Both Share AI Potential\" class=\"read-more\" href=\"https://www.cryptopolitan.com/arm-ipo-different-proposition-than-nvidia/\" aria-label=\"More on Arm IPO Is a Different Proposition Than Nvidia, Yet Both Share AI Potential\">Read more</a>"
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-09-12T10:15:00.000Z",
-    "title": "Shiba Inu Hits Make-Or-Break Price: 250% Rally Or New All-Time Low?",
-    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-make-or-break-price-250-rally-all-time-low/",
-    "description": "Shiba Inu (SHIB) is in a crucial make-or-break moment. Following a market-wide altcoin slump, SHIB&#8217;s price action is being shaped by two opposing chart patterns, both of which could have significant implications for the price&#8217;s future. A Tale Of Two Patterns For Shiba Inu The 1-week chart for SHIB reveals a tale of two patterns. On one hand, there&#8217;s the bullish triple bottom, suggesting a potential end to SHIB&#8217;s two-year downtrend. On the other, a descending triangle, which has been in the making for over 13 months, hints at a bearish outcome. In an analysis on August 30, NewsBTC already warned of this scenario. Related Reading: Shiba Inu Community Sounds Warning Alarm As Scammers Siege Shibarium Yesterday, SHIB&#8217;s price dipped to a low of $0.00000697 before rebounding slightly to $0.00000722. This places it precariously above the crucial support line of $0.00000715. For SHIB to steer clear of the bearish implications of the descending triangle and to validate the triple bottom, it&#8217;s imperative that it maintains a weekly close above this price. The triple bottom, a bullish chart pattern, is characterized by three roughly equivalent lows bouncing off a support level, culminating in a breakout above resistance. This suggests a shift in momentum from sellers to buyers. For SHIB, the criteria for a triple bottom seem to be in place: an existing downward trend precedes the pattern; the three lows are approximately equal, allowing for a horizontal trend line and a decline in volume throughout the pattern suggests weakening bearish momentum. SHIB&#8217;s journey through this pattern began in June 2022 with its first low at $0.00000715. After a brief recovery, it hit its second low in December 2021 at $0.00000781. The third and most recent low was recorded in June 2023 at $0.0000060. The Shadow Of The Descending Triangle However, the triple bottom&#8217;s bullish narrative is challenged by the descending triangle&#8217;s bearish undertones. If SHIB&#8217;s price falls below the $0.00000715 support, it could validate the descending triangle, potentially pushing SHIB towards its year-to-date low of $0.000006. A breach of this level might plunge SHIB into uncharted waters, making a new all-time low a grim possibility. Related Reading: Shiba Inu Tallies 77% Accumulation By Major Investors – Good For SHIB Price? Traders often seek additional confirmation of patterns through other technical indicators. The Relative Strength Index (RSI) is one such tool. SHIB&#8217;s weekly RSI currently stands at a neutral 39.8 (neutral). However, a recent dip below the 30-mark (indicating oversold conditions) suggests that the recent price drop might have been the last for SHIB. Should the triple bottom be validated, SHIB could witness a significant rally. An immediate target to watch would be the 23.6% Fibonacci retracement level at $0.00002545, translating to a potential surge of approximately 250% from its current price. In conclusion, SHIB&#8217;s future hangs in the balance. The coming days and weeks will be crucial in determining whether it embarks on a bullish rally or succumbs to bearish pressures. Featured image from Trader 2.0, chart from TradingView.com"
+    "source": "Cryptopolitan",
+    "date": "2023-09-12T10:47:01.000Z",
+    "title": "Xbox New Mastercard Drops Annual Fees for Big Rewards",
+    "url": "https://www.cryptopolitan.com/xbox-new-mastercard-drops-annual-fees/",
+    "description": "Microsoft&#8217;s Xbox gaming console has recently unveiled an exciting development for gamers &#8211; the introduction of the Xbox Mastercard, a new credit card designed to enhance the gaming experience. This initiative, which doesn&#8217;t come with an annual fee, is the result of a collaboration between Microsoft and Barclays US Consumer Bank, a prominent issuer of ... <a title=\"Xbox New Mastercard Drops Annual Fees for Big Rewards\" class=\"read-more\" href=\"https://www.cryptopolitan.com/xbox-new-mastercard-drops-annual-fees/\" aria-label=\"More on Xbox New Mastercard Drops Annual Fees for Big Rewards\">Read more</a>"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-09-12T10:28:49.000Z",
-    "title": "If You are a LAND Owner in The Sandbox, You Must Read This",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/if-you-are-a-land-owner-in-the-sandbox-you-must-read-this/",
-    "description": "<p>The Sandbox is no doubt one of the biggest metaverse platforms. But lately, there’s not been much news for new land owners. However, all that has changed with the latest land owner roadmap shared by the Sandbox. The new Sandbox roadmap features information about new land sales and upgrade systems and neighborhoods. Let’s look at [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/if-you-are-a-land-owner-in-the-sandbox-you-must-read-this/\">If You are a LAND Owner in The Sandbox, You Must Read This</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "NullTX",
+    "date": "2023-09-12T11:06:02.000Z",
+    "title": "Ethereum Recent Drop Signals Capitulation Moves",
+    "url": "https://nulltx.com/ethereum-recent-drop-signals-capitulation-moves/",
+    "description": "The recent drop in Ethereum (ETH) to $1,540, a level not seen since March 12th, has raised concerns and drawn attention to some interesting on-chain data. One significant observation is the movement of large quantities of stagnant ETH away from old wallets during this price decline. This phenomenon suggests that long-term holders may be growing [&#8230;]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-09-12T10:36:36.000Z",
-    "title": "CEO Mike Belshe Says BitGo Advised Fortress To Reveal Loss Of Funds",
-    "url": "https://coinedition.com/ceo-mike-belshe-says-bitgo-advised-fortress-to-reveal-loss-of-funds/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-1-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>On September 12, digital asset security company BitGo&#8217;s CEO Mike Belshe expressed his disappointment in the “Fortress Trust episode,” in a tweet. In early September, Nevada State Chartered Trust Company, Fortress Trust reported that four of its customers had been affected after cloud tools used by a third-party vendor became compromised. While the firm announced [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/ceo-mike-belshe-says-bitgo-advised-fortress-to-reveal-loss-of-funds/\">CEO Mike Belshe Says BitGo Advised Fortress To Reveal Loss Of Funds</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-09-12T10:36:15.000Z",
-    "title": "Crypto Market Set For ‘Cleansing’ Before 2024 Bullrun: Expert",
-    "url": "https://coinedition.com/crypto-market-set-for-cleansing-before-2024-bullrun-expert/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/BNB-5.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/BNB-5.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/BNB-5-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Oliver L. Velez, an experienced digital assets trader, has advised crypto investors to get their bitcoins off crypto exchanges and prepare to buy the dip. Velez said this in a recent post on X (formerly Twitter) where he identified a crucial reason why the crypto market might experience another significant crash. Velez claimed that at [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-market-set-for-cleansing-before-2024-bullrun-expert/\">Crypto Market Set For ‘Cleansing’ Before 2024 Bullrun: Expert</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-09-12T11:00:36.000Z",
+    "title": "Litecoin Price Prediction, Chainlink Swift Experiment Sucess, Pomerdoge Presale Sets the Pace in P2E Gaming",
+    "url": "https://www.crypto-news-flash.com/litecoin-price-prediction-chainlink-swift-experiment-sucess-pomerdoge-presale-sets-the-pace-in-p2e-gaming/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-price-prediction-chainlink-swift-experiment-sucess-pomerdoge-presale-sets-the-pace-in-p2e-gaming",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-7-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-7-1.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-7-1-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-7-1-104x69.png 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In recent events surrounding the market of cryptocurrency, Litecoin (LTC) has made its way to the list of the top 10 most traded coins. Meanwhile, Chainlink (LINK) hit the success button on its collaboration with Swift, and the favorite coin in the industry Pomerdoge (POMD) still stealing the hearts of investors in its presale. Click [...]"
   }
 ]

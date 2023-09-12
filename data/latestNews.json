@@ -1,79 +1,72 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-09-12T16:23:31.000Z",
-    "title": "Coinbase Paves Way for Big Institutions to Do More With Web3, DeFi, NFTs",
-    "url": "https://www.coindesk.com/business/2023/09/12/coinbase-paves-way-for-big-institutions-to-do-more-with-web3-defi-nfts/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Coinbase, best-known for being one of the largest crypto exchanges for retail customers, continued its expansion into the professional space with the introduction Tuesday of a Web3 wallet designed to help institutions get into NFTs and other corners of decentralized finance, or DeFi."
+    "date": "2023-09-12T16:52:53.000Z",
+    "title": "Namesake of Ethereum's 'Danksharding' Says 'Data Availability' Too Confusing a Term",
+    "url": "https://www.coindesk.com/tech/2023/09/12/namesake-of-ethereums-danksharding-says-data-availability-too-confusing-a-term/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Ethereum Foundation's Dankrad Feist says he thinks a lot of people are stumped by the term \"data availability,\" even as the concept gains momentum in blockchain tech circles."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-09-12T16:15:53.000Z",
-    "title": "Sony subsidiary and Starlate join forces to build new blockchain for global Web3 infrastructure",
-    "url": "https://cryptoslate.com/sony-subsidiary-and-starlate-join-forces-to-build-new-blockchain-for-global-web3-infrastructure/",
-    "description": "<p>Sony Network Communications, a subsidiary of the Japanese conglomerate, has announced a partnership with Starlate Labs to develop a new blockchain network, according to a Sept. 12 press statement shared with CryptoSlate. The two companies entered into a joint venture agreement for the purpose, and the goal is to make the new blockchain the backbone [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/sony-subsidiary-and-starlate-join-forces-to-build-new-blockchain-for-global-web3-infrastructure/\">Sony subsidiary and Starlate join forces to build new blockchain for global Web3 infrastructure</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Decrypt",
+    "date": "2023-09-12T17:03:37.000Z",
+    "title": "Gensler Slams Crypto Markets as Lawmakers Raise Questions About Bitcoin ETF",
+    "url": "https://decrypt.co/156071/gensler-slams-crypto-markets-lawmakers-raise-questions-bitcoin-etf",
+    "description": "SEC Chair Gary Gensler was asked Tuesday by the Senate Banking Committee what he needs to see in a filing to approve a spot Bitcoin ETF."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-09-12T16:44:26.000Z",
+    "title": "Aaron Rodgers Injury Sends DraftKings NFTs Soaring for Backup QB",
+    "url": "https://decrypt.co/156055/aaron-rodgers-injury-sends-draftkings-nfts-soaring-backup-qb",
+    "description": "NFTs associated with the Jets' backup QB surged on Monday after Aaron Rodgers fell to a season-ending injury."
   },
   {
     "source": "Crypto Briefing",
-    "date": "2023-09-12T16:09:48.000Z",
-    "title": "CoinEx Exchange Hacked for Over $30 Million",
-    "url": "https://cryptobriefing.com/coinex-exchange-hacked-for-over-30-million/?utm_source=feed&utm_medium=rss",
-    "description": "CoinEx's hot wallets have been drained of over $30 million in ETH, TRON, and Polygon's MATIC."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-12T16:29:20.000Z",
-    "title": "Visa Publishes Research Exploring Solana's Blockchain Capabilities",
-    "url": "https://cryptodaily.co.uk/2023/09/visa-publishes-research-exploring-solanas-blockchain-capabilities",
-    "description": "Wijeyekoon and Bedawala claim that Solana's capability for parallel transaction processing is notable because in contrast to Ethereum (which uses a single-threaded model), Solana's architecture is designed to process multiple transactions simultaneously."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-09-12T16:30:26.000Z",
-    "title": "IMF Publications’ Report Highlights Growing Risks of Generative AI in Financial Sector",
-    "url": "https://news.bitcoin.com/imf-publications-report-highlights-growing-risks-of-generative-ai-in-financial-sector/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"IMF Publications’ Report Highlights Growing Risks of Generative AI in Financial Sector\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/78678.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As artificial intelligence (AI) continues its expansion into the finance sector, a new report published on the International Monetary Fund (IMF) Publications web portal cautions about risks associated with the latest AI capabilities in the financial world. The Rise of Thinking Machines: Report Warns of Risks From Generative AI in Finance The report, authored by [&#8230;]"
+    "date": "2023-09-12T16:55:27.000Z",
+    "title": "MetaMask Expands Past Ethereum Chains, Adds Bitcoin & Solana Support",
+    "url": "https://cryptobriefing.com/metamask-expands-past-ethereum-chains-adds-bitcoin-solana-support/?utm_source=feed&utm_medium=rss",
+    "description": "MetaMask transcends the Ethereum ecosystem limits, integrating Bitcoin, Solana, and more with its new 'Snaps' feature."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-12T16:35:08.000Z",
-    "title": "Innovative Research to Enhance Lung Cancer Treatment",
-    "url": "https://www.cryptopolitan.com/research-to-enhance-lung-cancer-treatment/",
-    "description": "In a remarkable initiative, The Christie NHS Foundation Trust in Manchester has secured a substantial £2.3 million grant from the National Institute for Health Research (NIHR). This funding will support an ambitious research project known as the RAPID-RT study. The primary goal of this groundbreaking endeavor is to facilitate the risk of heart damage in ... <a title=\"Innovative Research to Enhance Lung Cancer Treatment\" class=\"read-more\" href=\"https://www.cryptopolitan.com/research-to-enhance-lung-cancer-treatment/\" aria-label=\"More on Innovative Research to Enhance Lung Cancer Treatment\">Read more</a>"
+    "date": "2023-09-12T16:43:12.000Z",
+    "title": "Former Celsius CEO Alex Mashinsky seeks FTC case dismissal",
+    "url": "https://www.cryptopolitan.com/former-celsius-ceo-seeks-ftc-case-dismissal/",
+    "description": "Alex Mashinsky, the founder and former CEO of crypto lender Celsius, is making a legal push to have the Federal Trade Commission (FTC) drop its case against him. In a recent court filing on Monday, Mashinsky&#8217;s legal team argued that the FTC&#8217;s allegations lack the required elements to support their claims that he misled investors.&#160; ... <a title=\"Former Celsius CEO Alex Mashinsky seeks FTC case dismissal\" class=\"read-more\" href=\"https://www.cryptopolitan.com/former-celsius-ceo-seeks-ftc-case-dismissal/\" aria-label=\"More on Former Celsius CEO Alex Mashinsky seeks FTC case dismissal\">Read more</a>"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-12T16:23:08.000Z",
-    "title": "Call of Duty’s Multiplayer Revolution: Transforming Gaming into a Global Community",
-    "url": "https://www.cryptopolitan.com/call-of-duty-transforming-gaming-into-a-community/",
-    "description": "In recent years, the landscape of the gaming world has undergone a profound transformation, leaving behind the solitary gaming experiences of yesteryears. Gone are the days when players would sit isolated in their rooms, fully engrossed in virtual worlds. The catalyst for this shift is undeniably the rise of online multiplayer gaming, and at the ... <a title=\"Call of Duty&#8217;s Multiplayer Revolution: Transforming Gaming into a Global Community\" class=\"read-more\" href=\"https://www.cryptopolitan.com/call-of-duty-transforming-gaming-into-a-community/\" aria-label=\"More on Call of Duty&#8217;s Multiplayer Revolution: Transforming Gaming into a Global Community\">Read more</a>"
+    "source": "NewsBTC",
+    "date": "2023-09-12T17:00:18.000Z",
+    "title": "Stake’s Hacker Moves $328,000 Worth Of Crypto From Stolen Funds",
+    "url": "https://www.newsbtc.com/crypto/stakes-hacker-moves-328000-worth-of-crypto-from-stolen-funds/",
+    "description": "The hacker responsible for the $41 million hack of the crypto casino Stake on September 4 made another move on September 11. Following this, they transferred an additional $328,000 worth of Polygon (MATIC) and BNB (BNB) tokens, as the blockchain security company CertiK reported. Transferred Funds By Hackers Are Estimated At $4.8 Million On September 11, the hacker first transferred 520,000 MATIC tokens, worth over $266,000, which were bridged to the Avalanche blockchain. Some hours later, 300 BNB tokens valued at approximately $61,500 were sent to an externally owned address labeled &#8220;0x695&#8230;&#8221;.  Before these recent transfers, the hacker had bridged $4.5 million to different Bitcoin blockchain addresses. This was reported by the blockchain security company Arkham on September 7. The total amount transferred, now at $4.8 million, only constitutes 1.2% of the total $41 million stolen by the hackers. Related Reading: Shiba Inu Hits Make-Or-Break Price: 250% Rally Or New All-Time Low? The Stake hackers exploited the platform by gaining access to the private keys of the platform&#8217;s Binance Smart Chain and Ethereum hot wallets.  According to the United States Federal Bureau of Investigation (FBI), the Lazarus Group from North Korea &#8211; known for its involvement in various cybercrimes, including hacking and cryptocurrency-related attacks, might be behind this exploit.  The Total Amount Of Money Lost Due To Hacks And Scams Has Exceeded $1 Billion The recent hack of $41 million from Stake has contributed to the cumulative losses from cryptocurrency hacks and scams in 2023. As a result of this incident, the total losses in the cryptocurrency industry have now surpassed the $1 billion mark. Before the Stake attack, CertiK had reported the total losses to be approximately $997 million at the end of August. But for August alone, CertiK reported that exit scams resulted in approximately $26 million in losses. Flash loan attacks accounted for $6.4 million, and exploits caused losses of $13.5 million. The cybersecurity firm verified that these combined losses exceeded $45 million for the past month. However, with several attacks occurring in the past two weeks, the overall figure has now crossed the $1 billion threshold.  For instance, a prominent cryptocurrency investor lost $24 million of staked Ether (ETH) in a phishing attack on September 6. Additionally, Vitalik Buterin&#8217;s X (formerly Twitter) account was compromised on September 9, and the hacker used it to trick several individuals into participating in a nonfungible token scam, resulting in a total loss of $691,000. Considering these incidents, in addition to CertiK&#8217;s previous estimate from August, the total losses due to cryptocurrency-related incidents would now exceed at least $1.04 billion. Related Reading: Can Pepe Coin Bounce Back? Insights On Its Future Post-Critical Support Drop Other recent incidents include a withdrawal involving Pepe coin (PEPE), resulting in a loss of $13.2 million for investors. Also, a security vulnerability was exposed on the Balancer platform, resulting in damages totaling $2.1 million. Featured image from Pixabay and chart from TradingView.com"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-12T16:16:48.000Z",
-    "title": "Generative AI Beyond the “Wow” Effect in UnlockingTangible Results",
-    "url": "https://www.cryptopolitan.com/generative-ai-beyond-the-wow-effect/",
-    "description": "In the realm of Silicon Valley&#8217;s tech discussions, the spotlight has been firmly fixed on Generative Artificial Intelligence (AI). This technology has dazzled us with its human-like ability to draw inferences through the use of Large Language Models (LLMs). However, there&#8217;s another exciting development gaining momentum &#8211; the convergence of AI with the Internet of ... <a title=\"Generative AI Beyond the &#8220;Wow&#8221; Effect in UnlockingTangible Results\" class=\"read-more\" href=\"https://www.cryptopolitan.com/generative-ai-beyond-the-wow-effect/\" aria-label=\"More on Generative AI Beyond the &#8220;Wow&#8221; Effect in UnlockingTangible Results\">Read more</a>"
+    "source": "Crypto News Flash",
+    "date": "2023-09-12T17:00:49.000Z",
+    "title": "Is The XRP Lawsuit Coming to An End? Optimism (OP) vs. Borroe.Finance ($ROE) In 2023",
+    "url": "https://www.crypto-news-flash.com/is-the-xrp-lawsuit-coming-to-an-end-optimism-op-vs-borroe-finance-roe-in-2023/?utm_source=rss&utm_medium=rss&utm_campaign=is-the-xrp-lawsuit-coming-to-an-end-optimism-op-vs-borroe-finance-roe-in-2023",
+    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-1-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-1-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-1-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-1-1-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Amid Ripple’s lawsuit against the SEC, investors are cautious about XRP, resulting in a significant drop in the price of $XRP. On the other hand, Optimism whales are buying the dip, but $OP keeps sliding. Yet, Borroe.Finance ($ROE) is dominating the bearish cryptocurrency market, having delivered 25% profits for its early investors. Can XRP and [...]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-12T16:10:16.000Z",
-    "title": "Crypto hackers shift additional $328M in stolen funds- Reports",
-    "url": "https://www.cryptopolitan.com/crypto-hackers-shift-additional-328m/",
-    "description": "In a continuing saga of cryptocurrency thefts and exploits, hackers responsible for the $41 million hack of cryptocurrency casino Stake have managed to shift an additional $328 million worth of assets, according to blockchain security firm CertiK. This latest development follows the initial exploit that occurred on September 4, which resulted in the theft of ... <a title=\"Crypto hackers shift additional $328M in stolen funds- Reports\" class=\"read-more\" href=\"https://www.cryptopolitan.com/crypto-hackers-shift-additional-328m/\" aria-label=\"More on Crypto hackers shift additional $328M in stolen funds- Reports\">Read more</a>"
+    "source": "Coin Edition",
+    "date": "2023-09-12T17:01:00.000Z",
+    "title": "Ethereum’s (ETH) Old Wallet Activity Spikes After Hitting $1,540",
+    "url": "https://coinedition.com/ethereums-eth-old-wallet-activity-spikes-after-hitting-1540/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Arthur_Hayes,_Former_Ethereum_Skeptic,_on_Why_the_Merge_Makes_Him\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/Arthur_Hayes_Former_Ethereum_Skeptic_on_Why_the_Merge_Makes_Him-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The market intelligence platform Santiment shared in a Twitter (X) post today that Ethereum (ETH) recently experienced a significant drop in value, hitting a low of $1,540, which is a level not seen since 12 March 2023. What is particularly interesting is that this price decline coincided with a notable movement of long-held ETH from [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/ethereums-eth-old-wallet-activity-spikes-after-hitting-1540/\">Ethereum’s (ETH) Old Wallet Activity Spikes After Hitting $1,540</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-09-12T16:09:48.000Z",
-    "title": "Tencent Cloud joins forces with Ankr to revolutionize blockchain access",
-    "url": "https://www.cryptopolitan.com/tencent-cloud-joins-forces-with-ankr-to-revolutionize-blockchain-access/",
-    "description": "Tencent Cloud has partnered with Ankr, a leading decentralized blockchain infrastructure provider, to launch Tencent Cloud Blockchain RPC. This Web3-native product aims to provide organizations and enterprises with more efficient and robust access to blockchain infrastructure. The service, now available on Tencent Cloud&#8217;s online marketplace, offers an instant portal to key blockchain networks like Ethereum ... <a title=\"Tencent Cloud joins forces with Ankr to revolutionize blockchain access\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tencent-cloud-joins-forces-with-ankr-to-revolutionize-blockchain-access/\" aria-label=\"More on Tencent Cloud joins forces with Ankr to revolutionize blockchain access\">Read more</a>"
+    "source": "The Daily Hodl",
+    "date": "2023-09-12T16:55:18.000Z",
+    "title": "Crypto Spot Trading Volume Drops to $475,000,000,000, Reminiscent of 2019 Bear Market: Analytics Firm",
+    "url": "https://dailyhodl.com/2023/09/12/crypto-spot-trading-volume-drops-to-475000000000-reminiscent-of-2019-bear-market-analytics-firm/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/cypto-spot-trading-bear.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto spot trading volume on exchanges dipped significantly in August amid the sector&#8217;s recent bearish price action, according to the blockchain data firm CCData. The firm notes in a recent monthly report that spot trading volume on centralized exchanges in August dropped for the second consecutive month, decreasing by 7.78% to $475 billion. The figure [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/12/crypto-spot-trading-volume-drops-to-475000000000-reminiscent-of-2019-bear-market-analytics-firm/\">Crypto Spot Trading Volume Drops to $475,000,000,000, Reminiscent of 2019 Bear Market: Analytics Firm</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-12T16:32:39.000Z",
-    "title": "Banana Gun’s redemption plan after BANANA token crash",
-    "url": "https://crypto.news/banana-guns-redemption-plan-after-banana-token-crash/",
-    "description": "The much-anticipated launch of Banana Gun's BANANA token faced a catastrophic glitch, causing a drastic price drop shortly after its debut. Amidst accusations and chaos, the team is working on a recovery plan."
+    "source": "The Daily Hodl",
+    "date": "2023-09-12T16:49:58.000Z",
+    "title": "Oasys Announces Integration of KDDI’s aU Wallet and aU Market To Elevate the Oasys Ecosystem",
+    "url": "https://dailyhodl.com/2023/09/12/oasys-announces-integration-of-kddis-au-wallet-and-au-market-to-elevate-the-oasys-ecosystem/",
+    "description": "<img width=\"500\" height=\"500\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?w=500\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg 500w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/08/Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w\" sizes=\"(max-width: 500px) 100vw, 500px\" /><p>September 12, 2023 – Singapore, Singapore Oasys, a game-focused blockchain, is pleased to announce its officially integrated into aU market, an NFT marketplace, and aU Wallet, a crypto asset wallet provided by KDDI Corp – one of the top three telecom companies in Japan. This integration enables users to offer NFTs on Oasys in the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/12/oasys-announces-integration-of-kddis-au-wallet-and-au-market-to-elevate-the-oasys-ecosystem/\">Oasys Announces Integration of KDDI’s aU Wallet and aU Market To Elevate the Oasys Ecosystem</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

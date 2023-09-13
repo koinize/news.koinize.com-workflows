@@ -1,79 +1,65 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-09-13T08:41:42.000Z",
-    "title": "Emurgo to invest and fill 21 areas 'missing' from Cardano: Emurgo CEO ",
-    "url": "https://cointelegraph.com/news/cardano-emurgo-to-fill-21-gaps-missing-from-blockchain",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-09/67acbd30-19f1-401e-96d1-b0ae40cec66c.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Emurgo founder and CEO Ken Kodama told Cointelegraph that they’ve identified 21 areas that Cardano is missing, but are present in other blockchains.  </p>\n                    <p><p>Decentralized identities and layer-2 solutions are some of the “gaps” in Cardano that the Emurgo team is working to fill, according to its founder and CEO. </p><p>Cointelegraph Magazine editor Andrew Fenton spoke with Ken Kodama, the founder and CEO of Emurgo — which is one of the three entities governing Cardano. Kodama talked about shifting their current approach into a venture studio model to fill 21 categories that they believe are “missing from Cardano” when compared to other leading blockchains. </p><p>According to Kodama, there are two key approaches to fill the gaps. These are either building the solutions themselves or investing. He explained: </p><blockquote>“For those 21 categories, either we build them ourselves or we invest. We do hackathons or we give grants to incentivize Cardano builders to build and to fill the gaps. So, that's what we need to focus on, shifting from where we are today into a venture studio model.”</blockquote><p>While Kodama did not enumerate all the 21 categories that they are looking to fill, the executive highlighted some of them. This includes decentralized identity (DID) for enterprise adoption and layer-2 sidechains.</p><p>According to the Emurgo CEO, decentralized identity is an important piece to be embedded in blockchain protocols. “We don't see that much DID application being built on Cardano. So, that's the first gap, or primary gap that we need to fill in,” he said. </p><p>Apart from DIDs, Kodama also mentioned that while Cardano has a scaling solution called Hydra, they are also looking into bringing layer-2 solutions into the mix. The executive said that there’s a “really vibrant layer-2 ecosystem being built” in other blockchains that they “don’t really see in Cardano.” Kodama noted that this is one of the things that they will be working on to improve the ecosystem. </p><p>In addition to decentralized IDs and layer-2 solutions, the executive also mentioned that they are looking into zero-knowledge rollups and optimistic rollups as well. According to Kodama, they are looking to invest in these technologies and have also conducted a hackathon with these themes. </p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/the-best-blockchain-does-not-exist-cardano-foundation-exec\"><strong><em>The best blockchain “does not exist” — Cardano Foundation exec</em></strong></a></p><p>Among the 21 categories that they identified, the executive highlighted that there’s one “pressing issue” that hinders adoption which is the developers’ experience. The executive recognized that in order to build in Cardano, it’s necessary for developers to understand programming languages Haskell and Plutus. </p><p>Kodama said that developers who are familiar with these languages are “quite low,” and this is why they are supporting Aiken, which is a toolkit and a new programming language for developing smart contracts on the Cardano blockchain.</p><blockquote>“Aiken and other programming language applicability are quite important to broaden the amount of builders able to build on top of Cardano. We have been educating builders to code in Haskell and Plutus. We had more than 2,000 graduates. However, that's not really enough.”</blockquote><p>The executive said that they have high expectations for Aiken and any other programming languages that can be embedded into Cardano so that builders can make smart contracts in the platform using different languages. </p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/bitcoin-ogs-experts-how-to-protect-your-crypto/\"><strong><em>How to protect your crypto in a volatile market: Bitcoin OGs and experts weigh in</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-09-13T09:29:00.000Z",
+    "title": "Crypto Market Shows Signs of Stability Ahead of U.S. CPI",
+    "url": "https://www.coindesk.com/markets/2023/09/13/crypto-market-shows-signs-of-stability-ahead-of-us-cpi/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "While some economists predict a jump in U.S. CPI compared to July, Factset research shows inflation is becoming less of a concern for large companies."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-09-13T09:15:15.000Z",
+    "title": "Telegram integrates self-custodial crypto wallet for 800 million users, TON ralllies 14%",
+    "url": "https://cryptoslate.com/telegram-integrates-self-custodial-crypto-wallet-for-800-million-users-ton-ralllies-14/",
+    "description": "<p>Telegram has incorporated a self-custodial crypto wallet based on The Open Network (TON) for its over 800 million active monthly users, according to a Sept. 13 statement shared with CryptoSlate. The wallet, known as TON Space, brings digital ownership on the blockchain to the messaging application. The feature will be accessible to all Telegram Wallet [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/telegram-integrates-self-custodial-crypto-wallet-for-800-million-users-ton-ralllies-14/\">Telegram integrates self-custodial crypto wallet for 800 million users, TON ralllies 14%</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "CryptoGlobe",
-    "date": "2023-09-13T08:58:34.000Z",
-    "title": "Chainalysis Unveils the 2023 Global Crypto Adoption Index to Measure Grassroots Cryptocurrency Engagement Across Countries",
-    "url": "https://www.cryptoglobe.com/latest/2023/09/chainalysis-unveils-the-2023-global-crypto-adoption-index-to-measure-grassroots-cryptocurrency-engagement-across-countries/",
-    "description": "Chainalysis, a leading firm in blockchain analytics, unveiled its 2023 Global Crypto Adoption Index on September 12, 2023. This new index is part of the company’s forthcoming “2023 Geography of Cryptocurrency Report,” scheduled for release in October 2023. Based on the blog post Chainalysis published yesterday, the primary aim of the index is to amalgamate […]\n"
+    "date": "2023-09-13T09:23:26.000Z",
+    "title": "$ADA: EMURGO CEO Says His Firm Plans to Fill the 21 ‘Gaps’ in Cardano’s Ecosystem",
+    "url": "https://www.cryptoglobe.com/latest/2023/09/ada-emurgo-ceo-says-his-firm-plans-to-fill-the-21-gaps-in-cardanos-ecosystem/",
+    "description": "In a recent interview with Cointelegraph Magazine’s editor, Andrew Fenton, Ken Kodama, CEO and founder of Singapore-based EMURGO Group Pte. Ltd., shared the organization’s new strategy to address 21 specific areas where Cardano’s ecosystem could be improved. EMURGO, a founding entity of the Cardano blockchain that provides products and services to drive the adoption of […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-13T08:59:42.000Z",
-    "title": "Crypto gaming evolution: Beyond mere collectibles",
-    "url": "https://www.cryptopolitan.com/crypto-gaming-evolution-beyond-collectibles/",
-    "description": "The world of crypto gaming is rapidly evolving, but according to Scott Sunarto, the founder and CEO of Argus Labs, there&#8217;s still a long way to go before it reaches its full potential. In a recent talk at the Blockworks Permissionless II conference in Austin, Texas, Sunarto shed light on the current state of crypto ... <a title=\"Crypto gaming evolution: Beyond mere collectibles\" class=\"read-more\" href=\"https://www.cryptopolitan.com/crypto-gaming-evolution-beyond-collectibles/\" aria-label=\"More on Crypto gaming evolution: Beyond mere collectibles\">Read more</a>"
+    "date": "2023-09-13T09:26:50.000Z",
+    "title": "Roblox Revolutionizes User Experience with Groundbreaking AI Innovations",
+    "url": "https://www.cryptopolitan.com/roblox-revolutionizes-ai-innovation/",
+    "description": "Roblox introduces groundbreaking AI innovation for online gaming. Explore an enhanced virtual world crafting, avatar personalization, and real-time voice controls for an enriched user journey."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-13T08:58:43.000Z",
-    "title": "Telegram integrates TON Space wallet, boosting Web3 adoption",
-    "url": "https://www.cryptopolitan.com/telegram-integrates-ton-space-wallet-boosting-web3-adoption/",
-    "description": "Telegram, the popular messaging app, has integrated TON Space, a self-custodial crypto wallet, into its platform, making it accessible to its 800 million monthly active users. The announcement is a significant stride for both Telegram and The Open Network (TON), as it brings TON one step closer to its original vision: enabling users to have ... <a title=\"Telegram integrates TON Space wallet, boosting Web3 adoption\" class=\"read-more\" href=\"https://www.cryptopolitan.com/telegram-integrates-ton-space-wallet-boosting-web3-adoption/\" aria-label=\"More on Telegram integrates TON Space wallet, boosting Web3 adoption\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-09-13T08:46:13.000Z",
-    "title": "Ripple’s global hiring surge: A response to SEC’s stance on cryptocurrencies?",
-    "url": "https://www.cryptopolitan.com/ripples-global-hiring-surge-response-to-secs/",
-    "description": "In the ever-evolving landscape of the cryptocurrency world, Ripple Labs, a prominent player, has made a significant shift in its hiring strategy. Amidst its ongoing legal tussle with the U.S. Securities and Exchange Commission (SEC), the company has announced that a staggering 80% of its new hires will be sourced from outside the United States. ... <a title=\"Ripple&#8217;s global hiring surge: A response to SEC&#8217;s stance on cryptocurrencies?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ripples-global-hiring-surge-response-to-secs/\" aria-label=\"More on Ripple&#8217;s global hiring surge: A response to SEC&#8217;s stance on cryptocurrencies?\">Read more</a>"
+    "date": "2023-09-13T09:21:16.000Z",
+    "title": "Astar Network and Polygon collaborate to launch zkEVM Ethereum Layer 2",
+    "url": "https://www.cryptopolitan.com/astar-network-and-polygon-collaborate/",
+    "description": "In a significant development for the blockchain community, Astar Network, a prominent Layer 1 smart contract platform, has announced its collaboration with Ethereum scaling developer Polygon Labs. The partnership aims to introduce Astar zkEVM, a Layer 2 solution that promises to revolutionize the Ethereum, Polkadot, and Cosmos ecosystems. A new era for Ethereum scaling Astar ... <a title=\"Astar Network and Polygon collaborate to launch zkEVM Ethereum Layer 2\" class=\"read-more\" href=\"https://www.cryptopolitan.com/astar-network-and-polygon-collaborate/\" aria-label=\"More on Astar Network and Polygon collaborate to launch zkEVM Ethereum Layer 2\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-09-13T09:05:40.000Z",
-    "title": "Russia considers legalizing DeFi DAOs to bring more liquidity",
-    "url": "https://crypto.news/russia-considers-legalizing-defi-daos-to-bring-more-liquidity/",
-    "description": "Russia&#8217;s Finance Ministry is mulling ways to bring more liquidity to the market by giving a green light to DeFi organizations. With sanctions against Russia starting to bite, Moscow is seeking new ways to keep its markets afloat by legalizing&#8230;"
+    "date": "2023-09-13T09:34:57.000Z",
+    "title": "Everlodge presale drawing Uniswap and Polkadot supporters",
+    "url": "https://crypto.news/everlodge-presale-drawing-uniswap-and-polkadot-supporters/",
+    "description": "The Everlodge (ELDG) presale has found support from Uniswap (UNI) and Polkadot investors"
   },
   {
     "source": "BTCManager",
-    "date": "2023-09-13T08:52:06.000Z",
-    "title": "FedNow endorses Hedera, Domini.art rally despite crypto chaos",
-    "url": "https://crypto.news/fednow-endorses-hedera-domini-art-rally-despite-crypto-chaos/",
-    "description": "Domini.art aims to disrupt the art industry and has found support in the presale. Hedera usage is spiking after FedNow's endorsement"
+    "date": "2023-09-13T09:19:24.000Z",
+    "title": "Ripple CEO calls US one of the worst regions for crypto startups",
+    "url": "https://crypto.news/ripple-ceo-calls-us-one-of-the-worst-regions-for-crypto-startups/",
+    "description": "Ripple CEO Brad Garlinghouse says that the United States is one of the worst regions for crypto companies as his company has been struggling with the country’s SEC. Garlinghouse discouraged crypto startups and investors from launching in the US at&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-13T08:51:20.000Z",
-    "title": "Toncoin price hikes by 13% amid Telegram support",
-    "url": "https://crypto.news/toncoin-price-hikes-by-13-amid-telegram-support/",
-    "description": "Toncoin, the native crypto of The Open Network, witnessed a 13% amid news on Telegram messenger support. TON aims to reach 30% of Telegram users by 2028. The native cryptocurrency of The Open Network, Toncoin (TON), price has finally gained&#8230;"
+    "source": "NewsBTC",
+    "date": "2023-09-13T09:20:30.000Z",
+    "title": "Why The NASDAQ’s Latest Move Is Important For Fund Managers Filing Ethereum ETFs",
+    "url": "https://www.newsbtc.com/news/ethereum/nasdaq-ethereum-etfs/",
+    "description": "Traditional financial institutions that have filed crypto ETF applications have focused on a particular market (spot or futures). However, a recent NASDAQ application suggests that the asset manager Hashdex is taking a different approach, which could be a game changer in the Ethereum ETF race.  NASDAQ Proposes To List Ethereum ETF According to the application filed with the US Securities and Exchange Commission (SEC), the stock exchange plans to list and trade shares of the Hashdex Nasdaq Ethereum ETF, which will be managed and controlled by Toroso Investments LLC. Interestingly, the fund will hold both Ether futures contracts and Spot Ether. This move from asset manager Hashdex is novel, considering that other asset managers have either applied to offer a Spot Ether ETF or Ether futures ETF or filed applications to offer both separately. However, Hashdex wants to offer a fund holding both Ether futures contracts and a Spot Ethereum ETF. Related Reading: Tron’s Justin Sun Mulls Over Making A Move On FTX’s Crypto Stash, Here’s Why The fund&#8217;s sponsors believe that combining Ether Futures Contracts and Spot Ether will help mitigate the risk of market manipulation (a major concern of the SEC) and provide the market with a “regulated product” that tracks Ethereum’s price. This fund will help US investors gain exposure to Spot Ether without relying on “unregulated products, offshore regulated products, or indirect strategies such as investing in publicly traded companies that hold Ether.” In fulfillment of the requirement of having a surveillance-sharing agreement (SSA) for the proposed ETF, Nasdaq stated in the application that the Chicago Mercantile Exchange (CME) will be used to track the price of Ethereum as the CME represents a “regulated market of significant size.” Furthermore, the fund is expected to hold physical Ether. However, the sponsors do not intend to purchase these tokens from “unregulated ether spot exchanges” but from the CME Market’s Exchange for Physical (EFP) transactions. This move is similar to Hashdex’s application to combine a spot Bitcoin ETF with its existing Bitcoin futures ETF. Hashdex, in its application, stated that the CME will be used to track Spot Bitcoin’s price and that all Bitcoin purchases will be from the CME’s EFP. ETH kicks off Wednesday on a volatile note &#124; Source: ETHUSD on Tradingview.com Hashdex Throwing Other Asset Managers Under The Bus? Nasdaq’s application mentions the phrase “unregulated spot exchanges” multiple times in what seems to be a direct attack on Coinbase and the applications of other asset managers. It is worth mentioning some of the other asset managers, including Ark Invest, who have filed to offer an Ethereum-related ETF, have chosen Coinbase as their custodian. As such, Hashdex labeling Coinbase as an “unregulated spot exchange” doesn’t seem right, as this could undoubtedly influence the SEC’s decision when dealing with these applications. Related Reading: Analyst Points Out Why End Of 2023 Will Not Be Great For XRP Price Furthermore, asset managers like BlackRock picking Coinbase for their SSA and custodian had already sparked controversy as many had stated that the SEC would not be so inclined to approve an application in which Coinbase is directly or indirectly involved since it has an ongoing lawsuit against the crypto exchange. While many may commend Hashdex’s “innovative approach,” there is a need to be wary of how this approach could hinder the application of others and the eventual effect on the crypto industry in general.    Featured image from iStock, chart from Tradingview.com"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-09-13T08:42:49.000Z",
-    "title": "Nasdaq files Hashdex’s Ethereum ETF application with SEC",
-    "url": "https://crypto.news/nasdaq-files-hashdexs-ethereum-etf-application-with-sec/",
-    "description": "Nasdaq filed with the SEC for a new exchange-traded product that would combine both spot and futures ETH contracts. Nasdaq has filed an application with the US Securities and Exchange Commission (SEC) to list an exchange-traded fund by Hashdex that&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-09-13T09:00:35.000Z",
-    "title": "Polygon (MATIC) and Stellar (XLM) Bullish Momentum Continues, but for How Long? Everlodge (ELDG) Presale Advances To Stage 2",
-    "url": "https://www.crypto-news-flash.com/polygon-matic-and-stellar-xlm-bullish-momentum-continues-but-for-how-long-everlodge-eldg-presale-advances-to-stage-2/?utm_source=rss&utm_medium=rss&utm_campaign=polygon-matic-and-stellar-xlm-bullish-momentum-continues-but-for-how-long-everlodge-eldg-presale-advances-to-stage-2",
-    "description": "<img width=\"512\" height=\"242\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-13T092208.522.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-13T092208.522.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-13T092208.522-300x142.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Recent tokens that have been making waves are Polygon (MATIC) and Stellar (XLM). These cryptocurrencies have experienced bullish momentum, captivating the attention of investors worldwide. In parallel, Everlodge (ELDG), a promising blockchain and real estate project, is advancing with its presale. Join the Everlodge presale and win a luxury holiday to the Maldives Polygon (MATIC): [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-09-13T08:54:16.000Z",
-    "title": "Franklin Templeton Joins BlackRock in the Bitcoin ETF Race: Combined AUM of Firms Filing for BTC Spot ETF Surpasses $16,000,000,000,000 – Can it Propel BTC Price to $150,000?",
-    "url": "https://www.crypto-news-flash.com/franklin-templeton-joins-blackrock-in-the-bitcoin-etf-race-combined-aum-of-firms-filing-for-btc-spot-etf-surpasses-16000000000000-can-it-propel-btc-price-to-150000/?utm_source=rss&utm_medium=rss&utm_campaign=franklin-templeton-joins-blackrock-in-the-bitcoin-etf-race-combined-aum-of-firms-filing-for-btc-spot-etf-surpasses-16000000000000-can-it-propel-btc-price-to-150000",
-    "description": "<img width=\"1280\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280-300x187.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280-1024x639.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280-768x479.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/bitcoin-g230209c37_1280-163x102.png 163w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Franklin Templeton becomes the latest entrant in the Bitcoin ETF race, joining major players such as BlackRock, Fidelity, and Invesco. With the combined AUM of these firms surpassing $16 trillion, there is increased speculation on Bitcoin&#8217;s potential price surge to $150,000. Franklin Templeton has announced its entry into the rapidly growing Bitcoin ETF market, joining [...]"
+    "source": "The Daily Hodl",
+    "date": "2023-09-13T09:15:17.000Z",
+    "title": "Dogecoin (DOGE), Tron (TRX) and Polygon (MATIC) Could Get Rocked if FTX Liquidates Holdings: Analytics Firm",
+    "url": "https://dailyhodl.com/2023/09/13/dogecoin-doge-tron-trx-and-polygon-matic-could-get-rocked-if-ftx-liquidates-holdings-analytics-firm/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/doge-trx-matic.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Three altcoins could suffer price dips due to upcoming FTX liquidations, according to the crypto analytics firm Messari. Messari notes that FTX and Alameda hold $37 million worth of top meme asset Dogecoin (DOGE), $33 million worth of blockchain-based operating system Tron (TRX) and $22 million worth of the scaling solution Polygon (MATIC). &#8220;The relevant [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/13/dogecoin-doge-tron-trx-and-polygon-matic-could-get-rocked-if-ftx-liquidates-holdings-analytics-firm/\">Dogecoin (DOGE), Tron (TRX) and Polygon (MATIC) Could Get Rocked if FTX Liquidates Holdings: Analytics Firm</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

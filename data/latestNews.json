@@ -1,65 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-09-15T12:31:30.000Z",
+    "title": "BitGo, Swan to Form Bitcoin-Only Trust Company",
+    "url": "https://www.coindesk.com/business/2023/09/15/bitgo-swan-to-form-bitcoin-only-trust-company/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "\"It's important to us to build a custodian without the risks of securing many altcoins within the same trust company as bitcoin,\" Cory Klippsten, CEO of Swan, said."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-09-15T12:22:32.000Z",
+    "title": "First Mover Americas: Altcoins Lead Gains and Deutsche Bank to Explore Tokenization ",
+    "url": "https://www.coindesk.com/markets/2023/09/15/first-mover-americas-altcoins-lead-gains-and-deutsche-bank-to-explore-tokenization/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Sept. 15, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-09-15T12:13:32.000Z",
+    "title": "Bitcoin Miner F2Pool Returns 19.8 BTC to Paxos After Overpaid Fee",
+    "url": "https://www.coindesk.com/business/2023/09/15/bitcoin-miner-f2pool-returns-198-btc-to-paxos-after-overpaid-fee/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Paxos paid $520,000 for a $2,000 bitcoin transaction earlier this week."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-09-15T11:44:32.000Z",
-    "title": "Celsius Exec Pleads Guilty, Agrees to Cooperate in Case Against CEO",
-    "url": "https://decrypt.co/197292/celsius-exec-pleads-guilty-agrees-to-cooperate-in-case-against-ceo",
-    "description": "Former chief revenue officer Roni Cohen-Pavon reached an agreement with the U.S. Attorney’s office along with his guilty plea."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-09-15T11:53:23.000Z",
-    "title": "Polygon 2.0 Roadmap: MATIC Token Migration Scheduled For Q4",
-    "url": "https://cryptodaily.co.uk/2023/09/polygon-20-roadmap-matic-token-migration-scheduled-for-q4",
-    "description": "The Polygon network has published its roadmap for the upcoming Polygon 2.0, which includes migration from MATIC to POL token and the staking layer deployment."
+    "date": "2023-09-15T12:25:11.000Z",
+    "title": "Sam Bankman-Fried: 'There’s Nothing I Can do to Make my Lifetime Impact Net Positive'",
+    "url": "https://decrypt.co/197291/sam-bankman-fried-theres-nothing-i-can-do-to-make-my-lifetime-impact-net-positive",
+    "description": "In 250 pages of leaked writings about the collapse of FTX, its co-founder Sam Bankman-Fried laments that he feels \"broke\" and \"hated.\""
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-15T11:55:55.000Z",
-    "title": "The future of the crypto world: decentralized Stablecoins",
-    "url": "https://www.cryptopolitan.com/decentralized-stablecoin-future-crypto-world/",
-    "description": "The rapid growth of the cryptocurrency market has given rise to a plethora of coins and tokens, but it&#8217;s the stablecoins that are capturing significant attention. As the name suggests, stablecoins are designed to have a stable value, often pegged to traditional currencies or assets. Rune Christensen, the co-founder of MakerDAO, one of the most ... <a title=\"The future of the crypto world: decentralized Stablecoins\" class=\"read-more\" href=\"https://www.cryptopolitan.com/decentralized-stablecoin-future-crypto-world/\" aria-label=\"More on The future of the crypto world: decentralized Stablecoins\">Read more</a>"
+    "date": "2023-09-15T12:36:09.000Z",
+    "title": "Harnessing AI and Sustainability in Libraries Through the Sharjah Prize for Library Literature Forum",
+    "url": "https://www.cryptopolitan.com/harnessing-ai-in-libraries-through-sharjah/",
+    "description": "The Sharjah Prize for Library Literature Forum, organized by Sharjah Public Library (SPL), recently concluded its twenty-third edition, emphasizing the pivotal role of libraries and knowledge institutions in the digital age. The forum, themed &#8216;Teaching, Learning, and Libraries: Strategies for Integration, Empowerment, and Exemplary Practices,&#8217; brought together academics, researchers, and library enthusiasts from across the ... <a title=\"Harnessing AI and Sustainability in Libraries Through the Sharjah Prize for Library Literature Forum\" class=\"read-more\" href=\"https://www.cryptopolitan.com/harnessing-ai-in-libraries-through-sharjah/\" aria-label=\"More on Harnessing AI and Sustainability in Libraries Through the Sharjah Prize for Library Literature Forum\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-09-15T11:54:54.000Z",
-    "title": "Top 10 Football Managers of All Time: AI-Generated Ranking Revealed",
-    "url": "https://www.cryptopolitan.com/top-football-managers-ai-generated-ranking/",
-    "description": "In the world of football, the debate over the greatest managers of all time is never-ending. Fans, pundits, and experts often have different opinions, but now, artificial intelligence has weighed in with its own ranking. While not everyone may agree with the choices, the AI-generated list sheds light on some of the most iconic figures ... <a title=\"Top 10 Football Managers of All Time: AI-Generated Ranking Revealed\" class=\"read-more\" href=\"https://www.cryptopolitan.com/top-football-managers-ai-generated-ranking/\" aria-label=\"More on Top 10 Football Managers of All Time: AI-Generated Ranking Revealed\">Read more</a>"
+    "date": "2023-09-15T12:13:20.000Z",
+    "title": "British Judge Admits Using ‘Jolly Useful’ ChatGPT to Write Ruling",
+    "url": "https://www.cryptopolitan.com/british-judge-using-chatgpt-to-write-ruling/",
+    "description": "In a surprising revelation, Lord Justice Birss, a Court of Appeal judge in the United Kingdom, has openly admitted to employing ChatGPT, an AI chatbot, to draft part of a case ruling. While Lord Justice Birss praised the tool&#8217;s efficiency, he also emphasized the importance of not relying on AI for subjects one is unfamiliar ... <a title=\"British Judge Admits Using &#8216;Jolly Useful&#8217; ChatGPT to Write Ruling\" class=\"read-more\" href=\"https://www.cryptopolitan.com/british-judge-using-chatgpt-to-write-ruling/\" aria-label=\"More on British Judge Admits Using &#8216;Jolly Useful&#8217; ChatGPT to Write Ruling\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-09-15T12:05:38.000Z",
-    "title": "Metaverse land sales update a year-low at $4.1m",
-    "url": "https://crypto.news/metaverse-land-sales-update-a-year-low-at-4-1m/",
-    "description": "DappRadar analysts say the industry and observers need to internalize the evolving utility of metaverses. Blockchain-based virtual worlds are struggling to weather the storm as on-chain data indicate a continued trade decline. According to a monthly overview report by DappRadar,&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-09-15T11:53:44.000Z",
-    "title": "Remitano allegedly hacked over $2.7 million",
-    "url": "https://crypto.news/remitano-allegedly-hacked-over-2-7-million/",
-    "description": "Remitano, a Seychelles-based cryptocurrency exchange platform, experienced suspicious transactions on Sept. 14. The platform experienced large withdrawals under suspicious circumstances, with over $2.7 million worth of crypto being drained from its wallet by a single account. Tether has frozen one&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-09-15T11:47:21.000Z",
-    "title": "Binance US loses head of legal and chief risk officer",
-    "url": "https://crypto.news/binance-us-loses-head-of-legal-and-chief-risk-officer/",
-    "description": "The head of legal, Krishna Juvvadi, and chief risk officer, Sidney Majalya, are leaving Binance US following the recent news on layoffs. According to the Wall Street Journal, the departure of both executives follows the recent exit of its former&#8230;"
+    "date": "2023-09-15T12:11:42.000Z",
+    "title": "BNB and Uniswap fall, investors considering Pomerdoge",
+    "url": "https://crypto.news/bnb-and-uniswap-fall-investors-considering-pomerdoge/",
+    "description": "Pomerdoge is rising in the ongoing presale while Binance Coin and Uniswap are falling"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-09-15T11:54:31.000Z",
-    "title": "Unlocking Ripple’s $10,000 Dream: Pundit’s Currency Reset Theory",
-    "url": "https://www.crypto-news-flash.com/unlocking-ripples-10000-dream-pundits-currency-reset-theory/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-ripples-10000-dream-pundits-currency-reset-theory",
-    "description": "<img width=\"1080\" height=\"608\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Currency Reset and Debt Restructuring\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP.jpg 1080w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/XRP-48x27.jpg 48w\" sizes=\"(max-width: 1080px) 100vw, 1080px\" />Cryptocurrency enthusiasts are engaged in heated debates about XRP&#8217;s future price due to discussions about Currency Reset and Debt Restructuring.  Zach Rector believes XRP could reach $50, while MohFit&#8217;s more optimistic scenario suggests a potential $10,000 price tag. Cryptocurrency enthusiasts and investors find themselves in a whirlwind of speculations as they grapple with diverse opinions [...]"
+    "date": "2023-09-15T12:30:54.000Z",
+    "title": "2023’s Crucial Cryptos: VC Spectra (SPCT), Dogecoin (DOGE), and Maker (MKR) Set the Stage for Phenomenal Gains!",
+    "url": "https://www.crypto-news-flash.com/2023s-crucial-cryptos-vc-spectra-spct-dogecoin-doge-and-maker-mkr-set-the-stage-for-phenomenal-gains/?utm_source=rss&utm_medium=rss&utm_campaign=2023s-crucial-cryptos-vc-spectra-spct-dogecoin-doge-and-maker-mkr-set-the-stage-for-phenomenal-gains",
+    "description": "<img width=\"512\" height=\"301\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-82.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-82.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-82-300x176.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />With a few months remaining in 2023, should you buy Dogecoin (DOGE), Maker (MKR), or VC Spectra (SPCT)? While the lesser-known of the three, VC Spectra (SPCT) is on course for phenomenal gains this year. This crypto-based hedge fund is slowly making a name in top DeFi projects like Maker (MKR) in a fast-selling presale. [...]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-09-15T11:45:39.000Z",
-    "title": "Bitcoin Primed To Surge Over 70% in 2015-Style Price Jump, Says Michaël van de Poppe – Here’s the Timeline",
-    "url": "https://dailyhodl.com/2023/09/15/bitcoin-primed-to-surge-over-70-in-2015-style-price-jump-says-michael-van-de-poppe-heres-the-timeline/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg 1392w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Bitcoin-Primed-65-Surge.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst Michaël van de Poppe says that Bitcoin (BTC) could shoot up over 70% in a move similar to 2015. Van de Poppe tells his 162,000 YouTube subscribers that Bitcoin may be repeating a pattern in 2015 when Bitcoin remained in a sustained trading range before a big upside move ahead of the 2016 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/09/15/bitcoin-primed-to-surge-over-70-in-2015-style-price-jump-says-michael-van-de-poppe-heres-the-timeline/\">Bitcoin Primed To Surge Over 70% in 2015-Style Price Jump, Says Michaël van de Poppe – Here’s the Timeline</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-09-15T12:11:11.000Z",
+    "title": "Stellar (XLM) Shines in Crisis Response: Solutions Beyond Borders For The $650B Remittance Market",
+    "url": "https://www.crypto-news-flash.com/stellar-xlm-shines-in-crisis-response-solutions-beyond-borders-for-the-650b-remittance-market/?utm_source=rss&utm_medium=rss&utm_campaign=stellar-xlm-shines-in-crisis-response-solutions-beyond-borders-for-the-650b-remittance-market",
+    "description": "<img width=\"2560\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stellar\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-48x27.jpg 48w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Stellar Lumens is offering a solution with aid delivery worldwide for those faced with various forms of crisis. Through Stellar Aid Assist, the project is able to disburse financial aid, in a timely, transparent, easy, and affordable way across the globe.  The Stellar Foundation is taking a keen focus in humanitarian efforts. The nonprofit organization [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-09-15T12:15:00.000Z",
+    "title": "Crypto Regulator Peter Motor Resigns, NYDFS Searches for the Next Chief",
+    "url": "https://coinedition.com/crypto-regulator-peter-motor-resigns-nydfs-searches-for-the-next-chief/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Crypto Regulator Peter Motor Resigns, NYDFS Searches for the Next Chief\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief.png 730w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-311x175.png 311w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-124x70.png 124w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/09/Crypto-Regulator-Peter-Motor-Resigns-NYDFS-Searches-for-the-Next-Chief-129x73.png 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Peter Marton, Deputy Superintendent of Virtual Currency at NYSDFS, is set to depart on September 29. Marton will leave his post to pursue private sector opportunities, according to superintendent Adrienne Harris. NYDFS starts global search for his replacement, praises Marton&#8217;s team. One of the leading figures in cryptocurrency regulation, Peter Marton, is set to depart [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-regulator-peter-motor-resigns-nydfs-searches-for-the-next-chief/\">Crypto Regulator Peter Motor Resigns, NYDFS Searches for the Next Chief</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

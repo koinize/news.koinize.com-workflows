@@ -1,9 +1,65 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-09-27T03:30:00.000Z",
+    "title": "The Government Shutting Down Isn't Great for Crypto",
+    "url": "https://www.coindesk.com/policy/2023/09/27/the-government-shutting-down-isnt-great-for-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "An impending government shutdown is probably Not Good News for crypto's D.C. hopes. On a trial-related note, you received preview copies of The SBF Trial, a newsletter we launched last week to keep readers up to speed on Sam Bankman-Fried’s time in court. The trial kicks off next Tuesday."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-09-27T03:30:18.000Z",
+    "title": "Central Bank Digital Currency a Threat to Financial Stability — Nigerian Central Bank Study",
+    "url": "https://news.bitcoin.com/central-bank-digital-currency-a-threat-to-financial-stability-nigerian-central-bank-study/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/09/hh8899000.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Despite the role it has played in narrowing the financial inclusion gap, the e-naira central bank digital currency still poses a risk to financial stability. In addition to bolstering the financial inclusion rate, the central bank claimed that the CBDC would &#8220;widen the size and stability of banks’ deposit base.&#8221; Nigeria&#8217;s Financial Inclusion Rates According [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-09-27T02:49:31.000Z",
-    "title": "AI-Powered Learning to Revolutionize Education for the Future",
-    "url": "https://www.cryptopolitan.com/ai-powered-learning-education-future/",
-    "description": "In the ever-evolving world of education, eLearning has undergone a remarkable transformation, moving far beyond the basic online courses of the past. Today, students have access to a dynamic array of interactive multimedia content, accessible across various devices and platforms. This new eLearning environment is shaped by emerging trends, with technology playing a pivotal role. ... <a title=\"AI-Powered Learning to Revolutionize Education for the Future\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-powered-learning-education-future/\" aria-label=\"More on AI-Powered Learning to Revolutionize Education for the Future\">Read more</a>"
+    "date": "2023-09-27T03:38:03.000Z",
+    "title": "Signal CEO Meredith Whittaker Warns: AI Is a Surveillance Technology Threatening Privacy",
+    "url": "https://www.cryptopolitan.com/ai-is-a-surveillance-technology-privacy/",
+    "description": "In a candid interview with TechCrunch&#8217;s Devin Coldewey, Signal CEO Meredith Whittaker has articulated her grave concerns about the intersection of artificial intelligence (AI) and privacy. She vehemently asserts that AI is fundamentally intertwined with the surveillance business model and is poised to exacerbate the privacy challenges that have been unfolding since the late 1990s, ... <a title=\"Signal CEO Meredith Whittaker Warns: AI Is a Surveillance Technology Threatening Privacy\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-is-a-surveillance-technology-privacy/\" aria-label=\"More on Signal CEO Meredith Whittaker Warns: AI Is a Surveillance Technology Threatening Privacy\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-27T03:36:18.000Z",
+    "title": "Binance and Zhao could soon face criminal charges and hefty fees from US DOJ",
+    "url": "https://www.cryptopolitan.com/doj-could-bring-criminal-charges-to-binance/",
+    "description": "The U.S. Department of Justice has reportedly been investigating Binance and its CEO, Zhao, which may lead to potential criminal charges and substantial fines, individuals with knowledge of the matter reported. Additionally, Binance is contending with a lawsuit from the Securities and Exchange Commission (SEC), alleging unlawful operations in the US and mishandling of customer ... <a title=\"Binance and Zhao could soon face criminal charges and hefty fees from US DOJ\" class=\"read-more\" href=\"https://www.cryptopolitan.com/doj-could-bring-criminal-charges-to-binance/\" aria-label=\"More on Binance and Zhao could soon face criminal charges and hefty fees from US DOJ\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-27T03:30:07.000Z",
+    "title": "How Will Amazon’s Massive AI Investment Impact the Cloud Market?",
+    "url": "https://www.cryptopolitan.com/how-will-amazons-ai-investment-cloud-market/",
+    "description": "In a game-changing move aimed at solidifying its dominance in the public cloud market, Amazon Web Services (AWS) has announced a substantial $4 billion investment in the AI lab Anthropic. The collaboration between Amazon and Anthropic, maker of the Claude chatbot, marks a strategic partnership that combines Anthropic&#8217;s advanced AI models with AWS&#8217;s secure and ... <a title=\"How Will Amazon&#8217;s Massive AI Investment Impact the Cloud Market?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/how-will-amazons-ai-investment-cloud-market/\" aria-label=\"More on How Will Amazon&#8217;s Massive AI Investment Impact the Cloud Market?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-27T03:29:30.000Z",
+    "title": "How powerful is AI automated trading? ATPBot supercomputer and massive strategies will show you",
+    "url": "https://www.cryptopolitan.com/how-powerful-is-ai-automated-trading-atpbot-supercomputer-and-massive-strategies-will-show-you/",
+    "description": "Recently, ATPBot announced its support for Binance and Kraken users to implement AI automated trading through API. As an advanced intelligent AI quantitative trading strategy development and service platform, ATPBot has launched one of the most powerful AI automatic trading bots on the market. Leveraging cutting-edge supercomputers and artificial intelligence algorithms, it provides investors with ... <a title=\"How powerful is AI automated trading? ATPBot supercomputer and massive strategies will show you\" class=\"read-more\" href=\"https://www.cryptopolitan.com/how-powerful-is-ai-automated-trading-atpbot-supercomputer-and-massive-strategies-will-show-you/\" aria-label=\"More on How powerful is AI automated trading? ATPBot supercomputer and massive strategies will show you\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-09-27T03:16:07.000Z",
+    "title": "Top Online Crypto Casinos in the USA: Fusion of Advanced Crypto Features and High Stakes Games",
+    "url": "https://www.cryptopolitan.com/top-online-crypto-casinos-in-the-usa-games/",
+    "description": "Originally conceived as a decentralized form of digital currency, cryptocurrencies have expanded their realm of influence, one of the most notable being the online gambling industry. The unique properties of cryptocurrencies—security, anonymity, and transparency—align seamlessly with the demands of digital gaming platforms. Cryptocurrencies offer online casinos an alternative to traditional payment systems, providing advantages that ... <a title=\"Top Online Crypto Casinos in the USA: Fusion of Advanced Crypto Features and High Stakes Games\" class=\"read-more\" href=\"https://www.cryptopolitan.com/top-online-crypto-casinos-in-the-usa-games/\" aria-label=\"More on Top Online Crypto Casinos in the USA: Fusion of Advanced Crypto Features and High Stakes Games\">Read more</a>"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-09-27T03:21:51.000Z",
+    "title": "Bitcoin Price Could See Recovery If It Holds This Key Support",
+    "url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-recovery-26k/",
+    "description": "Bitcoin price is consolidating above the $26,000 support. BTC could start a recovery wave if it clears the $26,500 resistance zone in the near term. Bitcoin is still consolidating above the $26,000 support zone. The price is trading below $26,400 and the 100 hourly Simple moving average. There is a major bearish trend line forming with resistance near $26,300 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could start a decent recovery wave unless there is a clear move below $26,000. Bitcoin Price Eyes Recovery Bitcoin price remained stable above the $26,000 support zone. BTC seems to be forming a short-term support base above the $26,000 level and is currently consolidating. Recently, the price made a recovery wave attempt above the $26,200 level. However, the bears remained active below the $26,500 level. They rejected the 50% Fib retracement level of the downward move from the $26,712 swing high to the $26,026 low. Bitcoin is now trading below $26,400 and the 100 hourly Simple moving average. Immediate resistance on the upside is near the $26,300 level. There is also a major bearish trend line forming with resistance near $26,300 on the hourly chart of the BTC/USD pair. The next key resistance could be near the $26,350 level or the 100 hourly Simple moving average, above which the price could revisit the $26,500 resistance or the 76.4% Fib retracement level of the downward move from the $26,712 swing high to the $26,026 low. Source: BTCUSD on TradingView.com To start a recovery wave, the price must settle above $26,500. In the stated case, the price could climb toward the $27,000 resistance. Any more gains might call for a move toward the $27,500 level. More Losses In BTC? If Bitcoin fails to start a fresh increase above the $26,300 resistance, it could continue to move down. Immediate support on the downside is near the $26,050 level. The next major support is near the $26,000 level. A downside break and close below the $26,000 level might start another major decline. The next support sits at $25,400. Any more losses might call for a test of $25,000. Technical indicators: Hourly MACD – The MACD is now losing pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now near the 50 level. Major Support Levels – $26,050, followed by $26,000. Major Resistance Levels – $26,300, $26,500, and $27,000."
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-09-27T03:27:53.000Z",
+    "title": "Massive Update Coming to Elon Musk’s Twitter (X) – Will Dogecoin (DOGE) Become the Native Currency of the Platform?",
+    "url": "https://www.crypto-news-flash.com/massive-update-coming-to-elon-musks-twitter-x-will-dogecoin-doge-become-the-native-currency-of-the-platform/?utm_source=rss&utm_medium=rss&utm_campaign=massive-update-coming-to-elon-musks-twitter-x-will-dogecoin-doge-become-the-native-currency-of-the-platform",
+    "description": "<img width=\"823\" height=\"554\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ETH-DOGE-BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ETH-DOGE-BTC.jpg 823w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ETH-DOGE-BTC-300x202.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ETH-DOGE-BTC-104x69.jpg 104w\" sizes=\"(max-width: 823px) 100vw, 823px\" />Popular UX/UI and graphic designer at Dogecoin Foundation and the MyDoge wallet suggested the forced retirement of the home icon in place of a new one on the X platform, which Musk confirmed is in the pipeline. The background developments of the X platform into a major financial ecosystem have the Dogecoin community speculating on [...]"
   }
 ]

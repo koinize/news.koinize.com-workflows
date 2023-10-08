@@ -1,16 +1,9 @@
 [
   {
-    "source": "Bitcoin.com",
-    "date": "2023-10-08T20:30:36.000Z",
-    "title": "Social On-Chain App Stars Arena Suffers $2.9 Million Hack; Team Secures Funds to ‘Close the Gap’",
-    "url": "https://news.bitcoin.com/social-on-chain-app-stars-arena-suffers-2-9-million-hack-team-secures-funds-to-close-the-gap/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Social Onchain App Stars Arena Suffers $2.9 MIllion Hack; Team Secures Funds to &#039;Close the Gap&#039;\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2133630995.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Stars Arena, an on-chain social app built on the Avalanche blockchain, suffered a $2.9 million hack Saturday, when hackers took advantage of a vulnerability in its smart contract, draining funds. Stars Arena&#8217;s team has already announced that it has secured the funds to close the gap and will complete a full security audit on the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-08T20:12:31.000Z",
-    "title": "AI as Your BFF: The Latest Frontier in Human-Computer Interaction",
-    "url": "https://www.cryptopolitan.com/ai-as-your-bff-in-human-computer-interaction/",
-    "description": "Recently, the tech world has been buzzing with exciting developments in AI-powered chatbots and digital assistants. Companies like Amazon, Meta (formerly Facebook), and Google are ushering in a new era of AI companions that aim to bring a personal touch to human-computer interactions. These advancements signal a shift towards more naturalistic and personalized AI experiences, ... <a title=\"AI as Your BFF: The Latest Frontier in Human-Computer Interaction\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-as-your-bff-in-human-computer-interaction/\" aria-label=\"More on AI as Your BFF: The Latest Frontier in Human-Computer Interaction\">Read more</a>"
+    "source": "Decrypt",
+    "date": "2023-10-08T20:55:35.000Z",
+    "title": "Genetic Data Stolen from 23andMe in Credential Stuffing Attack",
+    "url": "https://decrypt.co/200618/23andme-genetic-data-theft-ashkenazi-jewish-chinese-ancestry",
+    "description": "The hacker accessed ancestry, profile data of millions by exploiting recycled credentials."
   }
 ]

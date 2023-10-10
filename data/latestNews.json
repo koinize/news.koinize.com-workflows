@@ -1,16 +1,23 @@
 [
   {
     "source": "Decrypt",
-    "date": "2023-10-10T00:43:29.000Z",
-    "title": "Enlisting AI in Medicine and Longevity Research Will Be a ‘Net Positive’: Microsoft VP",
-    "url": "https://decrypt.co/200814/ai-longevity-summit-medicine-healthcare-peter-lee",
-    "description": "Computer scientist Peter Lee said GPT-4 helped restore ‘family harmony’ in healthcare conversations."
+    "date": "2023-10-10T01:36:08.000Z",
+    "title": "Layer-2 Blockchains Host Most Ethereum Transactions: Messari",
+    "url": "https://decrypt.co/200820/layer-2-majority-ethereum-transactions-messari",
+    "description": "The explosive launch of Base and the virality of friend.tech are behind the latest numbers, says analyst Kunal Goel."
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-10-10T01:00:46.000Z",
-    "title": "XRP Is A Better Buy Now Than H1 2023: What’s Keeping Prices Low?",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-better-buy-now-h1-2023/",
-    "description": "Edward Farina, the founder and CEO of various crypto-focused initiatives, is confident that XRP is a better &#8220;investment&#8221; in early October than it was before July when the United States Securities and Exchange Commission (SEC) claimed that the coin was an unregistered security. In a post on October 9, Farina asserted that the coin was declared not a &#8220;security,&#8221; but was bothered by the fact that prices are at &#8220;the same level&#8221; as before the July 13 ruling.  XRP Bears Reversed July 2023 Gains XRP, the native coin of the XRP Ledger, a decentralized blockchain that recently supported smart contracts, remains one of the most liquid crypto assets. Looking at price data from CoinMarketCap (CMC), the coin is lodged at fifth in the market cap leaderboard, trailing Bitcoin (BTC), Ethereum (ETH), BNB, and USDT&#8211;the stablecoin. Related Reading: TWT Token Registers 20% Gains As Crypto Market Slumps, What’s Next? At this level, the coin is one of the most liquid and has managed to shake off bear pressure since the SEC lodged a lawsuit against some of Ripple&#8217;s top brass, including Brad Garlinghouse. In the lawsuit filed in late 2020, the agency said Ripple conducted an illegal crowdfund, raising over $1 billion by selling unregistered securities. With the allegations, XRP prices fell by 78%, crashing from around $0.77 to $0.17 in days. XRP found reprieve in 2021 when it shook off losses, rallying to as high as $1.95 despite the ongoing lawsuit where Ripple lawyers defended the company against claims put forward by the regulator. Prices fell in 2022, reversing gains before stabilizing in the better half 2023.  In July, XRP prices rose sharply, briefly reaching $0.92 before cooling off, peeling back all gains in mid-August. Prices have stabilized, but bears wiped gains from the rally induced on July 13 when a United States court ruled that XRP is not a security when sold to the general public on an exchange. Still, it is when sold to institutional investors.  In early October 2023, Judge Analisa Torres barred the SEC from appealing the decision made in July, stating that there was no &#8220;substantial ground for difference of opinion.&#8221; The trial is not set for April 2024. Prices Make Zero Sense? Following the Judge&#8217;s decision barring the agency from appealing, XRP prices have been relatively firm but at pre-July 2023 levels. Farina believes that XRP ought to be higher at spot rates, a reason why the market &#8220;makes absolute zero sense and price manipulation is real.&#8221;  Related Reading: $29,700 Could Be The Next Big Level To Claim For Bitcoin, Here’s Why Whether XRP prices are manipulated or not is not clear at spot rates. However, the broader crypto market, including Bitcoin and Ethereum, is suppressed, having cooled off from July 2023 highs. Feature image from Canva, chart from TradingView"
+    "source": "Cryptopolitan",
+    "date": "2023-10-10T01:36:37.000Z",
+    "title": "BitVM unveils a new horizon: Enabling Ethereum-like smart contracts on Bitcoin",
+    "url": "https://www.cryptopolitan.com/bitvm-ethereum-like-smart-contracts-bitcoin/",
+    "description": "In a groundbreaking revelation, Robin Linus, the project lead of ZeroSync, unveiled a white paper on October 9th, introducing BitVM &#8211; a mechanism designed to bring more expressive off-chain smart contracts to Bitcoin without necessitating a soft fork. This innovative approach, which is based on Ethereum’s optimistic rollups and recent developments in Merkle tree technology, ... <a title=\"BitVM unveils a new horizon: Enabling Ethereum-like smart contracts on Bitcoin\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitvm-ethereum-like-smart-contracts-bitcoin/\" aria-label=\"More on BitVM unveils a new horizon: Enabling Ethereum-like smart contracts on Bitcoin\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-10T01:24:04.000Z",
+    "title": "Binance innovates futures trading with the introduction of Copy Trading",
+    "url": "https://www.cryptopolitan.com/binance-futures-trading-with-copy-trading/",
+    "description": "Binance, a globally recognized cryptocurrency exchange, has unveiled a pioneering feature in select markets, specifically tailored for its futures products &#8211; Copy Trading. This groundbreaking initiative enables users to meticulously observe and emulate the trading strategies and portfolios of seasoned traders. The move not only fosters an interactive and educational environment within the trading community ... <a title=\"Binance innovates futures trading with the introduction of Copy Trading\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-futures-trading-with-copy-trading/\" aria-label=\"More on Binance innovates futures trading with the introduction of Copy Trading\">Read more</a>"
   }
 ]

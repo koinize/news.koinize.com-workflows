@@ -1,37 +1,107 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-10-11T10:25:39.000Z",
-    "title": "Bored Bitcoin Analysts Point to McRib Meme for Bullish Return",
-    "url": "https://decrypt.co/200966/bored-bitcoin-analysts-point-mcrib-meme-bullish-return",
-    "description": "The McRib is back and analysts are busy trying to pin Bitcoin and stock performances to the McDonald’s sandwich relaunch."
+    "source": "CoinDesk",
+    "date": "2023-10-11T10:47:30.000Z",
+    "title": "U.S. State Regulators Intervene in Coinbase’s Unregistered Securities Case ",
+    "url": "https://www.coindesk.com/policy/2023/10/11/us-state-regulators-intervene-in-coinbases-unregistered-securities-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Amicus briefs filed to support the SEC argue crypto is insignificant, only used for speculation, and captured by existing investor-protection rules"
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-10-11T10:12:37.000Z",
-    "title": "European regulator: DeFi comes with significant risks as well as benefits",
-    "url": "https://cointelegraph.com/news/crypto-european-regulator-de-fi-significant-risks-benefits",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/2fa92d84-f489-4b05-bca7-6a16cd69e007.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The European Securities and Markets Authority released an article on Decentralized Finance and its risks for the EU Market.</p>\n                    <p><p>The European Securities and Markets Authority (ESMA), the European Union’s markets regulator, <a href=\"https://www.esma.europa.eu/sites/default/files/2023-10/ESMA50-2085271018-3349_TRV_Article_Decentralised_Finance_in_the_EU_Developments_and_Risks.pdf\" target=\"_blank\" rel=\"noopener nofollow\">released</a> an article on Decentralized Finance (DeFi) and its risks for the EU Market on Oct. 11. </p><p>In a 22-page report, the ESMA admits the promised benefits of DeFi, such as greater financial inclusion, the development of innovative financial products, and the enhancement of financial transactions’ speed, security, and costs. </p><p>However, the paper also highlights the “significant risks” of DeFi. According to ESMA, the first one is the liquidity risk tied to the highly speculative and volatile nature of many crypto-assets. The regulator compares the 30-day volatility of Bitcoin or Ether and the Euro Stoxx 50, with the former being on average 3.6 and 4.7 times higher than the latter. </p><p>The ESMA doesn’t believe that DeFi managed to avoid the counterparty risk, even if, in theory, it should be lower or even non-existent due to smart contracts and atomicity. Yet, smart contracts are not immune to errors or flaws. </p><p><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/eu-regulations-large-ai-models\"><strong><em>EU mulls more restrictive regulations for large AI models: Report</em></strong></a></p><p>DeFi is especially vulnerable to scams and illicit activities as it lacks know-your-customer (KYC) protocols. Another important source of risk for DeFi users, as specified in the report, is the lack of an identifiable responsible party and the absence of a recourse mechanism. </p><p>But, at this point, DeFi, and crypto in general, do not represent “meaningful risks” to financial stability, the report concludes. That is because of their relatively small size and limited interconnectedness between crypto and traditional financial markets. </p><p>The ESMA pays close attention to the crypto market, releasing its <a href=\"https://cointelegraph.com/news/european-regulator-publishes-second-consultation-on-mica\">second consultative paper on Markets in Crypto-Assets (MiCA) mandates</a> on Oct. 5. In a 307-page document, the regulator suggested allowing crypto asset providers to store transaction data in “the format they consider most appropriate,” if they can convert it into a specified format should the authorities request it.</p><p><strong><em><u>Magazine: </u></em></strong><a href=\"https://cointelegraph.com/magazine/blockchain-detectives-mt-gox-collapse-birth-chainalysis/\"><strong><em>Blockchain detectives: Mt. Gox collapse saw birth of Chainalysis</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "date": "2023-10-11T10:48:51.000Z",
+    "title": "JPMorgan debuts tokenization platform TCN with BlackRock among key clients: Report",
+    "url": "https://cointelegraph.com/news/jp-morgan-debuts-tokenization-platform-tcn-blackrock-key-client-report",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/9ddefc3a-7df8-4c25-9bb7-abefb912bc78.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p> The platform enables the conversion of traditional assets into digital assets and makes way for faster and more secure settlements on-chain. </p>\n                    <p><p>American banking giant JP Morgan debuted its in-house blockchain collateralization platform called Tokenized Collateral Network (TCN) on Oct. 11, <a href=\"https://www.bloomberg.com/news/articles/2023-10-11/jpmorgan-jpm-launches-blockchain-settlement-in-blackrock-barclays-trade\" target=\"_blank\" rel=\"noopener nofollow\">reported </a>Bloomberg. TCN settled its first trade for asset management giant BlackRock.</p><p>Tokenized Collateral Network is an application that allow investors to utilize assets as collateral. Using blockchain technology they can transfer collateral ownership without moving assets in underlying ledgers.</p><p>The TCN network in its first public collateralized trade between JP Morgan and BlackRock turned shares of one money market fund into digital tokens, which were then transferred to Barclays Plc as security for an over-the-counter derivatives exchange between the two companies. </p><p>The first internal test of TCN was conducted by JPMorgan in May 2022 and has a pipeline of other clients and transactions now that TCN is live. JP Morgan’s tokenization network was launched with the aim to streamline and scale the process of settling traditional settlements on a blockchain. The use of decentralized technology made the process faster, more secure and more efficient.</p><p>According to Tyrone Lobban, head of Onyx Digital Assets at JPMorgan, the new TCN platform unlocks capital that has been locked up and allows it to be used as collateral in ongoing transactions, the technology would boost efficiency at scale. The platform makes it possible to create, transfer, and settle tokenized traditional assets. The tokenization platform allows for the movement of collateral nearly instantly as opposed to other methods used earlier.</p><p>The blockchain platform makes way for clients to access intraday liquidity through a secured repo transaction using tokenized collateral, rather than depending on expensive unsecured credit lines. External clients who agree to the blockchain trade have their own node using which they can settle the trade and access other reports.</p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/jpmorgan-chase-enters-generative-ai-race-with-indexgpt-trademark\"><strong><em>JPMorgan Chase enters generative AI race with IndexGPT trademark</em></strong></a></p><p>The American banking giant has come a long way from its early days of criticism for the decentralized world and is currently actively involved in testing and launching various blockchain and crypto-centred services amid growing demand. The bank used a <a href=\"https://cointelegraph.com/news/jpmorgan-uses-blockchain-for-24-7-dollar-transfers-with-indian-banks\">blockchain-based solution to settle trades with Indian banks</a> in June earlier this year.</p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/bitcoin-net-zero-2050-climate-change/\"><strong><em>Bitcoin is on a collision course with ‘Net Zero’ promises</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-10-11T10:45:24.000Z",
+    "title": "UK parliament report stirs concern over NFT copyright issues and fan tokens utility",
+    "url": "https://cryptoslate.com/uk-parliament-report-stirs-concern-over-nft-copyright-issues-and-fan-tokens-utility/",
+    "description": "<p>The U.K. Parliament&#8217;s Culture, Media, and Sport Committee cautioned that non-fungible tokens (NFTs) pose an elevated risk of copyright violations, while crypto fan tokens could potentially expose supporters to financial harm. Speaking on the report, the Committee&#8217;s chair, Dame Caroline Dinenage, said the &#8220;traditional regulatory regimes have failed to protect creatives and consumers caught up [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/uk-parliament-report-stirs-concern-over-nft-copyright-issues-and-fan-tokens-utility/\">UK parliament report stirs concern over NFT copyright issues and fan tokens utility</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-10-11T10:51:52.000Z",
+    "title": "Legendary investor likes Bitcoin and Gold as US economy weakens",
+    "url": "https://cryptodaily.co.uk/2023/10/legendary-investor-likes-bitcoin-and-gold-as-us-economy-weakens",
+    "description": "Paul Tudor Jones, legend in investing circles, said on Tuesday that in the midst of the alarming US fiscal position he favoured having Bitcoin and gold in his portfolio."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-11T10:17:34.000Z",
-    "title": "How are AI and Automation Revolutionizing Workflows at UK Workplaces?",
-    "url": "https://www.cryptopolitan.com/ai-and-automation-workflows-at-uk-workplaces/",
-    "description": "In a groundbreaking revelation, a recent study conducted by Dropbox unveils a transformative shift in the work habits of British knowledge workers. As the one-year anniversary of ChatGPT preview approaches, the study indicates that AI and automation are increasingly becoming integral to the daily operations of UK workers. This shift signifies not only a response ... <a title=\"How are AI and Automation Revolutionizing Workflows at UK Workplaces?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-and-automation-workflows-at-uk-workplaces/\" aria-label=\"More on How are AI and Automation Revolutionizing Workflows at UK Workplaces?\">Read more</a>"
+    "date": "2023-10-11T11:08:35.000Z",
+    "title": "Activision CEO Hints at Revival of Guitar Hero Series",
+    "url": "https://www.cryptopolitan.com/activision-ceo-hints-at-revival-of-guitar/",
+    "description": "It has been nearly a decade since the release of the last installment of the popular Guitar Hero video game series, with &#8220;Guitar Hero Live&#8221; hitting the market in 2015. However, in a recent staff meeting hosted by James Corden, renowned for his role in the film &#8220;Cats,&#8221; Activision Blizzard CEO Bobby Kotick dropped tantalizing ... <a title=\"Activision CEO Hints at Revival of Guitar Hero Series\" class=\"read-more\" href=\"https://www.cryptopolitan.com/activision-ceo-hints-at-revival-of-guitar/\" aria-label=\"More on Activision CEO Hints at Revival of Guitar Hero Series\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T11:06:03.000Z",
+    "title": "IMF: UK rates will climb again due to stubborn inflation",
+    "url": "https://www.cryptopolitan.com/uk-rates-will-climb-again-due-to-inflation/",
+    "description": "The looming specter of inflation continues to cast its shadow over the UK. Just when the nation was poised to put the cost of living crisis to rest, the International Monetary Fund (IMF) brings in a chilling forecast. Buckle up, Britain, because the Bank of England might have to crank up those interest rates yet ... <a title=\"IMF: UK rates will climb again due to stubborn inflation\" class=\"read-more\" href=\"https://www.cryptopolitan.com/uk-rates-will-climb-again-due-to-inflation/\" aria-label=\"More on IMF: UK rates will climb again due to stubborn inflation\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T10:57:06.000Z",
+    "title": "Is AI Bias a Silent Threat to Financial Stability or a Call for Ethical Evolution?",
+    "url": "https://www.cryptopolitan.com/ai-bias-a-silent-threat-financial-stability/",
+    "description": "In the ever-evolving landscape of financial technology, the rapid integration of artificial intelligence (AI) and machine learning is poised to reshape the industry. But, amidst this groundbreaking transformation, a critical concern emerges—AI Bias. As financial institutions increasingly embrace AI models, the ethical dimensions surrounding bias, fairness, and societal impact come to the forefront, posing potential ... <a title=\"Is AI Bias a Silent Threat to Financial Stability or a Call for Ethical Evolution?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-bias-a-silent-threat-financial-stability/\" aria-label=\"More on Is AI Bias a Silent Threat to Financial Stability or a Call for Ethical Evolution?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T10:53:38.000Z",
+    "title": "Global economy shows grit yet struggles on",
+    "url": "https://www.cryptopolitan.com/global-economy-shows-grit-yet-struggles-on/",
+    "description": "The global economy is one tenacious beast, continuously taking punches but refusing to stay down. From Covid to the chaos brought by Russia&#8217;s audacious invasion of Ukraine, it&#8217;s clear that our world&#8217;s economic infrastructure is battling more than its fair share of challenges. While it demonstrates a kind of resilience that&#8217;s frankly impressive, this doesn&#8217;t ... <a title=\"Global economy shows grit yet struggles on\" class=\"read-more\" href=\"https://www.cryptopolitan.com/global-economy-shows-grit-yet-struggles-on/\" aria-label=\"More on Global economy shows grit yet struggles on\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T10:50:37.000Z",
+    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
+    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
+    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s ... <a title=\"Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chainlink-price-prediction/\" aria-label=\"More on Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T10:44:38.000Z",
+    "title": "Bill Gates Foundation Allocates $30 Million to Unlock AI Benefits in Africa",
+    "url": "https://www.cryptopolitan.com/bill-gates-foundation-allocates-ai-africa/",
+    "description": "The Bill &#38; Melinda Gates Foundation on Tuesday announced a $30 million investment aimed at fostering AI innovations across different countries in Africa.&#160; Per the report, the fund was allocated to a new AI platform based in Africa. The firm is tasked with developing AI technology solutions safely, ethically and equitably.&#160; The main goal of ... <a title=\"Bill Gates Foundation Allocates $30 Million to Unlock AI Benefits in Africa\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bill-gates-foundation-allocates-ai-africa/\" aria-label=\"More on Bill Gates Foundation Allocates $30 Million to Unlock AI Benefits in Africa\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T10:43:50.000Z",
+    "title": "Here is everything Caroline Ellison said in court",
+    "url": "https://www.cryptopolitan.com/everything-caroline-ellison-said-in-court/",
+    "description": "When the spotlight in the courtroom turned to Caroline Ellison, the atmosphere thickened. As the pivotal witness in the escalating case against former cryptocurrency giant, Sam Bankman-Fried, Ellison unveiled a narrative that&#8217;s bound to shake the foundations of the once-thriving FTX empire. Caroline Ellison: From Lover to Damning Witness Caroline Ellison, previously the leading figure ... <a title=\"Here is everything Caroline Ellison said in court\" class=\"read-more\" href=\"https://www.cryptopolitan.com/everything-caroline-ellison-said-in-court/\" aria-label=\"More on Here is everything Caroline Ellison said in court\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-11T10:38:25.000Z",
-    "title": "UK parliament calls for NFT copyright protection rights",
-    "url": "https://crypto.news/uk-parliament-calls-for-nft-copyright-protection-rights/",
-    "description": "A cross-party committee of the UK Parliament has called on the government to protect the rights of artists and consumers in the NFT market. The committee members also raised concerns about fan tokens in sports, which are a type of&#8230;"
+    "date": "2023-10-11T11:08:27.000Z",
+    "title": "Centralized crypto platforms forced to freeze Arab countries’ funds",
+    "url": "https://crypto.news/centralized-crypto-platforms-forced-to-freeze-arab-countries-funds/",
+    "description": "As the conflict between Israel and Hamas escalates, the former CEO of Paxful calls on users to stay away from centralized crypto platforms. Ray Youssef, former CEO of Paxful, a peer-to-peer crypto platform, took to X to alarm users about&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-11T10:50:25.000Z",
+    "title": "State regulator joins SEC in lawsuit against Coinbase",
+    "url": "https://crypto.news/state-regulator-joins-sec-in-lawsuit-against-coinbase/",
+    "description": "The North American Securities Administrators Association (NASAA) filed a brief supporting the SEC&#8217;s lawsuit against Coinbase. The NASAA, a group of state and provincial regulators from the US, Canada, and Mexico, has joined the SEC and filed a brief supporting&#8230;"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2023-10-11T10:59:51.000Z",
+    "title": "What are the Largest Spot and Futures Bitcoin ETFs?",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/what-are-the-largest-spot-and-futures-bitcoin-etfs/",
+    "description": "<p>Bitcoin ETFs are one of the latest raves in the crypto industry. Several institutional giants have shown interest in it, and the reason isn’t far-fetched. A Bitcoin ETF would expose traditional investors to Bitcoin using mainstream investment accounts like 401ks and IRAs. However, these investors do not need to own Bitcoin, thereby minimizing their risks. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/what-are-the-largest-spot-and-futures-bitcoin-etfs/\">What are the Largest Spot and Futures Bitcoin ETFs?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-11T10:13:55.000Z",
-    "title": "Hamas Crypto Funding Sparks Controversy as Coinbase CLO Takes a Stand",
-    "url": "https://coinedition.com/hamas-crypto-funding-sparks-controversy-as-coinbase-clo-takes-a-stand/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/coinbase-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/coinbase-8.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/coinbase-8-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/coinbase-8-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/coinbase-8-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/coinbase-8-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/coinbase-8-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Following the recent escalation between Hamas and Israel, Coinbase&#8216;s Chief Legal Officer Paul Grewal condemned the idea of a fund to support the Palestinian resistance movement Hamas. Hamas launched an attack on Israel on October 7, and Grewal shared that what’s happening in Israel is “evil.” He stated, “No funds should EVER be used to [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/hamas-crypto-funding-sparks-controversy-as-coinbase-clo-takes-a-stand/\">Hamas Crypto Funding Sparks Controversy as Coinbase CLO Takes a Stand</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-10-11T10:41:47.000Z",
+    "title": "Ripple CTO Addresses Impact of AMM Amendment on XRPL Performance",
+    "url": "https://coinedition.com/ripple-cto-addresses-impact-of-amm-amendment-on-xrpl-performance/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Main Features of XRPL\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Main-Features-of-XRPL-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>David Schwartz, the Chief Technology Officer of Ripple, recently shared insights regarding the impact of the Automated Market Makers (AMM) amendment on the XRP Ledger (XRPL). Schwartz highlighted that the AMM amendment has a relatively minor influence on performance and ledger size compared to NFTs. Moreover, he emphasized that the AMM is a fundamental payment [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/ripple-cto-addresses-impact-of-amm-amendment-on-xrpl-performance/\">Ripple CTO Addresses Impact of AMM Amendment on XRPL Performance</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

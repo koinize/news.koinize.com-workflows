@@ -1,58 +1,93 @@
 [
   {
-    "source": "Crypto Briefing",
-    "date": "2023-10-11T15:10:30.000Z",
-    "title": "Ethereum to $8,000 in 2026: Standard Chartered",
-    "url": "https://cryptobriefing.com/ethereum-8000-2026-standard-chartered/?utm_source=feed&utm_medium=rss",
-    "description": "Standard Chartered report predicts Ethereum price could reach $8,000 by 2026, a 5x increase from current $1,600 price."
+    "source": "CoinDesk",
+    "date": "2023-10-11T15:45:00.000Z",
+    "title": "Stablecoins: Roman Coins or Spanish Doubloons for the Modern Era",
+    "url": "https://www.coindesk.com/markets/2023/10/11/stablecoins-roman-coins-or-spanish-doubloons-for-the-modern-era/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Borderless by design, these modern digital tokens can make cross-border commerce much cheaper and easier."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-10-11T15:45:00.000Z",
+    "title": "The Blockchain-Based Solution Poised to Improve Our Financial Lives",
+    "url": "https://www.coindesk.com/business/2023/10/11/the-blockchain-based-solution-poised-to-improve-our-financial-lives/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Tokenization grabs headlines, but digital wallets hold tremendous promise, too."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-10-11T16:00:00.000Z",
+    "title": "Mark to market accounting meets crypto: New FASB changes",
+    "url": "https://cointelegraph.com/innovation-circle/mark-to-market-accounting-meets-crypto-new-fasb-changes",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/63b9c1ff-d116-4b6e-9c15-8f4678095da8.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The volatility of Bitcoin and other cryptos is really more a function of who is buying and selling these assets. </p>\n                    <p><p>In early September 2023, the US Financial Accounting Standards Board (FASB) finally <a href=\"https://news.bloombergtax.com/financial-accounting/long-awaited-bitcoin-accounting-rules-to-capture-rises-dips\">approved</a> the commonly accepted accounting practice of mark to market accounting to apply to corporations and businesses holding crypto digital assets.</p> <p>Previously, companies like Microstrategy and Tesla needed to file crypto digital assets as intangible assets like goodwill and Intellectual Property (IP). If the value of these intangibles went down, they needed to declare a loss. However, if the value of the intangible went up, these companies were not allowed to declare a gain of asset values. </p> <p>Michael Saylor of Microstrategy, perhaps the most visible Bitcoin bull who has accumulated a lot of Bitcoin for his company, pushed the FASB to make the move. Every time the Bitcoin spot price took a dive during reporting season, Microstrategy had to declare a loss. However, when the spot price rose during reporting season, they could not declare the higher asset price. Saylor felt it was unfair that the negative downside needed to show up in the balance sheet, but not the positive upside. </p> <p>The new FASB rule puts crypto in a separate digital asset category, where the gain or loss based on the acquisition price, would be declared in a mark to market fashion. Although the rule formally takes effect in 2025, companies that choose to adopt it earlier may do so.</p> <p>This accounting rule change has massive consequences for Bitcoin and crypto adoption into the corporate treasury world. Previously, management and CEOs felt that acquiring digital assets would penalize their quarterly performance. With this change, corporate finance managers can determine the adequate portfolio allocation based on the upside potential (alpha) and volatility (beta) of the digital asset. </p> <p>The FASB announcement seems timed with the impending SEC approval of a Bitcoin (or even Ethereum) spot ETF, the world of digital assets will no longer be the market that started with crypto punks and adventurous individuals. A spot Bitcoin ETF will give the corporate holder the protections of the law that the SEC provides. Prior to any approval, the SEC asked all proponents to ensure that the entity selling the ETF (like Blackrock or Fidelity) will be separate from the custodian (like Coinbase), and trade monitor (like the Chicago Mercantile or the NASDAQ).</p> <p>Recently, Grayscale <a href=\"https://www.winston.com/en/blogs-and-podcasts/non-fungible-insights-blockchain-decrypted/appeals-court-reverses-the-secs-rejection-of-grayscales-spot-bitcoin-etf-proposal\">won</a> a DC Court of Appeals decision against the SEC. The three judge court said that since the SEC had approved a futures ETF, there was no reason why it could not approve a spot ETF which was correlated in most cases to the futures price anyway.</p> <p>Once corporations, family offices, sovereign wealth, hedge funds and other institutional clients adopt Bitcoin and crypto, the high price volatility may go away because these entities are not prone to sudden selling. Also their tranches of orders will not be in the tens or hundreds of dollars that finicky retail investors do, but in the millions and billions.</p> <p>The volatility of Bitcoin and other cryptos is really more a function of who is buying and selling these assets. Right now, most holders on the market are retail traders and speculators. With the advent of institutional buyers, it is expected that the volatility could dampen somewhat because these larger parties do not really go in and out of the market that quickly.</p> <p>Once a spot Bitcoin ETF gives these institutions the protections that the SEC provides to investors, coupled with this accounting change, the market cap and usage of these digital assets could grow substantially over the next few years.</p> <p><em>The information provided here is not investment, tax or financial advice. You should consult with a licensed professional for advice concerning your specific situation.</em></p> <p><em><a href=\"http://www.zain-ventures.com/\">Zain Jaffer</a> is the CEO of Zain Ventures focused on investments in Web3 and real estate.</em></p> <div class=\"wp-block-columns\"> <div class=\"wp-block-column\" style=\"flex-basis:100%\"> <hr class=\"wp-block-separator\" /> </div> </div> <p><em>This article was published through Cointelegraph Innovation Circle, a vetted organization of senior executives and experts in the blockchain technology industry who are building the future through the power of connections, collaboration and thought leadership. Opinions expressed do not necessarily reflect those of Cointelegraph.</em></p> <p></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-10-11T15:43:45.000Z",
+    "title": "Caroline Ellison provided 7 ‘alternative’ balance sheets hiding Alameda’s exposure to FTX",
+    "url": "https://cointelegraph.com/news/caroline-ellison-alternative-balance-sheets-alameda-exposure-ftx",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/f970255a-a2eb-4fac-b871-2c14cb6c0cc8.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The former CEO testified that she had provided SBF seven options for spreadsheets with misleading information on Alameda’s financials to present to Genesis lenders.</p>\n                    <p><p>Testifying on the sixth day of Sam “SBF” Bankman-Fried’s criminal trial in New York, former Alameda Research CEO <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/sam-bankman-fried-and-caroline-ellison\">Caroline Ellison</a> admitted to providing fudged numbers for review by Genesis.</p><p>According to reports from the courtroom on Oct. 11, Ellison <a href=\"https://twitter.com/innercitypress/status/1712100664841539775\" target=\"_blank\" rel=\"noopener nofollow\">claimed</a> Bankman-Fried directed her to create “alternative” balance sheets on Alameda’s use of crypto exchange FTX’s funds. She reportedly testified that she had provided seven spreadsheets, one of which SBF presented to Genesis. The document did not reveal that Alameda had borrowed $10 billion from FTX.</p><p>“Sam said, ‘Don’t send the balance sheet to Genesis,’” said Ellison, according to reports. “We were borrowing $10 billion from FTX, and we had $5 billion in loans to our own executives and affiliated entities. We thought Genesis might share the info.”</p><p>Ellison returned to the witness stand at SBF’s trial after first appearing in the courtroom on Oct. 10. In contrast to her earlier testimony, prosecutors questioned the former Alameda CEO about her feelings surrounding her deception about the firm’s financials:</p><blockquote>“I was worrying about customer withdrawals from FTX, this getting out, people to be hurt [...] I didn’t feel good. If people found out [about Alameda using FTX funds], they would all try to withdraw from FTX.”</blockquote><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The long awaited courtroom sketch of Caroline Ellison testifying against SBF at his trial.<br><br>Hell hath no fury like a woman scorned. <a href=\"https://t.co/37RZk9yt3j\">pic.twitter.com/37RZk9yt3j</a></p>&mdash; Ariel Givner, Esq. (@GivnerAriel) <a href=\"https://twitter.com/GivnerAriel/status/1711853549359931462?ref_src=twsrc%5Etfw\">October 10, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n<p>The former CEO answered in the affirmative when prosecutors asked her if she considered her actions to be “dishonest” and “wrong.” Ellison has largely <a href=\"https://cointelegraph.com/news/caroline-ellison-testifies-sam-bankman-fried-trial\">placed the blame</a> leading to the events surrounding the collapse of FTX on SBF due to his alleged direction surrounding the misuse of customer funds, while defense lawyers seem to be framing the former Alameda CEO as the instigator.</p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/sam-bankman-fried-us-president-says-caroline-ellison\"><strong><em>Sam Bankman-Fried aspired to become US president, says Caroline Ellison</em></strong></a></p><p>Ellison is expected to be a star witness for the prosecution in SBF’s trial <a href=\"https://cointelegraph.com/news/alameda-account-ftx-special-privileges-gary-wang\">following testimony from FTX co-founder</a> and former chief technology officer Gary Wang. Former FTX engineering director Nishad Singh has not taken the stand but was named as a potential witness as part of an agreement with the United States Justice Department.</p><p>Prosecutors for Bankman-Fried’s criminal trial said they expected to rest their case on Oct. 26 or Oct. 27, following which the defense lawyers will start calling witnesses. SBF has pleaded not guilty to seven criminal counts related to fraud at FTX, as well as five charges he will face in a March 2024 trial.</p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/can-you-trust-crypto-exchanges-after-the-collapse-of-ftx/\"><strong><em>Can you trust crypto exchanges after the collapse of FTX?</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-10-11T15:53:07.000Z",
+    "title": "Ripple SVP Eric van Miltenburg on Singapore Expansion, U.S. Regulation, and Blockchain Education",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/ripple-svp-eric-van-miltenburg-on-singapore-expansion-u-s-regulation-and-blockchain-education/",
+    "description": "On 10 October 2023, Eric van Miltenburg, the Senior Vice President of Strategic Initiatives at Ripple, appeared on CoinDesk TV to discuss a range of topics, including Ripple’s recent license acquisition in Singapore, the state of U.S. crypto regulations, and the future of blockchain research. Singapore as a Crypto Hub Van Miltenburg highlighted that Ripple […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-10-11T15:17:21.000Z",
-    "title": "The Open Network (TON) to Attempt World Record for the Fastest Blockchain",
-    "url": "https://cryptodaily.co.uk/2023/10/the-open-network-ton-to-attempt-world-record-for-the-fastest-blockchain",
-    "description": "The Open Network (TON) to Attempt World Record for the Fastest Blockchain"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-10-11T15:30:12.000Z",
-    "title": "Biggest Movers: DOGE Higher on Wednesday, After Falling to Recent 7-Week Low",
-    "url": "https://news.bitcoin.com/biggest-movers-doge-higher-on-wednesday-after-falling-to-recent-7-week-low/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"DOGE Higher on Wednesday, After Falling to a Recent 7-Week Low\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1966499524.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Dogecoin was marginally higher on Wednesday, after moving back above a recent support point during today’s session. The meme coin fell to a seven-week low on Monday, however bulls have moved to buy the dip. Toncoin was another token to rise, reentering the $2.00 region in the process. Dogecoin (DOGE) Dogecoin (DOGE) climbed back above [&#8230;]"
+    "date": "2023-10-11T15:53:56.000Z",
+    "title": "SANDBOX GROUP Announces Move Into Web3 Through Partnership With XDB Chain",
+    "url": "https://cryptodaily.co.uk/2023/10/sandbox-group-announces-move-into-web3-through-partnership-with-xdb-chain",
+    "description": "SANDBOX GROUP Announces Move Into Web3 Through Partnership With XDB Chain"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-11T15:28:02.000Z",
-    "title": "Soccerment Joins Forces with Inter Milan’s Federico Dimarco to Usher in the AI Era of Football",
-    "url": "https://www.cryptopolitan.com/soccerment-to-usher-the-ai-era-of-football/",
-    "description": "Artificial intelligence and smart wearable technology are set to make waves in the football universe, as Soccerment and Federico Dimarco kick-start a revolutionary partnership. Redefining football with Artificial Intelligence Artificial Intelligence (AI) company, Soccerment, has embarked on a groundbreaking three-year partnership with European giants Inter Milan and the club&#8217;s star, Federico Dimarco. Their shared vision? ... <a title=\"Soccerment Joins Forces with Inter Milan’s Federico Dimarco to Usher in the AI Era of Football\" class=\"read-more\" href=\"https://www.cryptopolitan.com/soccerment-to-usher-the-ai-era-of-football/\" aria-label=\"More on Soccerment Joins Forces with Inter Milan’s Federico Dimarco to Usher in the AI Era of Football\">Read more</a>"
+    "date": "2023-10-11T16:02:02.000Z",
+    "title": "Unlocking the Potential of AI-Human Collaboration in the Modern Workplace",
+    "url": "https://www.cryptopolitan.com/unlocking-potential-ai-human-collaboration/",
+    "description": "In discussions surrounding artificial intelligence (AI), there has often been a shade of apprehension, painting AI as a rival to human workers and their job security. However, such assumptions tend to overlook the historical relationship between people and technology. Throughout history, new technologies, whether it was the automobile, the integrated circuit, or the cell phone, ... <a title=\"Unlocking the Potential of AI-Human Collaboration in the Modern Workplace\" class=\"read-more\" href=\"https://www.cryptopolitan.com/unlocking-potential-ai-human-collaboration/\" aria-label=\"More on Unlocking the Potential of AI-Human Collaboration in the Modern Workplace\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-11T15:17:31.000Z",
-    "title": "The Open Network (TON) to Attempt World Record for the Fastest Blockchain",
-    "url": "https://www.cryptopolitan.com/the-open-network-ton-to-attempt-world-record-for-the-fastest-blockchain/",
-    "description": "Zug, Switzerland, October 11th, 2023, Chainwire Today, The Open Network Foundation (TON Foundation) announces their upcoming attempt to officially be named the world’s fastest blockchain, accredited by Guinness World Records. The public network performance test, which is scheduled for October 31, 2023, at 15:00 UTC, will demonstrate the reliability, scalability, and speed of The Open Network ... <a title=\"The Open Network (TON) to Attempt World Record for the Fastest Blockchain\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-open-network-ton-to-attempt-world-record-for-the-fastest-blockchain/\" aria-label=\"More on The Open Network (TON) to Attempt World Record for the Fastest Blockchain\">Read more</a>"
+    "date": "2023-10-11T15:55:19.000Z",
+    "title": "Bitcoin Lightning Network records massive growth in two years",
+    "url": "https://www.cryptopolitan.com/bitcoin-lightning-network-growth-in-two-year/",
+    "description": "Bitcoin’s Lightning Network, a layer-2 scaling solution, has seen remarkable growth, as reported by Bitcoin financial services company River Financial. One of the most impressive statistics is the surge in routed transactions, which skyrocketed from 503,115 in August 2021 to 6,599,553 in August 2023, representing an astonishing 1,212% growth. Routed transactions involve more than two ... <a title=\"Bitcoin Lightning Network records massive growth in two years\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-lightning-network-growth-in-two-year/\" aria-label=\"More on Bitcoin Lightning Network records massive growth in two years\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T15:55:16.000Z",
+    "title": "Defra Considers Remote Veterinary Inspections for AI Movement Licensing",
+    "url": "https://www.cryptopolitan.com/defra-consider-remote-veterinary-inspections/",
+    "description": "In a bold move to modernize its practices, Defra is mulling over the possibility of allowing remote veterinary inspections for Avian Influenza (AI) movement licenses. The need for change With the increase in poultry movement, especially in areas identified as Avian Influenza Prevention or Surveillance Zones, the need for appropriate licensing by the Animal and ... <a title=\"Defra Considers Remote Veterinary Inspections for AI Movement Licensing\" class=\"read-more\" href=\"https://www.cryptopolitan.com/defra-consider-remote-veterinary-inspections/\" aria-label=\"More on Defra Considers Remote Veterinary Inspections for AI Movement Licensing\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T15:53:59.000Z",
+    "title": "SANDBOX GROUP Announces Move Into Web3 Through Partnership With XDB Chain",
+    "url": "https://www.cryptopolitan.com/sandbox-group-announces-move-into-web3-through-partnership-with-xdb-chain/",
+    "description": "London, UK, October 11th, 2023, Chainwire XDB CHAIN TO POWER SANDBOX-BRANDED CRYPTOCURRENCY AND TO ENHANCE THE EDUCATION SECTOR’S TRANSITION TOWARDS WEB3 Sandbox Group, the London-based group operating a network of learning businesses, announced a partnership with XDB CHAIN, the easy-to-use open-source blockchain used to power digital assets. The collaboration will see the development of an ... <a title=\"SANDBOX GROUP Announces Move Into Web3 Through Partnership With XDB Chain\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sandbox-group-announces-move-into-web3-through-partnership-with-xdb-chain/\" aria-label=\"More on SANDBOX GROUP Announces Move Into Web3 Through Partnership With XDB Chain\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-11T15:43:56.000Z",
+    "title": "Immutable to enhance blockchain gaming with AWS collaboration",
+    "url": "https://www.cryptopolitan.com/immutable-to-enhance-gaming-collaboration/",
+    "description": "Blockchain gaming company Immutable has revealed a strategic collaboration with Amazon Web Services (AWS) to develop infrastructure solutions tailored to the cryptocurrency gaming sector. This partnership aims to streamline the process for developers looking to launch and expand their blockchain-based games. As part of this initiative, Immutable has become a participant in AWS’s ISV Accelerate ... <a title=\"Immutable to enhance blockchain gaming with AWS collaboration\" class=\"read-more\" href=\"https://www.cryptopolitan.com/immutable-to-enhance-gaming-collaboration/\" aria-label=\"More on Immutable to enhance blockchain gaming with AWS collaboration\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-11T15:26:18.000Z",
-    "title": "“Mindblowing” yet impractical: Eric Wall’s perspective on BitVM",
-    "url": "https://crypto.news/mindblowing-yet-impractical-eric-walls-perspective-on-bitvm/",
-    "description": "Bitcoin developer Eric Wall has described the recent BitVM research paper as both “mindblowing” yet ultimately a “technological dead end” for Bitcoin smart contracts."
+    "date": "2023-10-11T16:05:55.000Z",
+    "title": "Nansen’s CEO believes tokenized t-bills will disrupt stablecoins alongside other market predictions",
+    "url": "https://crypto.news/nansens-ceo-believes-tokenized-t-bills-will-disrupt-stablecoins-alongside-other-market-predictions/",
+    "description": "CEO and Co-founder of leading blockchain analytics firm Nansen.ai, Alex Svanevik, shares six themes he believes will play a role in the future of cryptocurrency."
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-11T15:15:05.000Z",
-    "title": "Kaiko suggests why futures Ethereum ETFs release was lackluster",
-    "url": "https://crypto.news/kaiko-suggests-why-futures-ethereum-etfs-release-was-lackluster/",
-    "description": "In the past week, six futures-based Ethereum ETFs commenced trading on U.S. markets, securing regulatory approval from the SEC earlier than anticipated."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-10-11T15:25:08.000Z",
-    "title": "Brazilian Bombshell: Congressional Committee Recommends Indicting Binance Top Brass",
-    "url": "https://www.crypto-news-flash.com/brazilian-bombshell-congressional-committee-recommends-indicting-binance-top-brass/?utm_source=rss&utm_medium=rss&utm_campaign=brazilian-bombshell-congressional-committee-recommends-indicting-binance-top-brass",
-    "description": "<img width=\"1280\" height=\"960\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/brazil-2128654_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/brazil-2128654_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/brazil-2128654_1280-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/brazil-2128654_1280-1024x768.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/brazil-2128654_1280-768x576.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />A Brazilian congressional committee has tasked the local authorities to determine if the top Binance officials including CEO Changpeng Zhao (CZ) should be indicted for running crypto-related Ponzi schemes in the country. Although Binance collaborated with the committee, the exchange rejected any attempts to expose users&#8217; or employees’ info without any proof supporting the allegations. [...]"
+    "date": "2023-10-11T15:45:13.000Z",
+    "title": "Jim Cramer believes ‘Bitcoin is about to go down big’",
+    "url": "https://crypto.news/jim-cramer-believes-bitcoin-is-about-to-go-down-big/",
+    "description": "Jim Cramer, a prominent TV financial commentator, recently discussed potential investment opportunities, including his views on Bitcoin and the broader financial landscape. Jim Cramer, a notable TV personality and financial advisor known for his lively discussions on CNBC&#8217;s &#8220;Squawk on&#8230;"
   }
 ]

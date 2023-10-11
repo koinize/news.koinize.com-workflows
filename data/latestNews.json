@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "source": "CoinDesk",
+    "date": "2023-10-11T01:04:15.000Z",
+    "title": "SBF's Lawyers Want to Ask Caroline Ellison About FTX's Anthropic AI Stake",
+    "url": "https://www.coindesk.com/policy/2023/10/11/sbfs-lawyers-want-to-ask-caroline-ellison-about-ftxs-anthropic-ai-stake/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Sam Bankman-Fried's attorneys asked Judge Lewis Kaplan, who's overseeing the case, to grant them permission to ask former Alameda Research CEO Caroline Ellison about whether she deleted Signal messages at FTX lawyers' advice and what Anthropic AI's recent fundraise means for FTX creditors."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-10-11T01:05:19.000Z",
+    "title": "State Regulators Back SEC in Coinbase Lawsuit",
+    "url": "https://cryptobriefing.com/state-regulators-back-sec-coinbase-lawsuit/?utm_source=feed&utm_medium=rss",
+    "description": "NASAA files brief supporting SEC position that digital assets on Coinbase are securities and rejects bid to narrow Howey test."
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-10-11T00:44:00.000Z",
+    "title": "$XRP Whales Keep Accumulating to Now Control 26.8% of Supply Despite Lower Activity on the Ledger",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/xrp-whales-keep-accumulating-to-now-control-26-8-of-supply-despite-lower-activity-on-the-ledger/",
+    "description": "This year has seen a general lull in whale activity on the XRP Ledger when compared to 2021 and 2022, although key shark and whale addresses have nevertheless kept on accumulating the network’s native token, $XRP. That’s according to on-chain analytics firm Santiment, which noted that wallets with between 100,000 and 100 million XRP now […]\n"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-10-11T01:00:36.000Z",
+    "title": "Ethereum Open Interest Rising: Is This A Signal Bulls Have Been Waiting For?",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-rising-signal-bulls/",
+    "description": "Ethereum prices might be stagnant at spot rates, weaving around the $1,540 and $1,560 zone, looking at technical charts. However, amid this period of consolidation and holders worrying about Ethereum&#8217;s prospects, Kaiko notes that the coin&#8217;s open interest has been gradually rising since September 2023. Ethereum Open Interest Rising: What Does It Mean? As of October 10, Kaiko observes that there are more than 2.2 million contracts, and the number has been rising steadily over the past few trading weeks. With increasing open interest, it can hint that bulls are in the equation, which may support prices now that prices are under immense pressure. In crypto trading, open interest is the total number of outstanding derivative contracts of a given coin. Meanwhile, derivatives are contracts that derive value from the underlying asset, in this case, Ethereum. Herein, the total open interest data is accrued from ETH options, futures, and perpetual futures from platforms where traders can use leverage.  Related Reading: Cardano (ADA) Struggles To Stay Above $0.26: What This Means For Traders There can be different interpretations of open interest depending on the market state. Since open interest includes long and short positions at any time, gauging the directions of how market participants are posting trades can be challenging.  Even so, rising open interest indicates that more traders are opening positions, which can be seen as bullish, especially if prices are expanding. Conversely, falling open interest suggests that traders are exiting, which means waning momentum and bearish sentiment.  ETH Consolidates Even After Ethereum Futures ETF Approval Based on this, Ethereum remains in a critical position and support. Notably, the coin is moving sideways with low trading volumes.  From the daily chart, ETH is around the $1,500 and $1,550 primary support. Though buyers appear to be in control, since prices are boxed inside the June to July 2023 trade range, any break below the support zone may trigger more losses. The general optimism explaining rising open interest could be due to the recent approval of Ethereum Futures exchange-traded funds (ETFs). The United States Securities and Exchange Commission (SEC) approved multiple Ethereum Futures ETFs for the first time.  Related Reading: Here’s Why The Ethereum Price Fell Toward $1,500 This decision saw Ethereum prices edge higher in early October. Though prices have since contracted, institutional investors can now find exposure in Ethereum via structured and regulated products approved by the stringent regulator. It is unclear whether the rising ETH open interest signals strength and if the coin will recover going forward. From the daily chart, ETH has strong liquidation at around the $1,750 level and remains consolidated. Feature image from Canva, chart from TradingView"
+  }
+]

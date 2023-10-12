@@ -1,79 +1,79 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-10-12T15:45:00.000Z",
-    "title": "Crypto for Advisors: Advisors Pivot to On-Chain Support",
-    "url": "https://www.coindesk.com/business/2023/10/12/crypto-for-advisors-advisors-pivot-to-on-chain-support/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "How can advisors support client interest in digital assets? Thanks to Miguel Kudry from L1 Advisors for taking us through examples in today’s Crypto for Advisors newsletter."
+    "source": "Crypto Briefing",
+    "date": "2023-10-12T16:35:53.000Z",
+    "title": "USDR Stablecoin Crashes 50% After Run on Reserves",
+    "url": "https://cryptobriefing.com/usdr-crashes-after-run-reserves/?utm_source=feed&utm_medium=rss",
+    "description": "Real USD (USDR), a stablecoin backed partly by real estate and crypto, lost its 1:1 peg to the US dollar yesterday, causing its price to fall dramatically to $0.51 in a few hours."
   },
   {
-    "source": "Decrypt",
-    "date": "2023-10-12T16:01:02.000Z",
-    "title": "NBA's LaMelo and Lonzo Ball—And Their Dad—Star in NFT Game 'StrayShot'",
-    "url": "https://decrypt.co/201105/nba-lamelo-lonzo-ball-dad-star-nft-game-strayshot",
-    "description": "The NBA stars and their family have signed a deal to appear in the upcoming battle royale shooter StrayShot, which uses the SKALE blockchain."
+    "source": "CryptoGlobe",
+    "date": "2023-10-12T16:13:00.000Z",
+    "title": "Fortnite Subreddit’s Crypto Token $BRICK Surges 80% in a Single Day",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/fortnite-subreddits-crypto-token-brick-surges-80-in-a-single-day/",
+    "description": "The native token of Reddit’s community dedicated to the popular Fortnite Battle Royale game has recently experienced a surge of over 80% in just 24 hours, before the cryptocurrency’s price started correcting to now trade 60% above its value before the surge. According to data from TradingView the token used by Reddit’s Fortnite community, called […]\n"
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-10-12T16:00:00.000Z",
-    "title": "Trader swaps 131k stablecoins for $0 during USDR depeg",
-    "url": "https://cointelegraph.com/news/trader-swaps-131k-stablecoins-0-during-usdr-depeg",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/b02714fc-4174-4bd2-b864-74bafac50ea0.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>An attempt to withdraw USDR stablecoins amid a liquidity crunch appears to have gone horribly wrong. </p>\n                    <p><p>During yesterday's real-estate-backed U.S. dollar stablecoin Real USD (USDR) crisis, a trader appears to have swapped 131,350 USDR for 0 USD Coin (USDC), resulting in a complete loss on investment.</p><p>According to the October 12 <a href=\"https://twitter.com/lookonchain/status/1712446623362760763/photo/2\" target=\"_blank\" rel=\"noopener nofollow\">report</a> by blockchain analytics firm Lookonchain, the swap occurred on the BNB Chain through decentralized exchange OpenOcean, at a time when USDR depegged from par value by <a href=\"https://cointelegraph.com/news/usdr-stablecoin-depeg-liquid-dai-treasury-drain-redemption\">nearly 50%</a> due to a liquidity crunch. A maximal extractable value (MEV) bot subsequently picked up the discrepancy, netting a total of $107,002 in profits through an arbitrage trade. </p><p>During periods of poor liquidity, slippage on DEXs can reach as high as 100%. In September 2022, Cointelegraph reported that a trader attempted to sell $1.8 million in Compound USD (cUSDC) through Uniswap DEX V2 and only got <a href=\"https://cointelegraph.com/news/mev-bot-earns-1m-but-loses-everything-to-a-hacker-an-hour-later\">$500 worth of assets</a> in return. An MEV, too, in this incident, performed an arbitrage trade before its over $1 million in profits were <a href=\"https://www.certik.com/resources/blog/5W7zRcavBHvMZW5OYPuOtm-mev-bot-oxbad-incident-analysis\" target=\"_blank\" rel=\"noopener nofollow\">hacked</a> just hours later. </p><p>On October 11, USDR <a href=\"https://cointelegraph.com/news/usdr-stablecoin-depeg-liquid-dai-treasury-drain-redemption\">depegged</a> after users requested over 10 million stablecoins in redemptions. Despite being 100% backed, less than 15% of its then $45 million in assets were backed by liquid project tokens TNGBL, with the remaining backed by illiquid tokenized real-estate assets.</p><p>As narrated by analyst Tom Wan, the tokenized assets were minted on the ERC-721 standard, which could not be fractionalized to create liquidity for investor redemptions. In addition, the underlying homes could not be immediately sold to meet investors' withdrawal requests. Altogether, the Real USD Treasury could not meet the redemptions, leading to a collapse in investors' confidence.</p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Why USDR depegged despite being fully backed: Using Illiquid asset backing liquid Asset<br><br>- USDR is 100% backed. 50% of them come from stablecoins and the remaining comes from Real-Estate<br><br>- When there is a bank-run (Huge Redemption of USDR), the Stablecoin liquidity in the… <a href=\"https://t.co/xOrsa5gpKU\">https://t.co/xOrsa5gpKU</a> <a href=\"https://t.co/OYhQ0twUUd\">pic.twitter.com/OYhQ0twUUd</a></p>&mdash; Tom Wan (@tomwanhh) <a href=\"https://twitter.com/tomwanhh/status/1712379528138633327?ref_src=twsrc%5Etfw\">October 12, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n<p><strong>Magazine: <a href=\"https://cointelegraph.com/magazine/crypto-zero-knowledge-voting-finance/\">Zero-knowledge proofs show potential from voting to finance</a></strong></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "source": "Crypto Daily",
+    "date": "2023-10-12T16:29:10.000Z",
+    "title": "NBA Stars join iBLOXX’s StrayShot Game",
+    "url": "https://cryptodaily.co.uk/2023/10/nba-stars-join-ibloxxs-strayshot-game",
+    "description": "iBLOXX Studios announced today that their upcoming third- person Web3 shooter, StrayShot (previously recognized as 0xBattleGround), will feature the entire Big Baller Brand family as playable in-game characters."
   },
   {
     "source": "Bitcoin.com",
-    "date": "2023-10-12T16:01:47.000Z",
-    "title": "Biggest Movers: XRP Losing Streak Extended to a 6th Day",
-    "url": "https://news.bitcoin.com/biggest-movers-xrp-losing-streak-extended-to-a-6th-day/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"XRP Losing Streak Extended to a 6th Day\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1009589725-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />XRP has been one of the week&#x2019;s most notable movers, with price moving lower for six straight days. The latest decline comes as the global cryptocurrency market cap fell by over 1% in today&#x2019;s session. Solana also slipped, nearing a floor of $21.00 in the process. XRP XRP, formerly ripple, was once again in the [&#8230;]"
+    "date": "2023-10-12T16:30:50.000Z",
+    "title": "US Inflation Rises Beyond Projections: Markets Jittery, Rate Hike in Question",
+    "url": "https://news.bitcoin.com/us-inflation-rises-beyond-projections-markets-jittery-rate-hike-in-question/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"US Inflation Rises Beyond Projections: Markets Jittery, Rate Hike in Question\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/fddssd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In September, U.S. inflation surpassed expectations, with the U.S. Bureau of Labor Statistics revealing a 3.7% year-on-year surge in the consumer price index (CPI), as per the latest data. While core inflation slightly decreased from 4.3% to 4.1%, market pundits anticipate that the U.S. Federal Reserve might hike the federal funds rate, given the persistent [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-12T15:55:05.000Z",
-    "title": "Canadian Privacy Watchdog Seeks Feedback on Updated Biometric Guidelines",
-    "url": "https://www.cryptopolitan.com/watchdog-seeks-feedback-on-biometric/",
-    "description": "In a move to adapt to the evolving landscape of biometric technology and its implications on privacy, the Office of the Privacy Commissioner of Canada (OPC) is calling for feedback on its recently released draft guidelines for handling biometric information. These guidelines are designed to ensure that organizations in Canada responsibly manage and process biometric ... <a title=\"Canadian Privacy Watchdog Seeks Feedback on Updated Biometric Guidelines\" class=\"read-more\" href=\"https://www.cryptopolitan.com/watchdog-seeks-feedback-on-biometric/\" aria-label=\"More on Canadian Privacy Watchdog Seeks Feedback on Updated Biometric Guidelines\">Read more</a>"
+    "date": "2023-10-12T16:20:56.000Z",
+    "title": "Music Industry Confronts Unauthorized AI Vocal Cloning Services",
+    "url": "https://www.cryptopolitan.com/industry-confronts-unauthorized-ai-vocal/",
+    "description": "In a significant development, the Recording Industry Association of America (RIAA) has taken a strong stance against unauthorized AI vocal cloning services. The RIAA is now urging the U.S. government to include these services in its annual Notorious Markets report, a move that highlights the ongoing battle within the music industry to protect intellectual property ... <a title=\"Music Industry Confronts Unauthorized AI Vocal Cloning Services\" class=\"read-more\" href=\"https://www.cryptopolitan.com/industry-confronts-unauthorized-ai-vocal/\" aria-label=\"More on Music Industry Confronts Unauthorized AI Vocal Cloning Services\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-12T16:20:47.000Z",
+    "title": "VeChain Price Prediction 2023-2031: What’s the Growth Potential of VET?",
+    "url": "https://www.cryptopolitan.com/vechain-price-prediction/",
+    "description": "VeChain Price Prediction 2023-2032 Since its launch, Vechain’s focus has been building technologies that solve obstacles impeding the mass adoption of blockchain technology. Two months ago, one of the most important pieces of technology in this mission was officially launched — VORJ. VORJ is a no-code Web3-as-a-Service platform that enables anyone to create, deploy and ... <a title=\"VeChain Price Prediction 2023-2031: What&#8217;s the Growth Potential of VET?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/vechain-price-prediction/\" aria-label=\"More on VeChain Price Prediction 2023-2031: What&#8217;s the Growth Potential of VET?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-12T16:06:00.000Z",
-    "title": "Bank of Russia to support CBDC development",
-    "url": "https://crypto.news/bank-of-russia-to-support-cbdc-development/",
-    "description": "The Bank of Russia has announced changes to regulating its central bank digital currency, the digital ruble."
+    "date": "2023-10-12T16:31:17.000Z",
+    "title": "Ankr teams up with XDC Network to launch RPC Integration",
+    "url": "https://crypto.news/ankr-teams-up-with-xdc-network-to-launch-rpc-integration/",
+    "description": "Ankr has announced a significant partnership with XDC Network, a Layer 1 blockchain platform for trade finance and asset tokenization."
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-12T16:05:23.000Z",
-    "title": "Mastercard explores CBDC use in Australia",
-    "url": "https://crypto.news/mastercard-explores-cbdc-use-in-australia/",
-    "description": "Mastercard has announced that it has demonstrated a new solution that enables central bank CBDC to be interoperable with different blockchains."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-10-12T15:51:16.000Z",
-    "title": "Bitfinex introduces zero-fee trading for Latin America",
-    "url": "https://crypto.news/bitfinex-introduces-zero-fee-trading-for-latin-america/",
-    "description": "Bitfinex, has announced that it has introduced zero-fee trading for market takers on its peer-to-peer (P2P) platform in Argentina, Colombia, and Venezuela. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-10-12T15:50:46.000Z",
-    "title": "Inspect expands Chrome extension to simplify crypto insights",
-    "url": "https://crypto.news/inspect-expands-chrome-extension-to-simplify-crypto-insights/",
-    "description": "The Inspect extension will provide real-time analytics and insights, allowing users to explore crypto assets, NFTs, and defi projects directly from their X feed"
+    "date": "2023-10-12T16:12:49.000Z",
+    "title": "China launches first digital currency industrial park",
+    "url": "https://crypto.news/china-launches-first-digital-currency-industrial-park/",
+    "description": "China has launched its first industrial park dedicated to developing and applying the digital yuan, or e-CNY, in the city of Nanjing, Jiangsu province. "
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-12T15:50:06.000Z",
-    "title": "BREAKING: Shocking Revelation: Ex-Girlfriend of FTX’s SBF Exposes Plot to Suppress Bitcoin Below $20,000",
-    "url": "https://www.crypto-news-flash.com/breaking-shocking-revelation-ex-girlfriend-of-ftxs-sbf-exposes-plot-to-suppress-bitcoin-below-20000/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-shocking-revelation-ex-girlfriend-of-ftxs-sbf-exposes-plot-to-suppress-bitcoin-below-20000",
-    "description": "<img width=\"1000\" height=\"623\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTX\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-300x187.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-768x478.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-163x102.png 163w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-24x15.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-36x22.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-48x30.png 48w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Sam Bankman-Fried&#8217;s trial exposes potential Bitcoin price manipulation, shaking the crypto industry. Caroline Ellison&#8217;s testimony reveals FTX borrowed $13 billion from clients, raising transparency concerns. In a courtroom drama that has sent tremors through the cryptocurrency landscape, Sam Bankman-Fried, the creator of FTX, confronts startling revelations brought to light by Caroline Ellison, his former romantic [...]"
+    "date": "2023-10-12T16:25:12.000Z",
+    "title": "Easily earn Bitcoin as passive income with CGMD miner",
+    "url": "https://www.crypto-news-flash.com/easily-earn-bitcoin-as-passive-income-with-cgmd-miner/?utm_source=rss&utm_medium=rss&utm_campaign=easily-earn-bitcoin-as-passive-income-with-cgmd-miner",
+    "description": "<img width=\"630\" height=\"420\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/cgmd.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/cgmd.png 630w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/cgmd-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/cgmd-104x69.png 104w\" sizes=\"(max-width: 630px) 100vw, 630px\" />CGMD miner is a powerful cryptocurrency mining company that was the first platform to provide easy access to Bitcoin mining. This is an excellent opportunity for those who are looking for passive income from cryptocurrencies, as the CGMD miner offers excellent mining contracts. The platform has multiple mining contracts with specific ROI and time periods [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-10-12T16:24:56.000Z",
+    "title": "Bitcoin’s Rollercoaster: BTC Plummets to $26.7K – Is $25,000 or $30,000 Next? Report",
+    "url": "https://www.crypto-news-flash.com/bitcoins-rollercoaster-btc-plummets-to-26-7k-is-25000-or-30000-next-report/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoins-rollercoaster-btc-plummets-to-26-7k-is-25000-or-30000-next-report",
+    "description": "<img width=\"960\" height=\"687\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720.jpg 960w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-300x215.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-768x550.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-269x192.jpg 269w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-24x17.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-36x26.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/bitcoin-3208070_960_720-48x34.jpg 48w\" sizes=\"(max-width: 960px) 100vw, 960px\" />Thursday’s CPI data from the United States Bureau of Labor Statistics is expected to have a notable impact on the Bitcoin price action amid short-term weaknesses following a drop below the crucial support level of around $27.2k. The altcoin market has generally failed to capitalize on Bitcoin’s weaknesses with Ethereum revisiting the February support level [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-12T16:04:00.000Z",
-    "title": "Ex-GirlFriend Unravels SBF’s Valiant Efforts to Unfreeze Chinese Funds",
-    "url": "https://coinedition.com/ex-girlfriend-unravels-sbfs-valiant-efforts-to-unfreeze-chinese-funds/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ex-GirlFriend Unravels SBF’s Valiant Efforts to Unfreeze Chinese Funds\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/FTX-10-1-1-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>SBF tried using Thai prostitute identities to access the funds. Caroline disclosed some intricate details about SBF unfreezing Chinese Funds. Caroline and SBF presented fabricated balance sheets to cover the missing funds. In the developing FTX case, Sam Bankman Fried’s (SBF) ex-girlfriend, Caroline Ellison, the sole witness, unraveled some intriguing information at a hearing in [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/ex-girlfriend-unravels-sbfs-valiant-efforts-to-unfreeze-chinese-funds/\">Ex-GirlFriend Unravels SBF’s Valiant Efforts to Unfreeze Chinese Funds</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-10-12T16:30:00.000Z",
+    "title": "Ripple CTO Weighs In On Mysterious 410M XRP Txn Bearing 20 XRP Gas Fee",
+    "url": "https://coinedition.com/ripple-cto-weighs-in-on-mysterious-410m-xrp-txn-bearing-20-xrp-gas-fee/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Legal Experts Doubt Ripple Victory&#039;s Legitimacy, Sparking Fresh Debate\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/Legal-Experts-Doubt-Ripple-Victorys-Legitimacy-Sparking-Fresh-Debate-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>An unexpected and colossal XRP transaction has stirred significant interest within the XRP community, leading Ripple&#8217;s CTO to provide further analysis to understand the specifics of the event. In a recent tweet, XRP enthusiast Saul disclosed an intriguing observation while browsing through XRP Scan, XRP’s leading blockchain explorer. Saul claims to have observed the activation [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/ripple-cto-weighs-in-on-mysterious-410m-xrp-txn-bearing-20-xrp-gas-fee/\">Ripple CTO Weighs In On Mysterious 410M XRP Txn Bearing 20 XRP Gas Fee</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

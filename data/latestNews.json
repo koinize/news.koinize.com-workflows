@@ -1,58 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-10-13T07:29:04.000Z",
-    "title": "Bitcoin Spot ETFs Approval Partially Priced In, Coinbase Says",
-    "url": "https://www.coindesk.com/markets/2023/10/13/bitcoin-spot-etfs-approval-partially-priced-in-coinbase-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Spot-based ETFs are widely expected to unlock floodgates for mainstream money. Flows, however, are likely to materialise overtime, according to Coinbase."
+    "source": "Cointelegraph",
+    "date": "2023-10-13T07:56:01.000Z",
+    "title": "French regulator sees DeFi as 'disintermediated,' not 'decentralized' ",
+    "url": "https://cointelegraph.com/news/de-fi-french-regulator-sees-disintermediated-not-decentralized",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/221d5fc7-3eb2-49b7-9643-cd587f43661d.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The Autorité de Contrôle Prudentiel et de Résolution concluded its consultation on the regulation of DeFi.  </p>\n                    <p><p>On Oct. 12, the Autorité de Contrôle Prudentiel et de Résolution (ACPR), part of the French Central Bank, published a <a href=\"https://acpr.banque-france.fr/sites/default/files/medias/documents/20231012_pr_acpr_defi_consultation_.pdf\" target=\"_blank\" rel=\"noopener nofollow\">summary</a> of its public consultation on a regulatory framework for decentralized finance (DeFi). </p><p>The public consultation lasted two months, from April to May 2023, in response to the initial paper discussing possible regulations for DeFi in the country. External contributions nudged the ACPR to surprising revelations, especially regarding the structural persistence of centralization patterns :</p><blockquote>“The ACPR therefore believes that the term \"disintermediated” finance is more appropriate than that of \"decentralized” finance.”</blockquote><p>The operational risk of this “paradoxical high degree of concentration” in DeFi concerns the physical infrastructure hosting blockchain nodes, in which cloud service providers play a central role.</p><p><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/cbdc-foundation-new-global-monetary-system-french-central-bank\"><strong><em>CBDC lays foundation for new global monetary system: French central bank</em></strong></a></p><p>According to the summary, the “vast majority” of respondents advocate that DeFi should continue to be deployed on public blockchains rather than on private or permissioned ones. However, they admit that these blockchains need to be audited on a regular basis. Proposals to regulate intermediaries and certify smart contracts were also met with broad consensus.</p><p>In conclusion, the ACPR finds it “advisable” to draw up rules for the certification of smart contracts, define governance that would protect DeFi customers and lay down measures supporting DeFi’s blockchain infrastructures. </p><p>On Oct. 11, The European Securities and Markets Authority (ESMA) also <a href=\"https://cointelegraph.com/news/crypto-european-regulator-de-fi-significant-risks-benefits\">weighed in on the discussion on DeFi</a>. In a 22-page report, the ESMA admitted the promised benefits of DeFi, such as greater financial inclusion, the development of innovative financial products, and the enhancement of financial transactions’ speed, security and costs, also highlighting its “significant risks.” </p><p><strong><em><u>Magazine: </u></em></strong><a href=\"https://cointelegraph.com/magazine/crypto-zero-knowledge-voting-finance/\"><strong><em>Beyond crypto: Zero-knowledge proofs show potential from voting to finance</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-10-13T07:11:05.000Z",
-    "title": "Bitcoin Is Currently Neither ‘Bullish’ or ‘Bearish,’ Traders Say",
-    "url": "https://www.coindesk.com/markets/2023/10/13/bitcoin-is-currently-neither-bullish-or-bearish-traders-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Major tokens seemed to stabilize on Friday morning following a week-long price drop."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-10-13T07:30:51.000Z",
-    "title": "Defi Not a Risk to Financial Stability Yet, EU Securities Regulator Reports",
-    "url": "https://news.bitcoin.com/defi-not-a-risk-to-financial-stability-yet-eu-securities-regulator-reports/",
-    "description": "<img width=\"768\" height=\"433\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-768x433.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Defi Not a Risk to Financial Stability Yet, EU Securities Regulator Reports\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-1024x578.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-768x433.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_756983191.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Decentralized finance (defi) brings risks for investors but is yet to pose “meaningful risks” to financial stability, according to Europe’s securities watchdog. The agency believes, however, the phenomenon deserves attention in light of the EU’s new crypto rules as well as growing user base and has presented its assessment of the sector’s development. Defi Requires [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-10-13T08:08:35.000Z",
+    "title": "Platypus Finances Suffers $2.23m Loss in Flash Loan Exploit",
+    "url": "https://cryptodaily.co.uk/2023/10/platypus-finances-suffers-223m-loss-in-flash-loan-exploit",
+    "description": "An earlier attack on February 16 resulted in a substantial loss of $8.5 million, paralleled by the depegging of the Platypus USD (USP) stablecoin, causing its value to plummet from $1 to $0.48."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-13T07:14:03.000Z",
-    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
-    "description": "BTC Price Predictions 2023-2032 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $26,805, with a trading volume over the past 24 hours reaching $44.09 billion. Its market capitalization is $505.83 billion, and it currently commands 47.80% of the market share. Over the last 24 hours, the BTC price has experienced ... <a title=\"Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-price-forecast/\" aria-label=\"More on Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?\">Read more</a>"
+    "date": "2023-10-13T08:01:39.000Z",
+    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
+    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
+    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s ... <a title=\"Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chainlink-price-prediction/\" aria-label=\"More on Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-13T07:10:19.000Z",
-    "title": "Genesis and FTX navigate through a $175M settlement amidst a sea of billion-dollar claims",
-    "url": "https://www.cryptopolitan.com/genesis-and-ftx-175m-settlement/",
-    "description": "In a pivotal moment for the cryptocurrency industry, a New York bankruptcy judge has sanctioned a settlement agreement between two beleaguered cryptocurrency firms, FTX and Genesis Global Trading (GGC). The settlement, which has been a subject of contention and scrutiny, involves a payment of $175 million from GGC to FTX-affiliated Alameda Research. This resolution comes ... <a title=\"Genesis and FTX navigate through a $175M settlement amidst a sea of billion-dollar claims\" class=\"read-more\" href=\"https://www.cryptopolitan.com/genesis-and-ftx-175m-settlement/\" aria-label=\"More on Genesis and FTX navigate through a $175M settlement amidst a sea of billion-dollar claims\">Read more</a>"
+    "date": "2023-10-13T07:56:10.000Z",
+    "title": "Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract",
+    "url": "https://www.cryptopolitan.com/bitget-bigtime-u-based-perpetual-contract/",
+    "description": "In a strategic move to diversify its cryptocurrency asset offerings and provide traders with enhanced trading opportunities, Bitget, a renowned crypto derivatives, and copy trading platform, has launched Big Time (BIGTIME) in its Innovation and GameFi Zone. This initiative aligns with Bitget’s mission to grant its users access to the most innovative assets in the ... <a title=\"Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitget-bigtime-u-based-perpetual-contract/\" aria-label=\"More on Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-10-13T07:11:34.000Z",
-    "title": "Uniswap introduces closed beta of its android app",
-    "url": "https://crypto.news/uniswap-introduces-closed-beta-of-its-android-app/",
-    "description": "Uniswap advances its platform accessibility by launching a beta version of its Android app, enabling users to navigate various blockchain networks. Unveiling its new mobile application for Android users through a beta version, Uniswap expands its reach beyond its initial&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-10-13T07:17:08.000Z",
-    "title": "IOTA’s Firefly Team Unveils ‘Bloom’ – A Game-Changer for the Shimmer Ecosystem",
-    "url": "https://www.crypto-news-flash.com/iotas-firefly-team-unveils-bloom-a-game-changer-for-the-shimmer-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=iotas-firefly-team-unveils-bloom-a-game-changer-for-the-shimmer-ecosystem",
-    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"IOTA\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-2048x1366.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-24x16.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-36x24.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/IOTA-42pixels-1-48x32.jpg 48w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Bloom is set to introduce groundbreaking features for the Shimmer ecosystem, reinforcing IOTA&#8217;s commitment to innovation. Spearheaded by the brains behind Firefly, Bloom&#8217;s launch promises seamless asset transfers and unparalleled user experience. According to a recent revelation by IOTA News, bolstered by a tweet from Collin Brown, the former Firefly team is gearing up for [...]"
+    "source": "Cryptopolitan",
+    "date": "2023-10-13T07:53:54.000Z",
+    "title": "AI Image Generators’ Role in Expanding Accessibility for the Visually Impaired",
+    "url": "https://www.cryptopolitan.com/ai-image-generators-visually-impaired/",
+    "description": "In a pioneering collaboration that transcends the boundaries of conventional art, artist Cosmo Wenman ventures into the realm of accessibility through an AI image generator. Joined by blind researchers Brandon Biggs, Lindsay Yazzolino, and Joshua Miele, this quasi-academic project explores the untapped potential of generative AI technologies. The experiment, initiated by Wenman, unfolds a captivating ... <a title=\"AI Image Generators&#8217; Role in Expanding Accessibility for the Visually Impaired\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-image-generators-visually-impaired/\" aria-label=\"More on AI Image Generators&#8217; Role in Expanding Accessibility for the Visually Impaired\">Read more</a>"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2023-10-13T07:20:10.000Z",
-    "title": "Is Friend.tech Really a Sustainable Platform?",
-    "url": "https://www.altcoinbuzz.io/product-release/is-friend-tech-really-a-sustainable-platform/",
-    "description": "<p>Although we&#8217;re in a bear market, the crypto space is constantly innovating. One of these recent innovations is Friend.tech. This Decentralized Application (dApp) was launched in August this year. And already, it&#8217;s got a ton of users on its platform. But, is this growth really sustainable? Before we answer this question, let us do a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/product-release/is-friend-tech-really-a-sustainable-platform/\">Is Friend.tech Really a Sustainable Platform?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-10-13T07:58:05.000Z",
+    "title": "Time to buy LINK? All You Need to Know About Chainlink in 2023",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/time-to-buy-link-all-you-need-to-know-about-chainlink-in-2023/",
+    "description": "<p>Should I buy it or Should I not? Crypto investors ask themselves this question every day about multiple projects. We ask the question ourselves here at Altcoin Buzz too. In our Master Portfolio, our AB Alpha portfolio, and personally. Today, a simple look at the pros and cons to ask us if we should buy. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/time-to-buy-link-all-you-need-to-know-about-chainlink-in-2023/\">Time to buy LINK? All You Need to Know About Chainlink in 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-10-13T08:07:57.000Z",
+    "title": "Charles Hoskinson Dismisses Criticism of Cardano Governance Update",
+    "url": "https://coinedition.com/charles-hoskinson-dismisses-criticism-of-cardano-governance-update/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A day after hosting a livestream to update Cardano community members on developments on the blockchain, Charles Hoskinson, in a tweet on X &#8211; formerly Twitter &#8211; reacted to a post that suggested the founder is “not confident” about the future of Cardano. In particular, the user who made the post had commented on a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/charles-hoskinson-dismisses-criticism-of-cardano-governance-update/\">Charles Hoskinson Dismisses Criticism of Cardano Governance Update</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

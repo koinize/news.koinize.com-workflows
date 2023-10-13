@@ -1,51 +1,93 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-10-13T07:56:01.000Z",
-    "title": "French regulator sees DeFi as 'disintermediated,' not 'decentralized' ",
-    "url": "https://cointelegraph.com/news/de-fi-french-regulator-sees-disintermediated-not-decentralized",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/221d5fc7-3eb2-49b7-9643-cd587f43661d.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The Autorité de Contrôle Prudentiel et de Résolution concluded its consultation on the regulation of DeFi.  </p>\n                    <p><p>On Oct. 12, the Autorité de Contrôle Prudentiel et de Résolution (ACPR), part of the French Central Bank, published a <a href=\"https://acpr.banque-france.fr/sites/default/files/medias/documents/20231012_pr_acpr_defi_consultation_.pdf\" target=\"_blank\" rel=\"noopener nofollow\">summary</a> of its public consultation on a regulatory framework for decentralized finance (DeFi). </p><p>The public consultation lasted two months, from April to May 2023, in response to the initial paper discussing possible regulations for DeFi in the country. External contributions nudged the ACPR to surprising revelations, especially regarding the structural persistence of centralization patterns :</p><blockquote>“The ACPR therefore believes that the term \"disintermediated” finance is more appropriate than that of \"decentralized” finance.”</blockquote><p>The operational risk of this “paradoxical high degree of concentration” in DeFi concerns the physical infrastructure hosting blockchain nodes, in which cloud service providers play a central role.</p><p><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/cbdc-foundation-new-global-monetary-system-french-central-bank\"><strong><em>CBDC lays foundation for new global monetary system: French central bank</em></strong></a></p><p>According to the summary, the “vast majority” of respondents advocate that DeFi should continue to be deployed on public blockchains rather than on private or permissioned ones. However, they admit that these blockchains need to be audited on a regular basis. Proposals to regulate intermediaries and certify smart contracts were also met with broad consensus.</p><p>In conclusion, the ACPR finds it “advisable” to draw up rules for the certification of smart contracts, define governance that would protect DeFi customers and lay down measures supporting DeFi’s blockchain infrastructures. </p><p>On Oct. 11, The European Securities and Markets Authority (ESMA) also <a href=\"https://cointelegraph.com/news/crypto-european-regulator-de-fi-significant-risks-benefits\">weighed in on the discussion on DeFi</a>. In a 22-page report, the ESMA admitted the promised benefits of DeFi, such as greater financial inclusion, the development of innovative financial products, and the enhancement of financial transactions’ speed, security and costs, also highlighting its “significant risks.” </p><p><strong><em><u>Magazine: </u></em></strong><a href=\"https://cointelegraph.com/magazine/crypto-zero-knowledge-voting-finance/\"><strong><em>Beyond crypto: Zero-knowledge proofs show potential from voting to finance</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
-  },
-  {
     "source": "Crypto Daily",
-    "date": "2023-10-13T08:08:35.000Z",
+    "date": "2023-10-13T08:11:19.000Z",
     "title": "Platypus Finances Suffers $2.23m Loss in Flash Loan Exploit",
     "url": "https://cryptodaily.co.uk/2023/10/platypus-finances-suffers-223m-loss-in-flash-loan-exploit",
     "description": "An earlier attack on February 16 resulted in a substantial loss of $8.5 million, paralleled by the depegging of the Platypus USD (USP) stablecoin, causing its value to plummet from $1 to $0.48."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-13T08:01:39.000Z",
-    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
-    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
-    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s ... <a title=\"Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chainlink-price-prediction/\" aria-label=\"More on Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?\">Read more</a>"
+    "date": "2023-10-13T08:38:56.000Z",
+    "title": "SNK Announces Ambitious “SNK Universe Project” to Expand IP Reach",
+    "url": "https://www.cryptopolitan.com/snk-announces-ambitious-snk-universe-project/",
+    "description": "In a groundbreaking move, SNK, renowned for its iconic fighting titles like The King of Fighters, has unveiled an ambitious plan, the &#8220;SNK Universe Project,&#8221; signaling a strategic expansion into various entertainment mediums. The aim is to bolster global awareness and appreciation of their intellectual properties (IPs) on an unprecedented scale. This venture marks a ... <a title=\"SNK Announces Ambitious “SNK Universe Project” to Expand IP Reach\" class=\"read-more\" href=\"https://www.cryptopolitan.com/snk-announces-ambitious-snk-universe-project/\" aria-label=\"More on SNK Announces Ambitious “SNK Universe Project” to Expand IP Reach\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-13T07:56:10.000Z",
-    "title": "Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract",
-    "url": "https://www.cryptopolitan.com/bitget-bigtime-u-based-perpetual-contract/",
-    "description": "In a strategic move to diversify its cryptocurrency asset offerings and provide traders with enhanced trading opportunities, Bitget, a renowned crypto derivatives, and copy trading platform, has launched Big Time (BIGTIME) in its Innovation and GameFi Zone. This initiative aligns with Bitget’s mission to grant its users access to the most innovative assets in the ... <a title=\"Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitget-bigtime-u-based-perpetual-contract/\" aria-label=\"More on Bitget amplifies its cryptocurrency offerings by introducing BIGTIME U-based perpetual contract\">Read more</a>"
+    "date": "2023-10-13T08:34:45.000Z",
+    "title": "CRO Price Prediction 2023-2032: Is Cronos a Good Investment?",
+    "url": "https://www.cryptopolitan.com/cro-price-prediction/",
+    "description": "CRO Price Prediction 2023-2032 Cronos is the native token for the Crypto.com blockchain. First known as Crypto.com Coin, in February 2022, it was rebranded as Cronos, though it still trades under the same CRO abbreviation. Three months after going live, user adoption has surpassed expectations, with more than 350,000 unique wallet addresses performing transactions on ... <a title=\"CRO Price Prediction 2023-2032: Is Cronos a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cro-price-prediction/\" aria-label=\"More on CRO Price Prediction 2023-2032: Is Cronos a Good Investment?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-13T07:53:54.000Z",
-    "title": "AI Image Generators’ Role in Expanding Accessibility for the Visually Impaired",
-    "url": "https://www.cryptopolitan.com/ai-image-generators-visually-impaired/",
-    "description": "In a pioneering collaboration that transcends the boundaries of conventional art, artist Cosmo Wenman ventures into the realm of accessibility through an AI image generator. Joined by blind researchers Brandon Biggs, Lindsay Yazzolino, and Joshua Miele, this quasi-academic project explores the untapped potential of generative AI technologies. The experiment, initiated by Wenman, unfolds a captivating ... <a title=\"AI Image Generators&#8217; Role in Expanding Accessibility for the Visually Impaired\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-image-generators-visually-impaired/\" aria-label=\"More on AI Image Generators&#8217; Role in Expanding Accessibility for the Visually Impaired\">Read more</a>"
+    "date": "2023-10-13T08:28:05.000Z",
+    "title": "AI-Based Neurofeedback Method Slashes Latency by 50-Fold, Report Finds",
+    "url": "https://www.cryptopolitan.com/ai-based-neurofeedback-latency-50-fold/",
+    "description": "In a groundbreaking development, researchers from HSE University and the Artificial Intelligence Research Institute (AIRI) have harnessed the power of artificial intelligence to revolutionize neurofeedback. The team, led by Alexei Ossadtchi, achieved a remarkable 50-fold reduction in latency between changes in brain activity and the corresponding neurofeedback signal. This achievement holds significant promise for advancing ... <a title=\"AI-Based Neurofeedback Method Slashes Latency by 50-Fold, Report Finds\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-based-neurofeedback-latency-50-fold/\" aria-label=\"More on AI-Based Neurofeedback Method Slashes Latency by 50-Fold, Report Finds\">Read more</a>"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-10-13T07:58:05.000Z",
-    "title": "Time to buy LINK? All You Need to Know About Chainlink in 2023",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/time-to-buy-link-all-you-need-to-know-about-chainlink-in-2023/",
-    "description": "<p>Should I buy it or Should I not? Crypto investors ask themselves this question every day about multiple projects. We ask the question ourselves here at Altcoin Buzz too. In our Master Portfolio, our AB Alpha portfolio, and personally. Today, a simple look at the pros and cons to ask us if we should buy. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/time-to-buy-link-all-you-need-to-know-about-chainlink-in-2023/\">Time to buy LINK? All You Need to Know About Chainlink in 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-10-13T08:24:32.000Z",
+    "title": "Coinbase Unleashes a Strategic Pivot: Native USDC Triumphantly Takes Center Stage on Polygon",
+    "url": "https://www.cryptopolitan.com/coinbase-shifts-focus-native-usdc-on-polygon/",
+    "description": "In a recent development that has caught the attention of the cryptocurrency community, Coinbase, a global leader in cryptocurrency trading, has made a significant change to its operations on the Polygon network. As of October 12, 2023, the platform has discontinued support for withdrawals of pUSDC, which is the wrapped version of USDC on the ... <a title=\"Coinbase Unleashes a Strategic Pivot: Native USDC Triumphantly Takes Center Stage on Polygon\" class=\"read-more\" href=\"https://www.cryptopolitan.com/coinbase-shifts-focus-native-usdc-on-polygon/\" aria-label=\"More on Coinbase Unleashes a Strategic Pivot: Native USDC Triumphantly Takes Center Stage on Polygon\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-13T08:20:09.000Z",
+    "title": "AI Technology Bridges Past and Present in Cyberpunk 2077 Expansion",
+    "url": "https://www.cryptopolitan.com/ai-technology-bridges-past-and-present/",
+    "description": "In a move that combines technology and respect for the late Polish actor Miłogost Reczek, CD Projekt Red, the developer behind the popular game Cyberpunk 2077, has employed artificial intelligence (AI) to replicate Reczek&#8217;s voice for his character in the game&#8217;s recent expansion, Phantom Liberty. This decision was made in consultation with Reczek&#8217;s family and ... <a title=\"AI Technology Bridges Past and Present in Cyberpunk 2077 Expansion\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-technology-bridges-past-and-present/\" aria-label=\"More on AI Technology Bridges Past and Present in Cyberpunk 2077 Expansion\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-13T08:21:55.000Z",
+    "title": "NvirWorld, ICP sign MOU for launching web3 gaming launchpad",
+    "url": "https://crypto.news/nvirworld-icp-sign-mou-for-launching-web3-gaming-launchpad/",
+    "description": "On Oct. 13, NvirWorld partnered with the Internet Computer Protocol (ICP) to activate the web3 ecosystem"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-13T08:20:46.000Z",
+    "title": "Tencent launches credit solution for digital yuan",
+    "url": "https://crypto.news/tencent-launches-credit-solution-for-digital-yuan/",
+    "description": "WeChat operator, Tencent, announced the launch of a new digital yuan smart contract enterprise credit solution platform. The new platform aims to bring a more convenient and efficient financing service for small and medium-sized enterprises. The project will use the&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-13T08:12:13.000Z",
+    "title": "Multichain AMM Beluga’s hack on Arbitrum leads to $238k loss",
+    "url": "https://crypto.news/multichain-amm-belugas-hack-on-arbitrum-leads-to-238k-loss/",
+    "description": "Security firm PeckShield says the exploiter has transferred the stolen funds to the MEXC crypto exchange. Multichain stableswap protocol Beluga has become the latest victim in a number of cyber attacks against decentralized finance (defi) projects. According to PeckShield, the&#8230;"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-10-13T08:36:27.000Z",
+    "title": "Monero Price Prediction: Everlodge Price Surges 90%, VeChain Partners With AT&T",
+    "url": "https://www.crypto-news-flash.com/monero-price-prediction-everlodge-price-surges-90-vechain-partners-with-att/?utm_source=rss&utm_medium=rss&utm_campaign=monero-price-prediction-everlodge-price-surges-90-vechain-partners-with-att",
+    "description": "<img width=\"512\" height=\"242\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-52.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-52.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-52-300x142.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Making the headline today is Monero who is making a comeback despite recent market struggles. On the flip side, VeChain joins forces with telecom giants while Everlodge is making investments in the real estate industry accessible to more investors. Join the Everlodge presale and win a luxury holiday to the Maldives Monero (XMR) Price Prediction [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-10-13T08:21:49.000Z",
+    "title": "Chainlink Automation Teams Up with Thales for Effortless Staking Reward Claims",
+    "url": "https://www.crypto-news-flash.com/chainlink-automation-teams-up-with-thales-for-effortless-staking-reward-claims/?utm_source=rss&utm_medium=rss&utm_campaign=chainlink-automation-teams-up-with-thales-for-effortless-staking-reward-claims",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/chainlink-qe.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink celebrates the first anniversary of Chainlink Economics 2.0.\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/chainlink-qe.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/chainlink-qe-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/chainlink-qe-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Chainlink Automation launched on the Arbitrum and Optimism mainnet to leverage its unique features.  According to the lead strategist at Thales, Chainlink Automation would play a crucial role in claiming rewards.  Chainlink (LINK) has announced that Thales has integrated the Chainlink Automation on the Arbitrum and Optimism mainnets. It is important to note that Thales [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-10-13T08:13:27.000Z",
+    "title": "VeChain’s Leadership Propels it to the Top of the $18.23 Trillion Logistics Market",
+    "url": "https://www.crypto-news-flash.com/vechains-leadership-propels-it-to-the-top-of-the-18-23-trillion-logistics-market/?utm_source=rss&utm_medium=rss&utm_campaign=vechains-leadership-propels-it-to-the-top-of-the-18-23-trillion-logistics-market",
+    "description": "<img width=\"1000\" height=\"697\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-300x209.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-768x535.jpg 768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />VeChain dominates the logistics market, with its blockchain solutions offering unparalleled transparency and efficiency. Waterways transportation demand accelerates, contributing significantly to the logistics sector&#8217;s growth. Recent updates from Precedence Research, bolstered by a tweet from Collin Brown (@CollinBrownXRP), spotlight VeChain&#8217;s paramount role in the rapidly evolving logistics sector. 🚀 VeChain Leads the Way in $18.23 [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-13T08:07:57.000Z",
-    "title": "Charles Hoskinson Dismisses Criticism of Cardano Governance Update",
-    "url": "https://coinedition.com/charles-hoskinson-dismisses-criticism-of-cardano-governance-update/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Cardano_Charles_Hoskinson_Talks_About_Operation_Choke_Point_2_0-2-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A day after hosting a livestream to update Cardano community members on developments on the blockchain, Charles Hoskinson, in a tweet on X &#8211; formerly Twitter &#8211; reacted to a post that suggested the founder is “not confident” about the future of Cardano. In particular, the user who made the post had commented on a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/charles-hoskinson-dismisses-criticism-of-cardano-governance-update/\">Charles Hoskinson Dismisses Criticism of Cardano Governance Update</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-10-13T08:23:46.000Z",
+    "title": "US Rep. Challenges SEC’s Transparency in Letter to Chairman Gensler",
+    "url": "https://coinedition.com/us-rep-challenges-secs-transparency-in-letter-to-chairman-gensler/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/SEC-usa.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC-usa\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/SEC-usa.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/SEC-usa-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/SEC-usa-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/SEC-usa-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/SEC-usa-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/SEC-usa-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Eleanor Terrett, a journalist, shared a letter sent from United States Representative James Comer to Gary Gensler, chairman of the U.S. Securities and Exchange Commission (SEC), addressing Gensler’s actions of “preventing disclosure and transparency.” Rep. Comer, according to Terret, has a “track record of showing he’s not afraid to subpoena government agencies.” In the letter, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/us-rep-challenges-secs-transparency-in-letter-to-chairman-gensler/\">US Rep. Challenges SEC&#8217;s Transparency in Letter to Chairman Gensler</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

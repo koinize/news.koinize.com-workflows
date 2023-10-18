@@ -1,100 +1,128 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-10-18T15:00:00.000Z",
+    "title": "Stellar, Early Blockchain Built for Payments, Adds Smart Contracts to Take on Ethereum",
+    "url": "https://www.coindesk.com/tech/2023/10/18/stellar-early-blockchain-built-for-payments-adds-smart-contracts-to-take-on-ethereum/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The nine-year-old project, one of the earliest major blockchains, is getting a facelift to incorporate  \"smart contracts,\" that theoretically could attract new applications and users – and potentially more demand for the XLM token."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-10-18T14:24:30.000Z",
-    "title": "RareSkills Launches Free Zero-Knowledge Proofs (ZKPs) E-Book",
-    "url": "https://decrypt.co/202138/rareskills-launches-free-zero-knowledge-proofs-zkps-e-book",
-    "description": "The book is designed to provide programmers with all the information needed to code a prover and verifier from scratch that is usable in modern smart contracts."
+    "date": "2023-10-18T15:04:05.000Z",
+    "title": "The Evidence Sam Bankman-Fried's Lawyers Didn't Want Us to See",
+    "url": "https://decrypt.co/202023/evidence-sam-bankman-fried-lawyers-didnt-want-us-to-see",
+    "description": "From yachts to Sam Bankman-Fried’s thoughts on the uncanny valley, the defense has swatted at several exhibits."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-10-18T15:00:50.000Z",
+    "title": "What to Expect From the AI World Fair in Decentraland",
+    "url": "https://decrypt.co/202148/what-expect-ai-world-fair-decentraland",
+    "description": "The AI World Fair is coming to the metaverse, as AI founders and companies like NVIDIA and SingularityNET discuss the buzzy tech topic in Decentraland."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-10-18T14:56:39.000Z",
+    "title": "Mike Novogratz Says a Spot Bitcoin ETF Will Be Approved in 2023",
+    "url": "https://decrypt.co/202165/mike-novogratz-says-a-spot-bitcoin-etf-will-be-approved-in-2023",
+    "description": "Novogratz joins a growing contingent who are much more optimistic that the industry will see a Bitcoin ETF sooner rather than later."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-10-18T14:15:27.000Z",
-    "title": "Terror funding still relies on traditional financial systems like cash, not crypto: Coinbase",
-    "url": "https://cryptoslate.com/terror-funding-still-relies-on-traditional-financial-systems-like-cash-says-coinbase/",
-    "description": "<p>U.S. cryptocurrency exchange Coinbase wrote that the &#8220;overwhelming majority of terrorist funding still relies on traditional financial systems, like cash,&#8221; in an Oct. 17 blog post. The exchange made this statement in response to claims that the crypto industry actively facilitated transactions for malicious players. In the past week, heightened concerns emerged amid recent events, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/terror-funding-still-relies-on-traditional-financial-systems-like-cash-says-coinbase/\">Terror funding still relies on traditional financial systems like cash, not crypto: Coinbase</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-10-18T15:00:45.000Z",
+    "title": "‘Yeah, it’s gonna get approved’: Mike Novogratz predicts 2023 approval for spot Bitcoin ETFs",
+    "url": "https://cryptoslate.com/mike-novogratz-on-spot-bitcoin-etfs-yeah-its-gonna-get-approved/",
+    "description": "<p>In an Oct 18. interview, Mike Novogratz, the CEO of Galaxy Digital, expressed confidence in the impending approval of a spot Bitcoin exchange-traded fund (ETF), saying, &#8220;Yeah, it&#8217;s gonna get approved.&#8221; Speaking on SquawkBox, Novogratz emphasized the perceived shift in the U.S. Securities and Exchange Commission&#8217;s (SEC) stance on such ETFs. According to the CEO, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/mike-novogratz-on-spot-bitcoin-etfs-yeah-its-gonna-get-approved/\">&#8216;Yeah, it&#8217;s gonna get approved&#8217;: Mike Novogratz predicts 2023 approval for spot Bitcoin ETFs</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "CryptoGlobe",
-    "date": "2023-10-18T14:22:00.000Z",
-    "title": "Ethereum-Based Altcoin’s Price Plummets 60% After a Massive 290% Rally in One Month",
-    "url": "https://www.cryptoglobe.com/latest/2023/10/ethereum-based-altcoins-price-plummets-60-after-a-massive-290-rally-in-one-month/",
-    "description": "The price of Ethereum-based altcoin project Loom Network ($LOOM) has fallen nearly 60% from a peak of $0.41 seen earlier this month after the cryptocurrency’s price rallied over 290% over a 30-day period, partly over a listing on a popular cryptocurrency exchange. According to available data the price of Loom Network’s native token LOOM was […]\n"
+    "date": "2023-10-18T14:58:23.000Z",
+    "title": "XRP, BTC, ETH, LTC: Perpetual Futures Launched for Eligible Non-U.S. Users on Coinbase Advanced",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/xrp-btc-eth-ltc-perpetual-futures-launched-for-eligible-non-u-s-users-on-coinbase-advanced/",
+    "description": "Coinbase has expanded its trading services to include perpetual futures for eligible customers in specific non-U.S. jurisdictions. The new feature is part of Coinbase Advanced, the company’s trading platform targeted at experienced retail traders. This move comes in response to a crypto derivatives market that, according to Coinbase, comprises 75% of the total cryptocurrency trading […]\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-10-18T14:21:35.000Z",
-    "title": "Blockchain.com and TON Foundation introduce Toncoin incentive program",
-    "url": "https://cryptodaily.co.uk/2023/10/blockchaincom-and-ton-foundation-introduce-toncoin-incentive-program",
-    "description": "Blockchain.com and TON Foundation introduce Toncoin incentive program"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-18T14:27:58.000Z",
-    "title": "Hong Kong’s crypto sentiment plummets after JPEX scandal: Study",
-    "url": "https://www.cryptopolitan.com/hong-kongs-crypto-sentiment-plummets/",
-    "description": "A recent survey conducted by The Hong Kong University of Science and Technology&#8217;s business school has revealed a significant shift in public sentiment toward cryptocurrencies following the JPEX crypto exchange scandal. The survey, launched shortly after the allegations against JPEX were made public, has shown that 41% of respondents now prefer not to hold virtual ... <a title=\"Hong Kong&#8217;s crypto sentiment plummets after JPEX scandal: Study\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hong-kongs-crypto-sentiment-plummets/\" aria-label=\"More on Hong Kong&#8217;s crypto sentiment plummets after JPEX scandal: Study\">Read more</a>"
+    "source": "CryptoGlobe",
+    "date": "2023-10-18T14:40:25.000Z",
+    "title": "Peter Schiff Criticizes Bitcoin as ‘Cult-Like,’ Sparking Debate Over Its Value Compared to Gold",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/peter-schiff-criticizes-bitcoin-as-cult-like-sparking-debate-over-its-value-compared-to-gold/",
+    "description": "Earlier today, Peter Schiff, the CEO of Euro Pacific Capital, criticized Bitcoin and its supporters in a post on the social media platform X (previously known as Twitter). In addition to his role at Euro Pacific Capital, Schiff has various other financial responsibilities. He is involved with Euro Pacific Asset Management, an independent investment advisory […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-18T14:21:37.000Z",
-    "title": "Blockchain.com and TON Foundation introduce Toncoin incentive program",
-    "url": "https://www.cryptopolitan.com/blockchain-com-and-ton-foundation-introduce-toncoin-incentive-program/",
-    "description": "Zug, Switzerland, October 18th, 2023, Chainwire Today, The Open Network Foundation (TON Foundation), the non-profit Swiss organization working towards growing a Web3 ecosystem within Telegram, has announced a collaborative endeavor with Blockchain.com, one of the world&#8217;s most trusted and popular platforms for retail customers and institutions to buy, sell, and trade cryptocurrency.  Through this collaboration, ... <a title=\"Blockchain.com and TON Foundation introduce Toncoin incentive program\" class=\"read-more\" href=\"https://www.cryptopolitan.com/blockchain-com-and-ton-foundation-introduce-toncoin-incentive-program/\" aria-label=\"More on Blockchain.com and TON Foundation introduce Toncoin incentive program\">Read more</a>"
+    "date": "2023-10-18T15:05:28.000Z",
+    "title": "X rolls out “not a bot” subscription to tackle bots and spam",
+    "url": "https://www.cryptopolitan.com/x-rolls-out-not-a-bot-to-tackle-bots/",
+    "description": "X, the platform once known as Twitter, is introducing a bold strategy to curb the infiltration of disruptive elements such as spam and bot accounts. Starting in New Zealand and the Philippines, the company unveiled a subscription-based approach named “Not A Bot” on October 17. This initiative imposes a $1 fee on new users, designed ... <a title=\"X rolls out “not a bot” subscription to tackle bots and spam\" class=\"read-more\" href=\"https://www.cryptopolitan.com/x-rolls-out-not-a-bot-to-tackle-bots/\" aria-label=\"More on X rolls out “not a bot” subscription to tackle bots and spam\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-18T14:10:09.000Z",
-    "title": "OpenAI’s DevDay Conference and the Rumors of AGI Breakthrough",
-    "url": "https://www.cryptopolitan.com/openais-conference-and-the-agi-breakthrough/",
-    "description": "OpenAI is gearing up for its highly anticipated DevDay conference, an event that promises to shed light on the latest developments in artificial intelligence (AI) and machine learning. Amidst the excitement surrounding DevDay, recent rumors have surfaced regarding OpenAI&#8217;s secret project codenamed Arrakis, which reportedly failed to meet the company&#8217;s expectations during training. While OpenAI&#8217;s ... <a title=\"OpenAI&#8217;s DevDay Conference and the Rumors of AGI Breakthrough\" class=\"read-more\" href=\"https://www.cryptopolitan.com/openais-conference-and-the-agi-breakthrough/\" aria-label=\"More on OpenAI&#8217;s DevDay Conference and the Rumors of AGI Breakthrough\">Read more</a>"
+    "date": "2023-10-18T14:59:57.000Z",
+    "title": "EU’s crypto tax game-changing move",
+    "url": "https://www.cryptopolitan.com/eus-crypto-tax-game-changing-move/",
+    "description": "In a significant move to address the challenges posed by the rapid digitalization of the economy, the Council of the European Union (EU) has adopted a directive aimed at enhancing cooperation among national taxation authorities, particularly regarding crypto-assets transactions. This directive represents a pivotal moment in the EU&#8217;s regulatory approach to cryptocurrency, emphasizing the need ... <a title=\"EU&#8217;s crypto tax game-changing move\" class=\"read-more\" href=\"https://www.cryptopolitan.com/eus-crypto-tax-game-changing-move/\" aria-label=\"More on EU&#8217;s crypto tax game-changing move\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-18T14:49:34.000Z",
+    "title": "Coinbase’s push for regulation hits roadblock as Hamas exploits crypto",
+    "url": "https://www.cryptopolitan.com/coinbases-push-for-regulation-hits-roadblock/",
+    "description": "Coinbase, a leading cryptocurrency exchange, is facing challenges in its lobbying efforts in the United States due to the recent use of cryptocurrency by Hamas militants to fund attacks in Israel, according to a new report by Berenberg Capital Markets. The report, authored by lead analyst Mark Palmer, highlights the regulatory actions and political headwinds ... <a title=\"Coinbase&#8217;s push for regulation hits roadblock as Hamas exploits crypto\" class=\"read-more\" href=\"https://www.cryptopolitan.com/coinbases-push-for-regulation-hits-roadblock/\" aria-label=\"More on Coinbase&#8217;s push for regulation hits roadblock as Hamas exploits crypto\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-18T14:18:21.000Z",
-    "title": "Calgarians lost $22.5m due to crypto scams, Canadian police say",
-    "url": "https://crypto.news/calgarians-lost-22-5m-due-to-crypto-scams-canadian-police-say/",
-    "description": "Although Calgary citizens reported 340 cryptocurrency scam cases this year, police believe scams are &#8216;vastly underreported.&#8217; Citizens of Calgary, Canada, have been targeted by at least 340 cases of scam in 2023, losing a total sum of more than $22.5&#8230;"
+    "date": "2023-10-18T15:09:33.000Z",
+    "title": "US Treasury sanctions Gaza-based crypto exchange",
+    "url": "https://crypto.news/us-treasury-sanctions-gaza-based-crypto-exchange/",
+    "description": "The U.S. Department of the Treasury’s Office of Foreign Assets Control issued sanctions on Buy Cash, a digital asset exchange located in Gaza used by Hamas for terror financing."
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-18T14:13:09.000Z",
-    "title": "Parity employee confirms mass layoffs after rumors initially denied",
-    "url": "https://crypto.news/parity-employee-confirms-mass-layoffs-after-rumors-initially-denied/",
-    "description": "Despite refuting earlier rumors of mass layoffs, a Parity employee shared with DLNews that the layoffs occurred prior to the company retreat. "
+    "date": "2023-10-18T15:08:08.000Z",
+    "title": "Account tied to rapper Nelly compromised, used for crypto phishing scam",
+    "url": "https://crypto.news/account-tied-to-rapper-nelly-compromised-used-for-crypto-phishing-scam/",
+    "description": "The X account associated with American rapper Nelly has allegedly been hacked."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-18T15:01:58.000Z",
+    "title": "Coinbase selects Germany as a key regional talent hub amid the growing shift of web3 firms from the US",
+    "url": "https://crypto.news/coinbase-selects-germany-as-a-key-regional-talent-hub-amid-the-growing-shift-of-web3-firms-from-the-us/",
+    "description": "Coinbase, one of the world’s largest exchanges, announced Germany as being its new regional Talent hub."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-10-18T15:00:37.000Z",
+    "title": "This Rare Bullish Bitcoin Crossover Could Soon Form, Quant Predicts When",
+    "url": "https://www.newsbtc.com/bitcoin-news/rare-bullish-bitcoin-crossover-form-quant-predicts/",
+    "description": "A rare bullish crossover between two on-chain metrics could soon be forming for Bitcoin. Here&#8217;s when this analyst believes the cross would happen. Bitcoin Realized Prices Of Two UTXO Age Bands Are Moving Towards A Cross As explained by an analyst in a CryptoQuant Quicktake post, a bullish crossover is expected to happen soon for BTC. The indicator of interest here is the &#8220;realized price,&#8221; which basically keeps track of the price at which the average investor in the Bitcoin market acquired their coins. The indicator calculates this value by going through the on-chain history of each coin in circulation to see what price it was last transacted at. The metric assumes this price to be its buying price and so, after taking the mean of this value for all tokens on the network, the average cost basis of all coins is obtained. Related Reading: Bitcoin Market Cap Could Rise By $1 Trillion After Spot ETFs Launch: CryptoQuant When the cryptocurrency&#8217;s price is under this metric, it means that the average holder in the sector is in a state of loss. On the other hand, the price being above the indicator implies the overall market is enjoying net profits. The realized price of the entire user base isn&#8217;t of relevance in the context of the current discussion, but two specific UTXO age bands which are 6 months to 12 months and 12 months to 18 months. What these age bands signify is that the coins (or more accurately, UTXOs) belonging to them were last moved inside their range. Now, here is a chart that shows the trend in the Bitcoin realized price for these two UTXO age bands over the past few years: Looks like the the two metrics have been approaching each other in recent days &#124; Source: CryptoQuant As displayed in the above graph, the realized price of the UTXOs sitting dormant between 12 and 18 months ago has been heading down for a while now. The 6-month to 12 months age band had been showing a similar trajectory earlier in the year, but a while back, the metric plateaued and has since then turned itself around. The reason the average cost basis of investors belonging to this age band has reversed its trajectory is that the 6 months cutoff for the group now lies in April, which means that those who bought during the rally in the starting months of the year would now be counted under this cohort. Earlier in the year, the bear market buyers were a part of the group, so the average naturally headed down. The 12-month to 18-month-old group, on the other hand, still constitutes these bear market buyers, hence why its realized price is still decreasing. If these two metrics continue in their current trajectories, they will go through a crossover. As the quant has highlighted in the chart, such a crossover where the 6 months to 12 months band has broken above the 12 months to 18 months cohort, has historically proven to be bullish for the asset. Related Reading: Analyst Points Out Weird Bitcoin Activity On Bybit &#38; Deribit Before Flash Surge In total, there have only been four such crossovers in the cryptocurrency&#8217;s entire history, so if this crossover goes on to form, it would only be the fifth ever. The analyst believes that November 28, 2023, is when this bullish crossover could be expected to form for Bitcoin. BTC Price Bitcoin had made a push toward the $29,000 level yesterday, but it appears the surge has already calmed down as the coin has retraced towards $28,400. BTC appears to have overall moved sideways in the last two days &#124; Source: BTCUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, CryptoQuant.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-18T14:35:13.000Z",
-    "title": "Bitcoin Jumps to $30k as Investors Bet on Bitcoin ETF Approval; Pikamoon and Other Altcoins Set to Benefit",
-    "url": "https://www.crypto-news-flash.com/bitcoin-jumps-to-30k-as-investors-bet-on-bitcoin-etf-approval-pikamoon-and-other-altcoins-set-to-benefit/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-jumps-to-30k-as-investors-bet-on-bitcoin-etf-approval-pikamoon-and-other-altcoins-set-to-benefit",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-18T173350.417.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-18T173350.417.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-18T173350.417-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />There&#8217;s a loud cheer across the traditional investment and cryptocurrency space. After almost a decade, it appears this huge leap in cryptocurrency and blockchain adoption will finally happen to the delight of every traditional and crypto investor. According to emerging reports in recent days, the US Securities and Exchange Commission (SEC) has finally greenlighted a [...]"
+    "date": "2023-10-18T14:50:10.000Z",
+    "title": "SUI Token Drama: Is South Korea’s Watchful Eye Crushing the Sui Foundation’s Hopes?",
+    "url": "https://www.crypto-news-flash.com/sui-token-drama-is-south-koreas-watchful-eye-crushing-the-sui-foundations-hopes/?utm_source=rss&utm_medium=rss&utm_campaign=sui-token-drama-is-south-koreas-watchful-eye-crushing-the-sui-foundations-hopes",
+    "description": "<img width=\"800\" height=\"533\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PRICE.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PRICE.png 800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PRICE-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PRICE-768x512.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/PRICE-104x69.png 104w\" sizes=\"(max-width: 800px) 100vw, 800px\" />The Sui Foundation is accused of misreporting the circulating supply of the native token SUI, which although the team denied is under investigation by the Director of the Financial Supervisory Service in South Korea, Lee Bok-Hyeon. The value of the SUI coin dropped over 5 percent in the past 24 hours to trade around 37 [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-18T14:15:34.000Z",
-    "title": "Ripple’s XRP: A Trillion-Dollar Game Changer for Banking?",
-    "url": "https://www.crypto-news-flash.com/ripples-xrp-a-trillion-dollar-game-changer-for-banking/?utm_source=rss&utm_medium=rss&utm_campaign=ripples-xrp-a-trillion-dollar-game-changer-for-banking",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-154.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"XRP\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-154.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-154-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-154-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Ripple&#8217;s XRP and XLM touted as game changers in international bank transfers. Analyst Kyren underscores the potential of Distributed Ledger Technology (DLT) in modernizing banking operations. A Deep Dive into XRP&#8217;s Promise in Global Banking Former banker and cryptocurrency analyst Kyren has shone light on the transformative potential of cryptocurrencies, specifically Ripple&#8217;s XRP and XLM, [...]"
+    "date": "2023-10-18T14:45:02.000Z",
+    "title": "Manta Network & Polygon Join Forces to Power the ZK Future",
+    "url": "https://www.crypto-news-flash.com/manta-network-polygon-join-forces-to-power-the-zk-future/?utm_source=rss&utm_medium=rss&utm_campaign=manta-network-polygon-join-forces-to-power-the-zk-future",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Manta Pacific integrates Polygon&#8217;s Chain Development Kit (CDK) for its zkEVM, aiming for fortified security and enhanced user experience. The collaboration brings together two pioneers in the realm of zero-knowledge (ZK) technology, signaling a potential paradigm shift in web3 application development. Manta Pacific&#8217;s Evolution with Polygon&#8217;s Expertise Earlier this summer, the Manta Pacific Mainnet Alpha [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-10-18T14:14:39.000Z",
-    "title": "How to Earn Money With Content Using Arweave",
-    "url": "https://www.altcoinbuzz.io/product-release/how-to-earn-money-with-content-using-arweave/",
-    "description": "<p>Arweave is best known for its storage capabilities. However, the platform came up with a revolutionary way to monetize your content. It allows you to attach license rights to your content. Let&#8217;s welcome their new UDL or Universal Data License. There are various tools for UDL that you can use to start monetizing your content.  [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/product-release/how-to-earn-money-with-content-using-arweave/\">How to Earn Money With Content Using Arweave</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Bitfinex Blog",
+    "date": "2023-10-18T14:57:52.000Z",
+    "title": "Bitfinex Securities Opens Accredited Assets to More Investors",
+    "url": "https://blog.bitfinex.com/bitfinex-securities/bitfinex-securities-opens-accredited-assets-to-more-investors/",
+    "description": "<p>Bitfinex Securities is proud to announce a new way for investors to qualify for access to accredited-only investments. Previously, accredited-only investments were limited to either corporate investors or individual investors able to make a minimum investment of 100,000 USD in a specific asset.  Professional Investor Eligibility&#160;...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/bitfinex-securities/bitfinex-securities-opens-accredited-assets-to-more-investors/\">Bitfinex Securities Opens Accredited Assets to More Investors</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-10-18T14:28:00.000Z",
-    "title": "Justin Sun Raises Curiosity With Stablecoins Deposit on Binance",
-    "url": "https://coinedition.com/justin-sun-raises-curiosity-with-stablecoins-deposit-on-binance/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Justin Sun’s Large ETH Withdrawal Ignites Selloff Fears\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Justin-Sun-Takes-a-Stand-for-User-focused-Trading-Platform-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>PeckShieldAlert, an X account of the blockchain security company PeckShield, has identified some significant crypto token transfers on-chain. The alerts handle spotted a transfer of about 119,700 TUSD by a Justin Sun-labeled wallet from the Venus lending DeFi platform into the Binance exchange. PeckShieldAlert also noticed another Justin Sun-labeled address on Tron that transferred 90 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/justin-sun-raises-curiosity-with-stablecoins-deposit-on-binance/\">Justin Sun Raises Curiosity With Stablecoins Deposit on Binance</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-10-18T14:30:27.000Z",
-    "title": "BTC and Gold To Go Up ‘A Lot’ if Fed Pivot Triggers Severe Recession and Stagflation: Economist Peter St Onge",
-    "url": "https://dailyhodl.com/2023/10/18/btc-and-gold-to-go-up-a-lot-if-fed-pivot-triggers-severe-recession-and-stagflation-economist-peter-st-onge/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg 1748w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=1536,900 1536w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-and-Gold-up.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Heritage Foundation think tank economist Peter St Onge says that economic stagnation and high inflation could positively impact Bitcoin (BTC) and gold. In a new interview on Kitco News, the economist says that periods of stagflation have traditionally “been very, very good for hard assets.&#8221; A period of stagflation is characterized by high or rising [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/10/18/btc-and-gold-to-go-up-a-lot-if-fed-pivot-triggers-severe-recession-and-stagflation-economist-peter-st-onge/\">BTC and Gold To Go Up ‘A Lot’ if Fed Pivot Triggers Severe Recession and Stagflation: Economist Peter St Onge</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Bitfinex Blog",
+    "date": "2023-10-18T14:42:26.000Z",
+    "title": "Change Log: Version 1.82",
+    "url": "https://blog.bitfinex.com/changelogs/change-log-version-1-82/",
+    "description": "<p>The Bitfinex Change Log is an overview of all performance and UI changes made to the Bitfinex trading platform. For an overview of all previous changes, please refer to blog.bitfinex.com/category/changelogs. Version 1.82 Features Updated the look and feel of the order book interface settings and...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/changelogs/change-log-version-1-82/\">Change Log: Version 1.82</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

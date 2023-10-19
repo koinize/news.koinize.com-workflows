@@ -1,72 +1,121 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-10-19T12:21:21.000Z",
-    "title": "NYAG Sues Genesis, Gemini, DCG for Defrauding Crypto Investors of $1 Billion",
-    "url": "https://decrypt.co/202343/nyag-charges-genesis-gemini-dcg-defrauding-232000-investors",
-    "description": "\"It was middle-class investors who suffered,\" said NYAG Letitia James of the charges that the three entities defrauded 232,000 investors. "
+    "source": "CoinDesk",
+    "date": "2023-10-19T13:00:00.000Z",
+    "title": "Pantera, Susquehanna and HashKey Back DEX SynFutures With $22M Funding",
+    "url": "https://www.coindesk.com/business/2023/10/19/pantera-susquehanna-and-hashkey-back-dex-synfutures-with-22m-funding/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The funding round was led by Pantera Capital, and included participations from Susquehanna International Group and HashKey Capital."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-10-19T12:20:00.000Z",
-    "title": "Hashing It Out: Diving into cross-chain DeFi lending",
-    "url": "https://cointelegraph.com/news/hashing-it-out-cross-chain-defi-lending",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/6d997f85-27f5-4136-9f55-7b4ac7944ec0.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>MultiChainZ chief operating officer Aanchal Thakur believes that cross-chain lending platforms will open users up to more liquidity.</p>\n                    <p><p>Cointelegraph’s <em>Hashing It Out</em> podcast talked with MultiChainZ chief operating officer Aanchal Thakur to discuss a popular decentralized finance (DeFi) use case: lending. Host Elisha Owusu Akyaw and Thakur explored what makes a cross-chain lending platform different from other platforms and the potential risks it entails. Other highlights include conversations about institutions, DeFi lending, nonfungible token lending, and how projects embrace decentralized autonomous governance. </p><p>Thakur started her cryptocurrency journey by falling for a crypto doubling scam, which she claims taught her an important lesson to take her research of the industry more seriously. She went on to work on multiple projects before moving to MultiChainZ. </p><p>Thakur argued there is a strong case for building a cross-chain lending platform. She explained that funds are unavailable for many people globally, and that creating a lending and borrowing platform that cuts across multiple networks opens users up to more sources of liquidity. </p><p>The MultiChainZ exec also argued that overreliance on a single network may expose projects to a high level of risk. She explained that one of the proper ways to ensure decentralization is to use multiple networks.</p><blockquote>“If a blockchain is not working for even two hours, when Solana was down for a few hours, it impacted so many users. It impacted the trust of those users. So, we realized that it does not make sense to build a product on a particular blockchain.“</blockquote><template data-ct-widget=\"buzzsprout\" data-buzzsprout-podcast-id=\"2096415\"></template><p>Owusu Akyaw asked Thakur about bringing more institutions into Web3 through lending. According to Thakur, most institutional investors are concerned about risk and compliance. On risk, there is a need for a higher security threshold to attract major firms that manage huge sums of money. For compliance, she explained that although most Web3 developers like to look at the industry as a borderless environment, the real world has boundaries with regulations that need to be respected. Failure to work with regulators will keep more institutions away from the ecosystem, she believes.</p><p>Listen to this latest episode of<em> Hashing It Out</em> on <a href=\"https://open.spotify.com/show/3ibvcrJ87PAso4DBIiE5qn?si=5071800991044f7a\" target=\"_blank\" rel=\"noopener nofollow\">Spotify</a>, <a href=\"https://podcasts.apple.com/us/podcast/hashing-it-out/id1658998696?app=podcast\" target=\"_blank\" rel=\"noopener nofollow\">Apple Podcasts</a>, <a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDk2NDE1LnJzcw\" target=\"_blank\" rel=\"noopener nofollow\">Google Podcasts</a> or <a href=\"https://tunein.com/podcasts/Business--Economics-Podcasts/Hashing-It-Out-p3083469/\" target=\"_blank\" rel=\"noopener nofollow\">TuneIn</a>. You can also explore Cointelegraph’s complete catalog of informative podcasts on the <a href=\"https://cointelegraph.com/podcasts\">Cointelegraph Podcasts page</a>.</p><p><strong><em>Magazine: </em><a href=\"https://cointelegraph.com/magazine/cuba-bitcoin-revolution-adoption-embargo/\"><em>The Truth Behind Cuba's Bitcoin Revolution: An on-the-ground report</em></a></strong></p><p class=\"post-content__disclaimer\">This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision.\n</p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-10-19T13:00:00.000Z",
+    "title": "Circle to Let Merchants Pay for Customers' Gas Fees With Web3 Wallet Upgrade",
+    "url": "https://www.coindesk.com/tech/2023/10/19/circle-to-let-merchants-pay-for-customers-gas-fees-with-web3-wallet-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Southeast Asian super app Grab is currently piloting the \"Gas Station\" to cover gas fees for its Singaporean users if they use NFT vouchers."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-10-19T13:01:03.000Z",
+    "title": "Pantera Capital Leads $22 Million Investment in Derivatives Exchange SynFutures",
+    "url": "https://decrypt.co/202334/pantera-capital-leads-22-million-investment-derivatives-exchange-synfutures",
+    "description": "SynFutures' innovative V3 release is aimed at ramping up DeFi's derivatives infrastructure and accommodating institutional players. "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-10-19T12:34:30.000Z",
-    "title": "BlackRock spot bitcoin ETF approval could catapult BTC to $56,000 – Matrixport",
-    "url": "https://cryptoslate.com/blackrock-spot-bitcoin-etf-approval-could-catapult-btc-to-56000-matrixport/",
-    "description": "<p>Bitcoin&#8217;s (BTC) price could surge to as high as $56,000 if the U.S. Securities and Exchange Commission (SEC) approves BlackRock&#8217;s application for a spot exchange-traded fund (ETF), per an Oct. 19 research note by Matrixport shared with CryptoSlate. The prediction is based on the projection that the U.S. registered investor advisor (RIA) community overseeing around $5 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/blackrock-spot-bitcoin-etf-approval-could-catapult-btc-to-56000-matrixport/\">BlackRock spot bitcoin ETF approval could catapult BTC to $56,000 &#8211; Matrixport</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-10-19T13:05:13.000Z",
+    "title": "Bitcoin asserts dominance with new year-to-date peak versus alts",
+    "url": "https://cryptoslate.com/insights/bitcoin-asserts-dominance-with-new-year-to-date-peak-versus-alts/",
+    "description": "<p>Quick Take The crypto graph of 2023 paints an intriguing picture with a significant shift in investor sentiment. Bitcoin&#8217;s dominance has spiked to a compelling year-to-date high of 52.28%, casting a shadow over the performance of altcoins. The market&#8217;s flagship currency&#8217;s robust growth is echoed in the underperformance of its competitors. On a YTD basis, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/bitcoin-asserts-dominance-with-new-year-to-date-peak-versus-alts/\">Bitcoin asserts dominance with new year-to-date peak versus alts</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-10-19T12:22:12.000Z",
-    "title": "Predicting the Future: The Evolving Landscape of Cryptocurrency Trading",
-    "url": "https://cryptodaily.co.uk/2023/10/predicting-the-future-the-evolving-landscape-of-cryptocurrency-trading",
-    "description": "As one chapter closes on cryptocurrency trading in the UK, it ushers in a dawn of structured, regulated, and consumer-protective crypto operations."
+    "date": "2023-10-19T13:08:06.000Z",
+    "title": "Doge Uprising ($DUP) Announces Presale Launch: A Trailblazing Crypto Project Uniting Manga, Web3, Smart Staking, and NFTs",
+    "url": "https://cryptodaily.co.uk/2023/10/doge-uprising-dup-announces-presale-launch-a-trailblazing-crypto-project-uniting-manga-web3-smart-staking-and-nfts",
+    "description": "Doge Uprising ($DUP) Announces Presale Launch: A Trailblazing Crypto Project Uniting Manga, Web3, Smart Staking, and NFTs"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-10-19T12:49:13.000Z",
+    "title": "Binance Quarterly Report Highlights Major Infrastructure Investment",
+    "url": "https://cryptodaily.co.uk/2023/10/binance-quarterly-report-highlights-major-infrastructure-investment",
+    "description": "Binance Research has just released its Q3 report for 2023. “State of Crypto: Market Pulse” provides a snapshot of the blockchain industry as the year prepares to enter its final quarter. There’s been a lot to pack into the last three months of crypto activity but Binance Research does its best to cover it."
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-19T13:08:10.000Z",
+    "title": "Doge Uprising ($DUP) Announces Presale Launch: A Trailblazing Crypto Project Uniting Manga, Web3, Smart Staking, and NFTs",
+    "url": "https://www.cryptopolitan.com/doge-uprising-dup-announces-presale-launch-a-trailblazing-crypto-project-uniting-manga-web3-smart-staking-and-nfts/",
+    "description": "Boston, Massachusetts, October 19th, 2023, Chainwire Doge Uprising ($DUP) is a brand new crypto presale set to make its mark in Q4. This project stands out from the crowd with its unique features. Its detailed roadmap paints a vibrant picture of a Web3 universe enriched by an exclusive NFT collection and an interactive manga series. ... <a title=\"Doge Uprising ($DUP) Announces Presale Launch: A Trailblazing Crypto Project Uniting Manga, Web3, Smart Staking, and NFTs\" class=\"read-more\" href=\"https://www.cryptopolitan.com/doge-uprising-dup-announces-presale-launch-a-trailblazing-crypto-project-uniting-manga-web3-smart-staking-and-nfts/\" aria-label=\"More on Doge Uprising ($DUP) Announces Presale Launch: A Trailblazing Crypto Project Uniting Manga, Web3, Smart Staking, and NFTs\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-19T12:48:42.000Z",
+    "title": "FDIC enhances crypto risk strategy after OIG review",
+    "url": "https://www.cryptopolitan.com/fdic-enhances-crypto-risk-strategy/",
+    "description": "A new report reveals that the Federal Deposit Insurance Corporation (FDIC) is navigating uncharted waters with its crypto asset risk strategy. The corporation&#8217;s Inspector General’s Office (OIG) shed light on the FDIC’s “bottom-up” approach initiated in early 2022. This method focuses on a deep dive into individual banks&#8217; crypto dealings, paired with tailored supervisory feedback ... <a title=\"FDIC enhances crypto risk strategy after OIG review\" class=\"read-more\" href=\"https://www.cryptopolitan.com/fdic-enhances-crypto-risk-strategy/\" aria-label=\"More on FDIC enhances crypto risk strategy after OIG review\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-19T12:35:12.000Z",
-    "title": "Elon Musk and Mark Cuban spoke out against SEC",
-    "url": "https://crypto.news/elon-musk-and-mark-cuban-spoke-out-against-sec/",
-    "description": "American entrepreneurs, including Elon Musk, Philip Goldstein, and Mark Cuban, have filed an amicus curiae brief in the US Securities and Exchange Commission (SEC) case against George Jarkesy Jr. Their appeal to the Supreme Court stated the following: “The SEC’s insistence on&#8230;"
+    "date": "2023-10-19T13:06:03.000Z",
+    "title": "Metaverse supporter Roblox reportedly asking employees to return to office",
+    "url": "https://crypto.news/metaverse-supporter-roblox-reportedly-asking-employees-to-return-to-office/",
+    "description": "One of the vocal supporters of the metaverse is now calling for employees to return to the office. Roblox appears to be shifting from remote-only working to a hybrid mix of in-office and remote work models, as reports say the&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-19T13:01:08.000Z",
+    "title": "InvescoUS and Galaxy amended filing for Ethereum ETF",
+    "url": "https://crypto.news/invescous-and-galaxy-amended-filing-for-ethereum-etf/",
+    "description": "In anticipation of possible approval of its Bitcoin ETF by the U.S. regulator, Galaxy Digital and Invesco have jointly applied to create an Ethereum spot ETF. Galaxy Digital Fund and Invesco have updated their joint application to create a spot&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-19T12:57:14.000Z",
+    "title": "Aptos resumes after 5-hour outage affecting transactions",
+    "url": "https://crypto.news/aptos-resumes-after-5-hour-outage-affecting-transactions/",
+    "description": "Aptos Network, a layer-1 blockchain, has resumed normal operations following a five-hour disruption that affected transactions across its platform. As per the AptoScan network tracker, the Move language-based blockchain experienced a halt in on-chain transactions at 11:11 pm UTC on&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-19T12:46:10.000Z",
+    "title": "Chainalysis report debunks crypto’s role in terrorism financing",
+    "url": "https://crypto.news/chainalysis-report-debunks-cryptos-role-in-terrorism-financing/",
+    "description": "Terrorism financing is chiefly reliant on fiat currency, not cryptocurrencies, as revealed by the latest Chainalysis report. On Oct. 18, Chainalysis, a blockchain analytics firm, published a report that sheds light on the cryptocurrency&#8217;s minimal role in funding terrorism. The&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-10-19T13:00:48.000Z",
+    "title": "Solana Critical Path: Why The Next Solana Moves Demand Attention",
+    "url": "https://www.newsbtc.com/news/solana/solana-critical-path-why-the-next-solana-moves-demand-attention/",
+    "description": "Solana (SOL) has been navigating a challenging correction phase for approximately two months, during which its fortunes have ebbed and flowed. The most recent dip, occurring on Aug. 15, was a direct response to a sudden decline in the price of Bitcoin, sending shockwaves throughout the crypto market. However, a closer examination of Solana&#8217;s price chart reveals an emerging inverse head and shoulders pattern. For those unfamiliar with the inverse head and shoulders pattern, it is a technical chart formation that signals a potential trend reversal. It consists of three key components: a lower low (the head) with two higher lows on either side (the shoulders), forming an inverted &#8220;T&#8221; shape. This pattern typically signifies a shift from a bearish trend to a bullish one, making it an enticing prospect for investors. Related Reading: Shiba Inu Burn Rate Takes A Steep Dive: 91% Decrease In 24 Hours Solana appears to be sketching out this intriguing configuration, hinting at the possibility of a significant upswing in its price. However, the realization of this bullish scenario hinges significantly on SOL&#8217;s ability to breach a crucial resistance point known as the neckline. Solana&#8217;s Potential Trajectory As of the latest data available on CoinGecko, Solana (SOL) is currently trading at $23.79. Over the past 24 hours, the cryptocurrency experienced a slight dip of 0.6%, while it boasted a seven-day rally of 9.9%. These fluctuations reflect the ongoing battle between buyers and sellers, each vying for control of SOL&#8217;s price trajectory. SOL seven-day price movement. Source: Coingecko SOL: From Support To Vulnerability Solana has come a long way from its support level at $22.38, offering sellers an opportunity to exert pressure on the cryptocurrency. If the selling pressure persists, price predictions indicate that SOL could drop another 12%, potentially reaching a price of $18.8. The market&#8217;s vulnerability underscores the need for a cautious approach, both for existing investors and potential buyers. A closer examination of the daily timeframe chart reveals a distinct downward trend characterizing the ongoing correction phase of the cryptocurrency. Sellers are likely to continue exploiting any resistance points during bullish bounces, making it essential for investors to exercise caution. As of today, the market cap of cryptocurrencies stood at $1.06 trillion. Chart: TradingView.com As the market continues on its downward trajectory, potential buyers are advised to exercise patience. The best strategy might be to wait until the neckline resistance is breached, signaling a change in trend. Timing remains paramount, and investors should be prepared to act when the conditions are right. Related Reading: Dogecoin Next Move: Will $0.055 Launch A Recovery Phase? Solana&#8217;s journey through the correction phase has been a rollercoaster ride for investors. In the midst of ongoing market fluctuations, staying informed and cautious is essential for both existing and potential investors in SOL. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from PYMNTS"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-19T12:30:03.000Z",
-    "title": "Hedera Achieves Robust Growth in Q3 2023: Transactions and Staking Lead the Way",
-    "url": "https://www.crypto-news-flash.com/hedera-achieves-robust-growth-in-q3-2023-transactions-and-staking-lead-the-way/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-achieves-robust-growth-in-q3-2023-transactions-and-staking-lead-the-way",
-    "description": "<img width=\"836\" height=\"508\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hedera\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png 836w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--300x182.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--768x467.png 768w\" sizes=\"(max-width: 836px) 100vw, 836px\" />Transaction volume reached a record 99 million daily average transactions with Hedera Consensus Service handling 99%. Hedera saw 28 billion HBAR staked, which is 85% of circulating and 56% of total supply, aiding validators significantly. Unraveling the Secrets Behind Hedera&#8217;s Remarkable Q3 2023 Ascendance: A Deep Dive into the Numbers and Narratives Hedera, a public-permissioned [...]"
+    "date": "2023-10-19T13:04:08.000Z",
+    "title": "Mike Novogratz Bullish: SEC Set to Greenlight Spot Bitcoin ETF in 2023",
+    "url": "https://www.crypto-news-flash.com/mike-novogratz-bullish-sec-set-to-greenlight-spot-bitcoin-etf-in-2023/?utm_source=rss&utm_medium=rss&utm_campaign=mike-novogratz-bullish-sec-set-to-greenlight-spot-bitcoin-etf-in-2023",
+    "description": "<img width=\"1280\" height=\"890\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/bitcoin-6856507_1280.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/bitcoin-6856507_1280.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/bitcoin-6856507_1280-300x209.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/bitcoin-6856507_1280-1024x712.png 1024w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Mike Novogratz suggests that the SEC might approve Bitcoin ETF by year-end due to changing stances, court rulings, and industry pressure. Influential firms like BlackRock, Fidelity, and Grayscale are pushing for more favorable crypto regulations. Mike Novogratz, the CEO of Galaxy Digital, has indicated that there may be a significant shift in the U.S. Securities [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-19T12:28:32.000Z",
-    "title": "Elevate Your Portfolio By Holding Bitcoin Forks: BTCS, BCH, And BSV",
-    "url": "https://www.crypto-news-flash.com/elevate-your-portfolio-by-holding-bitcoin-forks-btcs-bch-and-bsv/?utm_source=rss&utm_medium=rss&utm_campaign=elevate-your-portfolio-by-holding-bitcoin-forks-btcs-bch-and-bsv",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-59.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-59.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-59-300x169.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />With the crypto market steadily recovering, analysts suggest you can elevate your portfolio by holding these three Bitcoin forks: Bitcoin Spark (BTCS), Bitcoin Cash (BCH), and Bitcoin SV (BSV). What is a Bitcoin fork? A Bitcoin fork is a divergence or split in the Bitcoin blockchain, resulting in the creation of two separate and distinct [...]"
+    "date": "2023-10-19T13:00:54.000Z",
+    "title": "Komainu & Copper Pioneer a New Era in Secure Digital Asset Off-Exchange Settlements",
+    "url": "https://www.crypto-news-flash.com/komainu-copper-pioneer-a-new-era-in-secure-digital-asset-off-exchange-settlements/?utm_source=rss&utm_medium=rss&utm_campaign=komainu-copper-pioneer-a-new-era-in-secure-digital-asset-off-exchange-settlements",
+    "description": "<img width=\"800\" height=\"500\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu.jpg 800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu-343x215.jpg 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu-326x205.jpg 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/komainu-163x102.jpg 163w\" sizes=\"(max-width: 800px) 100vw, 800px\" />Komainu, a renowned custody service, collaborates with Copper&#8217;s ClearLoop, opening new doors in off-exchange settlements. The partnership seeks to merge Komainu&#8217;s FCA-approved, on-chain custody with ClearLoop&#8217;s cutting-edge off-exchange settlement capabilities. Revolutionizing Digital Asset Transactions: A Game-changing Collaboration Komainu, a regulated custody service born from a collaboration between industry giants Nomura, Ledger, and CoinShares, has unveiled [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-19T12:19:50.000Z",
-    "title": "Dogecoin (DOGE) Outperforms Ethereum and ADA With Massive 10.32% Jump",
-    "url": "https://www.crypto-news-flash.com/dogecoin-doge-outperforms-ethereum-and-ada-with-massive-10-32-jump/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-doge-outperforms-ethereum-and-ada-with-massive-10-32-jump",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-34.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"DOGE\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-34.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-34-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-34-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Dogecoin outshines Bitcoin, Ethereum, and Cardano with a 10 percent surge in daily active addresses. In July, an analyst predicted that Dogecoin would surge by 600 percent to hit $0.5.  Dogecoin has fallen by 1.36 percent in the last 24 hours. Comparatively, Cardano (ADA) has declined by 1.6 percent in the same period, Bitcoin (BTC) [...]"
+    "date": "2023-10-19T12:51:41.000Z",
+    "title": "Ripple Rival Stellar’s Evolution: Adding Smart Contracts to Challenge Ethereum’s Dominance",
+    "url": "https://www.crypto-news-flash.com/ripple-rival-stellars-evolution-adding-smart-contracts-to-challenge-ethereums-dominance/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-rival-stellars-evolution-adding-smart-contracts-to-challenge-ethereums-dominance",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Morrowind-Stellar-Lumens.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stellar\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Morrowind-Stellar-Lumens.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Morrowind-Stellar-Lumens-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Morrowind-Stellar-Lumens-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Morrowind-Stellar-Lumens-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />The Stellar Lumens blockchain is adding support for smart contracts in a bid to challenge Ethereum&#8217;s dominance in the space. This initiative will boost XLM adoption as the network attracts new users, developers, and a host of new applications. The Stellar Lumens blockchain is going through an upgrade that will see it support smart contracts. [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-19T12:35:00.000Z",
-    "title": "Crypto Regulation: Is the SEC Acting for Investors or Wall Street?",
-    "url": "https://coinedition.com/crypto-regulation-is-the-sec-acting-for-investors-or-wall-street/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-regulation-1-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Forbes contributor and long-time crypto advocate Sam Lyman, in a recent interview, accused the U.S. Securities and Exchange Commission of not protecting retail investors&#8217; interests in its regulation of crypto entities. Lyman asserted that the SEC, under Gary Gensler, has been advancing Wall Street and political interests. “The revolving door between DC and Wall Street [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-regulation-is-the-sec-acting-for-investors-or-wall-street/\">Crypto Regulation: Is the SEC Acting for Investors or Wall Street?</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-10-19T12:12:00.000Z",
-    "title": "Lido Community Proposes To Terminate Its Project on Polygon",
-    "url": "https://coinedition.com/lido-community-proposes-to-terminate-its-project-on-polygon/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Lido-Finance-Price-Analysis\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Lido-Finance-Price-Analysis-2-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Earlier today, Wu Blockchain announced on X that the Lido community released a proposal to terminate the Lido project on Polygon. According to the post, the current state of Lido on Polygon reveals several concerning issues. Despite Lido’s Total Value Locked (TVL) of approximately $86 million on Polygon, the annual revenue for Lido DAO is [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/lido-community-proposes-to-terminate-its-project-on-polygon/\">Lido Community Proposes To Terminate Its Project on Polygon</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-10-19T12:58:00.000Z",
+    "title": "AUDD Launches on Ethereum, Struggles With Liquidity on XRPL",
+    "url": "https://coinedition.com/audd-launches-on-ethereum-struggles-with-liquidity-on-xrpl/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Matic\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/06/Price-Prediction-9-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bill Morgan, a famous digital assets enthusiast, has expressed his disappointment that there have been no integrations involving market makers to provide liquidity to AUDD on the XRPL. Morgan made known his opinion during an elaborate interaction with a spokesperson of AUDD on X (formerly Twitter). A discussion ensued between the AUDD spokesperson and Morgan [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/audd-launches-on-ethereum-struggles-with-liquidity-on-xrpl/\">AUDD Launches on Ethereum, Struggles With Liquidity on XRPL</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

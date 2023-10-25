@@ -1,107 +1,72 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-10-25T12:00:00.000Z",
-    "title": "Bain Capital, Polychain, Lead $6M Funding Round For Privacy Protocol Firm Nocturne Labs",
-    "url": "https://www.coindesk.com/tech/2023/10/25/bain-capital-polychain-lead-6m-funding-round-for-privacy-protocol-firm-nocturne-labs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Other investors included Ethereum co-founder Vitalik Buterin, Bankless Ventures and HackVC."
+    "date": "2023-10-25T12:28:14.000Z",
+    "title": "Millions in Ether, Chainlink Linked to FTX and Alameda Moved",
+    "url": "https://www.coindesk.com/markets/2023/10/25/millions-in-ether-chainlink-linked-to-ftx-and-alameda-moved/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "These funds seemed to be sent to wallets of crypto exchange Binance as per Nansen data, where they presumably could be sold."
   },
   {
     "source": "CoinDesk",
-    "date": "2023-10-25T11:55:12.000Z",
-    "title": "UK Regulator Warns Crypto Firms of 'Hard to Read' Risk Warnings",
-    "url": "https://www.coindesk.com/policy/2023/10/25/uk-regulator-warns-crypto-firms-of-hard-to-read-risk-warnings/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The Financial Conduct Authority has blocked Binance's chosen ad approver and added 221 firms to its warnings list since a new crypto marketing regime took effect on Oct.8."
+    "date": "2023-10-25T12:16:41.000Z",
+    "title": "First Mover Americas: Bitcoin Retreats Slightly; FTX Receives Bids for Restart",
+    "url": "https://www.coindesk.com/markets/2023/10/25/first-mover-americas-bitcoin-retreats-slightly-ftx-receives-bids-for-restart/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Oct. 25, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-10-25T11:47:12.000Z",
-    "title": "Vodafone, Chainlink Show Blockchain Can Support Global Trade Processes",
-    "url": "https://www.coindesk.com/business/2023/10/25/vodafone-chainlink-show-blockchain-can-support-global-trade-processes/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The proof of concept enabled devices to act autonomously and produce accurate information to support global trade processes, the companies said."
+    "source": "CryptoSlate",
+    "date": "2023-10-25T12:30:12.000Z",
+    "title": "Coinbase accuses SEC of attempting ‘radical expansion’ of its authority",
+    "url": "https://cryptoslate.com/coinbase-accuses-sec-of-attempting-radical-expansion-of-its-authority/",
+    "description": "<p>Coinbase accused the U.S. Securities and Exchange Commission (SEC) of overstepping the boundaries of its powers in an Oct. 24 court filing. The exchange argued that the SEC&#8217;s classification of crypto assets listed on its platform as securities falls outside its jurisdiction, further alleging that the regulatory body seeks to redefine the criteria for what [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinbase-accuses-sec-of-attempting-radical-expansion-of-its-authority/\">Coinbase accuses SEC of attempting &#8216;radical expansion&#8217; of its authority</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-10-25T11:51:58.000Z",
-    "title": "MetaMask wallet users get a boost with Solana’s new integration",
-    "url": "https://www.cryptopolitan.com/metamask-users-get-boost-of-sol-integration/",
-    "description": "Solana is strategically enhancing user experience, notably through a fresh collaboration with DeBridgeFinance and Solflare. This partnership ushers in a zero-fee asset transfer for users moving their assets from MetaMask wallets, addressing a significant pain point for many in the blockchain space. Besides slashing fees, the trio&#8217;s initiative introduces a trusted Solflare companion widget once ... <a title=\"MetaMask wallet users get a boost with Solana&#8217;s new integration\" class=\"read-more\" href=\"https://www.cryptopolitan.com/metamask-users-get-boost-of-sol-integration/\" aria-label=\"More on MetaMask wallet users get a boost with Solana&#8217;s new integration\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-25T11:50:11.000Z",
-    "title": "FTX’s mysterious $10M transfer to Coinbase and Binance",
-    "url": "https://www.cryptopolitan.com/ftxs-10m-transfer-to-coinbase-and-binance/",
-    "description": "Cryptocurrency exchange FTX, currently in the midst of bankruptcy proceedings, has reportedly transferred more than $10 million worth of digital assets to Coinbase and Binance, according to on-chain data. Data from the Arkham Intelligence platform reveals that FTX moved a substantial amount of cryptocurrency assets during the early hours of October 25th. The assets involved ... <a title=\"FTX&#8217;s mysterious $10M transfer to Coinbase and Binance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ftxs-10m-transfer-to-coinbase-and-binance/\" aria-label=\"More on FTX&#8217;s mysterious $10M transfer to Coinbase and Binance\">Read more</a>"
+    "source": "Bitcoin.com",
+    "date": "2023-10-25T12:30:27.000Z",
+    "title": "Bitcoin, Ethereum Technical Analysis: BTC Consolidates Recent Gains, as Traders Anticipate Powell Speech",
+    "url": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-consolidates-recent-gains-as-traders-anticipate-powell-speech/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"BTC Consolidates Recent Gains, as Traders Anticipate Fed Powell Speech\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_1105520459-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin profit takers swooped in to capture recent profits on Wednesday, as the cryptocurrency retreated below a recent high above $35,000. The decline comes ahead of Federal Reserve Chair Jerome Powell&#x2019;s speech later today. Ethereum also edged lower, dropping under the $1,800 level. Bitcoin Bitcoin was trading lower on Wednesday, as traders appeared to have [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-25T11:49:41.000Z",
-    "title": "Litecoin Price Prediction 2023-2032: Will LTC Price skyrocket?",
-    "url": "https://www.cryptopolitan.com/litecoin-price-prediction/",
-    "description": "Litecoin Price Prediction 2023-2032 How much is LTC worth? Today, the price of Litecoin stands at $68.9, backed by a 24-hour trading volume amounting to $222 million. With a market capitalization of $4.72 billion, its market dominance is 0.45%. Over the past 24 hours, the LTC price has seen a 1.46% decrease. Currently, the circulating ... <a title=\"Litecoin Price Prediction 2023-2032: Will LTC Price skyrocket?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/litecoin-price-prediction/\" aria-label=\"More on Litecoin Price Prediction 2023-2032: Will LTC Price skyrocket?\">Read more</a>"
+    "date": "2023-10-25T12:19:56.000Z",
+    "title": "WRX Price Prediction 2023-2032: Will WazirX Recover Soon?",
+    "url": "https://www.cryptopolitan.com/wrx-price-prediction/",
+    "description": "WRX Price Prediction 2023-2032 How much is WRX worth? The current price of WazirX (WRX) is $0.094, accompanied by a 24-hour trading volume of $61.59 million. The market capitalization stands at $49.13 million, and WazirX holds a market dominance of 0.00%. Over the past 24 hours, the WRX price has witnessed a 0.43% increase. Currently, ... <a title=\"WRX Price Prediction 2023-2032: Will WazirX Recover Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/wrx-price-prediction/\" aria-label=\"More on WRX Price Prediction 2023-2032: Will WazirX Recover Soon?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-10-25T12:14:10.000Z",
+    "title": "Genesis amended bankruptcy plan takes center stage",
+    "url": "https://www.cryptopolitan.com/genesis-amended-bankruptcy-plan/",
+    "description": "Genesis Global Capital, a prominent crypto lender, has taken a significant step in its journey to resolve outstanding creditor claims as it filed an amended Chapter 11 bankruptcy plan on October 25th.&#160; This development follows extensive negotiations involving Genesis, the Official Committee of Unsecured Creditors, Gemini crypto exchange, and the Ad Hoc Group of Genesis ... <a title=\"Genesis amended bankruptcy plan takes center stage\" class=\"read-more\" href=\"https://www.cryptopolitan.com/genesis-amended-bankruptcy-plan/\" aria-label=\"More on Genesis amended bankruptcy plan takes center stage\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-25T11:55:48.000Z",
-    "title": "Telegram’s IPO preparation presentation leaked online",
-    "url": "https://crypto.news/telegrams-ipo-preparation-presentation-leaked-online/",
-    "description": "Several media outlets have circulated a presentation detailing Telegram Group Inc.&#8217;s preparation for an initial public offering (IPO). A presentation about preparing an initial public offering (IPO) by Telegram Group Inc. has been distributed online by several media outlets. The&#8230;"
+    "date": "2023-10-25T12:34:32.000Z",
+    "title": "Mina is up 85% in one week amid Upbit listing",
+    "url": "https://crypto.news/mina-is-up-85-in-one-week-amid-upbit-listing/",
+    "description": "As of press time, Mina (MINA) is up nearly 85% over the last seven days, but what is it and why is it rising?"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-25T11:48:34.000Z",
-    "title": "Fortress CEO steps down as Ripple abandoned takeover bid",
-    "url": "https://crypto.news/fortress-ceo-steps-down-as-ripple-abandoned-takeover-bid/",
-    "description": "In the aftermath of a hack resulting in millions lost, Nevada-based Fortress Trust is undergoing a significant reorganization, including a change in CEO and the reduction of its workforce. Nevada-based crypto custodian Fortress Trust has undergone reorganization as the firm&#8230;"
+    "date": "2023-10-25T12:11:19.000Z",
+    "title": "MATIC slides 4% as Polygon deploys new token contract on Ethereum",
+    "url": "https://crypto.news/matic-slides-4-as-polygon-deploys-new-token-contract-on-ethereum/",
+    "description": "The Polygon team says the new token has nothing to do with the recent events in the regulatory environment related to the MATIC legal status. Polygon (MATIC) has announced the launch of a smart contract on the Ethereum mainnet for&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-25T12:07:19.000Z",
-    "title": "Shiba Inu’s Burn Rate Soars 400%: Fueling the Crypto’s Rise",
-    "url": "https://www.crypto-news-flash.com/shiba-inus-burn-rate-soars-400-fueling-the-cryptos-rise/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inus-burn-rate-soars-400-fueling-the-cryptos-rise",
-    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/shiba-inu-coin-g61b088f51_1920-48x27.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Shiba Inu&#8217;s SHIB burning rate has increased in both frequency and intensity, inspiring a price surge. In line with network development and an upward price trajectory, SHIB has recorded a 400 percent rise in 24 hours. Since the launch of Shibarium a few months ago, the Shiba Inu burn rate has risen significantly. The burn [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-10-25T11:50:47.000Z",
-    "title": "Best Crypto Presale To Buy Now | Analyzing the Top Crypto Presales of 2023 including Wall Street Memes WSM, ApeMax, Meme Kombat, Shiba Memu, and more",
-    "url": "https://www.crypto-news-flash.com/best-crypto-presale-to-buy-now-analyzing-the-top-crypto-presales-of-2023-including-wall-street-memes-wsm-apemax-meme-kombat-shiba-memu-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=best-crypto-presale-to-buy-now-analyzing-the-top-crypto-presales-of-2023-including-wall-street-memes-wsm-apemax-meme-kombat-shiba-memu-and-more",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-25T143026.971.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-25T143026.971.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-2023-10-25T143026.971-300x169.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The onset of 2023 brings with it a fresh wave of optimism and eagerness in the crypto sphere, particularly focusing on the rapidly expanding presales. In this evolving backdrop, ApeMax is a beacon of prominence, shaping the emerging crypto presale market. While it&#8217;s a dominant player, other presale coins are also generating buzz. Let&#8217;s delve [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-10-25T11:50:34.000Z",
-    "title": "CAKE Shows Signs of Recovery Amidst Prolonged Downtrend: A Detailed Analysis",
-    "url": "https://www.crypto-news-flash.com/cake-shows-signs-of-recovery-amidst-prolonged-downtrend-a-detailed-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=cake-shows-signs-of-recovery-amidst-prolonged-downtrend-a-detailed-analysis",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-20T104611.721.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-20T104611.721.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-20T104611.721-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-2023-07-20T104611.721-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Despite an 18% recovery in its price, CAKE still exhibits signs of a potential extension of its previous downtrend, as seen in the comprehensive market analysis. An increased spike in social dominance and positive social media engagement has been noted for CAKE in recent months, painting a somewhat bullish picture. PancakeSwap’s native token, CAKE, has [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-10-25T11:45:18.000Z",
-    "title": "IOTA & Shimmer Lead the Charge: Safeguarding Web3’s Decentralized Dream",
-    "url": "https://www.crypto-news-flash.com/iota-shimmer-lead-the-charge-safeguarding-web3s-decentralized-dream/?utm_source=rss&utm_medium=rss&utm_campaign=iota-shimmer-lead-the-charge-safeguarding-web3s-decentralized-dream",
-    "description": "<img width=\"981\" height=\"552\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/IOTA_Shimmer_5.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/IOTA_Shimmer_5.jpg 981w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/IOTA_Shimmer_5-300x169.jpg 300w\" sizes=\"(max-width: 981px) 100vw, 981px\" />Understanding the unique security challenges and opportunities in the Web3 landscape is crucial for ensuring digital asset protection. Employing best practices and proactive measures, such as rigorous smart contract audits and flash loan attack mitigation, is essential in creating a secure Web3 environment. As we navigate the swift transition to Web3, ensuring robust digital security [...]"
+    "date": "2023-10-25T12:20:04.000Z",
+    "title": "Floki’s Grand Slam: Strategic Partnership with World Table Tennis to Promote Token to 120 Million Viewers",
+    "url": "https://www.crypto-news-flash.com/flokis-grand-slam-strategic-partnership-with-world-table-tennis-to-promote-token-to-120-million-viewers/?utm_source=rss&utm_medium=rss&utm_campaign=flokis-grand-slam-strategic-partnership-with-world-table-tennis-to-promote-token-to-120-million-viewers",
+    "description": "<img width=\"1706\" height=\"688\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1.png 1706w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1-300x121.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1-1024x413.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1-768x310.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/floki-inu-1-1536x619.png 1536w\" sizes=\"(max-width: 1706px) 100vw, 1706px\" />Floki forms a strategic partnership with World Table Tennis, aiming to promote its ecosystem tokens to an estimated audience of 120 million during the WTT Champions event. The advertisement deal, valued at a median of $10 million, is expected to generate significant interest in Floki and its soon-to-be-launched sister token, especially within the young and [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-25T11:59:00.000Z",
-    "title": "Bitcoin Fear and Greed Index Hits Yearly High Amid Price Rally",
-    "url": "https://coinedition.com/bitcoin-fear-and-greed-index-hits-yearly-high-amid-price-rally/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"US Bitcoin Carbon\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/US-Bitcoin-Carbon-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Bitcoin Fear and Greed Index has turned green following days of significant price rallies. The value of the social metric rose to 72 as of today, October 25, with Bitcoin trading for $34,125, just 3% below the recently established yearly high. Today’s Fear and Greed Index value represents the highest level the metric has [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/bitcoin-fear-and-greed-index-hits-yearly-high-amid-price-rally/\">Bitcoin Fear and Greed Index Hits Yearly High Amid Price Rally</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-10-25T11:45:07.000Z",
-    "title": "$42,000 Bitcoin Target Is ‘Preordained,’ According to Economist Alex Krüger – Here’s Why",
-    "url": "https://dailyhodl.com/2023/10/25/42000-bitcoin-target-is-preordained-according-to-economist-alex-kruger-heres-why/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg 1748w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=1536,900 1536w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/10/Bitcoin-Target-Now-Preordained.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Economist and crypto trader Alex Krüger believes that Bitcoin (BTC) is &#8220;preordained&#8221; to hit $42,000 due to one possible event. According to a new blog post by Krüger&#8217;s financial advisory firm Asgard Markets, the king crypto will likely soar by more than 24% from its current value by the time a possible spot Bitcoin exchange-traded [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/10/25/42000-bitcoin-target-is-preordained-according-to-economist-alex-kruger-heres-why/\">$42,000 Bitcoin Target Is ‘Preordained,’ According to Economist Alex Krüger – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "Bitfinex Blog",
-    "date": "2023-10-25T12:08:00.000Z",
-    "title": "Leading Bitcoin Figures Unite to Champion Financial Freedom: Bitfinex Freedom Manifesto Takes Center Stage",
-    "url": "https://blog.bitfinex.com/uncategorized/leading-bitcoin-figures-unite-to-champion-financial-freedom-bitfinex-freedom-manifesto-takes-center-stage/",
-    "description": "<p>To celebrate the signing of the manifesto, Bitfinex presented exclusive premiere of its documentary, &#8220;Don’t Trust…Verify,&#8221; ROAD TOWN, British Virgin Islands October 25 2023 – In a resounding declaration of their commitment to financial inclusion and freedom of speech, an impressive roster of Bitcoin and...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/uncategorized/leading-bitcoin-figures-unite-to-champion-financial-freedom-bitfinex-freedom-manifesto-takes-center-stage/\">Leading Bitcoin Figures Unite to Champion Financial Freedom: Bitfinex Freedom Manifesto Takes Center Stage</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "date": "2023-10-25T12:18:00.000Z",
+    "title": "ETH Still Has Support Despite the Rejection From the $1,860 Mark",
+    "url": "https://coinedition.com/eth-still-has-support-despite-the-rejection-from-the-1860-mark/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Even_though_Ethereum_has_been_unable_to_maintain_the_1900_level-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The leading altcoin Ethereum (ETH) was one of the handful of cryptocurrencies in the top 10 list that was down at press time. According to data from CoinMarketCap, ETH had recorded a 24-hour loss of 1.25%, and was changing hands at $1,788.71 as a result. The only other cryptocurrencies that suffered a loss during the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/eth-still-has-support-despite-the-rejection-from-the-1860-mark/\">ETH Still Has Support Despite the Rejection From the $1,860 Mark</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

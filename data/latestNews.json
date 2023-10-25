@@ -1,44 +1,79 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2023-10-25T09:35:29.000Z",
+    "title": "Blockchain Tech 'Stuck in the Eighties': Fantom's Andre Cronje",
+    "url": "https://decrypt.co/203217/blockchain-tech-is-stuck-eighties-says-fantoms-andre-cronje",
+    "description": "With the release of Sonic's testnet yesterday, Andre Cronje is hoping to bring Fantom and blockchain technology back to the future. "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-10-25T08:44:50.000Z",
-    "title": "Bitcoin liquidations total $310 million in the past two days",
-    "url": "https://cryptoslate.com/insights/bitcoin-liquidations-total-310-million-in-the-past-two-days/",
-    "description": "<p>Quick Take The recent surge in Bitcoin&#8217;s price has triggered a remarkable volume of liquidations. On Oct. 23, Bitcoin-specific liquidations amounted to $160 million, contributing to $190 million in liquidations that day. This trend persisted into Oct. 24, with short liquidations totaling $70 million and long liquidations totaling $50 million. Comprehensively, the liquidations for these [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/bitcoin-liquidations-total-310-million-in-the-past-two-days/\">Bitcoin liquidations total $310 million in the past two days</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-10-25T08:59:40.000Z",
-    "title": "$BTC: Crypto Analyst Clarifies Expectations for Bitcoin’s Near-Term Price Movement",
-    "url": "https://www.cryptoglobe.com/latest/2023/10/btc-crypto-analyst-clarifies-expectations-for-bitcoins-near-term-price-movement/",
-    "description": "Crypto analyst CredibleCrypto has been actively sharing his bullish outlook on Bitcoin’s near-term price movements through a series of posts on X from October 21 to October 24, 2023. These posts provide a chronological perspective on the analyst’s evolving views. October 21, 2023 Starting on 21 October 2023, CredibleCrypto initiated the conversation by suggesting that […]\n"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-25T08:46:35.000Z",
-    "title": "Solana Price Prediction 2023-2032: Is SOL a Good Investment?",
-    "url": "https://www.cryptopolitan.com/solana-price-prediction/",
-    "description": "Solana Price Prediction 2023-2032 How much is SOL worth? The live Solana price today is $31.06, with a 24-hour trading volume of $228,434,886 USD. We update our SOL to USD price in real-time. Solana is up 2.40% in the last 24 hours. The current CoinMarketCap ranking is #9, with a live market cap of $7,901,314,034. ... <a title=\"Solana Price Prediction 2023-2032: Is SOL a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/solana-price-prediction/\" aria-label=\"More on Solana Price Prediction 2023-2032: Is SOL a Good Investment?\">Read more</a>"
+    "date": "2023-10-25T09:15:49.000Z",
+    "title": "Bankrupt FTX shifts $10M in assets to Coinbase and Binance",
+    "url": "https://cryptoslate.com/bankrupt-ftx-shifts-10m-in-assets-to-coinbase-and-binance/",
+    "description": "<p>Addresses linked to defunct crypto exchange FTX transferred more than $10 million in digital assets to Coinbase and Binance during the early hours of today, Oct. 25, according to on-chain data. Data from the Arkham Intelligence platform indicates that the assets involved in this transfer encompass 2,904 Ethereum (equivalent to $5.18 million), 1,341 Maker (with [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/bankrupt-ftx-shifts-10m-in-assets-to-coinbase-and-binance/\">Bankrupt FTX shifts $10M in assets to Coinbase and Binance</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "BTCManager",
-    "date": "2023-10-25T08:52:34.000Z",
-    "title": "Binance allegedly utilizes HKVAEX to navigate Hong Kong market",
-    "url": "https://crypto.news/binance-allegedly-utilizes-hkvaex-to-navigate-hong-kong-market/",
-    "description": "With a separate company, Binance re wants to avoid unnecessary attention in Hong Kong while dealing with regulators overseas. Crypto exchange Binance is rumored to hide behind HKVAEX, a Hong Kong-based crypto trading platform established in 2022. Currently, HKVAEX is&#8230;"
+    "date": "2023-10-25T09:27:33.000Z",
+    "title": "Bitcoin faces selling pressure as whale activity hikes",
+    "url": "https://crypto.news/bitcoin-faces-selling-pressure-as-whale-activity-hikes/",
+    "description": "Bitcoin has gained bullish momentum over the past week. Despite the green market conditions, the flagship digital currency has already faced some selling pressure. According to a tweet by the market analyst platform CryptoQuant, Bitcoin (BTC) should stay above the&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-25T09:15:30.000Z",
+    "title": "Ripple’s legal win contrasts with XRP price uncertainty",
+    "url": "https://crypto.news/ripples-legal-win-contrasts-with-xrp-price-uncertainty/",
+    "description": "Despite Ripple's legal victory over the SEC, XRP prices remain volatile"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-25T09:12:26.000Z",
+    "title": "FTX in talks with investors to relaunch exchange",
+    "url": "https://crypto.news/ftx-in-talks-with-investors-to-relaunch-exchange/",
+    "description": "FTX Trading Ltd. is again in talks with three bidders about reopening the bankrupt crypto exchange. According to Bloomberg, the final decision on reviving the exchange will be made by mid-December. FTX is discussing details of potentially binding offerings with&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-10-25T09:10:26.000Z",
+    "title": "Navigating the NFT market dip: a shift towards utility",
+    "url": "https://crypto.news/navigating-the-nft-market-dip-a-shift-towards-utility/",
+    "description": "Amidst the market dip, NFT projects might seek creative avenues to redefine their purpose and enhance utility."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-10-25T09:30:36.000Z",
+    "title": "Pro-XRP Legal Expert Shares Expectations If SEC Wins Appeal Against Ripple",
+    "url": "https://www.newsbtc.com/xrp-news/pro-xrp-expert-sec-ripple/",
+    "description": "Pro-XRP legal expert Fred Rispoli has shared some expectations following Judge Analisa Torres’ order, where she officially dismissed the US Securities and Exchange Commission’s (SEC) claims against Ripple’s executives Brad Garlinghouse and Chris Larsen.  SEC Can Still Bring Claims Against Ripple’s Executives In a post shared on his X (formerly Twitter) platform, Rispoli noted that the SEC could still file another lawsuit against Garlinghouse and Larsen if they were to appeal Judge Torres’ ruling on the programmatic sales and other distributions and get a judgment in their favor.  Related Reading: Bitcoin Spot ETF Approval: Why Price Could Be Set For 300% Surge His assumption is based on the fact that the Judge’s latest order showed that the SEC only dismissed the claims against them with respect to the institutional sales, as the Commission had alleged that both Garlinghouse and Larsen aided and abetted Ripple Labs in violating securities laws with respect to the crypto company’s offers and sales of XRP. However, he stated that any action would only be restricted to the programmatic sales and other distributions since the dismissal with respect to the institutional sales was with prejudice, meaning a claim cannot be brought again regarding that particular matter.  In July, Judge Torres also ruled that the institutional sales were investment contracts, which amounted to them being securities. In line with this, the SEC and Ripple will move to settle on the latter’s violation of securities laws, with the firm expected to pay a particular amount as a fine for its violation of the act.  Token price clears $0.54 resistance &#124; Source: XRPUSD on Tradingview.com  Will The SEC Appeal Judge&#8217;s XRP Decision? As to whether the SEC will appeal Judge Torres&#8217; ruling on the programmatic sales and other distributions, Rispoli seemed to suggest that that was unlikely as the SEC was more focused on crunching the numbers (probably the monies Ripple will pay as fine) and “wrap this one up for good.” In a subsequent post, he also mentioned that there was the possibility that they received assurances from the SEC to not file an appeal as one would expect that Garlinghouse and Larsen’s “high-powered attorneys” would have asked that the SEC dismissed all the claims, including the ones relating to the programmatic sales and other distributions.  Related Reading: Bitcoin: On-Chain Tracker Points Out Interesting Difference Between Current And Past Rallies Interestingly, Rispoli had once predicted the likely outcome of this case as he had stated that the SEC was unlikely to drag Ripple’s executives through a trial and that they had only brought forward the claims against them in order to force Ripple into a “weak settlement position.” The SEC is also unlikely to appeal, going by pro-XRP legal expert John Deaton’s comments when he suggested that the ETH Gate saga may have forced the SEC into what Ripple’s Chief Legal Officer Stuart Alderoty has described as a “surrender.” Featured image from U.Today, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-25T08:50:10.000Z",
-    "title": "SEC Sues BlackRock, Bitcoin ETF Relisted on Nasdaq as Price Prepares for Next Move to $40,000",
-    "url": "https://www.crypto-news-flash.com/sec-sues-blackrock-bitcoin-etf-relisted-on-nasdaq-as-price-prepares-for-next-move-to-40000/?utm_source=rss&utm_medium=rss&utm_campaign=sec-sues-blackrock-bitcoin-etf-relisted-on-nasdaq-as-price-prepares-for-next-move-to-40000",
-    "description": "<img width=\"721\" height=\"480\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/blackrock-f.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BlackRock\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/blackrock-f.jpg 721w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/blackrock-f-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/blackrock-f-104x69.jpg 104w\" sizes=\"(max-width: 721px) 100vw, 721px\" />The SEC has levied charges against BlackRock amidst the surprise reappearance of its Bitcoin ETF on Nasdaq, creating a whirlwind in the crypto market. Despite the temporary removal of BlackRock’s Bitcoin ETF from the DTCC’s website, the asset has reappeared, indicating potential advancements and stirring market speculation. In a remarkable turn of events, the financial [...]"
+    "date": "2023-10-25T09:26:49.000Z",
+    "title": "Forbes Highlights VeChain as an Innovative Startup in the Billion-Dollar Manufacturing Industry",
+    "url": "https://www.crypto-news-flash.com/forbes-highlights-vechain-as-an-innovative-startup-in-the-billion-dollar-manufacturing-industry/?utm_source=rss&utm_medium=rss&utm_campaign=forbes-highlights-vechain-as-an-innovative-startup-in-the-billion-dollar-manufacturing-industry",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-2.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-2-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-2-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-VeChain-2-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />VeChain is recognized as a leading startup innovating the manufacturing sector, as highlighted by Forbes Digital Assets. The integration of blockchain technology in manufacturing, as exemplified by VeChain, paves the way for enhanced transparency, product authenticity, and optimized supply chains. In a captivating revelation, Forbes Digital Assets has brought VeChain into the limelight, applauding its [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-10-25T08:54:00.000Z",
-    "title": "MINA Embraces “Uptober” As Its Price Surges 88+% in 1 Week",
-    "url": "https://coinedition.com/mina-embraces-uptober-as-its-price-surges-88-in-1-week/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Mina-MINA-price-analysis-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Mina (MINA) is one of the tokens leading the altcoin market rally from the past few days after its price managed to surge by more than 88% in the past week. The altcoin’s success over the past few days also landed it the 21st spot on CoinMarketCap’s trending list. MINA’s success from the previous days [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/mina-embraces-uptober-as-its-price-surges-88-in-1-week/\">MINA Embraces “Uptober” As Its Price Surges 88+% in 1 Week</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-10-25T09:12:03.000Z",
+    "title": "As The Market Begins To Recover, Here Are The Top Cryptos To Buy",
+    "url": "https://www.crypto-news-flash.com/as-the-market-begins-to-recover-here-are-the-top-cryptos-to-buy/?utm_source=rss&utm_medium=rss&utm_campaign=as-the-market-begins-to-recover-here-are-the-top-cryptos-to-buy",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-100.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-100.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-100-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-100-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The crypto market has been through a rough patch in 2023, with many speculators suffering losses. Regulatory pressure on key players like Binance and Coinbase hasn&#8217;t helped either, leading to institutional investors pulling out their funding from the industry. But now things are starting to look up; there&#8217;s renewed optimism as the market begins its [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2023-10-25T09:21:13.000Z",
+    "title": "BEST Free To Play Crypto Game + IQ Protocol | $1000+ Prize Pool",
+    "url": "https://www.altcoinbuzz.io/blockchain-technology/best-free-to-play-crypto-game-iq-protocol-1000-prize-pool/",
+    "description": "<p>BEST CRYPTO GAME + NFT RENTING. This is one of my favorite combinations especially when you can win up to $1,000. I am even more excited because the game is one of the best web3 shooter games around and I can rent the NFTs to play it for a fraction of the asset price. Sometimes [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/blockchain-technology/best-free-to-play-crypto-game-iq-protocol-1000-prize-pool/\">BEST Free To Play Crypto Game + IQ Protocol | $1000+ Prize Pool</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-10-25T09:15:31.000Z",
+    "title": "This Ethereum (ETH) Play Could Front Run BlackRock, According to Crypto Veteran Arthur Cheong",
+    "url": "https://dailyhodl.com/2023/10/25/this-ethereum-eth-play-could-front-run-blackrock-according-to-crypto-veteran-arthur-cheong/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg 1748w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=1536,900 1536w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/10/This-Ethereum-Play-Could.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Venture capitalist Arthur Cheong says that Ethereum (ETH) could go on a massive rally if one possible scenario plays out. The DeFiance Capital founder and CEO tells his 151,900 followers on the social media platform X that if BlackRock succeeds with its application for a spot Bitcoin (BTC) exchange-traded fund (ETF) the financial giant may [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/10/25/this-ethereum-eth-play-could-front-run-blackrock-according-to-crypto-veteran-arthur-cheong/\">This Ethereum (ETH) Play Could Front Run BlackRock, According to Crypto Veteran Arthur Cheong</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

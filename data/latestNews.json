@@ -1,100 +1,107 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-10-26T11:35:40.000Z",
+    "title": "UK Lawmakers Pass Bill to Help Seize Illicit Crypto",
+    "url": "https://www.coindesk.com/policy/2023/10/26/uk-lawmakers-pass-bill-to-help-seize-illicit-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The bill lets law enforcement freeze crypto without a conviction, promising faster and more substantial seizures."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-10-26T11:24:16.000Z",
+    "title": "HayCoin Price Climbs to $5.5M Per Token as Long-Term Holder Destroys 51 HAY",
+    "url": "https://www.coindesk.com/markets/2023/10/26/haycoin-price-climbs-to-55m-per-token-as-long-term-holder-destroys-51-hay/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The first-ever token floated on Uniswap was revived by a bunch of developers and is quickly gaining a loyal community."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-10-26T11:26:55.000Z",
+    "title": "Memecoin Madness: PEPE, Dogecoin and SHIB Surge Amid Crypto Rally",
+    "url": "https://decrypt.co/203348/memecoin-madness-pepe-dogecoin-shib-ride-crypto-rally",
+    "description": "The memecoins haven't been forgotten in the latest rally, with PEPE, DOGE, and SHIB all soaring double-digits over the week. "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-10-26T11:13:32.000Z",
+    "title": "Circle launches 'points-to-crypto' program with Taiwan convenience store chain ",
+    "url": "http://cointelegraph.com/news/circle-points-to-crypto-program-taiwan-convenience-store",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-10/c8e275fe-2d66-45cd-9f15-1f90bf6932cb.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The United States-based stablecoin issuer Circle reports a partnership with Taiwan’s second-largest convenience store chain, FamilyMart and a local crypto exchange, BitoGroup.</p>\n                    <p><p>The United States-based stablecoin issuer Circle has <a href=\"https://www.circle.com/en/pressroom/circle-joins-forces-with-bitogroup-and-taiwan-familymart?fbclid=IwAR1JXC3s0myHl_HxFRc4-TG1Do2M-T30Dge-2DxbLb6Hw8FvDveu6vuCGVE\" target=\"_blank\" rel=\"noopener nofollow\">report</a>ed a partnership with Taiwan’s second-largest convenience store chain, FamilyMart, and a local crypto exchange, BitoGroup. According to the company’s press release from Oct. 26, it will deliver a new ‘Points-to-Crypto’ service on the Taiwan FamilyMart App. </p><p>This will allow FamilyMart customers to exchange their loyalty points for the Circle-issued USDC. Customers will be able to withdraw the equivalent of FamiPoints to their BitoPro wallets. As the release explains: </p><blockquote>“Converting FamiPoints into USDC prevents a loss of value in loyalty points over time and incurs zero transaction fees, democratizing access to cryptocurrencies.” </blockquote><p>Circle emphasizes the significance of loyalty points in Taiwan, citing the 2021 report by the Market Intelligence &amp; Consulting Institute (MIC), according to which 87% of Taiwanese users engage in points accumulation, with an overwhelming 99% of them utilizing points often for product redemptions.</p><p><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/binance-sec-case-circle-admitted-amicus-curiae\"><strong><em>Circle admitted by judge as amicus curiae in SEC vs. Binance lawsuit: Report</em></strong></a></p><p>Taiwan FamilyMart's FamiPoints have reportedly attracted over 17 million members nationwide, while BitoGroup claims a membership base of around 800,000 users. </p><p>In early October, Circle <a href=\"https://cointelegraph.com/news/usdc-stablecoin-issuer-partners-philippines\">announced a strategic partnership</a> with Coins.ph, a major cryptocurrency exchange and digital wallet provider in the Philippines.</p><p>Taiwan may get the first draft of a <a href=\"https://cointelegraph.com/news/taiwan-rypto-law-november-report\">crypto law by the end of November</a> 2023. In September, Taiwan’s Financial Supervisory Commission (FSC) <a href=\"https://cointelegraph.com/news/taiwan-bans-operation-unregistered-foreign-crypto-exchanges\">formulated the key points</a> for regulating Taiwan’s cryptocurrency market, releasing industry guidelines for virtual asset service providers (VASP) operating in the country. </p><p><strong><em><u>Magazine: </u></em></strong><a href=\"https://cointelegraph.com/magazine/crypto-zero-knowledge-voting-finance/\"><strong><em>Beyond crypto. Zero-knowledge proofs show potential from voting to finance</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-10-26T11:00:12.000Z",
-    "title": "Surge in Bitcoin Lightning Network capacity may just be the tip of the iceberg",
-    "url": "https://cryptoslate.com/insights/surge-in-bitcoins-lightning-network-capacity-may-just-be-the-tip-of-the-iceberg/",
-    "description": "<p>Quick Take A rapid surge in the capacity of Bitcoin&#8217;s Lightning Network is now nearing a year-to-date high of over 5,500 Bitcoin, coming close to its all-time high. This swift increase, observed predominantly over the past month, approximates around $180 million, representing the total BTC locked within this Layer 2 payment protocol. The Bitcoin Lightning [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/insights/surge-in-bitcoins-lightning-network-capacity-may-just-be-the-tip-of-the-iceberg/\">Surge in Bitcoin Lightning Network capacity may just be the tip of the iceberg</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-10-26T11:17:13.000Z",
+    "title": "JPMorgan’s JPM Coin plans retail expansion as it secures $1 billion in daily transactions",
+    "url": "https://cryptoslate.com/jpmorgans-jpm-coin-plans-retail-expansion-after-1-billion-in-daily-transactions/",
+    "description": "<p>JPMorgan&#8217;s JPM Coin is enjoying high adoption, with its daily transaction volume hitting $1 billion, Bloomberg reported on Oct. 26. This surge was disclosed by Takis Georgakopoulos, the bank&#8217;s Global Head of Payments, who expressed the institution&#8217;s intentions to expand its use to retail customers. JPM Coin is a blockchain-powered payment digital asset that allows [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/jpmorgans-jpm-coin-plans-retail-expansion-after-1-billion-in-daily-transactions/\">JPMorgan&#8217;s JPM Coin plans retail expansion as it secures $1 billion in daily transactions</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-10-26T11:11:58.000Z",
+    "title": "$XRP: Japanese Financial Giant SBI Holdings Unveils NFT Initiative on XRP Ledger for World Expo 2025",
+    "url": "https://www.cryptoglobe.com/latest/2023/10/xrp-japanese-financial-giant-sbi-holdings-unveils-nft-initiative-on-xrp-ledger-for-world-expo-2025/",
+    "description": "Japanese financial behemoth SBI Holdings has disclosed its intention to roll out a new Non-Fungible Token (NFT) service on the XRP Ledger (XRPL). The digital collectible — dubbed “EXPO2025 Digital Wallet NFT” (aka “Myakoon!”) — is a collaborative effort between SBI VC Trade (the crypto trading arm of SBI) and SBINFT (a subsidiary focused on […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-10-26T10:59:40.000Z",
-    "title": "Discover 30 Best Crypto Projects Dominating in 2023",
-    "url": "https://cryptodaily.co.uk/2023/10/discover-30-best-crypto-projects-dominating-in-2023",
-    "description": "Discover the top 30 cryptocurrency projects that have been shining in 2023. Explore the latest trends, innovations, and game-changers in the crypto space."
+    "date": "2023-10-26T11:36:33.000Z",
+    "title": "Bolide Finance Strengthens Security Measures through Partnership with Sayfer",
+    "url": "https://cryptodaily.co.uk/2023/10/bolide-finance-strengthens-security-measures-through-partnership-with-sayfer",
+    "description": "Bolide Finance Strengthens Security Measures through Partnership with Sayfer"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-10-26T10:49:13.000Z",
-    "title": "TFS Token: 5 Exceptional iGaming Benefits",
-    "url": "https://cryptodaily.co.uk/2023/10/tfs-token-5-exceptional-igaming-benefits",
-    "description": "The world of gaming has witnessed significant transformation thanks to blockchain technology. Digital tokens are now at the forefront of these changes, underpinning in-game assets, economies, and governance systems."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-10-26T11:08:12.000Z",
-    "title": "Galxe embarks on a strategic alliance with Kroma, Lightscale’s innovative Ethereum Layer 2 solution, backed by gaming publisher Wemade",
-    "url": "https://cryptodaily.co.uk/2023/10/galxe-embarks-on-a-strategic-alliance-with-kroma-lightscales-innovative-ethereum-layer-2-solution-backed-by-gaming-publisher-wemade",
-    "description": "Leading web3 community platform, Galxe, and Kroma, Lightscale's Ethereum Layer 2 solution leveraging ZK Proof technology, today announced their platform integration and strategic partnership."
+    "source": "Bitcoin.com",
+    "date": "2023-10-26T11:30:32.000Z",
+    "title": "Zero-Knowledge WaaS a Prospective Standard Configuration for Web3 Application-Layer Products — Pengyu Wang",
+    "url": "https://news.bitcoin.com/zero-knowledge-waas-a-prospective-standard-configuration-for-web3-application-layer-products-pengyu-wang/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Zero-Knowledge WaaS a Prospective Standard Configuration for Web3 Application-Layer Products — Pengyu Wang\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/10/shutterstock_2339707217.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />According to Pengyu Wang, the founder of Particle Network, developer solutions known as zero-knowledge wallet-as-a-service (ZK-WaaS) embody Web3 principles and &#x201C;are highly performant&#x201D; which in turn makes them &#x201C;an evergreen solution that will become the industry standard.&#x201D; Wang also points to how zero-knowledge technology helps ensure a core principle of Web3, asset sovereignty for end [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-26T11:09:08.000Z",
-    "title": "Veteran PlayStation Executive Connie Booth’s Exit Sparks Controversy",
-    "url": "https://www.cryptopolitan.com/playstation-executive-connie-booths-exit/",
-    "description": "The departure of Connie Booth, a long-time executive at Sony&#8217;s PlayStation division, has sent shockwaves through the gaming community. Initially reported as a voluntary departure, new information has emerged suggesting that Booth was, in fact, terminated from her position. This revelation comes from David Scott Jaffe, a prominent figure in the gaming industry, who claims ... <a title=\"Veteran PlayStation Executive Connie Booth&#8217;s Exit Sparks Controversy\" class=\"read-more\" href=\"https://www.cryptopolitan.com/playstation-executive-connie-booths-exit/\" aria-label=\"More on Veteran PlayStation Executive Connie Booth&#8217;s Exit Sparks Controversy\">Read more</a>"
+    "date": "2023-10-26T11:30:23.000Z",
+    "title": "Recovery experts pave the way to unlock Ex-Ripple CTO’s $244M Bitcoin treasure trove",
+    "url": "https://www.cryptopolitan.com/ex-ripple-ctos-244m-bitcoin-treasure-trove/",
+    "description": "In a significant development in the world of cryptocurrency, crypto recovery firm Unciphered has extended a proposal to unlock a digital treasure chest containing 7,002 Bitcoins (BTC), currently valued at approximately $244 million. The hard drive, belonging to former Ripple Chief Technology Officer Stefan Thomas, has remained inaccessible for several years due to Thomas forgetting ... <a title=\"Recovery experts pave the way to unlock Ex-Ripple CTO&#8217;s $244M Bitcoin treasure trove\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ex-ripple-ctos-244m-bitcoin-treasure-trove/\" aria-label=\"More on Recovery experts pave the way to unlock Ex-Ripple CTO&#8217;s $244M Bitcoin treasure trove\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-26T11:06:14.000Z",
-    "title": "12th Africa Bank 4.0 Summit – SADC Region: Upscaling Digital Financial Services and Payments: Innovative, Agile, Accessible, Affordable",
-    "url": "https://www.cryptopolitan.com/12th-africa-bank-4-0-summit-sadc-region-upscaling-digital-financial-services-and-payments-innovative-agile-accessible-affordable/",
-    "description": "Summary: 12th Africa Bank 4.0 Summit – SADC Region is scheduled to be hosted on 15th and 16th of November, 2023 at The Maslow Hotel, Sandton, Johannesburg, South Africa. Johannesburg, South Africa &#8211; 1st November, 2023:12th Africa Bank 4.0 Summit – SADC Region is all set to be hosted on the 15th &#38; 16th of ... <a title=\"12th Africa Bank 4.0 Summit – SADC Region: Upscaling Digital Financial Services and Payments: Innovative, Agile, Accessible, Affordable\" class=\"read-more\" href=\"https://www.cryptopolitan.com/12th-africa-bank-4-0-summit-sadc-region-upscaling-digital-financial-services-and-payments-innovative-agile-accessible-affordable/\" aria-label=\"More on 12th Africa Bank 4.0 Summit – SADC Region: Upscaling Digital Financial Services and Payments: Innovative, Agile, Accessible, Affordable\">Read more</a>"
+    "date": "2023-10-26T11:29:23.000Z",
+    "title": "SEC ups the ante in Ripple case, seeking $770 million",
+    "url": "https://www.cryptopolitan.com/sec-ups-the-ante-in-ripple-case-seeking-770m/",
+    "description": "In the ongoing legal battle between the SEC and Ripple, new insights surface, casting a fresh perspective on the matter. John Deaton, the renowned lawyer behind CryptoLawUS, sheds light on the intensifying scenario. Deaton suggests that the SEC&#8217;s aggressive stance isn’t merely about classifying XRP as a security. The regulatory body, evidently embarrassed, now seemingly ... <a title=\"SEC ups the ante in Ripple case, seeking $770 million\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sec-ups-the-ante-in-ripple-case-seeking-770m/\" aria-label=\"More on SEC ups the ante in Ripple case, seeking $770 million\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-10-26T11:03:49.000Z",
-    "title": "How Did Everlodge (ELDG) Investors Get 130% Profit Within Weeks, PancakeSwap (CAKE) and Huobi (HT) Fight The Bears",
-    "url": "https://www.cryptopolitan.com/how-did-everlodge-eldg-investors-get-130-profit-within-weeks-pancakeswap-cake-and-huobi-ht-fight-the-bears/",
-    "description": "Cryptocurrencies have become increasingly popular as investment options in recent years. However, with the ever-changing market conditions, it can be difficult to pick the ones that are actually worth investing in. In this article, we’ll take a look at what’s happening in the crypto world right now. We will see why Everlodge might be the ... <a title=\"How Did Everlodge (ELDG) Investors Get 130% Profit Within Weeks, PancakeSwap (CAKE) and Huobi (HT) Fight The Bears\" class=\"read-more\" href=\"https://www.cryptopolitan.com/how-did-everlodge-eldg-investors-get-130-profit-within-weeks-pancakeswap-cake-and-huobi-ht-fight-the-bears/\" aria-label=\"More on How Did Everlodge (ELDG) Investors Get 130% Profit Within Weeks, PancakeSwap (CAKE) and Huobi (HT) Fight The Bears\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-26T10:53:57.000Z",
-    "title": "Tech giants lose $280B as crypto market soars",
-    "url": "https://www.cryptopolitan.com/tech-giants-lose-280b-as-crypto-market-soars/",
-    "description": "In a surprising turn of events, the world of technology saw one of its most significant sell-offs in recent times as seven major tech giants collectively lost a staggering $280 billion in market capitalization. This downturn, triggered by the release of earnings reports has sent shockwaves through the stock market and raised concerns about the ... <a title=\"Tech giants lose $280B as crypto market soars\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tech-giants-lose-280b-as-crypto-market-soars/\" aria-label=\"More on Tech giants lose $280B as crypto market soars\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-26T10:47:24.000Z",
-    "title": "The BRICS Tiger – How does India’s history influence its vision of crypto?",
-    "url": "https://www.cryptopolitan.com/the-brics-tiger-how-does-indias-history-influence-its-vision-of-crypto/",
-    "description": "Part of a series of deeper dives on BRICS members to see their individual economic and political trends to try to imagine how they will move forward on crypto and how this may affect the BRICS perspective on crypto. Today, we focus on India in BRICS, often called the &#8220;Indian Tiger&#8221;. Historical Background &#8211; Empires, ... <a title=\"The BRICS Tiger &#8211; How does India’s history influence its vision of crypto?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-brics-tiger-how-does-indias-history-influence-its-vision-of-crypto/\" aria-label=\"More on The BRICS Tiger &#8211; How does India’s history influence its vision of crypto?\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-26T10:42:58.000Z",
-    "title": "Coinbase triumphs in SEC battle: Federal Court approves request for oral arguments",
-    "url": "https://www.cryptopolitan.com/coinbase-sec-battle-court-approves-arguments/",
-    "description": "In a significant turn of events for the crypto industry, the U.S. District Court has granted Coinbase, a leading crypto exchange platform, its motion for oral arguments against the U.S. Securities and Exchange Commission (SEC). The judgment focuses on several pressing issues about the nature of digital tokens, their classification as investment contracts, and the ... <a title=\"Coinbase triumphs in SEC battle: Federal Court approves request for oral arguments\" class=\"read-more\" href=\"https://www.cryptopolitan.com/coinbase-sec-battle-court-approves-arguments/\" aria-label=\"More on Coinbase triumphs in SEC battle: Federal Court approves request for oral arguments\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-10-26T10:42:30.000Z",
-    "title": "Binance.US completes Flare token airdrop for XRP holders",
-    "url": "https://www.cryptopolitan.com/binance-us-completes-flare-token-airdrop/",
-    "description": "Binance.US, a prominent cryptocurrency exchange, finalized its Flare (FLR) token airdrop distribution, exciting eligible XRP holders. On October 25, 2023, the exchange disseminated the FLR tokens, fulfilling commitments from a December 2020 snapshot. The momentous completion occurred at 10 a.m. EDT, marking the end of a prolonged anticipation within the crypto community. Eligible participants in ... <a title=\"Binance.US completes Flare token airdrop for XRP holders\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-us-completes-flare-token-airdrop/\" aria-label=\"More on Binance.US completes Flare token airdrop for XRP holders\">Read more</a>"
+    "date": "2023-10-26T11:23:28.000Z",
+    "title": "MoonPay’s role in mastercard’s Web3 experiential marketing initiatives",
+    "url": "https://www.cryptopolitan.com/moonpays-role-in-mastercards-web3/",
+    "description": "In a significant move towards embracing the evolving landscape of blockchain and cryptocurrencies, Mastercard has joined forces with MoonPay, a prominent crypto payment firm, to explore new opportunities in the Web3 space. Mastercard, a global leader in payment technology, has officially entered into a strategic partnership with MoonPay, a well-known player in the crypto payment ... <a title=\"MoonPay&#8217;s role in mastercard&#8217;s Web3 experiential marketing initiatives\" class=\"read-more\" href=\"https://www.cryptopolitan.com/moonpays-role-in-mastercards-web3/\" aria-label=\"More on MoonPay&#8217;s role in mastercard&#8217;s Web3 experiential marketing initiatives\">Read more</a>"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-10-26T10:43:35.000Z",
-    "title": "Dogecoin Prepares for Stellar Ascent: Crypto Expert Projects a Surge to $1.5",
-    "url": "https://www.crypto-news-flash.com/dogecoin-prepares-for-stellar-ascent-crypto-expert-projects-a-surge-to-1-5/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-prepares-for-stellar-ascent-crypto-expert-projects-a-surge-to-1-5",
-    "description": "<img width=\"1502\" height=\"1000\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin.jpg 1502w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-104x69.jpg 104w\" sizes=\"(max-width: 1502px) 100vw, 1502px\" />Renowned crypto analyst, Jaydee, has shared an optimistic forecast for Dogecoin, indicating a potential surge in its price to surpass $1.5 based on technical patterns and historical data. Jaydee&#8217;s analysis highlights Dogecoin&#8217;s previous price movements and current chart structures, suggesting a similar trajectory to its 380x price increase observed during the 2020-2021 period. The crypto [...]"
+    "date": "2023-10-26T11:36:36.000Z",
+    "title": "Bolide Finance Strengthens Security Measures through Partnership with Sayfer",
+    "url": "https://www.crypto-news-flash.com/bolide-finance-strengthens-security-measures-through-partnership-with-sayfer/?utm_source=rss&utm_medium=rss&utm_campaign=bolide-finance-strengthens-security-measures-through-partnership-with-sayfer",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/bolid_for_article__1698161045LTlJrXKqFN.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/bolid_for_article__1698161045LTlJrXKqFN.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/bolid_for_article__1698161045LTlJrXKqFN-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/bolid_for_article__1698161045LTlJrXKqFN-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/bolid_for_article__1698161045LTlJrXKqFN-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Tel Aviv, Israel, October 26th, 2023, Chainwire Bolide Finance Partners with Sayfer for a Security-First Approach As a leading yield automation and liquidity management platform in the booming DeFi space, Bolide Finance offers attractive APYs to users who provide liquidity across multiple protocols. However, the project recognizes that long-term sustainability requires strong security.  By completing a smart [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-10-26T10:53:07.000Z",
-    "title": "Solana Dapps Blocked in the UK",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/solana-dapps-blocked-in-the-uk/",
-    "description": "<p>Regulation in crypto is coming. We can already see real-life situations develop. One of the latest samples occurred in the UK. Two big Solana Dapps blocked UK users.  This happened because of &#8220;compliance concerns&#8221; over Financial Conduct Authority (FCA) regulations. It involved Marinade Finance and Orca Finance on Solana. So, let&#8217;s take a closer look [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io/cryptocurrency-news/solana-dapps-blocked-in-the-uk/\">Solana Dapps Blocked in the UK</a> appeared first on <a rel=\"nofollow\" href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-10-26T11:24:53.000Z",
+    "title": "Bitcoin, Ethereum and Litecoin Braced for $48,300,000,000,000 Price Earthquake to Reach New All-Time High",
+    "url": "https://www.crypto-news-flash.com/bitcoin-ethereum-and-litecoin-braced-for-48300000000000-price-earthquake-to-reach-new-all-time-high/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-ethereum-and-litecoin-braced-for-48300000000000-price-earthquake-to-reach-new-all-time-high",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-27-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-27-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-27-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-27-1-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />With Bitcoin’s price surpassing the $35,000 mark, influenced by the hype around BlackRock&#8217;s Bitcoin ETF application and Warren Buffett&#8217;s lucrative Bitcoin investments, the crypto market is bracing for a transformative shift. Analysts predict a potential influx of over $14 billion into the Bitcoin market, stemming from the U.S. wealth management sector, upon SEC’s approval of [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-10-26T11:15:53.000Z",
+    "title": "FTX Initiates Significant Crypto Transfers: Solana Assets Worth $15 Million Shifted",
+    "url": "https://www.crypto-news-flash.com/ftx-initiates-significant-crypto-transfers-solana-assets-worth-15-million-shifted/?utm_source=rss&utm_medium=rss&utm_campaign=ftx-initiates-significant-crypto-transfers-solana-assets-worth-15-million-shifted",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-74.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-74.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/unnamed-74-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />FTX has recently moved 470,000 SOL tokens, equivalent to $15 million, from a cold wallet to various centralized exchanges such as Binance and Coinbase. The movement also included a transfer of $2.5 million worth of various cryptocurrencies from an FTX cold storage-labeled address on Ethereum to Wintermute, a notable global algorithmic trading firm for digital [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-10-26T10:54:00.000Z",
-    "title": "Polygon Labs Announced POL Token Upgrade Live on ETH Mainnet",
-    "url": "https://coinedition.com/polygon-labs-announced-pol-token-upgrade-live-on-eth-mainnet/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon’s_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/Polygons_dApp_activity_upsurge_could_mean_this_for_MATIC_in_the-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>On Wednesday, Polygon Labs announced in a post on X that the POL token upgrade is now live on Ethereum mainnet. The Labs stressed that Polygon 2.0 &#8220;is a roadmap for scaling Ethereum&#8221;  in constructing the Value Layer of the Internet. Therefore the new token POL will replace MATIC in an upgrade as they “can [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/polygon-labs-announced-pol-token-upgrade-live-on-eth-mainnet/\">Polygon Labs Announced POL Token Upgrade Live on ETH Mainnet</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-10-26T11:21:00.000Z",
+    "title": "Crypto ETF 2024 Launch: Bitcoin by January, Ethereum Awaits May",
+    "url": "https://coinedition.com/crypto-etf-2024-launch-bitcoin-by-january-ethereum-awaits-may/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71.jpg 730w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-71-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The much-anticipated arrival of a spot Bitcoin exchange-traded fund (ETF) in the United States is on the horizon, with market experts predicting that it could become a reality by no later than January 10, 2024. In a recent discussion on Unchained Crypto, James Seyffart, market analyst at Bloomberg Intelligence, and Matt Hougan, CIO at Bitwise [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://coinedition.com/crypto-etf-2024-launch-bitcoin-by-january-ethereum-awaits-may/\">Crypto ETF 2024 Launch: Bitcoin by January, Ethereum Awaits May</a> appeared first on <a rel=\"nofollow\" href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

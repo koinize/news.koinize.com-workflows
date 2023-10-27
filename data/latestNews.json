@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "source": "CoinDesk",
+    "date": "2023-10-27T03:00:00.000Z",
+    "title": "Protocol Village: Neo to Develop EVM-Compatible Sidechain",
+    "url": "https://www.coindesk.com/tech/2023/10/26/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the week of Oct. 16-22, with live updates throughout."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-10-27T03:03:33.000Z",
+    "title": "The Insides of Mars Is ‘Surprisingly Soft’, A New Survey Says",
+    "url": "https://decrypt.co/203456/northwestern-study-probes-deep-into-the-red-planets-core",
+    "description": "NASA's InSight rover has been collecting seismic data on Mars for three years, offering a snapshot of the planet's internal structure."
+  }
+]

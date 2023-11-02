@@ -1,79 +1,93 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-11-02T15:31:57.000Z",
-    "title": "MicroStrategy Acquired an Additional 155 Bitcoin Since End of Q3",
-    "url": "https://www.coindesk.com/business/2023/11/02/microstrategy-acquired-an-additional-155-bitcoin-since-end-of-q3/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "MicroStrategy purchased the bitcoin at an average price of $27,531, according to its earnings report on Wednesday."
+    "date": "2023-11-02T15:45:00.000Z",
+    "title": "Crypto for Advisors: Opinion: Direct Crypto Ownership Is Best",
+    "url": "https://www.coindesk.com/business/2023/11/02/crypto-for-advisors-opinion-direct-crypto-ownership-is-best/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "In this week's issue of Crypto for Advisors, learn why direct ownership of crypto may be in the best interest of the client."
   },
   {
     "source": "CoinDesk",
-    "date": "2023-11-02T15:21:20.000Z",
-    "title": "U.S. SEC's Knock From Congressional Watchdog May Not Budge Crypto Accounting Policy",
-    "url": "https://www.coindesk.com/policy/2023/11/02/us-secs-knock-from-congressional-watchdog-may-not-budge-crypto-accounting-policy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "As the U.S. Securities and Exchange Commission (SEC) Chair keeps chasing non-compliance in crypto, his agency was slammed by the watchdog Government Accountability Office (GAO) for its own compliance failure in issuing crypto accounting standards without treating the policy as a formal rule. So, what now? In practical terms, probably nothing much."
+    "date": "2023-11-02T15:39:52.000Z",
+    "title": "Protocol Village: Huma, On-Chain Credit Platform, Deploys on Celo",
+    "url": "https://www.coindesk.com/tech/2023/11/01/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Nov. 2-8, with live updates throughout."
   },
   {
     "source": "Decrypt",
-    "date": "2023-11-02T15:27:54.000Z",
-    "title": "Not Just Solana: Gaming Tokens Are Booming as Decentraland's MANA Pumps",
-    "url": "https://decrypt.co/204138/not-just-solana-gaming-tokens-booming-decentraland-mana-pumps",
-    "description": "Solana is this week’s biggest gainer, but another token has topped the charts over the past day, with Decentraland’s MANA up 12%."
+    "date": "2023-11-02T16:01:10.000Z",
+    "title": "Meet LEO AI, The Brave Browser Assistant from Anthropic",
+    "url": "https://decrypt.co/204059/brave-browser-leo-ai-assistant-anthropic",
+    "description": "Leo can carry a conversation but filters out potentially dangerous requests and responses—with more features planned."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-02T15:48:44.000Z",
+    "title": "So You Want to Short Ethereum? There's an ETF for That",
+    "url": "https://decrypt.co/204139/you-want-short-ethereum-theres-etf-for-that",
+    "description": "ProShares’ latest Ethereum-focused fund may appeal to investors who are bearish on the market’s second-largest cryptocurrency."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-11-02T15:20:49.000Z",
-    "title": "CoinStats introduces Chain Activity for comprehensive wallet insights for airdrop farmers",
-    "url": "https://cryptoslate.com/coinstats-introduces-chain-activity-for-comprehensive-wallet-insights-for-airdrop-farmers/",
-    "description": "<p>Digital Assets management platform CoinStats has introduced &#8220;Chain Activity&#8221; to allow users to monitor their wallet&#8217;s activities, especially on blockchain networks with potential airdrops, according to a Nov. 2 statement shared with CryptoSlate. Chain Activity provides detailed insights into CoinStats users&#8217; wallet participation in airdrop farming activities. This feature allows the users to gauge their [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/coinstats-introduces-chain-activity-for-comprehensive-wallet-insights-for-airdrop-farmers/\">CoinStats introduces Chain Activity for comprehensive wallet insights for airdrop farmers</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-11-02T16:00:54.000Z",
+    "title": "A month in review: Solana’s DeFi protocols break new ground",
+    "url": "https://cryptoslate.com/solanas-defi-protocols-break-new-ground/",
+    "description": "<p>Over the past 30 days, there has been a notable shift in the performance of DeFi protocols on Solana. Orca, a decentralized exchange, witnessed a growth of 85.5% in Daily Active Users (DAU), increasing from 7,600 to 14,100. In contrast, the number of active users on Raydium, a Solana-based AMM, surged by 161.2%, from 6,700 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/solanas-defi-protocols-break-new-ground/\">A month in review: Solana&#8217;s DeFi protocols break new ground</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-11-02T15:35:52.000Z",
-    "title": "Are Solana (SOL) and Cardano (ADA) On Track to Upstage Bitcoin?",
-    "url": "https://cryptodaily.co.uk/2023/11/are-solana-sol-and-cardano-ada-on-track-to-upstage-bitcoin",
-    "description": "Explore the vibrant crypto landscape where Solana (SOL) and Cardano (ADA) are at the forefront, making strides amid market fluctuations. Gain insights into their latest price surges, technical patterns, and future potential as they carve out their niches in the fast-paced world of digital currencies. Stay informed and refine your investment strategies with up-to-date analysis on movements of SOL and ADA in this ever-evolving market."
+    "source": "Bitcoin.com",
+    "date": "2023-11-02T16:00:25.000Z",
+    "title": "Sam Bankman-Fried’s Attorney Paints Picture of Mistakes, Not Crimes, in Closing Argument",
+    "url": "https://news.bitcoin.com/sam-bankman-frieds-attorney-paints-picture-of-mistakes-not-crimes-in-closing-argument/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Sam Bankman-Fried&#039;s Attorney Paints Picture of Mistakes, Not Crimes, in Closing Argument\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/sbf12000000.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Sam Bankman-Fried&#8217;s lawyer Mark Cohen gave a final argument Wednesday, portraying the FTX founder as someone who &#8220;did his best&#8221; and made mistakes but did not commit crimes. Bankman-Fried&#8217;s Lawyer: &#8216;Mistakes Are Not a Crime&#8217; Sam Bankman-Fried&#8216;s attorney, Mark Cohen, is well-known for representing convicted sex offender Ghislaine Maxwell. This year, he is defending the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-02T15:35:49.000Z",
-    "title": "UAE issues DLT regulation allowing issuance of governance tokens",
-    "url": "https://www.cryptopolitan.com/uae-issues-dlt-regulation-allowing-issuance-of-governance-tokens/",
-    "description": "UAE’s Abu Dhabi Global Market after announcing its DLT token issuance consultation paper in April 2023 has now officially launched its new regulation that will allow DLT (Distributed Ledger Technology) Foundations, DAO (Decentralized Autonomous Organizations) to issue tokens. This means that DLT Foundation of Layer 1 or Layer 2 protocol Foundations can receive licenses from ... <a title=\"UAE issues DLT regulation allowing issuance of governance tokens\" class=\"read-more\" href=\"https://www.cryptopolitan.com/uae-issues-dlt-regulation-allowing-issuance-of-governance-tokens/\" aria-label=\"More on UAE issues DLT regulation allowing issuance of governance tokens\">Read more</a>"
+    "date": "2023-11-02T15:48:00.000Z",
+    "title": "Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?",
+    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
+    "description": "Binance Coin Price Prediction 2023-2032 Binance coin and the entire crypto market have seen little gains in the past few days, as prices have been consolidating in tight regions. BNB prices have dropped by 14.11% since touching $248.9 in August 2023. What does the future hold for Binance Coin? How much is BNB worth? The ... <a title=\"Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-coin-price-prediction/\" aria-label=\"More on Binance Coin Price Prediction 2023-2032: Is BNB Ready for the Bull Run?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-02T15:42:16.000Z",
+    "title": "Insights into the Superman Lives Project and AI Challenges",
+    "url": "https://www.cryptopolitan.com/the-superman-lives-project-and-ai-challenges/",
+    "description": "Renowned actor Nicolas Cage recently spoke out about his concerns regarding the use of artificial intelligence (AI) in the entertainment industry, dubbing it &#8216;inhumane&#8217; and a &#8216;nightmare&#8217;. Cage&#8217;s remarks echoed the sentiments expressed by director Tim Burton, with whom he almost collaborated on the ill-fated 1998 Superman Lives project. Despite some confusion surrounding his recent ... <a title=\"Insights into the Superman Lives Project and AI Challenges\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-superman-lives-project-and-ai-challenges/\" aria-label=\"More on Insights into the Superman Lives Project and AI Challenges\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-02T15:26:06.000Z",
-    "title": "SFC aims to offer clarity and investor protection in tokenized securities activities",
-    "url": "https://crypto.news/sfc-aims-to-offer-clarity-and-investor-protection-in-tokenized-securities-activities/",
-    "description": "Hong Kong's Securities and Futures Commission (SFC), the independent statutory body tasked with regulating the securities and futures markets, has released two circulars aimed at overseeing the tokenization of digital assets."
+    "date": "2023-11-02T15:46:03.000Z",
+    "title": "Ripple’s top lawyer scrutinizes SEC’s courtroom defeats during Gensler tenure",
+    "url": "https://crypto.news/ripples-top-lawyer-scrutinizes-secs-courtroom-defeats-during-gensler-tenure/",
+    "description": "The SEC faces a series of legal challenges, including a recent rebuke from the Fifth Circuit Court, highlighting scrutiny over its regulatory decisions and potential implications for the cryptocurrency market."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-11-02T15:18:08.000Z",
-    "title": "Wadzpay receives approval from Dubai’s Virtual Assets Regulatory Authority",
-    "url": "https://crypto.news/wadzpay-receives-approval-from-dubais-virtual-assets-regulatory-authority/",
-    "description": "In a press release dated Oct 31. WadzPay, a technology provider that facilitates virtual asset-based payments has shared the news that they have initial approval from Duba’s Virtual Assets Regulatory Authority (VARA), the competent entity in charge of regulating, supervising, and overseeing VAs and VA Activities."
+    "source": "NewsBTC",
+    "date": "2023-11-02T16:00:34.000Z",
+    "title": "Shiba Inu volume Gains momentum",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-volume-gains-momentum/",
+    "description": "Recent data has revealed the crypto exchange with the highest trading volume of Shiba Inu, indicating an upward trajectory for the digital asset as the volume continues to surge in the crypto exchange. The crypto exchange that has propelled Shiba Inu&#8217;s growth lately is the leading cryptocurrency platform, Binance. Shiba Inu Volume Doubles On Binance According to CoinMarketCap, Binance is the top crypto exchange for the Shiba Inu market. The total volume of Shiba Inu being traded in the crypto exchange has since experienced a double-figure growth over the past 24 hours, presenting a bullish trend for the digital asset. The upswing in Shiba Inu volume on the largest crypto exchange highlights the token&#8217;s appeal and points to a possible future growth spurt. Related Reading: Shiba Inu Accumulation: You Won’t Believe How Much SHIB Whales Have Bought SHIB recorded a significant volume of $37,739,036 in the past 24 hours, indicating a volume rise of over 21% in less than a day. But as of the time of writing, the digital asset&#8217;s 24-hour trading volume is pegged at $40,539,374. The crypto exchange&#8217;s spot trading volume mostly buttresses this surge in volume, with an overnight increase of over 11% valued at $173,262,859.  The digital asset has also seen a significant uptick in its 24-hour trading volume on Coinbase &#8211; the largest cryptocurrency exchange in the US. Shiba Inu&#8217;s trading volume on the exchange is currently pegged at over $12 million, indicating an over 6% rise in the past 24 hours. Currently, Shiba Inu&#8217;s market capitalization is valued at $4.66 billion, with a current SHIB price of $0.0000079 as of the time of writing. The amount traded in a day is $147.82 million. The digital asset has a circulating supply of approximately 589 billion and has increased by +1.72% during the past 24 hours. So far, the digital asset is growing at a rate of 3.62%, continuing its upward trend. Over the past week, Shiba Inu has garnered the interest of traders and investors.  Related Reading: Shiba Inu Reverses December Downtrend – Good Days Ahead For Investors? Rare Signal Sparks Price Increase For SHIB Following a bullish trend in the TD sequential in the past week, the indicator has presented an upward trajectory for the price of Shiba Inu. According to Ali Martinez, the TD Sequential sparked a rare &#8216;9&#8217; buy signal on the Shiba Inu&#8217;s weekly chart; this signal presents a significant growth price for SHIB due to the infrequency of the particular signal. &#8220;The TD Sequential flashed a buy signal on [the] SHIB weekly chart. Notably, the previous two bullish turns from this indicator led to price surges of 118% and 71%, respectively. Given the infrequency yet precision of such signals, it’s a pivotal moment to keep a keen eye on SHIB,&#8221; Martinez stated.  The last time TD Sequential indicated a &#8216;9&#8217; buy signal for Shiba Inu was in September; the token&#8217;s price increased by over 71% during the next nine weeks. With the signal emerging yet again, we are likely to see a bullish trend. Featured image from CryptoGlobe, chart from Tradingview.com"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-11-02T15:13:30.000Z",
-    "title": "Chelsea Manning-backed Nym releases privacy-first VPN powered by blockchain",
-    "url": "https://crypto.news/chelsea-manning-backed-nym-releases-privacy-first-vpn-powered-by-blockchain/",
-    "description": "Nym Technologies, the privacy infrastructure project with backing from a16z and Chelsea Manning, shares the release of its decentraized VPN for Q1 2024, which is said to disperse user traffic across a network of nodes."
+    "source": "Crypto News Flash",
+    "date": "2023-11-02T16:00:02.000Z",
+    "title": "Elon Musk’s X Post Sends Meme Coin Soaring with 94% Surge – Is This The Next Dogecoin Project",
+    "url": "https://www.crypto-news-flash.com/elon-musks-x-post-sends-meme-coin-soaring-with-94-surge-is-this-the-next-dogecoin-project/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musks-x-post-sends-meme-coin-soaring-with-94-surge-is-this-the-next-dogecoin-project",
+    "description": "<img width=\"1920\" height=\"1189\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-300x186.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-1024x634.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-768x476.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-1536x951.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-163x102.jpg 163w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-24x15.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-36x22.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-48x30.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Elon Musk&#8217;s tweet celebrating his dog Marvin&#8217;s birthday led to a 94 percent increase in the value of the meme coin Marvin Inu. The market&#8217;s response to Musk&#8217;s post shows his significant influence on cryptocurrency prices, as seen with previous mentions of other coins. In an online world where the influence of high-profile figures can [...]"
   },
   {
-    "source": "Kraken Blog",
-    "date": "2023-11-02T15:13:53.000Z",
-    "title": "ETH deposits and withdrawals now available on zkSync Era!",
-    "url": "https://blog.kraken.com/product/new-features/eth-deposits-and-withdrawals-now-available-on-zksync-era",
-    "description": "We’re thrilled to announce that Kraken now supports deposits and withdrawals of Ethereum (ETH) on zkSync Era! What is zkSync Era? zkSync Era is an Ethereum virtual machine-compatible Layer-2 rollup protocol by Matter Labs. Formerly known as zkSync 2.0, the project rebranded to zkSync Era in February, 2023. ZkSync Era employs zero knowledge (ZK) rollups [&#8230;]"
+    "source": "Crypto News Flash",
+    "date": "2023-11-02T15:57:22.000Z",
+    "title": "UK Finalizes Regulatory Guidelines for Cryptocurrencies, Stablecoins; Bitcoin’s Value Increases and VC Spectra’s Presale Soars by 500%",
+    "url": "https://www.crypto-news-flash.com/uk-finalizes-regulatory-guidelines-for-cryptocurrencies-stablecoins-bitcoins-value-increases-and-vc-spectras-presale-soars-by-500/?utm_source=rss&utm_medium=rss&utm_campaign=uk-finalizes-regulatory-guidelines-for-cryptocurrencies-stablecoins-bitcoins-value-increases-and-vc-spectras-presale-soars-by-500",
+    "description": "<img width=\"512\" height=\"301\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-2023-11-02T185643.287.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-2023-11-02T185643.287.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-2023-11-02T185643.287-300x176.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The United Kingdom has unveiled its long-awaited regulatory guidelines for cryptocurrencies and stablecoins, marking a significant development in the global crypto landscape. In response to this, Bitcoin (BTC) and other top crypto coins have surged. Meanwhile, VC Spectra (SPCT) is rapidly gaining traction among investors thanks to its unique features and promising returns.  Looking for [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-02T15:36:00.000Z",
-    "title": "28.92M Celestia’s TIA Airdrop Claimed by Sybil, Airdrop Hunters",
-    "url": "https://coinedition.com/28-92m-celestias-tia-airdrop-claimed-by-sybil-airdrop-hunters/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Celestia TIA Airdrop Claimed by Sybil\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/The-End-for-Airdrops-Tom-Schmidt-Weighs-In-on-SUI-Controversy-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A concerning trend has been observed following the airdrop of TIA tokens that marked the mainnet beta launch of the modular blockchain Celestia. According to the findings, more than half of the recipients of Celestia’s TIA airdrops were dishonest actors, otherwise called Sybil Groups or airdrop hunters.&#160; In a recent report, renowned blockchain researcher X-explore [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/28-92m-celestias-tia-airdrop-claimed-by-sybil-airdrop-hunters/\">28.92M Celestia’s TIA Airdrop Claimed by Sybil, Airdrop Hunters</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-11-02T16:02:00.000Z",
+    "title": "Solana (SOL) Records 14-Month High with Firedancer Testnet Launch",
+    "url": "https://coinedition.com/solana-sol-records-14-month-high-with-firedancer-testnet-launch/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana Ecosystem Tokens Surge by 300% Over the Last 24 Hours\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Solana-Ecosystem-Tokens-Surge-by-300-Over-the-Last-24-Hours-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Solana (SOL) has marked a significant milestone, soaring to a 14-month high of $46. This remarkable rally, a 12% increase in the last 24 hours, has erased the losses sustained following the FTX crypto exchange collapse. Despite the unstacking of over 500K Solana coins worth $21 million by FTX, the SOL bulls have maintained their [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/solana-sol-records-14-month-high-with-firedancer-testnet-launch/\">Solana (SOL) Records 14-Month High with Firedancer Testnet Launch</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

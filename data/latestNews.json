@@ -1,58 +1,44 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2023-11-06T13:29:17.000Z",
+    "title": "ApeFest Attendees Report Experiencing Eye Pain, Yuga Labs Says 'Less Than 1%' Affected",
+    "url": "https://decrypt.co/204435/yuga-labs-says-less-than-1-apefest-attendees-suffering-eye-damage",
+    "description": "Yuga Labs told Decrypt that of the 2,250 ApeFest attendees, it has only been in direct contact with 15 people who claim to have been affected."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-06T13:24:48.000Z",
+    "title": "Chainlink’s LINK reaches a new yearly high amid string of market narratives",
+    "url": "https://cryptoslate.com/chainlinks-link-reaches-a-new-yearly-high-amid-string-of-market-narratives/",
+    "description": "<p>Chainlink’s LINK native token has soared by more than 60% over the past month to a yearly high of $12.65, according to CryptoSlate&#8217;s data. During the reporting period, LINK broke through critical resistance levels, hitting highs not seen since April 2022. Why is LINK rising? While the broader crypto market has enjoyed a strong rally [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/chainlinks-link-reaches-a-new-yearly-high-amid-string-of-market-narratives/\">Chainlink&#8217;s LINK reaches a new yearly high amid string of market narratives</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-11-06T12:55:12.000Z",
-    "title": "Arthur Hayes warns on institutional Bitcoin control",
-    "url": "https://www.cryptopolitan.com/arthur-hayes-warns-on-institutional-bitcoin/",
-    "description": "Arthur Hayes, a key figure in the cryptocurrency sector, has voiced concerns regarding the potential influence of a spot Bitcoin exchange-traded fund (ETF) on the digital asset&#8217;s future. Amidst rising anticipation within the crypto community for the anticipated approval of such an ETF, Hayes has articulated a note of caution about Bitcoin&#8217;s increasing allure for ... <a title=\"Arthur Hayes warns on institutional Bitcoin control\" class=\"read-more\" href=\"https://www.cryptopolitan.com/arthur-hayes-warns-on-institutional-bitcoin/\" aria-label=\"More on Arthur Hayes warns on institutional Bitcoin control\">Read more</a>"
+    "date": "2023-11-06T13:37:43.000Z",
+    "title": "Major crypto scam is being investigated by authorities in Himachal Pradesh",
+    "url": "https://www.cryptopolitan.com/authoritie-himachal-pradesh-crypto-scam/",
+    "description": "In a significant crackdown on high-profile cryptocurrency fraud, the Special Investigation Team (SIT) in Himachal Pradesh has made substantial headway, detaining eight individuals, including four police officers, in connection with a colossal Rs 2,500 crore ($300.45 million) scam that has been unraveling since 2018. Ongoing investigation yields more arrests The SIT&#8217;s relentless pursuit of justice ... <a title=\"Major crypto scam is being investigated by authorities in Himachal Pradesh\" class=\"read-more\" href=\"https://www.cryptopolitan.com/authoritie-himachal-pradesh-crypto-scam/\" aria-label=\"More on Major crypto scam is being investigated by authorities in Himachal Pradesh\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-11-06T13:06:03.000Z",
-    "title": "Arbitrum DAO votes in favor of bringing ARB staking",
-    "url": "https://crypto.news/arbitrum-dao-votes-in-favor-of-bringing-arb-staking/",
-    "description": "The Arbitrum community has supported a proposal to make a staking mechanism for ARB tokens. Arbitrum DAO has voted in favor of a recent proposal by PlutusDAO, which suggested creating a staking contract for ARB tokens to &#8220;incentivize long-term tokens&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2023-11-06T13:17:02.000Z",
+    "title": "UKRI Invests £117 Million in AI Doctoral Training",
+    "url": "https://www.cryptopolitan.com/ukri-invests-117m-in-ai-doctoral-training/",
+    "description": "UK Research and Innovation (UKRI) has allocated a substantial £117 million in funding for the establishment of 12 centres for doctoral training (CDTs) in the field of artificial intelligence (AI). These CDTs will be hosted by 16 prestigious universities across the United Kingdom. This initiative aims to empower doctoral students to drive AI innovations in ... <a title=\"UKRI Invests £117 Million in AI Doctoral Training\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ukri-invests-117m-in-ai-doctoral-training/\" aria-label=\"More on UKRI Invests £117 Million in AI Doctoral Training\">Read more</a>"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-11-06T13:01:43.000Z",
-    "title": "FTX wallets unstake $160m in SOL, prompting price drop",
-    "url": "https://crypto.news/ftx-wallets-unstake-160m-in-sol-prompting-price-drop/",
-    "description": "Analysts at Lookonchain say a total sum of $160 million worth of SOL has been unstaked by FTX wallets recently. Digital wallets tied to the defunct crypto exchange FTX have unstaked 3.9 million Solana (SOL), worth around $160 million. It&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-06T12:50:30.000Z",
-    "title": "Monero community wallet funds drained in security breach",
-    "url": "https://crypto.news/monero-community-wallet-funds-drained-in-security-breach/",
-    "description": "Monero&#8217;s community crowdfunding wallet recently fell victim to a security breach, resulting in the loss of its entire balance of 2,675.73 Monero, worth nearly $460,000. The attack on the privacy coin&#8217;s wallet occurred on Sept. 1 but was not revealed&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-06T12:45:57.000Z",
-    "title": "Uniswap user lost $700k after amid liquidity pool error",
-    "url": "https://crypto.news/uniswap-user-lost-700k-after-amid-liquidity-pool-error/",
-    "description": "A Uniswap user who created a liquidity pool lost more than $700,000 in seconds after an influx of MEV bots, likely due to a configuration error. The user created the WBTC-CRV liquidity pool on the Uniswap v3 platform. He then&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-11-06T13:00:36.000Z",
-    "title": "Did Ethereum Founder Vitalik Buterin Short Ethereum? Unraveling A 70,000 ETH Sale",
-    "url": "https://www.newsbtc.com/news/ethereum/ethereum-founder-70000-eth-sale/",
-    "description": "A video has surfaced on social media where Ethereum founder Vitalik Buterin revealed he sold 70,000 ETH tokens during its price all-time high.  Buterin Acknowledges Shorting Ethereum Crypto community member, MetaMan X, published a video post on X (formerly Twitter), disclosing a conversation where Ethereum Founder, Vitalik Buterin admitted that he had sold about 70,000 ETH tokens, essentially shorting the cryptocurrency during a major all-time high.  Related Reading: Bitcoin Falls Under $35,000 But 86% Of Supply Remains Unmoved – Temporary Setback? In the podcast with American hedge fund director, Eric Ross Weinstein, Buterin spoke on the price of Ethereum and Bitcoin in 2017. During Ethereum’s previous all-time high in 2017, when the price of ETH rose as high as $1,600 and Bitcoin’s price was up $20,000, Buterin voiced doubts about whether the significant price surge truly aligned with the crypto market’s modest achievements over the years.  “The crypto space has reached half a trillion dollars, does it deserve it?” Buterin stated.  When asked if he had shorted Ethereum during the all-time high, Buterin stated that he had convinced the Ethereum Foundation to sell a considerable amount of ETH tokens, and the result of the decision made a huge impact on the cryptocurrency later. “I did get the Ethereum Foundation to sell 70,000 ETH like basically at the top, and that’s doubled our runway now, so it was one good decision that had a lot of impact,” Buterin said.  ETH price at $1,886 &#124; Source: ETHUSD on Tradingview.com Community Worries Over Buterin’s ETH Sell-Offs Many crypto community members have raised concerns about the multiple ETH transactions said to be conducted by Ethereum’s founder. Recently, Buterin was spotted making a transfer of 100 ETH, worth about $181,000 to Coinbase, one of the world’s largest crypto exchanges.  The motive behind the transaction has sparked curiosity among Ethereum investors and the crypto community. Earlier in August, Buterin was also reported moving 600 ETH worth $1 million to Coinbase.  Related Reading: Bitcoin And Ethereum: Crypto Pundit Says Expect A Repeat Of Massive 2019 Rally However, the Ethereum Founder had publicly clarified in October that he had not sold any ETH tokens for personal gain since 2018. He also stated that most ETH transactions were not him selling, but rather the recipients of his charitable donations selling the ETH tokens.  The founder has also been caught in controversy over the weekend when Ethereum whistleblower Steven Nerayoff alleged that Buterin was involved in some sort of fraud involving ETH. Nerayoff says Ethereum is linked to corrupt SEC officials to carry out this fraud which he says is on a larger scale than what happened with FTX. For reference, FTX founder Sam Bankman-Fried has been found guilty of fraud charges after the exchange filed for bankruptcy in 2022 with a $9 billion hold in its balance sheet. Featured image from Crypto News, chart from Tradingview.com"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-11-06T12:50:03.000Z",
-    "title": "How to Earn Aptos (APT) Tokens Playing This P2E Game",
-    "url": "https://www.altcoinbuzz.io/blockchain-gaming/how-to-earn-aptos-apt-tokens-playing-this-p2e-game/",
-    "description": "<p>The gaming industry is big money. In 2022, the estimated revenue is $347 billion, and the blockchain gaming share is around $7.1 billion. Aptos is also joining the fun. However, on a slightly smaller scale.  You can join the Aptos Arena P2E game and gain up to 60 APT per day. At current rates, that&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/blockchain-gaming/how-to-earn-aptos-apt-tokens-playing-this-p2e-game/\">How to Earn Aptos (APT) Tokens Playing This P2E Game</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-11-06T13:12:27.000Z",
+    "title": "Shiba Inu Lead Developer Hints at Ambitious Decentralized Project with ‘Shadowcats’",
+    "url": "https://www.crypto-news-flash.com/shiba-inu-lead-developer-hints-at-ambitious-decentralized-project-with-shadowcats/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inu-lead-developer-hints-at-ambitious-decentralized-project-with-shadowcats",
+    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba Inu Holding a $GOLDEN Token\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1-1024x512.jpg 1024w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Shytoshi Kusama, the lead developer of Shiba Inu, hinted at a major decentralized project that could involve &#8220;shadow cats.&#8221; While the specifics of the project are yet to be confirmed, it may involve Shiba Identity. Additionally, the Shiba Ecosystem&#8217;s marketing specialist hinted at a new feature for ShibaSwap 2.0. SHIB. Shytoshi Kusama, the pseudonymous lead [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-06T12:58:00.000Z",
-    "title": "Ethereum DEX Volume at $9.93 Billion; PancakeSwap and Uniswap in Focus",
-    "url": "https://coinedition.com/ethereum-dex-volume-at-9-93-billion-pancakeswap-and-uniswap-in-focus/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"EIP-7540 Would Introduce Asynchronous Deposit on Ethereum Network\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Ethereum-Beacon-Chain-Issues-Settle-Finality-is-Restored-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The price of Ether has climbed by 12% since the beginning of the fourth quarter (Q4) after a profound market slumber in quarter three (Q3). Fortunately, the industry has recovered from the bearish market, and specifically, the decentralized finance (DeFi) industry has bounced back. Myriad factors are contributing to Ethereum&#8217;s overall uptick, which includes economic [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereum-dex-volume-at-9-93-billion-pancakeswap-and-uniswap-in-focus/\">Ethereum DEX Volume at $9.93 Billion; PancakeSwap and Uniswap in Focus</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-11-06T13:32:00.000Z",
+    "title": "Binance to Halt TOMO Deposits and Withdrawals on November 20",
+    "url": "https://coinedition.com/binance-to-halt-tomo-deposits-and-withdrawals-on-november-20/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance US Lied to the Court: Cochran Calls Out Auditor in SEC Battle\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/06/Binances_Deposit_Volume_Surpasses_Withdrawal_Volume_Report_Says-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Binance today disclosed that it would suspend deposits and withdrawals of TOMO on its platform and payment channels as the project’s team undergoes a rebranding.  Indeed, TomoChain on November 1 announced it would rebrand to Viction. As a result, the project’s ticker will also change from TOMO to VIC to symbolize the newly adopted name.  [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/binance-to-halt-tomo-deposits-and-withdrawals-on-november-20/\">Binance to Halt TOMO Deposits and Withdrawals on November 20</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

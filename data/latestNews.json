@@ -1,65 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-11-06T15:44:42.000Z",
+    "title": "Sizing the Massive Spot Bitcoin ETF Opportunity",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/11/06/sizing-the-massive-spot-bitcoin-etf-opportunity/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The likely imminent approval of spot exchange-traded funds for bitcoin could be a game-changing moment for the digital assets industry. Brian Rudick and Matt Kunke, at GSR, explain why."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-11-06T15:13:41.000Z",
-    "title": "Self-Custodial Wallets Could Challenge Stablecoin Issuers' Ability to Satisfy Regulations: BoE",
-    "url": "https://decrypt.co/204446/self-custodial-wallets-could-challenge-stablecoin-issuers-ability-satisfy-regulations-boe",
-    "description": "The Bank of England's latest paper examines the regulatory challenges posed by unhosted crypto wallets in an economy powered by stablecoins."
+    "date": "2023-11-06T15:49:27.000Z",
+    "title": "XRP Leads Crypto Market Rally, Soaring 12% Overnight",
+    "url": "https://decrypt.co/204439/xrp-leads-crypto-market-rally-soaring-overnight",
+    "description": "XRP is right now the biggest winner out of the top 20 biggest coins and tokens. "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-06T16:00:40.000Z",
+    "title": "Gold remains stable while volatility rocks Bitcoin and Ethereum’s 2023",
+    "url": "https://cryptoslate.com/volatility-marks-btc-and-eth-while-gold-remains-stable-in-2023/",
+    "description": "<p>Gold, historically viewed as a store of value and a hedge against economic turbulence, is often the benchmark asset against which many others are gauged. In the crypto age, Bitcoin (BTC) and Ethereum (ETH) have emerged as contenders to gold&#8217;s throne, not as direct replacements but as modern alternatives representing a new breed of digital [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/volatility-marks-btc-and-eth-while-gold-remains-stable-in-2023/\">Gold remains stable while volatility rocks Bitcoin and Ethereum&#8217;s 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-11-06T16:02:40.000Z",
+    "title": "Lado Okhotnikov and Meta Force Presented an Updated Program for NFT Operations",
+    "url": "https://www.cryptoglobe.com/latest/2023/11/lado-okhotnikov-and-meta-force-presented-an-updated-program-for-nft-operations/",
+    "description": "Lado Okhotnikov’s Meta Force proves that NFT are still in demand and can be successfully used.  The Meta Force team presented an updated Tactile program, optimized for NFT operations in digital space of Meta Force Metaverse. Extended trade and financial operations available to users. Tactile has advanced functionality to work with NFT like real objects. […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-11-06T15:36:53.000Z",
-    "title": "Whispers of a Turn for Solana (SOL) and Polkadot (DOT) Stir Crypto Curiosity",
-    "url": "https://cryptodaily.co.uk/2023/11/whispers-of-a-turn-for-solana-sol-and-polkadot-dot-stir-crypto-curiosity",
-    "description": "Dive into the dynamic landscape where Solana (SOL) and Polkadot (DOT) stand at a pivotal crossroads in the crypto market. Get an in-depth look at how recent developments and technical signals could shape their trajectories, offering insights into potential rallies or regressions. Our analysis gives you a nuanced understanding of SOL and DOT as they navigate through market optimism and caution, helping you make informed decisions in the ever-evolving realm of digital assets."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-11-06T15:32:19.000Z",
-    "title": "Claude Eguienta Joins TrustSwap's Board of Directors, Bringing Extensive Expertise in Blockchain and Financial Inclusion",
-    "url": "https://cryptodaily.co.uk/2023/11/claude-eguienta-joins-trustswaps-board-of-directors-bringing-extensive-expertise-in-blockchain-and-financial-inclusion",
-    "description": "TrustSwap, a leading blockchain technology and cryptocurrency company, is thrilled to announce the addition of Claude Eguienta to its esteemed Board of Directors."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-06T15:25:52.000Z",
-    "title": "Patentability Criteria for AI Inventions: Scope and Limitations",
-    "url": "https://www.cryptopolitan.com/criteria-ai-inventions-scope-and-limitations/",
-    "description": "The recent Exeter Blockchain and Law Conference 2023 shed light on the growing challenges posed by artificial intelligence (AI) in the realm of patent law. Nigel Hanley, head of the examining group at the UK Intellectual Property Office (UKIPO), emphasized the pressing need for clarity in the treatment of AI within patent claims. With a ... <a title=\"Patentability Criteria for AI Inventions: Scope and Limitations\" class=\"read-more\" href=\"https://www.cryptopolitan.com/criteria-ai-inventions-scope-and-limitations/\" aria-label=\"More on Patentability Criteria for AI Inventions: Scope and Limitations\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-06T15:12:04.000Z",
-    "title": "Arbitrum Community Nods to Staking Yield Proposal",
-    "url": "https://www.cryptopolitan.com/arbitrum-community-nods-to-staking-yield/",
-    "description": "In a decisive community vote, Arbitrum&#8217;s members have paved the way for a staking yield proposal financed from the platform&#8217;s treasury. Over two-thirds of the DAO&#8217;s participants threw their support behind the initiative, which will see 100 million ARB tokens—1% of the total supply—allocated as staking rewards. The approved proposal, steered by PlutusDAO, outlines a ... <a title=\"Arbitrum Community Nods to Staking Yield Proposal\" class=\"read-more\" href=\"https://www.cryptopolitan.com/arbitrum-community-nods-to-staking-yield/\" aria-label=\"More on Arbitrum Community Nods to Staking Yield Proposal\">Read more</a>"
+    "date": "2023-11-06T15:48:37.000Z",
+    "title": "Maestro Trading Bot Refunds 610 ETH to Users Following Router Exploit",
+    "url": "https://cryptodaily.co.uk/2023/11/maestro-trading-bot-refunds-610-eth-to-users-following-router-exploit",
+    "description": "MaestroBots, a prominent cryptocurrency trading bot on the Telegram messenger app, has swiftly taken action to refund users who were affected by a recent smart contract exploit. In an incident that unfolded on October 24, a total of 280 ETH was targeted."
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-06T15:34:15.000Z",
-    "title": "CoinShares reports total inflows in 2023 have now surpassed 2022",
-    "url": "https://crypto.news/coinshares-reports-total-inflows-in-2023-have-now-surpassed-2022/",
-    "description": "In a Nov. 6 report from CoinShares, a leading European alternative asset manager, it was reported, digital asset investment products had now seen total inflows of $261 million."
+    "date": "2023-11-06T15:45:00.000Z",
+    "title": "Mauritius collecting feedback for inclusion of the metaverse",
+    "url": "https://crypto.news/mauritius-collecting-feedback-for-inclusion-of-the-metaverse/",
+    "description": "A consultation paper dated October 2023 shares the Financial Services Commission (FSC) of East African country Mauritius started collecting feedback about the inclusion of metaverse within the financial services industry."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-06T15:42:57.000Z",
+    "title": "Is Ripple’s XRP headed for a new peak? Current trends and predictions",
+    "url": "https://crypto.news/is-ripples-xrp-headed-for-a-new-peak-current-trends-and-predictions/",
+    "description": "As XRP continues its steady ascent, we dissect the factors contributing to its sustained growth, from legal victories to strategic partnerships that shape its market standing."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-11-06T16:00:04.000Z",
+    "title": "Can The ADA Price Climb Above $20 In The Bull Market? Analyst Provides Answers",
+    "url": "https://www.newsbtc.com/analysis/ada/ada-price-20-bull-market/",
+    "description": "The ADA price has always performed incredibly well in the bull market cycles with price rallies that have put millions of holders in profit in the past. However, like any other cryptocurrency, it can be hard to pinpoint how high the price will climb in the next bull market. Nevertheless, one crypto analyst is taking the bull by the horns to reveal where they expect the altcoin’s price to reach in the next bull market. ADA Price Could Rise As High As $24 In an analysis posted to TradingView, crypto analyst masoud_paydarsani outlines how the ADA price could rise to double-digits. First, the analyst points to Cardano’s ADA token being a long-term upward channel on the weekly time frame, albeit a rather slow uptrend. Related Reading: Shiba Inu Whales Bet Big As Shibarium Grows – Road To $0.1? However, this does not invalidate its bullish tendencies, especially when it comes to ADA repeating its previous bull market cycles. Masoud points to the fact that the past crypto market cycles saw approximately 108 weeks of the bear market before 66 weeks of the bull market, and it is within these 66 weeks that ADA shines. Source: Tradingview.com The analyst believes that if the upward channel is validated, then the next ADA bull run could turn out like the rest. Using the previous performances of the altcoin, eg, the run-up in the year 2021, the ADA price could rise to as high as $24 following the same trend. Also, going by historical performance, the crypto analyst reveals that this could happen sometime in the next 66 weeks. So it could lead up to 2025 before this rally is complete. Being Bullish For ADA Above $20 Interestingly, the expectation for the ADA price to cross the $20 mark is not unique to Masoud alone. Another crypto analyst, @LucidCiC on X (formerly Twitter) also believes that this double-digit level is possible for ADA. Related Reading: Why This Fidelity Investments Director Believes Bitcoin Is ‘Exponential Gold’ Lucid actually has an even higher price target for the altcoin compared to Masoud. Where Masoud sees the ADA price reaching $24, Lucid’s forecast goes as high as $30. Lucid compares Cardano to the Ethereum network which was able to reach a $500 billion market cap despite going through multiple hurdles. Given this, the analyst believes Cardano will also be able to rise as well while expecting the crypto market cap to cross $10 trillion in a decade. Cardano is also seeing a good amount of interest from institutional investors. Grayscale Investments, the company behind the largest Bitcoin trust in the world, recently announced new crypto indices featuring ADA in response to this rising interest. If these large investors continue to double down on their investments, this newfound inflow could drive the price to the double-digit mark predicted by the analysts. ADA recovers above $0.34 &#124; Source: ADAUSD on Tradingview.com Featured image from VOI, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-06T15:29:35.000Z",
-    "title": "XRP Skyrockets 27% Amid Swell Conference as Ripple Teases Transformative IPO",
-    "url": "https://www.crypto-news-flash.com/xrp-skyrockets-27-amid-swell-conference-as-ripple-teases-transformative-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-skyrockets-27-amid-swell-conference-as-ripple-teases-transformative-ipo",
-    "description": "<img width=\"1000\" height=\"668\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Ripple.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Ripple.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Ripple-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Ripple-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-Ripple-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />XRP&#8217;s price surged 27 percent weekly, hitting $0.68, coinciding with Ripple&#8217;s Swell conference in Dubai. Ripple&#8217;s IPO speculation and regulatory developments have contributed to XRP&#8217;s recent gains. XRP has recently taken center stage with a notable 27 percent surge in its price over the past week. This impressive performance has brought XRP&#8217;s cumulative gains to [...]"
+    "date": "2023-11-06T16:07:12.000Z",
+    "title": "FTX Makes a Move to Cash In: Seeks Approval to Sell $744 Million in Trust Assets",
+    "url": "https://www.crypto-news-flash.com/ftx-makes-a-move-to-cash-in-seeks-approval-to-sell-744-million-in-trust-assets/?utm_source=rss&utm_medium=rss&utm_campaign=ftx-makes-a-move-to-cash-in-seeks-approval-to-sell-744-million-in-trust-assets",
+    "description": "<img width=\"1000\" height=\"623\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTX\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-300x187.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-768x478.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-163x102.png 163w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-24x15.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-36x22.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-48x30.png 48w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />FTX is seeking court approval to sell $744 million worth of trust assets to pay off creditors during its bankruptcy. The company&#8217;s strategy involves quick sales to multiple buyers to avoid delays and maximize returns. FTX and its associated debtors have petitioned the Delaware bankruptcy court to approve liquidating trust assets valued at roughly $744 [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-06T15:25:00.000Z",
-    "title": "PYR Expected To Be Top A Altcoin Pick In Next Bull Market",
-    "url": "https://coinedition.com/pyr-expected-to-be-top-a-altcoin-pick-in-next-bull-market/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Analyst Believes Now Is The Right Time To Stock Up On PYR\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency analyst and trader, Crypto Tony, shared in an X post that the next few months will be the perfect time to start stocking up on altcoins before the next bull market. Vulcan Forged PYR (PYR) is one altcoin in particular that has caught the attention of the analyst. Just yesterday, Crypto Tony stated [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/pyr-expected-to-be-top-a-altcoin-pick-in-next-bull-market/\">PYR Expected To Be Top A Altcoin Pick In Next Bull Market</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-11-06T15:30:43.000Z",
-    "title": "‘Smart Whale’ Withdraws About $32,000,000 Worth of Ethereum (ETH) From Crypto Exchange Binance: Lookonchain",
-    "url": "https://dailyhodl.com/2023/11/06/smart-whale-withdraws-about-32000000-worth-of-ethereum-eth-from-crypto-exchange-binance-lookonchain/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png 1365w, https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/03/Whale-Comes-to-Life.png?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A crypto whale was recently spotted by a blockchain monitoring platform withdrawing a massive stack of Ethereum (ETH) from Binance over the weekend. First seen by Lookonchain, a &#8220;smart whale&#8221; deposited 31.8 million Tether (USDT) into Binance, and then withdrew $15.94 million worth of ETH hours later. Just hours later, the whale took out another [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/11/06/smart-whale-withdraws-about-32000000-worth-of-ethereum-eth-from-crypto-exchange-binance-lookonchain/\">‘Smart Whale’ Withdraws About $32,000,000 Worth of Ethereum (ETH) From Crypto Exchange Binance: Lookonchain</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-11-06T16:05:00.000Z",
+    "title": "South Korea Bans Short Selling Ahead of Upcoming Election",
+    "url": "https://coinedition.com/south-korea-bans-short-selling-ahead-of-upcoming-election/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"South Korea Bans Short Selling Ahead of Upcoming Election\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Eyes_Lifting_Short_Selling_Ban_to_Entice_Foreign_Investors-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>South Korea has banned short-selling until at least June 2024. Shares in South Korea rose Monday morning, with the country’s benchmark Kospi gaining 4%. The reason for the ban is to appease retail investors by curbing unfair trading practices. South Korea has banned short-selling until at least June 2024. According to multiple reports, the reason [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/south-korea-bans-short-selling-ahead-of-upcoming-election/\">South Korea Bans Short Selling Ahead of Upcoming Election</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

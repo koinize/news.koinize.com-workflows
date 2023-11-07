@@ -1,79 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-11-07T16:00:00.000Z",
-    "title": "Avail, Data Availability Solution to Rival Celestia, Unveils 'Incentivized Testnet'",
-    "url": "https://www.coindesk.com/tech/2023/11/07/avail-data-availability-solution-to-rival-celestia-unveils-incentivized-testnet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The announcement comes as Celestia's recent launch and airdrop has kindled interest in \"modular\" blockchain projects that can relieve the burden on primary networks like Ethereum."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-07T15:57:38.000Z",
-    "title": "Crypto VC Funding Slowed Last Week as $35M Raised in 9 Deals Including Uniswap DAO",
-    "url": "https://www.coindesk.com/business/2023/11/07/crypto-vc-funding-slowed-last-week-as-35m-raised-in-9-deals-including-uniswap-dao/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Summary of blockchain project fundraising for the week of Oct. 30 to Nov. 3. Highlights included a $12M raise for Ekubo Protocol and $6.3M for the AI-based blockchain project Modulus."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-11-07T15:45:02.000Z",
-    "title": "Rising Bitcoin Inscriptions activity signals shift in transaction types",
-    "url": "https://cryptoslate.com/rising-bitcoin-inscriptions-activity-signals-shift-in-transaction-types/",
-    "description": "<p>The recent analysis of Bitcoin Inscriptions reveals a substantial uptick in activity and interest, a trend that carries notable implications for network performance and user costs. Between Aug. 10 and Nov. 6, 2023, the total count of Bitcoin Inscriptions escalated from 22.66 million to 38.27 million, with Text/BRC-20 inscriptions &#8211; which allow for embedding text [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/rising-bitcoin-inscriptions-activity-signals-shift-in-transaction-types/\">Rising Bitcoin Inscriptions activity signals shift in transaction types</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
     "source": "CryptoGlobe",
-    "date": "2023-11-07T15:40:22.000Z",
-    "title": "US Senator Rick Scott Assesses Fed Chair Powell’s ‘Report Card’",
-    "url": "https://www.cryptoglobe.com/latest/2023/11/us-senator-rick-scott-assesses-fed-chair-powells-report-card/",
-    "description": "In a recent appearance on CNBC’s ‘Squawk Box,’ Senator Rick Scott expressed his concerns regarding the Federal Reserve’s handling of its balance sheet and the alarming rise of antisemitism on college campuses. The interview, conducted by co-anchor Joe Kernen, delved into the senator’s stance on accountability for the Federal Reserve, particularly its Chairman, Jerome Powell. […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-11-07T16:08:23.000Z",
-    "title": "This New CoinStats Feature Helps You Check Your Wallet’s Ranking Among Other Wallets",
-    "url": "https://cryptodaily.co.uk/2023/11/this-new-coinstats-feature-helps-you-check-your-wallets-ranking-among-other-wallets",
-    "description": "With crypto airdrops gaining popularity, keeping track of your wallet’s performance has never been so pertinent."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-11-07T15:57:44.000Z",
-    "title": "Will Market Forces Favor ADA Over ETH in Upcoming Shifts?",
-    "url": "https://cryptodaily.co.uk/2023/11/will-market-forces-favor-ada-over-eth-in-upcoming-shifts",
-    "description": "Uncover the interplay of Ethereum (ETH) and Cardano (ADA) as they steer through regulatory hurdles and strategic advancements. Our analysis provides a thorough examination of the legal hurdles of ETH and the pioneering steps of ADA, offering you a nuanced understanding of their potential market directions. Keep abreast of the unfolding crypto narrative with our detailed insights, poised to equip you with the strategic edge required to navigate the nuanced inflections shaping the cryptocurrency landscap"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-07T16:08:44.000Z",
-    "title": "Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?",
-    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
-    "description": "Shiba Inu Price Prediction 2023-2032 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of ... <a title=\"Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/shiba-inu-price-prediction/\" aria-label=\"More on Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-07T16:04:30.000Z",
-    "title": "Ava Labs employees confirm mass layoffs at the firm",
-    "url": "https://www.cryptopolitan.com/ava-labs-employees-mass-layoffs-at-the-firm/",
-    "description": "A recent development in the cryptocurrency space involves Ava Labs, the company behind the Avalanche blockchain network, reducing a significant portion of its workforce. Reports confirm that the layoffs affected several employees within the company. The CEO of Ava Labs, Emin Gün Sirer, confirmed the layoffs on social media, specifying that approximately 12% of the ... <a title=\"Ava Labs employees confirm mass layoffs at the firm\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ava-labs-employees-mass-layoffs-at-the-firm/\" aria-label=\"More on Ava Labs employees confirm mass layoffs at the firm\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-07T15:54:19.000Z",
-    "title": "Llama smart contract platform gains momentum with $6M seed funding",
-    "url": "https://www.cryptopolitan.com/llama-contract-platform-with-6m-seed-funding/",
-    "description": "The blockchain industry is constantly evolving, driven by both technological advancements and capital injections from investors keen on shaping the future. In a significant boost to the dynamic field, Llama, an innovative smart contract platform, has secured $6 million in a seed funding round. The backing of industry titans the recent funding success story is ... <a title=\"Llama smart contract platform gains momentum with $6M seed funding\" class=\"read-more\" href=\"https://www.cryptopolitan.com/llama-contract-platform-with-6m-seed-funding/\" aria-label=\"More on Llama smart contract platform gains momentum with $6M seed funding\">Read more</a>"
+    "date": "2023-11-07T16:21:50.000Z",
+    "title": "Bloomberg Analyst Points to Solana ($SOL) User Growth Outpacing That of Cardano ($ADA)",
+    "url": "https://www.cryptoglobe.com/latest/2023/11/bloomberg-analyst-points-to-solana-sol-user-growth-outpacing-that-of-cardano-ada/",
+    "description": "Jamie Coutts, a prominent crypto market analyst at Bloomberg Intelligence, has cast a spotlight on the comparative market capitalization and user engagement levels between two major blockchain platforms, Solana (SOL) and Cardano (ADA). In a post on social media platform X, Coutts analyzed the current standings of SOL and ADA, which are ranked 7th and […]\n"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-07T15:59:48.000Z",
-    "title": "Bitcoin Network encounters hour-long block production delay ",
-    "url": "https://crypto.news/bitcoin-network-encounters-hour-long-block-production-delay/",
-    "description": "The Bitcoin network experienced a brief downtime, in which a block wasn't produced for approximately an hour on Nov. 7, raising concerns about network reliability. "
+    "date": "2023-11-07T16:18:08.000Z",
+    "title": "HashKey to list Link for professional investors ",
+    "url": "https://crypto.news/hashkey-to-list-link-for-professional-investors/",
+    "description": "Chainlink’s flagship crypto token LINK is set for listing on HashKey’s licensed digital asset exchange, although retail investors would be barred from trading the asset until further notice."
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-11-07T16:00:06.000Z",
-    "title": "Analyzing ADA Solid 25% Gain: Signs Point To Cardano Rally Ahead",
-    "url": "https://www.newsbtc.com/news/analyzing-ada-solid-25-gain-signs-point-to-cardano-rally-ahead/",
-    "description": "FOR UPDATE&#8230; Cardano (ADA) has been making significant strides in the cryptocurrency market, reclaiming its position at the forefront of the altcoin buzz. The digital currency&#8217;s price rally has propelled it to a multi-month high, signaling a collective effort from both retail and whale investors.  At the time of writing, Cardano&#8217;s trading volume stands at an impressive $380,929, reflecting a remarkable 24.8% increase overnight. This surge in trading activity serves as a testament to the robust health of the Cardano market, underlining the active participation of all ecosystem stakeholders. Related Reading: Chainlink Enters Bull Territory, Signals Long-Term Uptrend — Crypto Expert Cardano: Rallying To New Heights The current price of ADA, as reported by CoinGecko, stands at $0.363147, with a 4.6% gain over the past 24 hours and a notable 19.4% surge over the past week. This bullish momentum has been a welcome development for Cardano enthusiasts.  Crossing the crucial resistance level at $0.37 is a remarkable milestone for the protocol, as the last time ADA tested this level was in early June. This achievement signifies the growing investor confidence in the project and its potential to reach new heights. Related Reading: XRP Hits Critical Price Juncture As Whales Scoop Up 1.26 Billion Coins ADA market cap currently at $12.257 billion. Chart: TradingView.com Fostering A Thriving Ecosystem While the price action of Cardano is undeniably positive, its success is further underscored by its expanding ecosystem. The crypto protocol has launched a series of products throughout the year, and their impact is becoming increasingly evident. Notably, one of the latest innovations, Midnight Protocol, is poised to play a pivotal role as a privacy tool, solidifying Cardano&#8217;s position within the Web3 space. 1/6 It’s official – we’ve selected the first group of Midnight Pioneers for the devnet. Congratulations to you all and big thanks to everyone who registered interest. It’s great to have your support. pic.twitter.com/qu2w5TXJR0 — Midnight (@MidnightNtwrk) November 1, 2023 Midnight Protocol, one of the most recent additions to Cardano&#8217;s ecosystem, is set to address privacy concerns that have become increasingly prominent in the world of blockchain and cryptocurrencies. With the rise of Web3 systems, privacy has become a paramount consideration, and Midnight Protocol aims to provide a solution. This innovative tool will enable users to interact with blockchain networks while preserving their data and transaction privacy.  By offering enhanced privacy features, Midnight Protocol is positioned to contribute to the broader adoption of Cardano within the decentralized web. Cardano&#8217;s recent price surge to a multi-month high serves as a testament to the platform&#8217;s growing popularity and support from both retail and institutional investors. The crossing of the $0.37 resistance level marks a significant achievement, and Cardano&#8217;s flourishing ecosystem, with the introduction of products like Midnight Protocol, adds even more value to the project.  As Cardano continues to evolve and expand, it remains a cryptocurrency to watch in the ever-changing landscape of blockchain technology and decentralized systems. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from Shutterstock"
+    "source": "Crypto News Flash",
+    "date": "2023-11-07T16:33:11.000Z",
+    "title": "NuggetRush (NUGX) Sees 20% Price Jump in Presale, Set to Shine Alongside Solana (SOL) and Avalanche (AVAX) in 2024",
+    "url": "https://www.crypto-news-flash.com/nuggetrush-nugx-sees-20-price-jump-in-presale-set-to-shine-alongside-solana-sol-and-avalanche-avax-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=nuggetrush-nugx-sees-20-price-jump-in-presale-set-to-shine-alongside-solana-sol-and-avalanche-avax-in-2024",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-22.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-22.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-22-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />NuggetRush (NUGX) showcases a promising 20% price hike, hinting at a strong potential alongside crypto giants. Solana (SOL) and Avalanche (AVAX) continue their bullish trend with over 60% and over 25% month-on-month increases respectively. NuggetRush merges gaming with real-world gold mining, while Solana and Avalanche showcase innovative blockchain tech. Diving into 2024, the crypto scene [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-11-07T16:20:32.000Z",
+    "title": "Bored Ape Creator Yuga Labs Teams Up with Magic Eden to Launch Ethereum NFT Marketplace with Royalties",
+    "url": "https://www.crypto-news-flash.com/bored-ape-creator-yuga-labs-teams-up-with-magic-eden-to-launch-ethereum-nft-marketplace-with-royalties/?utm_source=rss&utm_medium=rss&utm_campaign=bored-ape-creator-yuga-labs-teams-up-with-magic-eden-to-launch-ethereum-nft-marketplace-with-royalties",
+    "description": "<img width=\"1920\" height=\"1280\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/nft-gf2f800c75_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/nft-gf2f800c75_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/nft-gf2f800c75_1920-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/nft-gf2f800c75_1920-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/nft-gf2f800c75_1920-104x69.jpg 104w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Magic Eden is launching a new Ethereum-based NFT marketplace that supports creator royalties in partnership with Yuga Labs. The platform responds to concerns over reduced royalties, seeking to maintain creator income through enforceable smart contracts. Magic Eden has announced plans to introduce a new Ethereum-based NFT platform by year-end. The launch is set to collaborate [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-11-07T16:20:18.000Z",
+    "title": "SushiSwap’s New Token Economics Aims for Revenue Boost: What’s Changing for SUSHI?",
+    "url": "https://www.crypto-news-flash.com/sushiswaps-new-token-economics-aims-for-revenue-boost-whats-changing-for-sushi/?utm_source=rss&utm_medium=rss&utm_campaign=sushiswaps-new-token-economics-aims-for-revenue-boost-whats-changing-for-sushi",
+    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-82.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-82.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-82-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/unnamed-82-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />SushiSwap CEO Jared Gray has proposed a new token economic model to ensure long-term growth and stability as current incentives are nearing their end. The new model introduces improved liquidity provisions, staking rewards adjustments, and strategic partnership revenues to benefit all stakeholders. SushiSwap CEO Jared Gray has announced a new token economics proposal to propel [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-11-07T16:30:00.000Z",
+    "title": "MKR Price Drops After Whale Sells $2.56 Million Worth Of Tokens",
+    "url": "https://coinedition.com/mkr-price-drops-after-whale-sells-2-56-million-worth-of-tokens/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/The-TD-Sequential-presented-a-sell-signal-MKR-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Earlier today, the on-chain data and unlocks platform Spot On Chain revealed in an X post that a whale known as peedan.eth sold 1,960 Maker (MKR) tokens via Binance. According to the post, the MKR tokens were worth about $2.56 million. The fact that the whale sold his tokens meant that he closed his MKR [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/mkr-price-drops-after-whale-sells-2-56-million-worth-of-tokens/\">MKR Price Drops After Whale Sells $2.56 Million Worth Of Tokens</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-11-07T16:11:00.000Z",
+    "title": "Silicon Valley Firm Proof Group Joins Race to Revive FTX",
+    "url": "https://coinedition.com/silicon-valley-firm-proof-group-joins-race-to-revive-ftx/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Silicon Valley Firm Proof Group Joins Race to Revive FTX\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/Records-Suggest-SBF-Accumulated-300-Million-from-FTX-Funding-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Silicon Valley&#8217;s Proof Group, known for its recent successful bid on the bankrupt crypto lender Celsius as part of the Fahrenheit consortium, is reportedly in contention to revitalize the defunct crypto exchange FTX.&#160; This information comes from sources familiar with the ongoing plans. Previously, Perella Weinberg Partners, an investment bank involved in the process, disclosed [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/silicon-valley-firm-proof-group-joins-race-to-revive-ftx/\">Silicon Valley Firm Proof Group Joins Race to Revive FTX</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

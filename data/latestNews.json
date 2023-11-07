@@ -1,65 +1,114 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-11-07T16:53:28.000Z",
-    "title": "U.S. Banking Watchdog Hsu Says Tokenization Promising, But Crypto Full of Fraud",
-    "url": "https://www.coindesk.com/policy/2023/11/07/us-banking-watchdog-hsu-says-tokenization-promising-but-crypto-full-of-fraud/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Tokenization of assets could be the answer to the risky complexities of settling the movement of funds and securities, said Michael Hsu, the acting head of the U.S. Office of the Comptroller of the Currency."
+    "date": "2023-11-07T17:27:31.000Z",
+    "title": "Ether Could Hit $3,000 as Soaring Network Activity Turns Token Deflationary",
+    "url": "https://www.coindesk.com/markets/2023/11/07/ether-could-hit-3000-as-soaring-network-activity-turns-token-deflationary/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Ethereum blockchain settled $250 billion of transactions last week, the highest since mid-March, underpinning ether's bullish outlook."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-11-07T16:53:29.000Z",
-    "title": "Bitcoin Ordinals see resurgence on Binance listing",
-    "url": "http://cointelegraph.com/news/bitcoin-ordinals-see-resurgence-binance-listing",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/3e1989d8-3e3e-4240-8092-0b53853e3586.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The ORDI token, which was not developed by the creator of Bitcoin Ordinals, has surged by 41% in the past 24 hours. </p>\n                    <p><p>Ordinals, a BRC-20 token collection minted on the Bitcoin blockchain, have surged by 40.8% in the past 24 hours to $10.19 after listing on crypto exchange Binance.</p><p>According to Binance's Nov. 7 <a href=\"https://www.binance.com/en/support/announcement/binance-will-list-ordinals-ordi-with-seed-tag-applied-4bd64404aa384fe5a00e0f9b131035db?ref=AZTKZ9XS\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, traders can now trade Ordinals (ORDI) against Tether (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>), Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), and the Turkish Lira (TRY). Binance claims that it did not charge developers any listing fees for the ORDI token and that withdrawals will open on Nov. 8. As part of initial incentives, the first 1,000 users who deposit at least 72 ORDI to the exchange received a 50 USDT trading rebate voucher. </p><blockquote>\"ORDI is a relatively new token that poses a higher than normal risk, and as such will likely be subject to high price volatility.\"</blockquote><p>Bitcoin Ordinals is a numbering system that assigns a unique number to each individual Satoshi, or 1/100 million of a Bitcoin, enabling tracking and transfer. Combined with the inscription process, which adds an additional layer of data to each Satoshi, this allows users to mint unique digital assets on the Bitcoin blockchain. The current token listed on Binance, ORDI, is not associated with developers of Bitcoin Ordinals.</p><p>Invented by Web3 developer Rodarmor in January, BRC-20 tokens have surged in popularity as one of the largest technological advancements in a 15-year-old blockchain. Self-custody wallet providers, such as BitKeep (now Bitget Wallet), <a href=\"https://cointelegraph.com/news/wallet-providers-introduce-brc-20-token-support-despite-market-drawdown\">have enabled</a> BRC-20 token deposits and withdrawals since June. The total market cap of BRC-20 tokens currently <a href=\"https://www.brc-20.io/\" target=\"_blank\" rel=\"noopener nofollow\">stands</a> at $1.34 billion. </p><p><strong><em>Related: <a href=\"https://cointelegraph.com/news/bitcoin-ordinals-mintage-fees-paid-increase-700-since-april-report\">Bitcoin Ordinals’ total mintage fees increase 700% from April</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-11-07T17:18:39.000Z",
+    "title": "The Handover Begins: TradFi Takes Center Stage in Crypto’s Next Phase",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/11/07/the-handover-begins-tradfi-takes-center-stage-in-cryptos-next-phase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Not only are institutions here, but they’re starting to eat the crypto-natives’ lunches. This is a catalyst for further development and innovation in the digital assets space, say Mark Arasaratnam and Ilan Solot at Marex."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-07T17:15:29.000Z",
+    "title": "The Graph, Known as 'Google of Web3,' Plans AI-Assisted Querying",
+    "url": "https://www.coindesk.com/tech/2023/11/07/the-graph-known-as-google-of-web3-plans-ai-assisted-querying/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The blockchain indexing protocol released a new roadmap to add features, in one of the project's biggest upgrades since a $50 million fundraising in 2022."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-07T17:31:21.000Z",
+    "title": "'Final Fantasy' Maker Square Enix Reveals How to Get NFTs to Play 'Symbiogenesis'",
+    "url": "https://decrypt.co/204663/final-fantasy-maker-square-enix-reveals-how-get-nfts-play-symbiogenesis",
+    "description": "Square Enix's Ethereum and Polygon NFT game Symbiogenesis is nearing launch. Here's how to get a character and start playing."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-07T17:12:42.000Z",
+    "title": "Cathie Wood's Ark Invest Sells $3.8M In Grayscale Shares, Snaps Up $5.6M in Block",
+    "url": "https://decrypt.co/204657/cathie-wood-ark-invest-grayscale-block-square-shares",
+    "description": "It is the second time in recent weeks that Cathie Wood's Ark has sold GBTC shares."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-11-07T16:40:20.000Z",
-    "title": "Kazakhstan bans Coinbase amid crackdown on unregulated crypto activity",
-    "url": "https://cryptoslate.com/kazakhstan-bans-coinbase-amid-crackdown-on-unregulated-crypto-activity/",
-    "description": "<p>The Ministry of Culture and Information in Kazakhstan recently blocked access to prominent crypto exchange Coinbase and select online brokerage websites, including the New York Mercantile Exchange (NYMEX), local media reported on Nov. 7. The actions are grounded in Kazakhstan&#8217;s stringent &#8220;Digital Assets Law,&#8221; a comprehensive piece of legislation that governs the issuance and circulation [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/kazakhstan-bans-coinbase-amid-crackdown-on-unregulated-crypto-activity/\">Kazakhstan bans Coinbase amid crackdown on unregulated crypto activity</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-11-07T17:20:59.000Z",
+    "title": "Arbitrum community greenlights staking proposal after new mint function removed",
+    "url": "https://cryptoslate.com/arbitrum-community-greenlights-staking-proposal-after-new-mint-function-removed/",
+    "description": "<p>The Arbitrum DAO approved a proposal to create a staking mechanism for the ARB token on Nov. 6. The vote follows a community debate on whether to activate staking or not for a number of months now and failed to reach a consensus on the matter for weeks due to disagreements over how the yield [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://cryptoslate.com/arbitrum-community-greenlights-staking-proposal-after-new-mint-function-removed/\">Arbitrum community greenlights staking proposal after new mint function removed</a> appeared first on <a rel=\"nofollow\" href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2023-11-07T16:59:55.000Z",
-    "title": "Cardano Taps Polkadot To Power Multi-Chain Expansion",
-    "url": "https://cryptobriefing.com/cardano-polkadot-multi-chain-expansion/?utm_source=feed&utm_medium=rss",
-    "description": "Cardano's partner chain initiative, announced at last week's summit, will leverage Polkadot's Substrate to empower interoperable chains."
+    "source": "Crypto Daily",
+    "date": "2023-11-07T17:32:31.000Z",
+    "title": "PEPE and FLOKI Traders Tread Thin Ice: Potential Boom or Approaching Doom?",
+    "url": "https://cryptodaily.co.uk/2023/11/pepe-and-floki-traders-tread-thin-ice-potential-boom-or-approaching-doom",
+    "description": "Dive into the dynamic realm of Pepe Coin (PEPE) and Floki Inu (FLOKI), two meme coins making waves in the crypto sea. Our expert analysis navigates their technical trajectories amid market ebbs and flows, capturing the PEPE token's tantalizing teeter between support and resistance, while FLOKI balances recent dips against bullish monthly strides. Get ahead with our sharp insights, as we dissect the prospects of surges and slumps in this capricious cryptocurrency domain."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-11-07T17:21:58.000Z",
+    "title": "Top 6 Crypto AI Projects to Invest In",
+    "url": "https://cryptodaily.co.uk/2023/11/top-6-crypto-ai-projects-to-invest-in",
+    "description": "Within the context of business and investments, the primary goal is attaining profitability, which has the utmost significance."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-11-07T17:30:32.000Z",
+    "title": "November Marks Rare Awakening of 2 Vintage 2010 Bitcoin Wallets Valued at $3.4 Million",
+    "url": "https://news.bitcoin.com/november-marks-rare-awakening-of-2-vintage-2010-bitcoin-wallets-valued-at-3-4-million/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"November Marks Rare Awakening of 2 Vintage 2010 Bitcoin Wallets Valued at $3.4 Million\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btc2010.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin has surged over 24% against the U.S. dollar this month, and on November 7, 2023, an intriguing event took place: two dormant bitcoin addresses from 2010 were activated and transferred roughly 100 BTC, valued at $3.4 million according to the current bitcoin exchange rates. While 100 BTC may not be a staggering amount, these [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-07T17:08:19.000Z",
-    "title": "Simpsons roast spurs an NFT gold rush with traders investing millions on knockoff collectibles",
-    "url": "https://www.cryptopolitan.com/simpsons-roast-spurs-an-nft-gold-rush/",
-    "description": "Among the recent events in the crypto world is the frenzy commentary of the digital community on the Simpsons-themed Non-Fungible Tokens (NFTs). The NFT trading community has recently invested in digital artwork amid investors spending millions on knockoff collectibles.  The tagged NFT saw a surge beginning this week after comments made that saw investors back ... <a title=\"Simpsons roast spurs an NFT gold rush with traders investing millions on knockoff collectibles\" class=\"read-more\" href=\"https://www.cryptopolitan.com/simpsons-roast-spurs-an-nft-gold-rush/\" aria-label=\"More on Simpsons roast spurs an NFT gold rush with traders investing millions on knockoff collectibles\">Read more</a>"
+    "date": "2023-11-07T17:33:33.000Z",
+    "title": "Glassnode sells its Bitcoin tax software to Blockpit",
+    "url": "https://www.cryptopolitan.com/glassnode-sells-btc-tax-software-to-blockpit/",
+    "description": "Glassnode has recently decided to sell its crypto tax Accounting platform to Blockpit. The firm had recently acquired the platform in October last year, and its recent move has targeted its goals of focusing on decentralized finance (DeFi) as well as institutional offerings.&#160; Glassnode developments are among the current happenings in the crypto market, and ... <a title=\"Glassnode sells its Bitcoin tax software to Blockpit\" class=\"read-more\" href=\"https://www.cryptopolitan.com/glassnode-sells-btc-tax-software-to-blockpit/\" aria-label=\"More on Glassnode sells its Bitcoin tax software to Blockpit\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-07T16:51:00.000Z",
-    "title": "XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?",
-    "url": "https://www.cryptopolitan.com/xrp-price-prediction/",
-    "description": "XRP Price Prediction 2023-2032 So LBRY lost its case against the SEC. Sad to say, the ruling still doesn&#8217;t provide regulatory clarity as to the definitive conditions (the essential ingredients) that establish an offered asset as a security. Especially when the Judge touches only on the third prong in this case. The 76-year-old Howey Test ... <a title=\"XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/xrp-price-prediction/\" aria-label=\"More on XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?\">Read more</a>"
+    "date": "2023-11-07T17:23:00.000Z",
+    "title": "Tron Price Prediction 2023-2032: Is it a Good Time to buy TRX?",
+    "url": "https://www.cryptopolitan.com/tron-price-prediction/",
+    "description": "Tron Price Prediction 2023-2032 TRX, or rather Tronix, is the native&#160;crypto asset of the TRON Network.TRON is a Blockchain-based decentralized network targeting an unchained, worldwide digital content entertainment structure using distributed ledger technology and enabling straightforward and cheap data sharing. How is Tron Price Prediction making out in this turbulent crypto weather as major crypto ... <a title=\"Tron Price Prediction 2023-2032: Is it a Good Time to buy TRX?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tron-price-prediction/\" aria-label=\"More on Tron Price Prediction 2023-2032: Is it a Good Time to buy TRX?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-07T17:03:19.000Z",
-    "title": "Investor optimism fuels meme coins growth: predictions and market analysis",
-    "url": "https://crypto.news/investor-optimism-fuels-meme-coins-growth-predictions-and-market-analysis/",
-    "description": "The upcoming Bitcoin halving may signal an auspicious period for meme coins, sparking widespread market speculation. Learn how."
+    "date": "2023-11-07T17:32:06.000Z",
+    "title": "FTX aftermath: Celebrities could face legal heat following Bankman-Fried verdict",
+    "url": "https://crypto.news/ftx-aftermath-celebrities-could-face-legal-heat-after-bankman-frieds-verdict/",
+    "description": "Following Sam Bankman-Fried’s guilty verdict last week, FTX investors call for actions against celebrity endorsers.  "
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-07T17:02:11.000Z",
-    "title": "Binance-related tokens see price surge ahead of blockchain week",
-    "url": "https://crypto.news/binance-related-tokens-see-price-surge-ahead-of-blockchain-week/",
-    "description": "One of the year’s top blockchain and web3 events, Binance Blockchain Week, is set to begin tomorrow, Nov. 8."
+    "date": "2023-11-07T17:27:27.000Z",
+    "title": "Custodia Bank announces Bitcoin custody platform launch",
+    "url": "https://crypto.news/custodia-bank-announces-bitcoin-custody-platform-launch/",
+    "description": "Custodia Bank founder and Bitcoin advocate Caitlin Long took to the X platform on Nov. 7 to announce the launch of its Bitcoin custody platform."
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-11-07T17:00:05.000Z",
-    "title": "Dogecoin Climbs Above $0.075 To 3-Month High, But Metrics Show It’s Far From Done",
-    "url": "https://www.newsbtc.com/news/dogecoin/dogecoin-0-075-3-month-high/",
-    "description": "Dogecoin has emerged as one of the clear winners in the last week after its price climbed over 10% to secure the $0.075 level. This incredible rally has brought the meme coin to its highest level in the last three months. However, it may only be getting started as multiple DOGE metrics continue to exhibit bullishness. Dogecoin Whales Still In The Game One of the most important metrics that show how investors are looking at a coin like Dogecoin is what the large investors are doing. Initially, when the crypto market rally began and DOGE started to move up, the whale addresses remained muted without showing too much activity. But that has started to change with a drastic rise in the whale movements. Related Reading: Why Ark Invest’s Cathie Wood Picks Bitcoin Over Cash And Gold According to data from IntoTheBlock, in the last 24 hours, Dogecoin whales have carried out over $1.48 billion worth of transactions. This is in stark contrast to last week’s figures coming in at an average of $600 million in daily transactions by these large holders. DOGE large transactions climb to $1.48 billion &#124; Source: IntoTheBlock It means that there has been a more than 100% rise in daily large transaction volume for Dogecoin, suggesting that the whales are coming out to play. The spike also began around November 4 which is when the DOGE price had begun moving upward quickly. This could mean that these whales have been buying large quantities, leading to a drastic decrease in the available DOGE supply on the open market. The number of large transactions reached 1,320 on November 6, just 100 transactions shy of the asset’s October highs. IntoTheBlock also shows a leaning toward bullishness with more addresses being bullish compared to those which are bearish. DOGE Volumes Are On The Rise Dogecoin whale transactions and volumes are not the only Dogecoin metrics that have been on the rise. The meme coin’s daily trading volume has also exploded during this time as well, with a 64% increase in a 24-hour period. Daily trading volume rises &#124; Source: CoinMarketCap This drastic rise has brought its daily trading volume above $870 million with the possibility of crossing $1 billion in the coming days. This exponential rise in daily trading volume indicates rising interest, especially with the spot buying and selling. Related Reading: Shiba Inu-Based BONE Eyes $1 As This On-Chain Metric Explodes During this time, the DOGE profitability has been rising quickly, bringing 53% of all holders back into profit. This has contributed to the bullish sentiment of the meme coin and could help to trigger more capital inflow into Dogecoin as investors try to take advantage of the price recovery. DOGE price loses footing at $0.075 &#124; Source: DOGEUSD On Tradingview.com Featured image from StormGain, chart from Tradingview.com"
+    "source": "BTCManager",
+    "date": "2023-11-07T17:12:29.000Z",
+    "title": "Bitget exchange expands integration with web3 wallet services",
+    "url": "https://crypto.news/bitget-exchange-expands-integration-with-web3-wallet-services/",
+    "description": "Bitget Exchange announces the integration of a web3 wallet, indicating a potential trend as exchanges adapt to decentralized services."
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-11-07T17:19:00.000Z",
+    "title": "Memecoin (MEME) Dips Over 7% Amid Bearish Pressure as Hype Fades",
+    "url": "https://coinedition.com/memecoin-meme-dips-over-7-amid-bearish-pressure-as-hype-fades/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Memecoin (MEME) Dips Over 7% Amid Bearish Pressure as Hype Fades\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each.png 730w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/10/Rug_Pull_Alert_MEME_MEMEPAD_and_TITANX_Replicas_Lose_100_Each-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Memecoin (MEME) faces a 7.34% price drop within 24 hours, signaling waning excitement and a retreat in market cap. Investor interest in MEME declines with a 26.45% drop in 24-hour trading volume despite a still-engaged community. Technical indicators suggest a bearish sentiment for MEME, with RSI and MACD signaling potential downward pressure. The digital currency [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/memecoin-meme-dips-over-7-amid-bearish-pressure-as-hype-fades/\">Memecoin (MEME) Dips Over 7% Amid Bearish Pressure as Hype Fades</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-11-07T17:13:00.000Z",
+    "title": "Binance Announces Ordinals (ORDI) Listing; Token Surges 50% in Reaction",
+    "url": "https://coinedition.com/binance-announces-ordinals-ordi-listing-token-surges-50-in-reaction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance Announces Ordinals (ORDI) Listing; Token Surges 50% in Reaction\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/U_S_subpoenas_hedge_funds_in_probe_of_crypto_exchange_Binance-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto exchange Binance announced today the listing of the Ordinals (ORDI) token on its platform. With the development, Binance joins a growing list of crypto trading platforms to have listed the token. Notably, the crypto exchange disclosed in the announcement it will list the token with new spot trading pairs ORDI/BTC, ORDI/USDT/, and ORDI/TRY. The [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/binance-announces-ordinals-ordi-listing-token-surges-50-in-reaction/\">Binance Announces Ordinals (ORDI) Listing; Token Surges 50% in Reaction</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

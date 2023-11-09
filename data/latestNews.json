@@ -1,93 +1,65 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-11-09T16:45:00.000Z",
+    "title": "Crypto for Advisors: Innovating Legacy Programs with Blockchain",
+    "url": "https://www.coindesk.com/web3/2023/11/09/crypto-for-advisors-innovating-legacy-programs-with-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "In this week's issue of Crypto for Advisors, learn how brands are leveraging blockchain to innovate loyalty programs."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-09T16:41:25.000Z",
+    "title": "Coinbase, Ether Liquid Staking Tokens Lido, RocketPool Surge on BlackRock ETH ETF News",
+    "url": "https://www.coindesk.com/markets/2023/11/09/coinbase-ether-liquid-staking-tokens-lido-rocketpool-surge-on-blackrock-eth-etf-news/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Asset management giant BlackRock registered a Delaware company for a spot ether trust, fueling speculations about a potential ETF filing."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-11-09T16:18:38.000Z",
-    "title": "Ethereum Tops $2,000 for First Time Since July",
-    "url": "https://decrypt.co/205331/ethereum-soars-past-2000",
-    "description": "Ethereum has followed Bitcoin's rally today, rallying past the $2,000 mark."
+    "date": "2023-11-09T17:01:02.000Z",
+    "title": "You Can Now Lend Your NFTs to Gamers and Earn Passive Income",
+    "url": "https://decrypt.co/205003/you-can-now-lend-your-nfts-gamers-earn-passive-income",
+    "description": "LootRush will let gamers list their NFTs for rent on its marketplace, allowing them to earn passive income for game items like cards and land."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-11-09T16:27:12.000Z",
-    "title": "Cryptocurrency charities can exploit the ‘gambler’s fallacy’ to reap larger donations — study ",
-    "url": "http://cointelegraph.com/news/cryptocurrency-bitcoin-charities-exploit-gambler-s-fallacy-reap-larger-donations-study",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/b18d2509-c85a-40ea-bc53-fae4bd9a2256.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>According to the researchers, people’s penchant to misinterpret patterns could be a boon for charitable organizations that accept cryptocurrency.</p>\n                    <p><p>A team of academic researchers from the U.S. recently <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599471\" target=\"_blank\" rel=\"noopener nofollow\">published</a> a study exploring how the “gambler’s fallacy” affected cryptocurrency donations. Their findings indicate that organizations accepting crypto donations could benefit from timing the market. </p><p>Essentially, the team’s work explores the idea that people generally misinterpret certain pattern signals when it comes to finance. Charities that understand the penchant for crypto holders to hold or move assets based on perceived market conditions may be able to optimize their strategies to reap larger donations.</p><p>Per the paper: </p><blockquote>“Our findings support actionable recommendations for how charities can design more intentional fundraising campaigns to take advantage of the cost and time efficiencies of cryptocurrencies. By considering recent changes in cryptocurrency prices and highlighting the urgency to donate, charities can design more effective strategies to engage cryptocurrency donors.”</blockquote><p>The team tested their premise through an empirical study of cryptocurrency donations to 117 campaigns at an online crowdfunding platform. They also conducted a controlled online experiment studying features of cryptocurrency donation context. </p><p>After careful analysis, the team determined that market movement was directly correlated to donation \"activation\" (first time donations) and donation sizes.</p><p> According to the paper, the online experiment expanded on the empirical analysis and demonstrated that “donors’ decisions are affected by recent changes in asset price, consistent with the gambler’s fallacy heuristic.”</p><p>The gambler’s fallacy, also commonly called the Monte Carlo fallacy, refers to the tendency for people to misinterpret statistically meaningless historical events, such as the flip of a coin, as a predictor for future odds.</p><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/tRn0-iCjzRs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>As an example of the gambler’s fallacy, if a person flips a coin 10,000 times in a row, and it lands on heads each time, an observer might think that the next coinflip has a higher chance of landing on tails because, as the above video explains, “it’s due.” </p><p>In reality, the odds of a coin landing on heads or tails is always exactly one-in-two with no regard for historical outcomes. </p><p>During the study, the researchers determined that participants are more likely to be activated to donate after experiencing declines in asset value. This purportedly occurs because donors feel more confident that prices will go up after their donation due to the gambler’s fallacy. “Moreover,” the paper continues, “we observe that participants’ reliance on the gambler’s fallacy is amplified when they face urgent donation appeals.”</p><p>Ultimately, the paper concludes that these insights could be used as empirical evidence in the decision-making process for organizations and individuals managing charities that accept cryptocurrency donations.</p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/explained/blockchain-in-charity-explained\"><strong><em>Blockchain in charity, explained</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template></p>\n                \n            "
+    "date": "2023-11-09T16:50:58.000Z",
+    "title": "BlackRock iShares Ethereum Trust registered in Delaware",
+    "url": "http://cointelegraph.com/news/blackrock-ishares-ethereum-trust-registered-delaware",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/e3f6bf02-a39e-46c0-a8f9-75c1af9a70a8.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The new corporate entity could signal an upcoming SEC filing.</p>\n                    <p><p>BlackRock has apparently registered an Ethereum trust in the state of Delaware, which is possibly a first step toward an Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) spot exchange-traded fund (ETF). </p><p>BlackRock registered an analogical Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) trust in June, shortly before filing with the United States Securities and Exchange Commission (SEC) for a Bitcoin ETF. </p><p>The entity has been registered by the state’s Division of Corporations with a formation date of Nov. 9. The agent registered is Daniel Schweiger at the address of BlackRock in Wilmington, DE. According to <a href=\"https://www.linkedin.com/in/daniel-schwieger-7a6a3ba4/\" target=\"_blank\" rel=\"noopener nofollow\">LinkedIn</a>, Schwieger is a BlackRock managing director. </p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/bitcoin-etf-approval-window-sec-bloomberg-analysts\"><strong><em>SEC’s first window to approve all 12 spot Bitcoin ETFs to begin today</em></strong></a><strong><em></em></strong></p><p>ETH has risen 5.77%. BlackRock declined to comment in response to Cointelegraph inquiries. </p><p class=\"post-content__disclaimer\">This is a developing story, and further information will be added as it becomes available.\n</p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2023-11-09T16:21:09.000Z",
-    "title": "Vitalik Buterin says the Ethereum centralization issue might be solved in a 20-year interval",
-    "url": "https://www.cryptoglobe.com/latest/2023/11/vitalik-buterin-says-the-ethereum-centralization-issue-might-be-solved-in-a-20-year-interval/",
-    "description": "Disclaimer: This article is sponsored content and should not be considered as financial or investment advice. Always do your own research before making any financial decisions. The opinions expressed in this article are those of the author and do not necessarily reflect the views of CryptoGlobe. You may wonder how Ethereum has problems with centralization […]\n"
+    "source": "Crypto Briefing",
+    "date": "2023-11-09T16:41:58.000Z",
+    "title": "SEC Open to FTX Relaunch Under New Leadership, FTT Soars 90%",
+    "url": "https://cryptobriefing.com/sec-open-ftx-relaunch-under-new-leadership-ftt-soars/?utm_source=feed&utm_medium=rss",
+    "description": "FTT rallied 90% as SEC Chair Gensler signaled openness to FTX reopening under new management adhering to laws."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-11-09T16:13:52.000Z",
-    "title": "Dogecoin (DOGE) Under Scrutiny as Investors Anticipate Market Shift",
-    "url": "https://cryptodaily.co.uk/2023/11/dogecoin-doge-under-scrutiny-as-investors-anticipate-market-shift",
-    "description": "Discover the latest market dynamics of Dogecoin (DOGE) as it teeters between gains and losses. Our analysis spotlights key trends and price levels that could signal its next big move. Stay updated with the DOGE potential to hit new peaks or test lows with our concise market insights."
+    "date": "2023-11-09T16:53:32.000Z",
+    "title": "Bitcoin bull market rages higher",
+    "url": "https://cryptodaily.co.uk/2023/11/bitcoin-bull-market-rages-higher",
+    "description": "Bitcoin has continued to rage higher as the suspense builds over the potential approval of a Spot Bitcoin ETF by the SEC."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-11-09T16:30:15.000Z",
-    "title": "FTT Skyrockets Amid FTX Acquisition Rumors Tied to NYSE’s Ex-President",
-    "url": "https://news.bitcoin.com/ftt-skyrockets-amid-ftx-acquisition-rumors-tied-to-nyses-ex-president/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"FTT Skyrockets Amid FTX Acquisition Rumors Tied to NYSE&#039;s Ex-President\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ddftt.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />FTX&#8217;s proprietary token, FTT, has witnessed an impressive surge of over 80% following reports that say Tom Farley, the former president of the New York Stock Exchange (NYSE), is potentially interested in acquiring and rebooting the collapsed exchange. FTT Price Jumps More Than 80% Over FTX 2.0 Speculation On Thursday, FTT&#8217;s value soared, escalating from [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-09T16:30:51.000Z",
-    "title": "Changpeng Zhao slams Nouriel Roubini over the launch of his crypto token",
-    "url": "https://www.cryptopolitan.com/changpeng-zhao-nouriel-roubini-launch-token/",
-    "description": "Binance CEO Changpeng Zhao has called out renowned economist Nouriel Roubini who has been a vocal adversary of the cryptocurrency industry for years. His strong opinions included referring to Bitcoin as a “shitcoin,” discrediting Ethereum and dismissing blockchain technology as no more than a glorified spreadsheet. However, in a surprising turn of events, Roubini has ... <a title=\"Changpeng Zhao slams Nouriel Roubini over the launch of his crypto token\" class=\"read-more\" href=\"https://www.cryptopolitan.com/changpeng-zhao-nouriel-roubini-launch-token/\" aria-label=\"More on Changpeng Zhao slams Nouriel Roubini over the launch of his crypto token\">Read more</a>"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-09T16:36:32.000Z",
-    "title": "Galaxy CEO predicts no changes in crypto regulations until the 2024 election",
-    "url": "https://crypto.news/galaxy-ceo-predicts-no-changes-in-crypto-regulations-until-the-2024-election/",
-    "description": "Galaxy Digital's CEO foresees a delay in U.S. crypto regulation until post-2024 elections amid the firm's report of increased Q3 losses."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-09T16:22:29.000Z",
-    "title": "Laos government will halt crypto businesses deemed inactive",
-    "url": "https://crypto.news/laos-government-will-halt-crypto-businesses-deemed-inactive/",
-    "description": "On Nov. 9, the Laos government announced it would halt business activities, levy fines and potentially revoke licenses of companies that do not meet their commitments or show progress in cryptocurrency mining and trading agreements in what is considered an inactive status."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-09T16:18:00.000Z",
-    "title": "Xapo Bank launches ETH, ADA, MATIC buying",
-    "url": "https://crypto.news/xapo-bank-launches-eth-ada-matic-buying/",
-    "description": "Xapo Bank rolls out new cryptocurrency offerings Ethereum, Cardano, and Polygon."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-09T16:13:38.000Z",
-    "title": "Maine state treasurer to focus on abandoned crypto accounts",
-    "url": "https://crypto.news/maine-state-treasurer-to-focus-on-abandoned-crypto-accounts/",
-    "description": "The Office of the Maine State Treasurer issued a program evaluation report in November with the intention to prioritize the management of abandoned cryptocurrency accounts. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-09T16:11:29.000Z",
-    "title": "Cardano’s bull run: Why the price is up and what’s next for ADA",
-    "url": "https://crypto.news/cardanos-bull-run-why-the-price-is-up-and-whats-next-for-ada/",
-    "description": "Cardano's rise in TVL and active addresses postulates a positive trend, but will this trajectory hold?"
+    "source": "NewsBTC",
+    "date": "2023-11-09T16:45:00.000Z",
+    "title": "Ethereum Price Cracks Above $2,000 As BlackRock Eyes ETH ETF",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-price-cracks-above-2000-as-blackrock-eyes-eth-etf/",
+    "description": "Move over Bitcoin ETF, it is time for Ethereum to take the center stage. $9 trillion asset manager BlackRock has revealed its intention to to launch a spot Ethereum ETF, and it already sent the price per ETH above $2,000. Ethereum ETF News From BlackRock Prompts Break Above $2,000 Ethereum sentiment has recently been in the gutter, but breaking news today has instantly revived the top altcoin and caused its price to surge higher. Related Reading: This Pattern Points To $10,000+ Ethereum Price, But When? That news was none other than BlackRock announcing its intention to file for a spot ETH Exchange-Traded Fund (ETF). BlackRock’s Bitcoin ETF application has been driving increased interest and speculation in BTC. Ether breaks above $2,000 &#124; ETHUSD on TradingView.com Bitcoin’s price has climbed over 100% in 2023, but Ether has since lagged behind. All that could be changing now that ETHUSD broke above $2,000 and is now closing in on breaking up out of an ascending triangle pattern. ETH Breakout Could Change Momentum Long-Term If the bullish news backdrop and possible ascending triangle pattern weren’t enough positive signs for Ethereum, the top altcoin by market cap has also crossed bullish on the monthly LMACD. Ether could target $10,000 next&#124; ETHUSD on TradingView.com The LMACD is the logarithmic version of the Moving Average Convergence Divergence indicator, used to measure market momentum. With this significant momentum shift possibly brewing, the price per ETH could shoot much higher. Related Reading: Ethereum News Catalyst Could Trigger Triangle Breakout To $4,000 Immediately short-term targets of the ascending triangle could see Ether revisiting all-time highs soon enough. However, longer-term targets are closer to $10,000 per coin. While this might have seemed out of reach in the past, the capital inflows a spot ETH ETF could bring into the market would range from billions to potentially trillions over time. Tony is the author of the CoinChartist (VIP) newsletter. Sign up for free. Follow @TonyTheBullBTC &#38; @coinchartist_io on Twitter. Or join the TonyTradesBTC Telegram for daily market insights and technical analysis education. Please note: Content is educational and should not be considered investment advice. Featured image from Shutterstock, Charts from TradingView.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-09T16:38:11.000Z",
-    "title": "London City Minister Advocates Crypto to Enhance Financial Portfolio – Is The UK Gov’t Buying Bitcoin (BTC)?",
-    "url": "https://www.crypto-news-flash.com/london-city-minister-advocates-crypto-to-enhance-financial-portfolio-is-the-uk-govt-buying-bitcoin-btc/?utm_source=rss&utm_medium=rss&utm_campaign=london-city-minister-advocates-crypto-to-enhance-financial-portfolio-is-the-uk-govt-buying-bitcoin-btc",
-    "description": "<img width=\"1046\" height=\"701\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin.jpg 1046w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-300x201.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-1024x686.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-768x515.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-104x69.jpg 104w\" sizes=\"(max-width: 1046px) 100vw, 1046px\" />Andrew Griffith, a UK City Minister, has remained vocal about using web3 and digital assets led by Bitcoin and stablecoins to drive forward the country’s economic growth. The UK has welcomed global blockchain investors especially those facing regulatory hostility in the United States led by Coinbase Global, a16z family among many others. Popular Bitcoin (BTC) [...]"
+    "date": "2023-11-09T16:51:23.000Z",
+    "title": "Chainlink’s Proof of Reserve Now Powers StablR’s EURR Stablecoin on Ethereum for Increased Transparency",
+    "url": "https://www.crypto-news-flash.com/chainlinks-proof-of-reserve-now-powers-stablrs-eurr-stablecoin-on-ethereum-for-increased-transparency/?utm_source=rss&utm_medium=rss&utm_campaign=chainlinks-proof-of-reserve-now-powers-stablrs-eurr-stablecoin-on-ethereum-for-increased-transparency",
+    "description": "<img width=\"2048\" height=\"1152\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png.webp 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png-300x169.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png-1024x576.webp 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png-768x432.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/StablRxChainlink-2048x1152.png-1536x864.webp 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" />StabIR has integrated the Chainlink Proof of Reserve on Ethereum to introduce world-class transparency for EURR, its euro-backed stablecoins. Any user can now check whether the amount of fiat held in reserves matches the total supply of EURR, boosting confidence and enabling seamless regulatory compliance. StabIR has announced a new partnership with Chainlink in which [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-09T16:32:53.000Z",
-    "title": "Make Way for a New Fox in Town, Leaving Dogecoin, Shiba inu, and Pepe in the Dust!",
-    "url": "https://www.crypto-news-flash.com/make-way-for-a-new-fox-in-town-leaving-dogecoin-shiba-inu-and-pepe-in-the-dust/?utm_source=rss&utm_medium=rss&utm_campaign=make-way-for-a-new-fox-in-town-leaving-dogecoin-shiba-inu-and-pepe-in-the-dust",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-27.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-27.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-27-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-27-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Three meme coins – Dogecoin, Shibu inu, and Pepe have captivated investors&#8217; attention over the past months due to their massive pump potential. Unfortunately, their price movements have not been bullish as they battle for more use cases. Galaxy Fox is a P2E gaming project that offers more rewards in several use cases. This article [...]"
+    "date": "2023-11-09T16:40:40.000Z",
+    "title": "Strike Digital Gold on Cointiply: Your Free Fun-Filled Gateway to Crypto Riches!",
+    "url": "https://www.crypto-news-flash.com/strike-digital-gold-on-cointiply-your-free-fun-filled-gateway-to-crypto-riches/?utm_source=rss&utm_medium=rss&utm_campaign=strike-digital-gold-on-cointiply-your-free-fun-filled-gateway-to-crypto-riches",
+    "description": "<img width=\"512\" height=\"335\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-19.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-19.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-19-300x196.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-19-104x69.png 104w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-19-214x140.png 214w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In an era where digital currencies are not just buzzwords but bona fide assets, everyone’s on the lookout for the golden ticket to the crypto kingdom. Enter Cointiply.com – the portal that promises an easy, fun, and above all, free way to fill your digital wallet with Bitcoin and other cryptocurrencies. Embark on a Digital [...]"
   }
 ]

@@ -1,86 +1,100 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-11-10T10:10:40.000Z",
-    "title": "Institute for blockchain and crypto research opens in France  ",
-    "url": "http://cointelegraph.com/news/institute-blockchain-crypto-research-france",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/56290c30-ed1e-45fb-8c4c-396e4d4066cd.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The Institute of Crypto-Assets held a formal opening at the Léonard de Vinci center in the business district just outside of Paris. </p>\n                    <p><p>On Nov. 8, the first-of-its-kind Institute of Crypto-Assets <a href=\"https://www.devinci.fr/evenements/inauguration-institut-crypto-actifs/\" target=\"_blank\" rel=\"noopener nofollow\">held</a> a formal opening at the Léonard de Vinci center in the business district just outside of Paris. </p><p>The Institute will support and conduct research related to blockchain technology and cryptocurrencies. Its scientific board includes 11 experts from major French educational institutions, such as the National Center for Scientific Research (CNRS) and École polytechnique. A committee of 6 practitioners, including co-founder of Ledger, Nicolas Bacca, and founder of the crypto exchange Paymium, Pierre Noizat, will also oversee the work of the Institute. </p><p>According to Cyril Grunspan, the director of the Cryptoassets Institute, it will focus primarily on educational goals:</p><blockquote>“Our goal is not to lobby but to create a forum for discussion on cryptoassets.”</blockquote><p>Two lectures accompanied the opening: historian Jacques Favier spoke about the history of currencies up to Bitcoin, and cryptographer David Pointcheval ruminated on zero-knowledge proofs and anonymity. The Institute is going to hold such public events regularly. </p><p><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/bitcoin-based-ai-language-model-aims-to-drive-education\"><strong><em>Bitcoin-centric AI language model aims to drive BTC education and adoption</em></strong></a></p><p>France is actively pursuing a leadership role in Europe regarding digital economy and innovations. In September, the local telecommunications group Iliad revealed an investment of 100 million euros ($106 million) to fund the <a href=\"https://cointelegraph.com/news/french-telecom-group-invests-millions-in-local-ai-industry\">creation of an “excellence lab”</a> dedicated to AI research in Paris. In addition to the lab, Iliad has acquired what it deemed as “the most powerful cloud-native AI supercomputer deployed to date in Europe.”</p><p>Amid the market crisis of the first half of 2023, French crypto businesses grabbed 27% of all the new investment deals <a href=\"https://cointelegraph.com/news/crypto-leads-2023-fintech-investments-france-germany\">struck in the fintech sector</a>. </p><p><strong><em><u>Magazine: </u></em></strong><a href=\"https://cointelegraph.com/magazine/interview-2-years-after-john-mcafee-death-wife-janice-broke-still-grieving/\"><strong><em>2 years after John McAfee’s death, widow Janice is broke and needs answers</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-11-10T11:05:20.000Z",
+    "title": "JPMorgan Adds Programmable Payments to JPM Coin",
+    "url": "https://www.coindesk.com/business/2023/11/10/jpmorgan-adds-programmable-payments-to-jpm-coin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Previously clients would need to set standing orders for payments to take place at a particular time; now they can program them to kick in when the relevant criteria are met."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-10T10:52:28.000Z",
+    "title": "Bitcoin Could Hit $69K by Mid-2024 as It Enters Acceleration Phase, Analyst Says",
+    "url": "https://www.coindesk.com/markets/2023/11/10/bitcoin-could-hit-69k-by-mid-2024-as-it-enters-acceleration-phase-analyst-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BTC prices have doubled this year amid a spot ETF push by prominent traditional finance firms."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-10T11:04:27.000Z",
+    "title": "Staking Tokens Post Double-Digit Gains on BlackRock Ethereum ETF Hype",
+    "url": "https://decrypt.co/205453/staking-tokens-ride-high-curtails-blackrock-ethereum-etf-hype",
+    "description": "With BlackRock potentially eyeing an Ethereum ETF filing, a host of liquid staking tokens linked to the cryptocurrency are rallying."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-10T10:47:53.000Z",
+    "title": "JPMorgan Adds Programmable Payments ‘Holy Grail’ to JPM Coin",
+    "url": "https://decrypt.co/205458/jpmorgan-adds-programmable-payments-holy-grail-to-jpm-coin",
+    "description": "The new feature enabling the automated transfer of funds has already been employed by German firm Siemens AG."
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-11-10T10:30:22.000Z",
-    "title": "Bitcoin fees up more than 2000% since August due to renewed interest in Ordinals",
-    "url": "https://cryptoslate.com/bitcoin-fees-up-more-than-2000-percent-since-august-due-to-renewed-interest-in-ordinals/",
-    "description": "<p>Bitcoin transaction fees have risen to a six-month high amidst a resurgence in the popularity of Ordinals Inscriptions. Data from BitInfoCharts reveals that Bitcoin&#8217;s average transaction fee has reached its highest point since May, surging over 2,000% since its August low of $0.64. Per the data aggregator, an average BTC transaction would cost around $15.86 [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-fees-up-more-than-2000-percent-since-august-due-to-renewed-interest-in-ordinals/\">Bitcoin fees up more than 2000% since August due to renewed interest in Ordinals</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-11-10T10:30:13.000Z",
-    "title": "Maximizing Efficiency in High Fee Environments: A Guide to Bitcoin UTXO Consolidation",
-    "url": "https://news.bitcoin.com/maximizing-efficiency-in-high-fee-environments-a-guide-to-bitcoin-utxo-consolidation/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Maximizing Efficiency in High Fee Environments: A Guide to Bitcoin UTXO Consolidation\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/btccons.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In an era where bitcoin transaction fees can soar unexpectedly, managing your unspent transaction outputs (UTXOs) is crucial for minimizing costs. Bitcoin users with multiple UTXOs can face hefty fees for future transactions, which depletes the value of their holdings over time. Understanding UTXO consolidation is essential for anyone looking to optimize their bitcoin management [&#8230;]"
+    "date": "2023-11-10T11:00:05.000Z",
+    "title": "Bullish signal for Bitcoin as realized price outpaces long-term holder cost",
+    "url": "https://cryptoslate.com/insights/bullish-signal-for-bitcoin-as-realized-price-outpaces-long-term-holder-cost/",
+    "description": "<p>Quick Take Bitcoin is experiencing a bullish breakout, indicated by the realized price, the average cost at which all existing Bitcoins were last moved, surpassing the realized price for long-term holders (LTHs). The realized price now stands at $20,796, slightly above the LTH realized price of $20,725. The LTH realized price represents the average acquisition [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bullish-signal-for-bitcoin-as-realized-price-outpaces-long-term-holder-cost/\">Bullish signal for Bitcoin as realized price outpaces long-term holder cost</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-10T10:36:19.000Z",
-    "title": "Celsius bankruptcy $2 billion exit plan confirmed by court  ",
-    "url": "https://www.cryptopolitan.com/celsius-2b-exit-plan-confirmed-by-court/",
-    "description": "Among the recent events in the ever-evolving crypto space include the news on Celsius Network, a&#160; crypto lending platform that intends to implement its plans on a restructuring intent. These plans will also return digital currencies to customers and create the Celsius creditors company.&#160; The court signed off and confirmed the firm exit and restructuring ... <a title=\"Celsius bankruptcy $2 billion exit plan confirmed by court  \" class=\"read-more\" href=\"https://www.cryptopolitan.com/celsius-2b-exit-plan-confirmed-by-court/\" aria-label=\"More on Celsius bankruptcy $2 billion exit plan confirmed by court  \">Read more</a>"
+    "date": "2023-11-10T11:06:17.000Z",
+    "title": "Avalanche Price Prediction 2023-2032: Time to Buy AVAX?",
+    "url": "https://www.cryptopolitan.com/avalanche-price-prediction/",
+    "description": "Avalanche Price Prediction 2023-2032 A quadrant chart by TrueUp (a tech recruitment firm) collated data from the job review platform Glassdoor — mapped out how crypto firms stack up regarding growth vs employee happiness. The chart suggested the “happiest” workers in the industry came from Ava Labs, the team behind the Avalanche blockchain. Here’s a ... <a title=\"Avalanche Price Prediction 2023-2032: Time to Buy AVAX?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/avalanche-price-prediction/\" aria-label=\"More on Avalanche Price Prediction 2023-2032: Time to Buy AVAX?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-10T10:24:43.000Z",
-    "title": "Algorand Price Prediction 2023-2032: Resurgence possible?",
-    "url": "https://www.cryptopolitan.com/algorand-price-prediction/",
-    "description": "Algorand Price Prediction 2023-2032 Algorand is one of the best choices to consider when investing in cryptocurrency. However, it is insufficient to hold the ALGO cryptocurrency in high esteem. The coin has to perform up to expectations. You must look at Algorand’s price prediction from 2023 to 2032, its expected minimum price, and what it ... <a title=\"Algorand Price Prediction 2023-2032: Resurgence possible?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/algorand-price-prediction/\" aria-label=\"More on Algorand Price Prediction 2023-2032: Resurgence possible?\">Read more</a>"
+    "date": "2023-11-10T10:52:31.000Z",
+    "title": "Tesla’s Vision: Integrating xAI’s Grok for a Futuristic Driving Experience",
+    "url": "https://www.cryptopolitan.com/teslas-vision-integrating-xais-grok-for-a-futuristic-driving-experience/",
+    "description": "Tesla&#8217;s visionary leader, Elon Musk, has once again pushed the envelope of technological innovation by revealing xAI’s latest product: Grok AI. With a speculative integration into Tesla&#8217;s technological suite, Grok AI is poised to elevate the Tesla driving experience to unprecedented heights. The tech community is abuzz with Musk&#8217;s social media musings on embedding Grok’s ... <a title=\"Tesla&#8217;s Vision: Integrating xAI&#8217;s Grok for a Futuristic Driving Experience\" class=\"read-more\" href=\"https://www.cryptopolitan.com/teslas-vision-integrating-xais-grok-for-a-futuristic-driving-experience/\" aria-label=\"More on Tesla&#8217;s Vision: Integrating xAI&#8217;s Grok for a Futuristic Driving Experience\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-10T10:17:54.000Z",
-    "title": "Dollar poised for 3-month high against Yen, cryptos on the rise",
-    "url": "https://www.cryptopolitan.com/dollar-3-month-high-against-yen-cryptos-rise/",
-    "description": "According to market data, the US dollar is rising and targeting its best week in the past three months over the yen. On Friday, this revelation came to light after the Federal Reserve Chair and reviews from Federal Officials iced market expectations on the peaking US rates.&#160; Cryptocurrencies saw a rise in their market values ... <a title=\"Dollar poised for 3-month high against Yen, cryptos on the rise\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dollar-3-month-high-against-yen-cryptos-rise/\" aria-label=\"More on Dollar poised for 3-month high against Yen, cryptos on the rise\">Read more</a>"
+    "date": "2023-11-10T10:44:58.000Z",
+    "title": "Hashkey Capital’s Jupiter Zheng Highlights Hong Kong’s Crypto Market Potential",
+    "url": "https://www.cryptopolitan.com/zheng-highlight-hong-kong-crypto-potential/",
+    "description": "Hong Kong&#8217;s aspiration to become a leading digital asset hub gains momentum as industry experts anticipate a surge in cryptocurrency adoption. Jupiter Zheng, a partner at Hashkey Capital, underscores Hong Kong&#8217;s readiness for this transition, fueled by a significant influx of crypto expertise. This readiness is a beacon of hope for the city&#8217;s economy, which ... <a title=\"Hashkey Capital&#8217;s Jupiter Zheng Highlights Hong Kong&#8217;s Crypto Market Potential\" class=\"read-more\" href=\"https://www.cryptopolitan.com/zheng-highlight-hong-kong-crypto-potential/\" aria-label=\"More on Hashkey Capital&#8217;s Jupiter Zheng Highlights Hong Kong&#8217;s Crypto Market Potential\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-10T10:35:07.000Z",
-    "title": "Bitcoin’s surge to new annual high cost traders $440m",
-    "url": "https://crypto.news/bitcoins-surge-to-new-annual-high-cost-traders-440m/",
-    "description": "The total amount of liquidations on the crypto market over the past 24 hours approached $440 million. Most of the forced closed positions were in BTC and ETH. The rise in BTC price towards $38,000 cost short sellers $78 million.&#8230;"
+    "date": "2023-11-10T11:00:00.000Z",
+    "title": "Weekly brief: supporters of NuggetRush, Solana, and Arbitrum bullish",
+    "url": "https://crypto.news/weekly-brief-supporters-of-nuggetrush-solana-and-arbitrum-bullish/",
+    "description": "NuggetRush, Solana, and Arbitrum supporters are bullish. The NUGX presale is ongoing"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-10T10:18:06.000Z",
-    "title": "Jihan Wu’s Bitcoin mining firm Bitdeer partners with NVIDIA",
-    "url": "https://crypto.news/jihan-wus-bitcoin-mining-firm-bitdeer-partners-with-nvidia/",
-    "description": "Blockchain company Bitdeer has become a cloud service provider in the NVIDIA partner network. Bitcoin cloud mining services company Bitdeer Technologies Group has entered into a partnership agreement with NVIDIA to double down on supercomputing resources. In a press release&#8230;"
+    "date": "2023-11-10T10:48:12.000Z",
+    "title": "Ethereum hits 52-week high: analyzing the surge beyond $2,000",
+    "url": "https://crypto.news/ethereum-hits-52-week-high-analyzing-the-surge-beyond-2000/",
+    "description": "Ethereum's latest surge to over $2,098 signals a bullish market trend. What's driving the price, and how far will ETH go?"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-10T10:41:58.000Z",
+    "title": "Russia-linked crypto ransomware hits U.S. arm of Chinese lender",
+    "url": "https://crypto.news/russia-linked-crypto-ransomware-hits-u-s-arm-of-chinese-lender/",
+    "description": "A Russian-speaking crypto ransomware gang LockBit has attacked ICBCFS arm in the U.S. Cryptocurrency ransomware gang LockBit has attacked the U.S. arm of the Industrial and Commercial Bank of China Financial Services (ICBCFS). Currently, it prevents the bank from settling&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-11-10T10:45:20.000Z",
+    "title": "Matrixport Reveals Top 6 Bitcoin, Ethereum And Crypto Predictions For 2024",
+    "url": "https://www.newsbtc.com/news/top-6-bitcoin-eth-crypto-predictions-2024-matrixport/",
+    "description": "Matrixport, a leading player in the digital asset space, released a research titled &#8220;2024 Unveiled: Six Micro and Macro Events That Will Shape Bitcoin&#8221; dated Thursday, November 9, 2023, shedding light on crucial events projected to shape the crypto landscape in 2024. The report highlights a mix of micro and macro events anticipated to positively impact the industry, with a particular focus on Bitcoin. Top 6 Predictions For Bitcoin And Crypto First, the report underlines the anticipation of the US Securities and Exchange Commission (SEC) approving a Bitcoin ETF. Notably, the company believes that the approval of the first spot ETFs will take a few more weeks. Matrixport stated, &#8220;By January 2024, we anticipate the SEC to approve a Bitcoin ETF, with trading expected to commence by February or March.&#8221; This event is viewed as a massive catalyst for increased institutional investment in Bitcoin. Related Reading: Bitcoin Bulls Gear Up: 200-Day SMA Rise And Historical Trend Signal $50,000 Price Target Further, Matrixport points to the potential listing of stablecoin issuer Circle on the stock market by April 2024. This event is seen as a significant step towards mainstream acceptance of digital assets. According to a Bitcoinist report, Circle, the company behind the stablecoin USDC, is contemplating an Initial Public Offering (IPO) in early 2024. Currently, the company is engaging with consultants to lay the groundwork for this potential public listing, though it remains uncertain whether the IPO will ultimately materialize. The third prediction of Matrixport concerns FTX, &#8220;While the announcement of FTX&#8217;s winning bid could occur in December 2023, we project the exchange to be operational by May or June 2024,&#8221; the report forecasts. FTX is anticipated to reclaim its position as a top 3 exchange within 12 months, making a strong comeback in the crypto exchange landscape. Also, the report mentions the interplay of these three events with the Bitcoin halving cycle, suggesting a synergistic effect that could provide momentum into the following year. The halving is expected to take place at the end of April 2024 and could be the most impactful halving of all time. Bitcoin will become the hardest asset in the world as BTC&#8217;s inflation rate will fall to half that of gold. Ethereum And Macro Predictions As a fifth prediction, Matrixport sees Ethereum&#8217;s EIP-4844 upgrade, scheduled for Q1 2024, as a less significant, yet noteworthy event. The report states, &#8220;Although seeing this as a significant upside catalyst is challenging, in Q1 2024, Ethereum’s IEP-4844 upgrade is scheduled to take place.&#8221; Related Reading: A Chat With Paolo Ardoino: What’s Behind The Bitcoin Price Rally, New Role As CEO, And Adoption Furthermore, the potential US Federal Reserve interest rate cut by mid-2024 is mentioned as a macro event that could have a significant impact on the crypto market. &#8220;This [Ethereum’s upgrade] also coincides with the potential US Federal Reserve interest rate cut by mid-2024, as market pricing indicates the first rate cut happening in June 2024,&#8221; the report elaborates. The report concludes with an analysis of the short-term Bitcoin price movement. It notes, &#8220;Next week’s US CPI data could trigger another rally in Bitcoin if inflation declines again.&#8221; The report forecasts Bitcoin attempting to break out, with a potential to reach up to $45,000 by the end of 2023, catalyzed by a &#8216;Santa Claus rally&#8217;. At press time, BTC traded at $36,657. Featured image from iStock, chart from TradingView.com"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2023-11-10T10:14:26.000Z",
-    "title": "Thirdweb, the Super App for Airdrops",
-    "url": "https://www.altcoinbuzz.io/spotlight/thirdweb-the-super-app-for-airdrops/",
-    "description": "<p>Airdrops are a good way of making free money. You need to complete some tasks and hopefully, this qualifies you for the airdrop. Recently, the Celestia airdrop rewarded you for deploying smart contracts on the platform. Scroll is now asking for something similar. So, we found a platform that offers exactly this. Thirdweb is a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/spotlight/thirdweb-the-super-app-for-airdrops/\">Thirdweb, the Super App for Airdrops</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-11-10T10:52:22.000Z",
+    "title": "Top 5 Potential Long-Term Gems With 20–50x Potential",
+    "url": "https://www.altcoinbuzz.io/spotlight/top-5-potential-long-term-gems-with-20-50x-potential/",
+    "description": "<p>Long-term thinking is one of the biggest traits of a successful crypto investor. Most users get into crypto in the short term. And that’s okay. But if you want to invest with as little as possible and watch your investment grow, you’d need to think long-term. Some crypto gems have the potential to do 20–50x, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/spotlight/top-5-potential-long-term-gems-with-20-50x-potential/\">Top 5 Potential Long-Term Gems With 20–50x Potential</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-10T10:26:56.000Z",
-    "title": "MATIC Whale Pulls 6+ Million Tokens off of Binance: On-Chain Data",
-    "url": "https://coinedition.com/matic-whale-pulls-6-million-tokens-off-of-binance-on-chain-data/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"MATIC Now Targets $1 After Breaking Through A Key Resistance\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/MATIC-Now-Targets-1-After-Breaking-Through-A-Key-Resistance-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency whale tracking platform Whale Alert revealed in an X post today that a whale transferred a substantial amount of Polygon (MATIC) tokens out of Binance. According to the post, 6,999,890 MATIC, estimated to be worth $5,895,339, was sent from the leading cryptocurrency exchange to an unknown wallet. This transfer took place after MATIC [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/matic-whale-pulls-6-million-tokens-off-of-binance-on-chain-data/\">MATIC Whale Pulls 6+ Million Tokens off of Binance: On-Chain Data</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-11-10T10:18:10.000Z",
-    "title": "Ripple and SEC Agree Terms for Discovery as Legal Battle Continues",
-    "url": "https://coinedition.com/ripple-and-sec-agree-terms-for-discovery-as-legal-battle-continues/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ripple Labs and the Securities and Exchange Commission (SEC) recently submitted a proposed schedule for remedies discovery and briefing to Analisa Torres, the presiding judge of the Southern District of New York. According to an X post shared by former Federal Prosecutor James K Filan, both parties have taken the initiative to confront the next [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-and-sec-agree-terms-for-discovery-as-legal-battle-continues/\">Ripple and SEC Agree Terms for Discovery as Legal Battle Continues</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-11-10T10:15:25.000Z",
-    "title": "Bitcoin Soaring by Over 85% Before End of Year ‘Not Unthinkable’, Says Analyst Who Predicted BTC 2021 Top",
-    "url": "https://dailyhodl.com/2023/11/10/bitcoin-soaring-by-over-85-before-end-of-year-not-unthinkable-says-analyst-who-predicted-btc-2021-top/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/11/Not-Unthinkable-btc.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto trader says that Bitcoin (BTC) could possibly soar by double digits over the remaining weeks of 2023. Pseudonymous analyst Dave the Wave tells his 142,800 followers on the social media platform X that it is “not unthinkable” for Bitcoin to rally to the record high of slightly over $69,000. Such a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/11/10/bitcoin-soaring-by-over-85-before-end-of-year-not-unthinkable-says-analyst-who-predicted-btc-2021-top/\">Bitcoin Soaring by Over 85% Before End of Year ‘Not Unthinkable’, Says Analyst Who Predicted BTC 2021 Top</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-11-10T10:47:00.000Z",
+    "title": "PEPE’s Price Responds Badly To Mysterious Frog Meme Posts",
+    "url": "https://coinedition.com/pepes-price-responds-badly-to-mysterious-frog-meme-posts/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/11/PEPE-9.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/11/PEPE-9.jpg 730w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/11/PEPE-9-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Pepe (PEPE) community was left confused yet excited after the official PEPE X account posted a picture on the social media platform earlier today. The only thing included in the post was a picture of the frog character that inspired the meme coin, holding a green chart candle. This latest post was just one [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/pepes-price-responds-badly-to-mysterious-frog-meme-posts/\">PEPE’s Price Responds Badly To Mysterious Frog Meme Posts</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

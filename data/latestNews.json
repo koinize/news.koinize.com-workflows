@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-11-12T17:00:00.000Z",
+    "title": "Bitcoin, Ethereum, and Crypto Google Searches Surge, Peaking in October Before Tapering Off",
+    "url": "https://news.bitcoin.com/bitcoin-ethereum-and-crypto-google-searches-surge-peaking-in-october-before-tapering-off/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin, Ethereum, and Crypto Google Searches Surge, Peaking in October Before Tapering Off\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/googs.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Over the 90-day stretch from August 13 to November 11, 2023, bitcoin (BTC) along with a broad array of crypto assets have posted substantial increases. Data from Google Trends in this timeframe indicates a surge in searches for &#x201C;bitcoin,&#x201D; &#x201C;crypto,&#x201D; and &#x201C;ethereum,&#x201D; with these terms achieving a peak popularity score of 100 by late October. [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-12T16:39:43.000Z",
+    "title": "2024 Counter-Strike Major Schedule Unveiled",
+    "url": "https://www.cryptopolitan.com/2024-counter-strike-major-schedule-unveiled/",
+    "description": "In a long-anticipated announcement, Perfect World Esports has officially confirmed Shanghai, China, as the host city for the second Counter-Strike Major of 2024. This confirmation follows months of speculation and rumors regarding the major shake-up in Valve&#8217;s Counter-Strike Major schedule. Perfect World Esports secures hosting rights Perfect World Esports, a well-known figure in the esports ... <a title=\"2024 Counter-Strike Major Schedule Unveiled\" class=\"read-more\" href=\"https://www.cryptopolitan.com/2024-counter-strike-major-schedule-unveiled/\" aria-label=\"More on 2024 Counter-Strike Major Schedule Unveiled\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-12T16:39:39.000Z",
+    "title": "Unleash the Inferno: MW3 Zombies Scorcher Wonder Weapon Explained",
+    "url": "https://www.cryptopolitan.com/inferno-mw3-zombies-scorcher-wonder-weapon/",
+    "description": "With the worldwide release of Call of Duty: Modern Warfare 3, players are once again descending into the beloved Zombies mode, a thrilling experience brimming with new features and challenges. Among the many elements that make this mode captivating are the wonder weapons, uniquely potent firearms that add a new dimension to the fight against ... <a title=\"Unleash the Inferno: MW3 Zombies Scorcher Wonder Weapon Explained\" class=\"read-more\" href=\"https://www.cryptopolitan.com/inferno-mw3-zombies-scorcher-wonder-weapon/\" aria-label=\"More on Unleash the Inferno: MW3 Zombies Scorcher Wonder Weapon Explained\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-12T16:41:27.000Z",
+    "title": "Ripple’s XRPL solution readies for significant upgrade",
+    "url": "https://crypto.news/ripples-xrpl-solution-readies-for-significant-upgrade/",
+    "description": "Ripple's XRP Ledger, XRPL, is gearing up for new features, and users on the Ripple v1.11.0 or earlier versions are urged to update their software"
+  }
+]

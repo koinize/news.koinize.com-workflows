@@ -1,9 +1,16 @@
 [
   {
+    "source": "Bitcoin.com",
+    "date": "2023-11-12T23:00:19.000Z",
+    "title": "South Korean Crypto Exchange Bithumb Eyes IPO in Move to Challenge Upbit’s Market Dominance",
+    "url": "https://news.bitcoin.com/south-korean-crypto-exchange-bithumb-eyes-ipo-in-move-to-challenge-upbits-market-dominance/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"South Korean Crypto Exchange Bithumb Eyes IPO in Move to Challenge Upbit&#039;s Market Dominance\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/filelelslldlldldlf.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Local reports suggest that Bithumb, a prominent crypto exchange in South Korea, is contemplating a public listing in 2025. Insider information indicates that Bithumb is considering a debut on Kosdaq and might transition to the Korea Exchange (KOSPI) platform in the future. Bithumb Targets Kosdaq Listing; Chooses Samsung Securities as Its Fund Manager According to [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-11-12T22:19:48.000Z",
-    "title": "John Reed Stark raises doubts on blockchain in financial crime",
-    "url": "https://www.cryptopolitan.com/john-reed-stark-raises-doubts-on-blockchain-in-financial-crime/",
-    "description": "John Reed Stark, a seasoned former SEC member, recently raised critical concerns about the perceived efficacy of blockchain technology in combating financial crimes. In a striking revelation, Stark debunked the popular belief that blockchain significantly aids in tracking and curbing illicit economic activities, such as terrorist funding. Stark&#8217;s skepticism aligns with insights from a top ... <a title=\"John Reed Stark raises doubts on blockchain in financial crime\" class=\"read-more\" href=\"https://www.cryptopolitan.com/john-reed-stark-raises-doubts-on-blockchain-in-financial-crime/\" aria-label=\"More on John Reed Stark raises doubts on blockchain in financial crime\">Read more</a>"
+    "date": "2023-11-12T23:00:00.000Z",
+    "title": "New crypto threat: Hackers misuse Ethereum feature for fraud",
+    "url": "https://www.cryptopolitan.com/hackers-misuse-ethereum-feature-for-fraud/",
+    "description": "In a concerning development within the cryptocurrency space, hackers have begun exploiting the Ethereum network&#8217;s CREATE2 opcode, bypassing security features in some wallets and leading to significant losses for investors. Blockchain security firm Scam Sniffer highlighted this issue, revealing a worrying trend among cybercriminals. The CREATE2 opcode, initially designed to predict a contract&#8217;s address before ... <a title=\"New crypto threat: Hackers misuse Ethereum feature for fraud\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hackers-misuse-ethereum-feature-for-fraud/\" aria-label=\"More on New crypto threat: Hackers misuse Ethereum feature for fraud\">Read more</a>"
   }
 ]

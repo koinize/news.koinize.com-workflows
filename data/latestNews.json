@@ -1,86 +1,72 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-11-14T10:30:00.000Z",
-    "title": "Social Network MeWe Heralds Migration of Users to Web3 From Web2 ",
-    "url": "https://www.coindesk.com/web3/2023/11/14/social-network-mewe-heralds-migration-of-users-to-web3-from-web2/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "MeWe said at Consensus 2023 in April that it would be adopting the Polkadot parachain Frequency to bring self-sovereign blockchain-based identities to its 20 million users."
+    "date": "2023-11-14T10:48:03.000Z",
+    "title": "Reddit Token MOON Rockets 150% Amid Hopes of Revival ",
+    "url": "https://www.coindesk.com/markets/2023/11/14/reddit-token-moon-rockets-150-amid-hopes-of-revival/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "MOON supply will be topped at 83 million tokens and moderators say they will continue to develop tools to help value accrual."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-11-14T10:45:53.000Z",
+    "title": "Swan Bitcoin to terminate customer accounts that use crypto-mixing services",
+    "url": "http://cointelegraph.com/news/swan-bitcoin-terminates-customer-accounts-crypto-mixing-services",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/3626339a-8926-4760-843f-10e1bf733c51.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Swan co-founder Yan Pritzker said the firm is pro-privacy and doesn’t oppose customers’ use of such services, but to work, it has to follow FinCEN regulations.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) services platform Swan Bitcoin warned its customers that it would be forced to terminate accounts found interacting with crypto-mixing due to the regulatory obligations of its partner banks. </p><p>Customers were informed about the policy in a letter suggesting the changes are due to the Financial Crimes Enforcement Network (FinCEN) proposed rule establishing new responsibilities on firms processing transactions from mixing services.</p><p>On Nov. 12, the co-founder of the firm, Yan Pritzker, took to X (formerly Twitter) to <a href=\"https://x.com/skwp/status/1723444038932582414?s=20\" target=\"_blank\" rel=\"noopener nofollow\">explain</a> that although the firm is not against the use of privacy mixing tools and services, it has to adhere to the obligations of its partner banking institutions. </p><p>Pritzker said that the proposed FinCEN rule is poorly written and covers a huge amount of Bitcoin-related activities, such as using BTC addresses only once, mixing funds and prohibiting the use of any programmable transactions, such as on Lightning Network channels.</p><p>He added that mixing services are painted with a scary brush instead of what they are: a common way to break large amounts of Bitcoin into small ones with privacy in focus.</p><p>Financial regulators in the U.S. have portrayed crypto-mixing services as a route for illicit activities and also put a curb on crypto-mixing services. They have sanctioned such activities and have also prosecuted and jailed the creators of Tornado Cash for carrying them out.</p><blockquote><strong>“In fact, we have written and published privacy guides that encourage mixing and promoted companies like Wasabi and Samourai. We believe that mixing is normal, privacy is not a crime, and that using unmixed Bitcoin is similar to bringing your whole paycheck to the grocery store to pay for an apple, “ Pritzker explained.</strong></blockquote><p>Pritzker noted that the current political climate has put a lot of fear into the banking sector, with most banks simply refusing to do business with anything in “crypto.” Thus, for them to continue their Bitcoin on-ramp services, their custody partner has to interact with banking services governed by FinCEN regulations.</p><p>In its letter to customers, Swan Bitcoin also suggested ways such policies can be opposed and said educating the masses on Bitcoin is the first step towards that.</p><p><strong><em>Magazine: </em></strong><a href=\"https://cointelegraph.com/magazine/orange-pill-children-bitcoin-kids-books/\"><strong><em>Should you ‘orange pill’ children? The case for Bitcoin kids books</em></strong></a></p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-14T11:08:04.000Z",
+    "title": "Decline in Bitcoin margined futures signals market shift towards stable collateral",
+    "url": "https://cryptoslate.com/insights/decline-in-bitcoin-margined-futures-signals-market-shift-towards-stable-collateral/",
+    "description": "<p>Quick Take The prospect of Cboe Digital introducing margin futures trading for Bitcoin and Ethereum in 2024 comes at a time of significant evolution in the crypto collateral landscape. Analyzing the data from Glassnode reveals a steady decline in the number of futures contracts open interest margined in native coins such as BTC over the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/decline-in-bitcoin-margined-futures-signals-market-shift-towards-stable-collateral/\">Decline in Bitcoin margined futures signals market shift towards stable collateral</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-14T10:45:25.000Z",
+    "title": "MATIC outperforms market as Polygon ID release 5 enhances security and expands ecosystem capabilities",
+    "url": "https://cryptoslate.com/matic-outperforms-market-as-polygon-id-release-5-enhances-security-and-expands-ecosystem-capabilities/",
+    "description": "<p>The Polygon network&#8217;s digital identity protocol, Polygon ID Release 5, has officially launched, marking a pivotal advancement in the decentralized identity ecosystem. This latest release introduces features to amplify the quantity and diversity of credentials available, underscoring Polygon&#8217;s commitment to fostering a robust decentralized identity landscape. Polygon ID is a set of developer tools that [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/matic-outperforms-market-as-polygon-id-release-5-enhances-security-and-expands-ecosystem-capabilities/\">MATIC outperforms market as Polygon ID release 5 enhances security and expands ecosystem capabilities</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-11-14T11:00:11.000Z",
+    "title": "Bitcoin Hits 40 Million Inscriptions Milestone and Second-Highest Day of Confirmed Transactions",
+    "url": "https://news.bitcoin.com/bitcoin-hits-40-million-inscriptions-milestone-and-second-highest-day-of-confirmed-transactions/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/ord2day.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Data reveals a milestone in the Bitcoin blockchain, with a tally of 40 million Ordinal inscriptions etched into its ledger. Inscription records were shattered on November 12, 2023, when a daily peak saw 505,345 inscriptions created in a single day. This burst of activity propelled Bitcoin to new heights, with the day marking a new [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-14T10:32:07.000Z",
-    "title": "Alliance For Good 2023 is Pioneering Positive Change Through Wealth and Purpose",
-    "url": "https://www.cryptopolitan.com/alliance-for-good-2023-positive-change/",
-    "description": "In a groundbreaking convergence of global thought leaders and influential figures, the Alliance For Good (AFG) successfully hosted the Business and Philanthropy Forum 2023 in Singapore from November 9-10. The forum, a beacon of positive change, brought together the world&#8217;s most influential family business leaders and next-generation philanthropists under the banner of AFG&#8217;s &#8220;Asia Vision: ... <a title=\"Alliance For Good 2023 is Pioneering Positive Change Through Wealth and Purpose\" class=\"read-more\" href=\"https://www.cryptopolitan.com/alliance-for-good-2023-positive-change/\" aria-label=\"More on Alliance For Good 2023 is Pioneering Positive Change Through Wealth and Purpose\">Read more</a>"
+    "date": "2023-11-14T11:00:39.000Z",
+    "title": "Dubai awards Crypto.com subsidiary key virtual asset license",
+    "url": "https://www.cryptopolitan.com/dubai-awards-crypto-com-subsidiary-key-virtual-asset-license/",
+    "description": "In a crucial milestone towards promoting its position as a worldwide center for the virtual asset industry, Dubai&#8217;s regulatory body has awarded a provisional license to Crypto.com&#8217;s Dubai subsidiary, CRO DAX Middle East FZE. Subject to regulatory and operational clearance, a Reuters article claims that this would enable Crypto.com to provide services to individual and ... <a title=\"Dubai awards Crypto.com subsidiary key virtual asset license\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dubai-awards-crypto-com-subsidiary-key-virtual-asset-license/\" aria-label=\"More on Dubai awards Crypto.com subsidiary key virtual asset license\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-14T10:29:18.000Z",
-    "title": "SMEs Grasp AI Potential but Hesitate on Adoption",
-    "url": "https://www.cryptopolitan.com/smes-grasp-ai-potential-but-hesitate-on-adoption/",
-    "description": "Small and medium-sized enterprise (SME) owners are showing a growing understanding of the potential of artificial intelligence (AI) but remain hesitant to fully embrace it in their business operations. A recent survey conducted by iwoca, a leading small business lender in Europe, has revealed that 55% of SME owners comprehend AI&#8217;s capabilities, with 27% incorporating ... <a title=\"SMEs Grasp AI Potential but Hesitate on Adoption\" class=\"read-more\" href=\"https://www.cryptopolitan.com/smes-grasp-ai-potential-but-hesitate-on-adoption/\" aria-label=\"More on SMEs Grasp AI Potential but Hesitate on Adoption\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-14T10:22:42.000Z",
-    "title": "Japan Supports U.S.-Led Initiative for Military AI Governance",
-    "url": "https://www.cryptopolitan.com/japan-u-s-initiative-military-ai-governance/",
-    "description": "Amid the accelerating integration of artificial intelligence into the intricate tapestry of global defense systems, Japan, standing shoulder to shoulder with 44 nations, announces its formal endorsement of a groundbreaking U.S.-led initiative. This initiative seeks to intricately regulate the deployment and application of artificial intelligence within the realm of military operations.&#160; As the world collectively ... <a title=\"Japan Supports U.S.-Led Initiative for Military AI Governance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/japan-u-s-initiative-military-ai-governance/\" aria-label=\"More on Japan Supports U.S.-Led Initiative for Military AI Governance\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-14T10:10:58.000Z",
-    "title": "Bitvavo gains key license for Austrian crypto market expansion",
-    "url": "https://www.cryptopolitan.com/bitvavo-gains-key-license-for-austrian-crypto-market-expansion/",
-    "description": "Bitvavo, the Dutch cryptocurrency exchange, has secured a pivotal license from the Austrian Financial Market Authority. This approval marks a significant step in Bitvavo&#8217;s European expansion, enabling the company to offer its services in Austria. The development is a key part of Bitvavo&#8217;s ongoing efforts to comply with the European crypto market&#8217;s regulatory framework following ... <a title=\"Bitvavo gains key license for Austrian crypto market expansion\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitvavo-gains-key-license-for-austrian-crypto-market-expansion/\" aria-label=\"More on Bitvavo gains key license for Austrian crypto market expansion\">Read more</a>"
+    "date": "2023-11-14T10:47:49.000Z",
+    "title": "Tennis Clash and ITF Collaborate for ITF World Tennis eChampionship",
+    "url": "https://www.cryptopolitan.com/tennis-clash-and-itf-collaborate/",
+    "description": "Wildlife Studios and the International Tennis Federation (ITF) join forces to introduce exciting updates to Tennis Clash, the popular mobile tennis game."
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-14T10:33:02.000Z",
-    "title": "Analyst focus on Rebel Satoshi, NEO, and Chainlink in November",
-    "url": "https://crypto.news/analyst-focus-on-rebel-satoshi-neo-and-chainlink-in-november/",
-    "description": "In November, Rebel Satoshi, a new meme coin, NEO, and Chainlink (LINK) are trending higher. The RBLZ presale is ongoing"
+    "date": "2023-11-14T10:46:03.000Z",
+    "title": "China’s public card game developer to put $100m in BTC and ETH",
+    "url": "https://crypto.news/chinas-public-card-game-developer-to-put-100m-in-btc-and-eth/",
+    "description": "According to a Hong Kong Stock Exchange filing, Boyaa plans to purchase crypto over the next 12 months. Chinese publicly traded online game developer Boyaa Interactive is set to dive deep into the crypto market. In a recent filing with&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-11-14T10:21:55.000Z",
-    "title": "Reddit’s MOON skyrockets 150% as community unveils plans",
-    "url": "https://crypto.news/reddits-moon-skyrockets-150-as-community-unveils-plans/",
-    "description": "The Reddit admins will renounce the Moons contract as part of the token&#8217;s revival process. When Reddit admins announced plans to sunset the community points initiative, the crypto society cried foul, accusing them of dumping Moons (MOON) tokens ahead of&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-14T10:09:52.000Z",
-    "title": "Ex-FTX Foundation employee pursues unpaid $275k bonus",
-    "url": "https://crypto.news/ex-ftx-foundation-employee-pursues-unpaid-275k-bonus/",
-    "description": "Ross Rheingans-Yoo, an FTX charity wing employee recruited by co-founder Sam Bankman-Fried, is seeking the remaining $275,000 of his alleged 2022 salary bonus. The attorneys for Ross Rheingans-Yoo stated in a legal document filed on Nov. 13 that FTX had&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-11-14T10:23:01.000Z",
-    "title": "Coinbase Goes Big with Solana (SOL) and Avalanche (AVAX) Futures Contracts",
-    "url": "https://www.crypto-news-flash.com/coinbase-goes-big-with-solana-sol-and-avalanche-avax-futures-contracts/?utm_source=rss&utm_medium=rss&utm_campaign=coinbase-goes-big-with-solana-sol-and-avalanche-avax-futures-contracts",
-    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Coinbase 7\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Coinbase finally provides support for Solana (SOL) and Avalanche (AVAX) perpetual futures contracts to non-US customers.  The impact on the price of these assets could not be far from that of VeChain and VeThor.  Coinbase Global Inc. has announced that it would add support for Solana and Avalanche perpetual futures contracts on its International Exchange [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-11-14T10:10:13.000Z",
-    "title": "FusyFox & the Web3 Gaming Revolution",
-    "url": "https://www.crypto-news-flash.com/fusyfox-the-web3-gaming-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=fusyfox-the-web3-gaming-revolution",
-    "description": "<img width=\"3200\" height=\"1800\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487.png 3200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487-1536x864.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/IMG_8487-2048x1152.png 2048w\" sizes=\"(max-width: 3200px) 100vw, 3200px\" />As blockchain-based gaming gains traction and reshapes the industry, market leaders are racing to establish Web3 gaming as the new industry standard, offering a promising outlook for this innovative sector. A recent report by DappRadar revealed that Web3 Gaming, often referred to as GameFi, accounted for nearly 35% of all blockchain activity in terms of [...]"
+    "source": "Altcoin Buzz",
+    "date": "2023-11-14T10:45:10.000Z",
+    "title": "Unraveling the Dynamics: The Shift in USDC and USDT Supplies",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/unraveling-the-dynamics-the-shift-in-usdc-and-usdt-supplies/",
+    "description": "<p>Two prominent players in this domain, USD Coin (USDC) and Tether (USDT), have recently undergone significant shifts in their supplies, sparking curiosity and speculation within the crypto community. This article aims to unravel the factors behind the decline in USDC supply and the concurrent rise in USDT supply, shedding light on the dynamics that have [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/unraveling-the-dynamics-the-shift-in-usdc-and-usdt-supplies/\">Unraveling the Dynamics: The Shift in USDC and USDT Supplies</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-14T10:25:56.000Z",
-    "title": "Bitcoin 5-Week Bullish Streak Falters; Can CPI Data Perform Wonders?",
-    "url": "https://coinedition.com/bitcoin-5-week-bullish-streak-falters-can-cpi-data-perform-wonders/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Price-Analysis-Gains-Above-19632-30-August-2022-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Following a robust five-week ascent, propelling its value by nearly 40%, Bitcoin (BTC) has encountered a period of consolidation in the $37,000 range. The digital asset appears unable to sustain the bullish rally, with its price now around $36,000 after largely bearish trading in the past 24 hours. With the excitement surrounding the potential approval [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoin-5-week-bullish-streak-falters-can-cpi-data-perform-wonders/\">Bitcoin 5-Week Bullish Streak Falters; Can CPI Data Perform Wonders?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-11-14T10:15:57.000Z",
-    "title": "Solana (SOL) and Altcoins Still Have Massive Room To Rally, According to Macro Guru Raoul Pal",
-    "url": "https://dailyhodl.com/2023/11/14/solana-sol-and-altcoins-still-have-massive-room-to-rally-according-to-macro-guru-raoul-pal/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/01/soana-following-early-days.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Macro guru Raoul Pal says that Ethereum (ETH) competitor Solana (SOL) is not done rallying even after soaring in recent weeks. In a new edition of Pal’s Global Macro Investor (GMI) newsletter, the former Goldman Sachs executive says that Solana entered an uptrend after breaking out of a classic bullish pattern. “SOL broke out from [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/11/14/solana-sol-and-altcoins-still-have-massive-room-to-rally-according-to-macro-guru-raoul-pal/\">Solana (SOL) and Altcoins Still Have Massive Room To Rally, According to Macro Guru Raoul Pal</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-11-14T10:51:00.000Z",
+    "title": "“RUNE and Solana are Ultimate Bull Market Tokens,”: Crypto Trader",
+    "url": "https://coinedition.com/rune-and-solana-are-ultimate-bull-market-tokens-crypto-trader/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-3-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent video, Ran Neuner, a crypto trader and host of the YouTube channel Crypto Banter, said RUNE and Solana are the best altcoins in the prevailing bull market. The analyst in the video said Rune, which is the native token of the decentralized liquidity protocol THORChain, is a token that performs well in [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/rune-and-solana-are-ultimate-bull-market-tokens-crypto-trader/\">“RUNE and Solana are Ultimate Bull Market Tokens,”: Crypto Trader</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

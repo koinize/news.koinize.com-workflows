@@ -1,30 +1,30 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-11-15T22:00:00.000Z",
+    "title": "Sora's First Summit Brought Sam Bankman-Fried to Hong Kong. Now, They've Got Their Eyes on Taipei.",
+    "url": "https://www.coindesk.com/business/2023/11/15/soras-first-summit-brought-sam-bankman-fried-to-hong-kong-now-theyve-got-their-eyes-on-taipei/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Jason Fang and Sora Ventures have opened up shop with a marquee office in Taipei 101, and want to revolutionize science with the bitcoin blockchain."
+  },
+  {
     "source": "Decrypt",
-    "date": "2023-11-15T21:31:02.000Z",
-    "title": "The Next Solar Storm Cycle Could Massively Disrupt Human Technology",
-    "url": "https://decrypt.co/206229/solar-activity-2024-disrupt-tech-gps-telecommunications",
-    "description": "Researchers from two universities are sounding the alarm over solar activity that could disrupt the internet and blockchain technology."
+    "date": "2023-11-15T22:01:02.000Z",
+    "title": "Soccer Giant Paris Saint-Germain Drops NFTs for Blvck Paris Fashion Collab",
+    "url": "https://decrypt.co/206237/soccer-giant-paris-saint-germain-drops-nfts-blvck-paris-fashion",
+    "description": "Prominent soccer club Paris Saint-Germain is offering fans early entry to its fashion collaboration with Blvck Paris via a Crypto.com NFT drop."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-11-15T21:10:58.000Z",
-    "title": "Lawmakers press Biden, Yellen for detailed report on crypto activity linked to Hamas",
-    "url": "https://cryptoslate.com/lawmakers-press-biden-yellen-for-detailed-report-on-crypto-activity-linked-to-hamas/",
-    "description": "<p>Several U.S. lawmakers have approached the Biden administration, requesting an investigation into the alleged use of cryptocurrency by terrorist groups. This request came in the form of a letter dated Nov. 15. The letter refers to earlier reports alleging that crypto wallets linked to Hamas and the Palestinian Islamic Jihad have received upwards of $41 [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/lawmakers-press-biden-yellen-for-detailed-report-on-crypto-activity-linked-to-hamas/\">Lawmakers press Biden, Yellen for detailed report on crypto activity linked to Hamas</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-15T21:31:29.000Z",
-    "title": "dYdX Chain’s beta trading launch powers 67% price surge",
-    "url": "https://crypto.news/dydx-chains-beta-trading-launch-powers-67-price-surge/",
-    "description": "DYDX token surged 21% in 24 hours and 67% in 7 days after dYdX Chain enabled live trading in the beta stage on November 13"
+    "source": "Decrypt",
+    "date": "2023-11-15T21:46:03.000Z",
+    "title": "Dairy Queen Is Doing an NFT Thing in China Apparently",
+    "url": "https://decrypt.co/206236/dairy-queen-doing-nft-thing-china-apparently",
+    "description": "The American fast food brand has partnered with NFT project Weirdo Ghost Gang for a pop-up experience in Chengdu, China."
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-15T21:29:14.000Z",
-    "title": "Despite crash, crypto was best performing asset of 2023",
-    "url": "https://crypto.news/despite-crash-crypto-was-best-performing-asset-of-2023/",
-    "description": "Cryptocurrencies like Bitcoin Cash and Solana have staged triple-digit comebacks in 2023 after last year's crypto crash."
+    "date": "2023-11-15T21:41:55.000Z",
+    "title": "CertiK reports a critical security vulnerability in Solana’s Saga phone",
+    "url": "https://crypto.news/certik-reports-a-critical-security-vulnerability-in-solanas-saga-phone/",
+    "description": "Security platform CertiK has released a video demonstrating a critical vulnerability exploit on Solana’s flagship Saga phone. "
   }
 ]

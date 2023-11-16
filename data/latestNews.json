@@ -1,142 +1,79 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-11-16T16:54:44.000Z",
-    "title": "Bitcoin-Focused Ordinals Project Taproot Wizards Raises $7.5M in Seed Round",
-    "url": "https://www.coindesk.com/business/2023/11/16/bitcoin-focused-ordinals-project-taproot-wizards-raises-75m-in-seed-round/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Taproot Wizards, which describes itself as \"magic internet JPEGs\", offers a collection of Microsoft Paint images of wizards harking back to a 2013 bitcoin meme: \"magic internet money.\""
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-16T16:48:33.000Z",
-    "title": "255M Pyth Tokens to Be Airdropped to 90K Wallets Next Week",
-    "url": "https://www.coindesk.com/business/2023/11/16/255m-pyth-tokens-to-be-airdropped-to-90k-wallets-next-week/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The Claim Process for the Pyth Network Retrospective Airdrop will open on Monday, Nov 20 at 2 PM UTC."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-16T16:45:00.000Z",
-    "title": "Crypto for Advisors: Cryptocurrency Transparency Truths vs. Myths",
-    "url": "https://www.coindesk.com/business/2023/11/16/crypto-for-advisors-cryptocurrency-transparency-truths-vs-myths/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Darwood Khan from Alix Partners looks at on-chain analytics, tracing tools and just how much illicit activity leverages crypto and discusses why advisors should learn about blockchain technology."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-11-16T17:01:07.000Z",
-    "title": "Bazooka Tango Raises $5 Million to Revive 'Shardbound' as NFT Game",
-    "url": "https://decrypt.co/206135/bazooka-tango-raises-5-million-revive-shardbound-nft-game",
-    "description": "Game studio Bazooka Tango will use the funds to hire staff and bring the Immutable zkEVM game Shardbound closer to completion."
+    "source": "Cointelegraph",
+    "date": "2023-11-16T17:15:00.000Z",
+    "title": "Aave Companies rebrands to Avara, acquires Ethereum self-custody ‘Family Wallet’",
+    "url": "http://cointelegraph.com/news/aave-rebrands-to-avara-acquires-ethereum-self-custody-wallet-family",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/9bee2b71-94ed-4915-a540-baf2859c951d.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>Liquidity protocol Aave’s parent company has been rebranded to Avara as it looks to streamline its suite of infrastructure products to attract a broader Web3 user base.</p>\n                    <p><p>Decentralized finance (DeFi) group Aave Companies has been rebranded to Avara as it looks to broaden its user base across the Web3 ecosystem.</p><p>Stani Kulechov, founder and CEO of Avara (formerly Aave Companies), tells Cointelegraph that the company’s growing number of offerings, including liquidity protocol Aave, the GHO stablecoin, Lens Protocol and Sonar, necessitated an umbrella brand with broader Web3 appeal. </p><blockquote>“We will continue to innovate in DeFi and build tools for developers while creating new, intuitive and compelling products that attract mainstream people”</blockquote><p>Kulechov adds that the broader industry has focused on building infrastructure to enable the development of products that appeal to a wide user base. The rebrand marks the beginning “of a new era” where blockchain technology becomes more “accessible, usable and fun.”</p><p>The Avara founder adds that the company’s new identity is inspired by the Finnish word “Avara,” which carries a number of definitions, including “extensive,” “open,” “spacious” and “inclusive.” Its colloquial use means “seeing more than you see.”</p><p><strong><em>Related: <a href=\"https://cointelegraph.com/news/web3-userbase-could-power-new-dapp-development\" data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/web3-userbase-could-power-new-dapp-development/amp\">Shared Web3 user base could power new social app integrations — Aave CEO</a></em></strong></p><p>Kulechov also notes that liquidity protocol Aave will continue under the same brand name through Aave Labs and continue its focus on contributing to technological innovations within the DeFi landscape.</p><p>The rebrand announcement coincides with the acquisition of Los Feliz Engineering (LFE) and its flagship self-custodial Ethereum wallet, Family Wallet. The strategic deal means that Avara’s product suite now encompasses a consumer wallet allowing users to send, receive, swap and hold cryptocurrencies.</p><p>The acquisition also includes ConnectKit, a developer library built by Family Wallet to facilitate connectivity between the wallet service and decentralized applications. LFE’s team, including its CEO and founder Benji Taylor, will join Avara. Taylor takes up the role of senior vice president of product and design. </p><p>Avara hopes to tap into LFE’s experience building the messaging application Honk to continue the development of Lens Protocol. As Cointelegraph reported, the latter aims to be a social layer for the wider Web3 ecosystem, connecting users across a decentralized social networking environment and providing developer tools to build applications and communities.</p><p><strong><em>Magazine: <a href=\"https://cointelegraph.com/magazine/slumdog-billionaire-incredible-rags-riches-tale-polygon-sandeep-nailwal/\">Slumdog billionaire: Incredible rags-to-riches tale of Polygon’s Sandeep Nailwal</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"markets_outlook\"></template>\n</p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-11-16T16:40:12.000Z",
-    "title": "Tether plans $500M investment into Bitcoin mining operations",
-    "url": "https://cryptoslate.com/tether-plans-500m-investment-into-bitcoin-mining-operations/",
-    "description": "<p>In a significant diversification of its core business of managing the USDT stablecoin, Tether Holdings Ltd. is pivoting a portion of its operations toward Bitcoin (BTC) mining. As reported by Bloomberg, Tether plans to invest approximately half a billion dollars over the next six months, a move that could significantly alter the dynamics of the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-plans-500m-investment-into-bitcoin-mining-operations/\">Tether plans $500M investment into Bitcoin mining operations</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-11-16T16:48:53.000Z",
-    "title": "SEC Receives BlackRock’s Ethereum Spot ETF Application",
-    "url": "https://cryptobriefing.com/sec-receives-blackrocks-ethereum-spot-etf-application/?utm_source=feed&utm_medium=rss",
-    "description": "BlackRock files for Ethereum ETF with SEC, bringing institutional legitimacy to crypto as world's largest asset manager."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-11-16T16:56:01.000Z",
-    "title": "Can Ripple (XRP), Polygon (MATIC), Cosmos (ATOM) and Arbitrum (ARB) Explode in December? Experts Are Split",
-    "url": "https://cryptodaily.co.uk/2023/11/can-ripple-xrp-polygon-matic-cosmos-atom-and-arbitrum-arb-explode-in-december-experts-are-split",
-    "description": "Explore expert opinions on the potential explosion of Ripple (XRP), Polygon (MATIC), Cosmos (ATOM), and Arbitrum (ARB) in December. Discover insights, market trends, and analysis on the future of these cryptocurrencies and their impact on the digital currency landscape."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-11-16T17:01:03.000Z",
-    "title": "This Week’s Crypto Snapshot: TIA and YFI Soar; GAS, TRB, MKR Struggle",
-    "url": "https://news.bitcoin.com/this-weeks-crypto-snapshot-tia-and-yfi-soar-gas-trb-mkr-struggle/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"This Week&#039;s Crypto Snapshot: TIA and YFI Soar; GAS, TRB, MKR Struggle\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/geep.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Thursday, November 16, 2023, marks a steady phase in the crypto economy, maintaining a value of $1.4 trillion with a modest increase of 0.44% in the last 24 hours. Concurrently, despite the seven-day downturn experienced by both bitcoin and ethereum this week, a notable 39 cryptocurrencies have achieved double-digit growth. Notably, celestia (TIA) and yearn [&#8230;]"
+    "date": "2023-11-16T17:20:12.000Z",
+    "title": "Pyth Network sets retroactive airdrop for Nov. 20",
+    "url": "https://cryptoslate.com/pyth-network-sets-retroactive-airdrop-for-nov-20/",
+    "description": "<p>Pyth Network, a decentralized data oracle platform for blockchains, has scheduled its retrospective airdrop for Nov. 20. Airdrop According to available information, the PYTH token will have a total supply of 10 billion tokens with an initial circulating supply of 1.5 billion. Pyth Network has earmarked almost 6% of the total tokens, or 600 million [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/pyth-network-sets-retroactive-airdrop-for-nov-20/\">Pyth Network sets retroactive airdrop for Nov. 20</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-16T16:59:49.000Z",
-    "title": "Sui Price Prediction 2023-2032: Is SUI A Good Investment?",
-    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
-    "description": "Sui Price Prediction 2023-2032 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a ... <a title=\"Sui Price Prediction 2023-2032: Is SUI A Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sui-price-prediction/\" aria-label=\"More on Sui Price Prediction 2023-2032: Is SUI A Good Investment?\">Read more</a>"
+    "date": "2023-11-16T17:29:45.000Z",
+    "title": "Dream track transforms YouTube shorts for content creators",
+    "url": "https://www.cryptopolitan.com/dream-track-transforms-youtube-shorts/",
+    "description": "In a groundbreaking collaboration between Google DeepMind and YouTube, the tech giants have unveiled Dream Track, an AI-powered music creation tool set to transform the world of YouTube Shorts. This innovative tool leverages the capabilities of Google&#8217;s Lyria music generation model to empower creators to effortlessly generate unique and high-quality soundtracks for their short video ... <a title=\"Dream track transforms YouTube shorts for content creators\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dream-track-transforms-youtube-shorts/\" aria-label=\"More on Dream track transforms YouTube shorts for content creators\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-16T16:49:07.000Z",
-    "title": "Worldcoin Price Prediction 2024 – 2030: How High Will WLD Go?",
-    "url": "https://www.cryptopolitan.com/worldcoin-price-prediction/",
-    "description": "Worldcoin, spearheaded by OpenAI chief Sam Altman,&#160;launched&#160;on Monday, 24 July 2023, after years in development, promising to verify users’ identity by iris-scanning and potentially solving one of the more pressing problems posed by recent advances in artificial intelligence. When it surged in price as an opening salvo, there was a flurry of criticisms about it, ... <a title=\"Worldcoin Price Prediction 2024 &#8211; 2030: How High Will WLD Go?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/worldcoin-price-prediction/\" aria-label=\"More on Worldcoin Price Prediction 2024 &#8211; 2030: How High Will WLD Go?\">Read more</a>"
+    "date": "2023-11-16T17:20:39.000Z",
+    "title": "Microsoft’s cutting-edge chips set to transform AI landscape",
+    "url": "https://www.cryptopolitan.com/microsofts-cutting-edge-chips-set-transform/",
+    "description": "Microsoft is taking a significant stride in the realm of artificial intelligence (AI) by introducing its own homegrown AI semiconductors for its cloud infrastructure. In a recent announcement, the tech giant unveiled two new chips, named Azure Maia 100 and Cobalt 100, designed to bolster its cloud computing capabilities and enhance AI applications. The Azure ... <a title=\"Microsoft&#8217;s cutting-edge chips set to transform AI landscape\" class=\"read-more\" href=\"https://www.cryptopolitan.com/microsofts-cutting-edge-chips-set-transform/\" aria-label=\"More on Microsoft&#8217;s cutting-edge chips set to transform AI landscape\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-16T16:45:26.000Z",
-    "title": "Why is the crypto market up? Bitcoin nears $38,000",
-    "url": "https://www.cryptopolitan.com/why-is-the-crypto-market-up-btc-nears-38k/",
-    "description": "Bitcoin has shown its solid resistance amid the inflation and interest rates that have already affected other financial assets, including the US stock market. The crypto market however is facing a bull rally that can be linked to Bitcoin’s (BTC) performance which has already doubled in price this year.&#160; Other currencies, including Ethereum have also ... <a title=\"Why is the crypto market up? Bitcoin nears $38,000\" class=\"read-more\" href=\"https://www.cryptopolitan.com/why-is-the-crypto-market-up-btc-nears-38k/\" aria-label=\"More on Why is the crypto market up? Bitcoin nears $38,000\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-16T16:40:13.000Z",
-    "title": "Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?",
-    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
-    "description": "Shiba Inu Price Prediction 2023-2032 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of ... <a title=\"Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/shiba-inu-price-prediction/\" aria-label=\"More on Shiba Inu Coin Price Prediction 2023-2032: Is SHIB Skyrocketing Soon?\">Read more</a>"
+    "date": "2023-11-16T17:13:00.000Z",
+    "title": "Do Kwon faces major setbacks in Montenegro",
+    "url": "https://www.cryptopolitan.com/do-kwon-faces-major-setbacks-in-montenegro/",
+    "description": "The Terraform Labs founder. Do Kwon, has been sentenced to four months in prison as he faces extradition based on compliance with his sentence. The case comes in as an addition to various court cases that have been raised and caused a change in the crypto space, including cases such as the XRP legal battle ... <a title=\"Do Kwon faces major setbacks in Montenegro\" class=\"read-more\" href=\"https://www.cryptopolitan.com/do-kwon-faces-major-setbacks-in-montenegro/\" aria-label=\"More on Do Kwon faces major setbacks in Montenegro\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-16T17:05:58.000Z",
-    "title": "Bitfinex Securities partners with Mikro Capital to pioneer tokenized bond",
-    "url": "https://crypto.news/bitfinex-securities-partners-with-mikro-capital-to-pioneer-tokenized-bond/",
-    "description": "In an announcement shared with crypto.news on Nov. 15, Bitfinex Securities Ltd, the first global digital asset platform licensed and registered in the AIFC, has shared the news of its new tokenized bond, which has since gone live."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-16T16:58:11.000Z",
-    "title": "CoinShares eyes acquisition of Valkyrie Funds to expand into U.S. crypto ETF market",
-    "url": "https://crypto.news/coinshares-eyes-acquisition-of-valkyrie-funds-to-expand-into-u-s-crypto-etf-market/",
-    "description": "CoinShares has announced an option to potentially acquire Valkyrie Funds, signaling a strategic move to extend its footprint in the U.S. cryptocurrency ETF landscape, pending regulatory approvals."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-16T16:45:51.000Z",
-    "title": "Tether to become a Bitcoin miner with a $500m investment in 2024",
-    "url": "https://crypto.news/tether-to-become-a-bitcoin-miner-with-a-500m-investment-in-2024/",
-    "description": "Tether Holdings ventures into Bitcoin mining, investing $500 million to establish operations in Uruguay, Paraguay and El Salvador."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-16T16:39:51.000Z",
-    "title": "Franklin Bitcoin ETF yet to see indication of delay order",
-    "url": "https://crypto.news/franklin-bitcoin-etf-yet-to-see-indication-of-delay-order/",
-    "description": "According to Bloomberg analyst James Seyffart, who covers ETFs and the broader industry, no indication of a delay order for the Franklin Bitcoin ETF filing is evident."
+    "date": "2023-11-16T17:33:29.000Z",
+    "title": "Singapore’s Central Bank to pilot live CBDC for interbank settlements",
+    "url": "https://crypto.news/singapores-central-bank-to-pilot-live-cbdc-for-interbank-settlements/",
+    "description": "The Monetary Authority of Singapore (MAS) is set to launch a live pilot of a CBDC for wholesale interbank settlements, marking a significant step in the integration of digital currencies into mainstream banking operations."
   },
   {
     "source": "NewsBTC",
-    "date": "2023-11-16T17:00:51.000Z",
-    "title": "Polygon Network Metrics Explode: Is It Time For MATIC Price To Reach $2?",
-    "url": "https://www.newsbtc.com/analysis/matic-analysis/polygon-matic-price-reach-2/",
-    "description": "It&#8217;s been a relatively quiet period of price action for Polygon (MATIC) in the past few weeks. On this day last month, MATIC was trading around its October bottom of $0.5154 before the inflows into the crypto market.  Although the cryptocurrency has performed reasonably well and has increased by 82% since then, its rise has mostly been overshadowed by inflows into Bitcoin and alternative cryptocurrencies such as Solana, which has seen an 188% increase in the same period. After briefly falling below $0.9 many times this week due to consolidations, MATIC has now blasted off minor support at the $0.91 level. On-chain metrics like transaction count addresses making a profit and open interest on futures contracts all point to a continued surge for MATIC.  Related Reading: Dogecoin Vs. Shiba Inu: Which Meme Coin Is More Profitable For Holders? Polygon Network Metrics Explode Data from various market analytics platforms have shown a spike in transactions on the polygon network. Cryptoquant puts the total transaction count at its highest levels since September. At the same time, data from IntoTheBlock shows that large transaction volume (transactions of over $100,000) reached $636 million in the past 24 hours, an increase of more than 387% from yesterday. According to the analytics website, this is a surge of more than 3,800% compared to 30 days ago. The volume of MATIC futures trading has also increased in the past week, as shown by the amount of open interest. According to chart data from Coinalyze, open interest on various MATIC futures markets has jumped by 120% this month.  As shown by the chart below, the total open interest is now at $260 million from $118 million on November 1. This dramatic increase shows that more traders are betting on MATIC’s price rising significantly in the future. Source: IntoTheBlock MATIC currently has one of the highest percentages of addresses who bought around the current price in profit. Data from IntoTheBlock&#8217;s &#8220;In/Out of the Money Around Price&#8221; metric show that 71.23% of MATIC addresses that bought between $0.800122 and $1.08 are making a profit at the moment. In comparison, around 66.99% of Bitcoin addresses who bought around the current price are making a profit. Source: IntoTheBlock MATIC Price To Reach $2? Technical analysis of MATIC’s price chart shows the token could be gearing up for over $1 or higher in the coming weeks. MATIC has already bounced off a support level around $0.86 more than four times this week, indicating that the bulls are not willing to give up momentum yet.  Related Reading: ‘Vitalik Slept On My Couch &#38; Copied My Inventions’ Ethereum Insider Says MATIC is trading at $0.94 at the time of writing, and the next resistance is around a bearish order block proving resistant at $9.8. A break over this resistance could see MATIC reach above $1, and a move above $1 would confirm the uptrend and open the door for a run toward $2 or higher. According to Dave The Wave, Polygon is set to enter an uptrend against Bitcoin. The crypto analyst&#8217;s technical analysis points to a 200% increase from its current value to approximately 0.0000618 BTC, equivalent to $2.25. MATIC bulls hold $0.9 support &#124; Source: MATICUSDT on Tradingview.com Featured image from CPO Magazine, chart from Tradingview.com"
+    "date": "2023-11-16T17:30:57.000Z",
+    "title": "Shiba Inu Price Prediction: Analyst Forecast 2X By Mid-December",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-price-prediction-analyst-forecast-2x-by-mid-december/",
+    "description": "Popular cryptocurrency market analyst Captain Faibik has recently shed more light on his predictions toward the price of Shiba Inu (SHIB) and revealed where the cryptocurrency ought to be by mid-December.  Crypto Analyst Optimism On Shiba Inu The crypto analyst took to his official X (formerly Twitter) handle to share his projections on the price movement of Shiba Inu. According to the analyst&#8217;s post and token chart, SHIB has crossed a trendline near the $0.00000839 price level. Due to this data, the analyst believes the crypto asset is going through a significant retest. Captain further highlighted that if the retest is prosperous, the token might experience a bullish rally of up to 2X by mid-December. SHIB has broken out of a Major Trendline and is currently undergoing a Retest. If the retest is successful, we might witness a Bullish Rally up to 2x by mid-December.  Additionally, the analyst highlighted that the 2X price surge could take the token as high as $0.00001678. Nonetheless, a careful look at the chart on the X post reveals just how difficult it will be for this retest to succeed.  Related Reading: Dogecoin Vs. Shiba Inu: Which Meme Coin Is More Profitable For Holders? So far, Shiba Inu&#8217;s price has exceeded the $0.000016 threshold just once since May 2022. This was during a brief spike that occurred in August 2022. Also, the crypto asset price growth has not been as impressive as other altcoins. Shiba Inu&#8217;s year-to-date (YTD) price growth is up 4.97%. However, SHIB is currently trading at $0.0000086, up by 22% over the last 24 hours, which suggests a more optimistic outlook. Its market capitalization is approximately $5.2 billion, with a trading volume of $162 million over the past 24 hours. The crypto market analyst&#8217;s predictions were fueled by Shiba Inu&#8217;s grit, which has enabled it to regain its brilliance in the face of numerous obstacles. His predictions seem to have sparked increased confidence in the Shiba Inu community. Algorithm Prediction Of The Crypto’s Price By December Captain Faibik&#8217;s shared one of the other predictions for Shiba Inu&#8217;s price by December. Recently, price algorithm prediction from crypto analytics firm CoinCodex has also predicted a bullish outlook for the token by December. According to the forecast, Shiba Inu&#8217;s price will hit $0.0000095 by December 11, indicating a 10% increase from its price as of the time of prediction. Its prediction becomes more likely to come true, given the possibility of additional whales and regular investors joining the token market. The projections also highlighted about 4 technical analysis indicators that suggest bearish conditions, while about 24 indicate optimistic signs. Additionally, the token&#8217;s current RSI value of 63.05 is neither overbought nor oversold, according to the prediction. Related Reading: Shiba Inu Burn Rate Flatlines With 99.35% Drop, Here’s Why Featured image from iShock, chart by Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-16T16:59:20.000Z",
-    "title": "New Bitcoin Heights Are Coming, According to Crypto Veteran Trader, Who Invests In This New BTC Fork",
-    "url": "https://www.crypto-news-flash.com/new-bitcoin-heights-are-coming-according-to-crypto-veteran-trader-who-invests-in-this-new-btc-fork/?utm_source=rss&utm_medium=rss&utm_campaign=new-bitcoin-heights-are-coming-according-to-crypto-veteran-trader-who-invests-in-this-new-btc-fork",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-34.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-34.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-34-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-34-104x69.png 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In recent crypto news, a veteran trader who has invested in the trending BTC fork, Bitcoin Spark (BTCS), shared bold predictions for Bitcoin (BTC). Bitcoin price prediction The Bitcoin (BTC) price has been on a remarkable upward trajectory in recent weeks, achieving levels that harken back to May 2022. Additionally, wallet addresses holding over $1,000 [...]"
+    "date": "2023-11-16T17:36:56.000Z",
+    "title": "Positive Market Outlook: An In-Depth Analysis of Fantom (FTM), Cosmos (ATOM), and VC Spectra (SPCT)",
+    "url": "https://www.crypto-news-flash.com/positive-market-outlook-an-in-depth-analysis-of-fantom-ftm-cosmos-atom-and-vc-spectra-spct/?utm_source=rss&utm_medium=rss&utm_campaign=positive-market-outlook-an-in-depth-analysis-of-fantom-ftm-cosmos-atom-and-vc-spectra-spct",
+    "description": "<img width=\"1218\" height=\"703\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/VC.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/VC.png 1218w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/VC-300x173.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/VC-1024x591.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/VC-768x443.png 768w\" sizes=\"(max-width: 1218px) 100vw, 1218px\" />Fantom (FTM) announces upgrade as the blockchain suffers a security breach. Cosmos (ATOM) is expanding. Meanwhile, VC Spectra (SPCT) has surged again. How did Fantom price react to the exploit? What are the new developments in Cosmos (ATOM)? And how high can VC Spectra (SPCT) get? Let’s find out. &#62;&#62;BUY SPCT TOKENS NOW&#60;&#60; Fantom Price [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-16T16:56:38.000Z",
-    "title": "First National Pension Service Makes 40% Profit with $20 Million Investment in Bitcoin and Ripple Exchange Coinbase",
-    "url": "https://www.crypto-news-flash.com/first-national-pension-service-makes-40-profit-with-20-million-investment-in-bitcoin-and-ripple-exchange-coinbase/?utm_source=rss&utm_medium=rss&utm_campaign=first-national-pension-service-makes-40-profit-with-20-million-investment-in-bitcoin-and-ripple-exchange-coinbase",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-70.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Base\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-70.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-70-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-70-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />South Korea’s National Pension Service bags 40% gain in Coinbase Shares investment. The fund’s investment underscores the potentials that lie in the crypto ecosystem. South Korea’s National Pension Service (NPS), the world&#8217;s third-largest pension fund by assets, is currently making waves in the financial space by reaping a substantial 40% profit on a $20 million [...]"
+    "date": "2023-11-16T17:35:48.000Z",
+    "title": "Cardano’s ADA Rockets: 20% Surge Beckons as Volume Hits Record High",
+    "url": "https://www.crypto-news-flash.com/cardanos-ada-rockets-20-surge-beckons-as-volume-hits-record-high-2/?utm_source=rss&utm_medium=rss&utm_campaign=cardanos-ada-rockets-20-surge-beckons-as-volume-hits-record-high-2",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-29-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-29-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-29-1-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Cardano (Ada) predicted to make a 20 percent surge from the current price according to analysts. According to the analysts, the 50-day and 100-day moving averages are above the neutral levels, indicating a bullish signal. In the ongoing rally, a few altcoins have re-announced their presence in the crypto ecosystem as Cardano (Ada) makes an [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-11-16T17:33:24.000Z",
+    "title": "Key Insights for Investors: Solana’s Growth Driven by Major Partnerships; Focus on Emerging Promising Coin",
+    "url": "https://www.crypto-news-flash.com/key-insights-for-investors-solanas-growth-driven-by-major-partnerships-focus-on-emerging-promising-coin/?utm_source=rss&utm_medium=rss&utm_campaign=key-insights-for-investors-solanas-growth-driven-by-major-partnerships-focus-on-emerging-promising-coin",
+    "description": "<img width=\"1214\" height=\"1208\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8.png 1214w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8-300x300.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8-1024x1019.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8-150x150.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/Unbenannt-8-768x764.png 768w\" sizes=\"(max-width: 1214px) 100vw, 1214px\" />Solana (SOL) has gained prominence as one of the best altcoins to buy in 2023 due to the platform’s excellent strategic decisions. Meanwhile, many experienced traders have taken note of VC Spectra (SPCT) as one of the best new contenders in the broader crypto market, so let’s delve into detail and analyze which is the [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-16T16:56:00.000Z",
-    "title": "XRP Price to Boom Like Gold in 2024, Latest Prediction Says",
-    "url": "https://coinedition.com/xrp-price-to-boom-like-gold-in-2024-latest-prediction-says/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/XRP-52.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"XRP Price to Boom Like Gold in 2024, Latest Prediction Says\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/XRP-52.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/XRP-52-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>XRP Price to Boom Like Gold in 2024, Latest Prediction Says</p>\n<p>The post <a href=\"https://coinedition.com/xrp-price-to-boom-like-gold-in-2024-latest-prediction-says/\">XRP Price to Boom Like Gold in 2024, Latest Prediction Says</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-11-16T17:22:00.000Z",
+    "title": "FTM, UNI, ETH, SOL, MATIC on Analyst’s Top Picks for Coming ETF Storm",
+    "url": "https://coinedition.com/ftm-uni-eth-sol-matic-on-analysts-top-picks-for-coming-etf-storm/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTM, UNI, ETH, SOL, MATIC on Analyst’s Top Picks for Coming ETF Storm\" decoding=\"async\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Altcoin Daily, a prominent crypto YouTube channel, has shared a curated list of their top picks for crypto investment for proper positioning for a projected storm coming into the crypto market.&#160; In a recent video, Altcoin Daily urged crypto enthusiasts to buy Bitcoin, Ethereum, and certain altcoins, claiming approval of the pending Bitcoin spot ETF [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ftm-uni-eth-sol-matic-on-analysts-top-picks-for-coming-etf-storm/\">FTM, UNI, ETH, SOL, MATIC on Analyst’s Top Picks for Coming ETF Storm</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,30 +1,65 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-11-16T09:20:20.000Z",
+    "title": "PancakeSwap Targets GameFi With Release of Gaming Marketplace",
+    "url": "https://www.coindesk.com/tech/2023/11/16/pancakeswap-targets-gamefi-with-release-of-gaming-marketplace/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The marketplace will allow developers to directly build, publish, and update games on the platform."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-16T09:10:10.000Z",
+    "title": "Bitcoin Could Reach $45K by Year-End, Analyst Says",
+    "url": "https://www.coindesk.com/markets/2023/11/16/bitcoin-could-reach-45k-by-year-end-analyst-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Options market positioning and dovish Fed expectations indicate the path of least resistance is on the higher side."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-16T09:21:19.000Z",
+    "title": "South Korea's National Pension Service Invested $20M in Coinbase Shares in Q3",
+    "url": "https://decrypt.co/206314/south-koreas-national-pension-service-invested-20m-in-coinbase-shares-in-q3",
+    "description": "The national pension fund of South Korea has turned a 40% profit on its Q3 2023 purchase of Coinbase shares."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-16T09:35:09.000Z",
+    "title": "Binance launches ‘invite-only’ exchange in Thailand with billionaire partnership",
+    "url": "https://cryptoslate.com/binance-launches-invite-only-exchange-in-thailand-with-billionaire-partnership/",
+    "description": "<p>Crypto exchange Binance told CryptoSlate it launched an &#8220;invitation-only&#8221; exchange in Thailand that would become available to the general public by next year, according to a Nov. 16 emailed statement. Gulf Energy Development Pcl, one of the largest businesses in the Asian country owned by billionaire Sarath Ratanavadi, said its subsidiary Gulf Innova partnered with [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/binance-launches-invite-only-exchange-in-thailand-with-billionaire-partnership/\">Binance launches &#8216;invite-only&#8217; exchange in Thailand with billionaire partnership</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
     "source": "Crypto Daily",
-    "date": "2023-11-16T08:44:41.000Z",
-    "title": "SEC Delays Decision On Hashdex And Grayscale ETF Applications",
-    "url": "https://cryptodaily.co.uk/2023/11/sec-delays-decision-on-hashdex-and-grayscale-etf-applications",
-    "description": "The United States Securities and Exchange Commission has delayed its decision on the Hashdex spot bitcoin ETF application and Grayscale’s Ether futures filing. The agency stated in its filing that it would make a decision on the applications by the 1st of January, 2024."
+    "date": "2023-11-16T09:25:03.000Z",
+    "title": "WhiteBIT Crypto Exchange Marks the 5th Anniversary: Key Achievements",
+    "url": "https://cryptodaily.co.uk/2023/11/whitebit-crypto-exchange-marks-the-5th-anniversary-key-achievements",
+    "description": "WhiteBIT Crypto Exchange Marks the 5th Anniversary: Key Achievements"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-16T09:03:52.000Z",
-    "title": "How Will AI Trends Redefine Journalism and Broadcasting in 2023?",
-    "url": "https://www.cryptopolitan.com/ai-trends-journalism-broadcasting-in-2023/",
-    "description": "In the pulsating heart of technological evolution, the tapestry of 2023 unfolds with the mesmerizing ascent of artificial intelligence (AI), leaving an indelible mark on the intricate weave of industries. At the helm of this transformative tide is Grigory Mindlin, the visionary general manager for broadcast at disguise, providing an illuminating lens into the myriad ... <a title=\"How Will AI Trends Redefine Journalism and Broadcasting in 2023?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ai-trends-journalism-broadcasting-in-2023/\" aria-label=\"More on How Will AI Trends Redefine Journalism and Broadcasting in 2023?\">Read more</a>"
+    "date": "2023-11-16T09:39:16.000Z",
+    "title": "Dutch Government Proposes Ban on AI Software Use by Officials",
+    "url": "https://www.cryptopolitan.com/dutch-proposes-ban-on-ai-software-use/",
+    "description": "The Dutch government is considering a ban on the use of generative AI applications, including chatbots like ChatGPT and image generators like Dall-E and Midjourney, by government officials due to concerns related to privacy and copyright infringements. The proposal, drafted by State Secretary Alexandra van Huffelen for Digital Affairs, is based on research conducted by ... <a title=\"Dutch Government Proposes Ban on AI Software Use by Officials\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dutch-proposes-ban-on-ai-software-use/\" aria-label=\"More on Dutch Government Proposes Ban on AI Software Use by Officials\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-16T08:44:48.000Z",
-    "title": "CFTC chair warns of repeat FTX scenario amid static crypto risks",
-    "url": "https://www.cryptopolitan.com/cftc-chair-of-repeat-ftx-scenario/",
-    "description": "Still reeling from the shockwaves of the FTX collapse, the cryptocurrency market faces ongoing scrutiny and calls for regulatory oversight. Rostin Behnam, chairman of the Commodity Futures Trading Commission (CFTC), recently emphasized the urgent need for a comprehensive regulatory framework to safeguard investors and stabilize the volatile market. During a seminar at Georgetown University, Behnam, ... <a title=\"CFTC chair warns of repeat FTX scenario amid static crypto risks\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cftc-chair-of-repeat-ftx-scenario/\" aria-label=\"More on CFTC chair warns of repeat FTX scenario amid static crypto risks\">Read more</a>"
+    "date": "2023-11-16T09:22:56.000Z",
+    "title": "US lawmakers challenge treasury’s digital asset tax proposal",
+    "url": "https://www.cryptopolitan.com/us-lawmakers-challenge-treasurys-digital-asset-tax-proposal/",
+    "description": "A significant development in U.S. financial regulation is unfolding as a bipartisan group of lawmakers, including key members from both parties, voiced their concerns over the Treasury Department&#8217;s proposed digital asset taxation plan. This proposal, unveiled on August 25, has sparked a heated debate among legislators, culminating in a detailed letter sent to the Treasury ... <a title=\"US lawmakers challenge treasury&#8217;s digital asset tax proposal\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-lawmakers-challenge-treasurys-digital-asset-tax-proposal/\" aria-label=\"More on US lawmakers challenge treasury&#8217;s digital asset tax proposal\">Read more</a>"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-11-16T08:51:30.000Z",
-    "title": "Matic to POL. What’s happening?",
-    "url": "https://www.altcoinbuzz.io/spotlight/matic-to-pol-whats-happening/",
-    "description": "<p>POL introduces added features such as restaking. Aligning with Polygon&#8217;s integration of zero-knowledge technology, and expansion into a ZK validium Layer 2 network. POL will have an initial supply of 10 billion tokens and a future emission rate capped at 1%. So POL (Polygon Ecosystem Token) will replace the MATIC token over 4 years. What [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/spotlight/matic-to-pol-whats-happening/\">Matic to POL. What&#8217;s happening?</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2023-11-16T09:27:54.000Z",
+    "title": "Solana denies security threat to Saga phones",
+    "url": "https://crypto.news/solana-denies-security-threat-to-saga-phones/",
+    "description": "Blockchain project Solana refutes CertiK&#8217;s report that its Saga phone has a vulnerability potentially leading to crypto loss. In a comment on Blockworks, Steven Laver, lead mobile software engineer at Solana (SOL) Labs, said the CertiK video does not disclose&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-11-16T09:30:04.000Z",
+    "title": "Litecoin Sustains 4-Month Run With 37% Gain, Beating Most Of Its Peers – Details",
+    "url": "https://www.newsbtc.com/news/litecoin-sustains-4-month-run-with-37-gain-beating-most-of-its-peers-details/",
+    "description": "With its latest break above the $74 barrier, Litecoin (LTC) is showing encouraging signs of a breakout into the bull market. Increased transaction activity from miners and major investors in cryptocurrency is fueling expectations of an upward trend and suggests that a huge price spike is imminent. At the time of writing, the price range for LTC is $61.50 to $74.50, up 3.5% in the last 24 hours, figures by crypto market price aggregator CoinGecko show. The crypto has so far been able to hold its ground and sustain a 37% increase in the last four months, data shows. The 100-Day Moving Average, on the other hand, is currently at $67.40, while the 10-Day Moving Average is at $73.25. These indicators suggest that Litecoin is gaining pace, with resistance levels found at $80.11 and $93.05. Litecoin hasn&#8217;t changed much in response to recent events in the crypto sector, even though it stands to gain directly. Companies like Blackrock, Invesco, Franklin Templeton, Ark Invest and Fidelity recently applied for a spot Bitcoin ETF. Blackrock recently submitted a separate document for an Ethereum ETF. This indicates the prevailing confidence of the largest asset management firm globally in the potential approval of its Bitcoin ETF. Litecoin has emerged as one of the most active blockchains in the industry, with a solid achievement of surpassing 1 million transactions on November 14th, marking the first time the proof-of-work (PoW) network has reached this milestone. This surpasses the previous all-time high of 660,153 transactions recorded just a day earlier. Remarkably, Litecoin&#8217;s transaction activity over this two-day period has exceeded that of Bitcoin, highlighting a significant surge in LTC&#8217;s blockchain engagement. LTC market cap currently at $5.4 billion on the 24-hour chart: TradingView.com According to latest data, Litecoin has a strong daily trading volume that surpassed $612 million in the previous day. Like Bitcoin, Litecoin has shown to be resistant to manipulation. Moreover, Litecoin continues to hold its position as a cryptocurrency with significant processing power for handling heavy transactions with a relatively consistent hash rate in recent months. In the meantime, there are two very encouraging signs: the miners&#8217; accumulation of LTC, which has reached reserves of over 2.5 million, and the spike in whale transactions, which peaked eight weeks ago. But before the bulls can confidently shoot for $80 and higher, they must be able to breach the initial barrier at $78. A correction may begin if the price falls below $65; however, early support may come from the 406,590 holders who purchased 4.8 million LTC at approximately $67. Source: Santiment Meanwhile, the performance of the derivatives market presented a varied scenario. The Open Interest (OI) for Litecoin Futures on Binance exhibited a lateral movement, suggesting a decreased inclination among traders to speculate on the future price movements of the cryptocurrency. Conversely, the Funding Rate on the exchange portrayed a positive trend, signifying the prevalence of long-position traders in the market. This divergence in market indicators reflects a nuanced sentiment among participants, with some exhibiting caution and a wait-and-see approach, while others express confidence in the upward trajectory of Litecoin. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from Creative Commons"
   }
 ]

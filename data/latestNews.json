@@ -1,37 +1,128 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-11-21T09:31:57.000Z",
+    "title": "Tether Deposits of $1B With UK Financial Firm Are at Center of High Court Battle: FT",
+    "url": "https://www.coindesk.com/business/2023/11/21/tether-deposits-of-1b-with-uk-financial-firm-are-at-center-of-high-court-battle-ft/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Tether deposited the funds with a subsidiary of investment bank Britannia Financial, according to the report, which cited filings made in the High Court."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-21T09:19:34.000Z",
+    "title": "Canadian Regulator Seeks Feedback on Disclosure Rules for Bank Crypto Exposures",
+    "url": "https://www.coindesk.com/policy/2023/11/21/canadian-regulator-seeks-feedback-on-disclosure-rules-for-bank-crypto-exposures/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The country hopes to align local requirements with those proposed by international banking regulators."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-11-21T09:28:03.000Z",
+    "title": "dYdX founder blames V3 central components for 'targeted attack,' involves FBI",
+    "url": "http://cointelegraph.com/news/d-yd-x-founder-blames-v3-central-components-targeted-attack-involves-fbi",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/eb5df124-f409-4c8b-816f-fff1f991ef95.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>dYdX founder Antonio Juliano said they’re working to find the original culprit behind the exploit, and they’d rather pay community members who help in the investigation than the exploiter.</p>\n                    <p><p>Decentralized finance (DeFi) protocol dYdX founder Antonio Juliano took to X (formerly Twitter) to share some of the findings of the investigation into the loss of $9 million in insurance funds, in what <a href=\"https://cointelegraph.com/news/founder-dydx-targeted-attack-insurance-use\">many suspected was an exit scam, that took place on Nov. 17.</a></p><p>Juliano noted that the actual dYdX chain wasn’t compromised, and the insurance claims of $9 million took place on the v3 chain. The v3 insurance fund was used to fill gaps in liquidation processes in the YFI market.</p><p>The protocol co-founder also stressed that dYdX has no plans to negotiate with the exploiters behind the attack and will instead pay bounties to those most helpful in aiding the investigation:</p><blockquote><strong>“We will not pay bounties to, or negotiate with the attacker. We and others have made significant progress into identifying the attacker. We are in the process of reporting the information we have to the FBI.”</strong></blockquote><p>Juliano added that the v3 chain that was exploited has central components that could be one of the potential causes behind the compromise. The security incident drove the Yearn.finance token to drop by 43% on Nov. 17. The sudden price crash raised concerns within the crypto community about a possible exit scam.</p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">To be very clear: the recent insurance fund incident on dYdX was on v3 and not the dYdX Chain<br><br>v3 has central components, dYdX Chain does not. We help to operate v3, we do not help to operate dYdX Chain. This is important to understand why we have taken the actions we have</p>&mdash; Antonio | dYdX (@AntonioMJuliano) <a href=\"https://twitter.com/AntonioMJuliano/status/1726607528459641103?ref_src=twsrc%5Etfw\">November 20, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n<p>The exploit on Nov. 17 targeted long positions in YFI tokens on the exchange, liquidating positions worth nearly $38 million. This was one of the key catalysts behind the price drop of the YFI token. The trade-in question wiped out over $300 million in market capitalization from the YFI token, further fueling the insider job theory.</p><p>Security breaches in DeFi are nothing new; however, what makes this incident different is the fact that dYdX is focused on finding the culprit using the community rather than paying a direct bounty to the exploiters.</p><p><strong><em>Magazine: Beyond crypto — Zero-knowledge proofs show potential from voting to finance</em></strong></p><template data-name=\"subscription_form\" data-type=\"defi_newsletter\"></template></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-11-21T09:35:10.000Z",
+    "title": "Kraken vows to ‘vigorously defend’ SEC lawsuit amid Congressional support",
+    "url": "https://cryptoslate.com/kraken-vows-to-vigorously-defend-sec-lawsuit-amid-congressional-support/",
+    "description": "<p>Crypto exchange Kraken would &#8220;vigorously defend&#8221; itself against the lawsuit brought by the U.S. Securities and Exchange Commission (SEC), according to a Nov. 20 statement. Similarly, CEO David Ripley and co-founder Jesse Powell strongly disputed the regulator&#8217;s claim, asserting that the exchange does not list securities. Kraken products unimpacted Kraken said the SEC lawsuit did [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/kraken-vows-to-vigorously-defend-sec-lawsuit-amid-congressional-support/\">Kraken vows to &#8216;vigorously defend&#8217; SEC lawsuit amid Congressional support</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
     "source": "Crypto Daily",
-    "date": "2023-11-21T08:55:22.000Z",
-    "title": "Binance Faces Record-Breaking Penalty As DOJ Seeks $4 Billion",
-    "url": "https://cryptodaily.co.uk/2023/11/binance-faces-record-breaking-penalty-as-doj-seeks-4-billion",
-    "description": "The United States Department of Justice is seeking over $4 billion from Binance Holdings as it looks for a resolution to a year-long investigation into the exchange and its operations."
+    "date": "2023-11-21T09:30:17.000Z",
+    "title": "LBank Unveils Third Launchpad, Featuring ACGN Protocol's AIMEME Token",
+    "url": "https://cryptodaily.co.uk/2023/11/lbank-unveils-third-launchpad-featuring-acgn-protocols-aimeme-token",
+    "description": "LBank Unveils Third Launchpad, Featuring ACGN Protocol's AIMEME Token"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-21T09:09:01.000Z",
-    "title": "World of Warcraft Implements Restriction on WoW Token Purchases for In-Game Gold",
-    "url": "https://www.cryptopolitan.com/wow-token-purchases-for-in-game-gold/",
-    "description": "In celebration of World of Warcraft&#8217;s 19th anniversary, Blizzard has unveiled the Guardians of the Dream update, accompanied by a significant change to the WoW Token system. While this adjustment may not pose a challenge for most Azeroth adventurers, it has sparked mixed reactions within the gaming community. As part of the Guardians of the ... <a title=\"World of Warcraft Implements Restriction on WoW Token Purchases for In-Game Gold\" class=\"read-more\" href=\"https://www.cryptopolitan.com/wow-token-purchases-for-in-game-gold/\" aria-label=\"More on World of Warcraft Implements Restriction on WoW Token Purchases for In-Game Gold\">Read more</a>"
+    "date": "2023-11-21T09:27:04.000Z",
+    "title": "AI’s Transition into a Cloud Workload",
+    "url": "https://www.cryptopolitan.com/ais-transition-into-a-cloud-workload/",
+    "description": "In the ever-evolving landscape of technology, truly useful and effective innovations tend to fade into the background as they seamlessly integrate into our daily routines. Consider the spellchecker in your word processor or the screen refresh utility on your PC – these technologies have become so ingrained that we rarely think about them.&#160; Artificial Intelligence ... <a title=\"AI&#8217;s Transition into a Cloud Workload\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ais-transition-into-a-cloud-workload/\" aria-label=\"More on AI&#8217;s Transition into a Cloud Workload\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-21T08:55:10.000Z",
-    "title": "Government Forms ‘AI Expert Squad’ to Tackle Public Sector Challenges",
-    "url": "https://www.cryptopolitan.com/government-forms-ai-expert-squad-to-tackle-public-sector-challenges/",
-    "description": "To enhance efficiency and cut costs, the UK government has established a specialized team of artificial intelligence (AI) experts. Comprising around 30 specialists drawn from the tech industry and academia, this &#8220;crack squad&#8221; will harness the power of AI to address issues such as benefit fraud, asylum application backlogs, and the need for a more ... <a title=\"Government Forms &#8216;AI Expert Squad&#8217; to Tackle Public Sector Challenges\" class=\"read-more\" href=\"https://www.cryptopolitan.com/government-forms-ai-expert-squad-to-tackle-public-sector-challenges/\" aria-label=\"More on Government Forms &#8216;AI Expert Squad&#8217; to Tackle Public Sector Challenges\">Read more</a>"
+    "date": "2023-11-21T09:25:21.000Z",
+    "title": "OpenAI’s Merger Bid Meets a Surprising Twist as Anthropic CEO Defies Expectations",
+    "url": "https://www.cryptopolitan.com/openais-merger-bid-meets-anthropic/",
+    "description": "OpenAI, the influential artificial intelligence (AI) research company, finds itself entangled in controversy as reports emerge about a proposed merger with Anthropic, a formidable competitor in the AI landscape. The revelation comes amidst the upheaval surrounding the dismissal of OpenAI&#8217;s CEO, Sam Altman, and the subsequent appointment of new leadership at Microsoft, OpenAI&#8217;s ally. The ... <a title=\"OpenAI&#8217;s Merger Bid Meets a Surprising Twist as Anthropic CEO Defies Expectations\" class=\"read-more\" href=\"https://www.cryptopolitan.com/openais-merger-bid-meets-anthropic/\" aria-label=\"More on OpenAI&#8217;s Merger Bid Meets a Surprising Twist as Anthropic CEO Defies Expectations\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-21T08:44:51.000Z",
-    "title": "South Korean President Yoon Suk-yeol in the UK for Trade Talks and Diplomacy",
-    "url": "https://www.cryptopolitan.com/yoon-suk-yeol-in-the-uk-for-trade-talks/",
-    "description": "*Yoon Suk-yeol, the President of South Korea, arrived in the UK on Tuesday to initiate negotiations on a new free trade agreement. Both Yoon and British Prime Minister Rishi Sunak seek to bolster their international profiles in anticipation of upcoming general elections. Yoon&#8217;s three-day visit includes meetings with British leaders, and business representatives, and discussions ... <a title=\"South Korean President Yoon Suk-yeol in the UK for Trade Talks and Diplomacy\" class=\"read-more\" href=\"https://www.cryptopolitan.com/yoon-suk-yeol-in-the-uk-for-trade-talks/\" aria-label=\"More on South Korean President Yoon Suk-yeol in the UK for Trade Talks and Diplomacy\">Read more</a>"
+    "date": "2023-11-21T09:16:34.000Z",
+    "title": "Borderlands 3 Ultimate Edition Receives Major Performance and Quality-of-Life Update",
+    "url": "https://www.cryptopolitan.com/borderlands-3-performance-and-quality/",
+    "description": "In a recent update for Borderlands 3 Ultimate Edition on the Nintendo Switch, Gearbox Software addressed several community concerns and implemented significant improvements to enhance the overall gaming experience. The update, released on November 20, 2023, focuses on stability, mission progression, texture quality, and various quality-of-life enhancements. Stability enhancements and mission fixes One of the ... <a title=\"Borderlands 3 Ultimate Edition Receives Major Performance and Quality-of-Life Update\" class=\"read-more\" href=\"https://www.cryptopolitan.com/borderlands-3-performance-and-quality/\" aria-label=\"More on Borderlands 3 Ultimate Edition Receives Major Performance and Quality-of-Life Update\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-21T09:15:40.000Z",
+    "title": "Texas attorney general probes media matters after Elon Musk lawsuit",
+    "url": "https://www.cryptopolitan.com/texas-attorney-general-probes-media-matters-after-elon-musk-lawsuit/",
+    "description": "In recent developments, Texas Attorney General Ken Paxton announced an investigation into Media Matters, a media watchdog organization, for alleged fraudulent activities. This follows a lawsuit filed by Elon Musk, CEO of X (formerly known as Twitter), against Media Matters in a Texas federal court, accusing the organization of fabricating evidence to tarnish the image ... <a title=\"Texas attorney general probes media matters after Elon Musk lawsuit\" class=\"read-more\" href=\"https://www.cryptopolitan.com/texas-attorney-general-probes-media-matters-after-elon-musk-lawsuit/\" aria-label=\"More on Texas attorney general probes media matters after Elon Musk lawsuit\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-21T09:38:08.000Z",
+    "title": "Crypto market jumps amid possible end to U.S. criminal probe of Binance",
+    "url": "https://crypto.news/crypto-market-jumps-amid-possible-end-to-u-s-criminal-probe-of-binance/",
+    "description": "Crypto markets received support from news of a possible settlement of the Binance case with the U.S. Department of Justice. Sources familiar with the matter said talks between the U.S. Justice Department and Binance include the possibility that its founder&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-21T09:30:34.000Z",
+    "title": "CoinDesk’s acquisition raises concerns over editorial independence",
+    "url": "https://crypto.news/coindesks-acquisition-raises-concerns-over-editorial-independence/",
+    "description": "Bullish by former EOS developer, Block.one, acquires CoinDesk but industry leaders are raising questions around editorial independence"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-21T09:20:32.000Z",
+    "title": "Solana’s Phantom wallet rolls out cross-chain swapper to bring liquidity from Ethereum",
+    "url": "https://crypto.news/solanas-phantom-wallet-rolls-out-cross-chain-swapper-to-bring-liquidity-from-ethereum/",
+    "description": "The new in-app swap feature supports all EVM tokens and bridges them to USDC on Solana, Phantom says. Phantom, the non-custodial crypto wallet initially made for Solana users only, is now expanding its presence on the market with a new&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-21T09:16:18.000Z",
+    "title": "Microsoft AI forecasts Shiba Inu, Dogecoin, and Everlodge to rally in 2024",
+    "url": "https://crypto.news/microsoft-ai-forecasts-shiba-inu-dogecoin-and-everlodge-to-rally-in-2024/",
+    "description": "Shiba Inu, Dogecoin, and Everlodge appear to be attracting widespread attention in crypto. The ELDG presale is ongoing"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-21T09:15:19.000Z",
+    "title": "SEC sues Kraken crypto exchange due to illegal operation",
+    "url": "https://crypto.news/sec-sues-kraken-crypto-exchange-due-to-illegal-operation/",
+    "description": "The U.S. Securities and Exchange Commission has filed a lawsuit against Kraken, accusing it of illegal securities operations. According to Reuters, the SEC accused the platform of illegally operating as a securities exchange without first registering with the regulator. The&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-11-21T09:20:54.000Z",
+    "title": "Bitcoin About To Smash The $38,000 Barrier – Decoding the Next Moves",
+    "url": "https://www.newsbtc.com/news/bitcoin-about-to-smash-the-38000-barrier/",
+    "description": "Bitcoin (BTC) price reclaimed $37,000 on Monday as the crypto market started the week strongly and with investors regaining confidence in the market. On-chain analysis identifies the key reasons that could propel BTC prices higher this week. Bitcoin was up 1.77% and was halfway to the vaunted $38,000 level at the time of writing, with its trading volume soaring 21% to a little over $14 billion. The recent gains in the crypto’s price have also helped it to erase some of its recent losses, as evidenced by a surge of around 0.55% in its price over the last seven days. Anticipation Of Bitcoin ETF Nod This increase is a reflection of the market&#8217;s rising hope for the US government to approve a spot Bitcoin exchange-traded fund. But the SEC is still on the fence, putting off judgments on many Bitcoin ETF proposals until 2024. Bitcoin (BTC) continues to generate significant discussion on social media, despite the SEC failing to meet the designated eight-day timeframe for approving spot Bitcoin ETFs. Source: FXStreet However, a recent explanation for the delays has emerged, suggesting that the financial regulator has shown a preference for cash-based creations of ETFs rather than cryptocurrency-based ones. It is also believed that the agency is actively communicating with exchanges over this matter. Bitcoin Gets Price Lift From Milei Win Bitcoin&#8217;s latest price ascent was in part driven by the election of Javier Milei, a politician who supports the adoption of bitcoin, as the President of Argentina. Nevertheless, several traders caution about a potential market response subsequent to the disclosure of Federal Reserve meeting minutes on Tuesday, anticipating a period of reduced market liquidity towards the conclusion of the current business week. Related Reading: Sam Altman’s Worldcoin Token Makes Headlines With 24% Surge Amid OpenAI Drama Anticipations are high for a forthcoming week of notable activity within the cryptocurrency sphere, as discerned by market participants who foresee a series of events and announcements capable of influencing market trajectories. BTCUSD trading at $37,424 today. Chart: TradingView.com Eminent eToro markets analyst, Simon Peters, underscored the imminent release of the Fed&#8217;s latest meeting notes, slated for tomorrow. Peters articulated the consequential nature of these minutes, portraying them as a conduit for acquiring profound insights into the prevailing perspectives of the central bank. Against the backdrop of a decelerating inflationary trajectory, investors are particularly attuned to discerning further substantiation affirming the prospect that the present juncture may signify the culmination of peak interest rates. BTC seven-day price action: Source: Coingecko What Lies Ahead For Bitcoin This forthcoming week beckons vigilant attention as participants await the nuanced signals that may resonate throughout the broader landscape of the market. Meanwhile, based on a deeper look at the daily chart, it is evident that there is currently a bullish sentiment surrounding the price of Bitcoin as it approaches a critical resistance level. If the closing bar lines up close to that threshold, the impending test of this resistance level points to a possible breakout situation. Related Reading: Bitcoin Fees Soar Above Ethereum’s As Investors Flock To Ordinals-Backed Assets The excitement that is building up in this situation might be the impetus for a significant spike that takes the top altcoin&#8217;s price up to $39,000. There has been a lot of excitement among market watchers due to this suggestive bullish momentum, which is the approaching challenge to the resistance level. (This site&#8217;s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk). Featured image from Freepik"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-11-21T09:30:15.000Z",
+    "title": "LBank Unveils Third Launchpad, Featuring ACGN Protocol’s AIMEME Token",
+    "url": "https://www.crypto-news-flash.com/lbank-unveils-third-launchpad-featuring-acgn-protocols-aimeme-token/?utm_source=rss&utm_medium=rss&utm_campaign=lbank-unveils-third-launchpad-featuring-acgn-protocols-aimeme-token",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/20231121-170342_17005574389NYOplj1dG.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/20231121-170342_17005574389NYOplj1dG.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/20231121-170342_17005574389NYOplj1dG-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/20231121-170342_17005574389NYOplj1dG-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/20231121-170342_17005574389NYOplj1dG-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />HongKong, HongKong, November 21st, 2023, Chainwire LBank, a globally leading cryptocurrency trading platform, is set to make waves in the digital currency space with the official launch of its highly anticipated Launchpad on November 30, 2023. The focal point of this unveiling is the introduction of ACGN Protocol&#8217;s AIMEME token, representing a significant milestone for [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-11-21T09:23:05.000Z",
+    "title": "SEC Lawsuit Shakes Crypto World: Cardano (ADA) and Solana (SOL) Deemed Securities",
+    "url": "https://www.crypto-news-flash.com/sec-lawsuit-shakes-crypto-world-cardano-ada-and-solana-sol-deemed-securities/?utm_source=rss&utm_medium=rss&utm_campaign=sec-lawsuit-shakes-crypto-world-cardano-ada-and-solana-sol-deemed-securities",
+    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/securities-and-exchange-7232757-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC \" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/securities-and-exchange-7232757-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/securities-and-exchange-7232757-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/securities-and-exchange-7232757-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/securities-and-exchange-7232757-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />The SEC categorizes Cardano (ADA) and Solana (SOL) as securities, intensifying scrutiny on major cryptocurrencies. Kraken CEO Dave Ripley challenges SEC&#8217;s claims, emphasizing the need for clear regulatory frameworks in the U.S. crypto environment. The cryptocurrency exchange Kraken finds itself embroiled in a fresh lawsuit by the U.S. Securities and Exchange Commission (SEC). In a [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2023-11-21T08:57:56.000Z",
-    "title": "Why Does the Arbitrum Security Depend on 9 People?",
-    "url": "https://www.altcoinbuzz.io/reviews/crypto-education/why-does-the-arbitrum-security-depend-on-9-people/",
-    "description": "<p>Arbitrum is one of the top-performing level 2 solutions out there.  According to DeFiLlama it takes spot #4 of all chains in TVL. There are many reasons to like Arbitrum. However, Arbitrum is not as decentralized as you thought. The platform has a DAO, which governs the Arbitrum One and Nova chains. That sounds good, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/reviews/crypto-education/why-does-the-arbitrum-security-depend-on-9-people/\">Why Does the Arbitrum Security Depend on 9 People?</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-11-21T09:30:19.000Z",
+    "title": "Kraken Co-Founder Urges Investors to Flee the US Market",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/kraken-co-founder-urges-investors-to-flee-the-us-market/",
+    "description": "<p>It’s safe to say that most crypto executives are not big fans of the US. And that’s all due to the hostile regulatory environment. US regulators, such as the SEC, have taken a tough stance against most crypto platforms, such as Binance, and Coinbase. Let&#8217;s discover more about this news. The SEC Classifies Altcoins as [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/kraken-co-founder-urges-investors-to-flee-the-us-market/\">Kraken Co-Founder Urges Investors to Flee the US Market</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

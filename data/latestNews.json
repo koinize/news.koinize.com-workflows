@@ -1,9 +1,16 @@
 [
   {
-    "source": "NewsBTC",
-    "date": "2023-11-23T02:00:52.000Z",
-    "title": "Avalanche C-Chain Burning $12.65 Of AVAX Every Second, What Does It Mean For Price?",
-    "url": "https://www.newsbtc.com/avalanche/avalanche-burning-avax-what-mean-price/",
-    "description": "Taking to X on November 22, one user, @kevinsekniqi, notes that the Avalanche C-Chain is burning roughly $12.65 of AVAX every second, a development that could be a massive boost for AVAX in the long term. The surge in AVAX burning on the C-Chain is primarily due to the launch of inscriptions, which permit storing data on the Avalanche&#8217;s C-Chain, pushing the number of AVAX being taken out of circulation. Avalanche Burning AVAX At Record Pace @kevinsekniqi estimates that if the burn rate is maintained at spot rates, it could see approximately $400 million of the coin taken away from circulation. This could be a significant figure supporting AVAX bulls long-term since reducing supply at constant demand would naturally lead to price gains. Related Reading: Panic At Binance Following CZ’s Departure? Analyzing 24-Hour Inflow and Outflow Trends The heightened activity in recent days stems from the over 2.3 million daily transactions tied to users creating and transferring &#8220;ASC-20&#8221; tokens to inscribe data permanently onto Avalanche&#8217;s C-Chain. On average, the Avalanche C-Chain processes around 450,000 transactions daily. However, this figure has been changing in recent days, reading from on-chain data. On-chain activity is up roughly 4X due to inscriptions, driving the network&#8217;s revenue as gauged by gas fees collected. Through inscriptions, new use cases, as demonstrated in Bitcoin, around provable ownership and identity have emerged. Since Avalanche is a public ledger maintained by distributed validators operating nodes, gas fees must be paid. Part of the gas is burnt as part of Avalanche&#8217;s structure. FTX Group Selling AVAX, Bulls Dominant It is not immediately clear how the spike in the number of inscriptions on the C-Chain will impact prices. Though more inscriptions could support bulls, other external market factors should be considered.  Related Reading: Shibarium Transactions Spike 288%, But Why Is Shiba Inu Price Down Today? According to Scopescan data, FTX Group, a team tasked with managing FTX estate, recently sent 916,780 AVAX worth $20.7 million to Binance. Transfers to centralized exchanges are often interpreted as bearish. Following this, AVAX prices fell by 13% on November 21.  Prices remain stable, and AVAX maintains an uptrend despite prices contracting this week. Looking at the developments in the daily chart, the coin roared 190% from October 2023 lows. It peaked at around $16 in November.  At present, prices have cooled off, dropping by approximately 18%. Nonetheless, the uptrend remains. Any break above $16 could spur more activity, even lifting the coin towards August 2022 highs of around $30.  Feature image from Canva, chart from TradingView"
+    "source": "CoinDesk",
+    "date": "2023-11-23T02:20:37.000Z",
+    "title": "KyberSwap DEX Hacked for $48 Million, Attacker Teases Negotiations",
+    "url": "https://www.coindesk.com/tech/2023/11/23/kyberswap-dex-hacked-for-48-million-attacker-teases-negotiations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Decentralized Exchange had over $80 million in total value locked before the incident."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-11-23T02:11:48.000Z",
+    "title": "Sam Altman's Ouster Followed Dangerous AI Breakthrough Claim: Reuters",
+    "url": "https://decrypt.co/207190/openai-ai-dangerous-breakthrough-led-to-sam-altman-ceo-removal",
+    "description": "Unnamed sources say Altman's brief departure from OpenAI was sparked by a new AI discovery that some felt threatened humanity."
   }
 ]

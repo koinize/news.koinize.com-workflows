@@ -1,72 +1,51 @@
 [
   {
-    "source": "Crypto Daily",
-    "date": "2023-11-29T08:53:59.000Z",
-    "title": "KyberSwap Hacker Promises Statement On Potential Treaty",
-    "url": "https://cryptodaily.co.uk/2023/11/kyberswap-hacker-promises-statement-on-potential-treaty",
-    "description": "The hacker behind the hack that saw ~$50 million drained from the decentralized exchange protocol KyberSwap promised to release a statement on a potential deal in the coming few days."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-11-29T09:00:16.000Z",
-    "title": "Circle Partners With SBI Holdings to Launch USDC in Japan",
-    "url": "https://news.bitcoin.com/circle-partners-with-sbi-holdings-to-launch-usdc-in-japan/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Circle Partners With SBI Holdings to Launch USDC in Japan\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/11/6174cc2f-ef6f-470d-80f9-5b9ca083dddb.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Circle, a payment services company, and SBI Holdings, a conglomerate of financial companies, have partnered to bring liquidity services for the use of USDC, one of the largest stablecoins in the cryptocurrency market, to Japan, and promote the local use of stablecoins in the Web3 industry. Circle Partners With SBI Holdings to Promote USDC in [&#8230;]"
+    "source": "CoinDesk",
+    "date": "2023-11-29T09:29:04.000Z",
+    "title": "Central Bank Project Shows CBDC Payments Can Be Private",
+    "url": "https://www.coindesk.com/policy/2023/11/29/central-bank-project-shows-cbdc-payments-can-be-private/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The project is a first step in exploring privacy, security and scalability for central bank digital currency design, a report on the BIS initiative said."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-29T08:42:59.000Z",
-    "title": "Insta360 Introduces AI-Powered Ace Action Cameras with Leica Lenses",
-    "url": "https://www.cryptopolitan.com/insta360-introduce-cameras-with-leica-lenses/",
-    "description": "Shenzhen-based camera company Insta360 has unveiled its new &#8220;Ace&#8221; lineup of action cameras, featuring AI-powered capabilities and Leica-tuned lenses. These cameras are set to compete with GoPro&#8217;s Hero series and offer a range of advanced features that promise to enhance the action capture experience. High-quality imaging with AI enhancement The Insta360 Ace series consists of ... <a title=\"Insta360 Introduces AI-Powered Ace Action Cameras with Leica Lenses\" class=\"read-more\" href=\"https://www.cryptopolitan.com/insta360-introduce-cameras-with-leica-lenses/\" aria-label=\"More on Insta360 Introduces AI-Powered Ace Action Cameras with Leica Lenses\">Read more</a>"
+    "date": "2023-11-29T09:25:34.000Z",
+    "title": "Ericsson and Canadian Universities Spearhead $80M Cybersecurity Initiative for Resilient 5G Networks",
+    "url": "https://www.cryptopolitan.com/ericsson-universities-80m-cybersecurity/",
+    "description": "In a move to fortify the cybersecurity of Canada&#8217;s digital infrastructure, Ericsson, a key player in the country&#8217;s innovation landscape, has joined forces with Concordia University, the University of Manitoba, and the University of Waterloo. The collaboration marks a significant milestone in the realm of cybersecurity, as the partners secured a coveted spot in the ... <a title=\"Ericsson and Canadian Universities Spearhead $80M Cybersecurity Initiative for Resilient 5G Networks\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ericsson-universities-80m-cybersecurity/\" aria-label=\"More on Ericsson and Canadian Universities Spearhead $80M Cybersecurity Initiative for Resilient 5G Networks\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-29T09:10:52.000Z",
+    "title": "Accelerated crypto approvals in Hong Kong post-JPEX rugpull incident",
+    "url": "https://www.cryptopolitan.com/accelerated-crypto-approvals-in-hong-kong/",
+    "description": "Hong Kong, a city known for its skyscrapers and dim sum, has been making headlines in the world of cryptocurrency. Following the JPEX rugpull incident, a situation that sent shockwaves through the crypto community, Hong Kong&#8217;s government has shifted gears, accelerating the approval process for cryptocurrency products. This move aims to bolster the development of ... <a title=\"Accelerated crypto approvals in Hong Kong post-JPEX rugpull incident\" class=\"read-more\" href=\"https://www.cryptopolitan.com/accelerated-crypto-approvals-in-hong-kong/\" aria-label=\"More on Accelerated crypto approvals in Hong Kong post-JPEX rugpull incident\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-11-29T09:09:37.000Z",
+    "title": "IATA’s One Record Hackathon in Doha Marks a Milestone for AI Solutions in Air Cargo",
+    "url": "https://www.cryptopolitan.com/iata-one-record-hackathon-doha-ai-solutions/",
+    "description": "In a showcase of technological prowess, Qatar Airways Cargo and the International Air Transport Association (IATA) recently wrapped up the inaugural One Record Hackathon in Doha on November 26. This 28-hour competition brought together 17 teams from around the globe, converging in Qatar&#8217;s capital to explore innovative solutions tethered to the IATA ONE Record data-sharing ... <a title=\"IATA&#8217;s One Record Hackathon in Doha Marks a Milestone for AI Solutions in Air Cargo\" class=\"read-more\" href=\"https://www.cryptopolitan.com/iata-one-record-hackathon-doha-ai-solutions/\" aria-label=\"More on IATA&#8217;s One Record Hackathon in Doha Marks a Milestone for AI Solutions in Air Cargo\">Read more</a>"
+  },
+  {
+    "source": "NullTX",
+    "date": "2023-11-29T09:31:07.000Z",
+    "title": "The Sandbox and Uniswap Enthusiasts Eye a New, Promising Cryptocurrency (SAND, UNI, NUGX)",
+    "url": "https://nulltx.com/the-sandbox-and-uniswap-enthusiasts-eye-a-new-promising-cryptocurrency-sand-uni-nugx/",
+    "description": "TLDR The Sandbox (SAND) unveils major digital fashion partnership with Gucci. Uniswap X’s trading volume soars over $1 billion. NuggetRush (NUGX) unveils revolutionary NFT staking as part of its gaming services. &#160; The Sandbox (SAND) has partnered with Gucci to allow users to view the latter’s fashion collection via metaverse [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-29T09:02:43.000Z",
-    "title": "Interchain Foundation holds $70m stake in Celestia, $125m in ATOM",
-    "url": "https://crypto.news/interchain-foundation-holds-70m-stake-in-celestia-125m-in-atom/",
-    "description": "John Galt, Head of Strategy at Stride, recently revealed that the Interchain Foundation (ICF) holds a significant 1.6% stake in Celestia (TIA), currently valued at $70 million, in addition to its $125 million holdings in Cosmos (ATOM). This revelation sheds&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-29T09:00:00.000Z",
-    "title": "Reasons investors are exploring THORChain, Rebel Satoshi, and GALA",
-    "url": "https://crypto.news/reasons-investors-are-exploring-thorchain-rebel-satoshi-and-gala/",
-    "description": "As the market bounces back, investors have been turning to altcoins like THORChain (RUNE), Gala (GALA), and Rebel Satoshi (RBLZ)"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-29T08:57:20.000Z",
-    "title": "Popular crypto analyst reveals forecast for Coinbase shares",
-    "url": "https://crypto.news/popular-crypto-analyst-reveals-forecast-for-coinbase-shares/",
-    "description": "Peter Brandt is bullish on Coinbase. The investing savant shared his opinion on X that Coinbase shares have nowhere to go but up. Brandt identified an inverted head and shoulders pattern on the Coinbase stock chart, a significant indicator in&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-29T08:52:10.000Z",
-    "title": "Cristiano Ronaldo faces lawsuit over Binance promotion and unregistered securities",
-    "url": "https://crypto.news/cristiano-ronaldo-faces-lawsuit-over-binance-promotion-and-unregistered-securities/",
-    "description": "The soccer mogul Cristiano Ronaldo is facing a class-action lawsuit from plaintiffs claiming to have suffered financial losses linked to his promotion of Binance. The lawsuit was filed on Nov. 27 in a Florida District Court and accuses Ronaldo of&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-11-29T08:47:08.000Z",
-    "title": "LINK price increases 5.8%, whale activity follows",
-    "url": "https://crypto.news/link-price-increases-5-8-whale-activity-follows/",
-    "description": "Chainlink (LINK) has recorded significant gains over the past 24 hours. The recent surge has triggered a massive rise in the asset’s whale activity. LINK is up by 5.8% in the past 24 hours and is trading at $14.72 at&#8230;"
+    "date": "2023-11-29T09:29:38.000Z",
+    "title": "Crypto mining firm Phoenix Group delays share listing date",
+    "url": "https://crypto.news/crypto-mining-firm-phoenix-group-delays-share-listing-date/",
+    "description": "Cryptocurrency miner Phoenix Group has delayed its listing on the Abu Dhabi Securities Exchange. Bitcoin (BTC) mining firm Phoenix Group has moved the date for going public on the Abu Dhabi Securities Exchange (ADX). According to a press release published&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-11-29T08:52:38.000Z",
-    "title": "Dogecoin’s Comedy Streak: 5 Million Holders and Surging Activity",
-    "url": "https://www.crypto-news-flash.com/dogecoins-comedy-streak-5-million-holders-and-surging-activity/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoins-comedy-streak-5-million-holders-and-surging-activity",
-    "description": "<img width=\"1502\" height=\"1000\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin.jpg 1502w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/10/Doge-dogecoin-104x69.jpg 104w\" sizes=\"(max-width: 1502px) 100vw, 1502px\" />Dogecoin has surpassed 5 million wallet addresses, a significant milestone reflecting its growing adoption. Despite concerns over ownership concentration, the number of active Dogecoin addresses and transactions has seen a considerable surge. The realm of cryptocurrency has witnessed a noteworthy event as Dogecoin (DOGE), the cryptocurrency initially started as a joke, now boasts over 5 [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-11-29T08:49:56.000Z",
-    "title": "5 PRO Tips To Maximize 2024 Crypto Bull Run Gains",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/5-pro-tips-to-maximize-2024-crypto-bull-run-gains/",
-    "description": "<p>Have you missed the Crypto bullrun train? Bullrun is the moment when I can reap the rewards of my right investments. But how can I make sure that I have a good setup just before the bull run? I need a good plan to make this work so that I can get my hands on [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/5-pro-tips-to-maximize-2024-crypto-bull-run-gains/\">5 PRO Tips To Maximize 2024 Crypto Bull Run Gains</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-11-29T09:35:35.000Z",
+    "title": "Uniswap’s Epic Ascent: Crypto Trader Predicts Macro Uptrend Breakout",
+    "url": "https://www.crypto-news-flash.com/uniswaps-epic-ascent-crypto-trader-predicts-macro-uptrend-breakout/?utm_source=rss&utm_medium=rss&utm_campaign=uniswaps-epic-ascent-crypto-trader-predicts-macro-uptrend-breakout",
+    "description": "<img width=\"1201\" height=\"601\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/03/Card.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Uniswap\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/03/Card.png 1201w, https://www.crypto-news-flash.com/wp-content/uploads/2021/03/Card-300x150.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/03/Card-1024x512.png 1024w\" sizes=\"(max-width: 1201px) 100vw, 1201px\" />A popular crypto analyst has shared a bullish outlook on Uniswap (UNI) hinged on the digital asset flipping a key resistance. USDT dominance has been on a decline suggesting that investors are increasingly seeking Bitcoin and other altcoins. Popular crypto analyst Rekt Capital has shared his views on Uniswap (UNI) and the next step in [...]"
   }
 ]

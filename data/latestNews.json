@@ -1,79 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-11-29T16:28:29.000Z",
-    "title": "Stablecoins Such as Tether May Be in U.S. Sights, Top U.S. Treasury Official Warns",
-    "url": "https://www.coindesk.com/policy/2023/11/29/stablecoins-such-as-tether-may-be-in-us-sights-top-us-treasury-official-warns/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Wally Adeyemo, deputy secretary of the Treasury, said issuers outside the U.S. need to be forced to prevent abuse by terrorists."
+    "date": "2023-11-29T17:02:09.000Z",
+    "title": "Digital Finance Firm SoFi Hands Its Crypto Business to Blockchain.com",
+    "url": "https://www.coindesk.com/business/2023/11/29/digital-finance-firm-sofi-hands-its-crypto-business-to-blockchaincom/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Blockchain.com President Lane Kassleman said in an interview that his firm’s  SoFi partnership equates to hundreds of thousands of users and hundreds of millions of dollars."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-29T16:58:08.000Z",
+    "title": "Bitcoin Buyer Quietly Accumulates $424M of BTC in Three Weeks",
+    "url": "https://www.coindesk.com/business/2023/11/29/bitcoin-buyer-quietly-accumulates-424m-of-btc-in-three-weeks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "An unknown entity has bought 11,268 bitcoin [BTC] worth $424 million since November 10 in what appears to be a time-weight average price (TWAP) accumulation strategy."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-29T16:45:00.000Z",
+    "title": "2024 Will Be the Year Tokenization Truly (Finally) Begins",
+    "url": "https://www.coindesk.com/business/2023/11/29/2024-will-be-the-year-tokenization-truly-finally-begins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "After several years of being the next-big-thing, next year will be when tokenization of real-world assets really takes off, says Colin Butler, Global Head of Institutional Capital at Polygon Companies."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-11-29T16:45:00.000Z",
+    "title": "Liquid Staking Tokens Are a Hot Ticket for 2024",
+    "url": "https://www.coindesk.com/markets/2023/11/29/liquid-staking-tokens-are-a-hot-ticket-for-2024/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The staking market was the brightest spot in DeFi this year. The arrival of liquid staking token finance is set to turbocharge activity next year."
   },
   {
     "source": "Decrypt",
-    "date": "2023-11-29T16:16:18.000Z",
-    "title": "Bitcoin Mining Could 'Mitigate' Climate Change: Cornell Study",
-    "url": "https://decrypt.co/207824/bitcoin-mining-could-mitigate-climate-change-cornell-study",
-    "description": "The study found that wind and solar farms could generate millions of dollars in the precommercial phase before they're connected to the grid."
+    "date": "2023-11-29T16:46:12.000Z",
+    "title": "Solana Gets Some Shine: Ethereum Rival Rallies Again",
+    "url": "https://decrypt.co/207861/solana-gets-some-shine-ethereum-rival-rallies-again",
+    "description": "Solana beat all other major coins and tokens Wednesday by experiencing a price surge after cooling its November rally."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-11-29T16:22:56.000Z",
-    "title": "US Treasury sanctions crypto mixer Sinbad, alleging North Korea ties",
-    "url": "http://cointelegraph.com/news/us-treasury-sanctions-crypto-mixer-north-korea",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/1cc000a5-80a4-4b50-a299-099e77360954.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>The government department has previously imposed sanctions on crypto mixers Blender and Tornado Cash despite many in the space pushing back on actions against software tools.</p>\n                    <p><p>The United States Treasury Department’s Office of Foreign Assets Control (OFAC) imposed sanctions on cryptocurrency mixer Sinbad, alleging the platform was responsible for laundering funds for the North Korea-based hacking group Lazarus.</p><p>In a Nov. 29 announcement, OFAC <a href=\"https://home.treasury.gov/news/press-releases/jy1933\" target=\"_blank\" rel=\"noopener nofollow\">said</a> Sinbad had “processed millions of dollars’ worth of virtual currency from Lazarus Group heists,” including the June 2022 <a href=\"https://cointelegraph.com/news/breaking-harmony-one-s-horizon-bridge-hacked-for-100m\">hack of Horizon Bridge</a>, the March 2022 hack of Axie Infinity’s Ronin Bridge and the June 2023 hack of Atomic Wallet. The hacks resulted in a combined loss of roughly $850 million at the time.</p><p>“Mixing services that enable criminal actors, such as the Lazarus Group, to launder stolen assets will face serious consequences,” said Wally Adeyemo, deputy secretary of the Treasury. “The Treasury Department and its U.S. government partners stand ready to deploy all tools at their disposal to prevent virtual currency mixers, like Sinbad, from facilitating illicit activities.”</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-11/e99c2d60-e10d-4893-964f-1dfe5d4f8645.png\"  /><figcaption style=\"text-align: center;\"><em>Screenshot of Sinbad.io as of Nov. 29</em></figcaption></figure><p class=\"post-content__disclaimer\">This is a developing story, and further information will be added as it becomes available.\n</p><template data-name=\"subscription_form\" data-type=\"law_decoded\"></template></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-11-29T16:12:24.000Z",
-    "title": "SoFi Technologies to cease crypto services by Dec. 19",
-    "url": "http://cointelegraph.com/news/sofi-technologies-cease-crypto-services-december-19",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2023-11/3211d5ac-6b2d-4052-9305-b1c38c3b6ec5.jpg\" class=\"type:primaryImage\"></p>\n                    \n                    <p>“You can agree to have your account migrated to Blockchain.com or close your account instead,” the company wrote.</p>\n                    <p><p>United States personal finance company SoFi Technologies will end crypto trading services for its users by Dec. 19.</p><p>According to the Nov. 29 <a href=\"https://www.sofi.com/blog/sofi-crypto-update/\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, new crypto account openings on SoFi are suspended immediately. All existing SoFi crypto users must either migrate their accounts to Blockchain.com or close them. In addition, customers residing in Hawaii, Louisiana, New Jersey, Nevada, Tennessee, Texas or Virginia must liquidate certain altcoins unsupported on Blockchain.com prior to account transfers. New York clients of SoFi crypto must close their accounts by January 2024 due to the unavailability of Blockchain.com in the state.</p><p>The company did not state a reason for ending its crypto services. However, <a href=\"https://www.bloomberg.com/news/articles/2023-11-29/sofi-is-exiting-crypto-with-banking-regulators-stepping-up-scrutiny#xj4y7vzkg\" target=\"_blank\" rel=\"noopener nofollow\">reports</a> have suggested that the sector is facing wider scrutiny from banking regulators. The decision to end SoFi’s cryptocurrency accounts does not impact other SoFi Invest offerings, such as brokerage accounts and Individual Retirement Arrangements (IRAs).</p><p>In its latest earnings report, SoFi disclosed that it held $139 million worth of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) and other altcoins in clients’ deposits, up from $107 million a year earlier. SoFi previously stated that “the Federal Reserve determined that SoFi Digital Assets, LLC is engaged in certain crypto-related activities that the Federal Reserve has not found to be permissible for a bank holding company under the Bank Holding Company Act and Regulation Y.” However, the company was <a href=\"https://s27.q4cdn.com/749715820/files/doc_financials/2023/q3/sofi-technologies-q3-2023-16.pdf\" target=\"_blank\" rel=\"noopener nofollow\">allowed</a> to continue its crypto operations for two years and three-year extensions thereafter, provided that it did not expand the scope of such activities or increase its risk exposure to digital assets.</p><p><strong><em>Related: <a href=\"https://cointelegraph.com/news/occ-s-new-office-of-financial-technology-has-a-director-and-an-opening-date\" data-amp=\"https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/occ-s-new-office-of-financial-technology-has-a-director-and-an-opening-date/amp\">OCC’s new Office of Financial Technology has a director and an opening date</a></em></strong></p><template data-name=\"subscription_form\" data-type=\"crypto_biz\"></template>\n</p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2023-11-29T17:00:06.000Z",
+    "title": "Year-end Bitcoin options poised for bullish close with $5.7 billion expiry",
+    "url": "https://cryptoslate.com/insights/year-end-bitcoin-options-poised-for-bullish-close-with-5-7-billion-expiry/",
+    "description": "<p>Quick Take As we approach the last trading month of 2023, set to close on Dec. 29, an intriguing pattern surfaced in the Bitcoin options market on the Deribit exchange. Open interest, a metric representing unsettled options contracts betting on Bitcoin&#8217;s future price, is gearing for another option expiry on the last Friday of December. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/year-end-bitcoin-options-poised-for-bullish-close-with-5-7-billion-expiry/\">Year-end Bitcoin options poised for bullish close with $5.7 billion expiry</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-11-29T16:37:43.000Z",
-    "title": "UK crypto users face new HMRC tax penalties – Are you in trouble for unpaid taxes? ",
-    "url": "https://www.cryptopolitan.com/uk-crypto-users-face-new-hmrc-tax-penalties/",
-    "description": "The United Kingdom&#8217;s (UK) crypto users find themselves at the crossroads of innovation and regulatory scrutiny. As the digital asset space continues to grow, so does the attention of tax authorities seeking to ensure compliance with fiscal regulations.&#160; The latest development comes in the form of new tax penalties imposed by the UK’s HM Revenue ... <a title=\"UK crypto users face new HMRC tax penalties &#8211; Are you in trouble for unpaid taxes? \" class=\"read-more\" href=\"https://www.cryptopolitan.com/uk-crypto-users-face-new-hmrc-tax-penalties/\" aria-label=\"More on UK crypto users face new HMRC tax penalties &#8211; Are you in trouble for unpaid taxes? \">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-29T16:27:39.000Z",
-    "title": "The Crucial Work of Paul Christiano and Beth Barnes in Advancing AI Safety",
-    "url": "https://www.cryptopolitan.com/paul-christiano-and-beth-barnes-in-ai-safety/",
-    "description": "In a pivotal shift towards prioritizing AI alignment, the leading global AI company commits a substantial portion of its computing resources, valued in the billions, to address the critical issue of misalignment. This move marks a significant evolution in the AI industry&#8217;s stance on aligning artificial intelligence with human values, transforming concerns from the fringes ... <a title=\"The Crucial Work of Paul Christiano and Beth Barnes in Advancing AI Safety\" class=\"read-more\" href=\"https://www.cryptopolitan.com/paul-christiano-and-beth-barnes-in-ai-safety/\" aria-label=\"More on The Crucial Work of Paul Christiano and Beth Barnes in Advancing AI Safety\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-29T16:26:35.000Z",
-    "title": "Hong Kong Chief back regulators to crackdown on illegal exchanges",
-    "url": "https://www.cryptopolitan.com/hong-kong-chief-regulators-illegal-exchanges/",
-    "description": "Hong Kong Chief Executive John Lee has affirmed the government’s commitment to collaboration with regulators, emphasizing the crucial need for increased powers to effectively address the growing issue of unlicensed crypto exchanges. This statement comes in the aftermath of an investigation into Hounax, an unlicensed virtual asset trading platform accused of defrauding numerous individuals, with ... <a title=\"Hong Kong Chief back regulators to crackdown on illegal exchanges\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hong-kong-chief-regulators-illegal-exchanges/\" aria-label=\"More on Hong Kong Chief back regulators to crackdown on illegal exchanges\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-29T16:22:10.000Z",
-    "title": "CZ resigns as Binance.US chairman",
-    "url": "https://www.cryptopolitan.com/cz-resigns-as-binance-us-chairman/",
-    "description": "Changpeng Zhao, popularly known as CZ, has stepped down from his position as chairman of Binance.US. This decision marks a pivotal shift in the governance of one of the most influential crypto exchanges in the United States. Binance.US, established as a separate entity to cater specifically to American traders, has been quick to underline its ... <a title=\"CZ resigns as Binance.US chairman\" class=\"read-more\" href=\"https://www.cryptopolitan.com/cz-resigns-as-binance-us-chairman/\" aria-label=\"More on CZ resigns as Binance.US chairman\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-11-29T16:16:07.000Z",
-    "title": "SEC calls for public opinion on two Bitcoin ETFs proposals",
-    "url": "https://www.cryptopolitan.com/sec-public-opinion-on-bitcoin-etfs-proposals/",
-    "description": "The United States Securities and Exchange Commission (SEC) recently disclosed the next steps in its evaluation process for the proposed Bitcoin exchange-traded funds (ETFs) from Franklin Templeton and Hashdex. The regulatory agency has invited written comments on both proposals, seeking input on whether to approve or deny the applicants’ Forms 19b-4. SEC invites the public ... <a title=\"SEC calls for public opinion on two Bitcoin ETFs proposals\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sec-public-opinion-on-bitcoin-etfs-proposals/\" aria-label=\"More on SEC calls for public opinion on two Bitcoin ETFs proposals\">Read more</a>"
+    "date": "2023-11-29T16:50:58.000Z",
+    "title": "US Military Officers’ Complex Attitudes Toward AI in Shaping the Future of Warfare",
+    "url": "https://www.cryptopolitan.com/us-military-shaping-the-future-of-warfare/",
+    "description": "As AI-enhanced military technologies become increasingly prevalent, concerns about their impact on warfare&#8217;s nature and dynamics are escalating. The deployment of lethal autonomous weapons systems, such as the US Air Force&#8217;s &#8220;Loyal Wingman&#8221; drone, raises critical legal, ethical, and moral questions, especially as these systems operate without human oversight. A new study understands military trust ... <a title=\"US Military Officers&#8217; Complex Attitudes Toward AI in Shaping the Future of Warfare\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-military-shaping-the-future-of-warfare/\" aria-label=\"More on US Military Officers&#8217; Complex Attitudes Toward AI in Shaping the Future of Warfare\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-29T16:39:19.000Z",
-    "title": "CoinGecko: 75% of web3 games over last five years have failed",
-    "url": "https://crypto.news/coingecko-75-of-web3-games-over-last-five-years-have-failed/",
-    "description": "CoinGecko's study reveals a high failure rate in the Web3 gaming sector, with 75% of games launched in the past five years becoming inactive."
+    "date": "2023-11-29T16:47:29.000Z",
+    "title": "Wormhole raises $225m after split from Jump Crypto",
+    "url": "https://crypto.news/wormhole-raises-225m-after-split-from-jump-crypto/",
+    "description": "The cross-chain protocol raised funds at a $2.5 billion market valuation, finalizing its separation from Jump Trading which is downsizing crypto operations due to scrutiny."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-29T16:42:08.000Z",
+    "title": "Ethereum whales may trigger ETH rally, Celestia and Meme Moguls uptrend remain",
+    "url": "https://crypto.news/ethereum-whales-may-trigger-eth-rally-celestia-and-meme-moguls-uptrend-remain/",
+    "description": "Ethereum remains on an uptrend. Meanwhile, analysts are looking at Celestia and Meme Moguls, expecting expansions in 2024"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-11-29T16:41:37.000Z",
+    "title": "Web3 adoption: hype or reality?",
+    "url": "https://crypto.news/web3-adoption-hype-or-reality/",
+    "description": "Web3 has been gaining momentum. But with general understanding remaining low, the burning question becomes—is the adoption of web3 a reality or merely hype?"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-11-29T17:00:21.000Z",
+    "title": "XRP Community And Cardano Founder Engage In Heated Clash",
+    "url": "https://www.newsbtc.com/analysis/xrp/xrp-community-and-cardano-founder-engage-in-heated-clash/",
+    "description": "The XRP community and Charles Hoskinson, the founder of Cardano, are currently in the cryptocurrency spotlight as both parties have been involved in a fiery dispute lately. XRP Community And Charles Hoskinson Face Off On Tuesday, November 28, an XRP community member, Mr. Huber, took to X (formerly Twitter) and called out Charles Hoskinson. The post was accompanied by a snippet video of Hoskinson calling the XRP community conspiratorial. The post read: I&#8217;m sorry, @IOHK_Charles, but for two years you did everything you could to make the #XRPcommunity to look ridiculous and embarrass us in public. I know you offered peace, but only to come out of nowhere and call us crazy conspiracy theorists again. No look at you. It&#8217;s funny what can happen in a year, isn&#8217;t it? Mr. Huber&#8217;s X post criticized the Cardano founder on the previous statements he made towards Ripple. Basically, about Ripple&#8217;s allegations of corruption in the United States Securities and Exchange Commission&#8217;s (SEC) ranks. Related Reading: Ripple CEO Offers Perspective On Legal Fallout With The SEC Mr. Huber asserts that Hoskinson assisted in the &#8220;trivialization and cover-up of Joseph Lubin&#8217;s corruption.&#8221; According to Huber, it didn&#8217;t help the founder because Cardano&#8217;s native coin, ADA, is now categorized as a security by the SEC.  In response to the accusations, the co-founder asserted that Huber was unaware that he was paying for Lubin&#8217;s price. The Cardano founder stated: You believe that assisting in the trivialization and cover-up of Joseph Lubin&#8217;s corruption is a constructive approach to bringing clarity to Cardano. But the opposite is true. Joseph Lubin is smirking in your face because you don&#8217;t realize that you are paying for Lubin&#8217;s price. Hoskinson further restated that there is no proof of the allegations against the Ethereum co-founder Joe Lubin. As Hoskinson believes, Joseph Lubin did not influence the SEC&#8217;s decision to treat Ethereum differently than XRP. Hoskinson stated: Still waiting on a single piece of evidence for the latter. If you cannot provide it, then yes, you are spreading conspiracies and slander. That’s what this has been about for two years now. And somehow you guys still fight. Serious Allegations Need Solid Evidence Hoskinson&#8217;s criticism of the dissemination of slander and conspiracies highlights the importance of solid evidence before accusing people of serious allegations. However, members of the XRP community have since criticized Charles Hoskinson&#8217;s remarks on the issue. Related Reading: Cardano Founder Addresses ETHGate Rumors: Did Ethereum Bribe The SEC To Go After XRP? So far, the Cardano founder asserted that his rejection of the allegations is unrelated to whether Ethereum received a free pass from the SEC. He further discerns between &#8220;unsubstantiated conspiracy&#8221; theories and what he believes is a valid criticism of regulatory approaches toward cryptocurrencies. Featured image by iShock, chart by Tradingview.com"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-11-29T16:30:00.000Z",
-    "title": "New Data: Bitcoin 30-Day Volatility Trends Lower Than Nasdaq, S&P 500",
-    "url": "https://coinedition.com/new-data-bitcoin-30-day-volatility-trends-lower-than-nasdaq-sp-500/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Bitcoin-BTC-Is-on-the-Verge-of-a-Bullish-Breakout-Says-Analyst-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A surprising development has been observed in the crypto market trends, particularly for Bitcoin, against traditional assets. In a recent tweet, prominent market intelligence firm IntoTheBlock highlighted the unexpected twist in the Bitcoin market regarding its month-long volatility trend. According to IntoTheBlock’s analysis, the 30-day average intra-day move for Bitcoin, which is a measure of [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/new-data-bitcoin-30-day-volatility-trends-lower-than-nasdaq-sp-500/\">New Data: Bitcoin 30-Day Volatility Trends Lower Than Nasdaq, S&amp;P 500</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-11-29T17:00:00.000Z",
+    "title": "SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In",
+    "url": "https://coinedition.com/sei-jumps-30-in-one-day-hits-new-ath-as-asian-volume-troop-in/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In</p>\n<p>The post <a href=\"https://coinedition.com/sei-jumps-30-in-one-day-hits-new-ath-as-asian-volume-troop-in/\">SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

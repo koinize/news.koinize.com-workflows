@@ -1,86 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-11-29T17:02:09.000Z",
-    "title": "Digital Finance Firm SoFi Hands Its Crypto Business to Blockchain.com",
-    "url": "https://www.coindesk.com/business/2023/11/29/digital-finance-firm-sofi-hands-its-crypto-business-to-blockchaincom/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Blockchain.com President Lane Kassleman said in an interview that his firm’s  SoFi partnership equates to hundreds of thousands of users and hundreds of millions of dollars."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-29T16:58:08.000Z",
-    "title": "Bitcoin Buyer Quietly Accumulates $424M of BTC in Three Weeks",
-    "url": "https://www.coindesk.com/business/2023/11/29/bitcoin-buyer-quietly-accumulates-424m-of-btc-in-three-weeks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "An unknown entity has bought 11,268 bitcoin [BTC] worth $424 million since November 10 in what appears to be a time-weight average price (TWAP) accumulation strategy."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-29T16:45:00.000Z",
-    "title": "2024 Will Be the Year Tokenization Truly (Finally) Begins",
-    "url": "https://www.coindesk.com/business/2023/11/29/2024-will-be-the-year-tokenization-truly-finally-begins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "After several years of being the next-big-thing, next year will be when tokenization of real-world assets really takes off, says Colin Butler, Global Head of Institutional Capital at Polygon Companies."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-11-29T16:45:00.000Z",
-    "title": "Liquid Staking Tokens Are a Hot Ticket for 2024",
-    "url": "https://www.coindesk.com/markets/2023/11/29/liquid-staking-tokens-are-a-hot-ticket-for-2024/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The staking market was the brightest spot in DeFi this year. The arrival of liquid staking token finance is set to turbocharge activity next year."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-11-29T16:46:12.000Z",
-    "title": "Solana Gets Some Shine: Ethereum Rival Rallies Again",
-    "url": "https://decrypt.co/207861/solana-gets-some-shine-ethereum-rival-rallies-again",
-    "description": "Solana beat all other major coins and tokens Wednesday by experiencing a price surge after cooling its November rally."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-11-29T17:00:06.000Z",
-    "title": "Year-end Bitcoin options poised for bullish close with $5.7 billion expiry",
-    "url": "https://cryptoslate.com/insights/year-end-bitcoin-options-poised-for-bullish-close-with-5-7-billion-expiry/",
-    "description": "<p>Quick Take As we approach the last trading month of 2023, set to close on Dec. 29, an intriguing pattern surfaced in the Bitcoin options market on the Deribit exchange. Open interest, a metric representing unsettled options contracts betting on Bitcoin&#8217;s future price, is gearing for another option expiry on the last Friday of December. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/year-end-bitcoin-options-poised-for-bullish-close-with-5-7-billion-expiry/\">Year-end Bitcoin options poised for bullish close with $5.7 billion expiry</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
     "source": "Cryptopolitan",
-    "date": "2023-11-29T16:50:58.000Z",
-    "title": "US Military Officers’ Complex Attitudes Toward AI in Shaping the Future of Warfare",
-    "url": "https://www.cryptopolitan.com/us-military-shaping-the-future-of-warfare/",
-    "description": "As AI-enhanced military technologies become increasingly prevalent, concerns about their impact on warfare&#8217;s nature and dynamics are escalating. The deployment of lethal autonomous weapons systems, such as the US Air Force&#8217;s &#8220;Loyal Wingman&#8221; drone, raises critical legal, ethical, and moral questions, especially as these systems operate without human oversight. A new study understands military trust ... <a title=\"US Military Officers&#8217; Complex Attitudes Toward AI in Shaping the Future of Warfare\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-military-shaping-the-future-of-warfare/\" aria-label=\"More on US Military Officers&#8217; Complex Attitudes Toward AI in Shaping the Future of Warfare\">Read more</a>"
+    "date": "2023-11-29T17:29:20.000Z",
+    "title": "Unveiling the Future: Google Drive’s Revamped Homepage",
+    "url": "https://www.cryptopolitan.com/google-drives-revamped-homepage/",
+    "description": "In a move set to redefine user experiences, Google has recently disclosed its plans to introduce a revamped homepage for Google Drive. This major update is designed to enhance user convenience, offering a more personalized, streamlined, and efficient approach to managing files and documents. Let&#8217;s delve into the details of what this overhaul entails. One ... <a title=\"Unveiling the Future: Google Drive&#8217;s Revamped Homepage\" class=\"read-more\" href=\"https://www.cryptopolitan.com/google-drives-revamped-homepage/\" aria-label=\"More on Unveiling the Future: Google Drive&#8217;s Revamped Homepage\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-29T16:47:29.000Z",
-    "title": "Wormhole raises $225m after split from Jump Crypto",
-    "url": "https://crypto.news/wormhole-raises-225m-after-split-from-jump-crypto/",
-    "description": "The cross-chain protocol raised funds at a $2.5 billion market valuation, finalizing its separation from Jump Trading which is downsizing crypto operations due to scrutiny."
+    "date": "2023-11-29T17:32:06.000Z",
+    "title": "Defi platforms Aerodrome and Velodrome hit by front-end cyberattacks",
+    "url": "https://crypto.news/defi-platforms-aerodrome-and-velodrome-hit-by-front-end-cyberattacks/",
+    "description": "Defi platforms Aerodrome and Velodrome suffer a frond-end attack, with an estimated $40,000 compromised. "
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-29T16:42:08.000Z",
-    "title": "Ethereum whales may trigger ETH rally, Celestia and Meme Moguls uptrend remain",
-    "url": "https://crypto.news/ethereum-whales-may-trigger-eth-rally-celestia-and-meme-moguls-uptrend-remain/",
-    "description": "Ethereum remains on an uptrend. Meanwhile, analysts are looking at Celestia and Meme Moguls, expecting expansions in 2024"
+    "date": "2023-11-29T17:13:24.000Z",
+    "title": "8 micro and low market cap cryptos investors can consider in 2024",
+    "url": "https://crypto.news/8-micro-and-low-market-cap-cryptos-investors-can-consider-in-2024/",
+    "description": "This article will analyze eight low cap cryptos whose fundamentals and utility appear solid"
   },
   {
     "source": "BTCManager",
-    "date": "2023-11-29T16:41:37.000Z",
-    "title": "Web3 adoption: hype or reality?",
-    "url": "https://crypto.news/web3-adoption-hype-or-reality/",
-    "description": "Web3 has been gaining momentum. But with general understanding remaining low, the burning question becomes—is the adoption of web3 a reality or merely hype?"
+    "date": "2023-11-29T17:12:54.000Z",
+    "title": "New Binance CEO reluctant towards senior leadership changes",
+    "url": "https://crypto.news/new-binance-ceo-reluctant-towards-senior-leadership-changes/",
+    "description": "Binance's new CEO, Richard Teng, emphasizes the leadership team’s continuity following the DOJ settlement, ensuring operational stability amid legal challenges."
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-11-29T17:00:21.000Z",
-    "title": "XRP Community And Cardano Founder Engage In Heated Clash",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-community-and-cardano-founder-engage-in-heated-clash/",
-    "description": "The XRP community and Charles Hoskinson, the founder of Cardano, are currently in the cryptocurrency spotlight as both parties have been involved in a fiery dispute lately. XRP Community And Charles Hoskinson Face Off On Tuesday, November 28, an XRP community member, Mr. Huber, took to X (formerly Twitter) and called out Charles Hoskinson. The post was accompanied by a snippet video of Hoskinson calling the XRP community conspiratorial. The post read: I&#8217;m sorry, @IOHK_Charles, but for two years you did everything you could to make the #XRPcommunity to look ridiculous and embarrass us in public. I know you offered peace, but only to come out of nowhere and call us crazy conspiracy theorists again. No look at you. It&#8217;s funny what can happen in a year, isn&#8217;t it? Mr. Huber&#8217;s X post criticized the Cardano founder on the previous statements he made towards Ripple. Basically, about Ripple&#8217;s allegations of corruption in the United States Securities and Exchange Commission&#8217;s (SEC) ranks. Related Reading: Ripple CEO Offers Perspective On Legal Fallout With The SEC Mr. Huber asserts that Hoskinson assisted in the &#8220;trivialization and cover-up of Joseph Lubin&#8217;s corruption.&#8221; According to Huber, it didn&#8217;t help the founder because Cardano&#8217;s native coin, ADA, is now categorized as a security by the SEC.  In response to the accusations, the co-founder asserted that Huber was unaware that he was paying for Lubin&#8217;s price. The Cardano founder stated: You believe that assisting in the trivialization and cover-up of Joseph Lubin&#8217;s corruption is a constructive approach to bringing clarity to Cardano. But the opposite is true. Joseph Lubin is smirking in your face because you don&#8217;t realize that you are paying for Lubin&#8217;s price. Hoskinson further restated that there is no proof of the allegations against the Ethereum co-founder Joe Lubin. As Hoskinson believes, Joseph Lubin did not influence the SEC&#8217;s decision to treat Ethereum differently than XRP. Hoskinson stated: Still waiting on a single piece of evidence for the latter. If you cannot provide it, then yes, you are spreading conspiracies and slander. That’s what this has been about for two years now. And somehow you guys still fight. Serious Allegations Need Solid Evidence Hoskinson&#8217;s criticism of the dissemination of slander and conspiracies highlights the importance of solid evidence before accusing people of serious allegations. However, members of the XRP community have since criticized Charles Hoskinson&#8217;s remarks on the issue. Related Reading: Cardano Founder Addresses ETHGate Rumors: Did Ethereum Bribe The SEC To Go After XRP? So far, the Cardano founder asserted that his rejection of the allegations is unrelated to whether Ethereum received a free pass from the SEC. He further discerns between &#8220;unsubstantiated conspiracy&#8221; theories and what he believes is a valid criticism of regulatory approaches toward cryptocurrencies. Featured image by iShock, chart by Tradingview.com"
+    "source": "Crypto News Flash",
+    "date": "2023-11-29T17:16:47.000Z",
+    "title": "Bitcoin ETF Countdown: SEC Set to Approve Spot ETFs in the First Week of January 2024, Expert Insights",
+    "url": "https://www.crypto-news-flash.com/bitcoin-etf-countdown-sec-set-to-approve-spot-etfs-in-the-first-week-of-january-2024-expert-insights/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etf-countdown-sec-set-to-approve-spot-etfs-in-the-first-week-of-january-2024-expert-insights",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Nate Geraci, ETF expert, expects low demand for Ethereum futures ETFs but sees potential in combined BTC+ETH futures ETFs. \" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />SEC reportedly delayed the decision of Franklin Templeton and Hashdex&#8217;s spot Bitcoin ETF applications. Experts believe that this decision is meant to line up all 12 applications for approval.  Crypto enthusiasts have kept their fingers crossed, awaiting news of the first spot Bitcoin Exchange-Traded Fund (ETF) approval by the US Securities and Exchange Commission after [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-11-29T17:00:00.000Z",
-    "title": "SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In",
-    "url": "https://coinedition.com/sei-jumps-30-in-one-day-hits-new-ath-as-asian-volume-troop-in/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Sei-Network-Unveils-Proof-of-Personhood-Verified-Seilor-Role-on-Discord-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In</p>\n<p>The post <a href=\"https://coinedition.com/sei-jumps-30-in-one-day-hits-new-ath-as-asian-volume-troop-in/\">SEI Jumps 30% In One Day, Hits New ATH as Asian Volume Troop In</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Bitfinex Blog",
+    "date": "2023-11-29T17:19:53.000Z",
+    "title": "Change Log: Version 1.85",
+    "url": "https://blog.bitfinex.com/changelogs/change-log-version-1-85/",
+    "description": "<p>The Bitfinex Change Log is an overview of all performance and UI changes made to the Bitfinex trading platform. For an overview of all previous changes, please refer to blog.bitfinex.com/category/changelogs. Version 1.85 Features Updated the TradingView chart library to version 26 and added a link...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/changelogs/change-log-version-1-85/\">Change Log: Version 1.85</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

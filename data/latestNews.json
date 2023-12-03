@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-03T06:00:14.000Z",
+    "title": "The State Of Lightning Network In 2023",
+    "url": "https://cryptoslate.com/the-state-of-lightning-network-in-2023/",
+    "description": "<p>The Lightning Network, introduced in 2016, is a second-layer scaling solution for Bitcoin to address its scalability issues. Built upon a network of payment channels, this off-chain protocol enables instant and low-cost transactions. It bypasses the need for every transaction to be recorded on the Bitcoin blockchain. Users establish direct payment channels with one another [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/the-state-of-lightning-network-in-2023/\">The State Of Lightning Network In 2023</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-03T06:03:54.000Z",
+    "title": "Solana Founder Anatoly Yakovenko Advocates for Blockchain Harmony, Rejects “ETH Killer” Label",
+    "url": "https://www.cryptopolitan.com/solana-founder-rejects-eth-killer-label/",
+    "description": "In a recent development that has caught the attention of the cryptocurrency community, Solana founder Anatoly Yakovenko has taken a firm stand against the divisive narrative that pits emerging blockchain protocols against Ethereum, often labelled as &#8220;ETH killers.&#8221; The term has been frequently used in the crypto space to describe newer blockchain technologies like Solana ... <a title=\"Solana Founder Anatoly Yakovenko Advocates for Blockchain Harmony, Rejects &#8220;ETH Killer&#8221; Label\" class=\"read-more\" href=\"https://www.cryptopolitan.com/solana-founder-rejects-eth-killer-label/\" aria-label=\"More on Solana Founder Anatoly Yakovenko Advocates for Blockchain Harmony, Rejects &#8220;ETH Killer&#8221; Label\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-03T06:01:57.000Z",
+    "title": "AWS re:Invent 2023: Navigating the Shift Towards Simplicity in the Age of Generative AI",
+    "url": "https://www.cryptopolitan.com/aws-reinvent-2023-navigating-the-shift-towards-simplicity-in-the-age-of-generative-ai/",
+    "description": "In a significant shift in strategy, Amazon Web Services Inc. (AWS) is now prioritizing simplicity and coherence to meet the demands of a rapidly evolving enterprise tech landscape profoundly influenced by generative artificial intelligence (gen AI). This development was a central theme at AWS re:Invent 2023, highlighting AWS&#8217;s response to the changing needs of its ... <a title=\"AWS re:Invent 2023: Navigating the Shift Towards Simplicity in the Age of Generative AI\" class=\"read-more\" href=\"https://www.cryptopolitan.com/aws-reinvent-2023-navigating-the-shift-towards-simplicity-in-the-age-of-generative-ai/\" aria-label=\"More on AWS re:Invent 2023: Navigating the Shift Towards Simplicity in the Age of Generative AI\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-03T05:40:36.000Z",
+    "title": "The Reality of AI in Business: A Cautious Approach Amidst Rising Challenges",
+    "url": "https://www.cryptopolitan.com/the-reality-of-ai-in-business-a-cautious-approach-amidst-rising-challenges/",
+    "description": "In an era where technological innovations are rapidly transforming industries, integrating Artificial Intelligence (AI) in business remains a subject of intense scrutiny. Recent findings from the US Census Bureau reveal that AI&#8217;s penetration in the business sector is less extensive than anticipated, painting a picture of cautious adoption and notable challenges. Subdued adoption: A closer ... <a title=\"The Reality of AI in Business: A Cautious Approach Amidst Rising Challenges\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-reality-of-ai-in-business-a-cautious-approach-amidst-rising-challenges/\" aria-label=\"More on The Reality of AI in Business: A Cautious Approach Amidst Rising Challenges\">Read more</a>"
+  }
+]

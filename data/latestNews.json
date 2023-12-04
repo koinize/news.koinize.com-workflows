@@ -1,163 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-04T14:00:00.000Z",
-    "title": "Web3 Attribution Platform Spindl Teams Up With AppsFlyer to Improve Blockchain Gaming Analytics",
-    "url": "https://www.coindesk.com/web3/2023/12/04/web3-attribution-platform-spindl-teams-up-with-appsflyer-to-improve-blockchain-gaming-analytics/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The two firms will be integrating their data sets to allow developers to map their user journeys which span Web2 events - like clicks and app installs - and Web3 events like NFT mints."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:46:29.000Z",
-    "title": "Coldie: Pascal Gauthier Has 'Strong Features' in Personality and Facial Makeup",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/coldie-pascal-gauthier-has-strong-features-in-personality-and-facial-makeup/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the crypto hardware wallet executive for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:46:04.000Z",
-    "title": "Die With the Most Likes: Elizabeth Warren in the Style of 'Relentless. Ground. Beef'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/die-with-the-most-likes-elizabeth-warren-in-the-style-of-relentless-ground-beef/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the U.S. senator for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:45:51.000Z",
-    "title": "Logik: Tieshun 'Pacman' Roquerre 'Knows His S--t' ",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/logik-tieshun-pacman-roquerre-knows-his-s-t/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Blur and Blast founder for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:45:38.000Z",
-    "title": "Michael Kutsche: Caroline Ellison Had Her Mind 'Hijacked'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/michael-kutsche-caroline-ellison-had-her-mind-hijacked/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the former Alameda Research executive for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:45:22.000Z",
-    "title": "EFDOT: Racer 'Likes to Move Fast and Innovate'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/efdot-racer-likes-to-move-fast-and-innovate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Friend.tech co-founder for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:45:00.000Z",
-    "title": "Rebecca Rose: 'What Goes on Inside That Brain' of Jesse Pollak's?",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/rebecca-rose-what-goes-on-inside-that-brain-of-jesse-pollaks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Base leader for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:44:48.000Z",
-    "title": "P1A: Refik Anadol Explores 'Boundaries of Creativity'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/p1a-refik-anadol-explores-boundaries-of-creativity/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the digital artist for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:44:19.000Z",
-    "title": "La Vaun: Envisioning Brad Garlinghouse as 'This Strategic Commander'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/la-vaun-envisioning-brad-garlinghouse-as-this-strategic-commander/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Ripple Labs CEO for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:44:05.000Z",
-    "title": "Shavonne Wong: Not Even Sam Altman 'Is Exempt From Surveillance'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/shavonne-wong-not-even-sam-altman-is-exempt-from-surveillance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Worldcoin co-founder and OpenAI CEO for our Most Influential package."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-04T13:43:51.000Z",
-    "title": "Rhett: Casey Rodarmor 'Wasn't Just Another Elusive Figure'",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/rhett-casey-rodarmor-wasnt-just-another-elusive-figure/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The artist made an NFT of the Ordinals protocol creator for our Most Influential package."
+    "date": "2023-12-04T14:12:06.000Z",
+    "title": "Stani Kulechov Defied Crypto Winter",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/stani-kulechov-defied-crypto-winter/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "With upgrades to the Aave lending/borrowing protocol and Lens, an open-source social media protocol, the Estonian native kept BUIDLing in a down-market."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-04T14:01:00.000Z",
-    "title": " Bitcoin maxis vs. multichains: Two opposing visions of crypto’s future  ",
-    "url": "https://cointelegraph.com/news/bitcoin-maxis-multichains-crypto-adoption",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNTk0NzUyZDUtOTVjOS00NzZkLWEwZmUtZGQzOTRhNDY1Njk2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Many Bitcoin maximalists are even hesitant to apply the term “crypto” to their preferred asset, as it brooks association with more centralized coins.  </p>\n                    <p><p >Jan3 CEO Samson Mow has said that comparing Bitcoin to crypto is like comparing “an aircraft to a paper airplane.” Ripple CEO Brad Garlinghouse said, “It will be a multichain world.”</p><p >These opposing statements are the latest front in the longest-running feud in cryptocurrency — the battle between Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) and everything else that followed. </p><p >For the crypto masses, those individuals who hold only to a single blockchain are often referred to as the maximalists. </p><p >Bitcoin maximalism is almost as old as Bitcoin itself, with the phenomenon emerging not long after its creation. </p><p >According to Bitcoin educator and self-confessed Bitcoin maximalist Giacomo Zucco, maximalists hold four truths dearly:</p><ol ><li>Everything that is not Bitcoin is a scam.</li><li>Every attempt at changing Bitcoin is a scam.</li><li>Every attempt at pushing people to spend Bitcoin is a scam.</li><li>We shouldn’t be nice to scammers.</li></ol><p >Even in the earliest days of blockchain, altcoins began proliferating. By 2010, the <a href=\"https://cointelegraph.com/news/you-can-now-create-a-shitcoin-in-less-than-23-seconds\">term shitcoin was born</a>.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-maxis-multichains-crypto-adoption\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-04T14:30:00.000Z",
+    "title": " Envision partners with HBAR and UN on new digitization platform for carbon markets  ",
+    "url": "https://cointelegraph.com/news/envision-partners-hbar-un-new-digitization-platform-carbon-markets",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNTlhNjlkNDItNmY5OS00MTc5LWJiNzctODc3YmZlMTNjZjA0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Envision blockchain along with HBAR foundation has teamed up with the UN to create a new suite of decentralized tech to streamline the complex carbon markets.</p>\n                    <p><p >The 2023 United Nations climate change conference saw several new initiatives aimed at innovating the fight against climate change and streamlining the complex carbon credit markets. </p><p >The dMRV system is developed in collaboration with the UN Climate Change Global Innovation Hub and built on the HBAR blockchain. </p><p >The dMRV platform offers a suite of features that include an artificial intelligence (AI) search and Guided Search features for the United Nations Framework Convention on Climate Change’s (UNFCCC) Clean Development Mechanism (CDM) Methodology library and other standard registries across the carbon market Industry.</p><p >The CDM methodology library consists of hundreds of rulesets required to create a carbon credit, independently developed in an analog process supporting the carbon market. </p><p >The further scaling of the library of digitized and open-source methodologies allows registries, project developers, and other market stakeholders to use digital technologies to resolve  trust and transparency issues.</p><p >Cointelegraph contacted Wes Geisenberger, vice president of Sustainability and ESG at HBAR Foundation, to understand the importance and working of the new dMRV platform and how it could help digitize the complex carbon credit market. </p><p >Geisenberger told Cointelegraph that the UN GIH/UNFCCC secretariat’s staff were deeply involved in methodology development, while supporting the \"toughest challenges in climate negotiations. </p><p><a href=\"https://cointelegraph.com/news/envision-partners-hbar-un-new-digitization-platform-carbon-markets\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-04T13:51:12.000Z",
-    "title": " ByBit sees BTC, ETH ‘flight’ of institutional investors to stablecoins - but not for long ",
-    "url": "https://cointelegraph.com/news/bybit-sees-btc-eth-flight-of-institutional-investors-to-stablecoins-but-not-for-long",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMmMwNGMyZjMtNDkxYS00MGExLWFlN2QtYmE5YzczYjNlYzkyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Cryptocurrency exchange ByBit has released its latest quarterly report revealing trading and holding trends of its institutional traders heavy in Bitcoin positive sentiment. </p>\n                    <p><p >The cryptocurrency exchange ByBit released its 4th quarter <a href=\"https://drive.google.com/file/d/1UV08IZekMSKycCylGE25GydoIil8r2o1/view?pli=1\" target=\"_blank\" rel=\"noopener nofollow\">report</a> on Dec. </p><p >The report found that institutional traders had some 45% of their assets in stablecoins, with the remaining split 35% in Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), 15% in Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) and only 5% in altcoins, which the exchange categorizes as anything other than the aforementioned digital assets. </p><p >The survey suggests that the “flight” to “safer assets,” like stablecoins, in a bear market “might explain this risk-averse asset allocation from traders.”</p><p >Nonetheless, institutional traders’ allocation of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) did spike in September, which differentiated itself from the holding patterns of other types of users. </p><figure ><img src=\"https://s3.cointelegraph.com/uploads/2023-12/505642df-a7c1-4325-8ae9-4d83181b39e6.png\"  /><figcaption style=\"text-align: center;\"><em>Surge in institutional traders' BTC holdings in September 2023. Source: ByBit</em></figcaption></figure><p >According to ByBit, the alignment of a surge in institutional (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) holdings with the prevailing positive market attitude toward Bitcoin can be correlated with “favorable lawsuit outcomes, fostering anticipation for the SEC's potential approval of a spot BTC ETF.” </p><p >On Dec. 4, (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) <a href=\"https://cointelegraph.com/news/bitcoin-41k-gold-price-new-all-time-high\">surged above $41,000</a> for the first time in 19 months, and the overall market cap for the digital asset <a href=\"https://cointelegraph.com/news/btc-market-cap-passes-berkshire-hathaway\">passed $800 billion</a>, overtaking the real estate company Berkshire Hathaway and now behind companies like Meta (formerly Facebook) and Nvidia. </p><p ><strong><em><u>Related: </u></em></strong><a href=\"https://cointelegraph.com/news/coinbase-warns-customers-subpoena-cftc-bybit-probe\"><strong><em>Coinbase warns customers about subpoena in apparent CFTC Bybit probe</em></strong></a></p><p><a href=\"https://cointelegraph.com/news/bybit-sees-btc-eth-flight-of-institutional-investors-to-stablecoins-but-not-for-long\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-04T14:26:02.000Z",
+    "title": " BTC price levels to watch as Bitcoin whales &#039;lure&#039; market to $42K ",
+    "url": "https://cointelegraph.com/news/btc-price-levels-bitcoin-whales-lure-market-42k",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMTgzYjE0MzUtYTUxYi00NTFhLTljYTQtODljOGY0OTcyMGIxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin analysis is getting more and more suspicious of the \"up only\" BTC price action in recent days.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) faces sharp volatility as the new week begins with BTC price action focusing on $42,000 — can it endure?</p><p>The largest cryptocurrency, fresh from weekend gains which topped 10%, is still keeping traders guessing over its next move.</p><p>While a trip to $40,000 was well anticipated, the question now is whether or not the latest move represents the beginning of a new trend or, conversely, <a href=\"https://cointelegraph.com/news/bitcoin-whale-games-warning-btc-price-40k-us-data\" >a new bull trap</a>.</p><p>Appraisals currently vary widely, with bullish and bearish perspectives battling for vindication.</p><p>Cointelegraph takes a look at the most important support and resistance levels now in play after recent BTC price performance reshapes the market landscape.</p><p>BTC/USD is currently trading at around $41,600, per data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a>, having hit 19-month highs of $42,160 earlier on the day.</p><figure><img src=\"https://s3.cointelegraph.com/uploads/2023-12/bb42ca07-3870-40d1-bab8-dd79f2403554.png\"><figcaption style=\"text-align: center;\"><em>BTC/USD 1-hour chart. </p><p><a href=\"https://cointelegraph.com/news/btc-price-levels-bitcoin-whales-lure-market-42k\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-04T13:58:40.000Z",
-    "title": "UK Treasury fears retail digital pound would cause bank run due to easy access",
-    "url": "https://cryptoslate.com/uk-treasury-fears-retail-digital-pound-would-cause-bank-run-due-to-easy-access/",
-    "description": "<p>The U.K. Treasury Committee is unsure if the benefits of a retail Central Bank Digital Currency (CBDC), or digital pound, will outweigh its risks as its introduction could pose significant challenges and risks to the economy. Concerns about retail digital pounds The lawmakers argued that the introduction of retail digital pounds could make the U.K. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/uk-treasury-fears-retail-digital-pound-would-cause-bank-run-due-to-easy-access/\">UK Treasury fears retail digital pound would cause bank run due to easy access</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-04T13:45:36.000Z",
-    "title": "Ethereum Technical Analysis: ETH’s Strong Averages Clash With Oscillator Signals",
-    "url": "https://news.bitcoin.com/ethereum-technical-analysis-eths-strong-averages-clash-with-oscillator-signals/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum Technical Analysis: ETH&#039;s Strong Averages Clash With Oscillator Signals\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/etherglass.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As ethereum marks a significant price of $2,250, its movement within a 24-hour range of $2,151 to $2,271 reflects strong activity in the crypto market. With a substantial trade volume of $26.82 billion and a market capitalization of $269 billion, ether demonstrates its continued and dynamic presence in the digital currency landscape. Ethereum Ethereum&#8217;s current [&#8230;]"
+    "date": "2023-12-04T14:20:04.000Z",
+    "title": "Bitcoin primed to outpace Ethereum during bull market for first time next cycle",
+    "url": "https://cryptoslate.com/insights/bitcoin-primed-to-outpace-ethereum-during-bull-market-for-first-time-next-cycle/",
+    "description": "<p>Quick Take The year 2023 has marked a shift in the Ethereum to Bitcoin ratio. Despite Ethereum&#8217;s substantial dollar value growth of 88%, it has significantly underperformed compared to Bitcoin, being down by 25% against the lead digital asset. The ratio currently sits at a precarious 0.053, teetering near year-to-date lows. This trend invites speculation [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-primed-to-outpace-ethereum-during-bull-market-for-first-time-next-cycle/\">Bitcoin primed to outpace Ethereum during bull market for first time next cycle</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-04T14:07:37.000Z",
-    "title": "BRICS, Gold, and Bitcoin set to humble the US Dollar in 2024 – Here’s the why and how",
-    "url": "https://www.cryptopolitan.com/brics-gold-btc-set-to-humble-dollar-in-2024/",
-    "description": "The year 2024 has emerged as a pivotal juncture marked by the convergence of strategic initiatives among BRICS nations, the enduring allure of gold, and the meteoric rise of Bitcoin. This strong trifecta is poised to change the dynamics of international currency dominance, threatening the US Dollar&#8217;s long-standing control.&#160; Dollar heads for a catastrophic 2024 ... <a title=\"BRICS, Gold, and Bitcoin set to humble the US Dollar in 2024 &#8211; Here&#8217;s the why and how\" class=\"read-more\" href=\"https://www.cryptopolitan.com/brics-gold-btc-set-to-humble-dollar-in-2024/\" aria-label=\"More on BRICS, Gold, and Bitcoin set to humble the US Dollar in 2024 &#8211; Here&#8217;s the why and how\">Read more</a>"
+    "date": "2023-12-04T14:37:41.000Z",
+    "title": "HashKey Capital Takes Action Against Impersonation Scam",
+    "url": "https://www.cryptopolitan.com/hashkey-capital-takes-action-against-impersonation-scam/",
+    "description": "Singapore, Singapore, December 4th, 2023, Chainwire HashKey Capital, a leading investment firm, has recently become aware of potential instances of impersonation attempts involving scammers falsely posing as representatives of the company. HashKey Capital wants to assure its clients and the public that it has no association with any of these impersonation schemes. Upon learning of ... <a title=\"HashKey Capital Takes Action Against Impersonation Scam\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hashkey-capital-takes-action-against-impersonation-scam/\" aria-label=\"More on HashKey Capital Takes Action Against Impersonation Scam\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-04T13:54:27.000Z",
-    "title": "US Commerce Secretary Asserts Strict Measures Against AI Chip Exports to China",
-    "url": "https://www.cryptopolitan.com/us-commerce-strict-measures-against-ai-chip/",
-    "description": "In a significant move to tighten technology controls, US Commerce Secretary Gina Raimondo has announced a steadfast approach to restrict China&#8217;s access to advanced AI chips and semiconductor technology. At the Reagan National Defense Forum, Raimondo emphasized the need for stringent measures to counter China&#8217;s expanding semiconductor market. This strategic stance signals a robust effort ... <a title=\"US Commerce Secretary Asserts Strict Measures Against AI Chip Exports to China\" class=\"read-more\" href=\"https://www.cryptopolitan.com/us-commerce-strict-measures-against-ai-chip/\" aria-label=\"More on US Commerce Secretary Asserts Strict Measures Against AI Chip Exports to China\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-04T13:41:19.000Z",
-    "title": "Brian Armstrong sees Bitcoin as key to western stability",
-    "url": "https://www.cryptopolitan.com/brian-armstrong-btc-is-key-to-westernization/",
-    "description": "In a recent statement, Coinbase CEO Brian Armstrong emphasized the significant role of Bitcoin and other cryptocurrencies in ensuring the longevity and success of Western civilization. His insights come when traditional financial systems face challenges due to inflation and economic shifts. Brian Armstrong discusses the future of currency Brian Armstrong highlighted a historical trend where ... <a title=\"Brian Armstrong sees Bitcoin as key to western stability\" class=\"read-more\" href=\"https://www.cryptopolitan.com/brian-armstrong-btc-is-key-to-westernization/\" aria-label=\"More on Brian Armstrong sees Bitcoin as key to western stability\">Read more</a>"
+    "date": "2023-12-04T14:16:14.000Z",
+    "title": "Nvidia to Prioritize Japan in AI Processor Supply Amid High Demand",
+    "url": "https://www.cryptopolitan.com/nvidia-to-prioritize-japan-in-ai-supply/",
+    "description": "In a significant development in the global semiconductor industry, Nvidia CEO Jensen Huang announced on December 4th that the company will prioritize supplying artificial intelligence (AI) processors to Japan. This commitment comes amidst soaring global demand for these critical components. Japan’s rejuvenated focus on semiconductor infrastructure Japan, once a world leader in the field, is ... <a title=\"Nvidia to Prioritize Japan in AI Processor Supply Amid High Demand\" class=\"read-more\" href=\"https://www.cryptopolitan.com/nvidia-to-prioritize-japan-in-ai-supply/\" aria-label=\"More on Nvidia to Prioritize Japan in AI Processor Supply Amid High Demand\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-04T13:51:38.000Z",
-    "title": "Bitcoin’s road to $42k: How far will it go?",
-    "url": "https://crypto.news/bitcoins-road-to-42k-how-far-will-it-go/",
-    "description": "Evaluating the latest Bitcoin price predictions for 2024 amidst a backdrop of market optimism."
+    "date": "2023-12-04T14:37:06.000Z",
+    "title": "Terra Classic rally after Binance burns 3.9b LUNC, this altcoin could also soar",
+    "url": "https://crypto.news/terra-classic-rally-after-binance-burns-3-9b-lunc-this-altcoin-could-also-soar/",
+    "description": "As LUNC keeps drawing attention, traders are also watching new gaming altcoin, TG.Casino (TGC), which has raised over $3.3 million in presale"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-04T13:42:48.000Z",
-    "title": "Bitcoin breaks above $40k, Bitcoin ETF Token raises nearly $2.5m",
-    "url": "https://crypto.news/bitcoin-breaks-above-40k-bitcoin-etf-token-raises-nearly-2-5m/",
-    "description": "Bitcoin ETF Token has raised nearly $2.5 million in the current BTCETF presale. Meanwhile, BTC prices soared to the highest level since April 2022"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-04T14:00:46.000Z",
-    "title": "Ethereum Turns Deflationary With Over 106,000 ETH Burned In A Single Month",
-    "url": "https://www.newsbtc.com/news/ethereum/ethereum-delationary-106000-eth/",
-    "description": "The Ethereum ecosystem is back on track with its mission to ensure that Ether is deflationary following a significant increase in the burn rate. Several factors are said to have contributed to this milestone, including voluntary exits by validators.  Over 106,000 ETH Burned In The Last 30 Days According to data from Ultra Sound Money, over 106,000 ETH have been burned in the last 30 days. In that same period, only just over 70,000 ETH have been issued. This has caused a significant decrease in Ethereum’s supply, with it being down by over 35,000 ETH.  Related Reading: The Big Move: Crypto Pundit Predicts When Bitcoin Will Reach A New ATH This is a welcome development, as the disparity between the burn and issuance rate hasn’t always been this obvious. That led to concerns as to whether ETH was truly deflationary or not. It also began to seem like the London Hard Fork wasn’t effective. Ahead of the Merge, Ethereum introduced this upgrade in its efforts to make ETH deflationary.  ETH investors are sure to be delighted with the fact that the token has once again become deflationary. Such development could propel ETH’s price to new heights. Moreover, it comes at a time when the market is preparing for an imminent bull run. As such, this macro factor, alongside other ones, places it at the forefront to be one of the biggest gainers.  ETH price recovers above $2,200 &#124; Source: ETHUSD on Tradingview.com Factors That Have Contributed To The Ethereum Deflationary Status  A report by Glassnode provided insights as to why Ethereum is deflationary once again. One of them happens to be the fact that the number of validators onboarded has slowed in recent weeks. Instead, Ethereum has an increasing number of validators exiting the ecosystem. This development has ultimately caused ETH issuance to slow. This trend of exits notably began at the start of October. This seems to be when investors actually began to take full advantage of the Shanghai upgrade that had taken place in April. Before October, the exiting event is reported to have been at an average of 309 validators per day. That increased to 1018 validators per day at the start of October.  Related Reading: Bitcoin Miner Revenue Sees Massive 6-Month Crash – What’s Going On? Meanwhile, the burn rate during this period is said to have increased significantly due to the growing network activity. The increase in network usage has led to higher gas fees. The daily amount of transaction fees burned through the EIP1559 protocol has also increased as a result. The accumulated fees burned between October and November are reported to have reached 5,368 ETH.  Ethereum is flying high at the moment, and this could be partly due to its recently achieved status. At the time of writing, the crypto token is trading at around $2,240, up by over 3% in the last 24 hours, according to data from CoinMarketCap.  Featured image from CryptoTV, chart from Tradingview.com"
+    "date": "2023-12-04T14:30:15.000Z",
+    "title": "Crypto investment products see highest inflow since October 2021",
+    "url": "https://crypto.news/crypto-products-gain-176m-in-one-week-amid-market-growth/",
+    "description": "Last week, the inflow of investment products into digital assets reached $176 million, the most significant number since October 2021. This marked the 10th consecutive week of inflows totaling $1.76 billion, or 4% of assets under management (AuM), according to&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-04T14:05:24.000Z",
-    "title": "Breaking Ground: Ripple (XRP) Introduces ‘Remit’ for Atomic Cross-Currency Payments",
-    "url": "https://www.crypto-news-flash.com/breaking-ground-ripple-xrp-introduces-remit-for-atomic-cross-currency-payments/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-ground-ripple-xrp-introduces-remit-for-atomic-cross-currency-payments",
-    "description": "<img width=\"800\" height=\"480\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"XUMM\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1.jpg 800w, https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1-36x22.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/08/ripple-xrp-1-800x480-1-48x29.jpg 48w\" sizes=\"(max-width: 800px) 100vw, 800px\" />The CTO of XRPL Labs has introduced a proposal that could see senders dispatching multiple currencies to a designated destination. Users who do not want to receive Remit transactions can set their accounts to &#8220;asfDisallowIncomingRemit&#8221;.  The Chief Technology Officer (CTO) of XRPL Labs Richard Holland has come up with a new proposal dubbed &#8220;XLS-55d – [...]"
+    "date": "2023-12-04T14:34:45.000Z",
+    "title": "Former Binance CEO CZ Declares Alt Season as Litecoin, Binance Coin, and Tron (TRX) Gain Momentum",
+    "url": "https://www.crypto-news-flash.com/former-binance-ceo-cz-declares-alt-season-as-litecoin-binance-coin-and-tron-trx-gain-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=former-binance-ceo-cz-declares-alt-season-as-litecoin-binance-coin-and-tron-trx-gain-momentum",
+    "description": "<img width=\"1280\" height=\"732\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6304115_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6304115_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6304115_1280-300x172.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6304115_1280-1024x586.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6304115_1280-768x439.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Changpeng Zhao, former CEO of Binance, publicly challenged Jim Cramer&#8217;s preference for Bitcoin over altcoins, announcing the start of an &#8220;alt season&#8221; on social media. Altcoins, including Ethereum and Binance coin, are gaining momentum, challenging Bitcoin&#8217;s long-standing market dominance.  Changpeng Zhao, also known as CZ, the former CEO of Binance, openly challenged CNBC host Jim [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-04T14:21:02.000Z",
+    "title": "Unveiling the Numbers: Render Network’s Q3 2023 Performance Soars by 30%",
+    "url": "https://www.crypto-news-flash.com/unveiling-the-numbers-render-networks-q3-2023-performance-soars-by-30/?utm_source=rss&utm_medium=rss&utm_campaign=unveiling-the-numbers-render-networks-q3-2023-performance-soars-by-30",
+    "description": "<img width=\"696\" height=\"521\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Render-Network-RNDR.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Render-Network-RNDR\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Render-Network-RNDR.png 696w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Render-Network-RNDR-300x225.png 300w\" sizes=\"(max-width: 696px) 100vw, 696px\" />Render Network leads crypto innovations by driving artificial intelligence and spatial rendering. Record figures in frames and RNDR highlight the constant evolution, consolidating Render Network in crypto. Render Network, steadfast in its position as a leading player in the crypto ecosystem, rolls out crucial developments in Q3 2023. Focusing on preparing the network for expected [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2023-12-04T14:32:56.000Z",
+    "title": "El Salvador’s Bitcoin Investment Profits $3.6 Millions",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/el-salvadors-bitcoin-investment-profits-3-6-millions/",
+    "description": "<p>The Central American nation made headlines in September 2021 when it officially recognized Bitcoin as a legal tender. Becoming the first country in the world to do so. This groundbreaking decision aimed to empower citizens with greater financial inclusion and harness the benefits of blockchain technology for cross-border transactions. Let&#8217;s discover more about El Salvador&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/el-salvadors-bitcoin-investment-profits-3-6-millions/\">El Salvador&#8217;s Bitcoin Investment Profits $3.6 Millions</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-04T13:46:37.000Z",
-    "title": "From Bitcoin Cash to the Next Big Crypto: Spotlight on a Surging Newcomer",
-    "url": "https://coinedition.com/from-bitcoin-cash-to-the-next-big-crypto-spotlight-on-a-surging-newcomer/",
-    "description": "<img width=\"508\" height=\"285\" src=\"https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2.png 508w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-300x168.png 300w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-380x213.png 380w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-127x70.png 127w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-414x232.png 414w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-294x165.png 294w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-377x211.png 377w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-129x72.png 129w, https://coinedition.com/wp-content/uploads/2023/12/Screenshot_2-355x200.png 355w\" sizes=\"(max-width: 508px) 100vw, 508px\" /><p>Bitcoin Cash (BCH) is prone to dynamic innovations and frequent price fluctuations. Given its prolonged period of relatively stagnant price trajectory, astute investors actively seek the most promising top crypto to buy for investment purposes. An analysis of the recently established decentralized hedge fund, VC Spectra (SPCT), reveals a profitable entity with a compelling value [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/from-bitcoin-cash-to-the-next-big-crypto-spotlight-on-a-surging-newcomer/\">From Bitcoin Cash to the Next Big Crypto: Spotlight on a Surging Newcomer</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-04T14:20:31.000Z",
+    "title": "Lido’s Liquid Staking Outshines CEXs, L2s in Ethereum Token Supply",
+    "url": "https://coinedition.com/lidos-liquid-staking-outshines-cexs-l2s-in-ethereum-token-supply/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Lido NFTs\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/We_jest_turns_out_the_staked_LIDO_withdrawal_requests_were_represented-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Amidst the recent surge in Ethereum’s price, an analysis posted on X shows the blockchain’s token supply has diversified in recent years, capturing increased projects and applications in its ecosystem. Indeed, the analysis posted by an X user @TrueWaveBreak showed that ETH staking continues to dominate the token’s supply. Per the post, liquid staking platform [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/lidos-liquid-staking-outshines-cexs-l2s-in-ethereum-token-supply/\">Lido’s Liquid Staking Outshines CEXs, L2s in Ethereum Token Supply</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,86 +1,219 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-04T12:24:42.000Z",
-    "title": "28 Indian Crypto Service Providers Have Registered With Country’s Anti-Money Laundering Unit ",
-    "url": "https://www.coindesk.com/policy/2023/12/04/28-indian-crypto-service-providers-have-registered-with-countrys-anti-money-laundering-unit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "As many as 28 Virtual Digital Assets (VDA) or crypto service providers have registered themselves with India's Financial Intelligence Unit (FIU-IND)."
+    "date": "2023-12-04T13:03:20.000Z",
+    "title": "Jeremy Allaire's Stablecoin Is Building a Real Use Case for Crypto",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/jeremy-allaires-stablecoin-is-building-a-real-use-case-for-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Circle Internet Financial continued to build out the USDC stablecoin network, spreading access and inclusion to new corners of the world."
   },
   {
     "source": "CoinDesk",
-    "date": "2023-12-04T12:23:18.000Z",
-    "title": "Tokens Linked to Defunct Terra Shoots 70% on Bitcoin Linking, Burn Program",
-    "url": "https://www.coindesk.com/markets/2023/12/04/tokens-linked-to-defunct-terra-shoots-70-on-bitcoin-linking-burn-program/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "These tokens have been among the strongest performers among the top hundred tokens by market capitalization in the past week."
+    "date": "2023-12-04T13:02:56.000Z",
+    "title": "Sergey Nazarov: The Crypto Oracle",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/sergey-nazarov-the-crypto-oracle/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Chainlink is where digital assets meet the real world, and Nazarov is predicting TradFi and crypto will become intertwined."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T13:00:42.000Z",
+    "title": "Lisa Neigut: Reinventing Lightning to Reinvent Bitcoin",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/lisa-neigut-reinventing-lightning-to-reinvent-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Blockstream developer has been working on what she calls \"Lightning v2\" since 2019, and it's poised to launch by year's end."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:57:02.000Z",
+    "title": "Karl Floersch's 'Optimism' Tech Paved the Way for Coinbase's 'Base' Blockchain",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/karl-floerschs-optimism-tech-paved-the-way-for-coinbases-base-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The CEO of OP Labs helped create a set of tools that let developers build their own layer-2 chains."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:56:33.000Z",
+    "title": "Avery Ching: Aptos Led a Year of 'VC Chains'",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/avery-ching-aptos-blockchain-venture-capital/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "With hundreds of millions at stake, Avery Ching, co-founder of one of the year's most-talked-about new projects, has much to prove."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:55:15.000Z",
+    "title": "Jesse Pollak Is Putting the Base in Coinbase",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/jesse-pollak-is-putting-the-base-in-coinbase/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Coinbase's layer-2 blockchain, which launched this year, helps the exchange to scale and reduce transaction fees. Rivals, like Kraken, are now said to be launching their own layer 2s."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:54:51.000Z",
+    "title": "Cuy Sheffield: The Reason Visa Is 'Everywhere’ in Crypto",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/cuy-sheffield-the-reason-visa-is-everywhere-in-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Perhaps more than at any other TradFi firm, Visa's crypto unit under Sheffield has been running experiment after experiment. That's why he's one of CoinDesk's Most Influential of 2023."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:51:35.000Z",
+    "title": "Stefan Berger: The Man Who Made MiCA",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/stefan-berger-the-man-who-made-mica/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Stefan Berger steered through the European Union's world-leading Markets in Crypto Assets Regulation (MiCA) this year in the aftermath of FTX and other scandals. He's now working on a digital euro."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:51:11.000Z",
+    "title": "Jordi Baylina: Finding Solutions in Zero-Knowledge",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/jordi-baylina-finding-solutions-in-zero-knowledge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "One of Ethereum's biggest scalability layers, Polygon, is at the forefront of a new tech trend with the launch of its zkEVM."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:50:12.000Z",
+    "title": "Larry Fink: Wall Street's Biggest Bitcoin Believer",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/larry-fink-wall-streets-biggest-bitcoin-believer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BlackRock reignited interest in bitcoin ETFs this year, in part driven by CEO Fink's strong statements on the role of BTC as an international currency."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:49:49.000Z",
+    "title": "Rune Christensen Is Making Digital Assets Real",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/rune-christensen-is-making-digital-assets-real/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The co-founder of MakerDAO says his biggest achievement this year was bringing real-world assets, like U.S. Treasuries, on-chain and at scale."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:48:27.000Z",
+    "title": "Refik Anadol's AI-Driven Work Breaks Big in 2023",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/refik-anadols-ai-driven-work-breaks-big-in-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Digital artist Refik Anadol's creatively sculpted imaginations generated wonder and discussion as he brought his data-generated artwork from the blockchain to the world’s largest screens."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:48:03.000Z",
+    "title": "Brad Garlinghouse Is 2023's Comeback King With XRP's Win Over SEC",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/ripple-xrp-brad-garlinghouse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Ripple's co-founder emerged triumphant this year in legal cases with big implications for crypto's future. He couldn't have done it without the XRP Army."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:46:24.000Z",
+    "title": "Sam Altman: The World That Sam Made",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/sam-altman-the-world-that-sam-made/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "From ChatGPT to Worldcoin, Sam Altman changed everything in 2023."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:46:01.000Z",
+    "title": "Brian Armstrong of Coinbase Is Crypto's Last Big Man Standing",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/coinbase-brian-armstrong-crypto-leadership/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "With CZ gone at Binance, and SBF set for prison, Brian Armstrong is the biggest big gun still in the hot seat. Having launched its own layer-2 blockchain and derivatives exchange this year, and ETFs looking poised to launch in 2024, Coinbase looks well positioned to ride crypto's next wave."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:44:32.000Z",
+    "title": "Gary Gensler: The Crypto Lightning Rod Who Runs the SEC",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/gary-gensler-the-crypto-lightning-rod-who-runs-the-sec/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Assessing who was the most influential regulator or law enforcement official in a year when so many have affected or shaped the crypto industry is challenging. But influence is not just measured by action and impact; it's the reactions caused, the responses garnered, the way we hang on to words said and left unsaid that demonstrate influence. Using this criteria, there’s really only one winner: SEC Chair Gary Gensler."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-04T12:43:32.000Z",
+    "title": "PayPal's Jose Fernandez da Ponte: Stablecoins for All",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/04/paypals-jose-fernandez-da-ponte-stablecoins-for-all/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The payments giant debuted its own Ethereum-based U.S. dollar stablecoin this year, offering serious competition to existing market leaders such as Tether's USDT and Circle's USDC."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-04T13:06:03.000Z",
+    "title": "Coinbase CEO: Bitcoin 'May Be Key to Extending Western Civilization'",
+    "url": "https://decrypt.co/208478/coinbase-ceo-bitcoin-may-be-key-to-extending-western-civilization",
+    "description": "In a series of Twitter posts, Brian Armstrong argued that Bitcoin could provide an alternative to the reserve currency as an \"antidote to inflation.\""
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-04T12:12:22.000Z",
-    "title": " Brazil’s largest bank Itau Unibanco launches Bitcoin trading — Report ",
-    "url": "https://cointelegraph.com/news/brazil-itau-unibanco-bitcoin-trading",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvN2M1NjRkNjItMWMzZi00YTg4LTk2ZTEtMTIzNTc4NWY3NDNkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Brazilian bank Itau Unibanco has reportedly launched a cryptocurrency trading service for its clients as part of its investment platform.</p>\n                    <p><p >Brazilian bank Itau Unibanco has launched a cryptocurrency trading service for its clients as part of its investment platform, Reuters <a href=\"https://www.reuters.com/technology/brazilian-lender-itau-launches-crypto-trading-2023-12-04/\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> on Dec. </p><p >Itau, the largest bank by assets in Brazil and one of the leading lenders in Latin America, is debuting crypto trading with Bitcoin (<a href=\"https://br.cointelegraph.com/bitcoin-price\">BTC</a>) and Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>), digital asset head Guto Antunes reportedly said. </p><p >“It starts with Bitcoin, but our overarching strategic plan is to expand to other crypto assets in the future,” Antunes stated, adding expansion would depend on regulatory developments.</p><p >The move reportedly comes about a month after two local players announced they were leaving the crypto market. </p><p >Itau Unibanco didn't immediately respond to Cointelegraph’s request to comment.</p><p class=\"post-content__disclaimer\" >This is a developing story, and further information will be added as it becomes available.\n</p></p><p><a href=\"https://cointelegraph.com/news/brazil-itau-unibanco-bitcoin-trading\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-04T13:01:00.000Z",
+    "title": " Trust the best strategy in crypto bear market — Trust Wallet CEO  ",
+    "url": "https://cointelegraph.com/news/trust-crypto-bear-market-wallet-binance",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvODE3MTU3ZjAtMjE0ZC00MTIwLWI0ZjUtYzUzN2U1YzIwYmI2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Cointelegraph sat down with Trust Wallet CEO Eowyn Chen to talk about how Web3 can become a better experience for everyone. </p>\n                    <p><p >Bringing the global crypto and blockchain communities together in Istanbul, Turkey, the <a href=\"https://cointelegraph.com/news/binance-blockchain-week-turkey-crypto-industry-cz\">Binance Blockchain Week 2023</a> was a clear indicator that the Web3 ecosystem continues to grow regardless of price movements. </p><p >Despite being a Binance event, the conference housed several key players from the crypto industry. </p><p >Among them was <a href=\"https://cointelegraph.com/news/what-is-the-trust-wallet-and-how-do-you-use-it\">Trust Wallet</a>, a decentralized Web3 wallet provider <a href=\"https://cointelegraph.com/news/in-its-first-public-acquisition-binance-buys-decentralized-trust-wallet\">acquired by Binance</a> back in 2018. Since its acquisition, Trust Wallet has been widely seen as “the wallet arm of Binance.” This is why the Binance Blockchain Week visitors were caught off-guard when the crypto exchange <a href=\"https://cointelegraph.com/news/binance-web3-wallet-launch-120-million-registered-users\">announced its own Web3 wallet</a>. </p><p >Trust Wallet CEO Eowyn Chen — a former vice president at Binance — clarified that “Binance focuses on the centralized, while Trust Wallet works toward the decentralized ecosystem,” adding that Trust Wallet has a neutrality that can serve and partner with anyone in the crypto industry.</p><blockquote >“We think that keeping that independence and distance is the best way to keep the culture and the talents running for its own mission.”</blockquote><p >Trust Wallet was born in 2017 during the initial coin offering craze due to the need for an accessible mobile wallet, Chen said. </p><figure ><img src=\"https://s3.cointelegraph.com/uploads/2023-12/86adc297-eaca-4e89-b665-089e35d2e270.jpg\"  alt=\"\"  title=\"\"  /><figcaption style=\"text-align: center;\">Cointelegraph sat down with Trust Wallet CEO Eowyn Chen during Binance Blockchain Week Istanbul. Source: Cointelegraph</figcaption></figure><p >“Recently, we became a sister company of Binance rather than operating under Binance because we can have a better playing field,” Chen explained. </p><h3 >“Scammers provide better customer support”</h3><p >Compared to fixing the user experience, solving the security issues across Web3 is trickier, according to Chen. </p><p><a href=\"https://cointelegraph.com/news/trust-crypto-bear-market-wallet-binance\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-04T13:00:00.000Z",
+    "title": " On-chain organizations: Skeptics, maxis and what is realistic ",
+    "url": "https://cointelegraph.com/news/on-chain-organizations-skeptics-maxis-and-what-is-realistic",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZGRmNjZjODQtNWQ4MS00NjI3LTk1M2ItYTU3M2YzMzVlMWQ5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The most effective founders are resilient individuals with a growth mindset who are great delegators.</p>\n                    <p><p>I heard recently that Vitalik choosing the term “Decentralized Autonomous Organization” in 2015 (<a href=\"https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide?ref=blog.aragon.org\">defined</a> here) was influenced by the 1997 book, <em>The Sovereign Individual</em>. </p> <p>Skeptics believe it is complete overhype whilst decentralization maxis see it as our immediate technological future. </p> <p>During this bear market, skepticism prevails among Web3 leaders. </p> <p>The second sub-group of skeptics, less extreme in their stance but equally steadfast, consists of disillusioned Web3 builders. </p> <p>On the other side of the argument stands the maxis. </p> <p>The skeptics group still actively participates on-chain every day. </p> <p>Conventional banks can’t assist in executing on-chain operations. </p><p><a href=\"https://cointelegraph.com/news/on-chain-organizations-skeptics-maxis-and-what-is-realistic\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-04T12:54:44.000Z",
+    "title": " How generative AI allows one architect to reimagine ancient cities ",
+    "url": "https://cointelegraph.com/news/generative-ai-architect-athens-art",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTEvOGNkZWM4YjYtNWYyZC00ZDI0LTk3ODktZmE3Zjk3Y2E0NjgzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Cointelegraph spoke with architect and designer Tina Marinaki about her work using generative AI and text-to-image prompts to reimagine the ancient Athenian cityscape.  </p>\n                    <p><p >The emergence of generative artificial intelligence (AI) has presented modern society with new means for understanding and visualizing the world.</p><p >Meta, the parent company of social media platforms Facebook and Instagram, recently introduced new <a href=\"https://cointelegraph.com/news/meta-introduces-ai-models-artificial-intelligence-video-generation-image-editing\">AI video and image-generating tools</a> for creators, while OpenAI updated the premium version of its popular AI model ChatGPT to include powerful text-to-image generating capabilities. </p><p >As the pace of AI development continues to accelerate rapidly, many artists are faced with <a href=\"https://cointelegraph.com/news/artists-face-a-choice-with-ai-adapt-or-become-obsolete\">the challenge of embracing the new tools</a> as a part of their workflow while still managing to keep their unique vision. </p><p >One such artist is the New York-based Greek architect Tina Marinaki, who has incorporated AI tools into her creative work and, in the process, created an online community of nearly 20,000 users on Instagram through “Athens Surreal,” which follows her reimagination of the ancient Athenian cityscape. </p><p >Cointelegraph spoke with Marinaki about incorporating AI into her work and how she reenvisions her home city using emerging technology.</p><p >She explained that the concept of Athens Surreal stemmed from the desire to understand “the way the different AI tools work” while testing ideas for a “different, sometimes romantic, sometimes utopian, futuristic Athens.”</p><h3 >Technical difficulties </h3><p >According to Marinaki, one of the primary difficulties working with text-to-image AI systems is “translating” an image description to communicate a vision with the AI systems. </p><blockquote data-ct-non-breakable=\"true\">“Other challenges are found in algorithmic ethnicity, gender or other biases when algorithms are trained using biased data.”</blockquote><p >For example, she reported that a greater number of men can appear in AI-generated images even when a user’s parameters have no mention of gender, and in some cases, AI can create “racist or stereotypical images.”</p><p >Despite its biases in text-to-image generation, these weaknesses can lead to strengths if trained correctly. </p><p><a href=\"https://cointelegraph.com/news/generative-ai-architect-athens-art\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-04T12:25:19.000Z",
-    "title": "Deribit data hints at $50,000 Bitcoin value by March 2024 amid potential gamma squeeze",
-    "url": "https://cryptoslate.com/insights/deribit-data-hints-at-50000-bitcoin-value-by-march-2024-amid-potential-gamma-squeeze/",
-    "description": "<p>Quick Take Data from Deribit paints a compelling picture of Bitcoin&#8217;s potential by the end of Q1 2024. Based on strike price, options open interest pinpoints a possible value of $50,000 for Bitcoin by March 29. The call wall at this price is robust, exhibiting a notional value of $275 million, which dwarfs the notional [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/deribit-data-hints-at-50000-bitcoin-value-by-march-2024-amid-potential-gamma-squeeze/\">Deribit data hints at $50,000 Bitcoin value by March 2024 amid potential gamma squeeze</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-04T13:00:42.000Z",
+    "title": "Mantle introduces mETH liquid staking protocol, expanding its Ethereum-based DeFi ecosystem",
+    "url": "https://cryptoslate.com/mantle-introduces-liquid-staking-protocol-meth-expanding-its-ethereum-based-defi-ecosystem/",
+    "description": "<p>Mantle, the DAO-led web3 ecosystem, today unveiled its Mantle Liquid Staking Protocol (LSP) as a key addition to the Mantle Ecosystem, offering users a novel way to engage with Ethereum&#8217;s proof-of-stake (PoS) validator network, according to a statement shared with CryptoSlate. The Mantle LSP is a permissionless and non-custodial Ethereum (ETH) liquid staking protocol, functioning [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/mantle-introduces-liquid-staking-protocol-meth-expanding-its-ethereum-based-defi-ecosystem/\">Mantle introduces mETH liquid staking protocol, expanding its Ethereum-based DeFi ecosystem</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2023-12-04T12:30:32.000Z",
-    "title": "Bitcointalk Forum to Enforce Mixing Talk Ban",
-    "url": "https://news.bitcoin.com/bitcointalk-forum-to-enforce-mixing-talk-ban/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcointalk Forum to Enforce Mixer Talk Ban\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/eda96ea9-a8f4-4bd4-8ae1-59762876a65b.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcointalk, a historic Bitcoin-focused forum, has announced it will start banning mixer-related topics next year. Forum administrator Theymos argued that while these services were not necessarily illegal, a pattern has emerged where these platforms are consistently being taken down by law enforcement. Bitcointalk Forum Announces Upcoming Ban on Mixing Topics Bitcointalk, a historic forum platform [&#8230;]"
+    "date": "2023-12-04T13:00:05.000Z",
+    "title": "Bitcoin Technical Analysis: BTC Breaks $42K Resistance in Latest Bullish Swing",
+    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-btc-breaks-42k-resistance-in-latest-bullish-swing/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: BTC Breaks $42K Resistance in Latest Bullish Swing\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/bully.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On December 4, 2023, bitcoin&#8217;s price exhibited significant movements trading between $39,409 and $42,155 during the intraday sessions. The crypto asset briefly crossed the $42K zone — a height not seen since the Terra LUNA crash. Bitcoin’s current market capitalization is around $813 billion as it trades for $41,556 per unit at the time of [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-04T12:21:57.000Z",
-    "title": "LandX Closes Private Round Securing $5M+ In Private Funding",
-    "url": "https://www.cryptopolitan.com/landx-closes-private-round-securing-5m-in-private-funding/",
-    "description": "Dubai, UAE, December 4th, 2023, Chainwire After two years in development LandX, the agricultural finance protocol, successfully closed its private investment round surpassing expectations. The round raised over $915,000 USD from private investors which brings the total raised to over $5 million USD. The milestone marks a significant vote of confidence in the potential for ... <a title=\"LandX Closes Private Round Securing $5M+ In Private Funding\" class=\"read-more\" href=\"https://www.cryptopolitan.com/landx-closes-private-round-securing-5m-in-private-funding/\" aria-label=\"More on LandX Closes Private Round Securing $5M+ In Private Funding\">Read more</a>"
+    "source": "BTCManager",
+    "date": "2023-12-04T13:01:15.000Z",
+    "title": "Bitcoin surges past $42k in a year-long rally",
+    "url": "https://crypto.news/bitcoin-surges-past-42k-in-a-year-long-rally/",
+    "description": "According to price charts, Bitcoin reached $42,000, a dollar value investors have not seen since April 2022. At the time of writing, Bitcoin price (BTC) saw a 5.9% increase in the last 24 hours and a more than 140% surge&#8230;"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-04T12:21:43.000Z",
-    "title": "Solana Price Prediction 2023-2032: Is SOL a Good Investment?",
-    "url": "https://www.cryptopolitan.com/solana-price-prediction/",
-    "description": "Solana Price Prediction 2023-2032 How much is SOL worth? The live Solana price today is $59.41, with a 24-hour trading volume of $2,003,286,356. We update our SOL to USD price in real time. Solana is up 1.72% in the last 24 hours. The current CoinMarketCap ranking is #7, with a live market cap of $24,005,526,814 ... <a title=\"Solana Price Prediction 2023-2032: Is SOL a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/solana-price-prediction/\" aria-label=\"More on Solana Price Prediction 2023-2032: Is SOL a Good Investment?\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-04T12:17:18.000Z",
-    "title": "XRPL Labs launches innovative remit for efficient transactions",
-    "url": "https://www.cryptopolitan.com/xrpl-labs-launches-innovative-remit/",
-    "description": "In a significant development for the digital currency space, Richard Holland, the Chief Technology Officer (CTO) of XRPL Labs, has unveiled a groundbreaking proposal titled “XLS-55d – Remit: Atomic Multi-Asset Payments for Xahau.” This innovative concept is set to transform the dynamics of payment transactions within the Xahau sidechain, a part of the broader XRPL ... <a title=\"XRPL Labs launches innovative remit for efficient transactions\" class=\"read-more\" href=\"https://www.cryptopolitan.com/xrpl-labs-launches-innovative-remit/\" aria-label=\"More on XRPL Labs launches innovative remit for efficient transactions\">Read more</a>"
+    "source": "NewsBTC",
+    "date": "2023-12-04T13:00:48.000Z",
+    "title": "Bitcoin Triumphs Over $41,000, But Here’s What Could Prevent $50,000",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-triumphs-41000-heres-prevent-50000/",
+    "description": "Bitcoin has broken past the $41,000 level during the past day, but FOMO could be the number one danger to a further surge towards $50,000. Bitcoin Social Dominance Has Spiked Following The Rally According to data from the on-chain analytics firm Santiment, signs of euphoria have appeared among Bitcoin traders following the latest climb in the asset&#8217;s price. The main indicator of interest here is the &#8220;social dominance,&#8217; which is based on another metric called the &#8220;social volume.&#8221; This latter indicator basically tells us about the amount of discussion related to a given topic that is happening on the major social media platforms right now. The metric tracks this by going through each post/thread on these platforms to see if they are making mentions of the topic or not. However, rather than counting the number of mentions themselves, it separates the posts and counts the total number of them instead. Related Reading: The Big Move: Crypto Pundit Predicts When Bitcoin Will Reach A New ATH Because of this approach, a more organic overview of the market becomes apparent, as the indicator will only spike when discussions are happening across social media, rather than inside just one or two large threads. The social dominance compares this social volume of any given coin against that of the top 100 cryptocurrencies combined. Thus, whenever this indicator shoots up, it means that the mindshare related to the asset is going up among social media users. Now, here is a chart that shows the trend in both the Bitcoin social volume and social dominance over the past year: The value of the metric seems to have registered a large spike during the past day &#124; Source: Santiment on X As displayed in the above graph, the Bitcoin social dominance observed a huge increase when the Bitcoin price broke above $40,000 during the past day. This implies that users shifted focus toward BTC from the other coins after this rally. While some attention is healthy (it&#8217;s even required, otherwise the move would become unsustainable), too much hype has often not turned out to be favorable for the cryptocurrency in the past. An example of this is clearly visible in the chart, where the BTC rally hit its brakes back in March of this year after the social volume and social dominance both registered significant spikes. Going by this, the current even higher values of social dominance could be a worrying sign for the asset&#8217;s hopes of rallying toward the $50,000 mark. Though, so far, BTC has still been able to continue its climb despite this development, as it has now broken past the $41,000 barrier as well. Related Reading: Bitcoin Price Blasts Past $41,500: Here Are The Reasons In the end, it comes down to whether the discussions have a bullish or a bearish view. More of the latter would provide better chances for the rally to continue. As Santiment explains, &#8220;FUD &#38; FOMO toward the ongoing ETF confirmation dates will dictate whether $50,000 arrives sooner rather than later.&#8221; BTC Price It would appear that Bitcoin isn&#8217;t done with its surge yet as the coin has now risen above $41,800, inching closer to $42,000. BTC has enjoyed some sharp uptrend during the past day &#124; Source: BTCUSD on TradingView Featured image from Kanchanara on Unsplash.com, charts from TradingView.com, Santiment.net"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-04T12:39:08.000Z",
-    "title": "Whales are Loading Up On This New ICO — Here’s What You Should Know About It",
-    "url": "https://www.crypto-news-flash.com/whales-are-loading-up-on-this-new-ico-heres-what-you-should-know-about-it/?utm_source=rss&utm_medium=rss&utm_campaign=whales-are-loading-up-on-this-new-ico-heres-what-you-should-know-about-it",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-28.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-28.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-28-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-28-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Observing whales on-chain provides very useful market insights. This isn’t possible in TradFi, so crypto investors should be leveraging every advantage they can get their hands on to get ahead of the market: the pre-bull phase. If you’re wondering what crypto to buy today, consider that whales are loading up on this new ICO: Galaxy [...]"
+    "date": "2023-12-04T13:07:17.000Z",
+    "title": "From Bitcoin ETF to Tokenization: Franklin Templeton’s Vision for Finance",
+    "url": "https://www.crypto-news-flash.com/from-bitcoin-etf-to-tokenization-franklin-templetons-vision-for-finance/?utm_source=rss&utm_medium=rss&utm_campaign=from-bitcoin-etf-to-tokenization-franklin-templetons-vision-for-finance",
+    "description": "<img width=\"1280\" height=\"848\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Brics Bitcoin vs Gold\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-1024x678.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-768x509.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-104x69.jpg 104w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Jenny Johnson, President of Franklin Templeton, discusses the significance of tokenization following the firm&#8217;s Bitcoin ETF application. She also highlights a broader focus on blockchain&#8217;s potential to democratize private markets and enhance transactional efficiency through tokenization. Jenny Johnson, the President and CEO of Franklin Templeton managing assets exceeding $1.3 trillion, emphasized the pivotal role of [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-04T12:35:19.000Z",
-    "title": "Galxe Partners with Mantle Network for a Moonshot Adventure in the Crypto Ecosystem",
-    "url": "https://www.crypto-news-flash.com/galxe-partners-with-mantle-network-for-a-moonshot-adventure-in-the-crypto-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=galxe-partners-with-mantle-network-for-a-moonshot-adventure-in-the-crypto-ecosystem",
-    "description": "<img width=\"640\" height=\"427\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ahsan-avi-t9sr43kuJN0-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Mantle Moonshot\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ahsan-avi-t9sr43kuJN0-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ahsan-avi-t9sr43kuJN0-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ahsan-avi-t9sr43kuJN0-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Galxe and Mantle revolutionize dApps with integration, offering faster and more profitable transactions on Ethereum. Mantle Moonshot features exclusive rewards, paving the way for an innovative dApp experience. November 29 marked a key moment in the decentralized applications (dApps) space with the integration of Galxe and Mantle Network. Mantle, a Layer 2 network designed for [...]"
+    "date": "2023-12-04T12:59:03.000Z",
+    "title": "Hedera’s Green Revolution: Disrupting the $19 Billion Renewable Energy Certificate Market",
+    "url": "https://www.crypto-news-flash.com/hederas-green-revolution-disrupting-the-19-billion-renewable-energy-certificate-market/?utm_source=rss&utm_medium=rss&utm_campaign=hederas-green-revolution-disrupting-the-19-billion-renewable-energy-certificate-market",
+    "description": "<img width=\"952\" height=\"472\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/HEDERA-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"HEDERA\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/HEDERA-.png 952w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/HEDERA--300x149.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/HEDERA--768x381.png 768w\" sizes=\"(max-width: 952px) 100vw, 952px\" />Électricité de France, REDEX, and Rekursive Labs have collaborated to automate the renewable energy certificate process using Hedera&#8217;s technology. The project demonstrated its effectiveness in Singapore&#8217;s MASERA microgrid, enabling real-time REC redemption at electric vehicle charging stations. The top generator of renewable energy in Europe, Électricité de France (EDF), has teamed up with REDEX and [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-04T12:30:31.000Z",
-    "title": "Avalanche (AVAX) Price Prediction Stirs Buzz; Eos (EOS) and InQubeta (QUBE) Target Higher Levels",
-    "url": "https://www.crypto-news-flash.com/avalanche-avax-price-prediction-stirs-buzz-eos-eos-and-inqubeta-qube-target-higher-levels/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-avax-price-prediction-stirs-buzz-eos-eos-and-inqubeta-qube-target-higher-levels",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-27.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-27.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-27-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-27-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Since bullish momentum poured into the crypto market, old and new DeFi projects have been tracking favorable prices. For starters, Avalanche (AVAX) has tallied over 180% growth since September, and the Avalanche ecosystem recently had $10 million infused into it. This massive capital interest, combined with other expected market catalysts, has resulted in positive outlooks [...]"
+    "date": "2023-12-04T12:42:14.000Z",
+    "title": "Terraform Labs’ Tactical Maneuver Ignites Explosive Rallies for LUNC, Up 47% to $0.0002342, and Terra LUNA, Up 28% to $1.07",
+    "url": "https://www.crypto-news-flash.com/terraform-labs-tactical-maneuver-ignites-explosive-rallies-for-lunc-up-47-to-0-0002342-and-terra-luna-up-28-to-1-07/?utm_source=rss&utm_medium=rss&utm_campaign=terraform-labs-tactical-maneuver-ignites-explosive-rallies-for-lunc-up-47-to-0-0002342-and-terra-luna-up-28-to-1-07",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/Terra.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Terra Luna\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/Terra.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/Terra-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/Terra-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/Terra-768x432.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Courtesy of the TerraForm Labs, the Terra Luna Classic (LUNC) and TerraClassicUSD (USTC) tokens have been experiencing a consistent upsurge in price value over the past month. Within a 30-day timeframe, LUNC and USTC have secured a whopping 302 percent and 460 percent increase in gains.  Terraform Labs has changed the fundamentals of the Terra [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2023-12-04T13:02:26.000Z",
+    "title": "Qatar’s Sovereign Wealth Fund Eyes $500B Bitcoin Investment",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/qatars-sovereign-wealth-fund-eyes-500b-bitcoin-investment/",
+    "description": "<p>The decision to explore the cryptocurrency market aligns with Qatar&#8217;s forward-thinking approach to finance and its recognition of the growing influence of digital assets in the global economy. The move by QSWF is likely motivated by the potential for substantial returns and the increasing acceptance of Bitcoin as a legitimate asset class. Let&#8217;s explore more [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/qatars-sovereign-wealth-fund-eyes-500b-bitcoin-investment/\">Qatar&#8217;s Sovereign Wealth Fund Eyes $500B Bitcoin Investment</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-04T12:16:56.000Z",
-    "title": "Can ETH Give Traders a $3 Million Profit Like One ‘Smart Money’?",
-    "url": "https://coinedition.com/can-eth-give-traders-a-3-million-profit-like-one-smart-money/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ETH Could Rise to $1,980 as Reports Show Trump Holds $250K in ETH\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/Ethereum_Price_Prediction_As_Liquid_Staking_Hits_New_2023_High-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Trading cryptocurrencies can be tricky for inexperienced players. But for smart money traders, price swings can be vital for making gains, and that was the case with a trader who has made $3 million in profit from trading Ethereum [ETH]. 20 Wins Out of 25 According to Lookonchain, this trader sold all of his ETH [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/can-eth-give-traders-a-3-million-profit-like-one-smart-money/\">Can ETH Give Traders a $3 Million Profit Like One ‘Smart Money’?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-04T12:49:07.000Z",
+    "title": "BNB Continues to Rise While Analyst Shares His Bearish Outlook",
+    "url": "https://coinedition.com/bnb-continues-to-rise-while-analyst-shares-his-bearish-outlook/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/38831_BNB_13057958_USD_transferred_from_Binance_to_unknown-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency trader and analyst that goes by the X username il Capo Of Crypto revealed in a post yesterday that he is bearish towards Binance Coin (BNB). According to the post, many indicators such as “PA, heatmaps, IO and fundings are similar to FTT or LUNA before the crash.” In a post last year, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bnb-continues-to-rise-while-analyst-shares-his-bearish-outlook/\">BNB Continues to Rise While Analyst Shares His Bearish Outlook</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-04T12:45:19.000Z",
+    "title": "‘Giant Whale’ Accumulates 41,779 Ethereum (ETH) Worth $76,800,000 Since September: On-Chain Data",
+    "url": "https://dailyhodl.com/2023/12/04/giant-whale-accumulates-41779-ethereum-eth-worth-76800000-since-september-on-chain-data/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/06/Whales-Accumulating-Nearly-26.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A large entity has been spotted buying up massive amounts of Ethereum over the past two months as ETH makes moves to the upside, according to blockchain tracker Lookonchain. Lookonchain says that a &#8220;giant whale&#8221; has accumulated over $76.8 million worth of ETH since September and is in profit by more than $13 million. &#8220;This [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/04/giant-whale-accumulates-41779-ethereum-eth-worth-76800000-since-september-on-chain-data/\">‘Giant Whale’ Accumulates 41,779 Ethereum (ETH) Worth $76,800,000 Since September: On-Chain Data</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

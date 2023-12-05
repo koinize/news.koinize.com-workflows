@@ -1,58 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-05T06:46:22.000Z",
-    "title": "Early Ether Investor Moves Nearly $90M ETH to Kraken ",
-    "url": "https://www.coindesk.com/markets/2023/12/05/early-ether-investor-moves-nearly-90m-eth-to-kraken/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Moving to an exchange could suggest the investor is likely to sell the asset for stablecoins or other tokens."
+    "source": "Cointelegraph",
+    "date": "2023-12-05T07:13:52.000Z",
+    "title": " Web3 firm detects major security flaw in common smart contracts ",
+    "url": "https://cointelegraph.com/news/web3-firm-security-flaw-common-smart-contracts",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMzc0YWFjZTktNzZiNC00NmVmLWE2NjktOWM1MDI4MjM5YmQzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A security vulnerability potentially affecting hundreds of smart contracts that were pre-built using a commonly used open-source library has been reported by Web3 firm Thirdweb.</p>\n                    <p><p >Smart contract development firm Thirdweb reported a security vulnerability that potentially “impacts a variety of smart contracts across the Web3 ecosystem.”</p><p >On Dec. </p><p >Highlighting the vulnerability’s potential to cause massive damage if not rectified immediately, Thirdweb <a href=\"https://twitter.com/thirdweb/status/1731841493407576247\" target=\"_blank\" rel=\"noopener nofollow\">stated</a>:</p><blockquote >“The impacted pre-built contracts include but are not limited to DropERC20, ERC721, ERC1155 (all versions), and AirdropERC20.”</blockquote><p >Following the proactive warning to Web3 ecosystem, the firm cautioned users who deployed its contracts before Nov. </p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">IMPORTANT <br><br>On November 20th, 2023 6pm PST, we became aware of a security vulnerability in a commonly used open-source library in the web3 industry.<br><br>This impacts a variety of smart contracts across the web3 ecosystem, including some of thirdweb’s pre-built smart contracts.…</p>&mdash; thirdweb (@thirdweb) <a href=\"https://twitter.com/thirdweb/status/1731841493407576247?ref_src=twsrc%5Etfw\">December 5, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p >Thirdweb also advised developers to help users revoke approvals on all affected contracts using revoke.cash, “which will protect your users if you choose not to mitigate the contract,” DefiLlama developer “0xngmi” commented on the request to revoke approvals.</p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">btw this seems important, theyre asking to revoke all approvals to third web contracts (you might have interacted with them without knowing as theyre white-labelled, especially if you do stuff around nfts) <a href=\"https://t.co/T1YU9xnIRb\">https://t.co/T1YU9xnIRb</a></p>&mdash; 0xngmi (@0xngmi) <a href=\"https://twitter.com/0xngmi/status/1731889230387814893?ref_src=twsrc%5Etfw\">December 5, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p >Thirdweb has contacted the maintainers of the open-source library at the root of the vulnerability and contacted other teams potentially impacted by the issue.</p><p >It also pledged to increase investment in security measures and double bug bounty payouts from $25,000 to $50,000 while implementing a more rigorous auditing process. </p><p><a href=\"https://cointelegraph.com/news/web3-firm-security-flaw-common-smart-contracts\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-12-05T06:40:35.000Z",
-    "title": "BlackRock Received $100K Seed Funding for Spot Bitcoin ETF",
-    "url": "https://www.coindesk.com/business/2023/12/05/blackrock-received-100k-seed-funding-for-spot-bitcoin-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The unknown seed investor agreed to purchase $100,000 shares on October 27, 2023, BlackRock’s latest filing reveals."
+    "source": "Bitcoin.com",
+    "date": "2023-12-05T07:30:56.000Z",
+    "title": "Minnesota Power Co-op Accuses Couple of Major Electricity Theft for Bitcoin Farm Operation",
+    "url": "https://news.bitcoin.com/minnesota-power-co-op-accuses-couple-of-major-electricity-theft-for-bitcoin-farm-operation/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Minnesota Power Co-op Accuses Couple of Major Electricity Theft for Bitcoin Farm Operation\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/electric.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a case that intertwines crypto mining and utility theft, a Minnesota power company, North Star Electric Cooperative, has accused a former couple, Ryan Jaenicke and Tina Fehlhaber, of stealing vast amounts of electricity. The alleged scheme, detailed in a 19-page civil suit filed in Roseau County Court, was purportedly to power a bitcoin farm [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-05T06:48:07.000Z",
-    "title": "Microsoft’s Billions and OpenAI’s Pivot – The Unsettling Truth About AI’s Future",
-    "url": "https://www.cryptopolitan.com/microsofts-billions-and-openais-pivot/",
-    "description": "In a seismic shift that reverberated through the tech industry, the firing and reinstatement of Sam Altman as the head of OpenAI offered a stark revelation of the immense influence wielded by big corporations and a select few individuals in steering the course of artificial intelligence. This saga unveils the broader narrative of how corporate ... <a title=\"Microsoft&#8217;s Billions and OpenAI&#8217;s Pivot &#8211; The Unsettling Truth About AI&#8217;s Future\" class=\"read-more\" href=\"https://www.cryptopolitan.com/microsofts-billions-and-openais-pivot/\" aria-label=\"More on Microsoft&#8217;s Billions and OpenAI&#8217;s Pivot &#8211; The Unsettling Truth About AI&#8217;s Future\">Read more</a>"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-05T06:49:49.000Z",
-    "title": "Ripple to Experience Price Correction – CoinGecko Shares a Report Regarding TRON, Everlodge AI Tool To Make Waves",
-    "url": "https://nulltx.com/ripple-to-experience-price-correction-coingecko-shares-a-report-regarding-tron-everlodge-ai-tool-to-make-waves/",
-    "description": "Despite the top cryptocurrencies recording new heights during the year, Ripple (XRP) has struggled to break out of a critical resistance level at $0.64. The cryptocurrency has faced repeated rejection to reach this range, highlighting a strong liquidation point. TRON (TRX), on the other hand, had a successful year, recording [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-05T06:48:17.000Z",
-    "title": "Crypto Analysts: Tron (TRX) on the Verge of Rising to $0.130 Before 2023 Ends",
-    "url": "https://nulltx.com/crypto-analysts-tron-trx-on-the-verge-of-rising-to-0-130-before-2023-ends/",
-    "description": "The crypto market has been abuzz with discussions about the potential Tron (TRX) surge as analysts predict a significant climb toward $0.130 before the culmination of 2023. Today, we will look closer to see if this prediction can come true in that time frame while also focusing on one project [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-05T07:00:25.000Z",
-    "title": "BlackRock and Bitwise amended applications for spot Bitcoin ETF yet again",
-    "url": "https://crypto.news/blackrock-and-bitwise-amended-applications-for-spot-bitcoin-etf-yet-again/",
-    "description": "Asset manager BlackRock has updated its application to launch the first-ever spot Bitcoin ETF in U.S. The document appeared on the website of the U.S. Securities and Exchange Commission (SEC). Bitwise has also updated its application to launch a similar tool.&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-05T06:57:59.000Z",
-    "title": "Nearly 50% of crypto investigations in 2022 involved tax issues, IRS says",
-    "url": "https://crypto.news/nearly-50-of-crypto-investigations-in-2022-involved-tax-issues-irs-says/",
-    "description": "Crypto investigations are no longer focused on money laundering as about half of the crypto probes in 2022 involved tax, the IRS says. As per a Bloomberg report, Jim Lee, head of the Internal Revenue Service&#8217;s (IRS) criminal investigation division&#8230;"
+    "date": "2023-12-05T07:23:13.000Z",
+    "title": "Analysts: Panic buying fueled Bitcoin’s surge to $42K – How far will the market fall?",
+    "url": "https://www.cryptopolitan.com/panic-buying-fueled-bitcoins-surge-to-42k/",
+    "description": "Christmas came in early for Bitcoin investors. The recent surge of Bitcoin to an astonishing $42,000 has left analysts and enthusiasts alike scrambling to decipher the driving forces behind this sudden ascent. As panic buying gripped the market, fueled by a complex interplay of factors such as global economic uncertainties, regulatory developments, and institutional interest, ... <a title=\"Analysts: Panic buying fueled Bitcoin&#8217;s surge to $42K &#8211; How far will the market fall?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/panic-buying-fueled-bitcoins-surge-to-42k/\" aria-label=\"More on Analysts: Panic buying fueled Bitcoin&#8217;s surge to $42K &#8211; How far will the market fall?\">Read more</a>"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-05T07:00:17.000Z",
-    "title": "Bybit Hits 5-Year Milestone: CEO Ben Zhou Discusses the Crypto Leader’s Journey",
-    "url": "https://www.crypto-news-flash.com/bybit-hits-5-year-milestone-ceo-ben-zhou-discusses-the-crypto-leaders-journey/?utm_source=rss&utm_medium=rss&utm_campaign=bybit-hits-5-year-milestone-ceo-ben-zhou-discusses-the-crypto-leaders-journey",
-    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bybit-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bybit-2.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bybit-2-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bybit-2-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bybit-2-768x432.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />It&#8217;s been five years since Bybit launched and in that time, it has become a leader in crypto and the world&#8217;s third-largest cryptocurrency exchange by volume. Founder Ben Zhou looked back at the journey and discussed the challenges the exchange has overcome and the significant milestones it has achieved, the latest being launching in Dubai. [...]"
+    "date": "2023-12-05T07:23:37.000Z",
+    "title": "Ripple’s XRP Revolution: Processing 293M+ Transactions Daily and 3,400 TPS – Paving the Way for $5 Price",
+    "url": "https://www.crypto-news-flash.com/ripples-xrp-revolution-processing-293m-transactions-daily-and-3400-tps-paving-the-way-for-5-price/?utm_source=rss&utm_medium=rss&utm_campaign=ripples-xrp-revolution-processing-293m-transactions-daily-and-3400-tps-paving-the-way-for-5-price",
+    "description": "<img width=\"1024\" height=\"682\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/XRP-RIPPLE-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"XRP\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/XRP-RIPPLE-1.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/XRP-RIPPLE-1-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/XRP-RIPPLE-1-768x512.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/XRP-RIPPLE-1-104x69.png 104w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />XRP&#8217;s potential to process 3,400 transactions per second highlights its strength as a global financial tool. Real-world application may vary, with practical transaction speeds between 500 and 700 TPS. In the bustling heart of New York City, Times Square, Ripple&#8217;s XRP is making significant waves. The digital asset, known for its high transaction capacity, has [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-12-05T07:16:47.000Z",
+    "title": "Bengaluru’s Premier Web3 Event, BlockTalks, Returns for a Spectacular Second Edition",
+    "url": "https://coinedition.com/bengalurus-premier-web3-event-blocktalks-returns-for-a-spectacular-second-edition/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/pr-2-78.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/pr-2-78.jpg 730w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/pr-2-78-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Blockopedia, a leading web3 news publication is excited to announce the second edition of its BlockTalks event series, slated to take place in Bengaluru, Karnataka on December 7. This event, following a highly successful inaugural edition in Gurugram, marks a significant step in bringing together the brightest minds and enthusiasts in India&#8217;s burgeoning tech [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bengalurus-premier-web3-event-blocktalks-returns-for-a-spectacular-second-edition/\">Bengaluru&#8217;s Premier Web3 Event, BlockTalks, Returns for a Spectacular Second Edition</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

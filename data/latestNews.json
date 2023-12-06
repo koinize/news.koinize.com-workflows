@@ -1,72 +1,65 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-06T16:24:23.000Z",
-    "title": "Coinbase Adds Message-Based Crypto Payments to Its Decentralized Wallet",
-    "url": "https://www.coindesk.com/business/2023/12/06/coinbase-adds-message-based-crypto-payments-to-its-decentralized-wallet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Crypto exchange Coinbase (COIN) has updated its decentralized wallet, adding a low-cost way for users to instantly send money to each other through messaging apps by adding features that seem to emulate payments giant Paypal."
+    "date": "2023-12-06T16:54:27.000Z",
+    "title": "BlackRock Spot BTC ETF Seed Funding is a Step Forward, but Just a Step",
+    "url": "https://www.coindesk.com/business/2023/12/06/blackrock-spot-btc-etf-seed-funding-is-a-step-forward-but-just-a-step/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Asset manager BlackRock (BLK) turned some heads earlier this week when an updated prospectus for its spot bitcoin ETF application included a disclosure that it had collected $100,000 in seed capital for the fund."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-06T16:45:00.000Z",
+    "title": "Why Are Pros Craving a Spot Bitcoin ETF?",
+    "url": "https://www.coindesk.com/business/2023/12/06/why-are-pros-craving-a-spot-bitcoin-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The fundamentals of investing give an answer, and the impact from BTC ETFs from the likes of BlackRock and Fidelity could be huge."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-06T16:45:00.000Z",
+    "title": "Bitcoin and the Predictability of Crypto Market Cycles",
+    "url": "https://www.coindesk.com/markets/2023/12/06/bitcoin-and-the-predictability-of-crypto-market-cycles/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "History shows there's likely a bright year ahead for BTC's price."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-06T16:58:53.000Z",
+    "title": "Beyond Bard: Google Launches Gemini, a Multimodal AI to Challenge ChatGPT",
+    "url": "https://decrypt.co/208845/beyond-bard-google-launches-gemini-a-multimodal-ai-to-challenge-chatgpt",
+    "description": "At first glance, Gemini demonstrates unprecedented capabilities in understanding and integrating text, image, audio, and video."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-06T16:27:04.000Z",
-    "title": " Binance suspends euro stablecoin after 200% price surge ",
-    "url": "https://cointelegraph.com/news/euro-stablecoin-suspended-binance-200-percent-surge-price",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZWJlMTNmMGYtMmM2Ny00NTExLWE0YzAtMWRhYWRmMjM0NGU3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>\"We will assist the AEUR project team to provide reasonable compensation to affected users\" within 72 hours, the exchange said. </p>\n                    <p><p>Crypto exchange Binance is reimbursing users and delisting the Anchored Coins Euro stablecoin (AEUR) after the token surged more than 200% in value after listing.</p><p>According to the Dec. 6 <a href=\"https://www.binance.com/zh-CN/support/announcement/aeur%E7%8E%B0%E8%B4%A7%E4%BA%A4%E6%98%93%E7%9B%B8%E5%85%B3%E6%9B%B4%E6%96%B0-2023-12-06-7a7eef8366b7459494e7b2f7d935dbad\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, Binance will compensate users who purchased AEUR at an inflated valuation and failed to sell it after trading was halted earlier in the day. Affected users will receive a portion of the premium amount above the peg of 1 AEUR = 1.08 Tether (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>) as a refund. The exchange wrote: </p><p>The <a href=\"https://cointelegraph.com/news/bitcoin-up-170-since-ecb-last-gasp-16-4-k\">large price volatility</a> also affected the pricing of various AEUR trading pairs, including Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) and the euro, which also falls within the scope of the exchange's compensation plan. \"To avoid potential losses for other investors, the resumption time of the above AEUR spot trading pairs will be notified separately,\" Binance said. The coin is currently suspended for trading on the exchange.</p><p><a href=\"https://cointelegraph.com/news/euro-stablecoin-suspended-binance-200-percent-surge-price\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-06T17:00:00.000Z",
+    "title": " Game studios quietly integrate blockchain without the buzzword ",
+    "url": "https://cointelegraph.com/news/game-studios-quietly-integrate-blockchain-without-buzzword",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMTM2ODhjYWItMDUzOS00OGUyLTk4NDEtNDFiY2UyYzBiOGNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Blockchain technology is facing backlash from players and gaming developers, forcing some studios to avoid \"buzzwords\" tied with Web3. </p>\n                    <p><p>Cointelegraph was on the ground during the second edition of the Madeira Blockchain 2023, held between Nov. 30 and Dec. 1. The event featured regional Web3 developments, as well as how the Portuguese islands <a href=\"https://cointelegraph.com/news/madeira-boost-economy-startups-payment-system\">are looking for startups and tech talent to grow their economy</a> in the digital age.</p><p>During a roundtable discussion at the conference, studios working on blockchain features discussed the challenges associated with integrating the technology into games, including acceptance from game developers, players and publishers.</p><p>Redcatpig is a Web3 studio engaged in developing blockchain features, but the firm ran into obstacles integrating the technology into its pipeline. \"One of the toughest challenges I faced was communicating with my internal team to help them understand that this [blockchain] technology can greatly benefit gamers and enhance games,\" noted Marco Bettencourt, CEO of Redcatpig.</p><p><a href=\"https://cointelegraph.com/news/game-studios-quietly-integrate-blockchain-without-buzzword\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-06T17:00:20.000Z",
+    "title": "Digital assets defy traditional market trends amid signs of economic slowdown",
+    "url": "https://cryptoslate.com/insights/digital-assets-defy-traditional-market-trends-amid-signs-of-economic-slowdown/",
+    "description": "<p>Quick Take As recent data suggests a potential economic deceleration, traditional market indicators and digital assets seem to be subtly treading two different paths. Notably, US oil prices have dropped over 20% from $90 a barrel in October to below $70, a significant movement as oil often reflects global demand. Simultaneously, the US10Y yield, a [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/digital-assets-defy-traditional-market-trends-amid-signs-of-economic-slowdown/\">Digital assets defy traditional market trends amid signs of economic slowdown</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-06T16:36:55.000Z",
-    "title": "Expert Trader Who Predicted Solana (SOL) And Cardano (ADA) Price Rally, Says Pullix (PLX) Tokens Could 100x Next",
-    "url": "https://cryptodaily.co.uk/2023/12/expert-trader-who-predicted-solana-sol-and-cardano-ada-price-rally-says-pullix-plx-tokens-could-100x-next",
-    "description": "Some seasoned traders demonstrate an uncanny knack for picking out the next big cryptocurrency before it becomes mainstream"
+    "date": "2023-12-06T17:02:35.000Z",
+    "title": "Ripple (XRP) Beats 68% of Altcoins, But Sees December Bull Run Waver – What's the Catch?",
+    "url": "https://cryptodaily.co.uk/2023/12/ripple-xrp-beats-68-of-altcoins-but-sees-december-bull-run-waver-whats-the-catch",
+    "description": "Explore the latest market saga of Ripple (XRP) as it faces unexpected challenges in December, despite surpassing most of its altcoin peers. Our concise yet thorough analysis examines the factors influencing the altcoin's current dilemma, shedding light on the reasons behind its bull run's uncertainty. Stay updated with our expert insights, offering a clear perspective on the XRP fluctuating fortunes and navigate the complexities of the crypto market with confidence."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-06T16:23:05.000Z",
-    "title": "Explosive Growth: Japan's CGV Injects $5 Million into Ethereum's Layer 2 as Meme Moguls' Platform Attracts Surge of Investment Inflows",
-    "url": "https://cryptodaily.co.uk/2023/12/explosive-growth-japans-cgv-injects-5-million-into-ethereums-layer-2-as-meme-moguls-platform-attracts-surge-of-investment-inflows",
-    "description": "Since the launch of Ethereum's much-anticipated Layer 2 Blast network, the crypto community has been filled with keen interest and some reservations."
+    "source": "NewsBTC",
+    "date": "2023-12-06T17:00:34.000Z",
+    "title": "Solana-Powered Helium (HNT) Spikes By 145%, Analyzing The Drivers Of The Surge",
+    "url": "https://www.newsbtc.com/helium-hnt/solana-powered-helium-hnt-spikes-by-145-analyzing-the-drivers-of-the-surge/",
+    "description": "Helium (HNT), a decentralized network launched in 2019, has experienced significant gains across multiple timeframes, making it one of the top performers in the cryptocurrency market. This price surge comes alongside Solana&#8217;s (SOL) remarkable 56% increase over the past 30 days and other protocols built on Solana&#8217;s network. HNT has achieved staggering gains over the past 30 days, surpassing 147%. This remarkable growth has continued with gains of 101% and 45% over the past fourteen and seven days, respectively.  In the 24-hour time frame alone, HNT reached a high of $5.008 and experienced a remarkable surge of 53%, a level not seen since October 2022. But what are the main catalysts behind this spike? Helium&#8217;s Mobile Service Launch Ignites HNT Investor Frenzy The recent surge in HNT&#8217;s price can be attributed to the announcement made by the Helium network on December 5. The network revealed that users across the United States can now enjoy unlimited data, voice, and text services for a monthly fee of $20 through their newly launched mobile service. Related Reading: Tether (USDT) Cap Approaches $90 Billion: Why This Affects Bitcoin According to recent reports, Helium Mobile, a subsidiary of Nova Labs, introduced this no-contract nationwide mobile service, aiming to provide consumers with an affordable and unrestricted mobile experience.  This move comes when major carriers have been imposing data limits, increasing contract obligations, and raising prices, making Helium&#8217;s offering particularly appealing to users seeking more flexible and cost-effective options. By offering unlimited data, voice, and text services for a flat fee of $20 per month, Helium Mobile aims to address the growing demand for affordable and unrestricted mobile connectivity.  According to the announcement, the company aims to empower customers by putting control back into their hands, challenging the practices of traditional carriers. CEO Amir Haleem Calls For Transparency In Mobile Industry Amir Haleem, CEO of Nova Labs, emphasized the company&#8217;s belief that cell phones are essential and that unlimited data, text, and calls should be standard offerings.  Haleem criticized carriers for concealing high subscription rates, roaming fees, and additional data charges behind seemingly attractive phone upgrade options that often lock customers into costly plans for extended periods. In addition to its mobile service, Helium Mobile supports a people-powered coverage model, allowing customers to become network owners and operators. Like platforms like Airbnb or Uber, the company believes that “reducing monopolies” and empowering customers can improve service quality, lower costs, and overall benefits for all stakeholders. Related Reading: Crypto Analyst Predicts Dogecoin Price Pump Of Epic Proportions To $0.7, Here’s When As the demand for reliable and affordable mobile services grows, Helium&#8217;s approach has positioned it as a key player in the industry. This announcement has propelled HNT&#8217;s price upward as investors recognize the potential of Helium&#8217;s approach in the mobile service sector. The trading price of HNT stands at $4.153, marking a significant breakout from its downtrend structure of the past 11 months. The cryptocurrency is now targeting its next resistance level at $4.70.  However, should HNT fail to surpass this resistance, it will be crucial for the coin to maintain support at the $3.00 level to sustain its current bullish momentum. Featured image from Shutterstock, chart from TradingView.com "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-06T16:16:49.000Z",
-    "title": "3 Best Cryptocurrencies Surging Right Now: Stacks, Pepe, Everlodge",
-    "url": "https://cryptodaily.co.uk/2023/12/3-best-cryptocurrencies-surging-right-now-stacks-pepe-everlodge",
-    "description": "As Bitcoin reaches new highs not seen since the last bull market, altcoins are surging, but some are doing better than ever."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-06T16:15:14.000Z",
-    "title": "Bitcoin Ordinals flaw addressed, paving the way for a stronger crypto future",
-    "url": "https://www.cryptopolitan.com/bitcoin-ordinals-flaw-addressed/",
-    "description": "In a significant development within the Bitcoin community, Luke Dashjr, a Bitcoin Core developer, recently highlighted a critical issue affecting the network. On December 6, through a post on X, Dashjr brought attention to exploiting a vulnerability in the Bitcoin Core, a fundamental software used for transactions. According to Dashjr, this issue has contributed to ... <a title=\"Bitcoin Ordinals flaw addressed, paving the way for a stronger crypto future\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-ordinals-flaw-addressed/\" aria-label=\"More on Bitcoin Ordinals flaw addressed, paving the way for a stronger crypto future\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-06T16:13:28.000Z",
-    "title": "Polyhedra Network Enhances User Experience with Trust Wallet Integration",
-    "url": "https://www.cryptopolitan.com/polyhedra-network-trust-wallet-integration/",
-    "description": "In a move that marks a new era of interoperability and security in the blockchain space, Polyhedra Network, a rising star in the ZK (Zero-Knowledge) infrastructure domain, has announced its latest development: the integration of Trust Wallet into its network. The strategic addition is set to provide users with an unprecedented level of security and ... <a title=\"Polyhedra Network Enhances User Experience with Trust Wallet Integration\" class=\"read-more\" href=\"https://www.cryptopolitan.com/polyhedra-network-trust-wallet-integration/\" aria-label=\"More on Polyhedra Network Enhances User Experience with Trust Wallet Integration\">Read more</a>"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-06T16:23:07.000Z",
-    "title": "Buy XRP, not Bitcoin, analyst suggests",
-    "url": "https://crypto.news/buy-xrp-not-bitcoin-analyst-suggests/",
-    "description": "Data shows XRP becoming a top traded crypto pair, causing one analyst to forecast a period of accelerated growth benefiting XRP."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-06T16:10:19.000Z",
-    "title": "Heavy metal band Megadeth launches generative NFT collection",
-    "url": "https://crypto.news/heavy-metal-band-megadeth-launches-generative-nft-collection/",
-    "description": "Heavy metal band Megadeth took to X on Dec. 5 to announce the introduction of its 5000-piece generative collection featuring the band’s mascot, Vic Rattlehead. "
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-06T16:26:00.000Z",
-    "title": "Luna Classic (LUNC): A Lucrative Investment Opportunity?",
-    "url": "https://coinedition.com/luna-classic-lunc-a-lucrative-investment-opportunity/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Luna Classic (LUNC): A Lucrative Investment Opportunity?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Luna Classic (LUNC): A Lucrative Investment Opportunity?</p>\n<p>The post <a href=\"https://coinedition.com/luna-classic-lunc-a-lucrative-investment-opportunity/\">Luna Classic (LUNC): A Lucrative Investment Opportunity?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-12-06T17:06:13.000Z",
+    "title": "Bitcoin Futures Open Interest Nears 2021 All-Time High: Is a Bull Run Imminent?",
+    "url": "https://www.crypto-news-flash.com/bitcoin-futures-open-interest-nears-2021-all-time-high-is-a-bull-run-imminent/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-futures-open-interest-nears-2021-all-time-high-is-a-bull-run-imminent",
+    "description": "<img width=\"1280\" height=\"848\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Brics Bitcoin vs Gold\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-1024x678.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-768x509.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/bitcoin-g79c18d319_1280-104x69.jpg 104w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Bitcoin futures open interest on CME is reported to have hit a different level as it is only $200 million shy of its late October 2021 all-time high.  While many analysts and experts attribute this run to the potential spot Bitcoin ETF approval and the upcoming Bitcoin halving event, analyst Tony Sycamore looks beyond.  The [...]"
   }
 ]

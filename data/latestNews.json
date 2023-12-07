@@ -1,93 +1,65 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-07T16:21:40.000Z",
-    "title": "Robinhood Broadens Crypto Service to Europe, Notes Region's Digital Asset Regulation",
-    "url": "https://www.coindesk.com/business/2023/12/07/robinhood-broadens-crypto-service-to-europe-notes-regions-digital-asset-regulation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The company said it chose Europe to anchor its crypto expansion outside the U.S. because of the region's comprehensive rules."
+    "date": "2023-12-07T16:55:02.000Z",
+    "title": "Jack Dorsey's Block Bitkey Bitcoin Wallet Comes to Market in More Than 95 Countries",
+    "url": "https://www.coindesk.com/tech/2023/12/07/jack-dorseys-block-bitkey-bitcoin-wallet-comes-to-market-in-more-than-95-countries/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Jack Dorsey's company's new self-custody wallet consists of an app, hardware device and recovery tools."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-07T16:34:11.000Z",
-    "title": " Jack Dorsey&#039;s Block Inc. launches self-custody Bitcoin wallet ",
-    "url": "https://cointelegraph.com/news/jack-dorsey-block-launches-self-custody-bitcoin-wallet",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvY2M1MDU4NDQtMWY1Yi00YjQ3LTliYTItZjc0Mzg3MTU0ZjhiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Users who lose their Bitkey wallet don't need to input a seed phrase to recover funds, the company said. </p>\n                    <p><p>Financial payment processor Block, co-founded by Jack Dorsey, has launched its self-custody Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) wallet.</p><p>Dubbed \"Bitkey,\" developers said during the Dec. 7 <a href=\"https://www.businesswire.com/news/home/20231207228680/en/Self-Custody-Bitcoin-Wallet-Bitkey-Built-by-Block-Inc.-Launches-Globally-Widening-Access-to-True-Financial-Ownership\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a> that the wallet, available as a mobile app or hardware storage, will be accessible in over 95 countries. Bitkey will feature a two-of-three multi-signature wallet consisting of a mobile key, a hardware key, and a server key, with a secure hardware device alongside recovery tools in the event of loss. It will require both the user's fingerprint and phone to approve transactions. The first global partners for Bitkey include Coinbase and Cash App.</p><p>\"Bitkey uses three keys to secure Bitcoin, and any two keys working together are needed to move Bitcoin or approve other security-related actions like initiating recovery or modifying security settings,\" Block stated. \"Because Bitkey only has access to one, not two or three keys in this 2-of-3 multi-signature wallet, Bitkey cannot access or move a customer's bitcoin without them.\" </p><p><a href=\"https://cointelegraph.com/news/jack-dorsey-block-launches-self-custody-bitcoin-wallet\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-12-07T16:45:00.000Z",
+    "title": "Crypto for Advisors: On-Chain Investment Tools and Vehicles",
+    "url": "https://www.coindesk.com/business/2023/12/07/crypto-for-advisors-onchain-investment-tools-and-vehicles/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "What are on-chain index products and how do they work? In today’s Crypto for Advisor newsletter Jordan Tonani from Index Coop takes us through the topic."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-07T16:24:29.000Z",
-    "title": " &#039;Early bull market&#039; — Bitcoin price preps 1st ever weekly golden cross ",
-    "url": "https://cointelegraph.com/news/early-bull-market-bitcoin-price-1st-ever-weekly-golden-cross",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNzA1YTYxMmQtZThhMy00ZTgwLTlhN2EtNGI3ZGE1ZjkwNzU0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin is lining up a never-before-seen bull signal which could print on the Bitcoin chart by the start of 2024.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is lining up an “early bull market” as a unique chart feature plays out for the first time in history.</p><p>In a <a href=\"https://twitter.com/alistairmilne/status/1732779358887027135/photo/1\" target=\"_blank\" rel=\"noopener nofollow\">post</a> on X (formerly Twitter) on Dec. 7, entrepreneur Alistair Milne drew attention to Bitcoin’s first ever weekly “golden cross.”</p><p>Recent BTC price upside has delivered considerable profits to various Bitcoin investor cohorts, but 165% year-to-date gains are now significant for another reason.</p><p><a href=\"https://cointelegraph.com/news/early-bull-market-bitcoin-price-1st-ever-weekly-golden-cross\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-12-07T17:01:08.000Z",
+    "title": "Gamers Can Now Livestream to Twitter via Streamlabs",
+    "url": "https://decrypt.co/208972/gamers-can-now-livestream-twitter-streamlabs",
+    "description": "Streamlabs’ new X feature allows gamers to go live on Twitter from a phone or computer."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-07T16:12:14.000Z",
-    "title": " Montenegrin official plans to extradite Do Kwon to the United States: Report ",
-    "url": "https://cointelegraph.com/news/montenegro-extradition-do-kwon-united-states-report",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNWJlZGZiZGUtZjVjNC00YzBlLTliOTItNWNkNjczOWFkNmQzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Terraform Labs co-founder had been awaiting extradition to either the United States or South Korea after being arrested and charged in Montenegro.</p>\n                    <p><p>Terraform Labs co-founder <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/do-kwon\">Do Kwon</a> will reportedly be extradited to the United States rather than South Korea to face criminal charges.</p><p>According to a Dec. 7 Wall Street Journal report citing people familiar with the matter, Justice Minister Andrej Milovic in Montenegro <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-07-2023/card/exclusive-montenegro-plans-to-extradite-fallen-crypto-tycoon-do-kwon-to-u-s--go9pVSEoANWEjPKGAfD6\" target=\"_blank\" rel=\"noopener nofollow\">plans</a> to grant U.S. officials’ request for extradition. Kwon was arrested in Montenegro in March and sentenced to four months in prison for using falsified travel documents but has also been <a href=\"https://cointelegraph.com/news/do-kwon-faces-fraud-charges-from-us-prosecutors-hours-after-arrest\" >charged in the U.S.</a> and South Korea for his alleged role in the collapse of Terraform Labs.</p><p>Milovic reportedly said the announcement would be made public “in a timely manner”. </p><p><a href=\"https://cointelegraph.com/news/montenegro-extradition-do-kwon-united-states-report\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-12-07T17:01:00.000Z",
+    "title": "Montenegro Set to Extradite Terra Co-Founder Do Kwon to US: Report",
+    "url": "https://decrypt.co/208983/montenegro-extradite-terra-co-founder-do-kwon-us",
+    "description": "The Terraform Labs co-founder has been caught in a jurisdictional tug-of-war between the U.S. and his native South Korea."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-12-07T16:35:22.000Z",
-    "title": "Phoenix Group secures $380M deal for sustainable Bitcoin mining equipment",
-    "url": "https://cryptoslate.com/phoenix-group-secures-380m-deal-for-sustainable-bitcoin-mining-equipment/",
-    "description": "<p>Bitcoin (BTC) miner Phoenix Group secured a $380 million hardware deal from Whatsminer less than two days after its stock debuted on the Abu Dhabi Securities Exchange (ADX). In a Dec. 7 statement, the miner stated it would take immediate delivery of $136 million worth of mining equipment, with an additional option worth $246 million. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/phoenix-group-secures-380m-deal-for-sustainable-bitcoin-mining-equipment/\">Phoenix Group secures $380M deal for sustainable Bitcoin mining equipment</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CryptoGlobe",
+    "date": "2023-12-07T16:49:16.000Z",
+    "title": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/sui-joins-defi-leaders-topping-100m-in-bridged-usdc/",
+    "description": "GRAND CAYMAN, Cayman Islands, December 7th, 2023, Chainwire Only seven months from the network’s launch, Sui is bridging more USDC liquidity than multiple native chains. Sui, the groundbreaking Layer 1 blockchain created by the technology experts who led Meta’s Diem blockchain initiative and created the Move smart contract language, continues its explosive ascent in decentralized […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-07T16:19:06.000Z",
-    "title": "The Next Big Players in the Crypto Space: Aave (AAVE), Ripple (XRP), and Meme Moguls (MGLS)",
-    "url": "https://cryptodaily.co.uk/2023/12/the-next-big-players-in-the-crypto-space-aave-aave-ripple-xrp-and-meme-moguls-mgls",
-    "description": "New cryptos are created daily, but only a few hold the same potential as Aave (AAVE), Ripple (XRP), and Meme Moguls (MGLS)."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-07T16:18:15.000Z",
-    "title": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC",
-    "url": "https://cryptodaily.co.uk/2023/12/sui-joins-defi-leaders-topping-100m-in-bridged-usdc",
-    "description": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-07T16:35:50.000Z",
-    "title": "Hex Price Prediction 2023-2032: The Highest of Stakes",
-    "url": "https://www.cryptopolitan.com/hex-price-prediction/",
-    "description": "HEX Price Prediction 2023-2032 HEX Price Prediction 2023 &#8211; up to $0.013 HEX Price Prediction 2026 &#8211; up to $0.039 HEX Price Prediction 2029 &#8211; up to $0.12 HEX Price Prediction 2032 &#8211; up to $0.30 Here is a primer: &#8220;The Highest of Stakes&#8221; documentary presents an intriguing and complex story about Richard Heart, the ... <a title=\"Hex Price Prediction 2023-2032: The Highest of Stakes\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hex-price-prediction/\" aria-label=\"More on Hex Price Prediction 2023-2032: The Highest of Stakes\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-07T16:31:19.000Z",
-    "title": "Russia’s Exved Launches Cross-Border Payments in Tether Stablecoin",
-    "url": "https://www.cryptopolitan.com/russias-exved-payments-tether-stablecoin/",
-    "description": "Exved, one of the first cross-border payment platforms in Russia, has officially announced its launch on December 7. The platform aims to facilitate local legal entities in processing international settlements using cryptocurrencies, marking a significant step forward in the realm of digital finance. Exved, described as a &#8220;digital counterparty search system,&#8221; unveiled its business-to-business (B2B) ... <a title=\"Russia&#8217;s Exved Launches Cross-Border Payments in Tether Stablecoin\" class=\"read-more\" href=\"https://www.cryptopolitan.com/russias-exved-payments-tether-stablecoin/\" aria-label=\"More on Russia&#8217;s Exved Launches Cross-Border Payments in Tether Stablecoin\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-07T16:18:54.000Z",
-    "title": "Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution",
-    "url": "https://www.cryptopolitan.com/deloitte-kilt-blockchain-logistics-solution/",
-    "description": "Deloitte, a prominent division of the &#8220;Big Four&#8221; accounting firms, has collaborated with the Polkadot-based Kilt blockchain to revolutionize logistics and supply-chain services within the shipping industry. The initiative aims to introduce a novel logistics service known as KYX, short for Know Your Client and Know Your Cargo. Hapag-Lloyd, a leading shipping giant, is set ... <a title=\"Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution\" class=\"read-more\" href=\"https://www.cryptopolitan.com/deloitte-kilt-blockchain-logistics-solution/\" aria-label=\"More on Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-07T16:18:18.000Z",
-    "title": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC",
-    "url": "https://www.cryptopolitan.com/sui-joins-defi-leaders-topping-100m-in-bridged-usdc/",
-    "description": "GRAND CAYMAN, Cayman Islands, December 7th, 2023, Chainwire Only 7 months from the network’s launch, Sui is bridging more USDC liquidity than multiple native chains Sui, the groundbreaking Layer 1 blockchain created by the technology experts who led Meta’s Diem blockchain initiative and created the Move smart contract language, continues its explosive ascent in decentralized ... <a title=\"Sui Joins DeFi Leaders, Topping $100M in Bridged USDC\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sui-joins-defi-leaders-topping-100m-in-bridged-usdc/\" aria-label=\"More on Sui Joins DeFi Leaders, Topping $100M in Bridged USDC\">Read more</a>"
+    "date": "2023-12-07T16:50:48.000Z",
+    "title": "Top 3 Altcoins You Need to Keep an Eye On for Major Gains",
+    "url": "https://cryptodaily.co.uk/2023/12/top-3-altcoins-you-need-to-keep-an-eye-on-for-major-gains",
+    "description": "Discover the top three altcoins poised for significant gains in the cryptocurrency market. Stay ahead of the curve with our expert analysis on these promising digital assets that should be on every investor's radar."
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-07T16:22:56.000Z",
-    "title": "Phoenix Group secures $380m contract with Whatsminer post-ADX listing",
-    "url": "https://crypto.news/phoenix-group-secures-380m-contract-with-whatsminer-post-adx-listing/",
-    "description": "Following its listing on the Abu Dhabi Securities Exchange (ADX), Middle Eastern Bitcoin mining company Phoenix Group has announced a new deal with Whatsminer, the second largest Bitcoin mining machine manufacturer."
+    "date": "2023-12-07T16:43:34.000Z",
+    "title": "WSJ: Montenegro mulling Do Kwon’s extradition to the U.S.",
+    "url": "https://crypto.news/wsj-montenegro-mulls-do-kwons-extradition-to-the-u-s/",
+    "description": "The Terraform Labs founder could be moved to the U.S. instead of South Korea to stand trial over a multi-billion ecosystem collapse involving LUNA and UST."
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-07T16:35:39.000Z",
-    "title": "Analyst Sparks Debate: Is XRP’s $50,000 Target More Achievable than Bitcoin’s $500,000?",
-    "url": "https://www.crypto-news-flash.com/analyst-sparks-debate-is-xrps-50000-target-more-achievable-than-bitcoins-500000/?utm_source=rss&utm_medium=rss&utm_campaign=analyst-sparks-debate-is-xrps-50000-target-more-achievable-than-bitcoins-500000",
-    "description": "<img width=\"1472\" height=\"828\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP.jpg 1472w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-768x432.jpg 768w\" sizes=\"(max-width: 1472px) 100vw, 1472px\" />Celebrated crypto analyst Zach Rector initiated a discussion on XRP&#8217;s potential to reach $50,000, drawing a parallel with Bitcoin&#8217;s speculated surge to $500,000. Rector expressed skepticism about Bitcoin&#8217;s feasibility to surpass gold&#8217;s market cap at $500,000 and offered a more optimistic outlook for XRP. Ripple&#8217;s native cryptocurrency XRP has been showing strong price momentum recently [...]"
+    "source": "NewsBTC",
+    "date": "2023-12-07T17:00:19.000Z",
+    "title": "Crypto Pundit Reveals Why Bitcoin Is Worth As Much As $17 Million",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-worth-17-million/",
+    "description": "A crypto pundit and Bitcoin maximalist, Mark Harvey, has explained why he believes the foremost cryptocurrency Bitcoin, is far off from its true potential. According to him, the crypto token could be worth close to $17 million in the future.  Why One Bitcoin Could Worth $17 Million In a post shared on his X (formerly Twitter) platform, Harvey made a strong case for Bitcoin on why it could on why a price even greater than $17 million is likely. He referred to Bitcoin’s use case as a store of value and how it could further chop into the market share of other asset classes. He noted Bitcoin’s “tremendous upside” despite being a relative newcomer. Related Reading: Crypto Analyst Predicts Dogecoin Price Pump Of Epic Proportions To $0.7, Here’s When Bitcoin is said to have 0.1% of the $871 trillion which are invested in global assets. Other global assets that hold a substantial market share include gold and silver, bonds, equities, real estate, and fiat money. Harvey believes that Bitcoin’s price could rally significantly as the foremost cryptocurrency becomes the most preferred option for people to preserve their money. Source: X Harvey stated that the monetary premium of those global assets highlights how much they are used as a store of value. The crypto pundit asserts that Bitcoin has the potential to capture the monetary premiums of other asset classes, which would see its price rise to $17 million with a market cap of $356.7 trillion.  Source: X In his opinion, this is very likely because Bitcoin is a “superior form of property.” If it does happen, the crypto token could also end up capturing 41% of the $871 trillion in global assets. Harvey also provided a more probable scenario as to Bitcoin’s future price. He noted that the crypto token could still rise to as high as $415,000 per token if it captures 1% of global assets. Source: X Is BTC Superior To Other Asset Classes? Harvey labeled Bitcoin as a “superior form of property,” and there is evidence to back up this assertion. As highlighted by the Director of Global Macro at Fidelity Investments, Jurrien Timmer, Bitcoin stands out in comparison to other asset classes.  Related Reading: Bitcoin Pushes Into Extreme Greed, What You Should Expect From Here Source: Fidelity Investments According to data from Fidelity, the flagship cryptocurrency provided the best risk-reward with a 58% return from 2020 to this year. In terms of drawdowns and rallies, Bitcoin also stood out with an 84% gain from its 2-year low. Meanwhile, a recent report by Glassnode noted that Bitcoin continues to lead as one of the best-performing global assets, with a gain of over 140% year to date (YTD). Specifically, Bitcoin has more than doubled in relation to Gold.  BTC price remains above $43,000 &#124; Source: BTCUSD on Tradingview.com Featured image from Coin Culture, chart from Tradingview.com"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-12-07T16:42:00.000Z",
+    "title": "RATS Team Outlines Findings on Token’s Unusual Volume Spike on Gate.io",
+    "url": "https://coinedition.com/rats-team-outlines-findings-on-tokens-unusual-volume-spike-on-gate-io/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/Gate.io-1-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The team behind BRC-20 memecoin RATS has shared their observations regarding a suspicious spike in the token’s trade volume on the crypto exchange Gate.io, which raised speculation and increased FUD around the project.   In a post shared on its official X page, the memecoin’s team alleges that many factors contributed to the spike on the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/rats-team-outlines-findings-on-tokens-unusual-volume-spike-on-gate-io/\">RATS Team Outlines Findings on Token’s Unusual Volume Spike on Gate.io</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

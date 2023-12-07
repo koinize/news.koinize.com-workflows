@@ -1,86 +1,121 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-07T13:01:00.000Z",
-    "title": "First Mover Americas: Crypto on the Agenda at Republican Presidential Debate",
-    "url": "https://www.coindesk.com/markets/2023/12/07/first-mover-americas-crypto-on-the-agenda-at-republican-presidential-debate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Dec. 7, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+    "date": "2023-12-07T13:28:32.000Z",
+    "title": "Galaxy-Backed Gyroscope's 'All-Weather' Decentralized Stablecoin Goes Live on Ethereum Mainnet",
+    "url": "https://www.coindesk.com/markets/2023/12/07/galaxy-backed-gyroscopes-all-weather-decentralized-stablecoin-goes-live-on-ethereum-mainnet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Gyroscope's GYD token aims to protect against the risks of holding stablecoins by offering an alternative to centralized and algorithmic designs."
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-12-07T12:47:21.000Z",
-    "title": "Protocol Village: Lantern Launches Staking Platform in 15 U.S. States",
-    "url": "https://www.coindesk.com/tech/2023/12/06/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 7-Dec. 13, with live updates throughout."
+    "source": "Decrypt",
+    "date": "2023-12-07T13:22:03.000Z",
+    "title": "Auction House Sotheby's Announces First Sale of Bitcoin Ordinals Collection",
+    "url": "https://decrypt.co/208961/auction-house-sothebys-announces-first-sale-of-bitcoin-ordinals-collection",
+    "description": "The sale marks the first occasion on which works from the BitcoinShrooms collection will be made available to the public, Sotheby's said."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-07T13:32:49.000Z",
+    "title": " COP28: Blockchain projects make push to decentralize climate markets ",
+    "url": "https://cointelegraph.com/news/cop28-decentralized-carbon-markets-climate-action-united-nations",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZmFmOTI5MTktYjUyZi00NGNjLWExYTYtNmY1NTJiN2M4Y2U1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Blockchain and crypto projects joined the Climate Change Conference in Dubai and unveiled initiatives focusing on contributing to the fight against climate change. </p>\n                    <p><p>As the 2023 United Nations Climate Change Conference (COP28) takes place in Dubai, United Arab Emirates, many projects participated in the climate action effort by launching blockchain-powered initiatives. </p><p>From Nov. 30 to Dec. 12, diplomats and leaders from across the globe are gathering at Dubai’s Expo City to advance initiatives in climate action. Among those who participated in the event were blockchain projects, which believe that blockchain technology has the power to contribute to the climate action effort. </p><p>From trying to transform waste management to tracking carbon emissions using blockchain technology, blockchain projects joined the effort to save the environment as the most significant climate summit in the world commenced. </p><p><a href=\"https://cointelegraph.com/news/cop28-decentralized-carbon-markets-climate-action-united-nations\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-07T13:25:26.000Z",
+    "title": " Is Google’s Gemini really smarter than OpenAI&#039;s GPT-4? Community sleuths find out  ",
+    "url": "https://cointelegraph.com/news/is-google-s-gemini-really-smarter-than-openai-s-gpt-4-community-sleuths-find-out",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMGFhZjY5MjgtMmYxNy00NWY5LWFmMTEtY2Y3NmM4NjdhZWNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>After Google launched its new high-performance AI model Gemini and claimed it to be far superior to OpenAI’s GPT-4 users on social media began to challenge those claims.  </p>\n                    <p><p>Google <a href=\"https://cointelegraph.com/news/how-to-try-google-new-ai-model-gemini-chatbot\">launched its latest artificial intelligence (AI) model Gemini</a> on Dec. 6, announcing it as the most advanced AI model currently available on the market, surpassing OpenAI’s GPT-4. </p><p>Gemini is multimodal, which means it was built to understand and combine different types of information. It comes in three versions (Ultra, Pro, Nano) to serve different use cases, and one area in which it appears to beat GPT-4 is its ability to perform advanced math and specialized coding. </p><p>On its debut, Google released multiple benchmark tests that compared Gemini with GPT-4. The Gemini Ultra version achieved “state-of-the-art performance” in 30 out of 32 academic benchmarks that were used in large language model (LLM) development.</p><p><a href=\"https://cointelegraph.com/news/is-google-s-gemini-really-smarter-than-openai-s-gpt-4-community-sleuths-find-out\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-07T13:15:50.000Z",
+    "title": "Significant drop in Bitfinex Bitcoin longs as whales cash in",
+    "url": "https://cryptoslate.com/insights/significant-drop-in-bitfinex-bitcoin-longs-as-whales-cash-in/",
+    "description": "<p>Quick Take Analysis of recent data from Datamish offers an enlightening peek into the ongoing behavior of Bitfinex whales, particularly their continual move toward closing their longs. Previously observed by CryptoSlate last week, it was noted that these industry heavyweights closed Bitcoin longs of approximately 12,000 BTC. At November&#8217;s end, the total stood at an [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/significant-drop-in-bitfinex-bitcoin-longs-as-whales-cash-in/\">Significant drop in Bitfinex Bitcoin longs as whales cash in</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-07T13:03:23.000Z",
-    "title": "Retik Finance (RETIK) takes the crypto space by storm with the introduction of DeFi Debit Cards, Launches Presale",
-    "url": "https://cryptodaily.co.uk/2023/12/retik-finance-retik-takes-the-crypto-space-by-storm-with-the-introduction-of-defi-debit-cards-launches-presale",
-    "description": "The crypto world has witnessed its fair share of groundbreaking projects, each vying for investor attention with promises of revolutionising the financial landscape."
+    "date": "2023-12-07T13:25:45.000Z",
+    "title": "Solana (SOL) Investors Target $70 – Will the Altcoin Break this Barrier?",
+    "url": "https://cryptodaily.co.uk/2023/12/solana-sol-investors-target-70-will-the-altcoin-break-this-barrier",
+    "description": "Embark on a fascinating journey through the crypto world with SOL! Delve into the story of Solana, from its rapid rise to daily wallet dominance, and uncover why it's making waves in the crypto scene. Join us as we unveil the secrets that set Solana apart, and dive into the excitement surrounding this standout cryptocurrency!"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T13:06:31.000Z",
-    "title": "ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?",
-    "url": "https://www.cryptopolitan.com/icp-price-prediction/",
-    "description": "ICP Price Prediction 2023-2032 Internet Computer is the first cryptocurrency backed by a protocol. So many crypto experts believe ICP is a good investment and could grow further and, with new developments, could get better. ICP, the native token of the Internet Computer network, is mainly used for processing the network&#8217;s power. Will ICP Price ... <a title=\"ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/icp-price-prediction/\" aria-label=\"More on ICP Price Prediction 2023-2032: Is Internet Computer Resurgence Possible?\">Read more</a>"
+    "date": "2023-12-07T13:35:08.000Z",
+    "title": "Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?",
+    "url": "https://www.cryptopolitan.com/floki-inu-price-prediction/",
+    "description": "Floki Inu Price Prediction 2023-2032 What&#8217;s the good news from the Floki Inu community? Apparently, more believers are &#8220;flocking to it&#8221;. Another major exchange listing on Cetoex while waiting to be listed in Binance. Also, FLOKI joins the rest of the Musk dog-meme coins in celebrating a successful 2022 turnout. In case you&#8217;re wondering, here&#8217;s ... <a title=\"Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/floki-inu-price-prediction/\" aria-label=\"More on Floki Inu Price Prediction 2023-2032: Can FLOKI Surpass Previous ATH?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T12:55:18.000Z",
-    "title": "Binance sets compensation for AEUR buyers after price jump",
-    "url": "https://www.cryptopolitan.com/binance-sets-compensation-for-aeur-buyers/",
-    "description": "In a significant move, Binance, a leading cryptocurrency exchange, has announced a comprehensive compensation plan for users affected by the unexpected price surge of the AEUR stablecoin. This decision comes after the Euro-pegged cryptocurrency experienced an abnormal 200% increase in value, confusing traders and leading to a trading suspension. Binance reacts to AEUR value fluctuation ... <a title=\"Binance sets compensation for AEUR buyers after price jump\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-sets-compensation-for-aeur-buyers/\" aria-label=\"More on Binance sets compensation for AEUR buyers after price jump\">Read more</a>"
+    "date": "2023-12-07T13:30:07.000Z",
+    "title": "Sora’s Smash Ultimate Amiibo Release Date Confirmed for February 16, 2024",
+    "url": "https://www.cryptopolitan.com/amiibo-release-date-confirmed/",
+    "description": "Nintendo enthusiasts and amiibo collectors can now mark their calendars with an official release date for Sora&#8217;s highly anticipated amiibo. The Kingdom Hearts protagonist&#8217;s figure will be hitting store shelves on February 16, 2024, as confirmed by Nintendo.&#160; This announcement has brought relief to fans who were initially concerned about potential licensing issues surrounding Sora&#8217;s ... <a title=\"Sora&#8217;s Smash Ultimate Amiibo Release Date Confirmed for February 16, 2024\" class=\"read-more\" href=\"https://www.cryptopolitan.com/amiibo-release-date-confirmed/\" aria-label=\"More on Sora&#8217;s Smash Ultimate Amiibo Release Date Confirmed for February 16, 2024\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T12:54:14.000Z",
-    "title": "Nayib Bukele is ‘still waiting” on Bitcoin – El Salvador heads for libertad financiera",
-    "url": "https://www.cryptopolitan.com/nayib-bukele-is-still-waiting-on-bitcoin/",
-    "description": "In global finance, few nations have made headlines as consistently as El Salvador, thanks to its bold and unprecedented embrace of Bitcoin as legal tender in 2021, spearheaded by Nayib Bukele. Bukele&#8217;s vision for economic transformation through crypto has sparked both praise and skepticism on the international stage.&#160; All that said and done, as El ... <a title=\"Nayib Bukele is &#8216;still waiting&#8221; on Bitcoin &#8211; El Salvador heads for libertad financiera\" class=\"read-more\" href=\"https://www.cryptopolitan.com/nayib-bukele-is-still-waiting-on-bitcoin/\" aria-label=\"More on Nayib Bukele is &#8216;still waiting&#8221; on Bitcoin &#8211; El Salvador heads for libertad financiera\">Read more</a>"
+    "date": "2023-12-07T13:19:39.000Z",
+    "title": "Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?",
+    "url": "https://www.cryptopolitan.com/flow-coin-price-prediction/",
+    "description": "Flow Coin Price Prediction 2023-2032 Seasoned traders go by the time-tested formula: invest&#160;most of your crypto portfolio in BTC (50%); 35% in a basket of big-cap coins, and the rest in small projects with huge upside.&#160;But for beginners, all cryptocurrencies are risky&#160;investments, so they must tread lightly and keep all their senses open in the ... <a title=\"Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/flow-coin-price-prediction/\" aria-label=\"More on Flow Coin Price Prediction 2023-2032: Is FLOW a Good Investment?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-07T13:08:49.000Z",
-    "title": "Colombia’s president accepts Bitcoin gift, traders considering Shiba Inu and Meme Moguls",
-    "url": "https://crypto.news/colombias-president-accepts-bitcoin-gift-traders-considering-shiba-inu-and-meme-moguls/",
-    "description": "Interest in altcoins like Shiba Inu and Meme Moguls on the rise after Colombia's president accepted Bitcoin gift"
+    "date": "2023-12-07T13:36:05.000Z",
+    "title": "SEC’s discussion with Bitcoin ETF issuers has moved into a key stage",
+    "url": "https://crypto.news/secs-discussion-with-bitcoin-etf-issuers-has-moved-into-a-key-stage/",
+    "description": "The SEC is reportedly making significant progress in its discussions with several firms seeking to launch a spot Bitcoin ETF.&#160; Reuters reported that discussions have moved into key technical details, and applicants believe it’s potentially leading to the historic approval&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-07T13:30:31.000Z",
+    "title": "CoinGecko reveals that over half of countries globally have legalized crypto assets",
+    "url": "https://crypto.news/coingecko-reveals-that-more-more-than-half-of-countries-globally-have-legalized-cryptoassets/",
+    "description": "More than half of the world&#8217;s countries have legalized cryptocurrency, according to a new report from the analytical platform CoinGecko. The analysis showed that digital assets were approved by 119 states and 4 UK overseas territories. Thus, over 60% of&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-07T13:08:43.000Z",
-    "title": "Former Binance CEO CZ Pleads Guilty: What’s Next for Crypto Titan?",
-    "url": "https://www.crypto-news-flash.com/former-binance-ceo-cz-pleads-guilty-whats-next-for-crypto-titan/?utm_source=rss&utm_medium=rss&utm_campaign=former-binance-ceo-cz-pleads-guilty-whats-next-for-crypto-titan",
-    "description": "<img width=\"400\" height=\"400\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400.jpg 400w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400-300x300.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400-150x150.jpg 150w\" sizes=\"(max-width: 400px) 100vw, 400px\" />Binance founder’s guilty plea is now officially accepted by Judge Richard Jones. Ahead of sentencing scheduled for February next year, the broader ecosystem sits in uncertainty as to what the outcome will be. Recent developments in the legal battle against Changpeng ‘CZ’ Zhao, the former CEO of Binance Holdings Ltd., have revealed that he pleaded [...]"
+    "date": "2023-12-07T13:35:06.000Z",
+    "title": "Cardano’s ADA Rockets to New Heights: $1 Billion Surge in Just 24 Hours",
+    "url": "https://www.crypto-news-flash.com/cardanos-ada-rockets-to-new-heights-1-billion-surge-in-just-24-hours/?utm_source=rss&utm_medium=rss&utm_campaign=cardanos-ada-rockets-to-new-heights-1-billion-surge-in-just-24-hours",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/cardano-slips-to-5th-largest-crypto-market-position-ada-down-30-since-all-time-high-last-month-48x27.jpg 48w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Cardano (ADA) surged by 5% in 24 hours to increase its market cap by $1 billion to $15.6 billion, and with its weekly gains now at 19%, it&#8217;s been one of the best performers in that time. However, analysts are still observing the crypto, with some concerned that the rise of cryptos like Cardano and [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-07T12:47:12.000Z",
-    "title": "Avalanche (AVAX) and HNT Blaze the Trail: Altcoins Sizzle as Bitcoin’s Fire Burns Bright",
-    "url": "https://www.crypto-news-flash.com/avalanche-avax-and-hnt-blaze-the-trail-altcoins-sizzle-as-bitcoins-fire-burns-bright/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-avax-and-hnt-blaze-the-trail-altcoins-sizzle-as-bitcoins-fire-burns-bright",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-8.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-8-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-8-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Avalanche (AVAX) leads among cryptocurrencies with a 17% increase, while Helium (HNT) is up 42%. Bitcoin stabilizes at $44,000, driving interest in altcoins; analysts predict an imminent &#8216;altcoin season&#8217;. The recent surge of growth in the cryptocurrency market has captured the attention of the financial world, marking a milestone in the evolution of digital assets. [...]"
+    "date": "2023-12-07T13:13:09.000Z",
+    "title": "Three Cryptocurrencies on the Top of Doubling Their Value: An Investor’s Watch",
+    "url": "https://www.crypto-news-flash.com/three-cryptocurrencies-on-the-top-of-doubling-their-value-an-investors-watch/?utm_source=rss&utm_medium=rss&utm_campaign=three-cryptocurrencies-on-the-top-of-doubling-their-value-an-investors-watch",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-45.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-45.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-45-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />If you are looking for the best cryptos to buy for reliable ROI in 2024, experts have recommended BorroeFinance ($ROE), Avalanche (AVAX) and Polkadot (DOT). Investors are betting $ROE because of its success in the early presale stages. Similarly, Avalanche and Polkadot attracted investors after recording ecosystem expansions in Q4 2023. Keep reading to see [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-07T13:10:50.000Z",
+    "title": "With the introduction of its revolutionary DeFi Debit Cards, Retik Finance (RETIK) announces its Presale",
+    "url": "https://www.crypto-news-flash.com/with-the-introduction-of-its-revolutionary-defi-debit-cards-retik-finance-retik-announces-its-presale/?utm_source=rss&utm_medium=rss&utm_campaign=with-the-introduction-of-its-revolutionary-defi-debit-cards-retik-finance-retik-announces-its-presale",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-39.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-39.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-39-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-39-104x69.png 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Forget the whispers, the rumours, the hushed conversations in crypto corners. The revolution is here, and it&#8217;s brandishing a sleek, titanium card that could spell the end of financial tyranny as we know it. Retik Finance, the DeFi behemoth on the rise, has officially announced its presale, and the air is thick with the scent [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2023-12-07T12:47:27.000Z",
-    "title": "Tectum Latest Updates",
-    "url": "https://www.altcoinbuzz.io/product-release/tectum-latest-updates/",
-    "description": "<p>Bitcoin is currently on fire. There was an extended bear market sideways shuffle during the fall. However, now it&#8217;s up 24.8% over the last 30 days. At the same time, the Bitcoin ecosystem is thriving. One project in this Bitcoin ecosystem has seen plenty of recent updates. Tectum is the project I&#8217;m referring to. So, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/tectum-latest-updates/\">Tectum Latest Updates</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-12-07T13:13:48.000Z",
+    "title": "Lugano Pioneers Bitcoin and USDT Payments for Municipal Services",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/lugano-pioneers-bitcoin-and-usdt-payments-for-municipal-services/",
+    "description": "<p>The City of Lugano has long been associated with innovation and a progressive outlook. With the acceptance of Bitcoin and USDT, Lugano is taking a significant step towards the mainstream adoption of cryptocurrencies in daily life. A Versatile Payment Landscape This new payment system covers a wide array of municipal services. Making it convenient for [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/lugano-pioneers-bitcoin-and-usdt-payments-for-municipal-services/\">Lugano Pioneers Bitcoin and USDT Payments for Municipal Services</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-07T12:48:00.000Z",
-    "title": "Bitcoin Price Shocker: 130K Cycle Peak Confirmed? Experts Agree!",
-    "url": "https://coinedition.com/bitcoin-price-shocker-130k-cycle-peak-confirmed-experts-agree/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/2022-2040-Price-Predictions-for-Bitcoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin&#039;s Hourly, Daily, and Weekly Performance Examined by Chart Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/2022-2040-Price-Predictions-for-Bitcoin.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/2022-2040-Price-Predictions-for-Bitcoin-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/2022-2040-Price-Predictions-for-Bitcoin-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>CryptoCon, the creator of the Halving Cycles Theory, has revealed that Bitcoin (BTC) might hit $130,000 by December 2025. CryptoCon, who also doubles as a technical analyst, noted that he came to the conclusion using the BitTime model. On previous occasions, the BitTime model has offered insights into BTC’s movement. A summary of the model [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoin-price-shocker-130k-cycle-peak-confirmed-experts-agree/\">Bitcoin Price Shocker: 130K Cycle Peak Confirmed? Experts Agree!</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-07T13:37:08.000Z",
+    "title": "Helium (HNT) Price Prediction 2023-2030: Will HNT Price Hit $10 Soon?",
+    "url": "https://coinedition.com/helium-hnt-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Helium-(HNT)-Price-Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/Helium-HNT-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Helium is a decentralized connectivity platform called “The Peoples Network”. Its native token is denoted as HNT. Helium investors are bullish on the token since it has had a return on investment (ROI) of over 16 times in the past two years. The crypto bubble of 2021 led to an increase in the price of [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/helium-hnt-price-prediction/\">Helium (HNT) Price Prediction 2023-2030: Will HNT Price Hit $10 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-07T12:45:47.000Z",
-    "title": "Top Crypto Analyst Says Ethereum Rival That’s Exploded Over 500% Year-to-Date Is About To Rip Again",
-    "url": "https://dailyhodl.com/2023/12/07/top-crypto-analyst-says-ethereum-rival-thats-exploded-over-500-year-to-date-is-about-to-rip-again/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/About-To-Rip-Again.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto analyst says that smart contract platform Solana (SOL) has more room to run even after recording triple-digit gains so far this year. Pseudonymous crypto trader Bluntz tells his 230,500 followers on the social media platform X that the Ethereum (ETH) rival could go up by double digits in the coming days. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/07/top-crypto-analyst-says-ethereum-rival-thats-exploded-over-500-year-to-date-is-about-to-rip-again/\">Top Crypto Analyst Says Ethereum Rival That’s Exploded Over 500% Year-to-Date Is About To Rip Again</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2023-12-07T13:36:43.000Z",
+    "title": "John Deaton Comes Under Fire From XRP Army Over Bitcoin Ownership",
+    "url": "https://coinedition.com/john-deaton-comes-under-fire-from-xrp-army-over-bitcoin-ownership/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple Attorney Withdraws From Legal Defense Team In SEC Lawsuit\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/‘Someone-Wants-To-Orchestrate-A-Pump-For-XRP-Says-John-Deaton-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>John E. Deaton, a prominent lawyer and reputed member of the XRP community, sparked outrage after he disclosed an altercation with an XRP holder regarding his Bitcoin holdings.&#160; In a post on X, Deaton said the XRP holder had an issue with his Bitcoin holdings. After that, the member requested to be withdrawn from the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/john-deaton-comes-under-fire-from-xrp-army-over-bitcoin-ownership/\">John Deaton Comes Under Fire From XRP Army Over Bitcoin Ownership</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

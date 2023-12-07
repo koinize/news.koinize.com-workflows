@@ -1,121 +1,93 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-07T15:59:24.000Z",
-    "title": "Craig Wright's Tulip Trading Must Prove Ownership of Bitcoin in Hacking Case, English Court Rules",
-    "url": "https://www.coindesk.com/policy/2023/12/07/craig-wrights-tulip-trading-must-prove-ownership-of-bitcoin-in-hacking-case-english-court-rules/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The hearing, scheduled to take 15 days, will also seek to determine whether the hack occurred."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-07T15:57:32.000Z",
-    "title": "Bitcoin's Next Move Might be Decided by Friday's Jobs Report",
-    "url": "https://www.coindesk.com/markets/2023/12/07/bitcoins-next-move-might-be-decided-by-fridays-jobs-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "A recent dovish shift in the outlook for monetary policy has played a sizable role in big gains for both crypto and traditional markets."
+    "date": "2023-12-07T16:21:40.000Z",
+    "title": "Robinhood Broadens Crypto Service to Europe, Notes Region's Digital Asset Regulation",
+    "url": "https://www.coindesk.com/business/2023/12/07/robinhood-broadens-crypto-service-to-europe-notes-regions-digital-asset-regulation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The company said it chose Europe to anchor its crypto expansion outside the U.S. because of the region's comprehensive rules."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-07T15:48:12.000Z",
-    "title": " Phoenix seals $380M deal with WhatsMiner for green Bitcoin mining ",
-    "url": "https://cointelegraph.com/news/phoenix-seals-380-million-deal-whatsminer-green-bitcoin-mining",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMWY5ZjcxOTAtMDZmYy00MzAzLWFlYjUtNTIzNTE5NDBmOTcwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Phoenix Group is acquiring hydro cooling mining equipment from WhatsMiner worth over $136 million, with the option of an additional $246 million purchase. </p>\n                    <p><p>United Arab Emirates firm Phoenix Group has <a href=\"https://www.globenewswire.com/news-release/2023/12/07/2792403/0/en/Phoenix-Group-and-Whatsminer-Seal-380M-Deal-for-Sustainable-Hydro-Powered-Mining-Innovation.html\" target=\"_blank\" rel=\"noopener nofollow\">disclosed</a> a new purchase of hardware equipment from WhatsMiner, aimed at expanding its portfolio of hydro cooling rigs. According to an announcement on Dec. 7, the $380 million deal represents WhatsMiner’s largest order in two years.</p><p>Under the agreement, Phoenix received mining equipment valued at $136 million, with an additional option worth $246 million available. WhatsMiner's line of hydro cooling equipment was released in 2022, with current prices ranging from $1,008 to $2,484, according to the company's website.</p><p>WhatsMiner's hydro cooling hardware uses a closed-loop water system, preserving the volume and quality of water inside pipes. According to the company, the system offers more efficient heat transfer since water is a more effective heat conductor than air or oil. The benefits of this system include a reduction in operational costs and a minimized environmental impact, the company claims. </p><p><a href=\"https://cointelegraph.com/news/phoenix-seals-380-million-deal-whatsminer-green-bitcoin-mining\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-07T16:34:11.000Z",
+    "title": " Jack Dorsey&#039;s Block Inc. launches self-custody Bitcoin wallet ",
+    "url": "https://cointelegraph.com/news/jack-dorsey-block-launches-self-custody-bitcoin-wallet",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvY2M1MDU4NDQtMWY1Yi00YjQ3LTliYTItZjc0Mzg3MTU0ZjhiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Users who lose their Bitkey wallet don't need to input a seed phrase to recover funds, the company said. </p>\n                    <p><p>Financial payment processor Block, co-founded by Jack Dorsey, has launched its self-custody Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) wallet.</p><p>Dubbed \"Bitkey,\" developers said during the Dec. 7 <a href=\"https://www.businesswire.com/news/home/20231207228680/en/Self-Custody-Bitcoin-Wallet-Bitkey-Built-by-Block-Inc.-Launches-Globally-Widening-Access-to-True-Financial-Ownership\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a> that the wallet, available as a mobile app or hardware storage, will be accessible in over 95 countries. Bitkey will feature a two-of-three multi-signature wallet consisting of a mobile key, a hardware key, and a server key, with a secure hardware device alongside recovery tools in the event of loss. It will require both the user's fingerprint and phone to approve transactions. The first global partners for Bitkey include Coinbase and Cash App.</p><p>\"Bitkey uses three keys to secure Bitcoin, and any two keys working together are needed to move Bitcoin or approve other security-related actions like initiating recovery or modifying security settings,\" Block stated. \"Because Bitkey only has access to one, not two or three keys in this 2-of-3 multi-signature wallet, Bitkey cannot access or move a customer's bitcoin without them.\" </p><p><a href=\"https://cointelegraph.com/news/jack-dorsey-block-launches-self-custody-bitcoin-wallet\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-07T16:24:29.000Z",
+    "title": " &#039;Early bull market&#039; — Bitcoin price preps 1st ever weekly golden cross ",
+    "url": "https://cointelegraph.com/news/early-bull-market-bitcoin-price-1st-ever-weekly-golden-cross",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNzA1YTYxMmQtZThhMy00ZTgwLTlhN2EtNGI3ZGE1ZjkwNzU0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin is lining up a never-before-seen bull signal which could print on the Bitcoin chart by the start of 2024.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is lining up an “early bull market” as a unique chart feature plays out for the first time in history.</p><p>In a <a href=\"https://twitter.com/alistairmilne/status/1732779358887027135/photo/1\" target=\"_blank\" rel=\"noopener nofollow\">post</a> on X (formerly Twitter) on Dec. 7, entrepreneur Alistair Milne drew attention to Bitcoin’s first ever weekly “golden cross.”</p><p>Recent BTC price upside has delivered considerable profits to various Bitcoin investor cohorts, but 165% year-to-date gains are now significant for another reason.</p><p><a href=\"https://cointelegraph.com/news/early-bull-market-bitcoin-price-1st-ever-weekly-golden-cross\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-07T16:12:14.000Z",
+    "title": " Montenegrin official plans to extradite Do Kwon to the United States: Report ",
+    "url": "https://cointelegraph.com/news/montenegro-extradition-do-kwon-united-states-report",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNWJlZGZiZGUtZjVjNC00YzBlLTliOTItNWNkNjczOWFkNmQzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Terraform Labs co-founder had been awaiting extradition to either the United States or South Korea after being arrested and charged in Montenegro.</p>\n                    <p><p>Terraform Labs co-founder <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/do-kwon\">Do Kwon</a> will reportedly be extradited to the United States rather than South Korea to face criminal charges.</p><p>According to a Dec. 7 Wall Street Journal report citing people familiar with the matter, Justice Minister Andrej Milovic in Montenegro <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-07-2023/card/exclusive-montenegro-plans-to-extradite-fallen-crypto-tycoon-do-kwon-to-u-s--go9pVSEoANWEjPKGAfD6\" target=\"_blank\" rel=\"noopener nofollow\">plans</a> to grant U.S. officials’ request for extradition. Kwon was arrested in Montenegro in March and sentenced to four months in prison for using falsified travel documents but has also been <a href=\"https://cointelegraph.com/news/do-kwon-faces-fraud-charges-from-us-prosecutors-hours-after-arrest\" >charged in the U.S.</a> and South Korea for his alleged role in the collapse of Terraform Labs.</p><p>Milovic reportedly said the announcement would be made public “in a timely manner”. </p><p><a href=\"https://cointelegraph.com/news/montenegro-extradition-do-kwon-united-states-report\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-07T15:45:05.000Z",
-    "title": "Cardano’s DeFi ecosystem nears $300M TVL, buoyed by ADA’s bullish trend",
-    "url": "https://cryptoslate.com/cardanos-defi-ecosystem-nears-300m-tvl-buoyed-by-adas-bullish-trend/",
-    "description": "<p>The total value of assets locked (TVL) in Cardano&#8217;s decentralized finance (DeFi) ecosystem is approaching a 21-month high of $300 million on the back of the blockchain network&#8217;s native ADA token bullish price movement. Per DeFillama data, Cardano&#8217;s TVL sits at $298 million as of press time, representing a 508% growth on the year-to-date (YTD) [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/cardanos-defi-ecosystem-nears-300m-tvl-buoyed-by-adas-bullish-trend/\">Cardano&#8217;s DeFi ecosystem nears $300M TVL, buoyed by ADA&#8217;s bullish trend</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-07T16:35:22.000Z",
+    "title": "Phoenix Group secures $380M deal for sustainable Bitcoin mining equipment",
+    "url": "https://cryptoslate.com/phoenix-group-secures-380m-deal-for-sustainable-bitcoin-mining-equipment/",
+    "description": "<p>Bitcoin (BTC) miner Phoenix Group secured a $380 million hardware deal from Whatsminer less than two days after its stock debuted on the Abu Dhabi Securities Exchange (ADX). In a Dec. 7 statement, the miner stated it would take immediate delivery of $136 million worth of mining equipment, with an additional option worth $246 million. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/phoenix-group-secures-380m-deal-for-sustainable-bitcoin-mining-equipment/\">Phoenix Group secures $380M deal for sustainable Bitcoin mining equipment</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-07T16:03:10.000Z",
-    "title": "MicroStrategy Stockpiles More Bitcoin Ahead of 2024 Rally, How High Will Prices Go?",
-    "url": "https://cryptodaily.co.uk/2023/12/microstrategy-stockpiles-more-bitcoin-ahead-of-2024-rally-how-high-will-prices-go",
-    "description": "MicroStrategy, one of the top firms with the largest amount of Bitcoin holdings is not backing out anytime soon."
+    "date": "2023-12-07T16:19:06.000Z",
+    "title": "The Next Big Players in the Crypto Space: Aave (AAVE), Ripple (XRP), and Meme Moguls (MGLS)",
+    "url": "https://cryptodaily.co.uk/2023/12/the-next-big-players-in-the-crypto-space-aave-aave-ripple-xrp-and-meme-moguls-mgls",
+    "description": "New cryptos are created daily, but only a few hold the same potential as Aave (AAVE), Ripple (XRP), and Meme Moguls (MGLS)."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-07T15:48:34.000Z",
-    "title": "Shadows Over Meme Coins, Dogecoin (DOGE) and Shiba Inu (SHIB) Face New Rival in Breakthrough Fitness Crypto",
-    "url": "https://cryptodaily.co.uk/2023/12/shadows-over-meme-coins-dogecoin-doge-and-shiba-inu-shib-face-new-rival-in-breakthrough-fitness-crypto",
-    "description": "Discover the evolving dynamics in the cryptocurrency world as we examine the battle between the move-to-earn market with popular meme coins like Dogecoin (DOGE) and Shiba Inu (SHIB). Our in-depth analysis unveils how a rising fitness cryptocurrency is making waves, challenging the established market positions of DOGE and SHIB amidst increasing market pressure. Gain valuable insights into this unexpected shift, which brings a new player into the spotlight, potentially reshaping the future of digital currencies. Stay informed and navigate through the complexities of this rapidly changing sector with our expert analysis, helping you understand the potential shifts and trends in this volatile yet exciting market."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-07T16:00:30.000Z",
-    "title": "Iris-Scanning Crypto Project Worldcoin Launches Community Grants Program ",
-    "url": "https://news.bitcoin.com/iris-scanning-crypto-project-worldcoin-launches-community-grants-program/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Iris-Scanning Crypto Project Worldcoin Launches Community Grants Program \" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wld.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Recently, the Worldcoin Foundation unveiled the launch of its community grants program, beginning with its first phase, Wave0. In the crypto economy, Worldcoin&#8217;s WLD token has not experienced the growth that other crypto assets have enjoyed, declining over 3% in the past fortnight. This downturn followed the departure of CEO Sam Altman from Openai, a [&#8230;]"
+    "date": "2023-12-07T16:18:15.000Z",
+    "title": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC",
+    "url": "https://cryptodaily.co.uk/2023/12/sui-joins-defi-leaders-topping-100m-in-bridged-usdc",
+    "description": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T15:55:12.000Z",
-    "title": "FCA warns UK traders about the legal status of Poloniex",
-    "url": "https://www.cryptopolitan.com/fca-warns-uk-traders-about-poloniex/",
-    "description": "The Financial Conduct Authority (FCA), the regulatory authority overseeing financial activities in the UK, has recently issued a public warning regarding Poloniex, a cryptocurrency exchange owned by Justin Sun. The FCA stated that Poloniex is operating without the necessary authorization, leaving traders on the platform without the protection of financial laws. FCA issues warnings about ... <a title=\"FCA warns UK traders about the legal status of Poloniex\" class=\"read-more\" href=\"https://www.cryptopolitan.com/fca-warns-uk-traders-about-poloniex/\" aria-label=\"More on FCA warns UK traders about the legal status of Poloniex\">Read more</a>"
+    "date": "2023-12-07T16:35:50.000Z",
+    "title": "Hex Price Prediction 2023-2032: The Highest of Stakes",
+    "url": "https://www.cryptopolitan.com/hex-price-prediction/",
+    "description": "HEX Price Prediction 2023-2032 HEX Price Prediction 2023 &#8211; up to $0.013 HEX Price Prediction 2026 &#8211; up to $0.039 HEX Price Prediction 2029 &#8211; up to $0.12 HEX Price Prediction 2032 &#8211; up to $0.30 Here is a primer: &#8220;The Highest of Stakes&#8221; documentary presents an intriguing and complex story about Richard Heart, the ... <a title=\"Hex Price Prediction 2023-2032: The Highest of Stakes\" class=\"read-more\" href=\"https://www.cryptopolitan.com/hex-price-prediction/\" aria-label=\"More on Hex Price Prediction 2023-2032: The Highest of Stakes\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T15:53:21.000Z",
-    "title": "Impossible Finance and Ronin Network Forge Alliance to Launch Web3 Gaming Platform",
-    "url": "https://www.cryptopolitan.com/impossible-finance-ronin-launch-web3-gaming/",
-    "description": "In a strategic move signaling the intersection of decentralized finance (DeFi) and the gaming industry, Impossible Finance, a leading DeFi accelerator and Launchpad, has announced a partnership with the Ronin Network. The collaboration aims to introduce the Ronin Launchpad, a dedicated platform for Web3 game releases, pushing the boundaries of blockchain gaming and non-fungible tokens ... <a title=\"Impossible Finance and Ronin Network Forge Alliance to Launch Web3 Gaming Platform\" class=\"read-more\" href=\"https://www.cryptopolitan.com/impossible-finance-ronin-launch-web3-gaming/\" aria-label=\"More on Impossible Finance and Ronin Network Forge Alliance to Launch Web3 Gaming Platform\">Read more</a>"
+    "date": "2023-12-07T16:31:19.000Z",
+    "title": "Russia’s Exved Launches Cross-Border Payments in Tether Stablecoin",
+    "url": "https://www.cryptopolitan.com/russias-exved-payments-tether-stablecoin/",
+    "description": "Exved, one of the first cross-border payment platforms in Russia, has officially announced its launch on December 7. The platform aims to facilitate local legal entities in processing international settlements using cryptocurrencies, marking a significant step forward in the realm of digital finance. Exved, described as a &#8220;digital counterparty search system,&#8221; unveiled its business-to-business (B2B) ... <a title=\"Russia&#8217;s Exved Launches Cross-Border Payments in Tether Stablecoin\" class=\"read-more\" href=\"https://www.cryptopolitan.com/russias-exved-payments-tether-stablecoin/\" aria-label=\"More on Russia&#8217;s Exved Launches Cross-Border Payments in Tether Stablecoin\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T15:47:41.000Z",
-    "title": "New Jersey bill to recognize crypto sold to institutional investors as securities",
-    "url": "https://www.cryptopolitan.com/new-jersey-recognize-investors-securities/",
-    "description": "In a recent legislative development within the U.S. state of New Jersey, Representative Herbert Conway introduced Assembly Bill 5747 on November 30. The primary objective of the New Jersey bill is to categorize all cryptocurrencies issued and directly sold to institutional investors as securities. This legislative move stands in contrast to the stance of the ... <a title=\"New Jersey bill to recognize crypto sold to institutional investors as securities\" class=\"read-more\" href=\"https://www.cryptopolitan.com/new-jersey-recognize-investors-securities/\" aria-label=\"More on New Jersey bill to recognize crypto sold to institutional investors as securities\">Read more</a>"
+    "date": "2023-12-07T16:18:54.000Z",
+    "title": "Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution",
+    "url": "https://www.cryptopolitan.com/deloitte-kilt-blockchain-logistics-solution/",
+    "description": "Deloitte, a prominent division of the &#8220;Big Four&#8221; accounting firms, has collaborated with the Polkadot-based Kilt blockchain to revolutionize logistics and supply-chain services within the shipping industry. The initiative aims to introduce a novel logistics service known as KYX, short for Know Your Client and Know Your Cargo. Hapag-Lloyd, a leading shipping giant, is set ... <a title=\"Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution\" class=\"read-more\" href=\"https://www.cryptopolitan.com/deloitte-kilt-blockchain-logistics-solution/\" aria-label=\"More on Deloitte Partners with Kilt Blockchain for Digital Shipping Logistics Solution\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-07T15:41:38.000Z",
-    "title": "Safe Wallet Launches Cryptocurrency Recovery Ecosystem: Safe{RecoveryHub}",
-    "url": "https://www.cryptopolitan.com/safe-wallet-launch-crypto-recovery-ecosystem/",
-    "description": "In a pivotal move to elevate the landscape of cryptocurrency wallet security, Safe Wallet, formerly recognized as Gnosis Safe, proudly introduces Safe{RecoveryHub}. The cutting-edge cryptocurrency recovery ecosystem is seamlessly integrated into the Safe{Wallet}, offering users an unprecedented level of control and customization in safeguarding their digital assets. The platform allows users to designate trusted &#8216;Recoverers,&#8217; ... <a title=\"Safe Wallet Launches Cryptocurrency Recovery Ecosystem: Safe{RecoveryHub}\" class=\"read-more\" href=\"https://www.cryptopolitan.com/safe-wallet-launch-crypto-recovery-ecosystem/\" aria-label=\"More on Safe Wallet Launches Cryptocurrency Recovery Ecosystem: Safe{RecoveryHub}\">Read more</a>"
+    "date": "2023-12-07T16:18:18.000Z",
+    "title": "Sui Joins DeFi Leaders, Topping $100M in Bridged USDC",
+    "url": "https://www.cryptopolitan.com/sui-joins-defi-leaders-topping-100m-in-bridged-usdc/",
+    "description": "GRAND CAYMAN, Cayman Islands, December 7th, 2023, Chainwire Only 7 months from the network’s launch, Sui is bridging more USDC liquidity than multiple native chains Sui, the groundbreaking Layer 1 blockchain created by the technology experts who led Meta’s Diem blockchain initiative and created the Move smart contract language, continues its explosive ascent in decentralized ... <a title=\"Sui Joins DeFi Leaders, Topping $100M in Bridged USDC\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sui-joins-defi-leaders-topping-100m-in-bridged-usdc/\" aria-label=\"More on Sui Joins DeFi Leaders, Topping $100M in Bridged USDC\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-07T16:04:54.000Z",
-    "title": "Binance enhances web3 wallet with Bitcoin, other crypto integrations",
-    "url": "https://crypto.news/binance-enhances-web3-wallet-with-bitcoin-other-crypto-integrations/",
-    "description": "Binance's web3 wallet now supports Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, and the Sei Network."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-07T15:55:33.000Z",
-    "title": "Bitcoin developer deems inscription a technical exploit",
-    "url": "https://crypto.news/bitcoin-developer-deems-inscription-a-technical-exploit/",
-    "description": "In a Dec. 6 article, William Casarin, founder of Nostr Damus and a Bitcoin Core and Lightning Network developer, asserts that inscribing data as Bitcoin script program data is a technical exploit, emphasizing that Bitcoin is not designed for data storage."
-  },
-  {
-    "source": "Kraken Blog",
-    "date": "2023-12-07T15:47:44.000Z",
-    "title": "USDT deposits and withdrawals now available on Optimism!",
-    "url": "https://blog.kraken.com/product/asset-listings/usdt-deposits-and-withdrawals-now-available-on-optimism",
-    "description": "<p> <img width=\"300\" height=\"137\" src=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?fit=300%2C137&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?w=1536&amp;ssl=1 1536w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?resize=1024%2C467&amp;ssl=1 1024w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?resize=768%2C350&amp;ssl=1 768w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?resize=1200%2C547&amp;ssl=1 1200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?resize=200%2C91&amp;ssl=1 200w\" sizes=\"(max-width: 300px) 100vw, 300px\" data-attachment-id=\"24106\" data-permalink=\"https://blog.kraken.com/product/asset-listings/usdt-deposits-and-withdrawals-now-available-on-optimism/attachment/usdt_optimism_bloginner\" data-orig-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?fit=1536%2C700&amp;ssl=1\" data-orig-size=\"1536,700\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"USDT_Optimism_BlogInner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?fit=300%2C137&amp;ssl=1\" data-large-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2023/12/USDT_Optimism_BlogInner.png?fit=1024%2C467&amp;ssl=1\" /> We’re thrilled to announce that Kraken now supports deposits and withdrawals of Tether (USDT) on Optimism! Funding USDT funding via Optimism is already live. You can transfer Tether (USDT) to your Kraken account by navigating to Funding, selecting USDT and choosing the desired deposit method (network) from the drop-down box: Optimism. Got USDT on Optimism? [&#8230;]</p>\n<p>The post <a href=\"https://blog.kraken.com/product/asset-listings/usdt-deposits-and-withdrawals-now-available-on-optimism\">USDT deposits and withdrawals now available on Optimism!</a> appeared first on <a href=\"https://blog.kraken.com\">Kraken Blog</a>.</p>\n"
+    "date": "2023-12-07T16:22:56.000Z",
+    "title": "Phoenix Group secures $380m contract with Whatsminer post-ADX listing",
+    "url": "https://crypto.news/phoenix-group-secures-380m-contract-with-whatsminer-post-adx-listing/",
+    "description": "Following its listing on the Abu Dhabi Securities Exchange (ADX), Middle Eastern Bitcoin mining company Phoenix Group has announced a new deal with Whatsminer, the second largest Bitcoin mining machine manufacturer."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-07T16:01:03.000Z",
-    "title": "Crypto Conspiracy Unveiled: Are Governments Secretly Manipulating Bitcoin Prices?",
-    "url": "https://www.crypto-news-flash.com/crypto-conspiracy-unveiled-are-governments-secretly-manipulating-bitcoin-prices/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-conspiracy-unveiled-are-governments-secretly-manipulating-bitcoin-prices",
-    "description": "<img width=\"512\" height=\"292\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51-300x171.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />When Bitcoin was released in 2009, cryptocurrency was meant to become a decentralized form of currency, one where banks and governments could not influence the price to suit their own needs. For the first time ever, individuals around the world were not reliant on a gigantic corporation, monitoring their every move and essentially punishing them [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-07T15:46:16.000Z",
-    "title": "Early Crypto Investor Buys Luxury Mansion with Profits – What Are His Next 3 Investments?",
-    "url": "https://www.crypto-news-flash.com/early-crypto-investor-buys-luxury-mansion-with-profits-what-are-his-next-3-investments/?utm_source=rss&utm_medium=rss&utm_campaign=early-crypto-investor-buys-luxury-mansion-with-profits-what-are-his-next-3-investments",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-34.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-34.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-34-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-34-104x69.png 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />When working on his master&#8217;s thesis in 2009, Kristoffer Koch, a student from Norway, came upon Satoshi Nakamoto&#8217;s white paper on Bitcoin. This document opened his eyes to the possibilities of this rising technology, leading him to invest $26.60 to buy 5,000 $BTC. In 2013, Koch cashed in 1,000 of his Bitcoins to purchase a [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-07T16:00:00.000Z",
-    "title": "MEME’s Bullish Trend Gains Momentum as Bearish Pressure Fades",
-    "url": "https://coinedition.com/memes-bullish-trend-gains-momentum-as-bearish-pressure-fades/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"MEME&#039;s Bullish Trend Gains Momentum as Bearish Pressure Fades\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/PEPE-DOGE-and-SHIB-Crash-What-Meme-Coins-Are-Poised-to-Explode-Next-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the early hours of the day, bears in the Memecoin (MEME) market had the upper hand, with the price plummeting to an intra-day low of $0.03582, where it reached a crucial support level. However, as the day progressed, bulls reclaimed control and pushed the price back to $0.043601, indicating a possible shift in market [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/memes-bullish-trend-gains-momentum-as-bearish-pressure-fades/\">MEME&#8217;s Bullish Trend Gains Momentum as Bearish Pressure Fades</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-07T16:35:39.000Z",
+    "title": "Analyst Sparks Debate: Is XRP’s $50,000 Target More Achievable than Bitcoin’s $500,000?",
+    "url": "https://www.crypto-news-flash.com/analyst-sparks-debate-is-xrps-50000-target-more-achievable-than-bitcoins-500000/?utm_source=rss&utm_medium=rss&utm_campaign=analyst-sparks-debate-is-xrps-50000-target-more-achievable-than-bitcoins-500000",
+    "description": "<img width=\"1472\" height=\"828\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP.jpg 1472w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/BTC-XRP-768x432.jpg 768w\" sizes=\"(max-width: 1472px) 100vw, 1472px\" />Celebrated crypto analyst Zach Rector initiated a discussion on XRP&#8217;s potential to reach $50,000, drawing a parallel with Bitcoin&#8217;s speculated surge to $500,000. Rector expressed skepticism about Bitcoin&#8217;s feasibility to surpass gold&#8217;s market cap at $500,000 and offered a more optimistic outlook for XRP. Ripple&#8217;s native cryptocurrency XRP has been showing strong price momentum recently [...]"
   }
 ]

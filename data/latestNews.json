@@ -1,51 +1,65 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-08T06:58:42.000Z",
-    "title": " ERC-2771 integration introduces address spoofing vulnerability — OpenZeppelin ",
-    "url": "https://cointelegraph.com/news/erc-2771-integration-address-spoofing-vulnerability-open-zeppelin",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZmMyNjE3YWMtNzI0Yy00NDllLTkxNjktN2IxMWVjY2M2ZmQ1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The smart contract vulnerability arises after the integration of ERC-2771 and Multicall standards. OpenZepplin identified 13 sets of vulnerable smart contracts. </p>\n                    <p><p>Soon after Thirdweb revealed a security vulnerability that could impact a <a href=\"https://cointelegraph.com/news/web3-firm-security-flaw-common-smart-contracts\">variety of common smart contracts</a> used across the Web3 ecosystem, OpenZeppelin identified two specific standards as the root cause of the threat.</p><p>On Dec. 4, Thirdweb reported a vulnerability in a commonly used open-source library, which could impact pre-built contracts, including DropERC20, ERC721, ERC1155 (all versions), and AirdropERC20. </p><p>James Edwards, the lead maintainer for cybersecurity investigator Librehash, said that while AI chatbots have the ability to develop smart contracts, deploying them in a live environment is risky. </p><p><a href=\"https://cointelegraph.com/news/erc-2771-integration-address-spoofing-vulnerability-open-zeppelin\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-12-08T07:19:27.000Z",
+    "title": "Bitcoin, Ether Options' Value on Deribit Reaches Record High of $23B",
+    "url": "https://www.coindesk.com/markets/2023/12/08/bitcoin-ether-options-value-on-deribit-reach-record-high-of-23b/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Increased interest in the three-dimensional options market suggests an influx of sophisticated traders in the crypto market."
   },
   {
     "source": "CryptoGlobe",
-    "date": "2023-12-08T06:54:11.000Z",
-    "title": "Jack Dorsey’s Block, Inc. Unveils Bitkey: A Groundbreaking Self-Custody Bitcoin Wallet",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/jack-dorseys-block-inc-unveils-bitkey-a-groundbreaking-self-custody-bitcoin-wallet/",
-    "description": "FinTech firm Block, Inc. (NYSE: SQ), formerly known as Square, Inc., a global technology conglomerate, has introduced Bitkey, a self-custody Bitcoin wallet designed to democratize financial ownership. Bitkey, a product of Block’s Proto team, exemplifies the company’s mission to accelerate the world’s transition to an open economy. Key Features of Bitkey: 2-of-3 Multi-Signature Wallet: Bitkey […]\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-08T07:00:17.000Z",
-    "title": "UAE Bitcoin Miner Signs Order Worth Over $380 Million With Microbt",
-    "url": "https://news.bitcoin.com/uae-bitcoin-miner-signs-order-worth-over-380-million-with-microbt/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"UAE Bitcoin Miner Signs Order Worth Over $380 Million With Microbt\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/liquid.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />United Arab Emirates-based bitcoin miner Phoenix Group PLC has signed an order worth more than $380 million with Whatsminer mining rig maker Microbt. Bijan Alizadehfard described the collaboration with Microbt as a reflection of his company’s &#8220;strategic foresight.&#8221; Microbt to Integrate Hydro-Cooling Miners Phoenix Group PLC, a bitcoin mining company based in the United Arab [&#8230;]"
+    "date": "2023-12-08T07:33:06.000Z",
+    "title": "Challenges Ahead for Solana’s Saga Phone Amid Market Realities",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/challenges-ahead-for-solanas-saga-phone-amid-market-realities/",
+    "description": "Solana Labs co-founder Anatoly Yakovenko recently expressed concerns about the future of Solana Mobile’s “Saga” phone, citing disappointing sales and changing market dynamics. In a conversation on Laura Shin’s Unchained podcast, Yakovenko deliberated on the viability of continuing with the device, which has struggled to meet sales expectations. Saga, initially launched with much fanfare, aimed […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-08T06:51:20.000Z",
-    "title": "Unveiling the Intricacies and Risks of AI Chatbot Security",
-    "url": "https://www.cryptopolitan.com/unveiling-the-intricacies-of-ai-chatbot/",
-    "description": "In a groundbreaking study, researchers have identified a critical vulnerability in artificial intelligence (AI) chatbots, potentially exposing the contact information of employees at major tech firms like OpenAI and Amazon. This revelation underscores the increasing complexities and security challenges in the rapidly evolving domain of AI technology. AI chatbot vulnerabilities exposed The research focused on ... <a title=\"Unveiling the Intricacies and Risks of AI Chatbot Security\" class=\"read-more\" href=\"https://www.cryptopolitan.com/unveiling-the-intricacies-of-ai-chatbot/\" aria-label=\"More on Unveiling the Intricacies and Risks of AI Chatbot Security\">Read more</a>"
+    "date": "2023-12-08T07:28:11.000Z",
+    "title": "MIT Researchers Develop Automated System to Teach Users When to Collaborate with AI Assistants",
+    "url": "https://www.cryptopolitan.com/mit-develop-system-for-ai-assistants/",
+    "description": "MIT researchers, in collaboration with the MIT-IBM Watson AI Lab, have developed an innovative automated system that aims to address a critical question in human-AI collaboration: When should users trust the advice of an AI assistant? This system offers a customized onboarding process that assists users in determining when to rely on AI recommendations and ... <a title=\"MIT Researchers Develop Automated System to Teach Users When to Collaborate with AI Assistants\" class=\"read-more\" href=\"https://www.cryptopolitan.com/mit-develop-system-for-ai-assistants/\" aria-label=\"More on MIT Researchers Develop Automated System to Teach Users When to Collaborate with AI Assistants\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-08T07:16:42.000Z",
+    "title": "Securing Military Realities with Machine Learning – A Glimpse into Normative Challenges",
+    "url": "https://www.cryptopolitan.com/securing-military-realities-machine-learning/",
+    "description": "In a recent exploration of the normativity of state-sanctioned killing, the utilization of machine learning in U.S. military intelligence products emerges as a pivotal point of contention. Beyond the technical and ethical debates, an institutional obstacle comes to light, challenging the foundational purpose of the military. This exploration delves into the complex landscape where civilian ... <a title=\"Securing Military Realities with Machine Learning &#8211; A Glimpse into Normative Challenges\" class=\"read-more\" href=\"https://www.cryptopolitan.com/securing-military-realities-machine-learning/\" aria-label=\"More on Securing Military Realities with Machine Learning &#8211; A Glimpse into Normative Challenges\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-08T07:12:05.000Z",
+    "title": "Ethereum Whale banks $78 Million profit from $11 Million investment",
+    "url": "https://www.cryptopolitan.com/ethereum-whale-banks-78m-profit-from-11m/",
+    "description": "According to cryptocurrency research firm LookonChain, an Ethereum (ETH) whale may sell its assets after lying dormant for five years. From June to August 2017, the whale received 47,260 ETH, worth $11.34 million. The whale&#8217;s average cost per coin was roughly $240. Since 2017, the price of ETH has increased by roughly 838%. According to ... <a title=\"Ethereum Whale banks $78 Million profit from $11 Million investment\" class=\"read-more\" href=\"https://www.cryptopolitan.com/ethereum-whale-banks-78m-profit-from-11m/\" aria-label=\"More on Ethereum Whale banks $78 Million profit from $11 Million investment\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-08T07:05:51.000Z",
-    "title": "Binance pulls back from Abu Dhabi license",
-    "url": "https://crypto.news/binance-pulls-back-from-abu-dhabi-license/",
-    "description": "Binance has withdrawn its application for an Abu Dhabi license, saying it &#8216;was not necessary.&#8217; According to a Reuters report on Dec. 7, 2023, crypto exchange Binance has decided not to proceed with its application for an Abu Dhabi license.&#8230;"
+    "date": "2023-12-08T07:27:46.000Z",
+    "title": "Binance’s Changpeng Zhao barred from leaving U.S. ahead of sentencing",
+    "url": "https://crypto.news/binances-changpeng-zhao-barred-from-leaving-u-s-ahead-of-sentencing/",
+    "description": "A federal judge ruled on Dec. 9 that Changpeng Zhao must remain in the U.S. until his sentencing on criminal charges related to anti-money laundering violations. The latest decision overturns an earlier ruling by a magistrate judge that would have&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-08T06:57:14.000Z",
-    "title": "Early Ethereum whale moves $90m to Kraken; Arweave holders eyeing Pullix presale ",
-    "url": "https://crypto.news/early-ethereum-whale-moves-90m-to-kraken-arweave-holders-eyeing-pullix-presale/",
-    "description": "As Ethereum whale dumps, Arweave holders are actively exploring Pullix as the project approaches its token presale"
+    "date": "2023-12-08T07:15:11.000Z",
+    "title": "Solana outpaces Ethereum layer-2s in trading volume; whales turn to AI altcoin ",
+    "url": "https://crypto.news/solana-outpaces-ethereum-layer-2s-in-trading-volume-whales-turn-to-ai-altcoin/",
+    "description": "Solana is outpacing Ethereum layer-2s like Polygon in trading volume as whales shift their attention to InQubeta and the QUBE presale"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-08T07:12:40.000Z",
+    "title": "Fancy a ‘Freedom Visa’? El Salvador has you covered",
+    "url": "https://crypto.news/fancy-a-freedom-visa-el-salvador-has-you-covered/",
+    "description": "Authorities in El Salvador have unveiled a new citizenship-by-investment program that will provide visas and passports for up to 1,000 people. The country&#8217;s authorities and Tether launched the corresponding program. One of the conditions is the desire to invest 1&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-08T07:08:00.000Z",
-    "title": "Solana (SOL) Rockets: Analyst Predicts 600% Rally to $453",
-    "url": "https://www.crypto-news-flash.com/solana-sol-rockets-analyst-predicts-600-rally-to-453/?utm_source=rss&utm_medium=rss&utm_campaign=solana-sol-rockets-analyst-predicts-600-rally-to-453",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-2023-08-03T093129.445.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-2023-08-03T093129.445.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/unnamed-2023-08-03T093129.445-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Solana has price has rallied more than 547 percent year-to-date despite the periodic FTX sales indicating a notable demand from institutional investors as an alternate investment product to Bitcoin and Ethereum. The rise of Solana-based meme coins led by BONK has significantly helped the SOL bulls to remain in control since the macro breakout. The [...]"
+    "date": "2023-12-08T07:10:34.000Z",
+    "title": "BREAKING: SEC Moves Closer to Approving BlackRock’s Bitcoin ETF – BTC Price Expected to Reach $250,000 in January",
+    "url": "https://www.crypto-news-flash.com/breaking-sec-moves-closer-to-approving-blackrocks-bitcoin-etf-btc-price-expected-to-reach-250000-in-january/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-sec-moves-closer-to-approving-blackrocks-bitcoin-etf-btc-price-expected-to-reach-250000-in-january",
+    "description": "<img width=\"512\" height=\"307\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-51.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-51.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-51-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/unnamed-51-336x200.jpg 336w\" sizes=\"(max-width: 512px) 100vw, 512px\" />SEC&#8217;s advanced discussions with Bitcoin ETF issuers signal potential approval, potentially impacting the BTC market significantly. The involvement of major asset managers like BlackRock and Grayscale indicates a significant shift in the cryptocurrency investment landscape. Echoing the insights shared by CNF earlier this week regarding the SEC&#8217;s involvement in BlackRock&#8217;s Bitcoin ETF, which hinted at [...]"
   }
 ]

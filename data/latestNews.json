@@ -1,10 +1,31 @@
 [
   {
+    "source": "CryptoSlate",
+    "date": "2023-12-09T18:49:18.000Z",
+    "title": "EU set to adopt world’s first AI legislation that will ban facial recognition in public places",
+    "url": "https://cryptoslate.com/eu-set-to-adopt-worlds-first-ai-legislation-that-will-ban-facial-recognition-in-public-places/",
+    "description": "<p>The European Union (EU) is leading the race to regulate artificial intelligence (AI). Putting an end to three days of negotiations, the European Council and the European Parliament reached a provisional agreement earlier today on what&#8217;s set to become the world&#8217;s first comprehensive regulation of AI. Carme Artigas, the Spanish Secretary of State for digitalization [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/eu-set-to-adopt-worlds-first-ai-legislation-that-will-ban-facial-recognition-in-public-places/\">EU set to adopt world&#8217;s first AI legislation that will ban facial recognition in public places</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
     "source": "Bitcoin.com",
     "date": "2023-12-09T18:30:05.000Z",
     "title": "Jack Dorsey’s Block Launches Bitkey: A New Self-Custody Bitcoin Wallet With No Seed Phrases",
     "url": "https://news.bitcoin.com/jack-dorseys-block-launches-bitkey-a-new-self-custody-bitcoin-wallet-with-no-seed-phrases/",
     "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Jack Dorsey&#039;s Block Launches Bitkey: A New Self-Custody Bitcoin Wallet With No Seed Phrases\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/klopuyyuu.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Block, Inc. has recently introduced Bitkey, its innovative self-custody bitcoin wallet, offering a unique approach to bitcoin management. Unlike traditional wallets which rely on passwords or seed phrases, Bitkey utilizes a distinctive 2-of-3 multi-signature mechanism for recovery. Bitkey Wallet Approach Ditches Traditional Seed Phrases Bitkey, conceived and built by Block, Inc. (formerly Square, Inc.), is [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-09T19:04:11.000Z",
+    "title": "Tether announces new wallet-freezing policy to boost security—what you need to know",
+    "url": "https://www.cryptopolitan.com/tether-announces-new-wallet-freezing-policy/",
+    "description": "Tether, the company responsible for the largest stablecoin in the cryptocurrency market, has taken a proactive step in its security measures by announcing a new wallet-freezing policy today. This initiative, decided on December 1, 2023, aligns with the U.S. Office of Foreign Asset Controls (OFAC) regulations, particularly focusing on individuals on the Specially Designated Nationals ... <a title=\"Tether announces new wallet-freezing policy to boost security—what you need to know\" class=\"read-more\" href=\"https://www.cryptopolitan.com/tether-announces-new-wallet-freezing-policy/\" aria-label=\"More on Tether announces new wallet-freezing policy to boost security—what you need to know\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-09T18:49:42.000Z",
+    "title": "Bitcoin’s crypto market dominance is at risk – But why?",
+    "url": "https://www.cryptopolitan.com/bitcoin-market-dominance-is-at-risk/",
+    "description": "Bitcoin has long reigned supreme as the undisputed leader, serving as both the pioneer and benchmark for countless digital assets that followed. However, a growing chorus of voices within the crypto community suggests that Bitcoin&#8217;s once-unassailable market dominance is now facing unprecedented challenges.&#160; The question echoing across forums and trading desks alike is: why is ... <a title=\"Bitcoin&#8217;s crypto market dominance is at risk &#8211; But why?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/bitcoin-market-dominance-is-at-risk/\" aria-label=\"More on Bitcoin&#8217;s crypto market dominance is at risk &#8211; But why?\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
@@ -26,6 +47,20 @@
     "title": "Why is the Cardano price up today?",
     "url": "https://www.cryptopolitan.com/why-is-the-cardano-price-up-today/",
     "description": "Today&#8217;s surge in the Cardano price can be attributed to a combination of fundamental factors, market sentiment, and broader industry trends. Crypto markets are known for their volatility, and Cardano, with its unique features and active development, is no exception.&#160; Cardano’s price skyrockets As of this writing, Cardano (ADA) is trading at a price of ... <a title=\"Why is the Cardano price up today?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/why-is-the-cardano-price-up-today/\" aria-label=\"More on Why is the Cardano price up today?\">Read more</a>"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-09T19:00:00.000Z",
+    "title": "ChatGPT makes price predictions for ORDI, El Hippo, and Terra Luna Classic",
+    "url": "https://crypto.news/chatgpt-makes-price-predictions-for-ordi-el-hippo-and-terra-luna-classic/",
+    "description": "ChatGPT, an AI model, predicts the price of ORDI, El Hippo, and Terra Luna Classic"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-09T18:50:32.000Z",
+    "title": "Crypto advocates blast 2024 US defense bill for nixing digital asset proposals: ‘A missed opportunity’",
+    "url": "https://crypto.news/crypto-advocates-blast-defense-bill-nixing-proposals/",
+    "description": "The latest U.S. defense bill has left out two crypto regulatory law proposals to cover the parameters surrounding money laundering and examining financial institutions"
   },
   {
     "source": "NewsBTC",

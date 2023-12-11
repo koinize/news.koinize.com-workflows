@@ -1,114 +1,37 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-11T14:00:00.000Z",
-    "title": " Immutable expands Web3 gaming payment options with Transak integration ",
-    "url": "https://cointelegraph.com/news/immutable-web3-gaming-payment-options-transak-integration",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNjc2ZmIzOTAtN2FkYy00NDllLTk0NjgtZDc3NjY5NDAyNTFlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Immutable deploys Transak’s functionality into its zkEVM gaming development infrastructure, powering in-game cryptocurrency and fiat payment methods.</p>\n                    <p><p data-ct-non-breakable=\"true\">Web3 gaming firm Immutable is set to integrate Transak as the sole payment service provider for its Immutable zero-knowledge Ethereum Virtual Machine (zkEVM). The service is set to directly power fiat and Web3-based payments in gaming environments.</p><p>Transak’s service will be integrated into Immutable Checkout and Immutable Passport. The former acts as Immutable’s all-in-one transaction infrastructure for games and provides a configurable interface for game developers to integrate various payment options. </p><p>Transak’s on-ramp, off-ramp and nonfungible token (NFT) payment service allows fiat payments through credit and debit cards, as well as Apple Pay and Google Pay. Transak marketing head Harshit Gangwar told Cointelegraph that the payment rail will power in-game transactions for digital assets:</p><p><a href=\"https://cointelegraph.com/news/immutable-web3-gaming-payment-options-transak-integration\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-11T13:58:48.000Z",
-    "title": " UK asset manager M&amp;G invests $20M in Bitcoin derivatives exchange  ",
-    "url": "https://cointelegraph.com/news/uk-asset-manager-mg-invests-20-m-in-bitcoin-derivatives-exchange",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMDM3NGFhYTUtNzNjNC00NWY3LWFhODktZWJmODliNjhhOGY3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>M&G invests $20 million in Global Futures & Options Holding to open up cryptocurrency derivatives trading to traditional financial institutions. </p>\n                    <p><p>The investment arm of UK-based pension fund M&amp;G has invested $20 million in the country’s first regulated Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) derivatives exchange, Global Futures &amp; Options Holdings (GFO-X).</p><p>An announcement from <a href=\"https://www.mandg.com/news-and-media/press-releases/mandg-investments/2023/11-12-2023b\" target=\"_blank\" rel=\"noopener nofollow\">M&amp;G</a> and <a href=\"https://www.gfo-x.com/\" target=\"_blank\" rel=\"noopener nofollow\">GFO-X</a> outlined the details of the investment, which forms part of a $30 million Series B funding round for the derivatives exchange. The platform will initially offer clearing of Bitcoin index futures and options contracts.</p><p>The move provides a platform for traditional finance institutions to gain exposure to a variety of cryptocurrency derivatives investment products. GFO-X is set to become a Financial Conduct Authority (FCA) regulated and centrally-cleared trading platform for crypto derivatives.</p><p><a href=\"https://cointelegraph.com/news/uk-asset-manager-mg-invests-20-m-in-bitcoin-derivatives-exchange\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-11T13:57:53.000Z",
-    "title": " ChatGPT passes neurology exam for first time ",
-    "url": "https://cointelegraph.com/news/chatgpt-passes-neurology-exam-for-first-time",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZGQ3MjczMjktZGUyNy00MWFkLWJmMTAtNzYzMDBkYTVhMzBmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>LLM 4.0 from OpenAI answered 85% of the American Board of Psychiatry and Neurology's questions correctly, implying potentially \"significant\" future uses for the technology.</p>\n                    <p><p>OpenAI's latest update of its large language model (LLM), ChatGPT 4.0, has passed a clinical neurology exam with 85% correct answers in a proof-of-concept study. The research authors believe that after some fine-tuning, LLMs could have \"significant applications\" in clinical neurology. </p><p>The results of the experiment, conducted by a group of researchers from the University Hospital Heidelberg and the German Cancer Research Center in Heidelberg, were <a href=\"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812620\" target=\"_blank\" rel=\"noopener nofollow\">published</a> on Dec. 7. The test, performed on May 31, featured two LLMs, ChatGPT 3.5 and its later version, ChatGPT 4.0. </p><p>The researchers used the bank of questions for a neurology exam from the American Board of Psychiatry and Neurology with a small cohort of questions from the European Board for Neurology. </p><p><a href=\"https://cointelegraph.com/news/chatgpt-passes-neurology-exam-for-first-time\">Read more</a></p></p>\n                \n            "
-  },
-  {
     "source": "CryptoSlate",
-    "date": "2023-12-11T13:54:19.000Z",
-    "title": "Crypto investors place $8.6 million in short positions as market rally skepticism grows",
-    "url": "https://cryptoslate.com/crypto-investors-place-8-6-million-in-short-positions-as-market-rally-skepticism-grows/",
-    "description": "<p>Last week, crypto investors spent a significant amount of their funds betting against digital asset price increases. The CoinShares weekly report revealed that $8.6 million was directed into Short Bitcoin investment products, representing 20% of the total crypto inflow for the previous week. James Butterfill, an analyst with the asset manager, explained that the inflows [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/crypto-investors-place-8-6-million-in-short-positions-as-market-rally-skepticism-grows/\">Crypto investors place $8.6 million in short positions as market rally skepticism grows</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-11T14:18:21.000Z",
+    "title": "Google to update ad policy for ‘Crypto Trusts’ ahead of anticipated ETF approvals",
+    "url": "https://cryptoslate.com/google-to-update-advertising-policy-for-crypto-trusts-ahead-of-anticipated-etf-approvals/",
+    "description": "<p>Google is set to update its Cryptocurrencies and related products policy in January 2024, explicitly clarifying regulations for the advertisement of Cryptocurrency Coin Trusts. This change, effective from Jan. 29, 2024, will allow advertisers in the United States to promote Cryptocurrency Coin Trusts, given they meet specific criteria and obtain certification from Google. Cryptocurrency Coin [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/google-to-update-advertising-policy-for-crypto-trusts-ahead-of-anticipated-etf-approvals/\">Google to update ad policy for ‘Crypto Trusts’ ahead of anticipated ETF approvals</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2023-12-11T13:43:09.000Z",
-    "title": "Bitcoin Technical Analysis: Bears Take the Reins Clawing BTC’s Price Back",
-    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-bears-take-the-reins-clawing-btcs-price-back/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Bears Take the Reigns Clawing BTC&#039;s Price Back\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbear.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Monday, the valuation of bitcoin experienced a 3.3% decline within the past day, falling beneath the $42K threshold. Currently positioned at $42,224, bitcoin&#x2019;s valuation is undergoing a marked shift in the cryptocurrency landscape on Dec. 11, 2023, just two days prior to the forthcoming meeting of the U.S. Federal Reserve. Bitcoin The recent pricing [&#8230;]"
+    "date": "2023-12-11T14:41:49.000Z",
+    "title": "Ethereum Technical Analysis: ETH Exhibits Mixed Signals; Resilience Amidst Bearish Trends",
+    "url": "https://news.bitcoin.com/ethereum-technical-analysis-eth-exhibits-mixed-signals-resilience-amidst-bearish-trends/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum Technical Analysis: ETH Exhibits Mixed Signals; Resilience Amidst Bearish Trends\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/titojack.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As of December 11, 2023, ethereum exhibits a blend of neutral and bearish trends. Mirroring bitcoin&#x2019;s trajectory, ether experienced a pronounced decline during the transition from Sunday&#x2019;s late-night trading into Monday. Ethereum Today, ethereum&#x2019;s (ETH) value hovers at $2,239, fluctuating within a 24-hour span between $2,217 and $2,376. This fluctuation underscores the notable instability witnessed [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-11T14:02:05.000Z",
-    "title": "SEC issues fresh warnings about the risks of crypto investments",
-    "url": "https://www.cryptopolitan.com/sec-warnings-risks-of-crypto-investments/",
-    "description": "The U.S. Securities and Exchange Commission recently restated its cautious stance on crypto investments, highlighting the inherent risks associated with the volatile nature of the market. In a notable move, the regulatory body warned investors about the prevalent fraud within the crypto space, including fraudulent coin offerings, Ponzi schemes, pyramid schemes, and instances of outright ... <a title=\"SEC issues fresh warnings about the risks of crypto investments\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sec-warnings-risks-of-crypto-investments/\" aria-label=\"More on SEC issues fresh warnings about the risks of crypto investments\">Read more</a>"
+    "date": "2023-12-11T14:36:25.000Z",
+    "title": "Fidelity’s Wise Origin Spot Bitcoin ETF: Symbolizing Mainstream Financial Acceptance",
+    "url": "https://www.cryptopolitan.com/fidelitys-wise-origin-spot-bitcoin-etf/",
+    "description": "The cryptocurrency landscape has evolved significantly with the rise of Bitcoin Exchange-Traded Funds (ETFs), merging traditional finance with digital currencies. A Bitcoin ETF offers investors exposure to Bitcoin&#8217;s price movements without owning the cryptocurrency itself. A crucial development is the concept of a spot Bitcoin ETF, which directly mirrors Bitcoin&#8217;s current price, unlike derivative-based ETFs ... <a title=\"Fidelity’s Wise Origin Spot Bitcoin ETF: Symbolizing Mainstream Financial Acceptance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/fidelitys-wise-origin-spot-bitcoin-etf/\" aria-label=\"More on Fidelity’s Wise Origin Spot Bitcoin ETF: Symbolizing Mainstream Financial Acceptance\">Read more</a>"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-11T13:53:34.000Z",
-    "title": "Spider-Man vs. Sandman No Way Home LEGO Set: A New Addition for Marvel Fans",
-    "url": "https://www.cryptopolitan.com/spider-man-vs-sandman-no-way-home-lego-set/",
-    "description": "Discover the latest Marvel-inspired Lego set featuring Spider-Man vs. Sandman, bringing epic movie battles to life, along with surprising character additions. "
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-11T13:50:08.000Z",
-    "title": "Nigeria’s crypto adoption rate makes a significant leap",
-    "url": "https://www.cryptopolitan.com/nigerias-crypto-adoption-a-significant-leap/",
-    "description": "The surge in cryptocurrency engagement in Nigeria reflects a profound transformation in the financial landscape, with approximately 47% of the population actively participating in crypto trading. A comprehensive analysis by Coin Journal indicates a noteworthy 15% growth in crypto ownership between 2020 and 2023, despite regulatory challenges imposed by the Central Bank of Nigeria (CBN). ... <a title=\"Nigeria’s crypto adoption rate makes a significant leap\" class=\"read-more\" href=\"https://www.cryptopolitan.com/nigerias-crypto-adoption-a-significant-leap/\" aria-label=\"More on Nigeria’s crypto adoption rate makes a significant leap\">Read more</a>"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-11T13:43:34.000Z",
-    "title": "MIT Group Releases White Papers on Governance of AI: A Framework for U.S. AI Governance",
-    "url": "https://www.cryptopolitan.com/mit-group-white-papers-on-governance-of-ai/",
-    "description": "In a bid to provide valuable resources for U.S. policymakers, a committee of MIT leaders and scholars has released a series of policy briefs outlining a comprehensive framework for the governance of artificial intelligence (AI). The overarching goal of these papers is to bolster U.S. leadership in the rapidly evolving field of AI while simultaneously ... <a title=\"MIT Group Releases White Papers on Governance of AI: A Framework for U.S. AI Governance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/mit-group-white-papers-on-governance-of-ai/\" aria-label=\"More on MIT Group Releases White Papers on Governance of AI: A Framework for U.S. AI Governance\">Read more</a>"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-11T14:08:12.000Z",
-    "title": "Ethereum ($ETH) Witnesses 5% Dip Just Like Every Other Crypto Assets, Yet Whales Seize Opportunity For Fresh Accumulation",
-    "url": "https://nulltx.com/ethereum-eth-witnesses-5-dip-just-like-every-other-crypto-assets-yet-whales-seize-opportunity-for-fresh-accumulation/",
-    "description": "In the wake of a more than 5% decline in the past 24 hours on Monday, Ethereum ($ETH), the second-largest cryptocurrency, underwent a noticeable correction. Despite this dip, the resilience of investors to capitalize on the lower prices suggests that the market&#8217;s bullish momentum may not be dissipating. According to [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-11T14:00:00.000Z",
-    "title": "Bitget invests in Morph with multimillion-dollar deal",
-    "url": "https://crypto.news/bitget-invests-in-morph-with-multimillion-dollar-deal/",
-    "description": "Cryptocurrency exchange Bitget has revealed a multimillion-dollar deal with Morph, a layer-2 consumer blockchain network. According to a press release shared with crypto.news, Morph plans to implement Bitget&#8216;s native affiliate system in a bid to extend its follower base to&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-11T13:45:04.000Z",
-    "title": "Why did the crypto market drop amid the bull run?",
-    "url": "https://crypto.news/why-did-the-crypto-market-drop-amid-the-bull-run/",
-    "description": "Discover the factors behind the abrupt crypto market sell-off on Dec. 11, including insights into Bitcoin's and Ethereum's sharp price drops."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-11T14:05:22.000Z",
-    "title": "Key Fed Decisions: Implications for Bitcoin and Other Digital Assets",
-    "url": "https://www.crypto-news-flash.com/key-fed-decisions-implications-for-bitcoin-and-other-digital-assets/?utm_source=rss&utm_medium=rss&utm_campaign=key-fed-decisions-implications-for-bitcoin-and-other-digital-assets",
-    "description": "<img width=\"640\" height=\"427\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/etienne-martin-2_K82gx9Uk8-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"US Fed Rate Cuts To Start After Bitcoin Halving\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/etienne-martin-2_K82gx9Uk8-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/etienne-martin-2_K82gx9Uk8-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/etienne-martin-2_K82gx9Uk8-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Goldman Sachs forecasts interest rate cuts by the Fed in the third quarter of 2024, impacting markets and cryptocurrencies. Rate reductions could stimulate investment and consumption, while a delay would affect the Bitcoin rally. In a move that could reshape the financial landscape, Goldman Sachs, the prominent investment bank, has predicted a series of interest [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-11T14:05:06.000Z",
-    "title": "Will USTC reach $1 and repeg? Buy Retik Finance (RETIK) for 30x gains instead advice experts",
-    "url": "https://www.crypto-news-flash.com/will-ustc-reach-1-and-repeg-buy-retik-finance-retik-for-30x-gains-instead-advice-experts/?utm_source=rss&utm_medium=rss&utm_campaign=will-ustc-reach-1-and-repeg-buy-retik-finance-retik-for-30x-gains-instead-advice-experts",
-    "description": "<img width=\"512\" height=\"279\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-53.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-53.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-53-300x163.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />For crypto investors, Retik Finance has the best outlook to maximize portfolio earnings and compensate for the losses incurred from the USTC crash. Anticipating a USTC repeg might be a far from realistic hope.With the new Crypto innovations from Retik that have hit the market in 2023, experts are making a strong case that points [...]"
+    "date": "2023-12-11T14:26:23.000Z",
+    "title": "OpenAI Acknowledges GPT-4’s Decreased Performance",
+    "url": "https://www.cryptopolitan.com/openai-gpt-4s-decreased-performance/",
+    "description": "In a recent development, OpenAI, the renowned artificial intelligence technology company, has confirmed that its GPT-4 Large Language Model (LLM) has experienced a decrease in performance. Users have reported instances of the model delivering subpar results for tasks that it previously handled with ease. OpenAI attributes this issue to the model&#8217;s lack of updates, with ... <a title=\"OpenAI Acknowledges GPT-4&#8217;s Decreased Performance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/openai-gpt-4s-decreased-performance/\" aria-label=\"More on OpenAI Acknowledges GPT-4&#8217;s Decreased Performance\">Read more</a>"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-11T13:59:00.000Z",
-    "title": "FOMO Sets in as Crypto Prices Plunge: Is It Time To Buy the Dip?",
-    "url": "https://coinedition.com/fomo-sets-in-as-crypto-prices-plunge-is-it-time-to-buy-the-dip/",
-    "description": "<img width=\"696\" height=\"392\" src=\"https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/Price-analysis-3-696x392-1-355x200.jpg 355w\" sizes=\"(max-width: 696px) 100vw, 696px\" /><p>Despite experiencing its fastest correction in the last 120 days, crypto traders are trying to capitalize on the widespread price drop, a Santiment post on X revealed. According to Santiment, the on-chain analysis tool, there has been a surge in “buy the dip” conversations between December 10 and the time of writing. Altcoins Are Ready [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/fomo-sets-in-as-crypto-prices-plunge-is-it-time-to-buy-the-dip/\">FOMO Sets in as Crypto Prices Plunge: Is It Time To Buy the Dip?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Bitfinex Blog",
-    "date": "2023-12-11T13:42:52.000Z",
-    "title": "Bitfinex Alpha | Beware Price Corrections",
-    "url": "https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-beware-price-corrections/",
-    "description": "<p>This week&#8217;s on-chain analysis focuses on what we see as key inflection points for the Bitcoin market and where it progresses from here. The recent surge in BTC has seen it hit a significant resistance level at $45,000. This surge represents a more than 170...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-beware-price-corrections/\">Bitfinex Alpha | Beware Price Corrections</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "date": "2023-12-11T14:26:00.000Z",
+    "title": "Analyst Predicts Potential Upside For Binance Coin (BNB)",
+    "url": "https://coinedition.com/analyst-predicts-potential-upside-for-binance-coin-bnb/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/bnb-1-1-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency trader and analyst Ali revealed in an X post earlier today that Binance Coin (BNB) could still break out towards the upside even though Binance is facing a series of legal challenges. Furthermore, the analyst noted that a bearish descending triangle has formed on BNB’s weekly chart. Nevertheless, Ali shared that BNB closing [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/analyst-predicts-potential-upside-for-binance-coin-bnb/\">Analyst Predicts Potential Upside For Binance Coin (BNB)</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

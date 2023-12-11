@@ -1,44 +1,114 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-11T08:00:00.000Z",
+    "title": "Bitcoin Wallet Conio, Coinbase Team Up to Bring Crypto to Italian Banks",
+    "url": "https://www.coindesk.com/business/2023/12/11/bitcoin-wallet-conio-coinbase-team-up-to-bring-crypto-to-italian-banks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Conio is also deeply involved in the institutional uptake of digital assets, specifically the Euro Token project overseen by the innovation center of the Bank of Italy."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-12-11T07:48:53.000Z",
+    "title": "Tether Announces Voluntary Wallet-Freezing Policy",
+    "url": "https://cryptodaily.co.uk/2023/12/tether-announces-voluntary-wallet-freezing-policy",
+    "description": "Tether, the issuer of the world’s largest stablecoin, announced a voluntary freezing policy for OFAC-sanctioned individuals as it steps up efforts to cooperate with law enforcement agencies."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-12-11T08:00:54.000Z",
+    "title": "Vivek Ramaswamy Blasts SEC Chair Gary Gensler: ‘Regulations Need to Catch Up’",
+    "url": "https://news.bitcoin.com/vivek-ramaswamy-blasts-sec-chair-gary-gensler-regulations-need-to-catch-up/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Vivek Ramaswamy Blasts SEC Chair Gary Gensler: &#039;Regulations Need to Catch Up&#039;\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/c487f3f4-723b-41bd-bb4c-4cbf77fb3be0.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Presidential candidate Vivek Ramaswamy heavily criticized the lack of action of the U.S. Securities and Exchange Commission (SEC) and its chair, Gary Gensler, on the fraud cases in the crypto industry. Ramaswamy stated that regulations needed to catch up and that the existence of these cases was evidence that the current framework was not working. [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-12-11T07:25:13.000Z",
-    "title": "London’s M&G Plc fuels crypto revival with $20M stake",
-    "url": "https://www.cryptopolitan.com/londons-mg-plc-invests-20m-in-crypto/",
-    "description": "In a significant move indicating increasing institutional confidence in digital assets, M&#38;G Plc., a renowned pension firm based in London, has invested $20 million in a British crypto derivatives trading platform, GFO-X. This investment is a key component of a $30 million Series B funding round for GFO-X. M&#38;G Investments, the asset management division of ... <a title=\"London&#8217;s M&#38;G Plc fuels crypto revival with $20M stake\" class=\"read-more\" href=\"https://www.cryptopolitan.com/londons-mg-plc-invests-20m-in-crypto/\" aria-label=\"More on London&#8217;s M&#38;G Plc fuels crypto revival with $20M stake\">Read more</a>"
+    "date": "2023-12-11T08:08:31.000Z",
+    "title": "Financial News Website Accused of AI-Generated Copycat Content",
+    "url": "https://www.cryptopolitan.com/financial-news-website-accused-of-ai-generated-copycat-content/",
+    "description": "Investing.com, a prominent financial news website, has been scrutinized for allegedly employing artificial intelligence (AI) to produce articles that closely resemble content published by its competitors. This practice has raised concerns about the ethics and originality of the news industry, with competitors voicing their displeasure over what they perceive as an erosion of their competitive ... <a title=\"Financial News Website Accused of AI-Generated Copycat Content\" class=\"read-more\" href=\"https://www.cryptopolitan.com/financial-news-website-accused-of-ai-generated-copycat-content/\" aria-label=\"More on Financial News Website Accused of AI-Generated Copycat Content\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T08:06:19.000Z",
+    "title": "Why is the crypto market down today? BTC falls below $42K",
+    "url": "https://www.cryptopolitan.com/why-is-the-crypto-market-down-btc-at-42k/",
+    "description": "The crypto market witnessed a notable downturn, with Bitcoin (BTC) plummeting below the crucial $42,000 threshold. Today, crypto coins were trading in negative territory, as investors remained on the sidelines in anticipation of crucial inflation data.&#160; Particularly, later this week, the U.S. Labour Department is scheduled to disclose data on the Producer Price Index (PPI) ... <a title=\"Why is the crypto market down today? BTC falls below $42K\" class=\"read-more\" href=\"https://www.cryptopolitan.com/why-is-the-crypto-market-down-btc-at-42k/\" aria-label=\"More on Why is the crypto market down today? BTC falls below $42K\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T08:05:35.000Z",
+    "title": "Machine Learning Identifies Key Markers for Healthy Aging, Separate from Chronic Disease Risk",
+    "url": "https://www.cryptopolitan.com/machine-learning-identifies-key-markers-for-healthy-aging-separate-from-chronic-disease-risk/",
+    "description": "In a groundbreaking study published in the prestigious journal Nature Aging, researchers have harnessed the power of machine learning to unveil vital markers for healthy aging that are distinct from chronic disease risks. This innovative approach promises to revolutionize our understanding of aging and pave the way for more comprehensive models of healthy aging and ... <a title=\"Machine Learning Identifies Key Markers for Healthy Aging, Separate from Chronic Disease Risk\" class=\"read-more\" href=\"https://www.cryptopolitan.com/machine-learning-identifies-key-markers-for-healthy-aging-separate-from-chronic-disease-risk/\" aria-label=\"More on Machine Learning Identifies Key Markers for Healthy Aging, Separate from Chronic Disease Risk\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T08:03:14.000Z",
+    "title": "Chatbot AI for Bible and Quran Questions",
+    "url": "https://www.cryptopolitan.com/chatbot-ai-for-bible-and-quran-questions/",
+    "description": "In the ever-evolving landscape of artificial intelligence (AI), a new chatbot has emerged to cater to questions related to the Bible and the Quran. This innovative tool aims to provide quick and reliable answers to individuals seeking insights into these religious texts. The chatbot&#8217;s purpose The primary objective of this AI-powered chatbot is to assist ... <a title=\"Chatbot AI for Bible and Quran Questions\" class=\"read-more\" href=\"https://www.cryptopolitan.com/chatbot-ai-for-bible-and-quran-questions/\" aria-label=\"More on Chatbot AI for Bible and Quran Questions\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T08:02:13.000Z",
+    "title": "dYdX Users Drift Towards a Newly Emerging Crypto Alternative",
+    "url": "https://www.cryptopolitan.com/dydx-users-drift-towards-a-newly-emerging-crypto-alternative/",
+    "description": "Explore the latest in decentralized finance (DeFi) with insights into top DeFi projects. Learn how dYdX integrates with Ledger Live for secure staking, and discover VC Spectra&#8217;s (SPCT) unique hedge fund model gaining attention in its public presale stages. Stay informed on the evolving landscape of these top DeFi projects. &#62;&#62;BUY SPCT TOKENS NOW&#60;&#60; Ledger ... <a title=\"dYdX Users Drift Towards a Newly Emerging Crypto Alternative\" class=\"read-more\" href=\"https://www.cryptopolitan.com/dydx-users-drift-towards-a-newly-emerging-crypto-alternative/\" aria-label=\"More on dYdX Users Drift Towards a Newly Emerging Crypto Alternative\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-11T07:10:15.000Z",
-    "title": "Venus Protocol plunges 12% following false report of hack attack",
-    "url": "https://crypto.news/venus-protocol-plunges-12-following-false-report-of-hack-attack/",
-    "description": "An error on the Binance Oracle application has led to false reports of Venus Protocol&#8217;s hack, resulting in an 11.5% drop of XVS price. Brad Harrison, Head of Venus Labs, took to X on Dec. 10, 2023, to explain that&#8230;"
+    "date": "2023-12-11T08:05:32.000Z",
+    "title": "‘Buy the dip’ calls on social media surface, market sees correction",
+    "url": "https://crypto.news/buy-the-dip-calls-on-social-media-surface-market-sees-correction/",
+    "description": "As the total crypto market capitalization sees a sharp decline in 24 hours, investors show high levels of interest in “buying the dip.” According to data provided by CoinGecko, the global crypto market cap declined by 4.4% in the past&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-11T08:02:33.000Z",
+    "title": "SOL rallying before Christmas, Galaxy Fox presale sails past $750k",
+    "url": "https://crypto.news/sol-rallying-before-christmas-galaxy-fox-presale-sails-past-750k/",
+    "description": "Solana and Galaxy Fox dominate news headlines. SOL is rallying before Christmas while the GFOX presale has raised over $750,000"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-11T07:59:10.000Z",
+    "title": "Newly published DoJ document reveals Binance’s supervision requirements",
+    "url": "https://crypto.news/newly-published-doj-document-reveals-binances-supervision-requirements/",
+    "description": "The U.S. Department of Justice shares supervision details over Binance. The document appeared on the DoJ’s website on Dec. 10, 2023. According to the agreement, the supervisory authority will exercise government supervision over the company&#8217;s work and its business activities&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-11T07:43:46.000Z",
+    "title": "Crypto news website Decrypt merges with Rug Radio",
+    "url": "https://crypto.news/crypto-news-website-decrypt-merges-with-rug-radio/",
+    "description": "Decrypt has signed a letter of intent to merge with Rug Radio to double down on web3 content. Crypto media website Decrypt is set to merge with Rug Radio, a decentralized content creator platform, to create a joint venture on&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-11T07:36:51.000Z",
-    "title": "How CloudMiner Can Help You Earn Crypto",
-    "url": "https://www.crypto-news-flash.com/how-cloudminer-can-help-you-earn-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=how-cloudminer-can-help-you-earn-crypto",
-    "description": "<img width=\"512\" height=\"256\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-61.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-61.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-61-300x150.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the world of cryptocurrencies, cloud mining has emerged as a popular alternative to traditional methods like trading and investing. CloudMiner, born in the US, stands out by adopting the modern ANTMINER system, redefining the mining landscape. It aims to be an international force, decentralizing the cryptocurrency mining business. This article explores how cloud mining [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-11T07:35:34.000Z",
-    "title": "Bitcoin Dominance Expands; Pepe Dumps; NuggetRush Tipped by Expert Trader for 100x Rally",
-    "url": "https://www.crypto-news-flash.com/bitcoin-dominance-expands-pepe-dumps-nuggetrush-tipped-by-expert-trader-for-100x-rally/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-dominance-expands-pepe-dumps-nuggetrush-tipped-by-expert-trader-for-100x-rally",
-    "description": "<img width=\"512\" height=\"269\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51-300x158.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-51-351x185.png 351w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Bitcoin’s price and dominance soared. Pepe faces bearish pressure as the price takes a hit. NuggetRush, a P2E memecoin, gears up for a 100x price increase. Following a significant price rally, Bitcoin’s (BTC) market dominance increased. In contrast, Pepe (PEPE), a popular memecoin, is seeing a price dump following a rapid price uptick. Meanwhile, NuggetRush [...]"
+    "date": "2023-12-11T07:45:13.000Z",
+    "title": "Solana and Bitcoin Outshine Ethereum in NFT Sales Despite Massive Crypto Correction",
+    "url": "https://www.crypto-news-flash.com/solana-and-bitcoin-outshine-ethereum-in-nft-sales-despite-massive-crypto-correction/?utm_source=rss&utm_medium=rss&utm_campaign=solana-and-bitcoin-outshine-ethereum-in-nft-sales-despite-massive-crypto-correction",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Ethereum faces a decline in sales volume, marking a departure from its traditional dominance in the NFT marketplace. Solana gains prominence in the competitive NFT space, recording higher trading volumes than Ethereum after the execution of a significant $165 million airdrop by the liquid staking protocol Jito. The Web3 landscape reveals a noteworthy transformation in [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-11T07:28:12.000Z",
-    "title": "DOT Overtakes LINK and MATIC, but Technicals Warn of a Correction",
-    "url": "https://coinedition.com/dot-overtakes-link-and-matic-but-technicals-warn-of-a-correction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction.jpg 730w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/DOT_Overtakes_LINK_and_MATIC_but_Technicals_Warn_of_a_Correction-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Polkadot (DOT) was able to climb above Chainlink (LINK) and Polygon (MATIC) in terms of market cap. This is after DOT’s price surged more than 21.50% over the past week.  At press time, DOT was trading hands at $6.86 according to CoinMarketCap data. Despite the altcoin’s price undergoing a slight correction in the past 24 [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/dot-overtakes-link-and-matic-but-technicals-warn-of-a-correction/\">DOT Overtakes LINK and MATIC, but Technicals Warn of a Correction</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-11T08:04:45.000Z",
+    "title": "Bitcoin’s New Rise Faces its First Test: Correction or Consolidation?",
+    "url": "https://coinedition.com/bitcoins-new-rise-faces-its-first-test-correction-or-consolidation/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Data_Shows_50_Of_Bitcoin_Hashrate_Controlled_By_Two_Mining_Pools-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to Will Clemente, co-founder of Reflexivity Research, there will be an imminent correction in the price of Bitcoin. Clemente explained that the correction would be sharp and allow the market to shake off “greedy”, leveraged hands. Using information from Glassnode, a blockchain data and intelligence platform, Clemente showed how price corrections have been a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoins-new-rise-faces-its-first-test-correction-or-consolidation/\">Bitcoin&#8217;s New Rise Faces its First Test: Correction or Consolidation?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-11T07:15:00.000Z",
-    "title": "KuCoin Backs BTC Ecosystem With Strategic Investment in Dovi",
-    "url": "https://coinedition.com/kucoin-backs-btc-ecosystem-with-strategic-investment-in-dovi/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2.png 730w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/12/KuCoin-Backs-BTC-Ecosystem-with-Strategic-Investment-in-Dovi-2-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>KuCoin Labs, the incubator and investment arm of the KuCoin ecosystem, has made a strategic move indicative of its foresight within the BTC ecosystem. Specifically, KuCoin has disclosed a notable investment in Dovi, a Bitcoin Layer 2 solution. The KuCoin team communicated this development to Coin Edition in a recent statement. Per the notification, this [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kucoin-backs-btc-ecosystem-with-strategic-investment-in-dovi/\">KuCoin Backs BTC Ecosystem With Strategic Investment in Dovi</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-11T07:40:16.000Z",
+    "title": "5,000 SPVs Established in Abu Dhabi by Wealthy Individuals in 2023",
+    "url": "https://coinedition.com/5000-spvs-established-in-abu-dhabi-by-wealthy-individuals-in-2023/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/Abu_Dhabi_regulator_introduces_its_‘guiding_principles_for_crypto-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Changpeng Zhao, Gautam Adani, hedge fund billionaire Ray Dalio, and Russian steel magnate Vladimir Lisin are among the high-net-worth individuals who have established special purpose vehicles (SPVs) in Abu Dhabi&#8217;s international financial center this year. According to Bloomberg, Abu Dhabi is emerging as a &#8220;new wealth hub&#8221; where the world&#8217;s wealthiest individuals secure their assets [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/5000-spvs-established-in-abu-dhabi-by-wealthy-individuals-in-2023/\">5,000 SPVs Established in Abu Dhabi by Wealthy Individuals in 2023</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-11T08:04:39.000Z",
+    "title": "Crypto Witnesses Over $400,000,000 in Liquidations As Bitcoin (BTC) Corrects to $40,000",
+    "url": "https://dailyhodl.com/2023/12/11/crypto-witnesses-over-400000000-in-liquidations-as-bitcoin-btc-corrects-to-40000/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/06/Mega-Crypto-Dump.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The crypto markets are witnessing a massive surge in liquidations amid Bitcoin&#8217;s (BTC) correction down to a key psychological level. The latest data from the crypto data aggregator Coinglass shows that 119,302 traders were liquidated in the last 24 hours to the tune of $409.80 million. In the past day, Bitcoin dropped to a low [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/11/crypto-witnesses-over-400000000-in-liquidations-as-bitcoin-btc-corrects-to-40000/\">Crypto Witnesses Over $400,000,000 in Liquidations As Bitcoin (BTC) Corrects to $40,000</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

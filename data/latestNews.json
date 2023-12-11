@@ -1,79 +1,121 @@
 [
   {
-    "source": "CryptoSlate",
-    "date": "2023-12-11T16:30:16.000Z",
-    "title": "Bitcoin’s supply in profit shows bullish sentiment despite volatility",
-    "url": "https://cryptoslate.com/bitcoin-supply-in-profit-shows-bullish-sentiment-despite-volatility/",
-    "description": "<p>Monitoring the percentage of Bitcoin&#8217;s supply in profit offers crucial insights into market trends and potential movements. This metric calculates the proportion of existing Bitcoins currently held at a value higher than their purchase price. Its significance lies in providing a snapshot of overall market profitability, revealing whether most holders are in a state of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-supply-in-profit-shows-bullish-sentiment-despite-volatility/\">Bitcoin&#8217;s supply in profit shows bullish sentiment despite volatility</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CoinDesk",
+    "date": "2023-12-11T16:46:17.000Z",
+    "title": "Coinbase, MicroStrategy, Marathon Stocks Buckle 5%-10% as Bitcoin Tumbles Below $42K",
+    "url": "https://www.coindesk.com/markets/2023/12/11/coinbase-microstrategy-marathon-stocks-buckle-5-10-as-bitcoin-tumbles-below-42k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A \"flash crash\" in thin trading Sunday evening, saw bitcoin's price plunge nearly 10% from the $44,000 level in the space of a few minutes."
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2023-12-11T16:10:00.000Z",
-    "title": "Cryptoassets Eclipse Traditional Assets in Recent Market Shift, Notes ETC Group’s Head of Research",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/cryptoassets-eclipse-traditional-assets-in-recent-market-shift-notes-etc-groups-head-of-research/",
-    "description": "In a recent blog post dated 11 December 2023, Dr. André Dragosch, Head of Research at ETC Group, provided a detailed analysis of the current state of the cryptocurrency market. His insights reveal a landscape where cryptoassets are increasingly outperforming traditional assets, influenced by a complex interplay of economic indicators, market sentiment, and investment flows. […]\n"
+    "source": "Cointelegraph",
+    "date": "2023-12-11T17:00:00.000Z",
+    "title": " Enjin migrates over 200M NFTs from Ethereum to its blockchain ",
+    "url": "https://cointelegraph.com/news/200-million-nfts-migration-ethereum-enjin-blockchain",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvN2VhODcxY2ItMGI0Yy00MTBlLWEwZWYtYzZiM2FmN2IyYmYzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Atlas Development Services executive Oscar Franklin Tan told Cointelegraph that to avoid the gas fees for transferring 200 million NFTs, it took a different approach in the migration. </p>\n                    <p><p data-ct-non-breakable=\"true\">Nonfungible token (NFT) platform Enjin recently migrated over 200 million NFTs from Ethereum and a sidechain to its own Enjin Blockchain. </p><p>In an announcement received by Cointelegraph, Enjin noted that over 118 million NFTs hosted on Ethereum, along with over 101 million NFTs hosted in an Ethereum sidechain called JumpNet, have been transferred to its mainnet called the Enjin Blockchain.</p><p data-ct-non-breakable=\"true\">In June, the NFT platform <a href=\"https://cointelegraph.com/news/nft-platform-enjin-forks-polkadot-parachain-efinity-to-new-mainnet\">announced the creation of its own blockchain</a>. Enjin said the new network embedded NFT-focused features such as NFT transfers and royalty enforcement into the blockchain’s foundational code. </p><p><a href=\"https://cointelegraph.com/news/200-million-nfts-migration-ethereum-enjin-blockchain\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-11T16:51:21.000Z",
+    "title": " One-hour Bitcoin block times: What do they mean and are they frequent? ",
+    "url": "https://cointelegraph.com/news/bitcoin-block-time-adoption-blockchain",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMGU0YmI1NTctM2ExYi00ODVlLTk4ODgtYzdiODdiMmRjY2I0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Extended Bitcoin block times have been in the headlines recently, but are they really that big of a deal — or even very common? </p>\n                    <p><p>A Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) block that took over an hour to mine made headlines earlier in November. This is despite Bitcoin’s core protocol being written to aim to mine a block every 10 minutes.</p><p>Block 815,690 is the latest outlier to generate press speculation. This block took one hour and nine minutes to mine on Nov. 7. Public interest in an hour-plus confirmation time is not a singular event. Roughly once or twice a year, a media outlet picks up on a long block validation event and decides to run with the story.</p><p>On Oct. 17, 2022, a prominent crypto news site reported on a block that took one hour and 25 minutes to mine, which spurred a flurry of similar reports. As the story spread widely on social media, some fans reveled in the relative speed of their favored centralized altcoin.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-block-time-adoption-blockchain\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-11T17:00:21.000Z",
+    "title": "Positive funding rates challenge Bitcoin’s 5% market slump narrative",
+    "url": "https://cryptoslate.com/insights/positive-funding-rates-challenge-bitcoins-5-market-slump-narrative/",
+    "description": "<p>Quick Take Bitcoin recently experienced a significant decline, with its value dropping below $42,000 and even hitting a day&#8217;s low near $40,000. Interestingly, despite this 5% slump, the funding rates remained positive, illustrating resilience in the face of the downturn. The average funding rate, expressed in percentage, established by exchanges for perpetual futures contracts operates [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/positive-funding-rates-challenge-bitcoins-5-market-slump-narrative/\">Positive funding rates challenge Bitcoin&#8217;s 5% market slump narrative</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-12-11T17:05:37.000Z",
+    "title": "Coinbase lists Seamless Protocol’s new token, first Base token launched on the exchange",
+    "url": "https://cryptobriefing.com/coinbase-lists-seamless-protocols-token-first-base-layer-2-token/?utm_source=feed&utm_medium=rss",
+    "description": "Coinbase lists first Base layer 2 token in SEAM, governance token of Seamless Protocol built by leading DeFi teams."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-11T16:22:00.000Z",
-    "title": "Minutes Network Launches  Blockchain-based Wholesale Telecommunications Terminations Service",
-    "url": "https://cryptodaily.co.uk/2023/12/minutes-network-launches-blockchain-based-wholesale-telecommunications-terminations-service",
-    "description": "Minutes Network Launches  Blockchain-based Wholesale Telecommunications Terminations Service"
+    "date": "2023-12-11T17:02:20.000Z",
+    "title": "ChatGPT Predicts Imminent Surge For These Altcoins",
+    "url": "https://cryptodaily.co.uk/2023/12/chatgpt-predicts-imminent-surge-for-these-altcoins",
+    "description": "Embark on ChatGPT's comprehensive analysis of the evolving cryptocurrency market. This insightful overview covers the shifting dynamics as Bitcoin's dominance declines, spotlighting the rising potential of alternative digital currencies and innovative presale projects. Discover the implications of these trends for future market valuation and investment strategies with ChatGPT's expert interpretation."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-11T16:14:03.000Z",
-    "title": "Archetype Entertainment’s James Ohlen Discusses Upcoming Sci-Fi RPG “Exodus”",
-    "url": "https://www.cryptopolitan.com/archetype-entertainments-upcoming-sci-exodus/",
-    "description": "In an exclusive interview with GamesRadar+, James Ohlen, renowned game developer and founder of Archetype Entertainment, provided insights into the studio&#8217;s upcoming science fiction RPG, &#8220;Exodus.&#8221; With an impressive background at BioWare, Ohlen has set his sights on crafting an unparalleled sci-fi universe distinct from his previous ventures. A unique approach to Sci-Fi gaming Archetype ... <a title=\"Archetype Entertainment&#8217;s James Ohlen Discusses Upcoming Sci-Fi RPG &#8220;Exodus&#8221;\" class=\"read-more\" href=\"https://www.cryptopolitan.com/archetype-entertainments-upcoming-sci-exodus/\" aria-label=\"More on Archetype Entertainment&#8217;s James Ohlen Discusses Upcoming Sci-Fi RPG &#8220;Exodus&#8221;\">Read more</a>"
+    "date": "2023-12-11T17:07:20.000Z",
+    "title": "Introducing the Alpha Release of Bitcoin Oracle: A Milestone in DeFi Innovation",
+    "url": "https://www.cryptopolitan.com/the-alpha-release-bitcoin-oracle-defi/",
+    "description": "In an unprecedented move in the decentralized finance (DeFi) landscape, a coalition of blockchain innovators including ALEX, Domo, and esteemed partners like BIS, Hiro, UniSat, Xverse, and Xlink, have proudly announced the alpha release of the Bitcoin Oracle. This launch marks a pivotal moment in the Bitcoin DeFi ecosystem. The Bitcoin Oracle aims to establish ... <a title=\"Introducing the Alpha Release of Bitcoin Oracle: A Milestone in DeFi Innovation\" class=\"read-more\" href=\"https://www.cryptopolitan.com/the-alpha-release-bitcoin-oracle-defi/\" aria-label=\"More on Introducing the Alpha Release of Bitcoin Oracle: A Milestone in DeFi Innovation\">Read more</a>"
   },
   {
-    "source": "NullTX",
-    "date": "2023-12-11T16:15:22.000Z",
-    "title": "Recent Moves By $MATIC Whales Shake Up Market Despite The Notable Percentage Decline In Price ",
-    "url": "https://nulltx.com/recent-moves-by-matic-whales-shake-up-market-despite-the-notable-percentage-decline-in-price/",
-    "description": "In the midst of the current bearish trend gripping the crypto market, $MATIC has faced a decline of over 5% in the last 24 hours, mirroring the broader market sentiment. Notably, the token&#8217;s trajectory has been influenced by substantial movements from key players, namely LayerX Capital and two whales identified [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T17:04:43.000Z",
+    "title": "SBI and Saudi Aramco form a digital asset alliance",
+    "url": "https://www.cryptopolitan.com/sbi-saudi-aramco-form-digital-asset-alliance/",
+    "description": "In a remarkable achievement for the crypto industry, SBI Holdings and Saudi Aramco have joined forces. This strategic partnership, announced on December 7, 2023, signifies a bold move into the realms of digital assets and semiconductor technology. As the world watches, this alliance between Japan&#8217;s financial giant and Saudi Arabia&#8217;s state-owned oil behemoth is poised ... <a title=\"SBI and Saudi Aramco form a digital asset alliance\" class=\"read-more\" href=\"https://www.cryptopolitan.com/sbi-saudi-aramco-form-digital-asset-alliance/\" aria-label=\"More on SBI and Saudi Aramco form a digital asset alliance\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T17:01:36.000Z",
+    "title": "Silicon Valley’s C1 Fund plans major investments in Animoca Brands and Chainalysis",
+    "url": "https://www.cryptopolitan.com/c1-investment-animoca-brands-chainalysis/",
+    "description": "The C1 Fund, a joint Silicon Valley and United Arab Emirates initiative, is actively scouting opportunities in the Australian market. Specifically, the fund is targeting established crypto firms, with a particular interest in Animoca Brands, a blockchain gaming enterprise, and Chainalysis, a leading data analysis firm. The strategy, as detailed in a pitch deck obtained ... <a title=\"Silicon Valley&#8217;s C1 Fund plans major investments in Animoca Brands and Chainalysis\" class=\"read-more\" href=\"https://www.cryptopolitan.com/c1-investment-animoca-brands-chainalysis/\" aria-label=\"More on Silicon Valley&#8217;s C1 Fund plans major investments in Animoca Brands and Chainalysis\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T17:01:21.000Z",
+    "title": "Trader Joe Launches New DEX ‘Merchant Moe’ for Mantle Network",
+    "url": "https://www.cryptopolitan.com/trader-joe-dex-merchant-moe-mantle-network/",
+    "description": "Trader Joe, a well-known decentralized exchange (DEX), has announced the launch of a new platform: DEX Merchant Moe. The innovative platform is specifically tailored for the Layer2 network Mantle, marking a crucial step in the evolution of decentralized trading platforms. The introduction of Merchant Moe aims to leverage the advanced capabilities of the Layer2 network, ... <a title=\"Trader Joe Launches New DEX &#8216;Merchant Moe&#8217; for Mantle Network\" class=\"read-more\" href=\"https://www.cryptopolitan.com/trader-joe-dex-merchant-moe-mantle-network/\" aria-label=\"More on Trader Joe Launches New DEX &#8216;Merchant Moe&#8217; for Mantle Network\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T16:58:14.000Z",
+    "title": "Binance P2P Announces End of Support for Russian Ruble",
+    "url": "https://www.cryptopolitan.com/binance-p2p-end-of-support-for-russian-ruble/",
+    "description": "Binance P2P, a leading global cryptocurrency exchange platform, has made a significant announcement that will impact its users, especially those dealing with Russian Ruble (RUB) transactions. Following the strategic decision to exit the Russian market with a sale to CommEX, Binance P2P has confirmed that it will discontinue supporting Russian Ruble trading pairs. The change ... <a title=\"Binance P2P Announces End of Support for Russian Ruble\" class=\"read-more\" href=\"https://www.cryptopolitan.com/binance-p2p-end-of-support-for-russian-ruble/\" aria-label=\"More on Binance P2P Announces End of Support for Russian Ruble\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T16:56:00.000Z",
+    "title": "XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?",
+    "url": "https://www.cryptopolitan.com/xrp-price-prediction/",
+    "description": "XRP Price Prediction 2023-2032 So LBRY lost its case against the SEC. Sad to say, the ruling still doesn&#8217;t provide regulatory clarity as to the definitive conditions (the essential ingredients) that establish an offered asset as a security. Especially when the Judge touches only on the third prong in this case. The 76-year-old Howey Test ... <a title=\"XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/xrp-price-prediction/\" aria-label=\"More on XRP Price Prediction 2023-2032 [After Lawsuit]: $1 Coming Soon?\">Read more</a>"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-11T16:52:05.000Z",
+    "title": "Why is UK’s fight against inflation so weak?",
+    "url": "https://www.cryptopolitan.com/why-is-uks-fight-against-inflation-so-weak/",
+    "description": "The UK&#8217;s Bank of England, amidst global economic shifts, is navigating a uniquely challenging course in battling inflation. As it gears up for its final policy meeting of 2023, the central bank stands at a crossroads, under scrutiny for its apparent weakness in combating rising prices. With inflation stubbornly high and interest rates poised to ... <a title=\"Why is UK&#8217;s fight against inflation so weak?\" class=\"read-more\" href=\"https://www.cryptopolitan.com/why-is-uks-fight-against-inflation-so-weak/\" aria-label=\"More on Why is UK&#8217;s fight against inflation so weak?\">Read more</a>"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-11T16:38:26.000Z",
-    "title": "Experts: Final lap before spot Bitcoin ETF in play",
-    "url": "https://crypto.news/experts-final-lap-before-spot-bitcoin-etf-in-play/",
-    "description": "Analysts opined that the U.S. SEC would likely approve spot BTC ETFs in early January 2024, with eyes on the deadline for a decision on ARK Invest’s application. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-11T16:20:32.000Z",
-    "title": "Injective, Immutable among top cryptocurrency gainers",
-    "url": "https://crypto.news/injective-immutable-among-top-cryptocurrency-gainers/",
-    "description": "Dec. 11 data from CoinMarketCap, the world's most-referenced price-tracking website for cryptoassets, Injective, Immutable and Synthetix are the top gainers in the last 24 hours, reporting up to 22% gains."
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-11T16:30:01.000Z",
-    "title": "Bitcoin $42,000 Support Under Pressure As Short Position Inflows Soar",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-42000-support-under-pressure-as-short-position-inflows-soar/",
-    "description": "Bitcoin (BTC) recently experienced a sharp decline, tumbling towards $40,000 amid a broader sell-off across the cryptocurrency market. While the most significant token managed to recover some losses, currently trading 4% lower at $42,000, concerns persist regarding the potential for further downside price action before a potential recovery. Investors Show Caution With Short-BTC Position Inflows According to a recent CoinShares report, digital asset investment products witnessed their 11th consecutive week of inflows, totaling $43 million. Notably, there was a significant increase in short position inflows due to recent price appreciation and perceived downside risks.  Europe led with $43 million in inflows, followed by the US with $14 million (with half in short positions). On the other hand, Hong Kong and Brazil experienced outflows of $8 million and $4.6 million, respectively.  Related Reading: Avalanche Rules Top 10 Ranking With 61% Weekly Gain – Here’s The Scoop Bitcoin remained the primary focus for investors, attracting $20 million in inflows, bringing the year-to-date inflows to $1.7 billion. Short-Bitcoin positions saw $8.6 million in inflows, suggesting some investors view the current price rises as unsustainable.  Ethereum (ETH) also saw increased interest, with its sixth week of inflows totaling $10 million, marking a turnaround from previous outflows. Selling Pressure Mounts As Miners Decrease Bitcoin Holdings According to Satoshi Club, there are indications that miners are selling their Bitcoin holdings following the recent price drop. Data shows a significant decrease in miners&#8217; BTC holdings, with increasing flows to exchanges, suggesting selling pressure in the market.  Satoshi Club’s analysis highlights that this trend could be attributed to the anticipated halving in 2024, which will reduce miners&#8217; rewards by half.  Additionally, Bitcoin&#8217;s net unrealized profit/loss, which indicates the investor profit ratio, has surpassed 0.5 for the first time since December 2021. This suggests that a significant portion of Bitcoin investments are currently profitable, potentially leading to increased selling pressure at current price highs. BTC&#8217;s Bullish Structure Intact, But Deep Correction Threatens Run In the 1-day chart for Bitcoin, the current trading price is closely aligned with a support level. Despite briefly dipping below this level, Bitcoin has managed to recover and trade above it, mitigating further declines. However, in the event of continued selling pressure and an inability to maintain its current price level, Bitcoin&#8217;s next critical level of support would be $39,990.  It is worth noting that during the previous hype surrounding Bitcoin&#8217;s milestone, many traders entered long positions below the current levels. This influx of long positions could trigger a liquidation hunt before a recovery ensues. If such a scenario unfolds, the hunt for liquidations could drive Bitcoin&#8217;s price further down, potentially testing support levels at $38,700 and $37,800. Related Reading: Why Is Ethereum Price Down To $2,200 Today? On a positive note, Bitcoin&#8217;s current bullish structure would remain intact unless a significant correction occurs, pushing the price below the $29,900 level. This level began Bitcoin&#8217;s current bull run in late October. The future outcome hinges on whether Bitcoin can successfully hold its nearest support levels and facilitate a recovery that shifts the focus from hunting long positions to hunting short sellers, eventually regaining previously conquered territories. Featured image from Shutterstock, chart from TradingView.com"
+    "date": "2023-12-11T16:54:03.000Z",
+    "title": "How to make money playing crypto games",
+    "url": "https://crypto.news/best-crypto-games-how-to-make-money-playing/",
+    "description": "Play-to-earn (P2E) games give players the chance to earn tokens through in-game achievements. Learn how to make money playing crypto games."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-11T16:39:17.000Z",
-    "title": "Bitcoin Wallet Conio Collaborates with Coinbase for Italian Banking Integration",
-    "url": "https://www.crypto-news-flash.com/bitcoin-wallet-conio-collaborates-with-coinbase-for-italian-banking-integration/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-wallet-conio-collaborates-with-coinbase-for-italian-banking-integration",
-    "description": "<img width=\"1648\" height=\"920\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452.jpg 1648w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-300x167.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-1024x572.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-768x429.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-1536x857.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-24x13.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-48x27.jpg 48w\" sizes=\"(max-width: 1648px) 100vw, 1648px\" />Conio, a crypto wallet partly owned by Italy&#8217;s postal service, has teamed up with Coinbase to bring a wide range of crypto services to the Italian banking space. With 400,000 customers, Conio will partner with Coinbase Prime to offer liquidity to the institutional players who trade billions of dollars and will support over 50 tokens. [...]"
+    "date": "2023-12-11T16:48:46.000Z",
+    "title": "2023 in Cryptocurrencies: Significant Advances in Stablecoins and Protocol Rates",
+    "url": "https://www.crypto-news-flash.com/2023-in-cryptocurrencies-significant-advances-in-stablecoins-and-protocol-rates/?utm_source=rss&utm_medium=rss&utm_campaign=2023-in-cryptocurrencies-significant-advances-in-stablecoins-and-protocol-rates",
+    "description": "<img width=\"640\" height=\"360\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/coinwire-japan-iNOavZh6dQ8-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stablecoin Supply\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/coinwire-japan-iNOavZh6dQ8-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/coinwire-japan-iNOavZh6dQ8-unsplash-300x169.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />In 2023, the supply of stablecoins reached $3.8 billion, indicating a growing interest in cryptoasset investment. The increase in protocol fees and the popularity of Zero-Knowledge technology stand out among the 2023 trends. The year 2023 has witnessed significant changes in the cryptocurrency ecosystem, marked by a notable increase in the supply of stablecoins and [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-11T16:33:19.000Z",
-    "title": "Putin Predicts the End of Western Banking Dominance in BRICS Declaration and the Rise of Bitcoin (BTC)",
-    "url": "https://www.crypto-news-flash.com/putin-predicts-the-end-of-western-banking-dominance-in-brics-declaration-and-the-rise-of-bitcoin-btc/?utm_source=rss&utm_medium=rss&utm_campaign=putin-predicts-the-end-of-western-banking-dominance-in-brics-declaration-and-the-rise-of-bitcoin-btc",
-    "description": "<img width=\"940\" height=\"530\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BRICS\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS.png 940w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BRICS-768x433.png 768w\" sizes=\"(max-width: 940px) 100vw, 940px\" />Russian President Vladimir Putin has predicted Western Banking dominance is coming to an end. Bitcoin may play a role in the imminent financial overhaul and revolution. In a bold declaration at the VTB Investment Forum in Moscow, Russian President Vladimir Putin predicted the end of Western technologies and heralded a new era where Bitcoin (BTC) [...]"
+    "date": "2023-12-11T16:46:56.000Z",
+    "title": "A New Stablecoin Era Begins and Ethereum Surges as Euler Network Presale Raises $3.5 Million",
+    "url": "https://www.crypto-news-flash.com/a-new-stablecoin-era-begins-and-ethereum-surges-as-euler-network-presale-raises-3-5-million/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-stablecoin-era-begins-and-ethereum-surges-as-euler-network-presale-raises-3-5-million",
+    "description": "<img width=\"1440\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56.png 1440w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56-300x213.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56-1024x728.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56-768x546.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/56-269x192.png 269w\" sizes=\"(max-width: 1440px) 100vw, 1440px\" />In an unprecedented and transformative development, Société Générale, one of France&#8217;s foremost banking institutions, has taken a bold step into the digital finance realm with the launch of EUR ConVertible, a groundbreaking stablecoin pegged to the euro. This pioneering initiative marks a new era in the world of stablecoins, offering opportunities for a diverse range [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-11T16:15:00.000Z",
-    "title": "Robert Kiyosaki Predicts S&P 500 Crash Impacting Retirement Funds",
-    "url": "https://coinedition.com/robert-kiyosaki-predicts-sp-500-crash-impacting-retirement-funds/",
-    "description": "<img width=\"696\" height=\"392\" src=\"https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Robert Kiyosaki Predicts S&amp;P 500 Crash\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/Robert-Kiyosaki-Predicts-SP-500-Crash-355x200.jpg 355w\" sizes=\"(max-width: 696px) 100vw, 696px\" /><p>Renowned financial expert and &#8216;Rich Dad, Poor Dad&#8217; author Robert Kiyosaki has warned about an imminent crash in the S&#38;P 500 index, a move he believes could severely impact millions of American retirement accounts, particularly 401ks and IRAs. In a recent post on X dated December 11, Kiyosaki emphasized the vulnerability of popular retirement savings [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/robert-kiyosaki-predicts-sp-500-crash-impacting-retirement-funds/\">Robert Kiyosaki Predicts S&amp;P 500 Crash Impacting Retirement Funds</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-11T16:47:00.000Z",
+    "title": "BONK: The Meme Coin Ready to Take Solana to the Moon?",
+    "url": "https://coinedition.com/bonk-the-meme-coin-ready-to-take-solana-to-the-moon/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon CDK Solves Interoperability\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/Polygon-CDK-Solves-Interoperability-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bonk, a Solana-based memecoin, has surged past its competitor Pepe, marking a significant shift in the memecoin landscape. The recent surge in Bonk&#8217;s value, a 370% increase over the last month, has propelled its market capitalization to a remarkable $714 million. This growth surpasses Pepe&#8217;s market cap, which currently stands at $675 million, according to [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bonk-the-meme-coin-ready-to-take-solana-to-the-moon/\">BONK: The Meme Coin Ready to Take Solana to the Moon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,128 +1,93 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-12T15:00:00.000Z",
-    "title": "StarkWare Distributing $3.5M Fees to Developers in 'Devonomics' Program",
-    "url": "https://www.coindesk.com/tech/2023/12/12/starkware-distributing-35m-fees-to-developers-in-devonomics-program/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The developer firm, together with the Starknet Foundation, said that the program will benefit \"dapp\" builders and core developers of the Starknet blockchain."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-12T14:52:33.000Z",
-    "title": "Q Protocol to Apply International Court of Arbitration Rules to DeFi Disputes in a Sign of Growing Industry Maturity",
-    "url": "https://www.coindesk.com/policy/2023/12/12/q-protocol-to-apply-international-court-of-arbitration-rules-to-defi-disputes-in-a-sign-of-growing-industry-maturity/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Q Protocol, which provides blockchain governance as a service to Web3 and decentralized autonomous organizations, will use the rules laid out by the International Chamber of Commerce (ICC)'s arbitration court to resolve disputes and enforce awards."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-12T14:42:52.000Z",
-    "title": "KuCoin to Pay $22M, Exit New York to Settle State Suit",
-    "url": "https://www.coindesk.com/policy/2023/12/12/kucoin-to-pay-22m-exit-new-york-to-settle-state-suit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The exchange will pay $5.3 million to the attorney general's office and refund New York customers $16.77 million."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T15:00:00.000Z",
-    "title": " Starknet to hand 10% of network fees to devs, with $3.5M in first distribution ",
-    "url": "https://cointelegraph.com/news/starknet-distribute-network-fees-developers-devonomics",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvOTUxZDk5ZDYtZWQyOS00NTc1LWI5MTgtMjdjMGZhYTJlNmM2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Devonomics initiative from the Starknet Foundation aims to return a portion of network fees to incentivize developers.</p>\n                    <p><p data-ct-non-breakable=\"true\">Layer-2 network StarkWare and the Starknet Foundation are set to distribute a 10% cut of network fees to developers, a part of a pilot program called “Devonomics.” </p><p>In an announcement shared with Cointelegraph on Dec. 12, StarkWare CEO Uri Kolodny said it was allocating a portion of the network fees, provisionally 8%, to decentralized app builders and 2% to infrastructure engineers and core developers through a transparent and open voting process.</p><p>“It’s all about giving the hands-on builders a strong voice in shaping the network,” explained Kolodny.</p><p><a href=\"https://cointelegraph.com/news/starknet-distribute-network-fees-developers-devonomics\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T15:00:00.000Z",
-    "title": " Ethereum scaling firm =nil; Foundation introduces security-focused zkEVM ",
-    "url": "https://cointelegraph.com/news/ethereum-scaling-firm-nil-foundation-introduces-security-focused-zkevm",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMGRmYmVlNjUtNjE0OC00ZTlkLWI1ZjctNTkwNmY2OTk4NTY3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A new Ethereum zero-knowledge proof compiler could address security concerns identified in different zkEVM solutions.</p>\n                    <p><p data-ct-non-breakable=\"true\">Zero-knowledge technology firm =nil; Foundation has developed a new type-1 zero-knowledge Ethereum Virtual Machine (zkEVM) compiler to address security concerns identified in similar ZK-powered Ethereum scaling solutions.</p><p>Speaking exclusively to Cointelegraph, =nil; Foundation CEO and co-founder Misha Komarov says the technology prioritizes security and allows high-level programming code to be compiled automatically into Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARKS) circuits.</p><p>The firm’s zkEVM is designed to be compatible with <a href=\"https://github.com/ethereum/evmone\" target=\"_blank\" rel=\"noopener nofollow\">evmone</a>, which is a C++ version of Ethereum’s base execution environment. The key takeaway is that the code of applications is processed and rolled up as proofs submitted to Ethereum in the same format as its EVM. </p><p><a href=\"https://cointelegraph.com/news/ethereum-scaling-firm-nil-foundation-introduces-security-focused-zkevm\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T14:54:50.000Z",
-    "title": " What is Midjourney, and how can you use it to create AI art? ",
-    "url": "https://cointelegraph.com/news/what-is-midjourney-and-how-can-you-use-it-to-create-ai-art",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvM2MzNTkxZDctN2YxNy00ZjdkLThjMzgtMzZiNzQwMTBlODUyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Uncover what Midjourney is and learn the essentials of using this innovative AI tool to create stunning and unique art pieces.</p>\n                    <p><p>Midjourney is a generative artificial intelligence (AI)-powered platform that allows users to generate unique artwork such as characters, images and depictions through short <a href=\"https://cointelegraph.com/news/how-to-write-effective-chatgpt-prompts-for-better-results\">text prompts</a>. </p><p>A generative AI platform is an <a href=\"https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning\">artificial intelligence system</a> that can generate new and unique content, often in images, text or other creative outputs. Unlike traditional rule-based AI systems designed for specific tasks, generative AI platforms use advanced algorithms, <a href=\"https://cointelegraph.com/learn/training-vs-testing-data-in-machine-learning\">typically based on deep learning techniques</a>, to autonomously produce novel and contextually relevant outputs.</p><p>Midjourney AI is one such innovative generative <a href=\"https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence\">AI platform</a> that opens up new possibilities for creative expression and can produce outputs that go beyond what was explicitly programmed, introducing an element of unpredictability and creativity into the AI landscape. This can be applied to various artwork domains to create realistic images that do not exist in the real world.</p><p><a href=\"https://cointelegraph.com/news/what-is-midjourney-and-how-can-you-use-it-to-create-ai-art\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-12T15:05:56.000Z",
-    "title": "Do Kwon’s custody in Montenegro reportedly extended by 2 months",
-    "url": "https://cryptoslate.com/do-kwons-custody-in-montenegro-reportedly-extended-by-2-months/",
-    "description": "<p>Terraform Labs co-founder Do Kwon&#8217;s custody in Montenegro has reportedly been extended by two months, Barron&#8217;s reported on Dec. 12. According to the report, Marija Rakovic, a spokesperson for the High Court, confirmed that the &#8220;extradition custody of Do Kwon [has been] expanded by two months.&#8221; The report did not provide additional information on why [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/do-kwons-custody-in-montenegro-reportedly-extended-by-2-months/\">Do Kwon’s custody in Montenegro reportedly extended by 2 months</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Crypto Daily",
+    "date": "2023-12-12T15:30:27.000Z",
+    "title": "It’s Critical Hour for Ripple (XRP): Which Path Will Shape Its Near-Term Direction?",
+    "url": "https://cryptodaily.co.uk/2023/12/its-critical-hour-for-ripple-xrp-which-path-will-shape-its-near-term-direction",
+    "description": "Explore the pivotal moment for Ripple (XRP) as it stands at a crucial juncture, balancing between the pressures of the market and the potential of technological innovations. This insightful analysis delves into the factors that could shape the short-term fate of XRP, offering a nuanced look at how the interplay of market dynamics and groundbreaking tech developments might influence its trajectory. Join us in uncovering the key elements that could decide the altcoin's immediate future in the fast-evolving world of cryptocurrency."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T15:05:42.000Z",
-    "title": "Mashable’s Best Games of 2023: Alan Wake 2 Takes the Top Spot",
-    "url": "https://www.cryptopolitan.com/mashables-best-games-of-2023/",
-    "description": "Mashable&#8217;s gaming enthusiasts have gathered to unveil their top 10 games of the year, emphasizing factors such as gameplay, Story/Lore, Visuals and Soundtrack, Innovation, and Replayability. Alan Wake 2 emerges as the winner. Alan wake 2: A human-centric gaming experience Alan Wake 2 secures the top spot as Mashable&#8217;s game of the year for 2023. [&#8230;]"
+    "date": "2023-12-12T15:29:02.000Z",
+    "title": "Marvel’s Wolverine Leaks Caused from a Ransomware Attack on Insomniac Games",
+    "url": "https://www.cryptopolitan.com/marvels-wolverine-leaks-ransomware/",
+    "description": "Discover the latest gaming industry turmoil with Insomniac Games facing a ransomware attack, potential Marvel's Wolverine leaks, and a multi-million dollar demand from the attackers."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T15:03:46.000Z",
-    "title": "ECB and the inflation race: Time to play catch-up?",
-    "url": "https://www.cryptopolitan.com/ecb-the-inflation-race-time-to-play-catch-up/",
-    "description": "The European Central Bank (ECB) recently halted its most vigorous series of interest rate hikes. Yet, as the economic landscape evolves, a new question emerges: is it time for the ECB to shift gears and consider lowering borrowing costs? Investors are eyeing the ECB&#8217;s next move as they convene in Frankfurt, with expectations leaning towards [&#8230;]"
+    "date": "2023-12-12T15:24:44.000Z",
+    "title": "Epic Games wins antitrust lawsuit against Google",
+    "url": "https://www.cryptopolitan.com/epic-games-antitrust-lawsuit-against-google/",
+    "description": "In a significant development on Monday, a jury reached a unanimous verdict favoring Epic Games over Google in a pivotal antitrust case that carries potential implications for the operation of app marketplaces, notably Google Play. This outcome concludes a protracted three-year legal feud between the two tech entities. Epic Games wins legal battle against Google [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T14:59:00.000Z",
-    "title": "Chainlink 2.0 Whitepaper: Broader Applicability for Oracle Networks",
-    "url": "https://www.cryptopolitan.com/chainlink-2-0-whitepaper-oracle-networks/",
-    "description": "Chainlink, at the forefront of decentralized oracle networks, introduces its groundbreaking 2.0 whitepaper. This seminal document not only recounts Chainlink&#8217;s journey but also propels it into a future replete with advanced capabilities and broader applicability for Oracle networks. Chainlink 2.0 pivots around the innovative Decentralized Oracle Networks (DONs) concept. These networks enhance and expand the [&#8230;]"
+    "date": "2023-12-12T15:22:44.000Z",
+    "title": "China and the spiral of deflationary peril",
+    "url": "https://www.cryptopolitan.com/china-and-the-spiral-of-deflationary-peril/",
+    "description": "While much of the world grapples with the specter of inflation, China faces a unique challenge – the threat of deflation. The country&#8217;s gross domestic product (GDP) deflator, a comprehensive gauge of prices across all goods and services, has dipped to a negative 1.4 percent, marking two consecutive quarters of contraction. This downturn in prices [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T14:58:56.000Z",
-    "title": "Gods Unchained axed from Epic Games store",
-    "url": "https://www.cryptopolitan.com/gods-unchained-axed-from-epic-games-store/",
-    "description": "Immutable’s Gods Unchained, an NFT card game, found itself in a predicament after being added to the Epic Games Store in June. The cause of the turmoil was an unexpected “Adults Only” (AO) rating bestowed upon the game by the Entertainment Software Rating Board (ESRB). Epic Games store axes Gods Unchained from its store The [&#8230;]"
+    "date": "2023-12-12T15:18:42.000Z",
+    "title": "What China and Vietnam’s new friendship means for the United States",
+    "url": "https://www.cryptopolitan.com/china-vietnam-new-friendship-for-the-us/",
+    "description": "China&#8217;s President Xi Jinping&#8217;s recent visit to Vietnam marks a significant moment in the relationship between the two Asian nations. Amidst the evolving geopolitical landscape, this visit signifies more than just a routine diplomatic exercise. It underscores a deepening bond between China and Vietnam, a development that holds substantial implications for the United States and [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T14:53:26.000Z",
-    "title": "DTCC acquires Securrency to boost blockchain capabilities in financial services",
-    "url": "https://www.cryptopolitan.com/dtcc-acquires-securrency-to-boost-blockchain/",
-    "description": "The Depository Trust and Clearing Corporation (DTCC), a leading player in the U.S. financial services sector, recently announced its acquisition of Securrency, a prominent digital asset infrastructure provider. Securrency&#8217;s integration into DTCC&#8217;s portfolio is expected to facilitate the development of innovative blockchain solutions while adhering to regulatory standards. The new division, DTCC Digital Assets, will [&#8230;]"
+    "date": "2023-12-12T15:17:37.000Z",
+    "title": "The University of Stirling empowers ChatGPT to accelerate software development.",
+    "url": "https://www.cryptopolitan.com/the-university-of-stirling-empowers-chatgpt/",
+    "description": "In a groundbreaking study, researchers at the University of Stirling have harnessed the power of artificial intelligence (AI) to create faster and more reliable software. Dr. Sandy Brownlee, leading the study, employed ChatGPT, a state-of-the-art large language model, to automatically optimize computer code, resulting in significant improvements in software performance. Revolutionizing software development Software development [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T14:53:00.000Z",
-    "title": "Inflation eases: U.S. sees dip to 3.1% rate",
-    "url": "https://www.cryptopolitan.com/inflation-eases-us-sees-dip-to-3-1-rate/",
-    "description": "The landscape of the U.S. economy is witnessing a subtle yet significant shift as inflation rates take a gentle nosedive. Recent data anticipates a decline in U.S. inflation for November, a move that may solidify the Federal Reserve&#8217;s stance on maintaining the status quo with interest rates through the upcoming spring. This slight dip, from [&#8230;]"
+    "date": "2023-12-12T15:15:16.000Z",
+    "title": "Exploring Arbitrum Nova’s Impact on Ethereum Performance and Usability",
+    "url": "https://www.cryptopolitan.com/exploring-arbitrum-novas-impact-on-ethereum/",
+    "description": "The Ethereum blockchain has been facing a significant transaction fee crisis, hindering its growth. One potential solution to this problem is Arbitrum. Ethereum transactions are carried out through smart contracts, and a fee is required to compensate the network participants who host these programmable contracts on their computers. As more users join the network and [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T14:46:20.000Z",
-    "title": "Google Cloud enlisted as XPLA’s first volunteer validator",
-    "url": "https://www.cryptopolitan.com/google-cloud-xplas-first-volunteer-validator/",
-    "description": "XPLA, the blockchain network founded by major South Korean game publisher Com2uS, has recently enlisted Google Cloud as its first “volunteer validator.” These validators play a crucial role in verifying and confirming transactions within the network. Unlike traditional validators, XPLA’s volunteer validators won’t be rewarded with tokens for their efforts; instead, the tokens will be [&#8230;]"
+    "date": "2023-12-12T15:12:46.000Z",
+    "title": "SBF’s lawyers say he never stood a chance of winning",
+    "url": "https://www.cryptopolitan.com/sbfs-never-stood-a-chance-of-winning/",
+    "description": "In the high-profile trial of Sam &#8220;SBF&#8221; Bankman-Fried, his defense attorney, David Mills, has expressed that the case was an uphill battle from the start. In an eye-opening conversation with Bloomberg, Mills, a Stanford Law School professor and legal luminary, detailed the challenges that made SBF’s defense almost insurmountable. From SBF&#8217;s deviation from legal advice [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-12-12T15:00:33.000Z",
-    "title": "Cardano (ADA) 50% Rally Sets Stage For A Merry Christmas – Details",
-    "url": "https://www.newsbtc.com/news/cardano-ada-50-rally-sets-stage-for-a-merry-christmas-details/",
-    "description": "Cardano saw a sharp increase in market value, shooting up to a high of $0.61 today, to the delight of traders and investors, in light of the cryptocurrency&#8217;s past price fluctuations. People in the trading community are talking more about possible catalysts and causes that have contributed to Cardano&#8217;s recent market dynamics because of how unexpected its ascension is. Although there was early jubilation following Cardano&#8217;s recent jump to $0.65, it turned out to be fleeting. ADA quickly experienced a reversal, reflecting a more extensive and unanticipated decline in the cryptocurrency market. The quick and marked reversal from its high has sparked the current discussion over the sustainability of ADA&#8217;s growth and the future trajectory of its native token inside the blockchain sector. Related Reading: Hold Your Horses: Bitcoin Could Fall Back To Under $38,000, These Analysts Say ADA price action in the last 24 hours. Source: Coingecko Cardano Adds 50% To Its Valuation At the time of writing, ADA was trading at $0.59, up nearly 10% in the last 24 hours, and tallied a commanding 49.2% rally in the last seven days, data from Coingecko shows. Given the sudden and significant movement in the value of ADA, analysts and market participants should examine the circumstances that led to this development and consider the possible consequences for Cardano&#8217;s long-term sustainability. Related Reading: Helium Token Balloons To 85% For A Yearly High – What Drove The Price Up Similar tendencies to Ethereum, where liquidations on the latter exceeded $80 million during the overall market collapse, caused the pressure that stopped ADA&#8217;s growth. The abrupt change in ADA&#8217;s course is indicative of more general market circumstances. ADA market cap at $21.2 billion on the 24-hour chart: TradingView.com Due to the excitement surrounding the possible US approval of a spot Bitcoin ETF, Cardano&#8217;s recent gains seem to be the result of a resurgence of optimism in the cryptocurrency markets. Positive Outlook From The Experts Cardano&#8217;s DeFi ecosystem has grown as a result of this optimism, with Total Value Locked (TVL) recently reaching a record-breaking $420 million. Along with the token&#8217;s price increases, ADA trading volumes have also grown, surpassing $1.1 billion in the last day. Renowned cryptocurrency analyst Tyler Strejilevich, in the meantime, tweeted his bullish forecast, implying a spectacular rise for Cardano. #ADA is about to get a bullish weekly cross for the first time since JUNE 2020 The last time this happened it pumped 6,000% over the next 66 weeks#cardano pic.twitter.com/xQvvbf3b1O — Tyler Strejilevich (@TylerSCrypto) December 9, 2023 He noticed a bullish weekly cross on ADA&#8217;s chart, an occurrence not seen in more than three years, which sent the price of the stock skyrocketing by 6,000% in just 66 weeks, to an all-time high of $3.09 in 2020. His examination led him to believe that ADA&#8217;s future may follow past trends, particularly in light of the recent emergence of a bullish weekly cross on the asset&#8217;s chart. Should past events hold true, there is a chance that Cardano will drop below $33 in the next 66 weeks. The cryptocurrency community is buzzing after another well-known expert, Ali Martinez, published a positive Cardano (ADA) price prediction. Meanwhile, Everlodge, a recently launched DeFi initiative, revealed intentions to include state-of-the-art AI technology into its ecosystem. #Cardano is on track! ✅$ADA price movement is echoing its 2018-2020 trajectory, minus the COVID-19 downturn. If this pattern holds, we could see #ADA punching through the $0.45 resistance soon. What&#8217;s next? A potential rally to $0.75 by late December! https://t.co/aJ05l0sx3P pic.twitter.com/GJOPU6TfM7 — Ali (@ali_charts) December 7, 2023 The recent surge in ADA&#8217;s value not only reflects the current positive market sentiment but also hints at the potential for a buoyant and celebratory atmosphere leading up to Christmas. As investors and enthusiasts closely monitor the unfolding developments, the festive season could bring added joy to the Cardano community, marking the end of the year on a high note for this prominent blockchain platform. Featured image from Freepik"
+    "source": "Cryptopolitan",
+    "date": "2023-12-12T15:11:39.000Z",
+    "title": "Bitcoin Core developer denies flagging inscriptions as a cybersecurity risk",
+    "url": "https://www.cryptopolitan.com/bitcoin-denies-flagging-inscriptions-risk/",
+    "description": "Bitcoin Core developer Luke Dashjr has distanced himself from the inclusion of inscriptions on the U.S. National Vulnerability Database’s (NVD) Common Vulnerabilities and Exposure (CVE) list, refuting claims that he had a role in labeling it a cybersecurity risk. Dashjr, a vocal critic of inscriptions used by the Ordinals protocol and BRC-20 creators for embedding [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-12T15:34:17.000Z",
+    "title": "KuCoin to exit New York in $22m settlement",
+    "url": "https://crypto.news/kucoin-to-exit-new-york-in-22m-settlement/",
+    "description": "KuCoin was the latest crypto exchange to agree on fines with New York regulators as the state cracked down on non-compliant service providers."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-12T15:05:28.000Z",
-    "title": "Game-Changer Alert for Hedera: UAE’s Seagrass and The Hashgraph Association Join Forces for Carbon Credit Revolution",
-    "url": "https://www.crypto-news-flash.com/game-changer-alert-for-hedera-uaes-seagrass-and-the-hashgraph-association-join-forces-for-carbon-credit-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=game-changer-alert-for-hedera-uaes-seagrass-and-the-hashgraph-association-join-forces-for-carbon-credit-revolution",
-    "description": "<img width=\"836\" height=\"508\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hedera\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png 836w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--300x182.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--768x467.png 768w\" sizes=\"(max-width: 836px) 100vw, 836px\" />The Seagrass Wallet, a Web3 identity wallet, offers a decentralized digital identity and wallet linked to carbon projects. This collaboration between Seagrass and The Hashgraph Association promises to drive the transition to zero net emissions by bringing transparency and liquidity to the carbon market. For the development between the crypto sector and environmental finance, Seagrass, [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-12T15:03:33.000Z",
-    "title": "Dogecoin vs. Floki Inu: Who Will Reign Supreme by Year-End?",
-    "url": "https://www.crypto-news-flash.com/dogecoin-vs-floki-inu-who-will-reign-supreme-by-year-end/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-vs-floki-inu-who-will-reign-supreme-by-year-end",
-    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Adrian-Today-Dogecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Adrian-Today-Dogecoin.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Adrian-Today-Dogecoin-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Adrian-Today-Dogecoin-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Adrian-Today-Dogecoin-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Dogecoin and Floki make a 24-hour decline, but race for dominance as both assets are expected to surge by 40 percent.  Dogecoin currently has a higher market cap than Floki but has less cumulative weekly uptrend than the latter.  The battle for dominance between two renowned meme coins &#8211; Dogecoin (DOGE) and Floki Inu has [...]"
+    "date": "2023-12-12T15:35:27.000Z",
+    "title": "Mike Novogratz Fires Back at Jamie Dimon: Bitcoin Outperforms JPMorgan Stock Over a Decade",
+    "url": "https://www.crypto-news-flash.com/mike-novogratz-fires-back-at-jamie-dimon-bitcoin-outperforms-jpmorgan-stock-over-a-decade/?utm_source=rss&utm_medium=rss&utm_campaign=mike-novogratz-fires-back-at-jamie-dimon-bitcoin-outperforms-jpmorgan-stock-over-a-decade",
+    "description": "<img width=\"2560\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/bitcoin-3732876-2048x1152.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Mike Novogratz of Galaxy Digital disputes JPMorgan CEO Jamie Dimon&#8217;s claim that criminals mainly use cryptocurrencies, highlighting top investors&#8217; support. Novogratz notes Bitcoin&#8217;s significant performance over JPMorgan&#8217;s stock, illustrating its success compared to traditional financial assets. Mike Novogratz, the head of Galaxy Digital, has vocally opposed JPMorgan CEO Jamie Dimon&#8217;s recent anti-cryptocurrency remarks. This clash [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-12T15:00:00.000Z",
-    "title": "Render (RNDR) Token Records 52-Week High Amid Bullish Surge",
-    "url": "https://coinedition.com/render-rndr-token-records-52-week-high-amid-bullish-surge/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Render RNDR Token Records\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Price-analysis-7-1-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bullish momentum has prevailed in the Render (RNDR) market, with prices jumping from an intraday low of $3.63 to a 52-week high of $4.16 before a modest pullback. RNDR was trading at $4.00 at press time, representing a 10% increase from its intraday low. The price increase in RNDR can be due to increased investor [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/render-rndr-token-records-52-week-high-amid-bullish-surge/\">Render (RNDR) Token Records 52-Week High Amid Bullish Surge</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-12T15:30:00.000Z",
+    "title": "Hashdex Revamps Bitcoin ETF Filing, but Key Detail Remains Unclear",
+    "url": "https://coinedition.com/hashdex-revamps-bitcoin-etf-filing-but-key-detail-remains-unclear/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"First Bitcoin ETF in Europe Receives an ESG Label, Sparking Debate\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent tweet, James Seyffart, a prominent Bloomberg ETF analyst, provided a crucial update on Hashdex&#8217;s pending Bitcoin Spot ETF application status. Seyffart stated that the form S-1 amendment in Hashdex&#8217;s spot Bitcoin ETF filings has resumed this week with Hashdex’s new filing. Drawing parallels to a previous filing, Seyffart hinted that the current [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/hashdex-revamps-bitcoin-etf-filing-but-key-detail-remains-unclear/\">Hashdex Revamps Bitcoin ETF Filing, but Key Detail Remains Unclear</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-12T15:30:37.000Z",
+    "title": "Analyst Updates Outlook on Cardano Following Massive Rallies, Predicts New Bursts to the Upside for ADA",
+    "url": "https://dailyhodl.com/2023/12/12/analyst-updates-outlook-on-cardano-following-massive-rallies-predicts-new-bursts-to-the-upside-for-ada/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Cardano-Following-Massive.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto strategist is updating his outlook on Ethereum (ETH) competitor Cardano (ADA) after big moves to the upside. Pseudonymous analyst Rekt Capital tells his 373,000 followers on the social media platform X that ADA could make an explosive move if it holds a key level upon a dip in price. &#8220;Cardano is [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/12/analyst-updates-outlook-on-cardano-following-massive-rallies-predicts-new-bursts-to-the-upside-for-ada/\">Analyst Updates Outlook on Cardano Following Massive Rallies, Predicts New Bursts to the Upside for ADA</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

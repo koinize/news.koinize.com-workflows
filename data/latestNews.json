@@ -1,79 +1,114 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-12T13:12:39.000Z",
-    "title": "First Mover Americas: Binance’s Waning Market Share",
-    "url": "https://www.coindesk.com/markets/2023/12/12/first-mover-americas-binances-waning-market-share/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Dec. 12, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+    "date": "2023-12-12T13:41:21.000Z",
+    "title": "U.S. CPI Inflation Trended Lower in November, Rising 3.1% From a Year Ago",
+    "url": "https://www.coindesk.com/markets/2023/12/12/us-cpi-rises-01-in-december-31-year-over-year-meeting-economist-expecatations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "This morning's inflation data"
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-12T14:04:20.000Z",
+    "title": "Avalanche Flips Dogecoin Market Cap With Double-Digit Surge",
+    "url": "https://decrypt.co/209423/avalanche-flips-dogecoin-market-cap-with-double-digit-surge",
+    "description": "Avalanche has risen to become the 10th biggest cryptocurrency by market capitalization, overtaking meme coin Dogecoin."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-12T14:01:10.000Z",
+    "title": "Champions Arena is Ushering In a ‘New Generation’ of In-Game NFTs",
+    "url": "https://decrypt.co/207871/champions-arena-is-ushering-in-a-new-generation-of-in-game-nfts",
+    "description": "Following its launch on Gala Games, OneUniverse’s turn-based mobile battler is pioneering next-gen NFT tech."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-12T14:01:05.000Z",
+    "title": "Ultra Reveals First Digital PC Game That Can Be Resold via NFT License",
+    "url": "https://decrypt.co/209425/ultra-reveals-first-digital-pc-game-resold-nft-license",
+    "description": "A 'Web2' action game previously released via Steam and console systems will be the first tradable digital PC title on Ultra."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-12T13:24:20.000Z",
-    "title": " Animoca Brands to focus on creator economy, interoperability in 2024 ",
-    "url": "https://cointelegraph.com/news/animoca-brands-focus-creator-economy-interoperability-2024",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZjU4NTliOTQtZDE4ZC00MWNlLTk5ODItZjJlMmFiNDdmNjA2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>CEO Robbie Yung said that while Animoca does not employ a specific allocation strategy nor an investment target, it will continue supporting new Web3 businesses and its portfolio companies.</p>\n                    <p><p>Animoca Brands CEO Robby Yung says the Hong Kong-based gaming company intends to continue to support the creator economy and promote interoperability through its investments and other initiatives in 2024 to promote Web3 mass adoption.</p><p>Speaking to Cointelegraph at the 12th Global Blockchain Congress event in Dubai, Yung said that Animoca believes gaming will be a primary driver for Web3 adoption due to its widespread appeal. However, the company is also exploring adjacent verticals, such as education, to support creators through “efficient infrastructure and network effects.”</p><p>Yung emphasized that Web3 tools, such as publisher nonfungible tokens (NFTs), enable content creators to monetize their work in a decentralized environment that fosters a more equitable and lucrative platform, saying:</p><p><a href=\"https://cointelegraph.com/news/animoca-brands-focus-creator-economy-interoperability-2024\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-12T14:01:00.000Z",
+    "title": " Bitcoin’s water consumption: A new environmental threat? ",
+    "url": "https://cointelegraph.com/news/bitcoin-water-consumption-environment-adoption",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNTcxNzE0ZjUtOTMxZi00YTNmLWI5OTMtNjBlOWRjYWUzOTc4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>New studies have examined the water consumption of Bitcoin, with alarming results.</p>\n                    <p><p>Bitcoin, the world’s leading cryptocurrency, has long been under scrutiny for its environmental impact due to the energy-intensive nature of its mining process. </p><p>Since its inception in 2008, Bitcoin has never been hacked. Its tight security, provided by its proof-of-work (PoW) consensus mechanism, provides value to the cryptocurrency. </p><p>PoW, however, is energy-intensive and relies on complex cryptographic algorithms requiring vast computational power. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-water-consumption-environment-adoption\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-12T13:25:04.000Z",
-    "title": "Ethereum burns $2.5B worth of ETH since merge as supply drops to all time low",
-    "url": "https://cryptoslate.com/ethereum-burns-2-5b-worth-of-eth-since-merge-as-supply-drops-to-all-time-low/",
-    "description": "<p>Analysis of Ethereum&#8217;s recent financial data on Ultrasound Money reveals a continued shift in its economic model since the historic merge in Sept. 2022. The decline in Ethereum&#8217;s supply stands at 309,663 ETH, equivalent to approximately $686.2 million. This reduction reflects a deflationary trend, contrasting the previous inflationary nature where new ETH was consistently created. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereum-burns-2-5b-worth-of-eth-since-merge-as-supply-drops-to-all-time-low/\">Ethereum burns $2.5B worth of ETH since merge as supply drops to all time low</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-12T14:00:18.000Z",
+    "title": "Historical market drawdowns could signal the dawn of a digital currency era",
+    "url": "https://cryptoslate.com/insights/historical-market-drawdowns-could-signal-the-dawn-of-a-digital-currency-era/",
+    "description": "<p>Quick Take Historical data underlines a recurring pattern of significant drawdowns in both stocks and bonds, often preceding seismic shifts in US monetary policy. Back in 1931, the market witnessed a hefty 40% drawdown in stocks and a 7% drawdown in bonds. Two years after this event, President Franklin Roosevelt initiated Executive Order 6102, which [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/historical-market-drawdowns-could-signal-the-dawn-of-a-digital-currency-era/\">Historical market drawdowns could signal the dawn of a digital currency era</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-12T13:43:18.000Z",
+    "title": "US inflation meets forecasts as Bitcoin again threatens $42,000",
+    "url": "https://cryptoslate.com/insights/us-inflation-meets-forecasts-as-bitcoin-again-threatens-42000/",
+    "description": "<p>Quick Take The Dec. 12 US CPI inflation data revealed that the headline inflation year over year matched the expected result of 3.1%. Similarly, the core inflation year over year did not stray from the predicted 4.0%. These statistics indicate consistency in economic forecasting, demonstrating that the inflationary situation is developing as anticipated by analysts. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/us-inflation-meets-forecasts-as-bitcoin-again-threatens-42000/\">US inflation meets forecasts as Bitcoin again threatens $42,000</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-12T13:33:05.000Z",
-    "title": "Here's why an expert suggests to buy Retik Finance (RETIK) if u missed the Solana (SOL)",
-    "url": "https://cryptodaily.co.uk/2023/12/heres-why-an-expert-suggests-to-buy-retik-finance-retik-if-u-missed-the-solana-sol",
-    "description": "In the world of cryptocurrency, missing out on a lucrative opportunity like Solana (SOL) can be disappointing."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T13:38:03.000Z",
-    "title": "SCAM ALERT – URGENT WARNING AGAINST IMPERSONATION SCAMS",
-    "url": "https://cryptodaily.co.uk/2023/12/scam-alert-urgent-warning-against-impersonation-scams",
-    "description": "Cryptodaily has recently identified a serious issue where scammers are impersonating our journalists, notably Jana Serfontein and Sally Ho, to execute scams on Discord."
+    "date": "2023-12-12T14:07:39.000Z",
+    "title": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s $ZKP",
+    "url": "https://cryptodaily.co.uk/2023/12/bitmart-lists-zero-knowledge-defi-pioneer-panther-protocols-zkp",
+    "description": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s $ZKP"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-12T13:35:42.000Z",
-    "title": "Crypto community voices skepticism of Elizabeth Warren’s crypto bill",
-    "url": "https://crypto.news/crypto-community-voices-skepticism-of-elizabeth-warrens-crypto-bill/",
-    "description": "The crypto community is up in arms over the U.S. Senator’s attempt at introducing a bill skeptics say is aimed at curbing cryptocurrency growth and innovation. With the crypto community on edge after a tumultuous year that has seen the&#8230;"
+    "date": "2023-12-12T13:54:43.000Z",
+    "title": "Analyst bullish on Dogecoin, traders back Meme Kombat’s MK token",
+    "url": "https://crypto.news/analyst-bullish-on-dogecoin-traders-back-meme-kombats-mk-token/",
+    "description": "Dogecoin is bullish above key support. Investors looking at Meme Kombat and MK as presale raises over $2.8 million"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T13:20:07.000Z",
-    "title": "Synthetix halts SNX token inflation, pivots to buyback and burn strategy",
-    "url": "https://crypto.news/synthetix-halts-snx-token-inflation-pivots-to-buyback-and-burn-strategy/",
-    "description": "Members of the Synthetix derivatives protocol community have given the green light to a governance proposal, SIP-2043, which seeks to halt the inflation of the SNX token. The latest change paves the way for new strategies, including token buybacks and&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-12T13:18:06.000Z",
-    "title": "Binance accelerates delistings as regulatory pressure intensifies",
-    "url": "https://crypto.news/binance-accelerates-delistings-as-regulatory-pressure-intensifies/",
-    "description": "Crypto exchange Binance has tightened its listing policy as the number of listed trading instruments declined by 21% in 2023, Kaiko reports. According to a new report published by Diving Into DEXs, Binance is now taking an accelerated approach delisting&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-12T13:11:38.000Z",
-    "title": "Coinbase co-founder sells another $13m in shares",
-    "url": "https://crypto.news/coinbase-co-founder-sells-another-13m-in-shares/",
-    "description": "Fred Ehrsam, co-founder of the Coinbase cryptocurrency exchange, sold $13 million worth of company shares. Ehrsam, who owns 10% of the company, sold shares at $130.40 cashing out $12,276,105 on Dec. 11, according to Insider Tracker. The latest deal marks&#8230;"
+    "source": "NewsBTC",
+    "date": "2023-12-12T14:00:51.000Z",
+    "title": "XRP Price Prediction: Crypto Analyst Expects 200% Jump As Critical Support Forms",
+    "url": "https://www.newsbtc.com/analysis/xrp/xrp-price-prediction-200/",
+    "description": "Crypto analyst Egrag has provided insights into the current market conditions of the XRP price from a technical analysis perspective. He highlighted a critical support level for the crypto token and also reasserted his bullish prediction for XRP when the bull run returns.  XRP Could Rise To $2 From This Support Level In a post shared on his X (formerly Twitter) platform, Egrag mentioned that XRP could rise to as high as $2 once it is able to hit the support level of $1.2. He shared an accompanying chart to drive home his point. From the chart, he noted that it was “intriguing” that XRP hasn’t managed to close a monthly candle above $1.2 yet. Related Reading: Bitcoin Price In Turmoil: Major Events That Could Affect Price This Week Source: X He further mentioned that so far, XRP has body candles, but a full-body candle hasn’t materialized. Despite that, the crypto analyst is still bullish on the future trajectory of XRP. He confidently said that XRP will hit $2 once XRP “finally achieves a monthly candle close with a full body above $1.2.” Considering that many seem to be losing hope in XRP’s potential, Egrag suggested that this move will provide renewed hope as he is convinced that it will trigger a “massive FOMO.” Meanwhile, those who have continued to remain steadfast will be hoping that Egrag’s prediction comes true as they believe that XRP is long overdue for a significant rally.  Egrag had previously mentioned that XRP hitting $27 is a “plausible target,” considering that XRP saw a parabolic move back in 2017, with the token seeing a 61,000% gain in 280 days. He once again reasserted his bullish stance as he stated that he still has his sight set on the $27 mark.   Token price fluctuates &#124; Source: XRPUSD on Tradingview.com XRP Price Retesting Trendline Crypto analyst JD also recently shared an outlook of XRP on the charts. He mentioned in an X post that XRP broke out of the multi-year trendline on the Non-Logarithmic Scale. Following that, XRP is currently retesting the trendline.  Related Reading: Why Is Ethereum Price Down To $2,200 Today? As to what the future holds for XRP, he noted that a bounce-off on the weekly close is bullish, as that could signify a breakout or retest. However, a break below the trendline could be a false breakout.  Source: X Meanwhile, another analyst, Crytoes, recently noted that the bears are still in control when it comes to the XRP market. He made this statement following XRP’s daily close below the 21MA (Moving Average). At the time of writing, XRP is trading at around $0.62, down in the last 24 hours, according to data from CoinMarketCap.  Featured image from Watcher Guru, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-12T13:33:12.000Z",
-    "title": "FTX Lawyers Throw Down the Gauntlet: IRS Faces $24 Billion Challenge",
-    "url": "https://www.crypto-news-flash.com/ftx-lawyers-throw-down-the-gauntlet-irs-faces-24-billion-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=ftx-lawyers-throw-down-the-gauntlet-irs-faces-24-billion-challenge",
-    "description": "<img width=\"1000\" height=\"623\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTX\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica.png 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-300x187.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-768x478.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-343x215.png 343w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-163x102.png 163w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-24x15.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-36x22.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/ftx-exchange-review-blocknewsafrica-48x30.png 48w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />FTX lawyers continue to dispute the behemoth amount claimed by the Internal Revenue Service (IRS) from the now-defunct crypto exchange. This amount could significantly impact the potential payouts to victims of the exchange&#8217;s collapse. The Internal Revenue Service (IRS) is adding a layer of complexity to the ongoing FTX bankruptcy case. The agency, which is [...]"
+    "date": "2023-12-12T14:04:50.000Z",
+    "title": "Bitcoin’s 5% Drop to $40,300 Sparks Concerns, but Data Suggests It’s a Healthy Correction, Not a Flash Crash",
+    "url": "https://www.crypto-news-flash.com/bitcoins-5-drop-to-40300-sparks-concerns-but-data-suggests-its-a-healthy-correction-not-a-flash-crash/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoins-5-drop-to-40300-sparks-concerns-but-data-suggests-its-a-healthy-correction-not-a-flash-crash",
+    "description": "<img width=\"640\" height=\"424\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Despite recent Bitcoin price correction, technical indicators and on-chain data indicate BTC&#8217;s resilience as bulls strive to reclaim levels above $44,000. However, support at $40,000 remains crucial, and on-chain data suggests a preference among investors to hold rather than sell. On Monday, December 11, the world&#8217;s largest cryptocurrency Bitcoin (BTC) faced massive selling pressure with [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-12T14:01:26.000Z",
+    "title": "Polygon Portal: A Unified Approach to String Interoperability",
+    "url": "https://www.crypto-news-flash.com/polygon-portal-a-unified-approach-to-string-interoperability/?utm_source=rss&utm_medium=rss&utm_campaign=polygon-portal-a-unified-approach-to-string-interoperability",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Polygon Portal allows the transfer of assets using the Socket bridge and other third-party bridges, in addition to managing tokens. It includes the Refuel Gas feature to buy MATIC or ETH and development tools to create innovative decentralized applications. Polygon, a key player in the Blockchain space, has introduced a significant upgrade to its infrastructure: [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-12T13:44:20.000Z",
+    "title": "Bitcoin Inscriptions Spark Debate as Network Faces Congestion; Monero and BorroeFinance Gain Investor Confidence",
+    "url": "https://www.crypto-news-flash.com/bitcoin-inscriptions-spark-debate-as-network-faces-congestion-monero-and-borroefinance-gain-investor-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-inscriptions-spark-debate-as-network-faces-congestion-monero-and-borroefinance-gain-investor-confidence",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the bustling world of cryptocurrencies, where every new trend can cause a storm, Bitcoin&#8217;s latest inscription trend has sparked a heated debate. As the network grapples with congestion, investors are also turning their attention to promising altcoins like Monero and BorroeFinance ($ROE). Let&#8217;s dive into these developments and why they&#8217;re catching the eye of [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-12T13:42:28.000Z",
+    "title": "The Under-the-Radar Crypto Titans: Two Tokens Poised to Rival BNB",
+    "url": "https://www.crypto-news-flash.com/the-under-the-radar-crypto-titans-two-tokens-poised-to-rival-bnb/?utm_source=rss&utm_medium=rss&utm_campaign=the-under-the-radar-crypto-titans-two-tokens-poised-to-rival-bnb",
+    "description": "<img width=\"512\" height=\"321\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-343x215.jpg 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-326x205.jpg 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-163x102.jpg 163w\" sizes=\"(max-width: 512px) 100vw, 512px\" />BNB plunges after Changpeng Zhao steps down, prompting negative price predictions. Rebel Satoshi ($RBLZ) continues attracting investors after surging 30% in the Early Bird Round of its presale.  TRON (TRX) sheds 4% in a week, but experts expect it to surge before the year ends. The crypto market has regained its bullish momentum after a [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-12T13:16:00.000Z",
-    "title": "“A Great Sign for Bulls”: Santiment Reports Rise in USDT on Exchanges",
-    "url": "https://coinedition.com/a-great-sign-for-bulls-santiment-reports-rise-in-usdt-on-exchanges/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Market Anticipates Dip In February: Santiment On Trader Skepticism\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Market-Anticipates-Dip-In-February-Santiment-On-Trader-Skepticism-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent post on X (formerly Twitter), cryptocurrency data tracking platform Santiment reported an increase in the number of USDT stablecoin transfers to crypto exchanges.&#160; According to the post, there is now 6.9% more USDT on exchanges compared to data seen six months ago. Santiment described this trend as a great sign for bulls, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/a-great-sign-for-bulls-santiment-reports-rise-in-usdt-on-exchanges/\">“A Great Sign for Bulls”: Santiment Reports Rise in USDT on Exchanges</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-12T13:45:54.000Z",
+    "title": "Avalanche (AVAX) Price Prediction 2024-2030: Will AVAX Hit $100 Soon?",
+    "url": "https://coinedition.com/avalanche-avax-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Avalanche (AVAX) Price Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Avalanche Blockchain is a layer one blockchain and is considered one of the most cost-effective and eco-friendly blockchains in the crypto and blockchain industry. AVAX is the native token of the Avalanche blockchain. AVAX can be used as a utility token within the Avalanche ecosystem. As one of the top-rated altcoins, AVAX investors are still [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/avalanche-avax-price-prediction/\">Avalanche (AVAX) Price Prediction 2024-2030: Will AVAX Hit $100 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-12-12T13:43:00.000Z",
+    "title": "BTC’s Bearish Momentum Could Be Stifled by Very Strong Support",
+    "url": "https://coinedition.com/btcs-bearish-momentum-could-be-stifled-by-very-strong-support/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Yesterday, Bitcoin’s (BTC) price suffered a steep correction, and even temporarily dipped below $41K. Well-known cryptocurrency analyst, Ali, shared in an X post today that if BTC faces an even deeper correction, the market leader is likely to find solid support in the range between $37,150 and $38,360. This support range is made even stronger [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btcs-bearish-momentum-could-be-stifled-by-very-strong-support/\">BTC’s Bearish Momentum Could Be Stifled by Very Strong Support</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

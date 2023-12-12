@@ -1,72 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-12T17:20:33.000Z",
-    "title": "U.S. Presidential Candidates Chat About Crypto, Target Federal Regulators",
-    "url": "https://www.coindesk.com/policy/2023/12/12/us-presidential-candidates-chat-about-crypto-target-federal-regulators/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The three aspiring presidents touched on many of the same pro-crypto points at a Coinbase-linked crypto advocacy event."
+    "source": "CryptoSlate",
+    "date": "2023-12-12T17:40:26.000Z",
+    "title": "KuCoin settles NYAG charges for $22M",
+    "url": "https://cryptoslate.com/kucoin-settles-nyag-charges-for-22m/",
+    "description": "<p>Cryptocurrency exchange KuCoin has agreed to pay $22 million and cease operations in New York State to settle a lawsuit filed by the Attorney General&#8217;s office. The New York State Attorney General Letitia James filed a lawsuit against KuCoin on March 9, 2023. The lawsuit accused KuCoin of failing to register with the state before [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/kucoin-settles-nyag-charges-for-22m/\">KuCoin settles NYAG charges for $22M</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T17:32:19.000Z",
-    "title": " Terra co-founder Do Kwon will stay in Montenegro until February: Report ",
-    "url": "https://cointelegraph.com/news/terra-do-kwon-remain-montenegro",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYWZkMGI0NjAtMjkxYS00Nzg3LWEzZGEtODZkNzg0NzRhM2Q4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Terraform Labs co-founder had been awaiting extradition to either the U.S. or South Korea after a prison sentence in Montenegro for using falsified travel documents.</p>\n                    <p><p>Terraform Labs co-founder <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/do-kwon\">Do Kwon</a>, expected to be extradited to the United States to face criminal charges, will reportedly stay in Montenegrin custody until February.</p><p>According to a Dec. 12 Bloomberg report, authorities with the U.S. and South Korea <a href=\"https://www.bloomberg.com/news/articles/2023-12-12/montenegro-extends-do-kwon-detention-on-us-south-korea-requests\" target=\"_blank\" rel=\"noopener nofollow\">requested</a> Montenegrin officials hold Kwon for an additional two months following the conclusion of his prison sentence. The Terraform Labs co-founder was <a href=\"https://cointelegraph.com/news/do-kwon-reportedly-arrested-in-montenegro\" >arrested in Montenegro</a> in March for using falsified travel documents and sentenced to four months behind bars.</p><p>Kwon, a South Korean national formerly based in Singapore, has been charged in the U.S. and South Korea for his alleged role in the collapse of Terra. The Wall Street Journal reported on Dec. 7 that the U.S. would be <a href=\"https://cointelegraph.com/news/montenegro-extradition-do-kwon-united-states-report\" >taking custody of Kwon</a> before South Korea. Both countries have extradition requests pending at the time of publication. </p><p><a href=\"https://cointelegraph.com/news/terra-do-kwon-remain-montenegro\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T17:30:00.000Z",
-    "title": " Celestia to integrate with Polygon CDK for data availability in 2024 ",
-    "url": "https://cointelegraph.com/news/celestia-integrate-polygon-blockchain-cdk-data-availability-2024",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZGFiNWU0MjMtZjJjZC00NTJjLWFmNjMtZGU2ODNiMjljNGRjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Celestia will become an option for data availability within the Polygon CDK software.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Celestia network will integrate with Polygon’s chain development kit (CDK) sometime “early next year,” according to a Dec. 11 announcement. The integration will provide an “easily-pluggable component” for Polygon-based networks to use Celestia for data availability.</p><p data-ct-non-breakable=\"true\">The announcement claimed that transaction fees could be reduced by more than 100 times if networks stored compressed transaction data on Celestia instead of Ethereum. The integration coming in early 2024 will simplify this choice, providing this option within the Polygon CDK software itself.</p><p>“This is the broadband moment for Web3,” said Polygon co-founder Sandeep Nailwal. “The ability to launch a high-throughput ZK-powered Ethereum layer 2 as easily as deploying a smart contract will do for blockchain adoption what high-speed fiber did for Web2 applications.”</p><p><a href=\"https://cointelegraph.com/news/celestia-integrate-polygon-blockchain-cdk-data-availability-2024\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-12-12T17:21:08.000Z",
-    "title": "Aptos unlocks $215m worth of APT tokens, nearly 9% of supply",
-    "url": "https://cryptobriefing.com/aptos-unlocks-215m-worth-apt-tokens-nearly-9-supply/?utm_source=feed&utm_medium=rss",
-    "description": "The L1 chain has unlocked 24.8 million APT tokens today, constituting 8.9% of the network's circulating supply."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-12-12T17:11:19.000Z",
-    "title": "Cambodia taps Alipay to expand CBDC usage for tourists",
-    "url": "https://cryptobriefing.com/cambodias-cbdc-alipay-enable-tourism-payments/?utm_source=feed&utm_medium=rss",
-    "description": "Central Bank of Cambodias initiative to allow tourists to make payments using KHQR, powered by the blockchain-based platform Bakong."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T17:38:17.000Z",
-    "title": "These Indicators Unmask a Stealthy Move of Litecoin (LTC) and Monero (XMR) Towards Resistance Peaks",
-    "url": "https://cryptodaily.co.uk/2023/12/these-indicators-unmask-a-stealthy-move-of-litecoin-ltc-and-monero-xmr-towards-resistance-peaks",
-    "description": "Discover the intriguing dynamics of Litecoin (LTC) and Monero (XMR) in the cryptocurrency market. Our analysis delves into key technical indicators, unveiling a hidden potential for these digital currencies to reach significant resistance levels soon. Explore how their current performance masks an underlying strength, and what this means for their future market movements. Stay informed and ahead of the curve with our insightful examination of XMR and LTC potential trajectory in the ever-evolving world of crypto."
+    "source": "Bitcoin.com",
+    "date": "2023-12-12T18:00:55.000Z",
+    "title": "Meme Coin Rebel Satoshi Smashes Through Round 1 Presale in 10 Days",
+    "url": "https://news.bitcoin.com/meme-coin-rebel-satoshi-smashes-through-round-1-presale-in-10-days/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-12t142757-435-1.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. Rebel Satoshi, the meme coin on a community-driven mission to unite the silent majority and secure a $100 million market cap, has smashed through its first two fundraising rounds and attracted $500,000 since November 5th. The Early Bird Round sold out in 3 weeks with Rebels Round 1 selling out in just 10 [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T17:11:00.000Z",
-    "title": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s $ZKP",
-    "url": "https://www.cryptopolitan.com/bitmart-lists-zero-knowledge-defi-pioneer-panther-protocols-zkp/",
-    "description": "Gibraltar, Gibraltar, December 12th, 2023, Chainwire Panther Protocol is excited to announce its $ZKP listing on BitMart, a leading cryptocurrency exchange operating in over 180 countries. This listing is part of Panther Protocol&#8217;s ongoing effort focused on strategic partnerships and exchange listings before its V1 Mainnet launch aimed at providing improved accessibility, a variety of [&#8230;]"
+    "date": "2023-12-12T17:59:00.000Z",
+    "title": "Bittensor Explained: Revolutionizing AI with Blockchain and Decentralized Intelligence",
+    "url": "https://www.cryptopolitan.com/bittensor-revolutionizing-ai-with-blockchain/",
+    "description": "In the landscape of technology, there exists a pioneering force poised to reshape the way we perceive and harness artificial intelligence. Bittensor, a name that resonates with innovation, is on a mission to revolutionize the field of AI with a bold and visionary approach.&#160; Diving into the world of Bittensor, one sees how its impact [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T17:23:11.000Z",
-    "title": "CME Bitcoin futures down 10%, still ahead of Binance",
-    "url": "https://crypto.news/cme-bitcoin-futures-down-10-still-ahead-of-binance/",
-    "description": "The Chicago Mercantile Exchange remained traders’ preferred platform for Bitcoin futures even as BTC saw a 4% price correction amid a wide-ranging market dip."
+    "source": "Cryptopolitan",
+    "date": "2023-12-12T17:56:46.000Z",
+    "title": "Brave AI” System to Help Identify Patients at Risk of Emergency Admission",
+    "url": "https://www.cryptopolitan.com/brave-ai-system-to-help-identify-patients/",
+    "description": "In a groundbreaking development, the National Health Service (NHS) in southwest England is set to deploy an advanced artificial intelligence system known as &#8220;Brave AI&#8221; to identify patients at risk of emergency hospital admissions. This innovative technology utilizes AI-driven algorithms to analyze patient records and assess the likelihood of unplanned hospital admissions in the coming [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T17:14:50.000Z",
-    "title": "FTX case unwinnable, says Sam Bankman-Fried’s lawyer",
-    "url": "https://crypto.news/ftx-case-unwinnable-says-sam-bankman-frieds-lawyer/",
-    "description": "Sam Bankman-Fried’s lawyer, David Mills, calls his client the worst witness ever and emphasizes the FTX founder made the case unwinnable. "
+    "source": "Cryptopolitan",
+    "date": "2023-12-12T17:54:30.000Z",
+    "title": "Aptos unleashes over 24 million tokens in major market move",
+    "url": "https://www.cryptopolitan.com/aptos-unleashes-over-24-million-tokens/",
+    "description": "The Layer 1 blockchain Aptos, initiated by former Meta executives, has executed a substantial token release. On December 12, the blockchain network unveiled 24.8 million APT tokens, constituting 8.9% of its circulating supply, estimated at around $201.7 million. This release is part of a series of scheduled token unlocks, which are closely watched by investors [&#8230;]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-12-12T17:22:00.000Z",
-    "title": "Grayscale Registers Bitcoin Trust Ads With SEC; Is an Approval Close?",
-    "url": "https://coinedition.com/grayscale-registers-bitcoin-trust-ads-with-sec-is-an-approval-close/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Grayscale Registers Bitcoin Trust Ads With SEC; Is an Approval Close?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Amidst rising optimism for a spot Bitcoin exchange-traded fund, crypto asset manager Grayscale &#8211; one of the forerunners in the ETF race &#8211; has registered another retail-facing advertisement for its Bitcoin Trust fund with the U.S. Securities and Exchange Commission.&#160; Crypto Analyst known as Marty Party noted this development in a recent tweet on X [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/grayscale-registers-bitcoin-trust-ads-with-sec-is-an-approval-close/\">Grayscale Registers Bitcoin Trust Ads With SEC; Is an Approval Close?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2023-12-12T18:00:47.000Z",
+    "title": "Crypto Analyst Predicts Cardano Price Will Rise 6000% To $33, Here’s The Timeline",
+    "url": "https://www.newsbtc.com/news/cardano/cardano-price-6000-to-33/",
+    "description": "Crypto analyst Tyler Strejilevich has speculated what could be another tremendous bullish run for Cardano (ADA). Cardano has already done a 132% gain for its holders since the beginning of the year, but according to a discovery by this analyst, the token might just be getting started. In fact, if Strejilevich is right, ADA could skyrocket by an incredible 6000% from today&#8217;s price to $33 in the next year. Crypto Analyst Tyler Strejilevich Spots Bullish Signal For Cardano Crypto analyst Tyler Strejilevich made his discovery known in a post on the social media platform X. In the post, he noted how ADA is currently at a similar crossroads which it found itself in July 2020.  Related Reading: Shiba Inu Vs LUNC Burn: Which One Has Had A Better Impact? Using his analysis of the ADA price chart he shared, Strejilevich noted how the token is now at a bullish cross on moving averages on the weekly timeframe. The last time this happened, ADA went on to form many consecutive bullish candles, going from $0.041 to its current all-time high of $3.09 in 66 weeks.  A repeat would see Cardano reaching $33 by January 2025. A less optimistic prediction by Changelly puts a $1 prediction by the end of 2025.  #ADA is about to get a bullish weekly cross for the first time since JUNE 2020 The last time this happened it pumped 6,000% over the next 66 weeks#cardano pic.twitter.com/xQvvbf3b1O — Tyler Strejilevich (@TylerSCrypto) December 9, 2023 The bullish crossover is yet to happen, and the token still has a few weeks to see how this would play out. Of course, in the volatile world of cryptocurrencies, there&#8217;s no guarantee the price will move as predicted. Nevertheless, Cardano is poised for a major rally that could extend into the coming year.  ADA price continues to show strength &#124; Source: ADAUSD on Tradingview.com Current Bullish Performance Of ADA Network activity, increase in DeFi TVL, and other factors point to Cardano continuing on its current bull run. It&#8217;s important to note that the last time Cardano went on this 6000% price gain, its blockchain network was still behind on smart contract functionality. However, the network has changed since then, with Cardano now one of the fastest-growing blockchains in terms of smart contracts.  Related Reading: Crypto Analyst Predicts Short-Term XRP Price Rally To $18 Cardano is currently trading at $0.5754, up by 48.43% in a 7-day timeframe amidst a larger crypto market green week. The crypto briefly touched the $0.6 level on December 9, reaching $0.6323 for the first time this year. It has now formed a minor support at $0.53 and is on its way to revisiting $0.6. On the other hand, the total crypto market cap has dropped by 5.75% in the past 24 hours, as Bitcoin inflows slowed down. According to a chart shared by crypto analyst Ali Martinez, Bitcoin miners have sold around 1,000 BTC worth $44 million since Friday. At the time of writing, Bitcoin is down by 0.5% in the past 24 hours and 6% from its yearly high of $44,500. Featured image from Crypto News, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-12T18:03:10.000Z",
+    "title": "Next Possible Use Case for IOTA: Blockchain Technology Paves the Way for Verified Citizen Identities in China",
+    "url": "https://www.crypto-news-flash.com/next-possible-use-case-for-iota-blockchain-technology-paves-the-way-for-verified-citizen-identities-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=next-possible-use-case-for-iota-blockchain-technology-paves-the-way-for-verified-citizen-identities-in-china",
+    "description": "<img width=\"1000\" height=\"668\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-IOTA.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-IOTA.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-IOTA-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-IOTA-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Akarat-Phasura-IOTA-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />China’s Blockchain Service Network (BSN) has launched its RealDID system. With IOTA’s Tangle technology, the protocol can effectively power the RealDID System. China&#8217;s Blockchain-based Service Network (BSN) has announced the development of RealDID, a real-name decentralized identity system, utilizing blockchain technology to verify the identities of its 1.4 billion citizens. This system mirrors the next [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-12T17:55:08.000Z",
+    "title": "Venture Capital Arm of Crypto Exchange KuCoin Invests in Bitcoin (BTC) Layer-2 Project",
+    "url": "https://dailyhodl.com/2023/12/12/venture-capital-arm-of-crypto-exchange-kucoin-invests-in-bitcoin-btc-layer-2-project/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/venture-capital-arm.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The venture capital division of the cryptocurrency exchange KuCoin is announcing an investment in Dovi, a Bitcoin (BTC) layer-2 solution that is compatible with the Ethereum Virtual Machine smart contract platform. Lou Yu, the head of KuCoin Labs, says the investment will assist Dovi in realizing its various product and market goals. On its commitment [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/12/venture-capital-arm-of-crypto-exchange-kucoin-invests-in-bitcoin-btc-layer-2-project/\">Venture Capital Arm of Crypto Exchange KuCoin Invests in Bitcoin (BTC) Layer-2 Project</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-12T17:52:00.000Z",
+    "title": "Chromia Migrates My Neighbor Alice to Shared Appnet for Season Four Launch",
+    "url": "https://dailyhodl.com/2023/12/12/chromia-migrates-my-neighbor-alice-to-shared-appnet-for-season-four-launch/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Chromia-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>December 12, 2023 – Stockholm, Sweden Chromia’s Appnet continues to grow while the fully on-chain game &#8216;My Neighbor Alice&#8217; launches its alpha season four. Chromia – a relational blockchain platform designed for DApps (decentralized applications) – has migrated the fully on-chain game &#8216;My Neighbor Alice,&#8217; to its Shared Appnet, coinciding with the My Neighbor Alice [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/12/chromia-migrates-my-neighbor-alice-to-shared-appnet-for-season-four-launch/\">Chromia Migrates My Neighbor Alice to Shared Appnet for Season Four Launch</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,114 +1,58 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-12T15:41:01.000Z",
-    "title": "Binance P2P Trading Platform Halts Ruble Support Following Russia Exit ",
-    "url": "https://www.coindesk.com/policy/2023/12/12/binance-p2p-trading-platform-halts-ruble-support-following-russia-exit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Customers are free to withdraw or transfer funds and continue trading with Binance Russia's new owner CommEX, the company said Monday."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-12T16:01:07.000Z",
-    "title": "Electronic Music Duo Disclosure Drop AI-Powered NFTs on Beatport",
-    "url": "https://decrypt.co/209363/electronic-music-duo-disclosure-drop-ai-powered-nfts-beatport",
-    "description": "Grammy-nominated electronic music duo Disclosure are releasing NFTs that each offer a different, AI-generated take on one of their songs."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-12T16:00:21.000Z",
-    "title": "Bitcoin surge triggers miner sell-off",
-    "url": "https://cryptoslate.com/bitcoin-surge-triggers-miner-sell-off/",
-    "description": "<p>The role of Bitcoin miners goes beyond block validation — they are fundamental in shaping the market through their BTC balances. Historically, these balances have been closely tied to Bitcoin&#8217;s price movements, making them a key metric for market analysis. Bitcoin&#8217;s recent surge past the $40,000 mark was met with significant action from miners. At [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-surge-triggers-miner-sell-off/\">Bitcoin surge triggers miner sell-off</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T16:03:57.000Z",
-    "title": "Top Underrated Cryptos with Potential for Growth in December",
-    "url": "https://cryptodaily.co.uk/2023/12/top-underrated-cryptos-with-potential-for-growth-in-december",
-    "description": "Discover the hidden gems in the cryptocurrency market with our expert analysis of the top underrated cryptos poised for significant growth in December. Uncover potential investment opportunities and stay ahead in the dynamic world of digital currencies."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T16:01:50.000Z",
-    "title": "Pepe (PEPE), Meme Moguls (MGLS), and Shiba Inu (SHIB) Poised for Massive Growth in Q1 2024",
-    "url": "https://cryptodaily.co.uk/2023/12/pepe-pepe-meme-moguls-mgls-and-shiba-inu-shib-poised-for-massive-growth-in-q1-2024",
-    "description": "Memecoins Pepe, Shiba Inu, and Meme Moguls are experiencing significant price rallies as the DeFi market continues to boom."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T15:49:30.000Z",
-    "title": "Dogecoin & Shiba Inu Charts Signal Price Pump, Investors Rush to New Altcoin Pullix $PLX",
-    "url": "https://cryptodaily.co.uk/2023/12/dogecoin-shiba-inu-charts-signal-price-pump-investors-rush-to-new-altcoin-pullix-plx",
-    "description": "The crypto market is gaining steam again, with altcoins like Dogecoin ($DOGE) and Shiba Inu ($SHIB) showing promising signs"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-12T15:43:17.000Z",
-    "title": "Fantom (FTM) & THETA Network (THETA) Prices Retrace, Pullix (PLX) Is Set To Take Markets By Storm",
-    "url": "https://cryptodaily.co.uk/2023/12/fantom-ftm-theta-network-theta-prices-retrace-pullix-plx-is-set-to-take-markets-by-storm",
-    "description": "Fantom (FTM) and Theta Network (THETA) have been prominent names in the crypto sphere, known for their innovative technology."
+    "source": "Bitcoin.com",
+    "date": "2023-12-12T16:30:06.000Z",
+    "title": "Bitcoin’s Difficulty Drops for First Time Since September",
+    "url": "https://news.bitcoin.com/bitcoins-difficulty-drops-for-first-time-since-september/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin&#039;s Difficulty Drops for First Time Since September\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/yoo8999.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The latest figures reveal that on Dec. 9, 2023, at block height 820,512, Bitcoin experienced a 0.96% decrease in its difficulty rating. This decline marks the first since Sept. 19, 2023, interrupting a streak of six successive difficulty hikes. Concurrently, Bitcoin&#x2019;s total hashrate has shown a downward trend over the last six days. Bitcoin Hashrate [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T16:05:35.000Z",
-    "title": "Open-Source AI Models Gain Momentum, Posing Challenge to Tech Giants",
-    "url": "https://www.cryptopolitan.com/open-source-ai-models-gain-momentum/",
-    "description": "In a significant development in the world of artificial intelligence, Yann LeCun, often referred to as the &#8216;Godfather of AI&#8217; and Chief AI Scientist at Meta Platforms Inc. (META), has expressed his belief that open-source AI models are poised to surpass proprietary ones. LeCun&#8217;s assertion comes in response to the recent success of Mistral AI, [&#8230;]"
+    "date": "2023-12-12T16:35:34.000Z",
+    "title": "OverProtocol Announces Open Beta Testnet and Community Incentives for Participation",
+    "url": "https://www.cryptopolitan.com/overprotocol-announces-open-beta-testnet-and-community-incentives-for-participation/",
+    "description": "Seoul, South Korea, December 12th, 2023, Chainwire OverProtocol, a Layer 1 blockchain focused on democratizing validation, has exciting plans for the next year, including a mainnet launch in the first half. In October, the project successfully completed a closed beta testnet with 15,000 applicants from 127 countries, of whom 1,300 completed all tests. In preparation [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T16:05:06.000Z",
-    "title": "Coinbase announces new smart contract platform for institutional investors",
-    "url": "https://www.cryptopolitan.com/coinbase-platform-institutional-investors/",
-    "description": "Coinbase and its asset management division have announced the launch of Project Diamond. This innovative platform is poised to transform the traditional financial landscape by introducing digitally native debt instruments to the blockchain. Revolutionizing traditional finance with blockchain technology Coinbase Asset Management&#8217;s latest initiative, Project Diamond, is at the forefront of integrating traditional financial assets [&#8230;]"
+    "date": "2023-12-12T16:35:20.000Z",
+    "title": "Unlocking Marketing Success in 2024: Must-Know AI Tips from HubSpot’s AIMS Team",
+    "url": "https://www.cryptopolitan.com/success-must-know-ai-tips-from-hubspots/",
+    "description": "In the dynamic realm of AI, crafting effective prompts is pivotal for success. Matt Wolfe, an AI reporter and analyst, stresses the importance of specificity and goal-oriented prompts. For instance, transforming a generic request into a refined prompt involves defining clear intentions, considering context and persona, and envisioning the desired output. A concrete illustration of [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T16:01:29.000Z",
-    "title": "AI technology aims at the $2 trillion counterfeit market",
-    "url": "https://www.cryptopolitan.com/ai-technology-aims-at-the-2-trillion/",
-    "description": "As the holiday shopping season kicks into high gear, consumers face a growing threat from counterfeit products that are becoming increasingly difficult to detect. This global menace is estimated to be worth a staggering $2 trillion annually, posing risks not only to consumers but also to the economy. In response to this escalating problem, both [&#8230;]"
+    "date": "2023-12-12T16:24:00.000Z",
+    "title": "Binance vs OKX, which Exchange is Better?",
+    "url": "https://www.cryptopolitan.com/binance-vs-okx-which-exchange-is-better/",
+    "description": "Cryptocurrency exchanges play a pivotal role in the world of digital assets, serving as the gateways for traders and investors to navigate the dynamic realm of cryptocurrencies. Among these exchanges, Binance and OKX stand out as two leading centralized platforms, each with its own unique ecosystem and offerings. This article undertakes a comprehensive comparison of [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T15:56:33.000Z",
-    "title": "China has a blockchain ambition – But the reality?",
-    "url": "https://www.cryptopolitan.com/china-blockchain-ambition-but-the-reality/",
-    "description": "In the digital landscape, China&#8217;s Ministry of Public Security is gearing up to introduce a groundbreaking blockchain-based platform, RealDID. This initiative marks a significant stride in the nation&#8217;s endeavor to harness blockchain technology for enhancing the security and efficiency of identity verification processes. Unveiling RealDID: A blockchain revolution RealDID emerges as a multifaceted platform, designed [&#8230;]"
+    "date": "2023-12-12T16:20:43.000Z",
+    "title": "The U.S. Copyright Office Affirms Refusal to Register AI-Generated Artwork",
+    "url": "https://www.cryptopolitan.com/u-s-copyright-office-affirms-refusal-to/",
+    "description": "In a recent development, the U.S. Copyright Office&#8217;s Review Board has upheld its refusal to register a two-dimensional computer-generated image titled &#8220;SURYAST,&#8221; created by Ankit Sahni using the AI software RAGHAV. This marks the fourth instance where the office has denied copyright registration for a work produced with artificial intelligence, citing concerns about human control, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T15:47:49.000Z",
-    "title": "Elon Musk unable to get out of Twitter takeover lawsuit",
-    "url": "https://www.cryptopolitan.com/elon-musk-twitter-takeover-lawsuit/",
-    "description": "Elon Musk, the renowned business magnate, has recently found himself embroiled in a legal battle that refuses to fade away. A federal judge in California has ruled that Musk must confront a lawsuit brought forth by Twitter investors. They allege that Musk created uncertainty around his proposed acquisition of Twitter, aiming to drive down the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-12T15:40:27.000Z",
-    "title": "Cards We’re Dealt Revolutionizes the Deckbuilding Genre",
-    "url": "https://www.cryptopolitan.com/cards-were-dealt-revolutionizes-deckbuilding/",
-    "description": "Innovative gameplay meets horror in Cards We&#8217;re Dealt In a significant development for deckbuilding game enthusiasts, Cards We’re Dealt has been launched on Xbox One and Xbox Series X&#124;S. This latest offering from the creative mind of Cole Chittim merges the thrill of deckbuilding with the suspense of a horror roguelike, presenting a unique gaming [&#8230;]"
+    "date": "2023-12-12T16:11:49.000Z",
+    "title": "Arena group’s CEO ousted amid AI-generated content scandal",
+    "url": "https://www.cryptopolitan.com/arena-groups-ceo-ousted-amid-ai-generated/",
+    "description": "The Arena Group, the publishing company responsible for iconic titles such as Sports Illustrated and Men&#8217;s Journal, has announced the termination of its CEO, Ross Levinsohn, along with two other top executives, as it grapples with a scandal involving the publication of articles authored by artificial intelligence and bylined with fictitious names. AI-Generated content sparks [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-12T16:09:33.000Z",
-    "title": "China proposes blockchain-powered identity verification",
-    "url": "https://crypto.news/china-blockchain-identity-data-security/",
-    "description": "The Chinese Ministry of Public Security is set to launch RealDID, a blockchain-based platform aiming to authenticate the real-name identities of citizens. "
+    "date": "2023-12-12T16:29:48.000Z",
+    "title": "BIS unveils technical priorities for CBDCs in Americas",
+    "url": "https://crypto.news/bis-unveils-technical-priorities-for-cbdcs-in-americas/",
+    "description": "Central banks in the Americas, under the guidance of BIS, have outlined key technical priorities for potential CBDC architecture."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T15:53:39.000Z",
-    "title": "BNB Chain unveils Greenfield roadmap, targets mass adoption",
-    "url": "https://crypto.news/bnb-chain-greenfield-roadmap-mass-adoption/",
-    "description": "BNB Chain, the ecosystem attributed with the world's largest smart contract blockchain, has unveiled the BNB Greenfield technology roadmap in a Dec. 12 announcement."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-12T16:04:59.000Z",
-    "title": "Immutable (IMX) Soars to $2: A 600-Day Milestone in Crypto",
-    "url": "https://www.crypto-news-flash.com/immutable-imx-soars-to-2-a-600-day-milestone-in-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=immutable-imx-soars-to-2-a-600-day-milestone-in-crypto",
-    "description": "<img width=\"1280\" height=\"910\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-300x213.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-1024x728.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-768x546.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-269x192.png 269w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-24x17.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-36x26.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/rocket-gc51fb5864_1280-48x34.png 48w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Immutable X&#8217;s IMX token bucks the crypto market trend, surging over 300% in 56 days to reach $2.07, its highest in 600 days. Strategic partnerships with Amazon and Ubisoft and technological advancements contribute to IMX&#8217;s success in the blockchain and gaming industries. Immutable X (IMX) has performed remarkably well, defying the negative trend. IMX has [...]"
+    "source": "NewsBTC",
+    "date": "2023-12-12T16:30:32.000Z",
+    "title": "Bitcoin Speed Bump: A Week’s Surge Crumbles In Just 20 Minutes",
+    "url": "https://www.newsbtc.com/news/bitcoin-speed-bump-a-weeks-surge-crumbles-in-a-blink-of-20-minutes/",
+    "description": "After hitting $43,000 last week, Bitcoin traded just below it over the weekend. But the price of the cryptocurrency dropped significantly on Tuesday, reaching $41,800. Following Bitcoin&#8217;s December surge, investors chose to take profits, which led to this fall. There was a significant decline the night before, with Bitcoin momentarily falling as low as $40,300. Due to the decline, the top cryptocurrency in the world had almost a week&#8217;s worth of gains erased in only 20 minutes on Sunday night. According to statistics from TradingView, Bitcoin saw a dramatic 7% decline at approximately 9:00 p.m. Eastern Time, falling from above $43,200 to as low as $40,290. Bitcoin Liquidations And Stock Fluctuations Following months of stagnation in a limited trading range, Bitcoin has been steadily rising in recent weeks. The cryptocurrency has seen a notable change in mood and performance after previously experiencing market disinterest. Coinglass data indicates a flurry of positions liquidated in the 12 hours starting on Sunday evening, with upwards of $335 million in liquidations across cryptocurrencies, and roughly $300 million of that in long positions. The reason for the abrupt swing down was not immediately evident. In just Bitcoin alone, liquidations totaled over $89 million. Source: TradingView Stocks have fluctuated this week as investors prepare for a busy event schedule. Expectedly high volatility this week—the Federal Reserve&#8217;s most recent monetary policy decision is due on Wednesday, and important November inflation data is coming on Tuesday—is the cause of this anxiety. Related Reading: Hold Your Horses: Bitcoin Could Fall Back To Under $38,000, These Analysts Say When assessing the present rise in bitcoin, chart analysts all agree that a more significant dip in the cryptocurrency would be necessary before they would reevaluate how strong the rally is. The sharp decline forced the liquidation of long Bitcoin positions worth over $270 million. Source: CoinGlass. Rob Ginsberg from Wolfe Research agrees, pointing out that there is a lot of momentum in the continuing rising trend. According to the consensus of industry professionals, there is a general belief in the durability and longevity of Bitcoin&#8217;s upward trajectory. Still A Bright Road Ahead A number of favorable catalysts for the cryptocurrency is seen in the upcoming year, with the first being the possibility of a bitcoin exchange-traded fund (ETF). Investors anticipate a price spike in the months that follow the anticipated halving of Bitcoin in the spring of 2024. BTCUSD trading at $41,877 on the daily chart: TradingView.com Related Reading: Ethereum Rises: ETH Remains Steady At Over $2,300 Amid Bull Market Expectations Although some investors are excited by the prospect of an ETF, the market as a whole is feeling positive and anticipating significant changes to the cryptocurrency environment. The price of Bitcoin has risen by about 150% since the start of the year, despite the hiccup. The main driver of the surge has been expectations that large financial institutions will soon be able to purchase significant exposure to Bitcoin through exchange-traded funds (ETFs). The market&#8217;s common expectation that the US Federal Reserve would start cutting interest rates in the middle of 2024 has added to the support for Bitcoin&#8217;s price climb. Featured image from Adobe Stock"
   }
 ]

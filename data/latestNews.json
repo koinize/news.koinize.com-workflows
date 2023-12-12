@@ -1,93 +1,51 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-12-12T19:02:30.000Z",
-    "title": "BlackRock Bitcoin ETF Shifts Risk to Crypto Market Makers, Not Banks",
-    "url": "https://decrypt.co/209451/blackrock-bitcoin-etf-risk-crypto-market-makers-banks",
-    "description": "An SEC memo shares new details of a late November meeting the Commission held with BlackRock to discuss the asset manager's pending Bitcoin ETF application."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T19:03:25.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p>Do Kwon to remain in Montenegrin custody until February. Crypto platform WOO X has partnered with market maker Wintermute, which will act as the designated liquidity provider for the platform. Meanwhile, El Salvador's digital asset regulator has given the regulatory nod for the country's first Bitcoin bonds.</p><p>Do Kwon will <a href=\"https://cointelegraph.com/news/terra-do-kwon-remain-montenegro\">remain in Montenegrin custody until February</a> despite the completion of his current prison sentence. The Terra cryptocurrency exchange co-founder is awaiting extradition to the U.S. or South Korea for his alleged role in the exchange’s collapse in May 2022.</p><p>The former TerraForm Labs CEO faces eight criminal charges in the U.S including commodities fraud, securities fraud, wire fraud and conspiracy to defraud and engage in market manipulation. He’s also been charged by the SEC in a separate indictment. </p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-12T19:00:00.000Z",
-    "title": " S&amp;P Global launches stablecoin ratings, ranks GUSD, USDP, USDC highest ",
-    "url": "https://cointelegraph.com/news/s-p-global-launches-stablecoin-ratings-ranks-gusd-usdp-usdc-highest",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZmQ4MjBiZmItMTkwYy00M2YxLTg4NDMtNDExOGUwMjE5MTU3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The producer of the S&P 500 assessed eight stablecoins. Tether received the second-lowest rating. </p>\n                    <p><p>S&amp;P Global has launched a stablecoin stability assessment. In its initial ratings of the eight stablecoins, none were given the top mark, but two received the lowest, based on their ability to maintain their fiat pegs.</p><p>According to a statement, to establish its ratings, S&amp;P Global first <a href=\"https://press.spglobal.com/2023-12-12-S-P-Global-Ratings-Launches-Stablecoin-Stability-Assessment\" target=\"_blank\" rel=\"noopener nofollow\">examines</a> asset quality risks, then factors mitigating the risks, and then considers governance, legal and regulatory framework, redeemability and liquidity, technology and third-party dependencies, and track record.</p><p>S&amp;P Global, formerly known as Standard &amp; Poor’s, is best known for the S&amp;P 500 Index of large companies listed on United States stock exchanges. It has <a href=\"https://cointelegraph.com/news/usdc-dai-depegged-more-than-usdt-sp-global-research\" >turned its attention to stablecoin</a> before, but not with the depth of the new ratings. S&amp;P Global Ratings senior analyst Lapo Guadagnuolo said:</p><p><a href=\"https://cointelegraph.com/news/s-p-global-launches-stablecoin-ratings-ranks-gusd-usdp-usdc-highest\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-12T19:00:26.000Z",
-    "title": "zkSync Era integrates Chainlink price feeds to boost layer-2 capabilities",
-    "url": "https://cryptoslate.com/zksync-era-integrates-chainlink-price-feeds-to-boost-layer-2-capabilities/",
-    "description": "<p>Chainlink&#8217;s price feeds are now live on Matter Labs&#8216;-backed layer2 network zkSync&#8217;s Era following the addition of the platform to the Oracle blockchain&#8217;s Sustainable Chainlink Access for Layer 1 and 2 Enablement (SCALE), according to a Dec. 12 statement shared with CryptoSlate. Chainlink&#8217;s price feed is an essential blockchain tool that connects smart contracts and [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/zksync-era-integrates-chainlink-price-feeds-to-boost-layer-2-capabilities/\">zkSync Era integrates Chainlink price feeds to boost layer-2 capabilities</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CryptoGlobe",
+    "date": "2023-12-12T19:27:48.000Z",
+    "title": "S&P Global Ratings Casts Doubt on Tether’s Stability in New Stablecoin Assessment",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/sp-global-ratings-casts-doubt-on-tethers-stability-in-new-stablecoin-assessment/",
+    "description": "S&amp;P Global Ratings has announced the launch of its stablecoin stability assessment. S&amp;P Global Ratings, a division of S&amp;P Global Inc. (NYSE: SPGI), is a leading provider of independent credit risk research. The firm publishes credit ratings on debt issued by various entities across multiple sectors. With a global team of credit analysts and a […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-12T18:57:02.000Z",
-    "title": "Experts Name the Most Promising Altcoins for 2024",
-    "url": "https://cryptodaily.co.uk/2023/12/experts-name-the-most-promising-altcoins-for-2024",
-    "description": "Discover the top altcoins poised for growth in 2024 as named by leading cryptocurrency experts. Explore our comprehensive analysis of potential market leaders and emerging digital currencies set to revolutionize the crypto landscape"
+    "date": "2023-12-12T19:18:21.000Z",
+    "title": "Axelar Powers Vertex's Move Towards Cross-Chain Interoperability",
+    "url": "https://cryptodaily.co.uk/2023/12/axelar-powers-vertexs-move-towards-cross-chain-interoperability",
+    "description": "Axelar Powers Vertex's Move Towards Cross-Chain Interoperability"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-12T19:06:29.000Z",
-    "title": "Alchemy Subgraphs Launches on Polygon zkEVM Blockchain Development",
-    "url": "https://www.cryptopolitan.com/alchemy-subgraphs-launches-on-polygon-zkevm/",
-    "description": "Alchemy Subgraphs, a platform in blockchain development, has officially launched on Polygon zkEVM. The move marks a significant leap forward in blockchain technology, particularly for developers specializing in the creation and deployment of subgraphs for indexing transfer events in ERC-721 contracts. The integration with Polygon zkEVM is set to provide a more efficient, streamlined process [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-12T19:01:24.000Z",
-    "title": "Curve Finance Resets CryUSD: A Strategic Move in Stablecoin Market",
-    "url": "https://www.cryptopolitan.com/curve-finance-cryusd-stablecoin-market/",
-    "description": "Curve Finance, a prominent player in the decentralized finance (DeFi) space, has announced a significant adjustment to its stablecoin, CryUSD – the coin is being repegged to the value of $1. The adjustment is particularly noteworthy as it&#8217;s the first time CryUSD has returned to its pegged value since it deviated in early November. The [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-12T18:57:59.000Z",
-    "title": "Sound Acquires Soho: A Mobile-First Social Experience in Music",
-    "url": "https://www.cryptopolitan.com/sound-acquires-soho-a-mobile-first-in-music/",
-    "description": "In a remarkable development in the digital music industry, Sound, a prominent player in the realm of music and digital collectibles, has announced the acquisition of Soho, a leading mobile platform for digital collectors. The acquisition marks a significant milestone for Sound, highlighting its dedication to revolutionizing the music industry with a focus on social, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-12T18:53:13.000Z",
-    "title": "Introducing Polygon Portal: A Step in Web3 User Experience",
-    "url": "https://www.cryptopolitan.com/polygon-portal-step-in-web3-user-experience/",
-    "description": "The digital asset landscape is witnessing a rapid evolution, and leading the charge is the innovative platform, Polygon Portal. Polygon Portal is set to revolutionize how users interact with blockchain technology. It&#8217;s not just a platform; it&#8217;s a paradigm shift, redefining the user experience by offering a seamless, intuitive interface that bridges the complexities of [&#8230;]"
+    "date": "2023-12-12T19:18:27.000Z",
+    "title": "Axelar Powers Vertex’s Move Towards Cross-Chain Interoperability",
+    "url": "https://www.cryptopolitan.com/axelar-powers-vertexs-move-towards-cross-chain-interoperability/",
+    "description": "New York, USA, December 12th, 2023, Chainwire The top derivatives DEXs and spot DEXs are now all using Axelar network for cross-chain connections Vertex Protocol, one of the most innovative and fast-growing DEXs in Web3, is now using Axelar network and Squid to power cross-chain collateral deposits. The integration was announced today on Twitter. Vertex [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-12T18:46:27.000Z",
-    "title": "SEC met with Franklin Templeton over spot Bitcoin ETF",
-    "url": "https://crypto.news/sec-met-with-franklin-templeton-over-spot-bitcoin-etf/",
-    "description": "Discussions between the SEC and Franklin Templeton emerged as crypto proponents stayed bullish on spot Bitcoin ETFs amid market dips."
+    "date": "2023-12-12T19:18:51.000Z",
+    "title": "Floki surges 4% following announced campaign with TokenFi",
+    "url": "https://crypto.news/floki-surges-campaign-tokenfi/",
+    "description": "Popular memecoin FLOKI surged nearly 4% in an hour following the announcement of a two-month marketing campaign with TokenFi in Hong Kong."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T18:43:25.000Z",
-    "title": "FakeAI’s viral instagram videos cited by Joe Rogan and featured in Greta Thunberg’s skit",
-    "url": "https://crypto.news/fakeais-viral-instagram-videos-cited-by-joe-rogan-and-featured-in-greta-thunbergs-skit/",
-    "description": "A DeepFake video created with the DeepFakeAI platform went viral on Instagram and was cited by the popular Joe Rogan Experience podcast"
+    "source": "NewsBTC",
+    "date": "2023-12-12T19:30:42.000Z",
+    "title": "Bitcoin Rushes To Exchanges, But This Sign Remains Positive For The Bulls",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-flows-exchanges-sign-positive-bulls/",
+    "description": "On-chain data shows an increasing trend of Bitcoin moving to exchanges, a typical bearish sign, but another signal still remains optimistic for the bulls. Bitcoin Exchange Inflows Are Up, But So Are USDT Deposits According to data from the on-chain analytics firm Santiment, BTC has been flowing into exchanges recently. The relevant indicator here is the &#8220;supply on exchanges,&#8221; which keeps track of the percentage of a cryptocurrency&#8217;s total circulating supply that&#8217;s currently sitting in the wallets of all centralized exchanges. When the value of this metric goes up, it means that the investors are making net deposits of the asset into these platforms, while a decline implies outflows are taking place. Related Reading: Crypto Market Crashes: Traders React With “Buy The Dip” Calls What effect either of these trends might have on the market depends on the type of cryptocurrency in question. Santiment has shared the below chart, which shows how the supply on exchanges has recently changed for four assets: Bitcoin, Ethereum (ETH), Tether (USDT), and USD Coin (USDC). The trends in the exchange supplies of the different top cryptocurrencies &#124; Source: Santiment on X As displayed in the above graph, the Bitcoin and Ethereum exchange supplies had both been on the decline earlier, but recently, BTC has diverged from this downtrend and registered some net deposits. These deposits first started after BTC finished its rally to $44,000 and took to sideways movement. Generally, one of the main reasons why holders might deposit their coins to exchanges is for selling purposes, so these recent inflows can be a sign that selling has been taking place. The uptrend in the supply on exchanges also became a bit sharper in the leadup to the asset&#8217;s latest plunge, suggesting that the inflows have indeed been adding to the selling pressure. From the chart, it&#8217;s also visible that the Bitcoin supply on exchanges hasn&#8217;t yet reversed its trend, a potential indication that selling hasn&#8217;t completely exhausted yet. Meanwhile, Ethereum has continued to see supply exit these central entities, implying that investors of the cryptocurrency are possibly still participating in net accumulation. Something that could prove to be positive for BTC, though, is the fact that the Tether supply on exchanges has risen since the plunge. Investors usually make use of stablecoins like USDT and USDC whenever they want to escape the volatility associated with coins like BTC and ETH, but such investors generally only do this as a temporary measure. When the holders plan to leave the cryptocurrency sector as a whole, they do so through fiat instead. Opting for stablecoins instead, thus, means that they intend to stay in the market and possibly eventually return back towards the volatile side. Sizeable swaps from stables into Bitcoin and others can naturally provide a buying boost to their prices, so exchange inflows of them can be a bullish sign for these volatile assets. Related Reading: BONK Soars 18%, But Analyst Warns Of Impending Correction The most bullish combination is when BTC rallies while the USDT exchange supply does the same, as such a trend suggests that fresh capital is entering into the sector. In the current case, the Tether exchange supply has gone up at the expense of BTC&#8217;s price, so only a rotation of capital has occurred. Nonetheless, the fact that not all capital has exited the sector as a whole can still be an optimistic sign for the rally&#8217;s return. BTC Price Bitcoin had plunged towards $40,000 yesterday, but the coin has already made some swift recovery as it&#8217;s now trading around the $41,700 level. Looks like BTC has made some recovery from its lows &#124; Source: BTCUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, Santiment.net"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-12T18:46:34.000Z",
-    "title": "SSV Network brings us Ethereum Staking with its New Permisionless Mainnet",
-    "url": "https://www.crypto-news-flash.com/ssv-network-brings-us-ethereum-staking-with-its-new-permisionless-mainnet/?utm_source=rss&utm_medium=rss&utm_campaign=ssv-network-brings-us-ethereum-staking-with-its-new-permisionless-mainnet",
-    "description": "<img width=\"1380\" height=\"919\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum staking network SSV launches permissionless mainnet\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration.jpg 1380w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-104x69.jpg 104w\" sizes=\"(max-width: 1380px) 100vw, 1380px\" />SSV Network launches permisionless mainnet using Distributed Validator Technology (DVT), allowing anyone to participate in Ethereum staking. With rewards in SSV tokens, SSV Network seeks to decentralize Ethereum staking, challenging the current centralization of providers such as Lido and Coinbase. The news of the moment, SSV Network has announced its permisionless mainnet. This launch is [...]"
+    "source": "Coin Edition",
+    "date": "2023-12-12T19:27:00.000Z",
+    "title": "Judgment on Ripple’s Case Exposed Howey Test Limitations: Experts",
+    "url": "https://coinedition.com/judgment-on-ripples-case-exposed-howey-test-limitations-experts/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Judgment on Ripple’s Case Exposed Howey Test Limitations: Experts\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Settlement-In-SEC-vs-Ripple-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Web3 experts have highlighted the procedural and factual differences between the handling of Ripple’s case against the Securities and Exchange Commission (SEC) and the Terraform case, as well as the limitations of the Howey Test.  In a recently published article, Alex Drylewski, co-head of Skadden, Arps, Slate, Meagher &#38; Flom Web3 and digital assets group, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/judgment-on-ripples-case-exposed-howey-test-limitations-experts/\">Judgment on Ripple’s Case Exposed Howey Test Limitations: Experts</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2023-12-12T19:05:18.000Z",
-    "title": "Ethereum Rival Avalanche (AVAX) Skyrockets 138% in a Month As Ecosystem Makes Comeback",
-    "url": "https://dailyhodl.com/2023/12/12/ethereum-rival-avalanche-avax-skyrockets-138-in-a-month-as-ecosystem-makes-comeback/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/08/avax-double-price-popular.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Avalanche (AVAX) has rallied heavily in the last month, outperforming the top 20 crypto assets while its ecosystem enjoys a resurgence of its own. AVAX crossed the $40 mark early on Monday, an 81% gain for December and a 138% gain since November 12. Amid Avalanche&#8217;s parabolic run, crypto analytics firm IntoTheBlock reports that the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/12/ethereum-rival-avalanche-avax-skyrockets-138-in-a-month-as-ecosystem-makes-comeback/\">Ethereum Rival Avalanche (AVAX) Skyrockets 138% in a Month As Ecosystem Makes Comeback</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-12-12T19:30:19.000Z",
+    "title": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s ZKP",
+    "url": "https://dailyhodl.com/2023/12/12/bitmart-lists-zero-knowledge-defi-pioneer-panther-protocols-zkp/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Panther-Protocol-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>December 12, 2023 – Gibraltar, Gibraltar Panther Protocol is excited to announce its ZKP listing on BitMart, a leading cryptocurrency exchange operating in over 180 countries. This listing is part of Panther Protocol&#8217;s ongoing effort focused on strategic partnerships and exchange listings before its V1 mainnet launch aimed at providing improved accessibility, a variety of [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/12/bitmart-lists-zero-knowledge-defi-pioneer-panther-protocols-zkp/\">BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s ZKP</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

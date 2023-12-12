@@ -1,114 +1,72 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-12T13:41:21.000Z",
-    "title": "U.S. CPI Inflation Trended Lower in November, Rising 3.1% From a Year Ago",
-    "url": "https://www.coindesk.com/markets/2023/12/12/us-cpi-rises-01-in-december-31-year-over-year-meeting-economist-expecatations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "This morning's inflation data"
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-12T14:04:20.000Z",
-    "title": "Avalanche Flips Dogecoin Market Cap With Double-Digit Surge",
-    "url": "https://decrypt.co/209423/avalanche-flips-dogecoin-market-cap-with-double-digit-surge",
-    "description": "Avalanche has risen to become the 10th biggest cryptocurrency by market capitalization, overtaking meme coin Dogecoin."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-12T14:01:10.000Z",
-    "title": "Champions Arena is Ushering In a ‘New Generation’ of In-Game NFTs",
-    "url": "https://decrypt.co/207871/champions-arena-is-ushering-in-a-new-generation-of-in-game-nfts",
-    "description": "Following its launch on Gala Games, OneUniverse’s turn-based mobile battler is pioneering next-gen NFT tech."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-12T14:01:05.000Z",
-    "title": "Ultra Reveals First Digital PC Game That Can Be Resold via NFT License",
-    "url": "https://decrypt.co/209425/ultra-reveals-first-digital-pc-game-resold-nft-license",
-    "description": "A 'Web2' action game previously released via Steam and console systems will be the first tradable digital PC title on Ultra."
+    "date": "2023-12-12T14:19:14.000Z",
+    "title": "Coinbase to Bring TradFi Assets On-Chain With New Platform Built on Base Under Abu Dhabi Regulator's Oversight",
+    "url": "https://www.coindesk.com/business/2023/12/12/coinbase-debuts-rwa-platform-built-on-base-under-abu-dhabi-regulators-oversight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Coinbase's Project Diamond lets institutions create and trade digital native versions of financial instruments such as debt using Base in a regulated manner."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-12T14:01:00.000Z",
-    "title": " Bitcoin’s water consumption: A new environmental threat? ",
-    "url": "https://cointelegraph.com/news/bitcoin-water-consumption-environment-adoption",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNTcxNzE0ZjUtOTMxZi00YTNmLWI5OTMtNjBlOWRjYWUzOTc4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>New studies have examined the water consumption of Bitcoin, with alarming results.</p>\n                    <p><p>Bitcoin, the world’s leading cryptocurrency, has long been under scrutiny for its environmental impact due to the energy-intensive nature of its mining process. </p><p>Since its inception in 2008, Bitcoin has never been hacked. Its tight security, provided by its proof-of-work (PoW) consensus mechanism, provides value to the cryptocurrency. </p><p>PoW, however, is energy-intensive and relies on complex cryptographic algorithms requiring vast computational power. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-water-consumption-environment-adoption\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-12T14:26:00.000Z",
+    "title": " &#039;Take some rest and GO&#039; — Bitcoin price copies 2020 bull run fractal ",
+    "url": "https://cointelegraph.com/news/bitcoin-price-copies-2020-bull-run-fractal",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNThiZTE0ODktM2JiNC00YWYwLTk5NTgtZTA4Y2NlOTlmZTA5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin is nowhere near done with its bull market, should a chart fractal from several years ago continue to play out.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) should not worry traders after the biggest one-day drop of 2023 if one chart fractal plays out.</p><p>In a <a href=\"https://twitter.com/TATrader_Alan/status/1734528037096714559/photo/1\" target=\"_blank\" rel=\"noopener nofollow\">post</a> on X (formerly Twitter) on Dec. 12, popular trader Alan Tardigrade revealed uncanny similarities between Bitcoin now and four years ago.</p><p>Bitcoin may be <a href=\"https://cointelegraph.com/news/buy-the-dip-sell-the-rip-btc-price-levels-to-watch-bitcoin-taps-42-k\">struggling to clear</a> key long-term resistance, but one comparison suggests that it is “business as usual” for BTC price action.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-price-copies-2020-bull-run-fractal\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-12T14:13:56.000Z",
+    "title": " Coinbase co-founder Fred Ehrsam sells $13 million COIN shares as ARK continues to divest  ",
+    "url": "https://cointelegraph.com/news/coinbase-co-founder-sells-13-million-coin-shares",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMzQ3Njg2ZDEtOTgwZi00MWQ3LTg0MDMtYzc4ZjAxODE5NWM1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Major Coinbase shareholders have sold over $14 million of stocks over the past 48 hours.</p>\n                    <p><p>According to public trading data, Coinbase co-founder Fred Ehrsam and ARK Invest have sold more than $14 million of Coinbase shares over the past 48 hours.</p><p>Information shared by Insider Tracker, a service that shares trading information of high-profile company executives and politicians shows that Ehrsam sold 97.836 COIN shares for $13.2 million on Dec. 11.</p><p>Meanwhile, ARK Invest’s daily trade information newsletter, which provides updates on its actively managed exchange-traded funds (ETFs), showed that its ARK Innovation ETF (ARKK) had offloaded some 10,933 COIN shares valued at around $1.5 million.</p><p><a href=\"https://cointelegraph.com/news/coinbase-co-founder-sells-13-million-coin-shares\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-12T14:00:18.000Z",
-    "title": "Historical market drawdowns could signal the dawn of a digital currency era",
-    "url": "https://cryptoslate.com/insights/historical-market-drawdowns-could-signal-the-dawn-of-a-digital-currency-era/",
-    "description": "<p>Quick Take Historical data underlines a recurring pattern of significant drawdowns in both stocks and bonds, often preceding seismic shifts in US monetary policy. Back in 1931, the market witnessed a hefty 40% drawdown in stocks and a 7% drawdown in bonds. Two years after this event, President Franklin Roosevelt initiated Executive Order 6102, which [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/historical-market-drawdowns-could-signal-the-dawn-of-a-digital-currency-era/\">Historical market drawdowns could signal the dawn of a digital currency era</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-12T13:43:18.000Z",
-    "title": "US inflation meets forecasts as Bitcoin again threatens $42,000",
-    "url": "https://cryptoslate.com/insights/us-inflation-meets-forecasts-as-bitcoin-again-threatens-42000/",
-    "description": "<p>Quick Take The Dec. 12 US CPI inflation data revealed that the headline inflation year over year matched the expected result of 3.1%. Similarly, the core inflation year over year did not stray from the predicted 4.0%. These statistics indicate consistency in economic forecasting, demonstrating that the inflationary situation is developing as anticipated by analysts. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/us-inflation-meets-forecasts-as-bitcoin-again-threatens-42000/\">US inflation meets forecasts as Bitcoin again threatens $42,000</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-12T14:24:30.000Z",
+    "title": "CFTC chair says most cryptocurrencies are commodities under current laws",
+    "url": "https://cryptoslate.com/cftc-chair-says-most-cryptocurrencies-are-commodities-under-current-laws/",
+    "description": "<p>Commodities Futures Trading Commission (CFTC) Chairman Rostin Behnam believes that most cryptocurrencies are commodities under existing laws, which need to be updated to account for technological advances. Behnam made the statement during an interview on CNBC&#8217;s Squawk Box on Dec. 12. The CFTC chair said there is an urgent need for more comprehensive regulatory frameworks [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/cftc-chair-says-most-cryptocurrencies-are-commodities-under-current-laws/\">CFTC chair says most cryptocurrencies are commodities under current laws</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-12T14:07:39.000Z",
-    "title": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s $ZKP",
-    "url": "https://cryptodaily.co.uk/2023/12/bitmart-lists-zero-knowledge-defi-pioneer-panther-protocols-zkp",
-    "description": "BitMart Lists Zero-Knowledge DeFi Pioneer Panther Protocol’s $ZKP"
+    "date": "2023-12-12T14:16:57.000Z",
+    "title": "OverProtocol Announces Open Beta Testnet and Community Incentives for Participation",
+    "url": "https://cryptodaily.co.uk/2023/12/overprotocol-announces-open-beta-testnet-and-community-incentives-for-participation",
+    "description": "OverProtocol Announces Open Beta Testnet and Community Incentives for Participation"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-12T13:54:43.000Z",
-    "title": "Analyst bullish on Dogecoin, traders back Meme Kombat’s MK token",
-    "url": "https://crypto.news/analyst-bullish-on-dogecoin-traders-back-meme-kombats-mk-token/",
-    "description": "Dogecoin is bullish above key support. Investors looking at Meme Kombat and MK as presale raises over $2.8 million"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-12T14:00:51.000Z",
-    "title": "XRP Price Prediction: Crypto Analyst Expects 200% Jump As Critical Support Forms",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-price-prediction-200/",
-    "description": "Crypto analyst Egrag has provided insights into the current market conditions of the XRP price from a technical analysis perspective. He highlighted a critical support level for the crypto token and also reasserted his bullish prediction for XRP when the bull run returns.  XRP Could Rise To $2 From This Support Level In a post shared on his X (formerly Twitter) platform, Egrag mentioned that XRP could rise to as high as $2 once it is able to hit the support level of $1.2. He shared an accompanying chart to drive home his point. From the chart, he noted that it was “intriguing” that XRP hasn’t managed to close a monthly candle above $1.2 yet. Related Reading: Bitcoin Price In Turmoil: Major Events That Could Affect Price This Week Source: X He further mentioned that so far, XRP has body candles, but a full-body candle hasn’t materialized. Despite that, the crypto analyst is still bullish on the future trajectory of XRP. He confidently said that XRP will hit $2 once XRP “finally achieves a monthly candle close with a full body above $1.2.” Considering that many seem to be losing hope in XRP’s potential, Egrag suggested that this move will provide renewed hope as he is convinced that it will trigger a “massive FOMO.” Meanwhile, those who have continued to remain steadfast will be hoping that Egrag’s prediction comes true as they believe that XRP is long overdue for a significant rally.  Egrag had previously mentioned that XRP hitting $27 is a “plausible target,” considering that XRP saw a parabolic move back in 2017, with the token seeing a 61,000% gain in 280 days. He once again reasserted his bullish stance as he stated that he still has his sight set on the $27 mark.   Token price fluctuates &#124; Source: XRPUSD on Tradingview.com XRP Price Retesting Trendline Crypto analyst JD also recently shared an outlook of XRP on the charts. He mentioned in an X post that XRP broke out of the multi-year trendline on the Non-Logarithmic Scale. Following that, XRP is currently retesting the trendline.  Related Reading: Why Is Ethereum Price Down To $2,200 Today? As to what the future holds for XRP, he noted that a bounce-off on the weekly close is bullish, as that could signify a breakout or retest. However, a break below the trendline could be a false breakout.  Source: X Meanwhile, another analyst, Crytoes, recently noted that the bears are still in control when it comes to the XRP market. He made this statement following XRP’s daily close below the 21MA (Moving Average). At the time of writing, XRP is trading at around $0.62, down in the last 24 hours, according to data from CoinMarketCap.  Featured image from Watcher Guru, chart from Tradingview.com"
+    "source": "Bitcoin.com",
+    "date": "2023-12-12T14:30:07.000Z",
+    "title": "Bit Origin Secures $6.74 Million for New Bitcoin Mining Facility in Wyoming",
+    "url": "https://news.bitcoin.com/bit-origin-secures-6-74-million-for-new-bitcoin-mining-facility-in-wyoming/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bit Origin Secures $6.74 Million for New Bitcoin Mining Facility in Wyoming\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/hop890-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin mining firm Bit Origin has announced that the company has secured a $6.74 million investment to build a new mining facility in Cheyenne, Wyoming. The data center will be a new 25-megawatt (MW) site that aims to accommodate between 4,480 to 8,400 bitcoin miners. Ahead of Bitcoin Halving, Bit Origin Announces Major Investment in [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-12T14:04:50.000Z",
-    "title": "Bitcoin’s 5% Drop to $40,300 Sparks Concerns, but Data Suggests It’s a Healthy Correction, Not a Flash Crash",
-    "url": "https://www.crypto-news-flash.com/bitcoins-5-drop-to-40300-sparks-concerns-but-data-suggests-its-a-healthy-correction-not-a-flash-crash/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoins-5-drop-to-40300-sparks-concerns-but-data-suggests-its-a-healthy-correction-not-a-flash-crash",
-    "description": "<img width=\"640\" height=\"424\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/bitcoin-3741065_640-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Despite recent Bitcoin price correction, technical indicators and on-chain data indicate BTC&#8217;s resilience as bulls strive to reclaim levels above $44,000. However, support at $40,000 remains crucial, and on-chain data suggests a preference among investors to hold rather than sell. On Monday, December 11, the world&#8217;s largest cryptocurrency Bitcoin (BTC) faced massive selling pressure with [...]"
+    "date": "2023-12-12T14:31:13.000Z",
+    "title": "U.S Dollar Collapse, Fed Money Printing Set To Trigger Ripple (XRP), Solana and Everlodge Surge",
+    "url": "https://www.crypto-news-flash.com/u-s-dollar-collapse-fed-money-printing-set-to-trigger-ripple-xrp-solana-and-everlodge-surge/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dollar-collapse-fed-money-printing-set-to-trigger-ripple-xrp-solana-and-everlodge-surge",
+    "description": "<img width=\"512\" height=\"307\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-59.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-59.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-59-300x180.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-59-336x200.png 336w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As federal money printing continues to inflate the dollar, experts believe that cryptocurrency could be a strong alternative. The crypto market has boomed throughout the last quarter, with projects like Rippe (XRP), Solana, and Everlodge gaining momentum. Now, as the U.S. dollar continues to lose value, all three projects could surge in value. Everlodge Hits [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-12T14:01:26.000Z",
-    "title": "Polygon Portal: A Unified Approach to String Interoperability",
-    "url": "https://www.crypto-news-flash.com/polygon-portal-a-unified-approach-to-string-interoperability/?utm_source=rss&utm_medium=rss&utm_campaign=polygon-portal-a-unified-approach-to-string-interoperability",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-39-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Polygon Portal allows the transfer of assets using the Socket bridge and other third-party bridges, in addition to managing tokens. It includes the Refuel Gas feature to buy MATIC or ETH and development tools to create innovative decentralized applications. Polygon, a key player in the Blockchain space, has introduced a significant upgrade to its infrastructure: [...]"
+    "date": "2023-12-12T14:14:13.000Z",
+    "title": "OverProtocol Announces Open Beta Testnet and Community Incentives for Participation",
+    "url": "https://www.crypto-news-flash.com/overprotocol-announces-open-beta-testnet-and-community-incentives-for-participation/?utm_source=rss&utm_medium=rss&utm_campaign=overprotocol-announces-open-beta-testnet-and-community-incentives-for-participation",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/1200720_1702376440LDEKzWMMut.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/1200720_1702376440LDEKzWMMut.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/1200720_1702376440LDEKzWMMut-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/1200720_1702376440LDEKzWMMut-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/1200720_1702376440LDEKzWMMut-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Seoul, South Korea, December 12th, 2023, Chainwire OverProtocol, a Layer 1 blockchain focused on democratizing validation, has exciting plans for the next year, including a mainnet launch in the first half. In October, the project successfully completed a closed beta testnet with 15,000 applicants from 127 countries, of whom 1,300 completed all tests. In preparation [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-12T13:44:20.000Z",
-    "title": "Bitcoin Inscriptions Spark Debate as Network Faces Congestion; Monero and BorroeFinance Gain Investor Confidence",
-    "url": "https://www.crypto-news-flash.com/bitcoin-inscriptions-spark-debate-as-network-faces-congestion-monero-and-borroefinance-gain-investor-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-inscriptions-spark-debate-as-network-faces-congestion-monero-and-borroefinance-gain-investor-confidence",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-86-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the bustling world of cryptocurrencies, where every new trend can cause a storm, Bitcoin&#8217;s latest inscription trend has sparked a heated debate. As the network grapples with congestion, investors are also turning their attention to promising altcoins like Monero and BorroeFinance ($ROE). Let&#8217;s dive into these developments and why they&#8217;re catching the eye of [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-12T13:42:28.000Z",
-    "title": "The Under-the-Radar Crypto Titans: Two Tokens Poised to Rival BNB",
-    "url": "https://www.crypto-news-flash.com/the-under-the-radar-crypto-titans-two-tokens-poised-to-rival-bnb/?utm_source=rss&utm_medium=rss&utm_campaign=the-under-the-radar-crypto-titans-two-tokens-poised-to-rival-bnb",
-    "description": "<img width=\"512\" height=\"321\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-343x215.jpg 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-326x205.jpg 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-87-163x102.jpg 163w\" sizes=\"(max-width: 512px) 100vw, 512px\" />BNB plunges after Changpeng Zhao steps down, prompting negative price predictions. Rebel Satoshi ($RBLZ) continues attracting investors after surging 30% in the Early Bird Round of its presale.  TRON (TRX) sheds 4% in a week, but experts expect it to surge before the year ends. The crypto market has regained its bullish momentum after a [...]"
+    "source": "Altcoin Buzz",
+    "date": "2023-12-12T14:24:14.000Z",
+    "title": "China’s Blockchain ID Revolution: RealDID for 1.4 Billion Citizens",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/chinas-blockchain-id-revolution-realdid-for-1-4-billion-citizens/",
+    "description": "<p>Led by China&#8217;s Ministry of Public Security in collaboration with BSN, the RealDID initiative is a pioneering effort to harness the power of blockchain for secure and efficient identity verification. This marks a significant stride towards the integration of blockchain into critical government functions. RealDID: China&#8217;s Blockchain Identity Gamechanger for 1.4 Billion The core concept [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/chinas-blockchain-id-revolution-realdid-for-1-4-billion-citizens/\">China&#8217;s Blockchain ID Revolution: RealDID for 1.4 Billion Citizens</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-12T13:45:54.000Z",
-    "title": "Avalanche (AVAX) Price Prediction 2024-2030: Will AVAX Hit $100 Soon?",
-    "url": "https://coinedition.com/avalanche-avax-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Avalanche (AVAX) Price Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Avalanche-AVAX-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Avalanche Blockchain is a layer one blockchain and is considered one of the most cost-effective and eco-friendly blockchains in the crypto and blockchain industry. AVAX is the native token of the Avalanche blockchain. AVAX can be used as a utility token within the Avalanche ecosystem. As one of the top-rated altcoins, AVAX investors are still [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/avalanche-avax-price-prediction/\">Avalanche (AVAX) Price Prediction 2024-2030: Will AVAX Hit $100 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-12T13:43:00.000Z",
-    "title": "BTC’s Bearish Momentum Could Be Stifled by Very Strong Support",
-    "url": "https://coinedition.com/btcs-bearish-momentum-could-be-stifled-by-very-strong-support/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/The-move-from-30K-to-40K-BTC-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Yesterday, Bitcoin’s (BTC) price suffered a steep correction, and even temporarily dipped below $41K. Well-known cryptocurrency analyst, Ali, shared in an X post today that if BTC faces an even deeper correction, the market leader is likely to find solid support in the range between $37,150 and $38,360. This support range is made even stronger [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btcs-bearish-momentum-could-be-stifled-by-very-strong-support/\">BTC’s Bearish Momentum Could Be Stifled by Very Strong Support</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-12T14:25:00.000Z",
+    "title": "NFTs May Not Perform as Expected During the Next Bull Cycle",
+    "url": "https://coinedition.com/nfts-may-not-perform-as-expected-during-the-next-bull-cycle/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"NFTs May Not Perform as Expected\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/5-NFT-Projects-For-NFT-Enthusiasts-in-2022-1-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In an X post shared earlier today, the head of research at K33 Research, Anders Helseth, cautioned people to steer clear of NFTs during the next bull cycle. Helseth pointed out that in previous bull cycles, Bitcoin (BTC) performed well initially, after which altcoins started to shine as the bull market gained more momentum. The [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/nfts-may-not-perform-as-expected-during-the-next-bull-cycle/\">NFTs May Not Perform as Expected During the Next Bull Cycle</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

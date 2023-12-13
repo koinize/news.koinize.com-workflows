@@ -1,58 +1,128 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-13T16:25:52.000Z",
-    "title": "FASB Confirms 'Fair Value' Approach for Corporate Crypto Holdings",
-    "url": "https://www.coindesk.com/policy/2023/12/13/fasb-confirms-fair-value-approach-for-corporate-crypto-holdings/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The Financial Accounting Standards Board, a U.S. entity that details how companies should report assets on their balance sheet, published a standards update on Wednesday that will let corporations recognize \"fair value\" changes in crypto holdings."
+    "date": "2023-12-13T16:45:00.000Z",
+    "title": "Bitcoin Has Gifts This Holiday Season",
+    "url": "https://www.coindesk.com/markets/2023/12/13/bitcoin-has-gifts-this-holiday-season/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Historical data helps us understand what to expect as crypto markets once again head upwards, says Todd Groth, head of research at CoinDesk Indices."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-13T16:44:58.000Z",
+    "title": "Coinbase Launches Spot Trading of Bitcoin and Ether Outside the U.S.",
+    "url": "https://www.coindesk.com/markets/2023/12/13/coinbase-launches-spot-trading-of-bitcoin-and-ether-outside-the-us/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Crypto exchange Coinbase will soon be offering the option to spot trade cryptocurrencies outside of the U.S. as part of its global expansion efforts, the company announced in a blog post Wednesday."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-13T16:19:42.000Z",
-    "title": " Coinbase introduces spot crypto trading for institutional investors outside US ",
-    "url": "https://cointelegraph.com/news/coinbase-spot-crypto-trading-international",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvOWNkNGIxYTgtMmMzOS00Y2Q3LWIwODItODhiNThmYWViMTljLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Institutional clients on the Coinbase International Exchange will be able to trade Bitcoin and Ether against USD Coin starting on Dec. 14.</p>\n                    <p><p>United States-based cryptocurrency exchange Coinbase announced that institutional investors on its international exchange can access spot crypto trading services.</p><p>In a Dec. 13 announcement, Coinbase <a href=\"https://www.coinbase.com/blog/coinbase-international-exchange-to-launch-spot-markets\" target=\"_blank\" rel=\"noopener nofollow\">said</a> institutional clients based outside the U.S. will be able to trade Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) and Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) against USD Coin (<a href=\"https://cointelegraph.com/usdc-price-index\">USDC</a>). The exchange said the services would launch on Dec. 14 and later expand to include retail investors, additional tokens, and “features that enable new trading strategies and enhance capital efficiency.”</p><p>“[W]e recognize the hesitancy among some asset issuers and members of the crypto community to engage with U.S. exchanges due to the evolving and uncertain regulatory landscape in the United States,” said Coinbase.</p><p><a href=\"https://cointelegraph.com/news/coinbase-spot-crypto-trading-international\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-13T17:00:00.000Z",
+    "title": " Iota&#039;s ShimmerEVM joins Fireblocks, targets demand for assets tokenization ",
+    "url": "https://cointelegraph.com/news/iota-shimmerevm-fireblocks-demand-for-assets-tokenization",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYzc0N2QxYWItNzc3MS00ZTJmLTg5OGYtMzRkZTcyMjM5ZjYyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Iota Foundation wants to capitalize on institutional demand for real-world assets tokenization, which reached $342 billion in September, according to VanEck data.</p>\n                    <p><p>Open-source blockchain developer Iota has taken another step to meet institutional demand for asset tokenization by integrating its Shimmer EVM-compatible chain with Fireblocks.</p><p>Data from VanEck Research shows the total market capitalization for tokenized real-world assets (RWA)<a href=\"https://www.vaneck.com/pt/en/blog/digital-assets/from-0-to-300m-market-cap-in-a-year-tokenized-real-world-assets/\" target=\"_blank\" rel=\"noopener nofollow\"> reached</a> $342 billion in September, despite the bear market and the crypto industry headwinds. According to Dominik Schiener, co-founder of Iota, the network is building infrastructure and solutions to address the escalating demand for RWA tokenization.</p><p>“We can expect many large institutional investors and financial institutions to give their public support for digital assets in 2024. With clear regulations and newfound public support through these institutions and the imminent ETFs, we are well on our way to make institutional investors the dominant market participants,” noted Schiener. </p><p><a href=\"https://cointelegraph.com/news/iota-shimmerevm-fireblocks-demand-for-assets-tokenization\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-13T16:50:27.000Z",
+    "title": "Coinbase International launches spot Bitcoin and Ethereum trading for non-US clients",
+    "url": "https://cryptoslate.com/coinbase-international-launches-spot-bitcoin-and-ethereum-trading-for-non-us-clients/",
+    "description": "<p>Coinbase International will enable its users to trade spot Bitcoin (BTC) and Ethereum (ETH) on the platform starting Dec. 14 as part of its global expansion moves, according to a statement from the exchange. Coinbase stated that it would pair the top cryptocurrencies with the USD Coin (USDC) stablecoin, and trading would be available exclusively [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-international-launches-spot-bitcoin-and-ethereum-trading-for-non-us-clients/\">Coinbase International launches spot Bitcoin and Ethereum trading for non-US clients</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2023-12-13T16:23:36.000Z",
-    "title": "Coinbase unveils global spot trading as users leave US venue due to regulatory uncertainty",
-    "url": "https://cryptobriefing.com/coinbase-launches-global-spot-trading-users-leave-us-venue-due-regulatory-uncertainty/?utm_source=feed&utm_medium=rss",
-    "description": "Coinbase launches global spot trading amid US regulatory uncertainty; initially offers BTC &#038; ETH trading to institutions overseas."
+    "date": "2023-12-13T17:03:57.000Z",
+    "title": "US CFTC Chair believes most crypto should be classified as commodities",
+    "url": "https://cryptobriefing.com/us-cftc-chair-believes-most-crypto-should-be-classified-as-commodities/?utm_source=feed&utm_medium=rss",
+    "description": "Behnam and Gensler share common goals but differ on crypto oversight, leading to a 'turf war' between the CFTC and SEC."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-13T16:31:33.000Z",
-    "title": "World’s First Fully Autonomous Restaurant Opens in Pasadena, California",
-    "url": "https://www.cryptopolitan.com/worlds-first-fully-autonomous-restaurant/",
-    "description": "A groundbreaking collaboration between Calif Group, Miso Robotics, and PopID has resulted in the world&#8217;s first fully autonomous restaurant, CaliExpress by Flippy™.&#160; This innovative dining establishment, located in a prime retail location at 561 E. Green St., Pasadena, is set to revolutionize the restaurant and retail industries by combining cutting-edge artificial intelligence and robotics to [&#8230;]"
+    "date": "2023-12-13T17:09:22.000Z",
+    "title": "The Power of AI in Transforming Retail: A Look Ahead to 2024",
+    "url": "https://www.cryptopolitan.com/the-power-of-ai-in-transforming-retail/",
+    "description": "In the evolving landscape of retail, intelligent data has become the linchpin for brands seeking to create meaningful and personalized shopping experiences. Through the lens of AI, retailers now harness shopping history data to provide users with tailored suggestions based on online behaviors, preferences, and location. Predictive AI takes the lead, analyzing data to predict [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T17:06:42.000Z",
+    "title": "Meta to debut its fact-checking software on Threads in 2024",
+    "url": "https://www.cryptopolitan.com/meta-fact-checking-software-threads-in-2024/",
+    "description": "Meta, the parent company of Instagram, is gearing up for two significant elections in the U.S. and India next year by implementing a fact-checking program on its social networking platform, Threads. Currently, the fact-check ratings from Facebook or Instagram are applied to Threads. However, the company’s goal is to empower fact-checking partners to independently review [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:59:38.000Z",
+    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
+    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
+    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:59:13.000Z",
+    "title": "IRS Harnesses Artificial Intelligence (AI) to Enhance Tax Enforcement Efforts",
+    "url": "https://www.cryptopolitan.com/irs-harnesses-ai-to-enhance-tax-enforcement/",
+    "description": "The Internal Revenue Service (IRS) is undergoing a transformation in its approach to identifying and targeting tax evaders by leveraging the power of artificial intelligence (AI). IRS Commissioner Danny Werfel recently outlined a vision where AI plays a pivotal role in detecting patterns of behavior indicative of tax evasion. This shift comes at a time [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:58:17.000Z",
+    "title": "Cantor Fitzgerald CEO reveals admiration for Bitcoin and Tether",
+    "url": "https://www.cryptopolitan.com/cantor-fitzgerald-ceo-admiration-btc-tether/",
+    "description": "Cantor Fitzgerald CEO Howard Lutnick recently expressed his admiration for Tether, the stablecoin issuer, in a CNBC interview. Lutnick, describing himself as a “big fan” of Tether, disclosed that he holds the company’s treasuries, which currently amount to over $90 billion. In a departure from the trend of major Wall Street firms shying away from [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:50:29.000Z",
+    "title": "Insomniac Games suffers ransomware breach",
+    "url": "https://www.cryptopolitan.com/insomniac-games-suffers-ransomware-breach/",
+    "description": "Insomniac Games, renowned for titles like Spider-Man 2 and the Ratchet &#38; Clank series, has recently fallen prey to a cyberattack orchestrated by the Rhysida hacker group, according to reports. Allegedly, the hackers are demanding a ransom from the platform, with the initial asking price set at 50 Bitcoin, equivalent to over $2 million. Hackers [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:44:49.000Z",
+    "title": "Meta’s Ray-Ban Smart Glasses Introduce Multimodal AI Features in Early Access Preview",
+    "url": "https://www.cryptopolitan.com/metas-ray-ban-smart-glasses-on-ai/",
+    "description": "Meta, formerly known as Facebook, is rolling out a significant update to its Ray-Ban Smart Glasses, introducing multimodal AI capabilities to enhance user experiences.&#160; This update allows users to harness the power of AI through the onboard camera, providing a shared reality experience with Meta AI. While these smart glasses lack a built-in display, their [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-13T16:43:15.000Z",
+    "title": "Channel 1 Unveils Groundbreaking AI-Driven News Network Set to Launch Next Year",
+    "url": "https://www.cryptopolitan.com/channel-unveil-groundbreaking-ai-driven-news/",
+    "description": "Technology and media startup Channel 1 is gearing up to revolutionize the news industry with its forthcoming AI-driven news network set to launch early next year. The platform, founded by Adam Mosam and producer Scott Zabielski, promises a unique blend of real and AI-generated content, catering to global audiences with translations in multiple languages. Pioneering [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-13T16:30:59.000Z",
-    "title": "Analysts pick 5 altcoins to consider as Solana, Avalanche post losses",
-    "url": "https://crypto.news/analysts-pick-5-altcoins-to-consider-as-solana-avalanche-post-losses/",
-    "description": "As Solana and Avalanche prices fall, analysts are looking at five altcoins, including Bitcoin ETF Token, Bitcoin Minetrix, and Meme Kombat"
+    "date": "2023-12-13T16:51:24.000Z",
+    "title": "Nasdaq repurposes crypto tech for wider financial service uses",
+    "url": "https://crypto.news/nasdaq-repurposes-crypto-tech-for-wider-financial-service-uses/",
+    "description": "Nasdaq Inc. is adapting its previously developed cryptocurrency technology to offer an institutional-grade platform for various asset markets, including digital assets and carbon trading."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-13T16:30:18.000Z",
-    "title": "21Shares: Avalanche, Solana, Uniswap topped crypto price growth in November",
-    "url": "https://crypto.news/avalanche-solana-uniswap-crypto-price-growth-november/",
-    "description": "The cryptocurrency market cap grew to $1.5 trillion in November as blockchain protocols and digital assets experienced a massive influx of capital."
+    "source": "Crypto News Flash",
+    "date": "2023-12-13T17:04:49.000Z",
+    "title": "Assessing Litecoin’s Value: Is LTC a Hidden Gem Amidst Corrections?  ",
+    "url": "https://www.crypto-news-flash.com/assessing-litecoins-value-is-ltc-a-hidden-gem-amidst-corrections/?utm_source=rss&utm_medium=rss&utm_campaign=assessing-litecoins-value-is-ltc-a-hidden-gem-amidst-corrections",
+    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/LITECOIN-W.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/LITECOIN-W.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/LITECOIN-W-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/LITECOIN-W-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Litecoin is predicted to break critical support levels to continue a downward trend in the next few days. However, others expect the price to go as high as $128 before the end of the year.  Litecoin (LTC) is currently trading at $71.66 after surging by 14.9% in the last three months, adding $9.33 to its [...]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-13T16:20:50.000Z",
-    "title": "A16z Founders Fund leads $13.5m funding round for crypto onboarding startup",
-    "url": "https://crypto.news/a16z-founders-fund-leads-funding-round-dynamic-labs/",
-    "description": "A16z is leading Dynamic Labs' $13.5 million series A round, as the web3 authenticator platform streamlines wallet access and ensures web3 login accessibility. "
+    "source": "Crypto News Flash",
+    "date": "2023-12-13T17:04:02.000Z",
+    "title": "Litecoin (LTC) Sees 2.13% Wallet Exodus; Monero (XMR) & InQubeta (QUBE) Uplift Investors",
+    "url": "https://www.crypto-news-flash.com/litecoin-ltc-sees-2-13-wallet-exodus-monero-xmr-inqubeta-qube-uplift-investors/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-ltc-sees-2-13-wallet-exodus-monero-xmr-inqubeta-qube-uplift-investors",
+    "description": "<img width=\"512\" height=\"269\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-92.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-92.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-92-300x158.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-92-351x185.jpg 351w\" sizes=\"(max-width: 512px) 100vw, 512px\" />InQubeta (QUBE) has been one of the best cryptos to invest in this year as it gives early investors 175% returns, and has already generated $6.7 million in token sales. The crowdfunding project has emerged as one of the best DeFi projects to hit the cryptocurrency space as it looks to provide easier access to [...]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-12-13T16:30:06.000Z",
-    "title": "Santiment Points Out Trigger Behind 65% Cardano Rally",
-    "url": "https://www.newsbtc.com/news/cardano/santiment-points-trigger-65-cardano-rally/",
-    "description": "The on-chain analytics firm Santiment has revealed a Cardano pattern that may have contributed as a trigger for the recent 65% rally in ADA&#8217;s price. Cardano Observed A Sudden Loss Of Wallets Prior To Rally As explained by Santiment in a post on X, ADA witnessed a large number of small wallets clear themselves out last month. The relevant indicator here is the &#8220;Supply Distribution,&#8221; which keeps track of the total amount of Cardano wallets that belong to the different groups in the market. The wallets or investors are categorized into these groups based on the number of tokens that they are carrying in their balance. For example, the 1 to 10 coins cohort includes all holders owning at least 1 and at most 10 ADA. Related Reading: Dogecoin Sell Signal Goes Off: Analyst Predicts Targets If the Supply Distribution is applied to this group, it would (among other things) total up the number of wallets satisfying this condition right now. In the context of the current discussion, Santiment has discussed about the Supply Distribution of two groups: 10 to 100 coins and 0 to infinity. The second one here is naturally a combination of all the wallet groups in existence, as there is no upper bound. Now, here is a chart that shows the trend in the indicator for these two Cardano groups over the last few months: Looks like both the metrics have observed a large plunge &#124; Source: Santiment on X As displayed in the above graph, both of these Cardano groups observed a plunge in their wallet count back on November 17. In total, the addresses carrying some ADA balance dropped by almost 35,000 on this day. Generally, this kind of mass exit can be a bearish sign for the cryptocurrency, as it indicates a selloff is taking place. However, the finer details about which groups exactly have taken part in such selling can affect the outlook of the asset. Interestingly, as Santiment has noted, 98.1% of the wallets involved in the aforementioned selloff belonged to the small holders. This would suggest that the larger entities like the sharks and whales only saw a minimal amount of exit during this plunge. &#8220;A drop of addresses this size or smaller often indicates capitulation, and a potential price turning point,&#8221; explains the analytics firm. It would appear that the retail investors may have fallen prey to fear and sold off their holdings, which the big money investors potentially scooped up. Related Reading: Bitcoin Rushes To Exchanges, But This Sign Remains Positive For The Bulls Since this mass exodus of the small hands, Cardano has rallied around 65%, perhaps suggesting that this pattern may have been one of the contributors behind the surge. ADA Price While Cardano kicked off the month with some sustained bullish momentum, the rally has cooled off in the last few days as ADA has observed a notable pullback. Since the $0.648 local top, the asset&#8217;s price has come down almost 11% as it now floats around the $0.577 mark. The value of the asset appears to have enjoyed some rapid growth recently &#124; Source: ADAUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, Santiment.net"
+    "source": "Crypto News Flash",
+    "date": "2023-12-13T17:00:58.000Z",
+    "title": "ABOND Token Launch: A New Chapter for DeFi",
+    "url": "https://www.crypto-news-flash.com/abond-token-launch-a-new-chapter-for-defi/?utm_source=rss&utm_medium=rss&utm_campaign=abond-token-launch-a-new-chapter-for-defi",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Untitled_1702387639lp0HJskkWK.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Untitled_1702387639lp0HJskkWK.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Untitled_1702387639lp0HJskkWK-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Untitled_1702387639lp0HJskkWK-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Untitled_1702387639lp0HJskkWK-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Great Cayman, Cayman Islands, December 13th, 2023, Chainwire The launch of ABOND marks a significant milestone for ApeBond, especially following its transformation from ApeSwap. This strategic pivot from primarily being a DEX to focusing on bonding mechanisms aligns with our vision for a sustainable DeFi future. ApeBond has been working on Bonds since early 2022, [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-13T16:48:03.000Z",
+    "title": "Bitcoin (BTC) Rise to $43K Changes Cramer’s Stance; Polkadot (DOT) & RebelSatoshi (RBLZ) Experience Investor Influx",
+    "url": "https://www.crypto-news-flash.com/bitcoin-btc-rise-to-43k-changes-cramers-stance-polkadot-dot-rebelsatoshi-rblz-experience-investor-influx/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-btc-rise-to-43k-changes-cramers-stance-polkadot-dot-rebelsatoshi-rblz-experience-investor-influx",
+    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97-343x215.jpg 343w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97-326x205.jpg 326w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-97-163x102.jpg 163w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the ever-shifting landscape of the cryptocurrency market, recent developments have captivated investors and market watchers alike. Bitcoin’s (BTC) ascent to $43,000 has prompted a notable change in stance from CNBC’s “Mad Money” host Jim Cramer, while both Polkadot (DOT) and the emerging memecoin Rebel Satoshi ($RBLZ) are experiencing a significant influx of investors, positioning [...]"
   }
 ]

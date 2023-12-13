@@ -1,72 +1,58 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-13T10:13:00.000Z",
+    "title": "ARK Invest Sells Coinbase Shares for Third Straight Day",
+    "url": "https://www.coindesk.com/business/2023/12/13/ark-invest-sells-coinbase-shares-for-third-straight-day/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The investment firm has sold the crypto exchange's stock on all but two trading days this month."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-13T09:55:02.000Z",
-    "title": " Bitcoin &#039;sodlers&#039; dump $4B in two days as BTC sales hit 18-month high ",
-    "url": "https://cointelegraph.com/news/bitcoin-sodlers-dump-4b-two-days-btc-sales-18-month-high",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvOWI1MmI1NDktNTdlMi00OTY2LWI5MjMtNjViNWQ3NjUzNTA5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>BTC price weakness clearly makes speculators nervous as single-day selling pressure hits its highest since after the Terra LUNA collapse.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) speculators panic sold as the BTC price corrected toward $40,000, the latest on-chain data suggests.</p><p>Figures from on-chain analytics firm <a href=\"https://studio.glassnode.com/metrics?a=BTC&amp;c=native&amp;category=&amp;chartStyle=column&amp;m=transactions.TransfersVolumeSthToExchangesSum&amp;zoom=all\" target=\"_blank\" rel=\"noopener nofollow\">Glassnode</a> show short-term holders (STHs) offloading more than $2 billion in BTC on Dec. 12 alone.</p><p>Bitcoin saw its <a href=\"https://cointelegraph.com/news/buy-the-dip-sell-the-rip-btc-price-levels-to-watch-bitcoin-taps-42-k\">biggest single-day drop of 2023</a> this week — one which at one point totaled 8.1%, data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> confirms.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-sodlers-dump-4b-two-days-btc-sales-18-month-high\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-13T10:25:29.000Z",
+    "title": " Why is Cardano price down today? ",
+    "url": "https://cointelegraph.com/news/why-is-cardano-price-down-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvZTIzMDE1ZGQtODcyOC00YjI3LTgzYjctODgxYTY1YjUwMTlhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Cardano’s price is down today as traders secure profits at ADA's overbought levels ahead of a key Federal Reserve rate decision.</p>\n                    <p><p>Cardano's (<a href=\"https://cointelegraph.com/ada-price-index\">ADA</a>) price is down today, falling 7.75% in the last 24 hours to hit $0.55 on Dec. 13.</p><p>Let's discuss factors that have been driving the Cardano prices lower recently.</p><p>From the technical perspective, ADA's price drop today is part of a correction cycle that started on Oct. 9, when ADA's price reached its 18-month high of $0.64. </p><p><a href=\"https://cointelegraph.com/news/why-is-cardano-price-down-today\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-13T10:15:59.000Z",
+    "title": " OKX DEX suffers $2.7M exploit after proxy admin contract upgrade   ",
+    "url": "https://cointelegraph.com/news/okx-dex-2-7-m-exploit-proxy-admin-contract-upgrade",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNzJhZTJlNDAtNTA3ZC00MDRhLTgzM2QtMjdlZjk1NzM4YzRlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The OKX DEX suffered an exploit resulting in a loss of around $2.7 million worth in cryptocurrencies after a proxy admin upgraded a contract that allowed a hacker to compromise the private key. </p>\n                    <p><p>The decentralized exchange (DEX) of the cryptocurrency exchange OKX (a.k.a OKX DEX) suffered a $2.7 million hack on Dec. 13 after the private key of the proxy admin owner was reported to be leaked. </p><p>On Dec. 13, the blockchain security firm SlowMist Zone <a href=\"https://twitter.com/SlowMist_Team/status/1734790816806449567\" target=\"_blank\" rel=\"noopener nofollow\">posted</a> on X, formerly known as Twitter, that OKX DEX “encountered an issue.” According to the report, the issue began on Dec. 12, 2023, at approximately 22:23:47 after the proxy admin owner upgraded the DEX proxy contract to a new implementation contract and the user began to steal tokens.</p><p>Prior to September 2023, research shows that this year the industry has suffered<a href=\"https://cointelegraph.com/news/crypto-security-professionals-2023-incidents\"> $1.5 billion in losses</a> at the hands of crypto hacks, exploits and scams. </p><p><a href=\"https://cointelegraph.com/news/okx-dex-2-7-m-exploit-proxy-admin-contract-upgrade\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-13T10:38:02.000Z",
+    "title": "Meager Bitcoin recovery above $40k backfires for futures traders causing further $185M in liquidations",
+    "url": "https://cryptoslate.com/meager-bitcoin-recovery-above-40k-backfires-for-futures-traders-causing-further-185m-in-liquidations/",
+    "description": "<p>Crypto&#8217;s volatile price movement during the last 24 hours liquidated a further $185 million from more than 76,000 traders who held long and short positions in the market. Data from Coinglass shows that traders betting on further price growth and a stronger recovery bore the brunt of the losses, with nearly $150 million liquidated. On [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/meager-bitcoin-recovery-above-40k-backfires-for-futures-traders-causing-further-185m-in-liquidations/\">Meager Bitcoin recovery above $40k backfires for futures traders causing further $185M in liquidations</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-13T10:08:01.000Z",
-    "title": "Deutsche Bank leads new venture for Euro stablecoin launch",
-    "url": "https://www.cryptopolitan.com/deutsche-bank-lead-venture-euro-stablecoin/",
-    "description": "In a significant development in the digital asset sector, Deutsche Bank&#8216;s investment management arm, DWS Group, has announced a strategic partnership with Galaxy Digital and Flow Traders to introduce a new euro-denominated stablecoin. This venture, named AllUnity, marks a notable collaboration in the financial world, blending traditional and digital finance. Deutsche Bank, Galaxy Digital Unite [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-13T09:48:59.000Z",
-    "title": "The Graph Price Prediction 2023-2032: Is GRT a Good Investment?",
-    "url": "https://www.cryptopolitan.com/the-graph-price-prediction/",
-    "description": "The Graph Price Prediction 2023-2032 Have you ever heard of Uniswap, Aave, Compound, Balancer, USDC, Synthetix, Sushiswap, MakerDAO, Yearn, Curve, or any popular dApps? They all functionally rely upon The Graph, which is like a combination of decentralized versions of Google, banking, social media, other service providers, and other industries. The Graph price prediction could [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-13T09:46:18.000Z",
-    "title": "EXPLORE Project Unveils Revolutionary Astronomy Toolkit",
-    "url": "https://www.cryptopolitan.com/explore-project-unveils-revolutionary-astronomy-toolkit/",
-    "description": "The EXPLORE Project, funded by the European Commission’s Horizon 2020 program, has introduced a groundbreaking suite of tools designed to revolutionize astronomy and planetary exploration. This open-source toolkit harnesses the power of interactive visual analytics and machine learning to provide astronomers and researchers with the means to delve deeper into the mysteries of our galaxy [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-13T09:45:05.000Z",
-    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
-    "description": "BTC Price Predictions 2023-2032 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $43,945, with a trading volume over the past 24 hours reaching $25.7 billion. Its market capitalization is $858 billion, and it currently commands 54% of the market share. Over the last 24 hours, the BTC price has experienced [&#8230;]"
+    "date": "2023-12-13T10:31:02.000Z",
+    "title": "ApeCoin Price Prediction 2023-2032: Will APE Break $2 Resistance?",
+    "url": "https://www.cryptopolitan.com/apecoin-price-prediction/",
+    "description": "ApeCoin Price Prediction 2023-2032 The NFT industry has been booming for the past few years and is not stopping anytime soon. The NFT project Bored Ape Yacht Club has been one of the most successful in the blockchain industry. However, recent statistics indicate that the project is losing its momentum. Various APE price highlights unfold [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2023-12-13T09:41:57.000Z",
-    "title": "Official Axie Infinity Merch Coming Soon; Mantle & RebelSatoshi Draw Investor Interest",
-    "url": "https://nulltx.com/official-axie-infinity-merch-coming-soon-mantle-rebelsatoshi-draw-investor-interest/",
-    "description": "In the ever-evolving world of cryptocurrencies, there&#8217;s always something new and exciting around the corner. Axie Infinity, the beloved NFT monster-battling game, is stepping up its game by launching official merchandise. Meanwhile, Mantle and Rebel Satoshi are carving their niches, attracting investors with their innovative approaches and solid ecosystems. These [&#8230;]"
+    "date": "2023-12-13T10:20:39.000Z",
+    "title": "Altcoins Make Swift Comeback Following Crypto Market Dip – Keep An Eye On $SOL, $DOGE, And Memecoins",
+    "url": "https://nulltx.com/altcoins-make-swift-comeback-following-crypto-market-dip-keep-an-eye-on-sol-doge-and-memecoins/",
+    "description": "In the aftermath of the recent downturn in the crypto market, altcoins are swiftly rebounding, displaying resilience that is particularly evident in the performance of #Solana. The standout surge beyond $71 sets Solana apart from its counterparts, marking a significant positive shift in sentiment. Nonetheless, market analysts suggest that a [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-13T09:47:49.000Z",
-    "title": "Real estate coin jumps 90% following Coinbase announcement to tokenize real world assets",
-    "url": "https://crypto.news/real-estate-coin-jumps-90-following-coinbase-announcement-to-tokenize-real-world-assets/",
-    "description": "Real estate blockchain project Propy witnessed an 90% surge of its token&#8217;s value as Coinbase&#8217;s asset management arm is set to tokenize real world assets. On Dec. 13, 2023, Propy&#8216;s PRO token surged a significant 93% within just one day&#8230;"
+    "source": "Coin Edition",
+    "date": "2023-12-13T10:17:49.000Z",
+    "title": "Bitcoin’s Price Drops Despite SEC Meetings On ETF Approvals",
+    "url": "https://coinedition.com/bitcoins-price-drops-despite-sec-meetings-on-etf-approvals/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Exchange Supply Drops\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Bitcoin-Exchange-Supply-Drops-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>An analyst covering NFTs and the cryptocurrency industry, James Seyffart, shared in an X post yesterday that four different issuers have met with the U.S. Securities and Exchange Commission (SEC) concerning their Bitcoin ETF filings over the past few days. Grayscale, Franklin, and Fidelity each had meetings with the regulator last week. Meanwhile, BlackRock met [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoins-price-drops-despite-sec-meetings-on-etf-approvals/\">Bitcoin’s Price Drops Despite SEC Meetings On ETF Approvals</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-13T09:45:07.000Z",
-    "title": "Solana hits $70 as GFOX presale roars past $900k",
-    "url": "https://crypto.news/solana-hits-70-as-gfox-presale-roars-past-900k/",
-    "description": "Galaxy Fox (GFOX) has raised over $900k in the ongoing presale. Meanwhile, Solana (SOL) is trending higher, trading at 2023 highs at around $70"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-13T10:04:33.000Z",
-    "title": "Bitcoin Drops Below $41,000 Mark: Is $30,000 or $50,000 Next? Experts Weigh In",
-    "url": "https://www.crypto-news-flash.com/bitcoin-drops-below-41000-mark-is-30000-or-50000-next-experts-weigh-in/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-drops-below-41000-mark-is-30000-or-50000-next-experts-weigh-in",
-    "description": "<img width=\"960\" height=\"640\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/bitcoin-2643188_960_720-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/bitcoin-2643188_960_720-1.jpg 960w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/bitcoin-2643188_960_720-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/bitcoin-2643188_960_720-1-104x69.jpg 104w\" sizes=\"(max-width: 960px) 100vw, 960px\" />Bitcoin faced a significant leverage reduction, marking its most substantial daily drawdown since mid-August. Whales transferring significant amounts of Bitcoin to exchanges, with Binance and Coinbase receiving substantial inflows, raise concerns about potential selling pressure. After trying a bounceback on Tuesday, December 12, the world&#8217;s largest cryptocurrency Bitcoin (BTC) once again faces some selling pressure. [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-12-13T09:50:33.000Z",
-    "title": "Uniswap is Coming to Bitcoin. Here is How",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/uniswap-is-coming-to-bitcoin-here-is-how/",
-    "description": "<p>Uniswap has long been a key player in the DeFi space. However, its integration with Bitcoin has been limited due to the latter&#8217;s distinct blockchain structure. Now, GFX Labs is pushing the boundaries by deploying Uniswap V3 smart contracts on the Rootstock (RSK) sidechain. This is a prominent solution for bringing smart contract functionality to [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/uniswap-is-coming-to-bitcoin-here-is-how/\">Uniswap is Coming to Bitcoin. Here is How</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-12-13T10:15:04.000Z",
+    "title": "USDT Flowing to Crypto Exchanges Brings New Buying Power To Counter Sell-Offs, Says Analytics Firm Santiment",
+    "url": "https://dailyhodl.com/2023/12/13/usdt-flowing-to-crypto-exchanges-brings-new-buying-power-to-counter-sell-offs-says-analytics-firm-santiment/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/USDT-Flowing-to-Crypto.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Top stablecoin USDT has flowed onto crypto exchanges in the past six months, a potentially bullish indicator, according to the crypto analytics firm Santiment. The firm notes that Bitcoin (BTC) has been moving back &#8220;mildly&#8221; onto exchanges this month due to trader uncertainty. Santiment, however, says that USDT exchange inflows have also countered the BTC [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/13/usdt-flowing-to-crypto-exchanges-brings-new-buying-power-to-counter-sell-offs-says-analytics-firm-santiment/\">USDT Flowing to Crypto Exchanges Brings New Buying Power To Counter Sell-Offs, Says Analytics Firm Santiment</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

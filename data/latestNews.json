@@ -1,72 +1,58 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-13T15:39:54.000Z",
-    "title": "Argentina's Milei, So Far Shunning Bitcoin, Devalues Peso by More Than 50%",
-    "url": "https://www.coindesk.com/markets/2023/12/13/argentinas-milei-so-far-shunning-bitcoin-devalues-peso-by-more-than-50/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The government's official rate is now 800 pesos to the dollar versus 400 previously."
+    "date": "2023-12-13T16:25:52.000Z",
+    "title": "FASB Confirms 'Fair Value' Approach for Corporate Crypto Holdings",
+    "url": "https://www.coindesk.com/policy/2023/12/13/fasb-confirms-fair-value-approach-for-corporate-crypto-holdings/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Financial Accounting Standards Board, a U.S. entity that details how companies should report assets on their balance sheet, published a standards update on Wednesday that will let corporations recognize \"fair value\" changes in crypto holdings."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-13T16:04:19.000Z",
-    "title": "Are Avalanche (AVAX) and Polkadot (DOT) Winning Streaks at Risk in the Bearish Crypto Climate?",
-    "url": "https://cryptodaily.co.uk/2023/12/are-avalanche-avax-and-polkadot-dot-winning-streaks-at-risk-in-the-bearish-crypto-climate",
-    "description": "Discover the dynamic landscape of the cryptocurrency market as we delve into the resilience of altcoins like Avalanche (AVAX) and Polkadot (DOT) amid a bearish downturn. Our analysis sheds light on their recent performance, market corrections, and the unpredictable future in the world of digital currencies. Examine insights into the volatile nature of crypto investments and the ever-evolving strategies of leading altcoins in these uncertain times."
+    "source": "Cointelegraph",
+    "date": "2023-12-13T16:19:42.000Z",
+    "title": " Coinbase introduces spot crypto trading for institutional investors outside US ",
+    "url": "https://cointelegraph.com/news/coinbase-spot-crypto-trading-international",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvOWNkNGIxYTgtMmMzOS00Y2Q3LWIwODItODhiNThmYWViMTljLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Institutional clients on the Coinbase International Exchange will be able to trade Bitcoin and Ether against USD Coin starting on Dec. 14.</p>\n                    <p><p>United States-based cryptocurrency exchange Coinbase announced that institutional investors on its international exchange can access spot crypto trading services.</p><p>In a Dec. 13 announcement, Coinbase <a href=\"https://www.coinbase.com/blog/coinbase-international-exchange-to-launch-spot-markets\" target=\"_blank\" rel=\"noopener nofollow\">said</a> institutional clients based outside the U.S. will be able to trade Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) and Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) against USD Coin (<a href=\"https://cointelegraph.com/usdc-price-index\">USDC</a>). The exchange said the services would launch on Dec. 14 and later expand to include retail investors, additional tokens, and “features that enable new trading strategies and enhance capital efficiency.”</p><p>“[W]e recognize the hesitancy among some asset issuers and members of the crypto community to engage with U.S. exchanges due to the evolving and uncertain regulatory landscape in the United States,” said Coinbase.</p><p><a href=\"https://cointelegraph.com/news/coinbase-spot-crypto-trading-international\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-13T15:59:09.000Z",
-    "title": "Charts Suggest Ripple (XRP) Could Rally 85%, But Pullix (PLX) & Cardano (ADA) Could Surge Higher",
-    "url": "https://cryptodaily.co.uk/2023/12/charts-suggest-ripple-xrp-could-rally-85-but-pullix-plx-cardano-ada-could-surge-higher",
-    "description": "According to renowned analysts, Ripple could see an 85% increase in the coming weeks. However"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-13T15:53:24.000Z",
-    "title": "VeChain (VET) Surpasses 900k Holders, What's Next For Bullish Rated Meme Moguls (MGLS)?",
-    "url": "https://cryptodaily.co.uk/2023/12/vechain-vet-surpasses-900k-holders-whats-next-for-bullish-rated-meme-moguls-mgls",
-    "description": "VeChain (VET) has recently surpassed the impressive milestone of 900,000 holders — a testament to its growing popularity and adoption."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-13T15:52:07.000Z",
-    "title": "ETH Staking SSV.Network Launches Seamless Staking Via DVT",
-    "url": "https://cryptodaily.co.uk/2023/12/eth-staking-ssvnetwork-launches-seamless-staking-via-dvt",
-    "description": "Developer-focused staking infrastructure SSV Network has announced the launch of its Ethereum Distributed Validator Technology (DVT), a permissionless ETH staking platform, as per a press release this Tuesday. The latest milestone aims to create a new standard for ETH staking, offering greater security for validators and strengthening the network by decentralizing its validation layer."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-13T15:46:18.000Z",
-    "title": "Ripple (XRP) will lose its place to Retik Finance (RETIK)",
-    "url": "https://cryptodaily.co.uk/2023/12/ripple-xrp-will-lose-its-place-to-retik-finance-retik",
-    "description": "Two key players have taken center stage in the ever-evolving world of digital finance - Ripple and the emerging force, Retik Finance."
+    "source": "Crypto Briefing",
+    "date": "2023-12-13T16:23:36.000Z",
+    "title": "Coinbase unveils global spot trading as users leave US venue due to regulatory uncertainty",
+    "url": "https://cryptobriefing.com/coinbase-launches-global-spot-trading-users-leave-us-venue-due-regulatory-uncertainty/?utm_source=feed&utm_medium=rss",
+    "description": "Coinbase launches global spot trading amid US regulatory uncertainty; initially offers BTC &#038; ETH trading to institutions overseas."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-13T15:45:47.000Z",
-    "title": "Matryoshka Dolls: How to Obtain them in Disney Dreamlight Valley?",
-    "url": "https://www.cryptopolitan.com/matryoshka-dolls-in-disney-dreamlight-valley/",
-    "description": "Unlock the mysterious secrets of Disney Dreamlight Valley with this guide. Reveal the path to obtaining Matryoshka dolls and encounter the iconic Jack Skellington for an enchanting gaming experience."
+    "date": "2023-12-13T16:31:33.000Z",
+    "title": "World’s First Fully Autonomous Restaurant Opens in Pasadena, California",
+    "url": "https://www.cryptopolitan.com/worlds-first-fully-autonomous-restaurant/",
+    "description": "A groundbreaking collaboration between Calif Group, Miso Robotics, and PopID has resulted in the world&#8217;s first fully autonomous restaurant, CaliExpress by Flippy™.&#160; This innovative dining establishment, located in a prime retail location at 561 E. Green St., Pasadena, is set to revolutionize the restaurant and retail industries by combining cutting-edge artificial intelligence and robotics to [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-13T16:04:20.000Z",
-    "title": "Binance Fires Back at SEC, Challenges Legal Basis of Lawsuit",
-    "url": "https://www.crypto-news-flash.com/binance-fires-back-at-sec-challenges-legal-basis-of-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=binance-fires-back-at-sec-challenges-legal-basis-of-lawsuit",
-    "description": "<img width=\"1920\" height=\"1280\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/binance-2-bnb.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/03/binance-2-bnb.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/binance-2-bnb-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/binance-2-bnb-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/03/binance-2-bnb-104x69.jpg 104w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Binance and CZ dispute SEC&#8217;s claim, saying SEC hasn&#8217;t proven an &#8220;investment contract&#8221; under the Howey Test. Binance argues its settlements with regulatory bodies don&#8217;t implicate securities laws, challenging the SEC&#8217;s jurisdiction. Binance, Binance.US, and their founder, Changpeng Zhao (CZ), have strongly countered allegations made by the U.S. Securities and Exchange Commission (SEC). The SEC [...]"
+    "source": "BTCManager",
+    "date": "2023-12-13T16:30:59.000Z",
+    "title": "Analysts pick 5 altcoins to consider as Solana, Avalanche post losses",
+    "url": "https://crypto.news/analysts-pick-5-altcoins-to-consider-as-solana-avalanche-post-losses/",
+    "description": "As Solana and Avalanche prices fall, analysts are looking at five altcoins, including Bitcoin ETF Token, Bitcoin Minetrix, and Meme Kombat"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-13T15:46:58.000Z",
-    "title": "If Bitcoin Hits This Key Level, Ripple XRP And This New Altcoin Could Spike to $3",
-    "url": "https://www.crypto-news-flash.com/if-bitcoin-hits-this-key-level-ripple-xrp-and-this-new-altcoin-could-spike-to-3/?utm_source=rss&utm_medium=rss&utm_campaign=if-bitcoin-hits-this-key-level-ripple-xrp-and-this-new-altcoin-could-spike-to-3",
-    "description": "<img width=\"512\" height=\"512\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64-300x300.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64-150x150.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64-24x24.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64-48x48.png 48w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-64-96x96.png 96w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Bitcoin has been a pivotal token in the past few months, setting a crypto market rally in October. Now, the price of Ripple and a new altcoin, Pullix, could rise to $3 if Bitcoin crosses this level. Continue reading to know what&#8217;s the key level. Bitcoin (BTC) Witness Price Crash The price of Bitcoin (BTC) [...]"
+    "source": "BTCManager",
+    "date": "2023-12-13T16:30:18.000Z",
+    "title": "21Shares: Avalanche, Solana, Uniswap topped crypto price growth in November",
+    "url": "https://crypto.news/avalanche-solana-uniswap-crypto-price-growth-november/",
+    "description": "The cryptocurrency market cap grew to $1.5 trillion in November as blockchain protocols and digital assets experienced a massive influx of capital."
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-12-13T15:40:00.000Z",
-    "title": "Price Corrections Are Necessary For Healthy Market Growth: Analyst",
-    "url": "https://coinedition.com/price-corrections-are-necessary-for-healthy-market-growth-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/BLOCKCHAIN-2-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to Crypto Rand, a cryptocurrency trader on X (formerly Twitter), price corrections are necessary for healthy growth in the crypto industry. Hence, he warned users to prepare for shakeouts. The renowned trader cited the Mid Caps rejected on the main resistance as an example but noted that the overall macrostructure remains intact. Crypto Rand [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/price-corrections-are-necessary-for-healthy-market-growth-analyst/\">Price Corrections Are Necessary For Healthy Market Growth: Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2023-12-13T16:20:50.000Z",
+    "title": "A16z Founders Fund leads $13.5m funding round for crypto onboarding startup",
+    "url": "https://crypto.news/a16z-founders-fund-leads-funding-round-dynamic-labs/",
+    "description": "A16z is leading Dynamic Labs' $13.5 million series A round, as the web3 authenticator platform streamlines wallet access and ensures web3 login accessibility. "
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-12-13T16:30:06.000Z",
+    "title": "Santiment Points Out Trigger Behind 65% Cardano Rally",
+    "url": "https://www.newsbtc.com/news/cardano/santiment-points-trigger-65-cardano-rally/",
+    "description": "The on-chain analytics firm Santiment has revealed a Cardano pattern that may have contributed as a trigger for the recent 65% rally in ADA&#8217;s price. Cardano Observed A Sudden Loss Of Wallets Prior To Rally As explained by Santiment in a post on X, ADA witnessed a large number of small wallets clear themselves out last month. The relevant indicator here is the &#8220;Supply Distribution,&#8221; which keeps track of the total amount of Cardano wallets that belong to the different groups in the market. The wallets or investors are categorized into these groups based on the number of tokens that they are carrying in their balance. For example, the 1 to 10 coins cohort includes all holders owning at least 1 and at most 10 ADA. Related Reading: Dogecoin Sell Signal Goes Off: Analyst Predicts Targets If the Supply Distribution is applied to this group, it would (among other things) total up the number of wallets satisfying this condition right now. In the context of the current discussion, Santiment has discussed about the Supply Distribution of two groups: 10 to 100 coins and 0 to infinity. The second one here is naturally a combination of all the wallet groups in existence, as there is no upper bound. Now, here is a chart that shows the trend in the indicator for these two Cardano groups over the last few months: Looks like both the metrics have observed a large plunge &#124; Source: Santiment on X As displayed in the above graph, both of these Cardano groups observed a plunge in their wallet count back on November 17. In total, the addresses carrying some ADA balance dropped by almost 35,000 on this day. Generally, this kind of mass exit can be a bearish sign for the cryptocurrency, as it indicates a selloff is taking place. However, the finer details about which groups exactly have taken part in such selling can affect the outlook of the asset. Interestingly, as Santiment has noted, 98.1% of the wallets involved in the aforementioned selloff belonged to the small holders. This would suggest that the larger entities like the sharks and whales only saw a minimal amount of exit during this plunge. &#8220;A drop of addresses this size or smaller often indicates capitulation, and a potential price turning point,&#8221; explains the analytics firm. It would appear that the retail investors may have fallen prey to fear and sold off their holdings, which the big money investors potentially scooped up. Related Reading: Bitcoin Rushes To Exchanges, But This Sign Remains Positive For The Bulls Since this mass exodus of the small hands, Cardano has rallied around 65%, perhaps suggesting that this pattern may have been one of the contributors behind the surge. ADA Price While Cardano kicked off the month with some sustained bullish momentum, the rally has cooled off in the last few days as ADA has observed a notable pullback. Since the $0.648 local top, the asset&#8217;s price has come down almost 11% as it now floats around the $0.577 mark. The value of the asset appears to have enjoyed some rapid growth recently &#124; Source: ADAUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, Santiment.net"
   }
 ]

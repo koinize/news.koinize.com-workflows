@@ -1,44 +1,58 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-13T22:00:00.000Z",
+    "title": "Protocol Village: Immutable zkEVM Will Allow Developers to 'Abstract' Transaction Fees",
+    "url": "https://www.coindesk.com/tech/2023/12/13/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 14-Dec. 20, with live updates throughout."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-13T22:01:02.000Z",
+    "title": "No Gas for Gamers: Ethereum Scaler Immutable zkEVM Will Let Developers Cover Fees",
+    "url": "https://decrypt.co/205906/no-gas-gamers-ethereum-scaler-immutable-zkevm-developers-cover-fees",
+    "description": "Eliminating transaction fees will make blockchain games more accessible and appealing to mainstream gamers, Immutable believes."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-13T21:48:58.000Z",
+    "title": "'Bitcoin Billionaire' Who Supposedly Offered Rubi Rose $430K in BTC Says It Was All a Hoax",
+    "url": "https://decrypt.co/209696/bitcoin-billionaire-who-supposedly-offered-rubi-rose-430k-btc-says-hoax",
+    "description": "He says he’s just a humble dogsitter for porn stars, who had no idea what he was getting into when he got a call from Rubi Rose's agents."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-13T21:30:00.000Z",
-    "title": " SEC pushes deadline for decision on Invesco Galaxy spot Ether ETF to 2024 ",
-    "url": "https://cointelegraph.com/news/sec-deadline-invesco-galaxy-spot-ether-etf",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYzFiYzc4OWItZTc2MC00NTJhLTkzMDQtZWIzYTRjMTg1NjJjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The commission had until Dec. 23 to decide or punt on approval or disapproval for the spot crypto investment vehicle.</p>\n                    <p><p>The United States Securities and Exchange Commission (SEC) has delayed its decision on whether to approve or disapprove a spot Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) exchange-traded fund, or ETF, proposed by Invesco and Galaxy Digital.</p><p>In a Dec. 13 notice, the SEC <a href=\"https://www.sec.gov/files/rules/sro/cboebzx/2023/34-99151.pdf\" target=\"_blank\" rel=\"noopener nofollow\">said</a> it would designate a longer period on whether to approve or disapprove a proposed rule change that would allow the Cboe BZX Exchange to list and trade shares of the Invesco Galaxy Ethereum ETF. The proposed spot crypto investment vehicle is one of many being considered by the commission, which to date has never approved an ETF with direct exposure to Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) or other cryptocurrencies.</p><p>“The 45th day after publication of the notice for this proposed rule change is December 23, 2023. The Commission is extending this 45-day time period,” said the Dec. 13 notice. “[T]he Commission [...] designates February 6, 2024, as the date by which the Commission shall either approve or disapprove, or institute proceedings to determine whether to disapprove, the proposed rule change.”</p><p><a href=\"https://cointelegraph.com/news/sec-deadline-invesco-galaxy-spot-ether-etf\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-13T22:00:00.000Z",
+    "title": " Immutable&#039;s zkEVM to eliminate Web3 gaming gas fees  ",
+    "url": "https://cointelegraph.com/news/immutable-zkevm-to-eliminate-web3-gaming-gas-fees",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYWI0MWE2NDQtYWQ2Mi00ZjU4LWE4YzAtOWQ3YWEyM2IwMDFkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Immutable’s blockchain protocol will allow the game studio to cut out gas fees for users, which is widely cited as a significant barrier to Web3 gaming adoption. </p>\n                    <p><p>Web3 gaming firm Immutable is set to completely cut out gas fee payments for gamers when its proprietary zero-knowledge proof-based (<a href=\"https://cointelegraph.com/explained/zero-knowledge-proofs-explained\">ZK-proofs</a>) scaling platform goes live in early 2024.</p><p>Immutable zkEVM provides the technology for blockchain-based game developers to remove transaction fees from end users, which is touted to create a “frictionless onboarding” experience for gamers.</p><p>Web3 games built on blockchain protocols typically require gamers to pay the gas fees paid to network validators for processing transactions. Before the advent of layer-2 scaling protocols, Ethereum-based decentralized applications (DApps) and services relied solely on validators and miners <a href=\"https://cointelegraph.com/news/the-ethereum-merge-is-completed-here-s-what-s-next\">pre-merge</a> to process smart contract operations and their associated transactions.</p><p><a href=\"https://cointelegraph.com/news/immutable-zkevm-to-eliminate-web3-gaming-gas-fees\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-12-13T21:30:43.000Z",
-    "title": "Nigerian Central Bank Warns Counterfeiters as Residents Reportedly Grapple With Cash Shortages",
-    "url": "https://news.bitcoin.com/nigerian-central-bank-warns-counterfeiters-as-residents-reportedly-grapple-with-cash-shortages/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Nigerian Central Bank Warns Counterfeiters as Residents Reportedly Grapple With Cash Shortages\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_364775291.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As Nigeria grapples with cash shortages, the country&#8217;s central bank warned of the presence of counterfeit, higher-denomination naira banknotes. The bank has urged members of the public to report anyone suspected of falsifying or counterfeiting the banknotes. Central Bank Collaborates With Nigerian Agencies The Central Bank of Nigeria (CBN) has issued a warning to residents [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2023-12-13T21:44:05.000Z",
+    "title": " Why has Bitcoin price hit new all-time highs in Turkey, Egypt, Nigeria and Argentina? ",
+    "url": "https://cointelegraph.com/news/why-bitcoin-price-hit-new-highs-in-turkey-egypt-nigeria-and-argentina",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMWViMDhjNzQtMDk5YS00MjhiLTk0YzYtZDk0OTZkNWMxYjVmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin proves its value as an inflation hedge and store of value by hitting repeat all-time highs in multiple currencies.</p>\n                    <p><p>Since bottoming around $16,800, Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) has displayed resilience throughout 2023, posting over 153% gains year-to-date and $143% over the last 12 months to outperform major tech companies.</p><p>Despite this impressive performance, the flagship cryptocurrency's price is still 39% below the all-time high (ATH) level reached in November 2021. </p><p>Meanwhile, Bitcoin continues to hit new ATHs in Argentina, Turkey, Egypt, Nigeria, Lebanon and Pakistan.</p><p><a href=\"https://cointelegraph.com/news/why-bitcoin-price-hit-new-highs-in-turkey-egypt-nigeria-and-argentina\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-13T21:22:14.000Z",
-    "title": "Why is Bitcoin price up today? BTC trades close to $43K",
-    "url": "https://www.cryptopolitan.com/why-is-bitcoin-price-up-today-btc-at-43k/",
-    "description": "The price of Bitcoin has risen today, reaching $42,888.30 after falling as low as $40,300 over the weekend. The rise reflects traders&#8217; persistent bullish attitude toward Bitcoin, which had the highest November performance since 2020 and is expected to continue rising in December.&#160; According to CoinGecko, the price of Bitcoin (BTC) is $42,888.30 at the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-13T21:20:26.000Z",
-    "title": "October surprise: UK’s economy takes an unpredicted hit",
-    "url": "https://www.cryptopolitan.com/uks-economy-takes-an-unpredicted-hit/",
-    "description": "In a twist that took economists and financial analysts by surprise, the UK&#8217;s economy experienced an unexpected contraction in the month of October. This downturn, marked by declines across various sectors, has raised concerns about the possibility of the country slipping into a recession. The decline in gross domestic product (GDP) by 0.3 percent between [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2023-12-13T21:40:18.000Z",
+    "title": "Vitalik Buterin proposes ‘enshrined zkEVM’ to address layer-2 challenges on Ethereum",
+    "url": "https://cryptoslate.com/vitalik-buterin-proposes-an-enshrined-zkevm-to-address-layer-2-challenges/",
+    "description": "<p>Ethereum co-founder Vitalik Buterin introduced a new concept for the blockchain platform called an &#8220;enshrined Zero-Knowledge Ethereum Virtual Machine (ZK-EVM) in a Dec. 13 blog post. The main goal of the proposal is to substantially improve the efficiency and security of Ethereum&#8217;s Layer-2 protocols, which include optimistic and ZK rollups. Addressing challenges in Layer-2 protocols [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/vitalik-buterin-proposes-an-enshrined-zkevm-to-address-layer-2-challenges/\">Vitalik Buterin proposes &#8216;enshrined zkEVM&#8217; to address layer-2 challenges on Ethereum</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-13T21:15:00.000Z",
-    "title": "Crypto Chronicles: A recap of today’s top events",
-    "url": "https://www.cryptopolitan.com/crypto-a-recap-of-todays-top-events/",
-    "description": "The world of cryptocurrency never sleeps, and today&#8217;s headlines are no exception. From Coinbase&#8217;s expansion plans to an unfortunate exploit at OKX DEX and a groundbreaking move by BlackRock, here&#8217;s a comprehensive rundown of the day&#8217;s most significant developments in the crypto sphere. Coinbase: Opening Doors for International Traders Coinbase, a name synonymous with the [&#8230;]"
+    "date": "2023-12-13T21:55:46.000Z",
+    "title": "Breaking News: CFTC greenlights Bitnomial’s Bitcoin futures platform",
+    "url": "https://www.cryptopolitan.com/cftc-okays-bitnomials-btc-futures-platform/",
+    "description": "Wednesday, the U.S. Commodity Futures Trading Commission (CFTC) approved a proposal by a Chicago-based brokerage and exchange for cryptocurrency derivatives to operate as its own registered clearinghouse. CFTC gives green light for Bitcoin futures Trading Bitnomial, a US-regulated digital asset derivatives exchange, was given a US clearinghouse license today to clear margined digital asset futures [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-13T21:16:27.000Z",
-    "title": "Lido Finance Hits $20 Billion TVL Milestone: DeFi’s Rising Star of 2023",
-    "url": "https://www.crypto-news-flash.com/lido-finance-hits-20-billion-tvl-milestone-defis-rising-star-of-2023/?utm_source=rss&utm_medium=rss&utm_campaign=lido-finance-hits-20-billion-tvl-milestone-defis-rising-star-of-2023",
-    "description": "<img width=\"1280\" height=\"534\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/stock-exchange-3087396_1280-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/stock-exchange-3087396_1280-1.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/stock-exchange-3087396_1280-1-300x125.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/stock-exchange-3087396_1280-1-1024x427.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/stock-exchange-3087396_1280-1-768x320.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Lido Finance&#8217;s liquid staking platform saw massive growth in November, with over $20 billion locked in, driven by the launch of version 2. Staked ETH increased by 5.17%, and unique stakers surpassed 200,000, but concerns arose about Lido&#8217;s 77.27% market share in liquid staking. Lido Finance (LDO), a prominent player in the liquid staking ecosystem, [...]"
+    "source": "NewsBTC",
+    "date": "2023-12-13T22:00:08.000Z",
+    "title": "Is A Mega Bull Run Incoming? Whale Transfers Over $780 Million Of Stablecoin To Binance",
+    "url": "https://www.newsbtc.com/bitcoin-news/mega-bull-run-whale-over-780-million-stablecoin-binance/",
+    "description": "Data Nerd Data on December 13 shows that over the past 24 hours, the wallet &#8220;0xea8&#8221; moved 200 million BUSD from Binance, the world&#8217;s leading cryptocurrency exchange by client count. The whale transfer caught the attention of keen crypto users, who also noted that the transfer was soon followed by a deposit of 99.95 million FDUSD, a stablecoin supported by the exchange. Whale Address Accumulating FUSD Stablecoin On Binance That the address is shuffling and accumulating large amounts of stablecoins is noteworthy. Data Nerd Data shows that the address has transferred over 781 million FDUSD to Binance in the last four months. During this period, from around September, the crypto market has been recovering, edging higher on the back of improving fundamental factors. Related Reading: Shiba Inu Bucks Bearish Trend: Large Holder Netflow Rises 1079% To 4.68 Trillion SHIB The accumulation of over $781 million of stablecoin by the wallet controlled by an unknown individual or entity is overly bullish for crypto and Bitcoin prices. It could suggest that a large institutional investor or group of investors is amassing stablecoins, potentially preparing for a significant market move. Historically, large movements of stablecoins into centralized exchanges have often preceded major bull runs.  Stablecoins are vital for crypto, ensuring there is enough liquidity. Since most are pegged to the USD and can be backed by fiat, these tokens, mostly minted on Ethereum or Tron, are often used as a gateway to crypto. Therefore, their accumulation can signal increased institutional interest and potential buying pressure. Is A Mega Bitcoin And Crypto Rally In The Making? That the wallet address is fortifying its FDUSD base reinforces the notion that institutional investors, ahead of the possible approval of the first batch of Bitcoin ETFs in the United States, could be increasingly warming up and preparing for leading coins like Bitcoin and Ethereum to extend gains in 2024.  When writing on December 13, Bitcoin and top altcoin prices are relatively stable. To illustrate, Bitcoin is trending higher, stable above the $41,000 level after pulling back from 2023 highs of around $44,000. Crypto participants are bullish and expect Bitcoin prices to float even higher in 2024 before halving. Binance will stop supporting BUSD in 2024. The exchange has also delisted USDC. Accordingly, USDT and FUSD are popular on Binance. However, the exchange continues to be on the Securities and Exchange Commission&#8217;s (SEC) crosshairs.  Related Reading: Santiment Points Out Trigger Behind 65% Cardano Rally In late November, the Department of Justice (DOJ) issued a $4.3 billion penalty on Binance as settlement with the SEC, Commodity Futures Trading Commission (CFTC), and other aggrieved agencies in the United States. The deal also saw Changpeng Zhao, the founder of Binance, step down from the CEO role. Feature image from Canva, chart from TradingView"
   }
 ]

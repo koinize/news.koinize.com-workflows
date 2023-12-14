@@ -1,93 +1,72 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-14T19:00:00.000Z",
-    "title": "Chainlink Data Feeds Available on Polygon zkEVM",
-    "url": "https://www.coindesk.com/tech/2023/12/14/chainlink-data-feeds-available-on-polygon-zkevm/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Developers building on Polygon’s zkEVM will be able to incorporate these data feeds into their on-chain applications."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-14T18:55:49.000Z",
-    "title": "Solana's BONK Becomes 69th Largest Coin as Market Cap Tops $1 Billion",
-    "url": "https://decrypt.co/209850/solanas-bonk-69th-largest-coin-market-cap-tops-1-billion",
-    "description": "BONK continues its recent boom with a 64% surge on the day, landing in the meme-friendly #69 spot on CoinGecko’s market ranking."
+    "source": "Cointelegraph",
+    "date": "2023-12-14T19:18:31.000Z",
+    "title": " Cardano (ADA), Solana (SOL) and Polkadot (DOT) soar — Is it altseason?  ",
+    "url": "https://cointelegraph.com/news/cardano-ada-solana-sol-and-polkadot-dot-soar-is-it-altseason",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMWU0YTZiMzUtYmEzZi00YmY3LWI2ZWYtNDIxODQzNDA1MDZlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>ADA, SOL and DOT are showing strong bullish momentum as Bitcoin price consolidates.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) faced a sharp correction on Dec. 11 plummeting as much as 8% to a four-month low at $40,150, <a href=\"https://cointelegraph.com/news/bitcoin-btc-price-crash-falls-below-42k-hour-weekly-gains-wiped\">wiping out the gains of the past seven days</a>. </p><p>This <a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-down-today\">drop in BTC’s price </a>has triggered a market-wide re-evaluation, prompting a debate on the potential for altcoins to spearhead the next significant rally in the cryptocurrency landscape.</p><p>Market experts and analysts believe the recent price crash is a part of the ongoing price cycle, and after two months of a bullish surge, a correction was inevitable.</p><p><a href=\"https://cointelegraph.com/news/cardano-ada-solana-sol-and-polkadot-dot-soar-is-it-altseason\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-14T18:51:17.000Z",
-    "title": " Which world leaders have made big promises on crypto?  ",
-    "url": "https://cointelegraph.com/news/world-leaders-promises-crypto",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMzg3MGNiZjgtZTUyYy00OGJhLWIzMzEtZjQxM2RjMGNhOTY2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>From Nayib Bukele to Donald Trump, many current and former heads of state across the globe have used crypto and blockchain as political tools.</p>\n                    <p><p>Few world leaders have been openly supportive of digital assets while in office or while they were campaigning. Though the technology is relatively young and untested as a political issue, many candidates have staked their reputations on crypto and blockchain.</p><p>Now the former president of El Salvador as he <a href=\"https://cointelegraph.com/news/nayib-bukele-resigns-president-el-salvador\">campaigns for his next term</a> in office, Nayib Bukele is arguably the most outspoken head of state in the world on cryptocurrency. He pioneered a legislative path to make Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) legal tender in El Salvador in 2021. He directly tied his presidency to the cryptocurrency, periodically boasting about buys on X — formerly Twitter.</p><p>Under Bukele, BTC kiosks have been installed across El Salvador, and the president <a href=\"https://cointelegraph.com/news/el-salvador-bitcoin-portfolio-swings-profit\">reported in December</a> that the country’s Bitcoin investments were profitable after the crypto market downturn of 2022. In 2024, El Salvador’s Ministry of Education <a href=\"https://cointelegraph.com/news/el-salvador-to-introduce-bitcoin-education-in-schools-by-2024\">plans to introduce</a> a Bitcoin education program for public schools.</p><p><a href=\"https://cointelegraph.com/news/world-leaders-promises-crypto\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-14T19:05:15.000Z",
-    "title": "Understanding the Ledger library exploit and what it means for users",
-    "url": "https://cryptoslate.com/understanding-the-ledger-library-exploit/",
-    "description": "<p>Earlier today, crypto hardware wallet manufacturer Ledger confirmed that its Connector library was compromised after attackers replaced a genuine version with a malicious file. Following the incident, several decentralized applications (dApps) faced potential exploits, with the attacker managing to siphon more than $500,000 from multiple wallets. In this report, CryptoSlate brings you a breakdown of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/understanding-the-ledger-library-exploit/\">Understanding the Ledger library exploit and what it means for users</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-12-14T19:06:11.000Z",
-    "title": "Philippines SEC prepares to ban Binance in three months",
-    "url": "https://cryptobriefing.com/philippines-sec-prepares-ban-binance-three-months/?utm_source=feed&utm_medium=rss",
-    "description": "The financial regulator will ban and block the crypto exchange by late February if it does not comply by registering for a VASP license."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-12-14T19:02:21.000Z",
-    "title": "Bitcoin will break $80,000 in 2024, Bitwise predicts",
-    "url": "https://cryptobriefing.com/bitcoin-break-80000-2024-bitwise-predicts/?utm_source=feed&utm_medium=rss",
-    "description": "From Bitcoin's all-time high to the rise of stablecoins and Ethereum's market volume."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-14T19:00:25.000Z",
-    "title": "Ledger Connect Kit Breach: Hacker Siphons $484K, Company Rolls Out Version 1.1.8",
-    "url": "https://news.bitcoin.com/ledger-connect-kit-breach-hacker-siphons-484k-company-rolls-out-version-1-1-8/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ledger Connect Kit Breach: Hacker Siphons $484K, Company Rolls Out Version 1.1.8\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ledds.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The unknown attacker that compromised Ledger’s Connectkit Library has reportedly siphoned $484,000 from wallets, according to the onchain intelligence firm Lookonchain. Ledger disclosed a former employee fell victim to a phishing attack and the attacker gained access to the Ledger Connectkit Library and uploaded a malicious bug. Ledger Responds to $484K Hack The latest and [&#8230;]"
+    "date": "2023-12-14T19:12:58.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">The hacker(s) responsible for the Ledger attack drained around $500,000. Background: Multiple decentralized applications using Ledger’s connector library have been compromised, including SushiSwap and Revoke.cash. Meanwhile, a major change in United States accounting rules could prompt more companies to add Bitcoin <a href=\"https://cointelegraph.com/bitcoin-price\">(BTC</a>) to their balance sheets.</p><p>The hacker behind the attack on Ledger stole assets <a href=\"https://cointelegraph.com/news/ledger-blockchain-hack-attacker-drained-484-k\">worth around $484,000</a>, according to blockchain analysis platform Lookonchain. </p><p>Coinbase launched its International Exchange in May with trading for BTC and ETH perpetual futures for institutional investors. In September, the exchange announced it would expand to offer the same services to retail traders.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T18:50:28.000Z",
-    "title": "Ledger security breach compromises crypto assets worth $484,000",
-    "url": "https://www.cryptopolitan.com/ledger-breach-compromises-crypto-484000/",
-    "description": "The hacker responsible for the attack on Ledger&#8217;s connector library has stolen assets worth around $484,000. This information was provided by the blockchain analysis platform Lookonchain. Although Ledger has not yet confirmed these figures, they have stated that the security breach could have a significant impact, potentially amounting to hundreds of thousands of dollars. The [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-14T18:48:30.000Z",
-    "title": "Algorand Price Prediction 2023-2032: Resurgence possible?",
-    "url": "https://www.cryptopolitan.com/algorand-price-prediction/",
-    "description": "Algorand Price Prediction 2023-2032 Algorand is one of the best choices to consider when investing in cryptocurrency. However, it is insufficient to hold the ALGO cryptocurrency in high esteem. The coin has to perform up to expectations. You must look at Algorand’s price prediction from 2023 to 2032, its expected minimum price, and what it [&#8230;]"
+    "date": "2023-12-14T19:25:10.000Z",
+    "title": "Why JPMorgan favors Ethereum over Bitcoin for 2024",
+    "url": "https://www.cryptopolitan.com/jpmorgan-favors-ether-over-bitcoin-for-2024/",
+    "description": "JPMorgan, the banking titan, has predicted Ethereum (ETH) to eclipse Bitcoin (BTC) in 2024. This comes despite the much-anticipated Bitcoin halving event, which traditionally stirs up a frenzy in the crypto community. JPMorgan&#8217;s stance pivots on a &#8220;cautious&#8221; outlook for the industry in the coming year, diverging from the typical euphoria surrounding major crypto events. [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-14T19:00:16.000Z",
-    "title": "JPMorgan: Bitcoin ETF’s impact overstated, Ethereum set to surprise skeptics",
-    "url": "https://crypto.news/jpmorgan-bitcoin-etfs-impact-ethereum-surprise-skeptics/",
-    "description": "A report from America’s largest bank said spot Bitcoin ETF flows in Canada and Europe hint at what to expect in the U.S., adding that upcoming Ethereum upgrades beckon more interest in ETH."
+    "date": "2023-12-14T19:37:10.000Z",
+    "title": "Cardano pullbacks, analysts exploring new crypto alternative ",
+    "url": "https://crypto.news/cardano-pullbacks-analysts-exploring-new-crypto-alternative/",
+    "description": "Cardano is falling and analysts are investigating why. Meanwhile, investors are watching Meme Moguls in the ongoing MGLS presale"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-14T19:00:00.000Z",
-    "title": "Chainlink debuts price feed oracles on Polygon zkEVM",
-    "url": "https://crypto.news/chainlink-debuts-price-feed-oracles-on-polygon-zkevm/",
-    "description": "Decentralized oracle network Chainlink has launched its data feeds on Polygon&#8217;s zero-knowledge scaling solution compatible with the Ethereum Virtual Machine. In a press release shared with crypto.news, Chainlink said the expansion now allows blockchain developers to build decentralized applications on&#8230;"
+    "date": "2023-12-14T19:27:13.000Z",
+    "title": "Taurus, Teylor partner to boost SME credit with debt tokenization investment",
+    "url": "https://crypto.news/taurus-teylor-partner-to-boost-sme-credit-with-debt-tokenization-investment/",
+    "description": "Swiss crypto custody firm Taurus has partnered with Zurich-based fintech lending platform Teylor, known for focusing on the German SME market."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-12-14T19:30:00.000Z",
+    "title": "Ethereum Bounces Off Support Zone: Path To New All-Time High Set?",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-support-zone-path-all-time-high/",
+    "description": "On-chain data shows Ethereum has successfully found a rebound at a major support zone, a positive sign for the asset&#8217;s exploration at higher levels. Ethereum Recently Made A Retest Of A Strong On-Chain Support Zone In terms of on-chain analysis, the potential of any particular price range to act as support or resistance lies in the total number of investors who bought their coins inside said price range. The reason behind that is the holders are more likely to react whenever the price retests their cost basis or acquisition price, which is obviously an important level to them since it can flip their profit-loss situation. Related Reading: Bitcoin Deja Vu: Capital Inflows Mirror Pre-2021 Bull Run Momentum A single holder showing such a reaction won&#8217;t cause any effects on the market, naturally, but if a large number of investors share their cost basis inside a tight range, the asset&#8217;s retest of the range could perhaps produce a sizeable reaction. Hence, the larger the concentration of investors inside a particular range, the higher the ability of said range to act as resistance/support. Analyst Ali shared this chart recently in an X post that showed how the various Ethereum price ranges looked like in terms of the amount of addresses who acquired their coins at them at the time of the post: The various on-chain support and resistance levels &#124; Source: @ali_charts on X From the graph, it&#8217;s apparent that the $1,934 to $2,160 range is the Ethereum range that hosts the cost basis of the most amount of addresses. At the time Ali had made the post, Ethereum was retesting this range. Now, since this range has such a high number of investors, a retest of it is probable to cause some reaction on the ETH price. But what kind of reaction would it be, support or resistance? What decides this is the direction the price is retesting from. If the retest is from above, that is, these investors had been in profit just before the retest, then the market could feel some support. This is because the holders might think this same price range could be profitable again in the future, so they might decide to participate in some accumulation at it. Related Reading: Santiment Points Out Trigger Behind 65% Cardano Rally Similarly, a retest from below could end up leading to resistance for Ethereum, as the investors might fear the asset dropping once more, so they could become more likely to sell. Therefore, this huge range holding the cost basis of 5.85 million addresses should have acted as support for Ethereum during its latest retest. And indeed, since the retest, the asset has successfully found a rebound, as it has shot up towards higher levels. As is visible in the chart, the ranges ahead up to the asset&#8217;s all-time high are all relatively thin with investors. This means that, thanks to the large support basis below, ETH shouldn&#8217;t have too much trouble traversing through these levels, at least in theory. ETH Price Since finding the rebound at the support range, Ethereum has climbed towards the $2,300 level. Looks like ETH has been going up during the last couple of days &#124; Source: ETHUSD on TradingView Featured image from Bastian Riccardi on Unsplash.com, charts from TradingView.com, IntoTheBlock.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-14T19:04:08.000Z",
-    "title": "Avalanche (AVAX) Surges with a 340% Market Cap Increase in Just Two Months",
-    "url": "https://www.crypto-news-flash.com/avalanche-avax-surges-with-a-340-market-cap-increase-in-just-two-months/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-avax-surges-with-a-340-market-cap-increase-in-just-two-months",
-    "description": "<img width=\"1080\" height=\"595\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avax.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avax.png 1080w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avax-300x165.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avax-1024x564.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avax-768x423.png 768w\" sizes=\"(max-width: 1080px) 100vw, 1080px\" />Avalanche has increased its market cap from $3.2B to $14.35B in 2 months. The Avalanche growth is accompanied by a massive jump in DeFi TVL. In a recent crypto market development, AVAX, the native token of the Avalanche ecosystem, has defied market trends, showcasing a notable surge, with a 340% increase in market capitalization over [...]"
+    "date": "2023-12-14T19:35:35.000Z",
+    "title": "Coinbase Unveils Project Diamond: A Game-Changer for Digital Asset Creation  ",
+    "url": "https://www.crypto-news-flash.com/coinbase-unveils-project-diamond-a-game-changer-for-digital-asset-creation/?utm_source=rss&utm_medium=rss&utm_campaign=coinbase-unveils-project-diamond-a-game-changer-for-digital-asset-creation",
+    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Coinbase 7\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />In a new announcement, Coinbase has revealed its plans to launch a smart contract-powered platform for institutional players.  In collaboration with Coinbase Asset Management, the exchange hopes to bring Project Diamond to the market.  Coinbase has officially announced a highly promising project designed to promote crypto adoption for institutional players looking to break into the [...]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-14T19:05:59.000Z",
-    "title": "Altcoin Season Could Take Longer To Materialize This Cycle, According to Bloomberg Analyst – Here’s Why",
-    "url": "https://dailyhodl.com/2023/12/14/altcoin-season-could-take-longer-to-materialize-this-cycle-according-to-bloomberg-analyst-heres-why/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/08/altcoin-season-peaking.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Former Bloomberg Intelligence analyst Jamie Coutts says an alt season may take longer to arrive compared to previous market cycles. Coutts says that even though many altcoins are having breakouts, Bitcoin (BTC) continues to dominate the crypto market based on its share of total market capitalization. He says that Bitcoin’s dominance may last longer than [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/14/altcoin-season-could-take-longer-to-materialize-this-cycle-according-to-bloomberg-analyst-heres-why/\">Altcoin Season Could Take Longer To Materialize This Cycle, According to Bloomberg Analyst – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2023-12-14T19:26:50.000Z",
+    "title": "Lido DAO (LDO) Surpassed by Jito (JTO)’s Valuation; Kaspa (KAS) & InQubeta (QUBE) Poised for Rise",
+    "url": "https://www.crypto-news-flash.com/lido-dao-ldo-surpassed-by-jito-jtos-valuation-kaspa-kas-inqubeta-qube-poised-for-rise/?utm_source=rss&utm_medium=rss&utm_campaign=lido-dao-ldo-surpassed-by-jito-jtos-valuation-kaspa-kas-inqubeta-qube-poised-for-rise",
+    "description": "<img width=\"512\" height=\"326\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-108.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-108.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-108-300x191.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-108-312x198.jpg 312w\" sizes=\"(max-width: 512px) 100vw, 512px\" />InQubeta (QUBE) and Kaspa (KAS) are two of the best altcoins to buy right now as both are poised for exponential growth in 2024. KAS prices have grown 28% in the last 30 days, while InQubeta has earned early investors 175% returns. Meanwhile, Solana DeFi users recently received a massive airdrop of its new liquid [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-14T19:24:54.000Z",
+    "title": "Ledger Contains Cybersecurity Threat to dApps",
+    "url": "https://www.crypto-news-flash.com/ledger-contains-cybersecurity-threat-to-dapps/?utm_source=rss&utm_medium=rss&utm_campaign=ledger-contains-cybersecurity-threat-to-dapps",
+    "description": "<img width=\"640\" height=\"427\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/max-saeling-N4jhGAoNuGo-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ledger Connect Kit\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/max-saeling-N4jhGAoNuGo-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/max-saeling-N4jhGAoNuGo-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/max-saeling-N4jhGAoNuGo-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Ledger quickly fixes security breach in Ledger Connect Kit, affected by malicious code that compromised transactions in dApps and DeFi. The company advises to check Ledger Connect Kit version 1.1.8 and collaborates with authorities to identify the cyber attacker. alert in the world of cryptocurrencies! Ledger, known for its hardware wallets, recently faced a cybersecurity [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-14T19:15:36.000Z",
+    "title": "Argentina Advances Sustainable Bitcoin Mining in Vaca Muerta Reserve",
+    "url": "https://www.crypto-news-flash.com/argentina-advances-sustainable-bitcoin-mining-in-vaca-muerta-reserve/?utm_source=rss&utm_medium=rss&utm_campaign=argentina-advances-sustainable-bitcoin-mining-in-vaca-muerta-reserve",
+    "description": "<img width=\"640\" height=\"427\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ewan-kennedy-xiqRg0G9NXU-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin se instala en Vaca Muerta\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ewan-kennedy-xiqRg0G9NXU-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ewan-kennedy-xiqRg0G9NXU-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ewan-kennedy-xiqRg0G9NXU-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Unblock Computos launches Bitcoin mining farm in Vaca Muerta, Argentina, using flare gas to reduce emissions and generate cryptoassets. The $15 million project involves major energy companies, promoting sustainable Bitcoin mining and environmental innovation. In the relentless pursuit of innovative solutions for environmental sustainability, Unblock Computos, a technology and energy start-up, has taken the initiative [...]"
   }
 ]

@@ -1,114 +1,114 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-14T12:20:58.000Z",
+    "date": "2023-12-14T13:00:00.000Z",
+    "title": "Deutsche Bank-Backed Taurus Starts Tokenizing German SME Loans",
+    "url": "https://www.coindesk.com/business/2023/12/14/deutsche-bank-backed-taurus-starts-tokenizing-german-sme-loans/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Crypto custody specialist Taurus has partnered with lending company Teylor."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-14T12:48:20.000Z",
+    "title": "DeFi Protocol Sushi's CTO Warns of Possible Exploit ",
+    "url": "https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Decentralized finance (DeFi) protocol Sushi has reportedly been hit by a front-end exploit, with the company's CTO issuing a warning about an industry-wide exploit related to a \"commonly used\" web3 connector."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-14T12:49:24.000Z",
     "title": "Protocol Village: Immutable zkEVM Will Allow Developers to 'Abstract' Transaction Fees",
     "url": "https://www.coindesk.com/tech/2023/12/13/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
     "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 14-Dec. 20, with live updates throughout."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-14T12:24:35.000Z",
-    "title": " Top five blockchain ETFs that returned over 100% in 2023: Data ",
-    "url": "https://cointelegraph.com/news/top-five-etfs-returned-over-100-2023",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZGZkNzA5YTQtN2RjMi00YmJhLWJhZDYtZmYyMmNiMTc4NGJiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Some crypto-linked ETFs like the VanEck Digital Transformation ETF and Global X Blockchain ETF have surged as much as 200% and higher in 2023.</p>\n                    <p><p>As the cryptocurrency community has been focused on the potential approval of a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) in the United States, some crypto-linked ETFs have already been racking up significant gains in 2023.</p><p>One such ETF is the VanEck Digital Transformation ETF (DAPP), which has surged nearly 207% year to date (YTD), <a href=\"https://www.tradingview.com/symbols/NASDAQ-DAPP/\" target=\"_blank\" rel=\"noopener nofollow\">according</a> to data from TradingView. Launched in April 2021, DAPP tracks the price and performance of the MVIS Global Digital Assets Equity Index, which, in turn, is based on the performance of major companies involved in the digital asset economy.</p><p>VanEck’s DAPP ETF holds Coinbase (COIN), MicroStrategy (MSTR) and Block (SQ) as its top exposure assets. Coinbase and MicroStrategy have seen massive growth this year, with the shares rising <a href=\"https://www.tradingview.com/symbols/NASDAQ-COIN/\" target=\"_blank\" rel=\"noopener nofollow\">312%</a> and <a href=\"https://www.tradingview.com/symbols/NASDAQ-MSTR/\" target=\"_blank\" rel=\"noopener nofollow\">302%</a> YTD, respectively, according to data from TradingView.</p><p><a href=\"https://cointelegraph.com/news/top-five-etfs-returned-over-100-2023\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-14T12:49:43.000Z",
+    "title": " Over $300M in stolen crypto assets reached Bitcoin mixers in 2023 ",
+    "url": "https://cointelegraph.com/news/bitcoin-mixer-stolen-crypto-assets-tornado-cash-data",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYmI2MTA1MTItZmUzNC00NTRhLWJhNDktMjc3MTg3NjMzNWFkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Data shared by CertiK showed that a third of the losses from 50 of the largest crypto exploits in 2023 ended up in the Bitcoin network. </p>\n                    <p><p>While Bitcoin’s decentralization gives many the freedom to transfer assets without the risk of censorship, malicious actors are also taking advantage of the network’s inherent privacy to move their stolen funds. </p><p>Before the sanctions <a href=\"https://cointelegraph.com/news/us-treasury-sanctions-usdc-and-eth-addresses-connected-to-tornado-cash\">issued by the United States</a> Treasury Department’s Office of Foreign Assets Control (OFAC) in 2022, Tornado Cash was the prominent choice for hackers to launder stolen crypto. According to the OFAC, more than $7 billion in crypto assets have been laundered using the mixer since 2019. However, new findings from blockchain security firm CertiK shows that there's been a shift in 2023. </p><p>Data analyzed by CertiK shows that more than $300 million in the stolen proceeds from 50 of the largest exploits of 2023 ended up in Bitcoin, as hackers try to find other places to move their ill-gotten gains after the increased regulatory scrutiny toward Tornado Cash. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-mixer-stolen-crypto-assets-tornado-cash-data\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2023-12-14T12:23:55.000Z",
-    "title": "U.S. SEC Chair Gensler on Hedge Fund Mandates and Crypto Market Challenges",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/u-s-sec-chair-gensler-on-hedge-fund-mandates-and-crypto-market-challenges/",
-    "description": "Yesterday, during a conversation with Bloomberg Television reporter Kailey Leinz, U.S. SEC Chair Gary Gensler discussed the implementation of new mandates for hedge funds aimed at reducing risks in the broader financial system. He also touched upon the challenges in the crypto market, highlighting the issue of noncompliance affecting many investors. Here are the key […]\n"
+    "source": "CryptoSlate",
+    "date": "2023-12-14T13:04:05.000Z",
+    "title": "Coinbase continues to list new memecoins ahead of institutional Bitcoin ETF custody milestone",
+    "url": "https://cryptoslate.com/coinbase-continues-to-list-new-memecoins-ahead-of-institutional-bitcoin-etf-custody-milestone/",
+    "description": "<p>Coinbase recently announced its decision to add Bonk (BONK), a Solana network token, to its list of tradable assets, a move that adds a new memecoin to its platform amidst its involvement in institutional activities like the anticipated Bitcoin ETF custody with BlackRock. Coinbase adds Solana-based dog token to tradeable assets. Coinbase&#8217;s inclusion of BONK [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-continues-to-list-new-memecoins-ahead-of-institutional-bitcoin-etf-custody-milestone/\">Coinbase continues to list new memecoins ahead of institutional Bitcoin ETF custody milestone</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-12-14T12:30:57.000Z",
-    "title": "Report: Montenegro High Court Extends Do Kwon’s Detention by 2 Months",
-    "url": "https://news.bitcoin.com/report-montenegro-high-court-extends-do-kwons-detention-by-2-months/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Report: Montenegro High Court Extends Do Kwon&#039;s Detention by 2 Months\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/kwons888.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Do Kwon, the ex-CEO of Terraform Labs, is set to spend two months in Montenegro custody after the country&#8217;s High Court moved his release date to Feb. 15, 2024. While Do Kwon reportedly prefers being sent to South Korea, Montenegro&#8217;s justice minister is said to be leaning towards sending him to the United States. Do [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-14T13:01:51.000Z",
+    "title": "3 tokens under $1 to reach $5 in 2024: Dogecoin (DOGE), Retik Finance (RETIK), Cardano (ADA)",
+    "url": "https://cryptodaily.co.uk/2023/12/3-tokens-under-1-to-reach-5-in-2024-dogecoin-doge-retik-finance-retik-cardano-ada",
+    "description": "Get ready for a journey into the dynamic realm of cryptocurrencies, where even a few dollars can dream big."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-14T12:32:59.000Z",
-    "title": "Netflix Games Continues to Expand Its Gaming Catalog",
-    "url": "https://www.cryptopolitan.com/netflix-games-to-expand-its-gaming-catalog/",
-    "description": "In a remarkable stride toward becoming a gaming destination, Netflix Games has made substantial progress in the past year. The streaming giant has not only launched a variety of games but also introduced its first internally developed titles.&#160; Netflix Games is taking steps to make games available on every device, and it has revamped its [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-14T12:31:21.000Z",
-    "title": "Ukraine web3 industry urges for a clear regulatory framework",
-    "url": "https://www.cryptopolitan.com/ukraine-web3-urge-clear-regulatory-framework/",
-    "description": "In a recent development highlighting the struggles of the web3 industry in Ukraine, a study conducted by the Ukrainian Web3 Institute, supported by the Ministry of Digital Transformation, reveals significant regulatory hurdles. The research, titled &#8220;Web3 for Ukraine: Talk to Founders,&#8221; points to a critical need for clear guidelines and a regulatory framework within the [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-14T13:01:15.000Z",
+    "title": "Verichains and Polygon Labs Forge Security Collaboration for Future Polygon zkEVM Upgrades",
+    "url": "https://cryptodaily.co.uk/2023/12/verichains-and-polygon-labs-forge-security-collaboration-for-future-polygon-zkevm-upgrades",
+    "description": "Verichains and Polygon Labs Forge Security Collaboration for Future Polygon zkEVM Upgrades"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T12:30:31.000Z",
-    "title": "Insomniac Games Delays Key Features for Marvel’s Spider-Man 2 Until Early 2024",
-    "url": "https://www.cryptopolitan.com/insomniac-games-delays-key-features/",
-    "description": "In a recent announcement, Insomniac Games revealed that the much-anticipated features of the new game and audio descriptions for Marvel&#8217;s Spider-Man 2 are facing a delay. Originally slated for a late 2023 release, the game developer is now targeting early 2024 for the next update, citing the need for additional testing to ensure the quality [&#8230;]"
+    "date": "2023-12-14T13:08:26.000Z",
+    "title": "Polkadot Price Prediction 2023-2032: A Bullish Pattern?",
+    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
+    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T12:28:05.000Z",
-    "title": "PlayStation Plus Delivers Value-Packed Lineup of Games in Latest Update",
-    "url": "https://www.cryptopolitan.com/playstation-plus-delivers-value-packed-lineu/",
-    "description": "In a move that has garnered widespread acclaim from gamers, Sony&#8217;s PlayStation Plus subscription service has recently rolled out an impressive selection of games, offering an outstanding value proposition for subscribers.&#160; The curated lineup includes a mix of blockbuster AAA titles and retro-inspired action games, all available for a fraction of the cost of purchasing [&#8230;]"
+    "date": "2023-12-14T13:01:18.000Z",
+    "title": "Verichains and Polygon Labs Forge Security Collaboration for Future Polygon zkEVM Upgrades",
+    "url": "https://www.cryptopolitan.com/verichains-and-polygon-labs-forge-security-collaboration-for-future-polygon-zkevm-upgrades/",
+    "description": "Ho Chi Minh city, Vietnam, December 14th, 2023, Chainwire Verichains, renowned as a trailblazer in blockchain security solutions and for its cutting-edge security research, proudly announces a strategic security collaboration with Polygon Labs, the development company behind leading Layer 2 scaling solutions powered by zero-knowledge (ZK) technology. This collaboration aims to fortify the security aspects [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T12:17:35.000Z",
-    "title": "Defi Protocol Yearn. finance appeals to traders for return of lost $1.4 million",
-    "url": "https://www.cryptopolitan.com/defi-protocol-yearn-finance-appeals-to-trade/",
-    "description": "Decentralized finance (DeFi) platform Yearn. finance is reaching out to arbitrage traders to return $1.4 million in funds that were inadvertently drained due to a multisg scripting error.  The incident, which occurred during a token conversion process on the decentralized exchange CowSwap, led to a significant drop in the protocol&#8217;s treasury balance. Multisignature script error [&#8230;]"
+    "date": "2023-12-14T12:43:34.000Z",
+    "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
+    "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
+    "description": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-14T12:35:47.000Z",
-    "title": "ABT token price spikes over 80% in 24 hour trading",
-    "url": "https://crypto.news/abt-token-price-spikes-over-80-in-24-hour-trading/",
-    "description": "The price of Arcblock's ABT token increased over 80% in the last day, reaching a high of $0.31 before pulling back to $0.25."
+    "source": "Cryptopolitan",
+    "date": "2023-12-14T12:40:24.000Z",
+    "title": "EOS Price Prediction 2023-2032: Is EOS a good investment?",
+    "url": "https://www.cryptopolitan.com/eos-price-prediction/",
+    "description": "EOS Price Prediction 2023-2032 EOS, a crypto token formed by the company to promote its decentralized app creation, ranks #47, a little lower on the charts, thanks to its slightly lower market cap of $3,365,472,360. Lately, it has resumed its upward projectile with renewed activities and is viewed by some analysts as a &#8220;ticking time [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-14T12:30:02.000Z",
-    "title": "Basel Committee considers stablecoins less risky than Bitcoin",
-    "url": "https://crypto.news/basel-committee-considers-stablecoins-less-risky-than-bitcoin/",
-    "description": "The Basel Committee on Banking Supervision (BCBS) has proposed that stablecoins be considered less risky cryptocurrencies. According to the document, the BCBS proposes to change the criteria so that stablecoins can be considered less risky than fiat cryptocurrencies such as&#8230;"
+    "source": "NewsBTC",
+    "date": "2023-12-14T13:00:57.000Z",
+    "title": "Bitcoin Spot ETF Applicants To Integrate Mandatory Cash Redemption Model",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-spot-etf-applicants-to-integrate-mandatory-cash-redemption-model/",
+    "description": "Recent reports have revealed that the United States Securities and Exchange Commission (SEC) has implemented a &#8220;new regulatory standard&#8221; for all Bitcoin Spot Exchange-Traded Fund (ETF) applicants while awaiting approval from the regulatory body. Cash Redemption Model For Bitcoin ETF Applicants Top Bloomberg Analyst James Seyffart took to X (formerly Twitter) to share the latest update by the regulatory watchdog. According to him, every Bitcoin Spot ETF applicant will have to bend their knees to this new model. The SEC&#8217;s latest &#8220;Cash Redemption Model&#8221; came amid the spot Bitcoin ETF issuers ironing their filings with the US regulator. It seems that the SEC is unwavering in its demand, rather than approve the different model that other issuers have suggested. Related Reading: Bitcoin Spot ETF Approval: Why Price Could Be Set For 300% Surge The model enables authorized participants to deposit funds in the ETF equal to the net asset value of the creation units to be created. The underlying assets, which in this case is Bitcoin, are subsequently purchased by the fund using this money. Seyffart&#8217;s X post was accompanied by another post from financial lawyer Scott Johnsson, who initially shared the update. The financial lawyer shared a screenshot which revealed more details about the new model by the regulatory body. Johnsson asserted that Invesco is the most recent company to adopt the cash creation and redemption standard for its ETF. The trust anticipates that &#8220;creation and redemption transactions will be made in cash at first.&#8221; However, in the future, the Trust may permit/require creation and redemption transactions to be carried out with the “in-kind” model. This is the initial model that several ETF applicants have suggested. For the in-kind model, the participant deposits a collection of securities that are weighted and composed in accordance with the ETF&#8217;s portfolio. This will allow investors to receive creation units from the fund without having to sell the securities for cash instantly. Bloomberg Senior ETF analyst, Eric Balchunas has also confirmed Invesco&#8217;s adoption of the latest cash model. The analyst asserted that the firm is embracing the initiative as per its just updated S-1 filing. Blackrock&#8217;s In-Kind Redemption Model Blackrock recently adjusted its Spot Bitcoin Exchange-Traded Fund (ETF) application introducing an in-kind redemption model called &#8220;Prepay.&#8221; This is to tackle the restrictions that financial firms are facing in order to hold cryptocurrencies. Related Reading: $9 Trillion BlackRock Sees Bitcoin Spot ETF Approval Delayed, What This Means The adjustment aims to make it easier for Wall Street Banks to participate in the fund. With this modification, authorized participants (APs) would be allowed to issue new fund shares using cash instead of just Bitcoin.  The funds that the APs use for this procedure can subsequently be converted into Bitcoin through an intermediary and kept in storage by the ETF&#8217;s custody provider. As a result of this, it provides access to banks that are unable to store cryptocurrencies directly.  So far, Blackrock believes the model will offer greater protection against market manipulation, which has since been the major reason behind the SEC&#8217;s rejection of an ETF. Featured image from iStock, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-14T12:25:11.000Z",
-    "title": "Blur (BLUR) Sees 7.05% Price Drop from Whale Selling; Injective (INJ) & InQubeta (QUBE) Draw Top Investors",
-    "url": "https://www.crypto-news-flash.com/blur-blur-sees-7-05-price-drop-from-whale-selling-injective-inj-inqubeta-qube-draw-top-investors/?utm_source=rss&utm_medium=rss&utm_campaign=blur-blur-sees-7-05-price-drop-from-whale-selling-injective-inj-inqubeta-qube-draw-top-investors",
-    "description": "<img width=\"512\" height=\"339\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-105.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-105.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-105-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-105-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The crypto market is witnessing a mix of fluctuations and investor interest. Blur (BLUR) has recently experienced a 7.05% price drop, largely attributed to substantial selling by whales and institutional investors. Meanwhile, two top altcoins QUBE and INJ are drawing significant attention from top investors, showcasing the diversity of this market. InQubeta (QUBE): A Narrative [...]"
+    "date": "2023-12-14T13:04:12.000Z",
+    "title": "Bitwise’s Spot Bitcoin ETF Inches Closer to Reality as it Lands on Nasdaq’s DTCC",
+    "url": "https://www.crypto-news-flash.com/bitwises-spot-bitcoin-etf-inches-closer-to-reality-as-it-lands-on-nasdaqs-dtcc/?utm_source=rss&utm_medium=rss&utm_campaign=bitwises-spot-bitcoin-etf-inches-closer-to-reality-as-it-lands-on-nasdaqs-dtcc",
+    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Spot Bitcoin ETF\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Bitwise&#8217;s spot Bitcoin ETF, BITB, is now listed on DTCC, raising hopes for SEC approval and joining major players like BlackRock and Fidelity. Despite DTCC listing not guaranteeing approval, experts predict a bullish market, with Bitwise anticipating a new Bitcoin all-time high. Bitwise Asset Management&#8217;s spot Bitcoin exchange-traded fund (ETF) has recently appeared on the [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-14T12:18:18.000Z",
-    "title": "Cronos Expands Ethereum Ecosystem with Advanced Layer 2 Network",
-    "url": "https://www.crypto-news-flash.com/cronos-expands-ethereum-ecosystem-with-advanced-layer-2-network/?utm_source=rss&utm_medium=rss&utm_campaign=cronos-expands-ethereum-ecosystem-with-advanced-layer-2-network",
-    "description": "<img width=\"330\" height=\"329\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/cronos.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"CRO Burn when the community pool hits the 50M CRO\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/cronos.png 330w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/cronos-300x300.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/cronos-150x150.png 150w\" sizes=\"(max-width: 330px) 100vw, 330px\" />Cronos Labs launches new layer 2 network, &#8220;Cronos zkEVM&#8221;, based on Matter Labs software, expanding the Ethereum ecosystem. Cronos zkEVM testnet will drive cryptocurrency innovation, with support from Crypto.com, planning mainnet launch in Q2 2024. Cronos Labs, the brains behind the Cronos blockchain, has just announced the launch of a new layer 2 network. Best [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-12-14T12:25:04.000Z",
-    "title": "BRC-201: Revolutionizing Scalability for BRC-20 Tokens",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/brc-201-revolutionizing-scalability-for-brc-20-tokens/",
-    "description": "<p>BRC-201 offers a solution that not only enhances scalability for BRC-20 apps and tokens. But also facilitates interoperability, even across non-Ethereum Virtual Machine (EVM) chains. Developed by MAP Protocol, a pioneering force in the realm of Bitcoin layer-2 solutions and peer-to-peer omnichain infrastructure. This new token standard leverages the power of Zero-Knowledge (ZK) technology to [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/brc-201-revolutionizing-scalability-for-brc-20-tokens/\">BRC-201: Revolutionizing Scalability for BRC-20 Tokens</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-12-14T13:04:10.000Z",
+    "title": "Bonk Surpasses Pepe: Solana Memecoin Claims Third Place with 370% Monthly Gain",
+    "url": "https://www.crypto-news-flash.com/bonk-surpasses-pepe-solana-memecoin-claims-third-place-with-370-monthly-gain/?utm_source=rss&utm_medium=rss&utm_campaign=bonk-surpasses-pepe-solana-memecoin-claims-third-place-with-370-monthly-gain",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana vs SUI\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Solana-based BONK is now the third largest memecoin in the crypto industry. Recent growth push was spurred by exchange listings including the latest from Coinbase. Bonk (BONK), a dog-themed memecoin built on the Solana blockchain, has recently made headlines by surpassing Pepecoin (PEPE) to become the third-largest memecoin by market capitalization. Its extraordinary 370% monthly [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-14T12:37:18.000Z",
-    "title": "Metamorphosis Bangalore 2023: Elevating Innovation, Inspiring Change",
-    "url": "https://coinedition.com/metamorphosis-bangalore-2023-elevating-innovation-inspiring-change/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/pr-1-153.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/pr-1-153.jpg 730w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/12/pr-1-153-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In its second consecutive year in Bangalore, Metamorphosis, hosted by Octaloop, transcended expectations, providing a dynamic platform for exploration, innovation, and meaningful dialogue. The Day 1 was at The Den and Day 2 was at The Pallet, Bengaluru, &#160;brought together industry leaders, visionaries, and enthusiasts eager to chart the course for the future. Before diving [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/metamorphosis-bangalore-2023-elevating-innovation-inspiring-change/\">Metamorphosis Bangalore 2023: Elevating Innovation, Inspiring Change</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-14T13:08:33.000Z",
+    "title": "AI Cryptos Surge, Are These Cryptos the Next Big Boom or Bust?",
+    "url": "https://coinedition.com/ai-cryptos-surge-are-these-cryptos-the-next-big-boom-or-bust/",
+    "description": "<img width=\"696\" height=\"392\" src=\"https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Wallet-Backpack-Launches-Exchange-Following-Dubai-License-355x200.jpg 355w\" sizes=\"(max-width: 696px) 100vw, 696px\" /><p>AI and big data tokens performed phenomenally well over the past 24 hours, as the collective capitalization for this category of cryptocurrencies rose by 14.85% during this period. Subsequently, AI tokens had a combined valuation of $18,594,821,423 at press time, according to data from CoinMarketCap. The five largest AI tokens in terms of market cap [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ai-cryptos-surge-are-these-cryptos-the-next-big-boom-or-bust/\">AI Cryptos Surge, Are These Cryptos the Next Big Boom or Bust?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-12-14T12:32:21.000Z",
-    "title": "Bitnomial Secures Novel Approval From CFTC for Vertical Integration Market Structure",
-    "url": "https://coinedition.com/bitnomial-secures-novel-approval-from-cftc-for-vertical-integration-market-structure/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ooki DAO Hit with $643,542 Civil Penalty as Court Orders Shutdown\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Record_Breaking_3_4_Billion_Penalty_Handed_Down_in_CFTC_Bitcoin-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bitnomial, a cryptocurrency derivatives firm, received approval from the Commodities Futures Trading Commission to register as derivatives clearing entity in the United States, Reuters reported Wednesday.&#160; The CFTC voted in favor of the Chicago-based cryptocurrency firm&#8217;s request to act as its own registered clearinghouse on Wednesday. Bitnomial&#8217;s proposal was approved by CFTC commissioners. While two [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitnomial-secures-novel-approval-from-cftc-for-vertical-integration-market-structure/\">Bitnomial Secures Novel Approval From CFTC for Vertical Integration Market Structure</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-12-14T12:45:06.000Z",
+    "title": "Bitcoin To Explode From Fair Value to $100,000 Really Fast, Says Morgan Creek’s Mark Yusko – Here’s the Timeline",
+    "url": "https://dailyhodl.com/2023/12/14/bitcoin-to-explode-from-fair-value-to-100000-really-fast-says-morgan-creeks-mark-yusko-heres-the-timeline/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Bitcoin-To-Explode-From.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Morgan Creek CEO and hedge fund veteran Mark Yusko says Bitcoin&#8217;s (BTC) rally to a six-figure price will happen at lightning speed. In a Wolf of All Streets interview, Yusko says that Bitcoin is currently below its fair value of $50,000. According to the hedge fund veteran, Bitcoin’s surge from its yet-to-be-reached fair value could [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/14/bitcoin-to-explode-from-fair-value-to-100000-really-fast-says-morgan-creeks-mark-yusko-heres-the-timeline/\">Bitcoin To Explode From Fair Value to $100,000 Really Fast, Says Morgan Creek’s Mark Yusko – Here’s the Timeline</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

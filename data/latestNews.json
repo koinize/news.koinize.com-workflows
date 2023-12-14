@@ -1,44 +1,79 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-14T20:21:43.000Z",
+    "title": "Cripto-amigável não significa cripto-fácil",
+    "url": "https://www.coindesk.com/pt-br/consensus-magazine/2023/12/14/crypto-friendly-does-not-mean-crypto-easy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A regulamentação criptográfica dos EUA tem muito a aprender com o Japão, Singapura e Hong Kong. Mas embora essas jurisdições ofereçam clareza jurídica em relação aos ativos digitais, elas também têm algumas das regras mais rígidas do mundo, diz Emily Parker, da CoinDesk."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-14T20:21:43.000Z",
+    "title": "Crypto-Friendly Does Not Mean Crypto-Easy",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/14/crypto-friendly-does-not-mean-crypto-easy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "U.S. crypto regulation has much to learn from Japan, Singapore and Hong Kong. But while these jurisdictions offer legal clarity around digital assets, they also have some of the toughest rules in the world, says CoinDesk’s Emily Parker."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-14T20:21:43.000Z",
+    "title": "Cripto-friendly non significa cripto-facile",
+    "url": "https://www.coindesk.com/it/consensus-magazine/2023/12/14/crypto-friendly-does-not-mean-crypto-easy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "La regolamentazione statunitense delle criptovalute ha molto da imparare da Giappone, Singapore e Hong Kong. Ma sebbene queste giurisdizioni offrano chiarezza giuridica sulle risorse digitali, hanno anche alcune delle regole più severe al mondo, afferma Emily Parker di CoinDesk."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-14T20:21:43.000Z",
+    "title": "Crypto-friendly ne signifie pas crypto-facile",
+    "url": "https://www.coindesk.com/fr/consensus-magazine/2023/12/14/crypto-friendly-does-not-mean-crypto-easy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "La réglementation américaine en matière de cryptographie a beaucoup à apprendre du Japon, de Singapour et de Hong Kong. Mais si ces juridictions offrent une clarté juridique concernant les actifs numériques, elles appliquent également certaines des règles les plus strictes au monde, déclare Emily Parker de CoinDesk."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-14T20:30:00.000Z",
+    "title": " Security engineer pleads guilty to Nirvana Finance exploit and one other hack ",
+    "url": "https://cointelegraph.com/news/security-engineer-pleads-guilty-nirvana-finance-exploit-one-other",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZGExZTVhYmEtYjkyYi00ODdlLTlkN2YtNDA0NDI5N2IyZmY3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Shakeeb Ahmed was arrested for hacking an unspecified DEX, then admitted to Nirvava Finance hack too.</p>\n                    <p><p>A software engineer pleaded guilty to one count of computer fraud in connection with the hacking Nirvana Finance and an unnamed decentralized cryptocurrency exchange in the Southern District Court of New York on Dec. 14. The United States Attorney’s Office said the case was the first-ever conviction for hacking a smart contract.</p><p>Shakeeb Ahmed, <a href=\"https://www.justice.gov/usao-sdny/pr/former-security-engineer-international-technology-company-pleads-guilty-hacking-two\" target=\"_blank\" rel=\"noopener nofollow\">described</a> as a “senior security engineer for an international technology company,” was arrested in July in connection with the hack of the unnamed exchange on or about July 2 and 3, 2022. According to the U.S. Attorney’s Office statement: </p><p>Ahmed returned all but $1.5 million to the exchange, which “agreed not to refer the attack to law enforcement.” The exchange “allowed users to exchange different kinds of cryptocurrencies, and paid fees to users who deposited cryptocurrency to provide liquidity on the Crypto Exchange.”</p><p><a href=\"https://cointelegraph.com/news/security-engineer-pleads-guilty-nirvana-finance-exploit-one-other\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-12-14T19:40:10.000Z",
-    "title": "Bitcoin on the cusp of historic 9th consecutive week of gains",
-    "url": "https://cryptoslate.com/insights/bitcoin-on-the-cusp-of-historic-9th-consecutive-week-of-gains/",
-    "description": "<p>Quick Take Bitcoin has recently recorded eight consecutive weeks of gains from Oct 16 to Dec 4, a phenomenon that has only happened six times in the past. Streak Start Date Streak End Date 2010-12-06 2011-01-24 2012-05-14 2012-07-02 2013-01-07 2013-02-25 2013-10-07 2013-11-25 2015-09-14 2015-11-02 2017-04-17 2017-06-05 2023-10-16 2023-12-04 Source: Glassnode Current figures depict a slight [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-on-the-cusp-of-historic-9th-consecutive-week-of-gains/\">Bitcoin on the cusp of historic 9th consecutive week of gains</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-14T20:30:50.000Z",
+    "title": "Japan’s web3 ecosystem aims to attract 5,000 international firms",
+    "url": "https://cryptoslate.com/japans-web3-ecosystem-aims-to-attract-5000-international-firms/",
+    "description": "<p>The Asia Web3 Alliance Japan (AWAJ) has announced a bold initiative to integrate over 5,000 web3 companies from across the globe into Japan and Asia&#8217;s rapidly evolving web3 ecosystem. The initiative, unveiled during AWAJ&#8217;s first press conference on Dec. 14, marks a significant step towards fostering international collaboration and technological advancement in the web3 space. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/japans-web3-ecosystem-aims-to-attract-5000-international-firms/\">Japan&#8217;s web3 ecosystem aims to attract 5,000 international firms</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T20:06:43.000Z",
-    "title": "JPMorgan isn’t so bullish on crypto for next year – Why?",
-    "url": "https://www.cryptopolitan.com/jpmorgan-not-bullish-on-crypto-for-next-year/",
-    "description": "In the world of cryptocurrencies, the anticipation of market trends is akin to forecasting the weather in an alternate universe. JPMorgan, a leading name in global finance, is issuing a cautionary note for the crypto market in 2024, particularly concerning Bitcoin, the flagship of digital currencies. Despite the widespread excitement about the potential approval of [&#8230;]"
+    "date": "2023-12-14T20:32:55.000Z",
+    "title": "Generative Artificial Intelligence set to transform global business landscape in 2024",
+    "url": "https://www.cryptopolitan.com/generative-ai-on-global-business-landscape/",
+    "description": "In what promises to be a pivotal year for technological innovation, 2024 is poised to usher in a transformative era for generative artificial intelligence (AI). This emerging technology is primed to catalyze a radical shift across the global economic landscape, offering unprecedented capabilities, accessibility, and scalability.&#160; As businesses increasingly recognize its vast potential, advanced generative [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-14T20:00:44.000Z",
-    "title": "Here’s how DeFi users can predict future returns with crypto bonds",
-    "url": "https://www.crypto-news-flash.com/heres-how-defi-users-can-predict-future-returns-with-crypto-bonds/?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-defi-users-can-predict-future-returns-with-crypto-bonds",
-    "description": "<img width=\"1920\" height=\"1276\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/finance-1074727_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/finance-1074727_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/finance-1074727_1920-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/finance-1074727_1920-1024x681.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/finance-1074727_1920-104x69.jpg 104w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />The digital bonds hold the potential for significant advancement and contribute to the ongoing maturation of the cryptocurrency ecosystem. &#160; The Time Value of Money (TVM) depends on the concept of a dollar today being worth more than a dollar in the future. The idea is that money changes over time due to interest, inflation, [...]"
+    "source": "Cryptopolitan",
+    "date": "2023-12-14T20:23:32.000Z",
+    "title": "AI-driven cheat sheets and chatbots in product marketing",
+    "url": "https://www.cryptopolitan.com/ai-driven-cheat-sheets-and-chatbots/",
+    "description": "In the realm of product marketing, two indispensable tools have emerged as game-changers, offering efficiency and effectiveness like never before.&#160; Cheat Sheets and Chatbots have risen to prominence, and their evolution has been significantly accelerated by the application of artificial intelligence (AI). This article delves into the pivotal role of these tools and how AI [&#8230;]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2023-12-14T19:55:00.000Z",
-    "title": "Ex-Credit Suisse Executive Launches Crypto Trading Platform for Banks",
-    "url": "https://coinedition.com/ex-credit-suisse-executive-launches-crypto-trading-platform-for-banks/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/BANK-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/BANK-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/BANK-1-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>David Riegelnig, a former Credit Suisse AG private banking executive, has launched a cryptocurrency trading platform aimed at banks and securities firms, Bloomberg reported Thursday. The report stated the move is a strategic effort to capitalize on the increasing interest in digital assets from traditional financial institutions outside the United States.  Indeed, Riegelnig, in 2015, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ex-credit-suisse-executive-launches-crypto-trading-platform-for-banks/\">Ex-Credit Suisse Executive Launches Crypto Trading Platform for Banks</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-12-14T20:23:25.000Z",
+    "title": "Los Angeles cryptocurrency scam leads to federal Indictment of four individuals",
+    "url": "https://www.cryptopolitan.com/los-angeles-scam-indictment-four-individuals/",
+    "description": "Four individuals in Los Angeles have been indicted for their alleged involvement in a sophisticated money laundering scheme related to cryptocurrency investment scams. The U.S. Department of Justice (DOJ) revealed that this scheme involved the use of shell companies and bank accounts to launder over $80 million, which was deceitfully obtained from victims through fraudulent [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-14T19:45:05.000Z",
-    "title": "KuCoin Forced To Exit New York After Settling State Attorney General’s Lawsuit for $22,000,000",
-    "url": "https://dailyhodl.com/2023/12/14/kucoin-forced-to-exit-new-york-after-settling-state-attorney-generals-lawsuit-for-22000000/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/kucoin-forced-to-exit.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto exchange KuCoin will cease operating in New York as part of an agreement to settle a lawsuit accusing the Seychelles-based platform of failing to register as a securities and commodities broker-dealer. In a new statement, the office of New York Attorney General Letitia James says KuCoin must pay the state a $5.3 million penalty [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/14/kucoin-forced-to-exit-new-york-after-settling-state-attorney-generals-lawsuit-for-22000000/\">KuCoin Forced To Exit New York After Settling State Attorney General’s Lawsuit for $22,000,000</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-12-14T20:17:26.000Z",
+    "title": "Putin faces AI’s tough questions on doubles and AI dangers",
+    "url": "https://www.cryptopolitan.com/putin-faces-ais-tough-questions/",
+    "description": "Russian President Vladimir Putin faced an unexpected question during his annual news conference as an AI-generated version of himself posed a query about artificial intelligence and the existence of body doubles. AI &#8216;double&#8217; questions Putin During his annual news conference, Russian President Vladimir Putin encountered an unexpected and intriguing moment when an AI-generated version of [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-14T19:41:47.000Z",
-    "title": "Ledger Hardware Wallet Announces Critical Security Vulnerability, Urges Users To Pause Interacting With DApps",
-    "url": "https://dailyhodl.com/2023/12/14/ledger-hardware-wallet-announces-critical-security-vulnerability-urges-users-to-pause-interacting-with-dapps/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/11/Files-Trademark-crypto-wallet.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto firm Ledger is warning users about a crucial exploit, urging them to pause their hardware wallet interactions with decentralized applications (DApps). In a new thread on the social media platform X, Ledger says that it has found, identified, and replaced a malicious version of its connect kit, a piece of code used to connect [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/14/ledger-hardware-wallet-announces-critical-security-vulnerability-urges-users-to-pause-interacting-with-dapps/\">Ledger Hardware Wallet Announces Critical Security Vulnerability, Urges Users To Pause Interacting With DApps</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-12-14T20:14:56.000Z",
+    "title": "Janet Yellen still striving to mend US-China relationship",
+    "url": "https://www.cryptopolitan.com/janet-yellen-striving-to-mend-us-china/",
+    "description": "U.S. Treasury Secretary Janet Yellen is choreographing a careful yet forward-moving approach towards managing the US-China relationship in the coming year. Her strategy, outlined during a recent event hosted by the US-China Business Council, underscores the United States&#8217; commitment to maintaining robust ties with China, the world&#8217;s second-largest economy, despite the complexities and challenges that [&#8230;]"
   }
 ]

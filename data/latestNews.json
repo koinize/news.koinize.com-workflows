@@ -1,121 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-14T16:47:37.000Z",
-    "title": "What We Know About the Massive Ledger Hack",
-    "url": "https://www.coindesk.com/consensus-magazine/2023/12/14/what-we-know-about-the-massive-ledger-hack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest crypto exploit, affecting security firm Ledger and a number of popular DeFi protocols, is a moment of levity for some."
+    "source": "CryptoSlate",
+    "date": "2023-12-14T17:20:44.000Z",
+    "title": "Tether freezes Ledger exploiter’s address",
+    "url": "https://cryptoslate.com/tether-freezes-ledger-exploiters-address/",
+    "description": "<p>In a move to mitigate the aftermath of the recent Ledger Connect Kit hack, Tether has proactively frozen the hacker&#8217;s address. Tether CEO Paolo Ardoino announced the freeze on social media hours after the hacker stole roughly $484,000 through a wallet drainer. The move aims to prevent further unauthorized transactions and safeguard the assets of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-freezes-ledger-exploiters-address/\">Tether freezes Ledger exploiter’s address</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "CoinDesk",
-    "date": "2023-12-14T16:45:00.000Z",
-    "title": "Crypto for Advisors: ETH Staking in 2024",
-    "url": "https://www.coindesk.com/business/2023/12/14/crypto-for-advisors-eth-staking-in-2024/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "In today's issue of Crypto for Advisors, we share what advisors need to know about how ETH staking works and what’s coming."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2023-12-14T16:46:38.000Z",
-    "title": "Nintendo Switch 2 Preview: Everything You Need to Know",
-    "url": "https://decrypt.co/197793/nintendo-switch-2-rumors-leaks-latest-news",
-    "description": "UPDATE: Will the Nintendo Switch 2 get Grand Theft Auto 6? Technical experts weigh in on whether the hardware can even handle GTA 6."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-14T16:51:54.000Z",
-    "title": " Why is Solana (SOL) price up this week? ",
-    "url": "https://cointelegraph.com/news/why-is-solana-price-up-this-week",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTAvMGI5ODY4NjktYWFhMi00ZDZmLTlkMTYtNzc1NDhlNGI4ZTcwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The recovery in SOL price appears to be driven by SPL tokens and a surge in DeFi and NFT activity </p>\n                    <p><p>Solana's native token (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) gained 5.5% on Dec. 13, reclaiming the $72 support level. Over the past four days, it experienced a 16.7% correction, dropping from a high of $77.80 on Dec. 9 to a low of $63.75. The question is whether the factors driving this recovery will continue to support recent gains.</p><p>The rally in SOL was fueled by three factors, in addition to the U.S. Federal Reserve's announcement on Dec. 13 of three interest rate cuts throughout 2024. Reduced returns on fixed-income investments are typically seen as bullish for risk-on assets like cryptocurrencies.</p><p>During a Dec. 12 <a href=\"https://www.cnbc.com/video/2023/12/12/binance-founder-changpeng-zhao-will-be-going-to-jail-says-cftc-chair-russ-behnam.html\" target=\"_blank\" rel=\"noopener nofollow\">interview</a> on CNBC, Commodities Futures Trading Commission (CFTC) Chair Rostin Behnam mentioned that the \"turf war\" among various regulatory agencies is hindering the establishment of clear guidelines for the sector. Behnam believes that most tokens are commodities under existing laws and expects the crypto market to persist.</p><p><a href=\"https://cointelegraph.com/news/why-is-solana-price-up-this-week\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-14T16:48:33.000Z",
-    "title": " Ledger breach possibly affecting whole EVM ecosystem — Linea ",
-    "url": "https://cointelegraph.com/news/ledger-breach-possibly-affecting-whole-evm-ecosystem-linea",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYTI3ODlmNmUtYWFmOS00ZDkyLWI2ZGItOWFjNTk4ZDI5YWFkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Wallet provider MetaMask was also affected by the incident. Ledger released a patch to resolve the issue but warned users to wait 24 hours before using its connector library again.</p>\n                    <p><p>The attack on Ledger's connector library may be impacting the whole Ethereum Virtual Machine (EVM) ecosystem, <a href=\"https://twitter.com/LineaBuild/status/1735302830888567049\" target=\"_blank\" rel=\"noopener nofollow\">according</a> to the Linea team, a zero-knowledge rollup by Consensys. </p><p>The hacker targeted the Ledger connector library, which was designed to enable communication between Ledger hardware wallets and various decentralized applications (DApps). Wallet provider MetaMask has also been affected by the security incident. </p><p>Blockchain analytics platform Lookonchain claimed the hacker had stolen assets worth nearly $484,000, but the impact of the security breach could be bigger, noted Ledger. </p><p><a href=\"https://cointelegraph.com/news/ledger-breach-possibly-affecting-whole-evm-ecosystem-linea\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-12-14T17:03:00.000Z",
-    "title": "Solana-Based Memecoin BONK Surges over 52% After Coinbase Listing",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/solana-based-memecoin-bonk-surges-over-52-after-coinbase-listing/",
-    "description": "Solana-based meme-inspired cryptocurrency BONK has kept on outperforming the broader cryptocurrency market over the last 24 hours after surging more than 52%, leading its year-to-date gains to 1,350%. The cryptocurrency’s price recently rose after Nasdaq-listed cryptocurrency exchange Coinbase announced it was listing BONK on the Solana network, further boosting its performance amid a wider cryptocurrency […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-14T17:03:58.000Z",
-    "title": "How Fintech is Driving More Convenient Payments for Gamers",
-    "url": "https://cryptodaily.co.uk/2023/12/how-fintech-is-driving-more-convenient-payments-for-gamers",
-    "description": "In the ever-evolving landscape of gaming, fintech is emerging as a game-changer, driving unparalleled convenience in the realm of payments for gamers."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-14T16:53:15.000Z",
-    "title": "Two altcoins breaking out in crypto bull market",
-    "url": "https://cryptodaily.co.uk/2023/12/two-altcoins-breaking-out-in-crypto-bull-market",
-    "description": "With bitcoin looking to reach new yearly highs, several altcoins are primed for their own breakouts. Render (RNDR), and Fetch.ai (FET) are currently leading the way."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-14T16:59:15.000Z",
-    "title": "Swap on StealthEX and Win a Special Christmas Giveaway!",
-    "url": "https://cryptodaily.co.uk/2023/12/swap-on-stealthex-and-win-a-special-christmas-giveaway",
-    "description": "This Christmas, StealthEX brings more than just the festive cheer – we're offering a chance to win big! Dive into the holiday spirit with our exclusive Christmas giveaway."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-14T16:57:34.000Z",
-    "title": "Crypto Whales Are Hunting for High Utility Projects with Solana and Everlodge Tagged as Favourites",
-    "url": "https://cryptodaily.co.uk/2023/12/crypto-whales-are-hunting-for-high-utility-projects-with-solana-and-everlodge-tagged-as-favourites",
-    "description": "Crypto whales are turning their attention toward high-utility projects, and it seems Solana has become a favourite hunting ground"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-14T16:43:18.000Z",
-    "title": "Ethereum (ETH) Leads the Charge: Can Litecoin (LTC) and Polkadot (DOT) Keep Up?",
-    "url": "https://cryptodaily.co.uk/2023/12/ethereum-eth-leads-the-charge-can-litecoin-ltc-and-polkadot-dot-keep-up",
-    "description": "Join StealthEX's $1,000 Festive Giveaway and dive into our analysis of how the Federal Reserve's decision might boost Ethereum (ETH), Litecoin (LTC), and Polkadot (DOT) in 2024. Discover insights on ETFs, mining milestones, and market predictions."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-14T17:00:16.000Z",
-    "title": "Bitcoin Transaction Fees Spike Amid Rising Backlog and Relentless Ordinal Inscription Trend",
-    "url": "https://news.bitcoin.com/bitcoin-transaction-fees-spike-amid-rising-backlog-and-relentless-ordinal-inscription-trend/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Transaction Fees Spike Amid Rising Backlog and Relentless Ordinal Inscription Trend\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/zztoppssppd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin transaction fees have surged again. On Dec. 6, 2023, bitinfocharts.com reported that the average cost of a bitcoin transaction soared to $27.55. Presently, the average transaction fee hovers around $13.93, alongside a growing backlog of unconfirmed transactions, currently at 249,000 at the time of this report. Rising Backlog Drives Sharp Increase in Bitcoin Transaction [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2023-12-14T17:13:59.000Z",
+    "title": "Russia to treat export of crypto mining as a commodity",
+    "url": "https://cryptobriefing.com/russia-to-treat-export-of-crypto-mining-as-a-commodity/?utm_source=feed&utm_medium=rss",
+    "description": "If Russia's proposed bill becomes law, it could reshape geopolitics by allowing the country to convert its energy resources into mined crypto"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T17:02:05.000Z",
-    "title": "Microsoft Introduces Copilot AI to Windows 10: Limited Rollout Begins",
-    "url": "https://www.cryptopolitan.com/microsoft-introduce-copilot-ai-to-windows-10/",
-    "description": "Microsoft has rolled out its Copilot AI in a recent cumulative update for Windows 10, but not all users will have immediate access to it. The update, known as patch KB5033372, not only introduces Copilot but also includes security fixes and additional features. However, there are some caveats and limitations to be aware of. Limited [&#8230;]"
+    "date": "2023-12-14T17:32:09.000Z",
+    "title": "Pope Calls for International Treaty to Regulate Artificial Intelligence",
+    "url": "https://www.cryptopolitan.com/pope-calls-for-international-treaty-to-regulate-artificial-intelligence/",
+    "description": "Pope Francis has issued a compelling call for an international treaty to regulate the development and ethical use of artificial intelligence (AI). In his annual message for the World Day of Peace, the Pope emphasized the urgent need for AI to align with human values such as compassion, mercy, morality, and forgiveness. This appeal comes [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T17:00:49.000Z",
-    "title": "First Judicial Guidance Issued for AI Use in Courts in England and Wales",
-    "url": "https://www.cryptopolitan.com/first-judicial-guidance-for-ai-use-in-courts/",
-    "description": "In a groundbreaking move, four senior members of the judiciary have issued the first-ever judicial guidance on the use of artificial intelligence (AI) in the courts of England and Wales. This historic development comes after a meticulous consultation process with various judicial officeholders and aims to provide judges with clear guidelines on how they can [&#8230;]"
+    "date": "2023-12-14T17:31:44.000Z",
+    "title": "AI in Education: Transforming Learning for a Future-Ready Generation",
+    "url": "https://www.cryptopolitan.com/ai-in-education-transforming-learning/",
+    "description": "The adoption of artificial intelligence (AI) in education is reshaping traditional learning and teaching methods, ushering in a transformative trend with far-reaching implications. In the rapidly evolving landscape of educational technology, the integration of AI tools into classrooms is seen as an essential step to bridge the gap between students, educators, and revolutionary AI-driven tools. [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-14T16:54:38.000Z",
-    "title": "An Approach Enhances Robot Learning Via Human Demonstration",
-    "url": "https://www.cryptopolitan.com/enhance-robot-learning-human-demonstration/",
-    "description": "In a groundbreaking collaboration, researchers from the University of British Columbia, Carnegie Mellon University, Monash University, and the University of Victoria have developed a novel method to significantly improve the efficiency of robots learning from human demonstrations. The study, recently posted on the arXiv preprint server, introduces a revolutionary approach that empowers non-expert human teachers [&#8230;]"
+    "date": "2023-12-14T17:30:04.000Z",
+    "title": "Google Offers Free Access to Gemini Pro for Developers",
+    "url": "https://www.cryptopolitan.com/google-offers-free-access-to-gemini-pro/",
+    "description": "Google has unveiled Gemini, a cutting-edge AI model lineup that includes Ultra, Pro, and Nano variants. Of particular interest to developers and enterprises is Gemini Pro, which promises advanced AI capabilities for applications. Gemini pro: Empowering developers with advanced AI Gemini Pro represents a significant leap forward in AI capabilities. It excels in processing text [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-14T16:53:31.000Z",
-    "title": "North Korea’s Lazarus behind $300m in 2023 crypto losses",
-    "url": "https://crypto.news/north-koreas-lazarus-behind-300m-in-2023-crypto-losses/",
-    "description": "Lazarus group orchestrated nearly 17% of all crypto hacks throughout 2023, mainly targeting centralized platforms like exchanges."
+    "source": "Crypto News Flash",
+    "date": "2023-12-14T17:25:05.000Z",
+    "title": "Dogecoin Could Become Payment Currency for Tesla Cybertruck",
+    "url": "https://www.crypto-news-flash.com/dogecoin-could-become-payment-currency-for-tesla-cybertruck/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-could-become-payment-currency-for-tesla-cybertruck",
+    "description": "<img width=\"640\" height=\"426\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Dogecoin is mentioned in Tesla Cybertruck source code, potentially pointing to DOGE payments for its electric pickup truck. Elon Musk backs Dogecoin, which is showing a rise in the market as speculation about its use in Tesla purchases. There are rumors that could be a game changer for Dogecoin (DOGE) and for all those eagerly [...]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2023-12-14T17:00:50.000Z",
-    "title": "SHIB Roars As Shibarium Hits 100 Million Transactions – Big Things Unfolding",
-    "url": "https://www.newsbtc.com/news/shib-roars-as-shibarium-hits-100-million-transactions-big-things-unfolding/",
-    "description": "Shiba Inu’s layer-2 blockchain Shibarium has breached the 100 million transaction milestone. This brought more exposure to SHIB which has led to a big jump in price. According to Coingecko, the token is up nearly 8% in the weekly, with the biggest bump happening in the bi-weekly timeframe at 23%.  Shibarium’s recent achievement isn’t the only thing positive on SHIB this week. With the broader market seemingly ending the year on the green, Shiba Inu aims to follow suit.  Shibarium In The New Age According to Shibariumscan, the L2 chain has been experiencing an exponential jump since its official launch back in August this year.  Related Reading: Solana Shows Its Mettle As SOL Barrels Past $70 – Details Today, December 14, daily transactions reached 7.36 million with the total transactions processed reaching 105.2 million. This growth can be attributed to the dev team’s recent activities behind the scenes.  Source: Shibariumscan This year, Shibarium is set to transition from the Goerli Network to the Sepolia Network as its layer 1 chain.  “This strategic shift is instrumental in ensuring that developers have access to a reliable and consistent platform for testing their dApps and smart contracts. This is planned to go live [on] December 15th, 2023 by which the current Puppynet will stop working,” the dev team announced earlier this month. SHIB market cap currently at $5.909 billion. Chart: TradingView.com According to the blog post, SHIB burns come in two phases: manual and automatic. As of writing, Shibarium is in the manual phase with an estimated 3 massive manual burns coming this month. This would further decrease the supply available on the market, placing upward pressure on SHIB’s price. Related Reading: OKX DEX Loses Over $400,000 To Hackers – What Happens To Customer Funds? Another influence on SHIB’s price is the broader market rally observed in the past few days. Coingecko data shows that the market is up nearly 6% in the daily timeframe. If this trend continues, SHIB will continue to give gains to the bulls.  Bulls Aim To Knock Another Zero Off SHIB is currently on its way to knock another zero off of its price as the bulls break through the $0.00000997 price level. If the bulls can stabilize the token at this price point, further gains can be speculated shortly.  However, the over-reliance of SHIB’s price action on major coins like ETH and BTC might be a problem in the long term. As of writing, the market’s current trajectory is held only Bitcoin’s very bullish past few days. If this streak ends, SHIB will face a very bloody week.  Featured image from Shutterstock"
+    "source": "Coin Edition",
+    "date": "2023-12-14T17:40:00.000Z",
+    "title": "Legal Expert Contests Claims of Lawsuit Restraining XRP’s Growth",
+    "url": "https://coinedition.com/legal-expert-contests-claims-of-lawsuit-restraining-xrps-growth/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/Should-investors-hope-for-more-after-XRP-takes-the-lead-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bill Morgan, a prominent attorney known in the crypto community for his pro-XRP stance, is now challenging the widely held belief among the XRP Army that the regulatory lawsuit significantly impacted the price of XRP. In a recent tweet, a researcher from 3T Warrior Academy proposed that XRP is in the process of forming the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/legal-expert-contests-claims-of-lawsuit-restraining-xrps-growth/\">Legal Expert Contests Claims of Lawsuit Restraining XRP’s Growth</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

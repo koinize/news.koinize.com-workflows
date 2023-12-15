@@ -1,58 +1,86 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-15T09:56:00.000Z",
-    "title": " What are stealth addresses, and how do they work? ",
-    "url": "https://cointelegraph.com/explained/what-are-stealth-addresses-and-how-do-they-work",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNDI1YTQxYjNiOTc4MzU1ZDdkZTQzNzRkOGM3YWI2NS5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Stealth addresses in cryptocurrencies act like secret codes for transactions, providing enhanced privacy by generating unique addresses for each payment.</p>\n                    <p><p data-ct-widget=\"explained-block-content\">                </p><p><em>The purpose of crypto stealth addresses is to enable privacy for each transaction, concealing the recipient’s identity and transaction history.</em></p><p>Crypto stealth addresses are a privacy-enhancing feature in <a href=\"https://cointelegraph.com/learn/how-does-blockchain-work-everything-there-is-to-know\">blockchain technology</a> that lets users receive money anonymously. Unlike conventional public addresses, stealth addresses provide distinct, one-time addresses for every transaction. The recipient’s actual address is kept secret when a sender transfers funds using a stealth address; the transaction is broadcast to the network. </p><p><a href=\"https://cointelegraph.com/explained/what-are-stealth-addresses-and-how-do-they-work\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-15T09:40:58.000Z",
-    "title": " Crypto under greater focus in 99% of companies: Paxos survey ",
-    "url": "https://cointelegraph.com/news/crypto-under-greater-focus-99-of-companies-paxos-survey",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvM2I5YTc5M2MtZWEwYS00ZGQ4LThiYjItNGYyMzdmYjEyM2E3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Fifty-six percent of survey respondents said that the complexity of implementation is the largest hurdle to launching a crypto solution. </p>\n                    <p><p>While a large majority of enterprises are adopting crypto solutions, these institutional players also recognize the challenges of adopting this new technology, according to a new report.</p><p>Crypto firm Paxos surveyed 400 executives from United States-based financial services companies with at least five million users and $50 billion in assets under management or $50 billion annual payments volume. </p><p>The crypto firm published the results in its <em>“2023 Enterprise Digital Asset Adoption Report,” </em>showing that financial services firms are still deeply interested in digital assets and blockchain technology. </p><p><a href=\"https://cointelegraph.com/news/crypto-under-greater-focus-99-of-companies-paxos-survey\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-12-15T09:59:43.000Z",
-    "title": "Solana Saga Phone Sales Skyrocket Due to $BONK Token Airdrop FOMO",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/solana-saga-phone-sales-skyrocket-due-to-bonk-token-airdrop-fomo/",
-    "description": "The Solana Saga smartphone, once facing sluggish sales, has recently experienced a sales boom, largely thanks to an intriguing offer involving the BONK token. This resurgence is attributed to a lucrative airdrop of 30 million BONK tokens available to each new owner of the phone, presenting an enticing arbitrage opportunity. The BONK token airdrop, estimated […]\n"
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:39:47.000Z",
+    "title": "Government Report Raises Alarm Over AI’s Potential Threat to Financial Stability",
+    "url": "https://www.cryptopolitan.com/government-report-ais-threat-financial/",
+    "description": "In a revelation, the Financial Stability Oversight Council (FSOC) has, for the first time, identified artificial intelligence (AI) as a potential risk to the nation&#8217;s financial stability. Released in its annual report, the FSOC, comprising key figures such as Treasury Secretary Janet Yellen, Federal Reserve Chair Jerome Powell, and Securities and Exchange Commission Chair Gary [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-15T10:00:21.000Z",
-    "title": "Brazil imposes new tax on overseas crypto holdings",
-    "url": "https://www.cryptopolitan.com/brazil-imposes-new-tax-on-overseas-crypto/",
-    "description": "In a significant move, Brazilian President Luis Inácio Lula da Silva has signed a new law imposing taxes on cryptocurrency assets held abroad by Brazilian citizens. The law, signed on December 12 and published in the Diário Oficial da União the following day, will take effect on January 1, 2024. This groundbreaking legislation is not [&#8230;]"
+    "date": "2023-12-15T10:36:18.000Z",
+    "title": "Ripple eyes $7.5 trillion forex market with BIS project mariana",
+    "url": "https://www.cryptopolitan.com/ripple-eyes-7-5-trillion-forex-market/",
+    "description": "In a significant move towards the future of finance, Ripple, a leading player in the blockchain and digital payment sector, is setting its sights on the foreign exchange market, currently valued at an astonishing $7.5 trillion daily trade volume. This move parallels the ambitions of the Bank for International Settlements (BIS) through its innovative Project [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:33:13.000Z",
+    "title": "Harry Kane Partners with Google AI Tool Bard for Munich Transition",
+    "url": "https://www.cryptopolitan.com/harry-kane-partners-with-google-ai-tool-bard/",
+    "description": "English football star Harry Kane, who recently made a high-profile move from Tottenham Hotspur to Bayern Munich in August for a staggering £100 million, has teamed up with Google&#8217;s AI tool, Bard. The purpose of this collaboration is to assist Kane&#8217;s family in settling into their new life in Munich, Germany. Since his transfer, Kane [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:25:25.000Z",
+    "title": "Controversy Surrounds Arcadian Atlas Kickstarter Game’s Artwork",
+    "url": "https://www.cryptopolitan.com/arcadian-atlas-kickstarter-games-artwork/",
+    "description": "Arcadian Atlas, an indie game that successfully raised $95,000 through a Kickstarter campaign, has recently come under scrutiny due to allegations of artwork tracing from the classic Tactics Ogre game.&#160; A Twitter user&#8217;s side-by-side comparison of the two artworks has ignited discussions about potential plagiarism, and the situation has reportedly led to the removal of [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:24:47.000Z",
+    "title": "Indonesia to Introduce Regulations for Responsible AI Use",
+    "url": "https://www.cryptopolitan.com/indonesia-to-introduce-regulations-for-responsible-ai-use/",
+    "description": "The Indonesian government is set to unveil a comprehensive regulation governing the utilization of artificial intelligence (AI) shortly. Indonesian Minister of Communication and Informatics, Budi Arie Setiadi, confirmed this development, emphasizing the need to strike a balance between fostering innovation and safeguarding democracy, the rule of law, and fundamental rights. Regulation aimed at mitigating risks [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:23:59.000Z",
+    "title": "Witcher 2: “Woe to the Vanquished” Quest Guide",
+    "url": "https://www.cryptopolitan.com/witcher-2-woe-to-the-vanquished-quest-guide/",
+    "description": "Amid the intricate narrative of The Witcher 2: Assassins of Kings, players encounter a pivotal quest known as &#8220;Woe to the Vanquished.&#8221; This quest unfolds during the &#8220;To the Temple&#8221; questline, when Geralt of Rivia is tasked with finding a way into the castle temple by King Foltest. The village confrontation As players traverse the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-15T10:17:48.000Z",
+    "title": "Microsoft’s Merger with Activision Blizzard Propels Xbox Ahead of Sony’s PlayStation",
+    "url": "https://www.cryptopolitan.com/microsofts-merger-propels-xbox/",
+    "description": "Microsoft&#8217;s long-awaited merger with gaming giant Activision Blizzard has finally come to fruition, marking a significant turning point in the gaming industry. With the merger now complete, Microsoft&#8217;s Xbox division is poised to surpass Sony&#8217;s PlayStation in overall revenue.&#160; This historic development, which was initially announced in January 2022, carries a combined revenue of $10.4 [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-15T10:38:08.000Z",
+    "title": "Ledger eliminated exploit, company’s CEO comments on situation",
+    "url": "https://crypto.news/ledger-eliminated-exploit-companys-ceo-comments-on-situation/",
+    "description": "Ledger announced that it had completely removed the exploit and replaced the hacked library. Ledger team noted that it had successfully replaced the hacked library with a fixed one. The malicious code has allegedly been deactivated, and the Ledger Connect&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-15T10:06:12.000Z",
-    "title": "This Is the Cheapest Way to Trade on Uniswap with Low Fees",
-    "url": "https://www.crypto-news-flash.com/this-is-the-cheapest-way-to-trade-on-uniswap-with-low-fees/?utm_source=rss&utm_medium=rss&utm_campaign=this-is-the-cheapest-way-to-trade-on-uniswap-with-low-fees",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T130548.050.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T130548.050.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T130548.050-300x169.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Uniswap dominates the DEX landscape on Ethereum, Arbitrum and most other chains where it’s deployed. It’s where memecoins are launched, low cap gems are found, and liquidity lies. If you’re doing serious trading onchain, you can’t avoid Uniswap. There’s just one problem: Uniswap is expensive. Every time you make a trade on Unswapi, you’re hit [...]"
+    "date": "2023-12-15T10:32:52.000Z",
+    "title": "Solana Tops Ethereum In NFT Sales, New AI AltcoinTargets 1000% Growth to $0.1575",
+    "url": "https://www.crypto-news-flash.com/solana-tops-ethereum-in-nft-sales-new-ai-altcointargets-1000-growth-to-0-1575/?utm_source=rss&utm_medium=rss&utm_campaign=solana-tops-ethereum-in-nft-sales-new-ai-altcointargets-1000-growth-to-0-1575",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-115.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-115.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-115-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />According to data, Solana, a blockchain company, has been recording better NFT sales than previously experienced with Ethereum. Solana’s sales of the coolest NFTs have increased by 2.58% and reached almost 15.39 million USD lately, while Ethereum’s NFT sales went down to 11.435 million USD and decreased approximately by 23%. The recently launched AI altcoin [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-15T10:04:30.000Z",
-    "title": "Polkadot (DOT) Rockets to New Heights Amid Altseason Surge",
-    "url": "https://www.crypto-news-flash.com/polkadot-dot-rockets-to-new-heights-amid-altseason-surge/?utm_source=rss&utm_medium=rss&utm_campaign=polkadot-dot-rockets-to-new-heights-amid-altseason-surge",
-    "description": "<img width=\"1280\" height=\"721\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Polkadot.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polkadot\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Polkadot.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Polkadot-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Polkadot-1024x577.jpg 1024w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Polkadot (DOT) surged from $5.4 to $7.20 despite a 2.44% drop, sparking optimism for a $18.63 peak. Bitcoin&#8217;s 8% correction triggered a marketwide re-evaluation, with altcoins outperforming BTC. Polkadot (DOT) has emerged as a standout performer in the cryptocurrency market, scaling new heights as altcoins take center stage in what some traders are dubbing an [...]"
+    "date": "2023-12-15T10:30:28.000Z",
+    "title": "Bitcoin: 31% Supply Inactive for 5+ Years; Twitter Buzzes with New AI Token",
+    "url": "https://www.crypto-news-flash.com/bitcoin-31-supply-inactive-for-5-years-twitter-buzzes-with-new-ai-token/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-31-supply-inactive-for-5-years-twitter-buzzes-with-new-ai-token",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-114.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-114.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-114-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-114-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />A recent Bitcoin (BTC) discovery has been stirring up discussions within the crypto community. This discovery showed that 31% of the Bitcoin supply has been dormant for over five years. This historical data indicates a growing trend towards long-term holding. Meanwhile, InQubeta (QUBE), a new AI altcoin, is presently at the heart of the current [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-15T09:43:37.000Z",
-    "title": "Dogecoin’s Meme Magic: Price Poised for 8% Surge Amid Investor Excitement",
-    "url": "https://www.crypto-news-flash.com/dogecoins-meme-magic-price-poised-for-8-surge-amid-investor-excitement/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoins-meme-magic-price-poised-for-8-surge-amid-investor-excitement",
-    "description": "<img width=\"1200\" height=\"680\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/dogecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/05/dogecoin.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/dogecoin-300x170.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/dogecoin-1024x580.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/05/dogecoin-768x435.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Dogecoin (DOGE) has established a trading range between $0.0927 and $0.1060, with a potential 8.80% gain if it rebounds from the four-hour demand zone. The recent surge of 183% in Bonk Inu (BONK), a Solana-based meme coin, within 30 hours, may act as a catalyst for a rapid uptrend in DOGE. The current trading price [...]"
+    "date": "2023-12-15T10:16:41.000Z",
+    "title": "Investors Shift Away from Decentraland (MANA) and Immutable (IMX), Eyeing VC Spectra for Greater Prospects",
+    "url": "https://www.crypto-news-flash.com/investors-shift-away-from-decentraland-mana-and-immutable-imx-eyeing-vc-spectra-for-greater-prospects/?utm_source=rss&utm_medium=rss&utm_campaign=investors-shift-away-from-decentraland-mana-and-immutable-imx-eyeing-vc-spectra-for-greater-prospects",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T131618.173.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T131618.173.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T131618.173-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-15T131618.173-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Recently, there has been a notable transition as investors veer away from established players like Decentraland (MANA) and Immutable (IMX). Many established investors are now focusing on the emerging potential of newcomers like VC Spectra (SPCT). While it’s a new entrant, VC Spectra (SPCT) has outdone itself, having raised $2.4 million in its private seed [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2023-12-15T10:07:33.000Z",
-    "title": "Top 5 Twitter Accounts to Learn About On-chain Research",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-5-twitter-accounts-to-learn-about-on-chain-research/",
-    "description": "<p>The crypto world gathers at the social media watering hole, and Twitter is the hotspot for the freshest news and crypto wisdom. Diving into the wisdom shared by top on-chain research entities on Twitter is a stellar approach for those seeking practical insights to up their decision-making game. Similar to how a carefully curated Twitter [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-5-twitter-accounts-to-learn-about-on-chain-research/\">Top 5 Twitter Accounts to Learn About On-chain Research</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2023-12-15T10:15:27.000Z",
+    "title": "Trader Says Top-10 Blue-Chip Altcoin on the Cusp of a Breakout, Updates Outlook on Bitcoin and Ethereum",
+    "url": "https://dailyhodl.com/2023/12/15/trader-says-top-10-blue-chip-altcoin-on-the-cusp-of-a-breakout-updates-outlook-on-bitcoin-and-ethereum/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Chip-Altcoin-on-the-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto trader and analyst Ali Martinez is saying that a top-10 altcoin by market cap is potentially forming a bullish pattern and that it could appreciate by double-digit percentage points. Martinez tells his 35,500 followers on the X social media platform that Binance Coin (BNB) could be forming an inverted head and shoulders pattern, which [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/15/trader-says-top-10-blue-chip-altcoin-on-the-cusp-of-a-breakout-updates-outlook-on-bitcoin-and-ethereum/\">Trader Says Top-10 Blue-Chip Altcoin on the Cusp of a Breakout, Updates Outlook on Bitcoin and Ethereum</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

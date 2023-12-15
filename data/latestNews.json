@@ -1,93 +1,72 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-15T17:58:24.000Z",
-    "title": " Arbitrum network goes offline for at least 2 hours ",
-    "url": "https://cointelegraph.com/news/arbitrum-network-goes-offline-december-15",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMTE3MmI0ZGMtM2EzZC00OTA0LTkxZDYtYzZiMzZlNDYxZWVjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Arbitrum One network stopped producing blocks at 10:29 am ET (13:29 UTC), according to an alert issued by the block explorer.</p>\n                    <p><p data-ct-non-breakable=\"true\">Ethereum layer-2 network Arbitrum One has experienced a partial outage, according to an alert on the network’s official status website.</p><p>The sequencer “stalled” at 10:29 am ET (13:29 UTC) during a “significant surge in network traffic,” according to the alert. Arbitrum’s block explorer, Arbiscan, <a href=\"https://arbiscan.io/blocks\" target=\"_blank\" rel=\"noopener nofollow\">shows</a> that some blocks are being produced. However, they appear to be only <a href=\"https://arbiscan.io/block/160387089\" target=\"_blank\" rel=\"noopener nofollow\">processing</a> two transactions in each block.</p><p data-ct-non-breakable=\"true\">Some users took to X (Twitter) to <a href=\"https://twitter.com/0xMert_/status/1735695772589478323\" target=\"_blank\" rel=\"noopener nofollow\">speculate</a> about whether the outage was caused by inscriptions, as this would explain the small number of transactions in each block. However, this has not been confirmed by the team. Inscriptions are a type of data format used in some blockchain networks and are often used to carry collectible images. Inscriptions originated on Bitcoin but have recently been used on Arbitrum thanks to the MemeOrdi protocol.</p><p><a href=\"https://cointelegraph.com/news/arbitrum-network-goes-offline-december-15\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2023-12-15T18:20:00.000Z",
+    "title": "Coinbase Plans to Challenge SEC Denial of Crypto Rulemaking Petition",
+    "url": "https://decrypt.co/209997/coinbase-plans-challenge-sec-denial-crypto-rulemaking",
+    "description": "The SEC today denied crypto exchange Coinbase's petition to clarify new crypto rules for the digital assets industry. Coinbase isn't taking \"no\" for an answer."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-15T18:12:51.000Z",
+    "title": "Ethereum Scaler Arbitrum Suffers Outage—Are Inscriptions to Blame?",
+    "url": "https://decrypt.co/209996/ethereum-scaler-arbitrum-suffers-outage-inscriptions-blame",
+    "description": "Arbitrum and other chains have recently been bombarded by users making \"inscriptions\" as on Bitcoin, even though such networks support NFTs."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-15T17:45:00.000Z",
-    "title": " Watchdog group doubles down on Circle-Tron money laundering claims ",
-    "url": "https://cointelegraph.com/news/watchdog-group-doubles-down-circle-tron-money-laundering-claims",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMWJjYWY2MjUtYzljMi00NDhkLWFjYjUtYWNlZjhjYjM5ZGU0LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Campaign for Accountability released a new open letter criticizing Circle’s Cross Chain Transfer Protocol.</p>\n                    <p><p data-ct-non-breakable=\"true\">Nonprofit ethics group Campaign for Accountability (CfA) has doubled down on its money laundering claims against Circle, <a href=\"https://www.documentcloud.org/documents/24223597-cfa-senate-banking-circle-reply-121423\" target=\"_blank\" rel=\"noopener nofollow\">publishing</a> a new open letter on Dec. 14 claiming that the USD Coin (<a href=\"https://cointelegraph.com/usdc-price-index\">USDC</a>) issuer is facilitating the funding of terrorist organizations.</p><p data-ct-non-breakable=\"true\">The CfA <a href=\"https://cointelegraph.com/news/ethics-watchdog-rats-out-circle-for-links-to-tron-in-letter-to-sens-warren-brown\">originally made these claims</a> on Nov. 9 in a letter to United States Senators Elizabeth Warren and Sherrod Brown. Circle <a href=\"https://cointelegraph.com/news/circle-denies-claims-illicit-financing-ties-justin-sun\">responded to the claims</a> on Nov. 11, claiming the allegations were based on uncorroborated, unverified social media posts.</p><p>The new letter was also addressed to the two U.S. senators and was signed by CfA executive director Michelle Kuppersmith. In the new letter, Kuppersmith took aim at Circle’s Cross Chain Transfer Protocol (CCTP), a blockchain protocol that allows users to transfer USDC between multiple networks, including Tron.</p><p><a href=\"https://cointelegraph.com/news/watchdog-group-doubles-down-circle-tron-money-laundering-claims\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-15T18:35:00.000Z",
+    "title": " SEC officials meet again with spot Bitcoin ETF filers ",
+    "url": "https://cointelegraph.com/news/sec-officials-meet-again-with-spot-bitcoin-etf-filers",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZjY4YzFkZmEtOTM5ZS00OGFkLThmOTktZGYwNjFmMDE2ZWQ2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Meetings between asset managers and the SEC intensified over the previous weeks, with Gary Gensler's team meeting with BlackRock and Hashdex representatives.</p>\n                    <p><p>The Securities and Exchange Commission (SEC) has held a new round of discussions with asset managers proposing a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) in the United States, this time with officials from Gary Gensler's office participating in the meetings.</p><p>Based on court filings, the regulator received representatives from BlackRock on Dec. 14 to discuss the proposed rule change that would enable the crypto investment vehicle to be traded on major exchanges. According to Bloomberg ETF analyst Jayme Seyffart, this is the third meeting between BlackRock and the SEC to review the application. </p><p>Meetings between asset managers and the SEC had intensified over the previous weeks. On Dec. 8, Grayscale and Franklin Templeton also sat down with regulators to go over their applications, a day after representatives of Fidelity <a href=\"https://cointelegraph.com/news/fidelity-sec-bitcoin-etf-application\">appeared before the SEC</a>. </p><p><a href=\"https://cointelegraph.com/news/sec-officials-meet-again-with-spot-bitcoin-etf-filers\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-12-15T18:00:04.000Z",
-    "title": "Korean central bank governor urges CBDC development to compete with stablecoins",
-    "url": "https://cryptoslate.com/korean-central-bank-governor-urges-cbdc-development-to-compete-with-stablecoins/",
-    "description": "<p>Bank of Korea Governor Chang-yong Rhee warned that the rise of stablecoins could pose a significant threat to the traditional roles of central bank money and impact the effectiveness of monetary policies, local media reported. Rhee made the statement at a conference on digital money in Seoul on Dec. 15. He added that central banks [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/korean-central-bank-governor-urges-cbdc-development-to-compete-with-stablecoins/\">Korean central bank governor urges CBDC development to compete with stablecoins</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cointelegraph",
+    "date": "2023-12-15T18:15:00.000Z",
+    "title": " SEC responds predictably to Coinbase’s 2022 crypto rulemaking petition: No ",
+    "url": "https://cointelegraph.com/news/sec-responds-coinbase-2022-crypto-rulemaking-petition",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYzQwM2NiNzMtYzM2ZS00NzFmLWJlZjYtMjdjYjAyMjNlOTM1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The existing laws are sufficient, and the agency is already doing what it considers necessary, according to chair Gensler.</p>\n                    <p><p>The United States Securities and Exchange Commission (SEC) has denied a Coinbase petition for a rulemaking on transactions with cryptocurrencies that are securities. Coinbase filed the petition in July 2022 and pushed steadily for a response.</p><p>SEC chair Gary Gensler <a href=\"https://www.sec.gov/news/statement/gensler-coinbase-petition-121523\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> the commission’s decision in a Dec. 15 statement. He gave three reasons for denying Coinbase’s petition, which <a href=\"https://www.sec.gov/files/rules/petitions/2022/petn4-789.pdf\" target=\"_blank\" rel=\"noopener nofollow\">requested</a> “rules to govern the regulation of securities that are offered and traded via digitally native methods, including potential rules to identify which digital assets are securities.”</p><p>Gensler first argued that existing laws and regulations already apply to crypto. His phrasing was nuanced:</p><p><a href=\"https://cointelegraph.com/news/sec-responds-coinbase-2022-crypto-rulemaking-petition\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2023-12-15T18:02:25.000Z",
-    "title": "CoinList pays $1.2M to OFAC for Ukraine sanction breaches",
-    "url": "https://cryptobriefing.com/coinlist-pays-1-2m-to-ofac-for-ukraine-sanction-breaches/?utm_source=feed&utm_medium=rss",
-    "description": "CoinList Settles with OFAC for $1.2 Million Over Sanctions Violations in Crimea, a move reflecting scrutiny in the cryptocurrency industry."
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-12-15T17:49:00.000Z",
-    "title": "Crypto Trader Makes $784,000 Profit After Solana-Based Memecoin BONK Surges 1,000% in a Month",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/crypto-trader-makes-784000-profit-after-solana-based-memecoin-bonk-surges-1000-in-a-month/",
-    "description": "A trader has managed to make a profit of around $784,000 on the Solana-based meme-inspired cryptocurrency BONK after the token was recently listed on major cryptocurrency exchange Binance and Coinbase. According to on-chain monitoring service Lookonchain, after BONK was listed on leading cryptocurrency exchange Binance its price rose above $0.00003 after rising by more than […]\n"
+    "source": "Cointelegraph",
+    "date": "2023-12-15T18:12:33.000Z",
+    "title": " How to navigate crypto surges and secure profit during market rallies ",
+    "url": "https://cointelegraph.com/news/navigating-crypto-surges-securing-profit-during-market-rallies",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZDAyODBmNTEtNGZlYS00OWYzLWE3YjMtNDcxZTk3Nzg4MmQyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>There are a few things you should do if you want to succeed in crypto during a bull market. But above all, remember to take profit.</p>\n                    <p><p>Strategically navigating the cryptocurrency market when it surges isn’t just a skil. It’s an art. Volatility is constant. Volatility measures the price movements of assets and demands a sophisticated approach from players in the market. Similar to the ebb and flow of tides, it can be navigated strategically.</p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) peaked at $69,000 during the 2021 bull run, while Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) did the same at $4,800. Despite the market hitting an all-time high of $3 trillion in market capitalization, that figure sits a little below $1.7 trillion as of Dec. 15 — a difference of just more than 30 percent. While significant, the comparison obviously doesn’t do justice to what a rollercoaster the market has been.</p><p>Understanding the driving forces behind that volatility is key to navigate it. Market sentiment, technological breakthroughs, and regulatory developments play crucial roles. It is crucial to comprehend the prevailing mood and adapt to market dynamics, leveraging insights analyzing social sentiment, news sentiment, and technical analysis indicators.</p><p><a href=\"https://cointelegraph.com/news/navigating-crypto-surges-securing-profit-during-market-rallies\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-15T18:09:02.000Z",
-    "title": "Time to Fix Crypto Twitter: /Reach's mission to bring real engagement to Web3’s favourite social media platform",
-    "url": "https://cryptodaily.co.uk/2023/12/time-to-fix-crypto-twitter-reachs-mission-to-bring-real-engagement-to-web3s-favourite-social-media-platform",
-    "description": "Twitter stands as a global focal point within the cryptocurrency ecosystem. However, users encounter persistent challenges with the platform,"
+    "date": "2023-12-15T18:36:29.000Z",
+    "title": "Is the Shiba Inu (SHIB) and Dogecoin (DOGE) Rally Just the Beginning of Something Bigger?",
+    "url": "https://cryptodaily.co.uk/2023/12/is-the-shiba-inu-shib-and-dogecoin-doge-rally-just-the-beginning-of-something-bigger",
+    "description": "Explore the latest trends in the crypto world with our deep dive into Shiba Inu (SHIB) and Dogecoin (DOGE). Discover their potential market moves, technical analysis, and exciting news like SHIB's upcoming announcement and DOGE's whale activity. Plus, don't miss out on StealthEX's festive $1,000 giveaway – a merry opportunity for crypto enthusiasts!"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-15T17:46:45.000Z",
-    "title": "Common Wealth and PAID Network Forge Strategic Partnership to Revolutionize the Web3 Investment Landscape",
-    "url": "https://cryptodaily.co.uk/2023/12/common-wealth-and-paid-network-forge-strategic-partnership-to-revolutionize-the-web3-investment-landscape",
-    "description": "Common Wealth and PAID Network Forge Strategic Partnership to Revolutionize the Web3 Investment Landscape"
+    "date": "2023-12-15T18:24:39.000Z",
+    "title": "Breaking: Senator Warren Bill Would Increase Crypto Taxes And Reporting; Pullix (PLX) Presale Soars As Next Coinbase Rival",
+    "url": "https://cryptodaily.co.uk/2023/12/breaking-senator-warren-bill-would-increase-crypto-taxes-and-reporting-pullix-plx-presale-soars-as-next-coinbase-rival",
+    "description": "Recent cryptocurrency developments have caused waves of both concern and excitement. Senator Elizabeth Warren's proposed bill to intensify crypto taxes and reporting requirements has sent ripples through the market"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-12-15T18:16:40.000Z",
+    "title": "Round Up: BTC Steady at $43K; Will $ETH Break $3K as $GFOX Targets $1 Million?",
+    "url": "https://cryptodaily.co.uk/2023/12/round-up-btc-steady-at-43k-will-eth-break-3k-as-gfox-targets-1-million",
+    "description": "After two months of quasi-euphoria, a large wick to the downside brought investors back to reality."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-15T17:53:06.000Z",
-    "title": "Meta Introduces Generative AI Images to Instagram Stories, Boosting User Creativity",
-    "url": "https://www.cryptopolitan.com/meta-introduces-generative-ai-images/",
-    "description": "Meta, the parent company of Instagram, has announced its latest foray into the realm of artificial intelligence (AI) by introducing generative AI images to enhance Instagram Stories. This move, led by Ahmad Al-Dahle, Meta’s Vice President of Generative AI, underscores the company&#8217;s ongoing commitment to integrating advanced AI tools into its social media platforms. AI-enhanced [&#8230;]"
+    "date": "2023-12-15T18:30:08.000Z",
+    "title": "Microsoft’s Chatbot Raises Concerns Over Election Information Accuracy",
+    "url": "https://www.cryptopolitan.com/microsofts-chatbot-raises-concerns-over/",
+    "description": "Microsoft, as a major player in the technology industry, has been actively involved in addressing these concerns. The company has taken steps to combat disinformation and enhance the integrity of digital platforms. Microsoft&#8217;s initiatives include the development and deployment of advanced AI tools and technologies to detect and mitigate the spread of misleading or false [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T17:46:53.000Z",
-    "title": "Common Wealth and PAID Network Forge Strategic Partnership to Revolutionize the Web3 Investment Landscape",
-    "url": "https://www.cryptopolitan.com/common-wealth-and-paid-network-forge-strategic-partnership-to-revolutionize-the-web3-investment-landscape/",
-    "description": "Stockholm, Sweden, December 15th, 2023, Chainwire Common Wealth, a trailblazer in early-stage Web3 investment, and PAID Network, known for its innovative Ignition Launchpad, announced a groundbreaking partnership aimed at transforming the crowdfunding and investment paradigm in the digital era. This collaboration marks a significant milestone in the Web3 finance sector, promising to make decentralized finance [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T17:43:16.000Z",
-    "title": "McDonald’s and Google Collaborate to Integrate AI in Growth Plans",
-    "url": "https://www.cryptopolitan.com/mcdonalds-google-collaborate-to-integrate-ai/",
-    "description": "In a strategic move to enhance efficiency and bolster growth, McDonald&#8217;s has entered into a groundbreaking partnership with Alphabet&#8217;s Google. The fast-food giant aims to leverage artificial intelligence (AI) as a pivotal element in its growth plan, extending through 2027. This collaboration underscores the pervasive influence of AI across diverse industries, with even the likes [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-15T18:00:18.000Z",
-    "title": "Dogecoin Miners Dump 240 Million Tokens, Can DOGE Price Still Recover To $0.2?",
-    "url": "https://www.newsbtc.com/news/dogecoin/dogecoin-miners-doge-price/",
-    "description": "Dogecoin began a recovery with the rest of the crypto market in October and by December, the altcoin’s price would rise to a local peak of $0.107. Amid this recovery, DOGE miners have been selling off a significant portion of their holdings, which could explain the decline in the asset’s price earlier in the week. Dogecoin Miners Sell $25 Million Worth Of Tokens Dogecoin miners are some of the largest holders of DOGE with their holdings running into the billions. So any significant activity from them in one direction or the other can often be a major factor in where the price goes next. This time around, their activities have learned on the more bearish side and have negatively affected the DOGE price in the process. Related Reading: Crypto Analyst Who Predicted Bitcoin 2023 Bull Run Releases New Target According to the on-chain crypto data tracking platform IntoTheBlock, Dogecoin miners have been selling into every pump in the last couple of weeks. On November 24, the total combined reserves of DOGE miners had climbed to 4.67 billion DOGE. However, by the second week of December, this figure has dropped by a few hundred million. Over the last month, the reserves have been on a slow decline, usually on a daily basis. But this decline adds up when zoomed out to look at the big picture. By December 12, Dogecoin miners held 4.4 billion DOGE in their balances, meaning they had sold over 240 million tokens in the space of three weeks. Taking an average price of DOGE over the last few weeks, the total amount of DOGE sold by these mines comes out to around $25 million. This figure would explain the mounting sell pressure that the altcoin had been acting which eventually led to a brief decline below $0.091. DOGE price wobbles amid uncertainty &#124; Source: DOGEUSD On Tradingview.com DOGE Price Recovery In Trouble? After the dip earlier in the week, the Dogecoin price has begun to recover as of Thursday. This recovery pushed the price above $0.097 which is a welcome development for investors. But there is still the speculation of more sell pressure coming from DOGE miners. Related Reading: XRP Bull Run Confirmed: Largest Bull Flag In Crypto History Just Formed However, there seems to be a change in sentiment among these miners whose holdings have begun to rise once more. Between, December 12 and 13, their holdings went from 4.4 billion to 4.41 billion. A small recovery, but a welcome change. Dogecoin miner net flows are also starting to turn positive after two days of negative net flows totaling over 80 million DOGE. Net flows in this case is the difference between the total amount of inflows and the total amount of outflows from the miners’ wallets. On December 13, the miner&#8217;s net flow was 7.09 million DOGE. Still low but a stark contrast to the -43.33 million recorded on December 12. Featured image from AMBCrypto, chart from Tradingview.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-15T18:07:37.000Z",
-    "title": "Tether Strikes Back: Freezes Attacker’s Wallet in Daring Ledger Exploit",
-    "url": "https://www.crypto-news-flash.com/tether-strikes-back-freezes-attackers-wallet-in-daring-ledger-exploit/?utm_source=rss&utm_medium=rss&utm_campaign=tether-strikes-back-freezes-attackers-wallet-in-daring-ledger-exploit",
-    "description": "<img width=\"1000\" height=\"668\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/knipsdesign-Tether.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/knipsdesign-Tether.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/knipsdesign-Tether-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/knipsdesign-Tether-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/knipsdesign-Tether-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Per recent reports, Tether has officially frozen the addresses of hackers who have siphoned more than $400,000.  Users of the Ledger platform have been advised to refrain from using Web3 dApps in the meantime.  Amidst ongoing security concerns, Tether has placed restrictions on the wallets of the attackers responsible for exploiting the Ledger network. According [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-12-15T17:55:34.000Z",
-    "title": "US SEC ‘Taking a New Look’ at Spot Bitcoin ETF Applications Based on Recent Court Rulings: Gary Gensler",
-    "url": "https://dailyhodl.com/2023/12/15/us-sec-taking-a-new-look-at-spot-bitcoin-etf-applications-based-on-recent-court-rulings-gary-gensler/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/us-sec-spot-etf-based.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>U.S. Securities and Exchange Commission Chairman Gary Gensler says the SEC is taking a new look at spot Bitcoin (BTC) exchange-traded funds (ETFs) in light of recent court rulings. In a recent interview with CNBC, Gensler spoke about the raft of pending BTC ETF applications being reviewed by the SEC. &#8220;I&#8217;m a chair of a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/15/us-sec-taking-a-new-look-at-spot-bitcoin-etf-applications-based-on-recent-court-rulings-gary-gensler/\">US SEC ‘Taking a New Look’ at Spot Bitcoin ETF Applications Based on Recent Court Rulings: Gary Gensler</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2023-12-15T18:22:05.000Z",
+    "title": "Bloomberg expert: Bitcoin ETF approvals anticipated in January; Ethereum in unique position",
+    "url": "https://crypto.news/bloomberg-expert-bitcoin-etf-approvals-anticipated-in-january-ethereum-in-unique-position/",
+    "description": "In a recent episode of The Scoop podcast, Bloomberg Intelligence analysts James Seyffart and Eric Balchunas predict a high likelihood of the SEC approving a series of spot Bitcoin ETFs between Jan. 5-10."
   }
 ]

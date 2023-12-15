@@ -1,114 +1,65 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-15T12:00:34.000Z",
-    "title": " $100,000 BTC? Don’t undervalue Bitcoin ETF influence, says Adam Back   ",
-    "url": "https://cointelegraph.com/news/dont-undervalue-bitcoin-etf-influence-says-adam-back",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNzQ2YzMwNTEtNDJhOS00NDI4LWI4OTktZjk3OTFlZjUzNjFmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Resolving recent systemic failures in the cryptocurrency ecosystem and the prospect of spot Bitcoin ETF approvals could drive Bitcoin to $100,000 in 2024. </p>\n                    <p><p>The COVID-19 pandemic, rampant inflation and regional conflicts directly influenced Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) drop in value over the past two years. However, 2024 promises to be a resurgent period, according to Blockstream CEO <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/adam-back\">Adam Back</a>.</p><p data-ct-non-breakable=\"true\">The cryptographer, who pioneered the proof-of-work algorithm applied in Bitcoin's protocol, tells Cointelegraph that the preeminent cryptocurrency is trailing below the historical price trend line of previous mining reward-halving events.</p><p data-ct-non-breakable=\"true\">Back weighed in on the potential price action of Bitcoin as the <a href=\"https://cointelegraph.com/news/bitcoin-first-halving-11th-anniversary\">next halving</a>, which will see Bitcoin miners' block reward reduced by 6.25 BTC to 3.125 BTC, looms in April 2024. Block rewards halvings are programmatically hardwired into Bitcoin’s code, taking place after every 210,000 blocks are mined.</p><p><a href=\"https://cointelegraph.com/news/dont-undervalue-bitcoin-etf-influence-says-adam-back\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-15T12:00:00.000Z",
-    "title": " Bitcoin ecosystem reinvigorated by memecoins, new protocols ",
-    "url": "https://cointelegraph.com/news/bitcoin-ecosystem-reinvigorated-by-meme-coins-new-protocols",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNmFjOGFiOGItNjQ1Ni00YjM5LTliNGQtZWFmNjgxNDQ2NzU1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin miners’ revenue has reached all-time highs in part due to increased on-chain fees.  </p>\n                    <p><p data-ct-non-breakable=\"true\">The Bitcoin ecosystem has witnessed a dramatic recovery as the market cap of BRC-20 tokens surpassed $4 billion shortly after their invention in January.</p><p>According to a Dec. 15 research report by cryptocurrency exchange Bitget seen by Cointelegraph, Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) miners’ earnings from on-chain fees have surged from 1.7% in August to 19.57% by November. Meanwhile, daily mining revenue from block rewards surged past $40 million in November. The namesake digital asset has gained 161% year-to-date.</p><p>Invented by Bitcoin developer Casey Rodarmor in January, BRC-20 tokens have <a href=\"https://cointelegraph.com/news/brc-20-tokens-presenting-new-opportunities-bitcoin\">surged in popularity</a> as one of the largest technological advancements in a 15-year-old blockchain. Bitcoin Ordinals is a numbering system that assigns a unique number to each satoshi, or 1/100 millionth of a Bitcoin, enabling tracking and transfer. Combined with the inscription process, which adds a layer of data to each Satoshi, users can mint unique digital assets on the Bitcoin blockchain.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-ecosystem-reinvigorated-by-meme-coins-new-protocols\">Read more</a></p></p>\n                \n            "
-  },
-  {
     "source": "CryptoSlate",
-    "date": "2023-12-15T11:42:02.000Z",
-    "title": "SafeMoon hits record low as company files for Chapter 7 bankruptcy",
-    "url": "https://cryptoslate.com/safemoon-hits-record-low-as-company-files-for-chapter-7-bankruptcy/",
-    "description": "<p>Decentralized finance (DeFi) project Safemoon&#8217;s SFM crashed to an all-time low after the firm behind it filed for bankruptcy on Dec . 14. Attorney Mark Rose filed for a Chapter 7 bankruptcy on behalf of SafeMoon at the United States Bankruptcy Court for the District of Utah. The filing indicates that the firm has 50-99 [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/safemoon-hits-record-low-as-company-files-for-chapter-7-bankruptcy/\">SafeMoon hits record low as company files for Chapter 7 bankruptcy</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-15T12:03:34.000Z",
-    "title": "Bitboost Revolutionizes Bitcoin with Programmable Asset Protocols",
-    "url": "https://cryptodaily.co.uk/2023/12/bitboost-revolutionizes-bitcoin-with-programmable-asset-protocols",
-    "description": "Bitboost Revolutionizes Bitcoin with Programmable Asset Protocols"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-15T11:41:06.000Z",
-    "title": "Solana (SOL) resumes its bullish trajectory",
-    "url": "https://cryptodaily.co.uk/2023/12/solana-sol-resumes-its-bullish-trajectory",
-    "description": "The layer 1 blockchain that looks to be the biggest rival to ethereum has resumed its bullish rise."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-15T12:00:28.000Z",
-    "title": "SquidGrow: Building During the Bear",
-    "url": "https://news.bitcoin.com/squidgrow-building-during-the-bear/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-768x432.jpeg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-300x169.jpeg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-1024x576.jpeg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-768x432.jpeg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-190x107.jpeg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-380x214.jpeg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720-760x428.jpeg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/squidgrow1280-x-720.jpeg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. 15th December 2023. SquidGrow, the meme-utility token co-founded by the elusive crypto whale Shibtoshi, continues to innovate with new ways to energize the community. These include developing a custom bridge and privacy cross chain aggregator, liquidity locker, NFT marketplace, decentralized perpetual exchange, as well as offering an opportunity for anyone to win a [&#8230;]"
+    "date": "2023-12-15T12:15:37.000Z",
+    "title": "Public crypto companies get chance to shine as cybersecurity incidents to be reported within days under SEC rules",
+    "url": "https://cryptoslate.com/public-crypto-companies-get-chance-to-shine-as-cybersecurity-incidents-to-be-reported-within-days-under-sec-rules/",
+    "description": "<p>The Securities and Exchange Commission&#8217;s (SEC) new disclosure requirements for how the public discloses material cybersecurity incidents go into effect later this month following the conclusion of the comment period. Given the transparent and timely manner in which exploits are often reported and handled within the crypto space, the new requirements may offer public crypto [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/public-crypto-companies-get-chance-to-shine-as-cybersecurity-incidents-to-be-reported-within-days-under-sec-rules/\">Public crypto companies get chance to shine as cybersecurity incidents to be reported within days under SEC rules</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-15T12:03:38.000Z",
-    "title": "Bitboost Revolutionizes Bitcoin with Programmable Asset Protocols",
-    "url": "https://www.cryptopolitan.com/bitboost-revolutionizes-bitcoin-with-programmable-asset-protocols/",
-    "description": "New York, America, December 15th, 2023, Chainwire In the sphere of Bitcoin&#8217;s on-chain assets, a groundbreaking paradigm emerges with Bitboost&#8217;s exploration of programmability, transforming Bitcoin into a dynamic asset playground. Protocols such as Ordinals, BRC-20, and Atomicals have significantly enriched Bitcoin&#8217;s on-chain assets, offering a novel approach to scaling Bitcoin: utilizing Bitcoin as a bulletin [&#8230;]"
+    "date": "2023-12-15T12:17:28.000Z",
+    "title": "SEC insists on cash redemption model for Bitcoin ETFs amid industry buzz",
+    "url": "https://www.cryptopolitan.com/sec-insists-on-cash-redemption/",
+    "description": "The United States Securities and Exchange Commission (SEC) is maintaining its stance on requiring Bitcoin exchange-traded fund (ETF) issuers to use a &#8220;cash&#8221; redemption model for their creations and redemptions.&#160; This decision comes despite alternative proposals, including one from BlackRock, that suggest an &#8220;in-kind&#8221; model. As the cryptocurrency community eagerly awaits the approval of Bitcoin [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-15T11:56:09.000Z",
-    "title": "Ripple releases insightful white paper on CBDC potential",
-    "url": "https://www.cryptopolitan.com/ripple-releas-insightful-white-paper-on-cbdc/",
-    "description": "In a significant move, Ripple (XRP), the renowned blockchain-based digital payments firm, has released a detailed white paper emphasizing the importance and potential of Central Bank Digital Currencies (CBDCs). The 23-page document, released on December 14, provides an in-depth analysis of CBDCs, covering their advantages, risks, and the challenges hindering their widespread adoption. Ripple&#8217;s white [&#8230;]"
+    "date": "2023-12-15T12:09:43.000Z",
+    "title": "Understanding the 2024 crypto market – Here’s how the FED rates fit in",
+    "url": "https://www.cryptopolitan.com/the-2024-crypto-market-with-fed-rates-cuts/",
+    "description": "As we step into crypto markets in 2024, the global financial landscape is witnessing unprecedented shifts, with digital assets playing a pivotal role in shaping the future of finance. Amidst this dynamic environment, understanding the intricate relationship between the crypto market and the Federal Reserve&#8217;s interest rates is crucial for investors, analysts, and enthusiasts alike. [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T11:55:31.000Z",
-    "title": "PEPE Price Prediction: Will Pepe Coin Dominate Dogecoin And Shiba Inu In 2024?",
-    "url": "https://www.cryptopolitan.com/pepe-price-prediction/",
-    "description": "PEPE Price Predictions 2023-2032 Meme coins are renowned in the cryptocurrency market for boosting investor morale, particularly during periods of market turbulence or stagnation. For enthusiasts of meme coins, the newly-introduced &#8220;PEPE&#8221; coin is one not to be overlooked. It has established a remarkable benchmark, experiencing an extraordinary surge of nearly 7,000% since its debut [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T11:53:28.000Z",
-    "title": "SafeMoon token plummets 31% following Chapter 7 bankruptcy filing",
-    "url": "https://www.cryptopolitan.com/safemoon-token-plummets-31-following-chapter-7-bankruptcy-filing/",
-    "description": "In a stunning turn of events, SafeMoon, the decentralized finance (DeFi) protocol, saw its token value plummet by 31% within just five hours following the official filing for Chapter 7 bankruptcy.&#160; The voluntary petition for liquidation bankruptcy was submitted to the United States Bankruptcy Court for the District of Utah on December 14, 2023. Attorney [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T11:52:50.000Z",
-    "title": "Infura Launches Unified Key Experience for Enhanced Simplicity and Security",
-    "url": "https://www.cryptopolitan.com/infura-unified-key-experience-simplicity/",
-    "description": "Infura, a leading provider in the blockchain infrastructure space, has announced a significant update that is set to transform the user experience in managing API keys. The new Unified Key Experience (UKE) is designed to streamline Infura&#8217;s key management system, providing robust security controls and simplifying project management. The innovative feature consolidates all types of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-15T11:42:59.000Z",
-    "title": "Rise of the Ronin Digital Deluxe Edition Available for Pre-Order with Exciting Inclusions",
-    "url": "https://www.cryptopolitan.com/rise-of-the-ronin-digital-deluxe-edition/",
-    "description": "Gamers and fans of Japanese history can rejoice as the highly anticipated game, Rise of the Ronin, is now available for pre-order in its Digital Deluxe Edition. Developed by the seasoned creators of Nioh and Ninja Gaiden, this action-packed adventure promises an immersive journey through the turmoil of 19th-century Japan. With a rich narrative, deep [&#8230;]"
+    "source": "NullTX",
+    "date": "2023-12-15T12:12:23.000Z",
+    "title": "BONK PRICE ANALYSIS & PREDICTION (December 14) – Bonk Breaks Higher Amidst Latest Market Surge, Returns Over 13000% In a Year",
+    "url": "https://nulltx.com/bonk-price-analysis-prediction-december-14-bonk-breaks-higher-amidst-latest-market-surge-returns-over-13000-in-a-year/",
+    "description": "While most meme coins lag in the ongoing surge, Bonk’s price increased by 50% today as it breaks higher. This puts the asset in the market top-gainer spot with a traded volume of $281 million in the last 24 hours. Following the January 4 listing on the Bybit exchange, Bonk [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-15T11:56:49.000Z",
-    "title": "Nirvana Finance hacker admits guilt and agrees to return $12.3 million",
-    "url": "https://crypto.news/nirvana-finance-hacker-admits-guilt-and-agrees-to-return-12-3-million/",
-    "description": "Senior security engineer Shakib Ahmed&#160;admitted&#160;to hacking the Nirvana Finance protocol and another unnamed decentralized exchange (DEX). According to the statement, Ahmed agreed to return $12.3 million obtained as a result of the exploit, as well as pay compensation in the&#8230;"
+    "date": "2023-12-15T12:30:00.000Z",
+    "title": "Emerging cryptocurrency may rival Celestia and Avalanche",
+    "url": "https://crypto.news/emerging-cryptocurrency-may-rival-celestia-and-avalanche/",
+    "description": "Analysts expect Celestia (TIA) and Avalanche (AVAX) to extend gains in December. Meanwhile, Rebel Satoshi (RBLZ) is up 30% in three weeks"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-15T12:20:22.000Z",
+    "title": "Sanctioned mining firm BitRiver sees crypto interest surge among Russian oil majors",
+    "url": "https://crypto.news/sanctioned-mining-firm-bitriver-sees-crypto-interest-surge-among-russian-oil-majors/",
+    "description": "Russian Bitcoin mining firm BitRiver says the country can become a leader in the global industrial crypto just within a few years. According to BitRiver CEO Igor Runets, Russia has enough resources to become a global leader in crypto mining&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-15T11:55:34.000Z",
-    "title": "Apex Group Becomes Tokeny’s Principal Strategic Investor",
-    "url": "https://www.crypto-news-flash.com/apex-group-se-convierte-en-el-principal-inversor-estrategico-de-tokeny/?utm_source=rss&utm_medium=rss&utm_campaign=apex-group-se-convierte-en-el-principal-inversor-estrategico-de-tokeny",
-    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Apex Group\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop.webp 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop-300x169.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop-1024x576.webp 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop-768x432.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Apex-Gruop-1536x864.webp 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Tokeny announces Apex Group as its main strategic investor, strengthening its tokenization platform in the global financial sector. The alliance between Tokeny and Apex Group drives innovations in tokenization, highlighting the use of EOS EVM technology for efficient transactions. Luxembourg-based tokenization company Tokeny has made a breakthrough in its investment management, announcing that Apex Group, [...]"
+    "date": "2023-12-15T12:18:18.000Z",
+    "title": "Missed Out on Recent Bitcoin and Alt Rallies? Here’s a Crypto with 50% ROI Potential",
+    "url": "https://www.crypto-news-flash.com/missed-out-on-recent-bitcoin-and-alt-rallies-heres-a-crypto-with-50-roi-potential-2/?utm_source=rss&utm_medium=rss&utm_campaign=missed-out-on-recent-bitcoin-and-alt-rallies-heres-a-crypto-with-50-roi-potential-2",
+    "description": "<img width=\"512\" height=\"512\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116-300x300.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116-150x150.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116-24x24.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116-48x48.jpg 48w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-116-96x96.jpg 96w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The key to success in the crypto market is to always be on top of trends. Recently, Bitcoin and a few select alts have been on the rise, providing an opportunity for savvy traders to rake in profits. But worry not if you missed out on this opportunity. A new meme coin gem, $GFOX has [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-15T12:00:00.000Z",
-    "title": "How To List Your Cryptocurrency On KuCoin Exchange",
-    "url": "https://coinedition.com/how-to-list-your-cryptocurrency-on-kucoin-exchange/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2.png 730w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/12/How-To-List-Your-Cryptocurrency-On-KuCoin-Exchange-2-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>What Is Crypto Coin Listing? A cryptocurrency coin listing involves the process of adding cryptocurrencies or coins to digital trading platforms. This process involves providing detailed information about the project to undergo evaluation and approval for listing on the platform. Why Is Crypto Coin Listing Important? The initial phase of launching a cryptocurrency project is [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/how-to-list-your-cryptocurrency-on-kucoin-exchange/\">How To List Your Cryptocurrency On KuCoin Exchange</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-15T12:39:18.000Z",
+    "title": "Breaking: Will DOGE Survive The Ongoing Evolution Of SHIB And BONK?",
+    "url": "https://coinedition.com/will-doge-survive-the-ongoing-evolution-of-shib-and-bonk/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/doge4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/doge4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/doge4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/doge4-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/doge4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/doge4-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/doge4-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/doge4-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/doge4-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/doge4-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/doge4-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/doge4-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/doge4-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/doge4-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/doge4-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/doge4-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/doge4-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The meme coin market saw its collective valuation rise by 4.42% over the past 24 hours, according to CoinMarketCap data. Subsequently, the total market cap for meme coins stood at above $24.128 billion. Dogecoin (DOGE), the largest meme coin by market cap, saw its price rise 0.51% over the past 24 hours. Its competitor, Shiba [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/will-doge-survive-the-ongoing-evolution-of-shib-and-bonk/\">Breaking: Will DOGE Survive The Ongoing Evolution Of SHIB And BONK?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-15T11:56:57.000Z",
-    "title": "BTT Price Dips 10% Amid Resistance: Can Bulls Reclaim Momentum?",
-    "url": "https://coinedition.com/btt-price-dips-10-amid-resistance-can-bulls-reclaim-momentum/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cosmos Price-analysis\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/Price-analysis-10-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>BitTorrent (BTT) has been in a downtrend for the previous 24 hours, with a bullish effort to reverse the trend, meeting resistance at the intra-day high of $0.00000132. As a result, BTT has fallen below its support level of $0.00000120, plummeting more than 10% as of press time.  This drop in value might be related [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btt-price-dips-10-amid-resistance-can-bulls-reclaim-momentum/\">BTT Price Dips 10% Amid Resistance: Can Bulls Reclaim Momentum?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-15T12:20:37.000Z",
+    "title": "Web3 Carnival 2023 Wraps Up a Week-Long Celebration of Innovation and Empowerment in Bangalore",
+    "url": "https://coinedition.com/web3-carnival-2023-wraps-up-a-week-long-celebration-of-innovation-and-empowerment-in-bangalore/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/PR2-6.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/PR2-6.png 730w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/12/PR2-6-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Web3 Carnival 2023, an exceptional event that united the Web3 community in a dynamic blend of innovation and empowerment, has successfully wrapped up its 7-day spectacle at the Palm Meadows Resort in Whitefield, Bangalore, spanning from December 4 to December 10, 2023. Powered by Giakaa and Threeway Studio, and proudly supported by the Ton [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/web3-carnival-2023-wraps-up-a-week-long-celebration-of-innovation-and-empowerment-in-bangalore/\">Web3 Carnival 2023 Wraps Up a Week-Long Celebration of Innovation and Empowerment in Bangalore</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

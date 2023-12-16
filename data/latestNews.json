@@ -1,37 +1,37 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2023-12-16T10:01:02.000Z",
+    "title": "This Week in Coins: Bonk Continues Surge With Solana Hype, Bitcoin Dips",
+    "url": "https://decrypt.co/210009/this-week-in-coins-bonk-continues-surge-with-solana-hype-bitcoin-dips",
+    "description": "Bitcoin and other major coins and tokens are down. But new meme coin BONK is still rallying."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-16T10:05:22.000Z",
+    "title": " SEC faces accusations of contradiction in Coinbase rulemaking dispute ",
+    "url": "https://cointelegraph.com/news/sec-faces-accusations-of-contradiction-in-coinbase-rulemaking-dispute",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvN2I1MzU3ZTUtYjg1YS00MTM3LWE1N2ItMWU3MGI0ZTliY2RhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>XRP holder’s lawyer, John Deaton, stated that the SEC’s stance in the Coinbase rulemaking dispute directly opposes the SEC Chairman’s statements during his congressional testimony earlier this year. </p>\n                    <p><p>In the ongoing legal dispute between Coinbase Global Inc. and the U.S. Securities and Exchange Commission (SEC), the XRP holder’s lawyer, John Deaton, has accused the SEC’s top official, Gary Gensler, of ‘gaslighting’ the public and disagreed with his stance on cryptocurrencies.</p><p>The development in Coinbase’s rulemaking request occurred when the SEC <a href=\"https://cointelegraph.com/news/sec-responds-coinbase-2022-crypto-rulemaking-petition\">rejected the trading platform’s petition</a> based on three reasons.</p><p>These reasons encompass applying current securities laws to cryptocurrencies, the SEC’s engagement with the crypto securities markets through rulemaking, and the significance of preserving the Commission’s discretion in establishing its rulemaking priorities.</p><p><a href=\"https://cointelegraph.com/news/sec-faces-accusations-of-contradiction-in-coinbase-rulemaking-dispute\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2023-12-16T09:48:10.000Z",
+    "title": "China Introduces Blockchain-Based Real-Name Verification System",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/china-introduces-blockchain-based-real-name-verification-system/",
+    "description": "According to an article by Xinmei Shen and Matt Haldane for South China Morning Post (SCMP) on 14 December 2023, China is taking a significant step in digital identity management by experimenting with a blockchain-based real-name verification system. This system aims to allow internet users to log into online platforms without divulging personal information such […]\n"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-12-16T09:29:38.000Z",
-    "title": "AI Revolutionizing Depression Diagnosis and Treatment",
-    "url": "https://www.cryptopolitan.com/ai-reshapes-depression-diagnosis-treatment/",
-    "description": "Artificial Intelligence (AI) is set to transform the landscape of healthcare, particularly in diagnosing and treating depression. Given that around 20% of the global population will experience depression at some point, and with current diagnosis methods being less than ideal, AI&#8217;s role becomes crucial. The World Health Organization has identified depression as a leading cause [&#8230;]"
+    "date": "2023-12-16T09:53:41.000Z",
+    "title": "Navigating the Unseen Risks of Generative AI in National Security",
+    "url": "https://www.cryptopolitan.com/risks-of-generative-ai-in-national-security/",
+    "description": "As the world embraces the potential of generative artificial intelligence (AI) to revolutionize industries and improve efficiency, a recent report from the Centre for Emerging Technology and Security (CETaS) at The Alan Turing Institute has raised alarm bells about the unintended consequences of this powerful technology. While the public debate has predominantly centered on specific [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2023-12-16T09:20:34.000Z",
-    "title": "Bitcoin at $45k? What Would This Mean For Emerging Altcoins",
-    "url": "https://nulltx.com/bitcoin-at-45k-what-would-this-mean-for-emerging-altcoins/",
-    "description": "In the world of cryptocurrency, when Bitcoin sneezes, the rest of the market catches a cold, or sometimes, it rides a wave of euphoria. The recent buzz is all about Bitcoin potentially hitting the $45,000 mark. While this is exciting news for Bitcoin enthusiasts, it also opens up a world [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-16T09:18:14.000Z",
-    "title": "Cardano (ADA) Set for Best Weekly Close; Gala (GALA) & InQubeta (QUBE) Gear Up for Huge Growth",
-    "url": "https://nulltx.com/cardano-ada-set-for-best-weekly-close-gala-gala-inqubeta-qube-gear-up-for-huge-growth/",
-    "description": "New and exciting developments are happening in the dynamic world of cryptocurrencies, and three coins are grabbing attention. Cardano (ADA) is on the verge of a killer weekly close, Gala (GALA) is breaking out in a big way, and InQubeta (QUBE) is all set for some serious growth. Let&#8217;s dive [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-16T09:16:28.000Z",
-    "title": "3 Reasons Investors Are Shifting Focus From PEPE To NuggetRush (NUGX)",
-    "url": "https://nulltx.com/3-reasons-investors-are-shifting-focus-from-pepe-to-nuggetrush-nugx/",
-    "description": "TLDR NuggetRush offers a unique Play-to-Earn gaming model, attracting investors seeking engagement beyond traditional trading. NUGX&#8217;s NFT staking opportunities provide a dual benefit of enjoying digital art and earning potential returns. NuggetRush&#8217;s commitment to social causes sets it apart, appealing to socially-conscious investors in the crypto space. Have you heard [&#8230;]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-16T09:21:00.000Z",
-    "title": "Grayscale CEO Remains Optimistic on Spot Bitcoin ETF Launch",
-    "url": "https://coinedition.com/grayscale-ceo-remains-optimistic-on-spot-bitcoin-etf-launch/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"First Bitcoin ETF in Europe Receives an ESG Label, Sparking Debate\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/Spot-Bitcoin-ETF-Approval-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Grayscale CEO Michael Sonnenshein has been optimistic about the imminent Spot Bitcoin ETF launch. In an interview with Fox Business, the Grayscale CEO reaffirmed his positive outlook on the introduction of Bitcoin ETFs, adding, “This is a matter of when, not a matter of if.” Reportedly, the Securities and the Exchange Commission (SEC) has been [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/grayscale-ceo-remains-optimistic-on-spot-bitcoin-etf-launch/\">Grayscale CEO Remains Optimistic on Spot Bitcoin ETF Launch</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2023-12-16T10:03:23.000Z",
+    "title": "Osmosis Rally Intensifies With 77% Increase – Will OSMO Hit $2 This Month?",
+    "url": "https://www.newsbtc.com/news/osmosis-rally-intensifies-with-77-increase-will-osmo-hit-2-this-month/",
+    "description": "The price movement of OSMO has demonstrated significant volatility, moving through a largely bearish trend for the most part of the year. But in the last three months, the cryptocurrency has shown signs of a strong comeback and is now entering a phase of strong recovery. Currently, a wide range of technical indicators are available to traders, each of which presents a complex picture of the possible future paths for the OSMO price. Together, these signals create a mosaic of information that help traders traverse the complicated environment in which they must predict and react to market movements. Osmosis Price Explodes In The Weekly Timeframe  Osmosis is a well-known player in the cryptocurrency ecosystem and one of the main forces shaping the market environment. Its native token, OSMO, has seen a significant increase, crossing the $1 threshold and hitting its highest worth since July. Related Reading: Why BONK Keeps On Rising, Price Explodes 124% Today – Here’s The Scoop At the time of writing, OSMO was trading at $1.46, up 14.1% in the last 24 hours, and tallied a commanding 76.3% rally in the last seven days, data from Coingecko shows. OSMO price action in the last 24 hours. Source: Coingecko Osmosis&#8217;s successful merger with Umee, another prominent Cosmos network with assets exceeding $17 million, is partly responsible for the company&#8217;s strong performance. The token has experienced a remarkable rise, rising by almost 380% from its lowest point in 2023, in accordance with the merger&#8217;s plans. Osmosis currently trading at $1.4645 territory. Chart: TradingView.com With assets over $142 million, Osmosis holds a strong position, according to data from DeFi Llama. Furthermore, in the last 24 hours, the platform has enabled transactions totaling more than $64 million in token value, demonstrating its significant impact and activity in the decentralized finance domain. A number of the Cosmos ecosystem&#8217;s constituent parts are thriving. Notably, THORChain has become one of the biggest players in the world of decentralized exchanges, or DEXs, and has emerged as a major participant in this space. OSMO seven-day price action. Source: CoinMarketCap Will OSMO Reach $2? With a solid total value locked (TVL) of more than $915 million and available liquidity of more than $336 million, THORChain has cemented its place as a major participant in the independent financial market. The cumulative validator bond has risen significantly, exceeding the remarkable $578 million mark. Concurrently, the unique swapper community has expanded tremendously, to include over 88,000 members. Related Reading: Terra Luna Classic Rockets Over 300% And Collapses — More Pain Ahead? In a related breakthrough, the Interblockchain Communication Protocol (IBC) has secured assets worth over $30 billion spanning a vast network of more than 100 chains, demonstrating its strong functioning. This emphasizes how crucial the protocol is to enabling smooth communication and interoperability across various blockchain ecosystems. One notable newcomer to the Cosmos scene is Namada, a layer-1 network with cutting-edge interchain privacy capabilities. By introducing cutting-edge technologies to improve privacy and increase the capabilities of interchain communication, this introduction further improves the Cosmos ecosystem. With a compelling 72% surge, the Osmosis rally is sparking speculation about OSMO hitting $2 this month. Fueled by strategic mergers and a resilient ecosystem, OSMO&#8217;s upward momentum is closely watched by traders and enthusiasts, adding an exciting dimension to its evolving narrative in the cryptocurrency market. Featured image from Shutterstock"
   }
 ]

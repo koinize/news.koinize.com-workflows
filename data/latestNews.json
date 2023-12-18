@@ -1,86 +1,30 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-12-18T10:44:00.000Z",
-    "title": "Bitcoin Slips Below $41,000 as Crypto Price Rally Cools",
-    "url": "https://decrypt.co/210131/bitcoin-slips-below-41000-as-crypto-price-rally-cools",
-    "description": "The price slump comes as Bitcoin's average transaction fee has surged to a yearly high, driven by the growing popularity of Ordinals."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-18T10:40:00.000Z",
-    "title": " Spot Bitcoin ETF will be ‘bloodbath’ for crypto exchanges, analyst says ",
-    "url": "https://cointelegraph.com/news/spot-bitcoin-etf-bloodbath-cex",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZjBkMjlmZmYtZjQ3ZC00NjU2LWEyMDktOTgzOWViZGFmMjc3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Spot Bitcoin ETFs could trigger unwanted consequences for crypto exchanges like Coinbase due to lower transaction fees, according to ETF analysts.</p>\n                    <p><p data-ct-non-breakable=\"true\">While the crypto community eagerly awaits the possible approval of a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) in the United States, some analysts are warning this could potentially trigger unwanted consequences for cryptocurrency exchanges.</p><p>Several industry observers have predicted that a <a href=\"https://cointelegraph.com/news/bitcoin-price-80k-stablecoin-growth-bitwise-invest-crypto-prediction\">spot BTC ETF could start trading</a> in early 2024, in an event that, when paired with Bitcoin’s upcoming block reward halving expected in April, Blockstream CEO <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/adam-back\">Adam Back</a> believes <a href=\"https://cointelegraph.com/news/dont-undervalue-bitcoin-etf-influence-says-adam-back\">could propel BTC to $100,000</a>.</p><p>Bitcoin proponents such as Jan3 CEO Samson Mow have said that approval of a spot Bitcoin ETF in the U.S. <a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-approval-propel-btc-1-million-days-to-weeks-samson-mow\">could even drive Bitcoin as high as $1 million</a> in the “days to weeks” following.</p><p><a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-bloodbath-cex\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2023-12-18T10:45:33.000Z",
-    "title": "Bitcoin hash price hits $125k per Exahash, mirroring pre-2020 halving highs",
-    "url": "https://cryptoslate.com/insights/bitcoin-hash-price-hits-125k-per-exahash-revisiting-pre-2020-halving-highs/",
-    "description": "<p>Quick Take The Bitcoin Hash Price, a pivotal barometer for daily miner incomes, has surged to a striking $125,000 per Exahash, a zenith not witnessed since July 2022. Glassnode analyst Checkmate highlighted that we have revisited levels mirroring a similar pre-halving period from 2020. This metric, calculated by taking the ratio between total miner income [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-hash-price-hits-125k-per-exahash-revisiting-pre-2020-halving-highs/\">Bitcoin hash price hits $125k per Exahash, mirroring pre-2020 halving highs</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-18T11:00:49.000Z",
-    "title": "Report: Worldcoin Set to Resume Kenyan Operations in Early 2024",
-    "url": "https://news.bitcoin.com/report-worldcoin-set-to-resume-kenyan-operations-in-early-2024/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/wldsd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Worldcoin, the iris biometric crypto project, has reportedly reached an agreement with Kenyan authorities which allows it to resume operations in the African country. Worldcoin representatives are said to be &#8220;working directly with regulators to meet Kenya’s requirements.&#8221; Worldcoin to Restart Kenyan Iris Scanning in Early 2024 According to a report, Worldcoin representatives may have [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-18T10:46:25.000Z",
-    "title": "Forecasting a 40% Surge for Avalanche (AVAX) and Rebel Satoshi ($RBLZ): Investment Strategies Revealed",
-    "url": "https://nulltx.com/forecasting-a-40-surge-for-avalanche-avax-and-rebel-satoshi-rblz-investment-strategies-revealed/",
-    "description": "TLDR Avalanche (AVAX) could rise to $38 following the discontinuation of Web Wallet. Blockchain ICO investors rush towards Rebel Satoshi’s ($RBLZ) in hopes of a 40% surge. Investors of top altcoins are seeking projects with high growth potential to enhance their crypto portfolios. As the market has become bullish in [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-18T10:44:43.000Z",
-    "title": "Could Bitcoin (BTC) Price Keep Falling? Hedera (HBAR) & Borroe Finance ($ROE) Eye Rally",
-    "url": "https://nulltx.com/could-bitcoin-btc-price-keep-falling-hedera-hbar-borroe-finance-roe-eye-rally/",
-    "description": "Alternate narratives arise with regard to top crypto coins like Hedera (HBAR) and Borroe Finance ($ROE), as Bitcoin (BTC) faces correction where there is panic in the market currently. &#62;&#62;BUY $ROE TOKENS NOW&#60;&#60; Bitcoin&#8217;s Correction Bitcoin slid significantly after a push close to the $45,000 resistance level on Dec. 8. [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-18T10:43:18.000Z",
-    "title": "Whales Set Their Eyes on Cardano (ADA); Bullish Momentum Continues for InQubeta",
-    "url": "https://nulltx.com/whales-set-their-eyes-on-cardano-ada-bullish-momentum-continues-for-inqubeta/",
-    "description": "In the vast ocean of the best coins to invest in, whales are making a splash, setting their keen eyes on Cardano (ADA). Meanwhile, the bullish momentum of InQubeta (QUBE) is causing ripples in the crypto space. Let’s catch the surf and ride through the thrilling updates on these two [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2023-12-18T11:13:26.000Z",
+    "title": "Why AI Needs Benchmark for Mental Health Apps",
+    "url": "https://www.cryptopolitan.com/ai-needs-benchmark-for-mental-health-apps/",
+    "description": "Over the years, people needed a decent level of experience in the mental health field and programming talent to create mental health apps. However, AI technology has barreled through the sector, making it much easier for people to craft these apps. While there are upsides to this, there are equally downsides that need to be [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-18T11:00:26.000Z",
-    "title": "Meme Moguls may become major player in billion-dollar market as analyst warns of DOGE correction",
-    "url": "https://crypto.news/meme-moguls-may-become-major-player-in-billion-dollar-market-as-analyst-warns-of-doge-correction/",
-    "description": "DOGE faces a dip, but analyst Ali Martinez predicts potential growth, while Meme Moguls (MGLS) gains traction in its ICO phase. Dogecoin (DOGE) recently experienced a price correction phase. It decreased in value by 9% during the previous seven days.&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-18T10:41:18.000Z",
-    "title": "Helium Mobile’s 90% price increase in 24 hours caps altcoin surge",
-    "url": "https://crypto.news/helium-mobiles-90-price-increase-in-24-hours-caps-altcoin-surge/",
-    "description": "Helium Mobile (MOBILE) is spearheading a dynamic shift in the crypto market towards smaller-cap altcoins, with its price surging by 90% in the last 24 hours to $0.0072. The altcoin&#8217;s surge is mirrored in its trading volume, which has escalated&#8230;"
+    "date": "2023-12-18T11:16:24.000Z",
+    "title": "AI altcoin raising $6m in pre-sale could beat Injective Protocol (INJ)",
+    "url": "https://crypto.news/ai-altcoin-raising-6m-in-pre-sale-could-beat-injective-protocol-inj/",
+    "description": "InQubeta (QUBE), an AI-powered altcoin, excels in its pre-sale, raising $6.8 million and hinting at surpassing giants like Injective Protocol. AI-powered altcoins are interesting to watch, as they are making serious waves in the crypto markets. One of them is&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-18T11:00:54.000Z",
-    "title": "Ethereum Can Surge To $5k, Analysts Lean Heavily On This Promising Meme Coin",
-    "url": "https://www.crypto-news-flash.com/ethereum-can-surge-to-5k-analysts-lean-heavily-on-this-promising-meme-coin-2/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-can-surge-to-5k-analysts-lean-heavily-on-this-promising-meme-coin-2",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ETH-Ethereum-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ETH-Ethereum-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ETH-Ethereum-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/ETH-Ethereum-1-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Ethereum targets a $5K surge, while NuggetRush gains attention as a promising crypto investment. NuggetRush emerges as a key player in Play to Earn gaming. Experts are eyeing NuggetRush for its unique features and strong presale, alongside Ethereum&#8217;s anticipated $5K rise. Are you keeping an eye on the crypto market? There&#8217;s a big buzz around [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2023-12-18T11:09:13.000Z",
-    "title": "DOP Testnet Is Live, a Guide to Receive Their Airdrop",
-    "url": "https://www.altcoinbuzz.io/product-release/dop-testnet-is-live-a-guide-to-receive-their-airdrop/",
-    "description": "<p>DOP lets you control how much of your transaction information you want to share. You can find this information stored on a public blockchain. So, having control over this is a great advantage. Their testnet is now live. If you take part, you qualify for their airdrop, early next year. So, let&#8217;s take a closer [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/dop-testnet-is-live-a-guide-to-receive-their-airdrop/\">DOP Testnet Is Live, a Guide to Receive Their Airdrop</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-12-18T11:22:46.000Z",
+    "title": "SpaceCatch Presale Breaks Through $1.6M, FOMO Fueling Investor’s Enthusiasm",
+    "url": "https://www.crypto-news-flash.com/spacecatch-presale-breaks-through-1-6m-fomo-fueling-investors-enthusiasm/?utm_source=rss&utm_medium=rss&utm_campaign=spacecatch-presale-breaks-through-1-6m-fomo-fueling-investors-enthusiasm",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/10.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/10.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/10-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/10-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/10-768x432.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />A few days after SpaceCatch announced the completion of the first phase of its $CATCH token presale, raising $600,000, SpaceCatch has swiftly crossed the halfway mark of its targeted fundraising amount of $2.2 million, already reaching $1.6 million. The first phase of their presale, when they raised $600,000, was wrapped up in under 10 days. [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-18T11:01:59.000Z",
-    "title": "Analyst Predicts FLOKI Is On The Verge Of A “Supreme Pump”",
-    "url": "https://coinedition.com/analyst-predicts-floki-is-on-the-verge-of-a-supreme-pump/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FLOKI Flips ADA\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/FLOKI-Flips-ADA-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto analyst and trader, Crypto Tony, shared in an X post yesterday that meme coins are “looking really good,&#8221; especially with Shiba Inu (SHIB) heating up again. However, the analyst believes FLOKI is poised for a big run as there is too much going on for it not to experience a “supreme pump.” One of [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/analyst-predicts-floki-is-on-the-verge-of-a-supreme-pump/\">Analyst Predicts FLOKI Is On The Verge Of A “Supreme Pump”</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-18T11:22:20.000Z",
+    "title": "Crypto Loans Rebound to $581M in 2023, Reflecting 55%+ Growth",
+    "url": "https://coinedition.com/crypto-loans-rebound-to-581m-in-2023-reflecting-55-growth/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/Crypto_Analyst_Altcoins_Are_in_a_Long_Term_Accumulation_Phase-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto-based loans have experienced a notable rebound of over 55% in 2023 as companies increasingly turn to blockchain-based financing amid elevated interest rates. The development was captured in a recent report by Bloomberg, noting that the resurgence marks a partial recovery from the crypto sector’s 2022 downturn. Citing data from RWA.xyz, a market intelligence platform [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/crypto-loans-rebound-to-581m-in-2023-reflecting-55-growth/\">Crypto Loans Rebound to $581M in 2023, Reflecting 55%+ Growth</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

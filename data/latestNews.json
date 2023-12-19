@@ -1,79 +1,107 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-19T17:23:38.000Z",
-    "title": "Real-World Assets Build on Solana as Ondo Finance Expands Tokenized Treasury Offering",
-    "url": "https://www.coindesk.com/business/2023/12/19/more-real-world-assets-arrive-on-solana-as-ondo-finance-expands-tokenized-treasury-offering/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The combined market cap of tokenized Treasuries mushroomed to over $760 million from $110 million earlier this year, according to RWA.xyz data."
+    "date": "2023-12-19T17:51:15.000Z",
+    "title": "ETFs, Halving, Upgrades – What to Expect With Bitcoin Next Year",
+    "url": "https://www.coindesk.com/consensus-magazine/2023/12/19/etfs-halving-upgrades-what-to-expect-with-bitcoin-next-year/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "2024 promises to be a year of continued expansion for Bitcoin, says Cory Klippsten, CEO of Swan."
   },
   {
     "source": "CoinDesk",
-    "date": "2023-12-19T17:21:40.000Z",
-    "title": "42 Different Countries Discussed or Passed Crypto Regulations, Legislation in 2023: PwC ",
-    "url": "https://www.coindesk.com/policy/2023/12/19/42-different-countries-discussed-or-passed-crypto-regulations-legislation-in-2023-pwc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "More than 40 countries have taken aim at advancing crypto-focused regulations and legislation this year, signaling wider cryptocurrency adoption globally may be underway. That’s according to a new report from professional services firm PriceWaterhouseCoopers."
+    "date": "2023-12-19T17:45:00.000Z",
+    "title": "Shiba Inu Could Soon Offer SHIB Holders a '.shib' Internet Domain",
+    "url": "https://www.coindesk.com/tech/2023/12/19/shiba-inu-could-soon-offer-shib-holders-a-shib-internet-domain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The team is working with Web3 domains player D3 to apply for and win the “.shib” internet domain as part of a broader push toward a decentralized identity project."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-19T18:01:02.000Z",
+    "title": "Shiba Inu Team Seeks to Launch SHIB Domains for Websites and Email",
+    "url": "https://decrypt.co/210301/shiba-inu-team-seeks-launch-shib-domains-websites-ema",
+    "description": "The SHIB team is partnering with domain company D3 to lobby for approval of the first-ever crypto top-level-domain."
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-19T17:14:00.000Z",
-    "title": " Bitcoin&#039;s third straight month of gains fuels altcoin comeback ",
-    "url": "https://cointelegraph.com/news/bitcoin-s-third-straight-month-of-gains-fuels-altcoin-comeback",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNDkxNzA5YWUtNDhkNi00ZDBkLTlkYzAtMTNjMzIwOTY4YmVlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The potential for an extensive 'altseason' remains uncertain, but various industry sectors, previously inactive during the bear market, are beginning to exhibit early signs of revival.</p>\n                    <p><p data-ct-non-breakable=\"true\">Bitcoin marked its third consecutive month of gains at the close of November, prompting a renewed interest in alternative cryptocurrencies (altcoins) that had initially picked up in October. Consequently, the total market value of all cryptocurrency projects, excluding Bitcoin and Ethereum, has recently reached a peak last seen in August 2022.</p><p>The potential for an extensive 'altseason' remains uncertain, but various industry sectors, previously inactive during the bear market, are beginning to exhibit early signs of revival. The Cointelegraph Research Monthly Trends report for December 2023 offers a comprehensive analysis of these emerging trends. </p><p>This month’s edition covers a range of topics, including Bitcoin market trends, developments in decentralized finance (DeFi), movements in crypto stocks, venture capital activities, derivatives, mining sector updates, and the progress in tokenization of real-world assets.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-s-third-straight-month-of-gains-fuels-altcoin-comeback\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-19T17:45:00.000Z",
+    "title": " Atomic Wallet launches $1M bug bounty amid hacking lawsuit ",
+    "url": "https://cointelegraph.com/news/atomic-wallet-launches-1-million-bug-bounty-amid-hacking-lawsuit",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYTU1MDM0OWYtYjM1MC00NTgxLWI2ZmQtZjk4NDk4NWJlNmEwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The developer is offering up to $100,000 to any white hat hacker who can discover a wallet-draining vulnerability.</p>\n                    <p><p>The developer of Atomic Wallet has <a href=\"https://atomicwallet.io/blog/articles/bug-bounty\" target=\"_blank\" rel=\"noopener nofollow\">launched</a> a $1 million bug bounty to find security flaws in its wallet software, according to a Dec. 18 announcement. The launch comes amid an ongoing class action lawsuit against the developer related to a $100 million hack in June.</p><p>According to the post, the development team is extending an invitation to ethical hackers and security experts worldwide to find software bugs and security flaws in its open source code. White hat hackers who find the most serious type of vulnerability and report it to the team will receive $100,000. This type of vulnerability is defined as any that would allow “the ability to attack/drain a wallet without physical access, installed malware, or social engineering, indicating an actual over-the-internet attack and a flaw in our code or dependencies,” the announcement stated.</p><p>If a hacker reports bugs or flaws that do not fit this definition, they will be paid $500 to $10,000, depending on the severity of the vulnerability. For example, the post states that hackers will be paid $5,000 for the discovery of a “high-risk” vulnerability and $10,000 for a “critical-risk” one. The total amount of the bounty pool for all discoveries is $1 million.</p><p><a href=\"https://cointelegraph.com/news/atomic-wallet-launches-1-million-bug-bounty-amid-hacking-lawsuit\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-19T17:10:12.000Z",
-    "title": "7RCC files application for Bitcoin ETF with eco-friendly edge",
-    "url": "https://cryptoslate.com/7rcc-files-application-for-bitcoin-etf-with-eco-friendly-edge/",
-    "description": "<p>Asset manager 7RCC has applied for an environment-conscious spot Bitcoin exchange-traded fund (ETF) with the U.S. Securities and Exchange Commission (SEC), according to a Dec. 18 filing. The ETF, going by the ticker BTCK, and formally named the 7RCC Bitcoin and Carbon Credit Futures ETF, takes a novel approach as its strategy involves investing in [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/7rcc-files-application-for-bitcoin-etf-with-eco-friendly-edge/\">7RCC files application for Bitcoin ETF with eco-friendly edge</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-19T17:50:25.000Z",
+    "title": "Elizabeth Warren criticizes crypto industry for extensive recruitment of former national security officials",
+    "url": "https://cryptoslate.com/elizabeth-warren-criticizes-crypto-industry-for-extensive-recruitment-of-former-national-security-officials/",
+    "description": "<p>Senator Elizabeth Warren has strongly criticized the Blockchain Association&#8217;s strategy of leveraging ex-military and national security professionals to influence U.S. cryptocurrency policies. This controversy arises from the Association&#8217;s recent Congressional correspondence, co-signed by numerous former defense and intelligence officers, to address misconceptions about crypto&#8217;s role in illicit finance. The letter In a letter to the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/elizabeth-warren-criticizes-crypto-industry-for-extensive-recruitment-of-former-national-security-officials/\">Elizabeth Warren criticizes crypto industry for extensive recruitment of former national security officials</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-12-19T17:57:17.000Z",
+    "title": "Binance settles on CFTC charges, agrees to $2.7 billion in fines",
+    "url": "https://cryptobriefing.com/binance-settles-on-cftc-charges-agrees-to-2-7-billion-in-fines/?utm_source=feed&utm_medium=rss",
+    "description": "The US District Court orders Binance and Changpeng Zhao to pay hefty fines for illegal trading activities and lax KYC procedures."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-19T17:15:08.000Z",
-    "title": "Avalanche (AVAX) Overbought: Is the Bullish Wave Set to Crash, and What's the Fate of Bitcoin SV BSV?",
-    "url": "https://cryptodaily.co.uk/2023/12/avalanche-avax-overbought-is-the-bullish-wave-set-to-crash-and-whats-the-fate-of-bitcoin-sv-bsv",
-    "description": "Dive into the latest cryptocurrency market trends with a focus on Bitcoin SV (BSV) and Avalanche (AVAX). Uncover the mysteries behind their bullish movements and explore the sustainability of these trends. Is AVAX overbought? Will BSV weather the storm? Find answers and stay ahead of the crypto game in this insightful analysis."
+    "date": "2023-12-19T17:43:52.000Z",
+    "title": "What Do Recent Developments in Ethereum (ETH), Ripple (XRP), and Cardano (ADA) Indicate for Investors?",
+    "url": "https://cryptodaily.co.uk/2023/12/what-do-recent-developments-in-ethereum-eth-ripple-xrp-and-cardano-ada-indicate-for-investors",
+    "description": "Join the festive crypto wave with StealthEX's $1,000 holiday giveaway and explore the latest trends and price predictions in the dynamic world of Ethereum (ETH), Ripple (XRP), and Cardano (ADA). Dive into crucial updates from the crypto sector, ranging from market shifts to regulatory changes, and learn how they might shape the future of these top cryptocurrencies. Be part of the holiday excitement with StealthEX and seize the opportunity to win big while staying updated on the pulsating crypto market."
   },
   {
     "source": "Bitcoin.com",
-    "date": "2023-12-19T17:30:31.000Z",
-    "title": "Bankrupt Crypto Firm FTX Trading Reaches Settlement With Bahamian Subsidiary",
-    "url": "https://news.bitcoin.com/bankrupt-crypto-firm-ftx-trading-reaches-settlement-with-bahamian-subsidiary/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bankrupt Crypto Firm FTX Trading Reaches Settlement With Bahamian Subsidiary\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/foossd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />FTX Trading Ltd. and its affiliated debtors have announced a landmark settlement with their Bahamian subsidiary, FTX Digital Markets Ltd., amid ongoing liquidation proceedings. This agreement, pending court approval, promises a novel approach to handling the complex legal challenges stemming from the group&#8217;s collapse. FTX Strikes Deal with Bahamian Subsidiary, Paving Way for Fair Asset [&#8230;]"
+    "date": "2023-12-19T18:00:26.000Z",
+    "title": "GameSwift Introduces GS Pay To Bridge The Gap Between Web2 and Web3 Payments",
+    "url": "https://news.bitcoin.com/gameswift-introduces-gs-pay-to-bridge-the-gap-between-web2-and-web3-payments/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. The GameSwift team is proud to introduce GS Pay, a revolutionary payment system and bank card that seamlessly converts in-game treasures into real money, unlocking a world where gaming fuels real-life purchases. As the gaming sector continues its exponential growth, the lines between reality and virtual worlds are becoming increasingly blurred. Gaming is [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T17:22:21.000Z",
-    "title": "Philippines couldn’t become friends with China – and it really did try",
-    "url": "https://www.cryptopolitan.com/philippines-couldnt-befriend-china/",
-    "description": "The diplomatic dance between the Philippines and China over the contentious South China Sea has been a prolonged and intricate affair. Despite earnest efforts by Manila to forge a friendlier relationship with Beijing, recent events have only highlighted the complexities and challenges in this geopolitical tango. Philippines President Ferdinand Marcos Jr.’s recent remarks underscore a [&#8230;]"
+    "date": "2023-12-19T18:08:37.000Z",
+    "title": "ApeCoin Price Prediction 2023-2032: Will APE Break $2 Resistance?",
+    "url": "https://www.cryptopolitan.com/apecoin-price-prediction/",
+    "description": "ApeCoin Price Prediction 2023-2032 The NFT industry has been booming for the past few years and is not stopping anytime soon. The NFT project Bored Ape Yacht Club has been one of the most successful in the blockchain industry. However, recent statistics indicate that the project is losing its momentum. Various APE price highlights unfold [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T18:07:00.000Z",
+    "title": "Uniswap Price Prediction 2023-2032: Will UNI Keep Steady?",
+    "url": "https://www.cryptopolitan.com/uniswap-price-prediction/",
+    "description": "Uniswap Price Prediction 2023-2032 For anyone considering the switch from centralized finance (CeFi) to decentralized finance (DeFi), here&#8217;s a thought: Why do we constantly update the Uniswap Price Prediction? The fight is on for the survival of the fittest crypto project, and we need to keep you informed despite social media maneuvers by certain quarters! [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T17:46:16.000Z",
+    "title": "BRICS 2.0 with the Middle East edition – 5 Arab nations ready to join the alliance",
+    "url": "https://www.cryptopolitan.com/5-arab-nations-ready-to-join-the-brics/",
+    "description": "The BRICS alliance, consisting of Brazil, Russia, India, China, and South Africa, has fostered economic cooperation and shaped a multipolar world. As we stand on the cusp of a new era, the alliance is set to undergo a transformative expansion with the inclusion of five dynamic Arab nations, heralding the dawn of BRICS 2.0 with [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T17:36:24.000Z",
-    "title": "Kaiko: Solana price ratio shows recovery from FTX collapse",
-    "url": "https://crypto.news/kaiko-solana-price-ratio-shows-recovery-from-ftx-collapse/",
-    "description": "Kaiko reports Solana is experiencing a price surge, with the SOL/ETH price ratio witnessing a strong reversal."
+    "date": "2023-12-19T18:09:04.000Z",
+    "title": "All you need to know about Pix, Brazil’s FedNow",
+    "url": "https://crypto.news/all-you-need-to-know-about-pix-brazils-fednow/",
+    "description": "Pix faces scrutiny over its business model, with concerns about pricing, fraud protection, and market disruption."
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-19T17:11:24.000Z",
-    "title": "DWF Labs announces investment into user-generated gaming",
-    "url": "https://crypto.news/dwf-labs-announces-investment-into-user-generated-gaming/",
-    "description": "DWF Labs announced its investment in MOBOX, a prominent player in web3 gaming known for its interoperable assets and ecosystem of games."
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-19T17:10:00.000Z",
-    "title": "Analyst Sees XRP Climbing to Above $0.7 as Bullish Trend Emerges",
-    "url": "https://coinedition.com/analyst-sees-xrp-climbing-to-above-0-7-as-bullish-trend-emerges/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Analyst Sees XRP Climbing to Above $0.7 as Bullish Trend Emerges\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/XRP-May-Print-a-Higher-High-in-the-Next-Few-Days-Says-Trader-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency trader and analyst EGRAG CRYPTO revealed in an X (formerly Twitter) post earlier today that Ripple (XRP) is in a bullish trend on its weekly chart. Included in the post was a snapshot of the altcoin’s weekly chart, which showed that the remittance token was resting on the key support level at around [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/analyst-sees-xrp-climbing-to-above-0-7-as-bullish-trend-emerges/\">Analyst Sees XRP Climbing to Above $0.7 as Bullish Trend Emerges</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2023-12-19T18:00:14.000Z",
+    "title": "Ethereum Bearish Falling Wedge Pattern Appears, How Low Can Price Go?",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-bearish-falling-wedge/",
+    "description": "Ethereum has followed the general trend of Bitcoin over the last few weeks and when the asset dipped from its 2023 peak, so did the price of ETH. Following this decline in price, a worrying pattern has appeared on the ETH chart known as a falling wedge pattern. This was brought to light by crypto analyst Alan Santana, who has painted a grim picture of what this could mean for Ethereum. Ethereum Falling Wedge Pattern Is Bearish In the analysis posted on the TradingView website, Alan Santana explains that the appearance of this falling wedge pattern does not bode well for the Ethereum price. Apparently, the ETH chart had formed a perfect rising wedge which eventually broke bearish. Given this, the crypto analyst explains that it shows that the Ethereum price is moving alongside the rest of the crypto market in a “normal but fast correction.” Related Reading: MicroStrategy’s Michael Saylor Calls Bitcoin An Institutional-Grade Asset Destined For $1 Million The crypto analyst also backs up their analysis with the Ethereum Moving Average Convergence/Divergence (MACD) indicator. In the chart shared by the analyst, there is a clear decline in the MACD on the daily chart, which lends credence to the bearish pressure mounting on ETH. Source: Tradingview.com Furthermore, using the Relative Strength Index (RSI) on the daily chart as well, there is also a clear decline. The RSI has apparently already lost its trend line support and is now moving below 50. The simple fact suggests a turn toward the bearish direction for the cryptocurrency. Santana explains that these indicators show that the bias toward a downward spiral is strong, especially since it has already seen a double-top pattern. “Volume continues to drop, the calm before the storm. Slowly, slowly down&#8230; Nothing is happening, everything is good then Boom!” the analyst warns. ETH price above $2,200 &#124; Source: ETHUSD on Tradingview.com Price Targets For ETH’s Bearish Formation From the chart posted in the analysis, the crypto analyst seems to expect at least a 20% drawdown for Ethereum following the double-top formation. Now, the chart puts the double top formation when the asset’s price briefly touched the $2,400 level last week. Related Reading: VanEck CEO Predicts When The Bitcoin Price Will Reach $69,000 Again After that, expectations have quickly gone in the opposite direction and as the formation plays out, the crypto analyst sees a decline to at least $1,800 from here. If further downside follows, then Santana expects that there will be more drawdowns that will end somewhere around $1,600. The Ethereum price is still trending around $2,200 at the time of writing, suggesting the bear pressure is still mounting. If it breaks down from here, then Santana’s prediction could prove right and ETH’s price could fall back to mid-October levels. Featured image from Crypto Briefing, chart from Tradingview.com"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2023-12-19T17:30:36.000Z",
-    "title": "Gelato’s Rollup Platform Expands Support to Optimism’s OP Stack, Launching Lisk Layer Two Chain",
-    "url": "https://dailyhodl.com/2023/12/19/gelatos-rollup-platform-expands-support-to-optimisms-op-stack-launching-lisk-layer-two-chain/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Gelato-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>December 19, 2023 – Zug, Switzerland Gelato announces expansion of its all-in-one Raas (Rollup-as-a-Service) platform. In addition to supporting Polygon CDK, Gelato now also services the OP Stack, the Optimism Collective&#8217;s open-source, modular development framework. As part of this expansion, Gelato enables Lisk, a layer one blockchain launched in 2016, to join the Ethereum ecosystem [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/19/gelatos-rollup-platform-expands-support-to-optimisms-op-stack-launching-lisk-layer-two-chain/\">Gelato’s Rollup Platform Expands Support to Optimism’s OP Stack, Launching Lisk Layer Two Chain</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-12-19T17:55:54.000Z",
+    "title": "Web3 Smartphone Solana Saga Sells Out Amid Price Explosion of Dogecoin Rival BONK",
+    "url": "https://dailyhodl.com/2023/12/19/web3-smartphone-solana-saga-sells-out-amid-price-explosion-of-dogecoin-rival-bonk/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/web3-soalana-saga-sells.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Solana&#8217;s (SOL) Web3 smartphone has sold out amid the price explosion of a memecoin built on the smart contract platform. Dogecoin (DOGE) competitor Bonk (BONK) is trading at $0.000021 at time of writing, a staggering 10,669% increase from the beginning of the fourth quarter. Solana Mobile announced last Friday that its smartphone, Saga, had sold out. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/19/web3-smartphone-solana-saga-sells-out-amid-price-explosion-of-dogecoin-rival-bonk/\">Web3 Smartphone Solana Saga Sells Out Amid Price Explosion of Dogecoin Rival BONK</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-19T17:47:25.000Z",
+    "title": "Meter Blockchain Leapfrogs to HotStuff 2.0 – Embracing Lightning-Fast Transactions",
+    "url": "https://dailyhodl.com/2023/12/19/meter-blockchain-leapfrogs-to-hotstuff-2-0-embracing-lightning-fast-transactions/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Meter.io-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Palo Alto, California Experience the remarkable performance boost with the HotStuff 2.0 consensus upgrade. Meter, the decentralized high-performance EVM blockchain that pioneered the permissionless flatcoin linked to competitive electricity price, announces a groundbreaking consensus upgrade to the HotStuff 2.0 protocol. Introduced in April 2023, the cutting-edge HotStuff 2.0 consensus protocol represents the latest evolution in [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/19/meter-blockchain-leapfrogs-to-hotstuff-2-0-embracing-lightning-fast-transactions/\">Meter Blockchain Leapfrogs to HotStuff 2.0 – Embracing Lightning-Fast Transactions</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,100 +1,128 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-19T16:18:50.000Z",
-    "title": "FTX's Bahamas Wing Reaches Agreement With U.S. Bankruptcy Team, Streamlining Future Actions",
-    "url": "https://www.coindesk.com/business/2023/12/19/ftxs-bahamas-wing-reaches-agreement-with-us-bankruptcy-team-streamlining-future-actions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "This deal will pave the way for assets to be be pooled and distributed to FTX.com customers."
+    "date": "2023-12-19T16:48:58.000Z",
+    "title": "UK Finance Ministry to Discuss Crypto Banking Woes With Lawmakers",
+    "url": "https://www.coindesk.com/policy/2023/12/19/uk-finance-ministry-to-discuss-crypto-banking-woes-with-lawmakers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Finance Minister Jeremy Hunt said U.K., and London in particular, has become \"the global crypto hub.\""
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-19T16:46:31.000Z",
+    "title": "Crypto Market Outlooks for 2024 from a16z, Fidelity, Coinbase, Pantera and More",
+    "url": "https://www.coindesk.com/markets/2023/12/19/crypto-market-outlooks-for-2024-from-a16z-fidelity-coinbase-pantera-and-more/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Also among those gazing into next year are a16z, Bitwise, VanEck and Hashdex."
   },
   {
     "source": "Decrypt",
-    "date": "2023-12-19T16:36:18.000Z",
-    "title": "BONK Goes Bust? Solana Meme Coin Plunges 44% After Setting All-Time High",
-    "url": "https://decrypt.co/210270/bonk-goes-bust-solana-meme-coin-plunges-44-after-setting-all-time-high",
-    "description": "What went up last week has come crashing down—but Solana’s BONK is still up 500% this month despite the losses."
+    "date": "2023-12-19T16:54:33.000Z",
+    "title": "Terra Founder Do Kwon Avoids Extradition to US—For Now",
+    "url": "https://decrypt.co/210277/terra-do-kwon-extradition-montenegro",
+    "description": "The Terra founder was set to be extradited to the U.S. but an appeal means he will for the time being stay in Montenegro. "
   },
   {
-    "source": "Decrypt",
-    "date": "2023-12-19T16:27:00.000Z",
-    "title": "BlackRock Makes Key Changes to Bitcoin ETF Ahead of Expected Launch",
-    "url": "https://decrypt.co/210278/blackrock-makes-key-changes-to-bitcoin-etf-ahead-of-expected-launch",
-    "description": "In a new SEC filing, BlackRock said its iShares Bitcoin Trust would only allow cash—not in-kind—creation and changed its ticker to IBIT."
+    "source": "Cointelegraph",
+    "date": "2023-12-19T17:03:24.000Z",
+    "title": " Crypto payment firm Alchemy Pay partners with Worldpay ",
+    "url": "https://cointelegraph.com/news/crypto-payment-firm-alchemy-pay-partners-worldpay",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvODAyZDBkNWItOTRkOS00NzIwLThjMzktYjI0MmQxZDNiODE5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The partnership allows Alchemy Pay users to access Worldpay's Visa and Mastercard payment rails. </p>\n                    <p><p>Singaporean fintech Alchemy Pay has secured a partnership with United Kingdom-based payment processor Worldpay.</p><p>According to the Dec. 19 <a href=\"https://alchemypay.org/news-and-press/alchemy-pay-joins-force-with-worldpay-from-fis-to-provide-leading-checkout-experience\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, the partnership will grant Alchemy Pay users access to Worldpay's Visa and Mastercard payment rails for purchasing cryptocurrencies with their credit and debit cards. </p><p>\"Alchemy Pay is now better positioned to assist our business partners and users in seamless cryptocurrency transactions worldwide,\" said Alchemy ecosystem lead Robert McCracken. </p><p><a href=\"https://cointelegraph.com/news/crypto-payment-firm-alchemy-pay-partners-worldpay\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-12-19T16:30:34.000Z",
-    "title": "Solana shows renewed strength against Ethereum in SOL/ETH ratio",
-    "url": "https://cryptoslate.com/solana-shows-renewed-strength-against-ethereum-through-sol-eth-ratio/",
-    "description": "<p>The SOL/ETH ratio, a metric comparing the value of Solana (SOL) to Ethereum (ETH), offers a clear lens to assess Solana&#8217;s standing in the competitive Layer-1 (L1) blockchain space. Amidst Solana&#8217;s growing user base and increasing market capitalization, this ratio is a vital tool for gauging its position as one of Ethereum&#8217;s most formidable rivals. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/solana-shows-renewed-strength-against-ethereum-through-sol-eth-ratio/\">Solana shows renewed strength against Ethereum in SOL/ETH ratio</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T17:08:36.000Z",
+    "title": "Lynex Integrates Orbs’ dLIMIT and dTWAP for DEX Trading on Linea",
+    "url": "https://cryptodaily.co.uk/2023/12/lynex-integrates-orbs-dlimit-and-dtwap-for-dex-trading-on-linea",
+    "description": "Linea, the Consensys zkEVM, has been enhanced by the integration of two new products for onchain traders. One of the leading DEXes operating on Linea, Lynex, has added dLIMIT and dTWAP courtesy of Orbs. These features allow Lynex to support advanced order types more commonly associated with CEX trading."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-12-19T16:30:06.000Z",
-    "title": "Veteran Trader Peter Brandt Shorts Ethereum, Signaling Potential Downturn",
-    "url": "https://news.bitcoin.com/veteran-trader-peter-brandt-shorts-ethereum-signaling-potential-downturn/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Veteran Trader Peter Brandt Shorts Ethereum, Signaling Potential Downturn\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ether.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Monday, veteran trader Peter Brandt took to the social media channel X (previously known as Twitter) to reveal that he had taken a short position on ethereum (ETH), the crypto market&#x2019;s second-largest asset by valuation. He further shared a technical chart with his 707,000 followers on X to illustrate his strategy. Brandt Takes Short [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T17:08:44.000Z",
+    "title": "Shiba Inu (SHIB) Feeling Played Out? Try High-Potential Utility Tokens: Avalanche (AVAX) and Pullix (PLX) While Still Cheap!",
+    "url": "https://cryptodaily.co.uk/2023/12/shiba-inu-shib-feeling-played-out-try-high-potential-utility-tokens-avalanche-avax-and-pullix-plx-while-still-cheap",
+    "description": "The hype around Shiba Inu (SHIB) might be cooling off, but the crypto sector never stays static. If you're on the hunt for the next wave of utility tokens with high growth potential,"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T16:34:54.000Z",
-    "title": "Core Scientific’s Bankruptcy Exit Hearing Rescheduled: Aiming for Unanimous Stakeholder Support",
-    "url": "https://www.cryptopolitan.com/core-scientifics-hearing-unanimous-support/",
-    "description": "Core Scientific, a leading North American Bitcoin mining firm, has decided to postpone its bankruptcy exit final hearing to January 10, 2024. The move comes as the company engages in crucial negotiations to secure unanimous support from its key stakeholders for a more unified exit strategy. Core Scientific&#8217;s postponement for unanimous support Originally scheduled for [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T17:01:58.000Z",
+    "title": "Dogecoin (DOGE) Price Prediction – Meme Moguls (MGLS) and Solana (SOL) Are Investor Favorites for 2024",
+    "url": "https://cryptodaily.co.uk/2023/12/dogecoin-doge-price-prediction-meme-moguls-mgls-and-solana-sol-are-investor-favorites-for-2024",
+    "description": "While Dogecoin (DOGE) captured the spotlight with its meme-inspired rise, there's a shift in focus toward altcoins like Meme Moguls (MGLS) and Solana (SOL)."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T16:26:33.000Z",
-    "title": "HyperPlay Integrates MetaMask Snaps for Enhanced Blockchain Gaming Experience",
-    "url": "https://www.cryptopolitan.com/hyperplay-metamask-snaps-blockchain-gaming/",
-    "description": "HyperPlay, a PC game launcher akin to platforms like Steam, Epic Games Store, and GoG (formerly Good Old Games), has taken a significant leap in blockchain gaming by integrating its wallet overlay with MetaMask Snaps. The integration marks a new era in gaming, allowing players to use custom wallet apps within games for a seamless [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T16:24:24.000Z",
-    "title": "Central banks face the challenge of adaptation",
-    "url": "https://www.cryptopolitan.com/central-banks-challenge-of-adaptation/",
-    "description": "The global economy is currently witnessing a significant trial for central banks worldwide. This challenge isn&#8217;t about altering interest rates or implementing unconventional monetary policies. Rather, it&#8217;s a test of adaptability and responsiveness to rapidly shifting economic landscapes. The recent convergence of the Federal Reserve, European Central Bank, Bank of England, and Bank of Japan [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T16:55:54.000Z",
+    "title": "Alkimi Launches Mainnet; Bringing $600 Billion Industry On-Chain",
+    "url": "https://cryptodaily.co.uk/2023/12/alkimi-launches-mainnet-bringing-600-billion-industry-on-chain",
+    "description": "Alkimi Launches Mainnet; Bringing $600 Billion Industry On-Chain"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T16:12:44.000Z",
-    "title": "ECB warns Eurozone banks of more volatility ahead",
-    "url": "https://www.cryptopolitan.com/ecb-eurozone-banks-of-more-volatility-ahead/",
-    "description": "The European Central Bank (ECB) has issued a stern warning to Eurozone banks, signaling the need for preparedness against potential volatility in the coming year. This cautionary advice comes amidst a backdrop of geopolitical tensions and economic uncertainties, urging banks to brace for potentially tumultuous times ahead. With the ECB supervising the Eurozone&#8217;s top banks [&#8230;]"
+    "date": "2023-12-19T17:05:22.000Z",
+    "title": "Will we see a China economic rebound in 2024?",
+    "url": "https://www.cryptopolitan.com/will-we-see-a-china-economic-rebound-in-2024/",
+    "description": "The economic scene in China, post-COVID-19, presents a tableau of uncertainty and conjecture. With the collapse of the stringent COVID protocols, expectations soared for a swift economic rebound. Optimists visualized bustling malls, revitalized foreign investment, humming factories, and a stable real estate sector. The reality, however, paints a different picture, one of cautious consumers, retreating [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:58:31.000Z",
+    "title": "Swiss financial watchdog wants more power post-Credit Suisse crash",
+    "url": "https://www.cryptopolitan.com/swiss-watchdog-more-power-post-credit-suisse/",
+    "description": "In the wake of the tumultuous collapse of Credit Suisse, Switzerland&#8217;s financial watchdog, FINMA, has stepped into the spotlight, advocating for an expansion of its regulatory powers. This move is not just a reaction to a single financial debacle but a clear signal of a shifting paradigm in the Swiss banking sector&#8217;s oversight. The downfall [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:55:40.000Z",
+    "title": "Marathon Digital Holdings Expands Bitcoin Mining Operations with $179 Million Acquisition",
+    "url": "https://www.cryptopolitan.com/marathon-bitcoin-operation-179-million/",
+    "description": "Marathon Digital Holdings, Inc. (NASDAQ: MARA), a prominent figure in the Bitcoin ecosystem, has announced a definitive agreement to acquire two operational Bitcoin mining sites from subsidiaries of Generate Capital, PBC, for a total of $178.6 million. The strategic acquisition, paid in cash from the company&#8217;s balance sheet, marks a significant shift in the company&#8217;s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:54:58.000Z",
+    "title": "Alkimi Launches Mainnet; Bringing $600 Billion Industry On-Chain",
+    "url": "https://www.cryptopolitan.com/alkimi-launches-mainnet-bringing-600-billion-industry-on-chain/",
+    "description": "London, United Kingdom, December 19th, 2023, Chainwire Alkimi, the world’s first decentralised ad exchange, has exited beta and now has advertisers and publishers buying and selling inventory through its blockchain-based programmatic platform. The launch of a custom consensus, distributed ledger and node platform marks a new era for digital advertising. It makes it possible to [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:54:09.000Z",
+    "title": "Cosmos Price Prediction 2023-2032: Will ATOM Recover ATH?",
+    "url": "https://www.cryptopolitan.com/cosmos-price-prediction/",
+    "description": "Cosmos Price Prediction 2023-2032 Binance chief executive Changpeng Zhao likened the recent FTX collapse to the start of the 2008 financial crisis. Will its demise cause other crypto firms to fold? The debacle promises to have its repercussions in 2023 That&#8217;s the essential question, for now: how will this affect our Cosmos Price Prediction? How [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:52:34.000Z",
+    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
+    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
+    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T16:48:06.000Z",
+    "title": "Geopolitical vulnerabilities are going to be America’s demise",
+    "url": "https://www.cryptopolitan.com/geopolitical-vulnerabilities-americas-demise/",
+    "description": "The United States&#8217; global influence, once unchallenged and formidable, now faces a myriad of challenges that could herald its decline as a superpower. This isn’t about America losing its charm; its cultural and economic footprint remains undeniable. Yet, beneath the surface, geopolitical vulnerabilities are brewing, threatening to undercut its long-held global dominance. America’s geopolitical hurdles [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T16:25:34.000Z",
-    "title": "EthereumPoW dissolves core team, embraces full autonomy",
-    "url": "https://crypto.news/ethereumpow-dissolves-core-team-embraces-full-autonomy/",
-    "description": "EthereumPoW will disband its core development team to achieve full autonomy for the network."
+    "date": "2023-12-19T16:58:43.000Z",
+    "title": "Elastos eyes $700b Bitcoin staking market with Layer 2 network",
+    "url": "https://crypto.news/elastos-eyes-700b-bitcoin-staking-market-with-layer-2-network/",
+    "description": "Elastos announced the launch of BeL2, a Layer 2 network built on Bitcoin, to introduce sophisticated BTC transactions on its blockchain."
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T16:17:26.000Z",
-    "title": "FTX and Bahamian liquidators agree on creditor payout plan",
-    "url": "https://crypto.news/ftx-and-bahamian-liquidators-agree-on-creditor-payout-plan/",
-    "description": "FTX has finalized a collaboration with Bahamian liquidators to outline details on how to pay back its creditors. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-19T16:30:44.000Z",
-    "title": "Santiment Breaks Down “Most Trending” Altcoins Of Past Week",
-    "url": "https://www.newsbtc.com/altcoin/santiment-breaks-down-trending-altcoins-week/",
-    "description": "Here are the various altcoins that Santiment has identified to have been the most trending cryptocurrencies of the past week. Altcoins Like BONK Or SOL Saw Most Traction In Past Week In a new insight post, the on-chain analytics firm Santiment has discussed about some alts that have taken focus during the last week. Based on social media data, Santiment determines tokens to be &#8220;trending&#8221; if they have been receiving significant attention in the past 24 hours. Related Reading: XRP Gets Rejected Down: Analyst Predicts Bottom Target The below chart shows the top altcoins for each day in the past week on the basis of this metric: Looks like certain coins have repeatedly appeared on these lists &#124; Source: Santiment From the graph, it&#8217;s visible that the Solana-based meme coin BONK has pretty much observed the highest amount of traction on social media platforms during this period. The main reason behind the dog-themed coin being so trendy has been its listings on the two largest cryptocurrency exchanges in the sector, Coinbase and Binance. Injective Protocol (INJ) has been another asset that has consistently appeared on the Trending Tokens list. Santiment explains that the source of the altcoin&#8217;s popularity lies in its rally and hype for an upcoming airdrop. Solana (SOL), the sixth-largest cryptocurrency by market cap, has also been discussed by social media users. &#8220;Between December 11 and 17, SOL climbed the ranks, attributed to several high-profile projects and partnerships,&#8221; notes the analytics firm. &#8220;The ecosystem&#8217;s growth and its challenge to Ethereum&#8217;s dominance in Web3 were hot topics among traders and enthusiasts,&#8221; adds Santiment. Solana has also enjoyed some sharp uptrend in the past day, as the asset has shot up around 11% during the period. Unsurprisingly, Internet Computer (ICP) has also gained steam during the last week, as the asset has surged more than 73%. Since its high above $11.5, though, the altcoin has registered some significant decline, as it&#8217;s now trading around $9.75. &#8220;In summary, this week spotlighted the power of market catalysts — from exchange listings to pivotal updates — and their profound impact on project sentiments and trading activities,&#8221; says the analytics firm. BONK&#8217;s Exchange Listing Hype Has Observed Some Cooldown Soon after the meme coin received its listings on the aforementioned platforms, the BONK price shot up towards a new all-time high north of the $0.0000349 level. This extraordinary surge proved to be unsustainable, however, as profit-taking quickly ramped up and the altcoin fell back down. Related Reading: Bitcoin Crash To $38,000: Here’s What Could Trigger It BONK has since registered a very significant drop to the $0.0000206 mark. Here is a chart that shows how the meme coin&#8217;s performance has looked like in the past month: The price of the altcoin appears to have shot up recently &#124; Source: BONKUSD on TradingView Despite this drawdown of 41% from the top, though, BONK is still up more than 56% in the past week, which is an impressive return nonetheless. Overall in the past month, the meme coin is carrying profits of 617%, showcasing just how strong the coin&#8217;s recent rise has been. Featured image from Shutterstock.com, charts from TradingView.com, Santiment.net"
+    "date": "2023-12-19T16:52:23.000Z",
+    "title": "Hashkey Capital Singapore obtains Singapore banking license",
+    "url": "https://crypto.news/hashkey-capital-singapore-obtains-singapore-banking-license/",
+    "description": "Hashkey Capital's Singapore unit secures a central bank license, enabling local fund management and fostering the integration of traditional and digital finance."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-19T16:36:58.000Z",
-    "title": "Dogecoin Co-founder Billy Markus Shuts Down Speculation About New Token",
-    "url": "https://www.crypto-news-flash.com/dogecoin-co-founder-billy-markus-shuts-down-speculation-about-new-token/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-co-founder-billy-markus-shuts-down-speculation-about-new-token",
-    "description": "<img width=\"1000\" height=\"664\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/mk1one-Dogecoin4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/mk1one-Dogecoin4.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/mk1one-Dogecoin4-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/mk1one-Dogecoin4-768x510.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/mk1one-Dogecoin4-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Markus&#8217;s involvement with a decade-old Bells network that was forked by unknown developers has been downplayed amid the ongoing meme coin hype. The Dogecoin developer reminded the followers that he would never be involved in another crypto project, and he was only relooking into the project to give investors some perspective. Amid the heightened meme [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-19T16:27:26.000Z",
-    "title": "Layer 3 ClearSyncTM: Pioneering New Protocol for Secure Transactions",
-    "url": "https://www.crypto-news-flash.com/layer-3-clearsynctm-pioneering-new-protocol-for-secure-transactions/?utm_source=rss&utm_medium=rss&utm_campaign=layer-3-clearsynctm-pioneering-new-protocol-for-secure-transactions",
-    "description": "<img width=\"903\" height=\"508\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Yellow-network.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Yellow network\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Yellow-network.png 903w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Yellow-network-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Yellow-network-768x432.png 768w\" sizes=\"(max-width: 903px) 100vw, 903px\" />Layer 3 Foundation launches Yellow Clearing Network testnet in Duckies, innovating in decentralized clearing and counterparty risk mitigation. Layer 3&#8217;s Yellow Clearing Network, using ClearSyncTM protocol, promises to revolutionize trading, increasing security and efficiency in financial transactions. Layer 3 Foundation, a pioneer in blockchain-based financial technology, has announced the launch of a test network for [...]"
+    "date": "2023-12-19T16:57:51.000Z",
+    "title": "Alkimi Launches Mainnet; Bringing $600 Billion Industry On-Chain",
+    "url": "https://www.crypto-news-flash.com/alkimi-launches-mainnet-bringing-600-billion-industry-on-chain/?utm_source=rss&utm_medium=rss&utm_campaign=alkimi-launches-mainnet-bringing-600-billion-industry-on-chain",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Better_resolution__1702997842h9y13Wtsev.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Better_resolution__1702997842h9y13Wtsev.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Better_resolution__1702997842h9y13Wtsev-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Better_resolution__1702997842h9y13Wtsev-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Better_resolution__1702997842h9y13Wtsev-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />London, United Kingdom, December 19th, 2023, Chainwire Alkimi, the world’s first decentralised ad exchange, has exited beta and now has advertisers and publishers buying and selling inventory through its blockchain-based programmatic platform. The launch of a custom consensus, distributed ledger and node platform marks a new era for digital advertising. It makes it possible to [...]"
   }
 ]

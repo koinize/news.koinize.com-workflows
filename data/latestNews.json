@@ -1,93 +1,58 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-19T14:59:35.000Z",
-    "title": "Hashkey Capital Singapore Secures Capital Markets Services License From MAS",
-    "url": "https://www.coindesk.com/policy/2023/12/19/hashkey-capital-singapore-secures-capital-markets-services-license-from-mas/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The firm follows crypto exchange DigiFT, which received a CMS license last month."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2023-12-19T14:50:56.000Z",
-    "title": "OKX Wallet Users Warned to Update App to Avoid Code Vulnerability",
-    "url": "https://www.coindesk.com/business/2023/12/19/okx-wallet-users-warned-to-update-app-to-avoid-code-vulnerability/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Blockchain security firm Certik has warned OKX Wallet users to update their iOS app after a critical Remote Code Execution (RCE) vulnerability was found in a previous version."
+    "date": "2023-12-19T15:19:59.000Z",
+    "title": "Bitcoin Miner Marathon Digital to Buy New Mining Sites for $179M",
+    "url": "https://www.coindesk.com/business/2023/12/19/bitcoin-miner-marathon-digital-to-buy-new-mining-sites-for-179m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Marathon said the acquisitions will reduce the cost per coin mined by around 30%"
   },
   {
     "source": "Cointelegraph",
-    "date": "2023-12-19T14:41:53.000Z",
-    "title": " Ethereum proof-of-work core development team disbands ",
-    "url": "https://cointelegraph.com/news/ethereum-proof-of-work-core-development-team-disbands",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNmRkNzZiM2QtNGI0NS00N2NkLWE5MjItOTBlNjJjMWZjMDhhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The ETHW blockchain will continue to run with decentralized governance. </p>\n                    <p><p>Developers of the Ethereum proof-of-work (PoW) hard fork have decided to disband.</p><p>According to the Dec. 19 <a href=\"https://medium.com/@ETHW/ethw-core-dissolution-statement-46f6ab80924\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, the core EthereumPoW development team will be dissolved to \"achieve full autonomy.\" Thereafter, the EthereumPoW blockchain will continue to run with PoW as the main consensus for the chain and decentralized governance \"to become a deity-less public chain.\" </p><p>Meanwhile, existing EthereumPoW servers will be transferred to OneDAO, a decentralized protocol on Harmony network, for \"transitional maintenance until long-term ecological partners are identified.\" Jadal Page, core developer of Ethereum PoW, wrote:</p><p><a href=\"https://cointelegraph.com/news/ethereum-proof-of-work-core-development-team-disbands\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-19T15:22:12.000Z",
+    "title": " Solana price technicals hint at 40% crash by New Year&#039;s ",
+    "url": "https://cointelegraph.com/news/solana-price-technicals-40-crash-new-year-s",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMDgzZTk5MTItNTM5OC00ZWM0LWJlOTAtMTVjZmYyY2I5YTdkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Solana's price uptrend lacks the underlying momentum required to continue its bull run, indicating selloff ahead.</p>\n                    <p><p>Solana (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) price risks losing nearly half its value in the coming weeks as a classic technical setup puts a potential 40% crash into play.</p><p>As of Dec. 19, SOL is trading at around $76.35, up around 50% compared to its local price low of around $51 a month ago.</p><p>However, SOL's rally lacked momentum required to sustain the uptrend further. Notably, the cryptocurrency's <a href=\"https://cointelegraph.com/news/here-s-3-ways-the-relative-strength-index-rsi-can-be-used-as-a-sell-signal\">relative strength index (RSI)</a> has dropped from 90 to around 73 on its three-day chart, forming lower highs versus the price's higher highs.</p><p><a href=\"https://cointelegraph.com/news/solana-price-technicals-40-crash-new-year-s\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2023-12-19T15:02:22.000Z",
-    "title": "Trading Legend Peter Brandt Sees Ethereum Falling to $650 as U.S. SEC Postpones Decision on Multiple Ethereum ETFs",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/trading-legend-peter-brandt-sees-ethereum-falling-to-650-as-u-s-sec-postpones-decision-on-multiple-ethereum-etfs/",
-    "description": "Yesterday, Peter Brandt, a renowned market trader, forecasted a significant price drop for Ethereum (ETH), the second-largest cryptocurrency by market capitalization. Brandt, known for his generally pessimistic view on Ethereum, predicts the digital currency could plummet to as low as $650. Peter Brandt is a highly experienced and respected figure in the world of trading […]\n"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T15:08:58.000Z",
-    "title": "Security concerns rise as Binance law enforcement access offered for $10,000",
-    "url": "https://www.cryptopolitan.com/binance-law-enforcement-access-offered-10k/",
-    "description": "A user named &#8220;Miembro&#8221; has surfaced on Breach Forums, advertising access to Binance&#8217;s law enforcement request panel for $10,000 in Bitcoin or Monero. This access, claimed to be exclusive to law enforcement, is suspected to originate from compromised email accounts of law enforcement officials. Security breach details The compromised credentials reportedly stem from a global [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T15:35:58.000Z",
+    "title": "NEAR Protocol (NEAR) vs. Optimism (OP): Who Will Hit $3 First By Year-End?",
+    "url": "https://cryptodaily.co.uk/2023/12/near-protocol-near-vs-optimism-op-who-will-hit-3-first-by-year-end",
+    "description": "Explore the potential of NEAR Protocol (NEAR) and Optimism (OP) to reach the ambitious $3 mark by year-end in our comprehensive analysis. Delve into how current regulatory landscapes and macroeconomic factors might influence these cryptocurrencies' trajectories. Here, we offer insights into resilience and future prospects of both NEAR and OP in an increasingly volatile market."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T15:08:11.000Z",
-    "title": "AI and Humanization: The Future of Journalism in 2024",
-    "url": "https://www.cryptopolitan.com/ai-and-humanization-the-future-of-journalism/",
-    "description": "In recent years, the buzz surrounding artificial intelligence (AI) in journalism has been deafening. The rapid advancement of large language models and other AI technologies has promised to revolutionize newsrooms. However, a more nuanced picture emerges as the hype begins to subside. In the coming 12 months, newsrooms are expected to embrace AI technology for [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T15:06:40.000Z",
-    "title": "HashKey Capital secures regulatory approval for fund management operations in Singapore",
-    "url": "https://www.cryptopolitan.com/hashkey-secures-cms-approval-in-singapore/",
-    "description": "The Singapore unit of Hong Kong-based digital asset firm Hashkey has been given a full capital markets services license by the Republic&#8217;s regulator. On December 19, HashKey Capital Singapore touted this as a &#8220;pivotal development&#8221; that allows the firm to provide regulated fund management services, principally with respect to capital markets products from its Singapore [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T15:04:46.000Z",
-    "title": "Metaplex’s Innovative Leap in Solana NFTs: Inscriptions and Engravings",
-    "url": "https://www.cryptopolitan.com/metaplex-solana-nfts-inscriptions-engravings/",
-    "description": "In the dynamic world of blockchain and NFTs, Metaplex is making a significant stride on the Solana network with the introduction of two features: Metaplex Inscriptions and Engravings. These features are set to redefine the standards of NFT security, permanence, and integration within the Solana ecosystem, marking a new chapter in the evolution of blockchain [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T15:01:47.000Z",
-    "title": "AI Robot CyberRunner Surpasses Humans in Labyrinth Game",
-    "url": "https://www.cryptopolitan.com/ai-robot-cyberrunner-surpasses-humans/",
-    "description": "In a groundbreaking achievement, researchers at ETH Zurich have developed an AI robot named CyberRunner that has outperformed humans in the popular game Labyrinth. The robot accomplished this feat by navigating a small metal ball through a maze using fine motor skills and spatial reasoning, mastering the game in six hours.&#160; This marks one of [&#8230;]"
+    "date": "2023-12-19T15:13:15.000Z",
+    "title": "Amsterdam Emerges as a Thriving Hub for AI Startups",
+    "url": "https://www.cryptopolitan.com/amsterdam-emerges-as-a-thriving-hub-for-ai/",
+    "description": "Amsterdam, the capital of the Netherlands, has rapidly gained recognition as a thriving hub for artificial intelligence (AI) startups, with a strong emphasis on responsible and innovative AI development.&#160; This vibrant ecosystem is marked by collaboration, a skilled computer sciences and engineering workforce, and a supportive business infrastructure that has lured numerous AI startups to [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2023-12-19T14:53:21.000Z",
-    "title": "RIPPLE PRICE ANALYSIS & PREDICTION (December 19) –XRP May See Bigger Loss If $0.57 Cracks, Loses 3% Today",
-    "url": "https://nulltx.com/ripple-price-analysis-prediction-december-19-xrp-may-see-bigger-loss-if-0-57-cracks-loses-3-today/",
-    "description": "While most altcoins took a downturn since last week, XRP had seen a substantial loss in the past hour as the price dips below the $0.6 level. More bleeding may occur if the volatility continues to drop. In November, XRP traded as high as $0.75 after increasing by roughly 80% [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2023-12-19T15:00:01.000Z",
-    "title": "Crypto Analyst Predicts XRP 1,500% Move Against Bitcoin, What Are The Terms?",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-1500-against-bitcoin/",
-    "description": "Crypto analyst CryptoInsightUk has once again given his projections as to the future trajectory of the XRP price. This time, the analyst predicts that the crypto token could enjoy unprecedented against the flagship cryptocurrency, Bitcoin. However, there is a caveat for this to materialize.  How XRP Could Gain 1500% Against Bitcoin In a post shared on his X (formerly Twitter) platform, CryptoInsightUk said that XRP could see a move up to 1500% against Bitcoin. This, he stated, will happen if the crypto token could break and hold above the top grey box in the accompanying chart he shared. However, even if that doesn’t happen, he still expects XRP to make significant gains against Bitcoin. Source: X Related Reading: Dogecoin On-Chain Metrics Explode, Can DOGE Price Reach $0.2? He had earlier laid out another scenario where XRP makes an 88% move against Bitcoin. The crypto analyst seemed more confident in this happening as he mentioned that it looks like it is just a “matter of time” before this move-up happens. Many will, however, be hoping that the move of 1500% also actualizes at some point.  CrytoInsightUK happens to be one of those who are very bullish on XRP’s future trajectory. The crypto analyst had previously suggested that XRP could recapture the 61,000% gain it saw back in 2017. He highlighted how the token was in a better place and had a lot of potential. He also alluded to how the token is in a “unique position” considering that it has gained legal clarity. Token price shows strength &#124; Source: XRPUSD On Tradingview.com Stronger Than Bitcoin Crypto analyst Egrag Crypto recently asserted that XRP is stronger than BTC. He made this statement in relation to the fact that XRP is trading at a higher price level now, with Bitcoin currently trading at around $42,000, than when the flagship cryptocurrency was trading at this same level two years ago. XRP is said to be trading at 0.00000637 BTC back then. Related Reading: VanEck CEO Predicts When The Bitcoin Price Will Reach $69,000 Again According to Egrag, XRP’s 129% gain against Bitcoin highlights the former’s strength. It also cements “XRP’s dominance” in the market cycle. Meanwhile, the crypto analyst once again called for patience from the XRP community as he says that XRP hitting between $1.3 and $1.5 is on the horizon.  The bullish price predictions keep flowing in as the bull market draws near. Patrick Riley, the founder of Reaper Financial, also recently stated that XRP will hit $22 at the peak of the next bull run. Interestingly, he even went on to assert that the crypto token will surpass Bitcoin at some point.  At the time of writing, XRP is trading at around $0.61, up almost 1% in the last 24 hours, according to data from CoinMarketCap.  Featured image from Quora, chart from Tradingview.com"
+    "date": "2023-12-19T15:17:06.000Z",
+    "title": "BITCOIN PRICE ANALYSIS & PREDICTION (December 19) – BTC Signals Correction After Losing 7% Weekly, Is $40k Next Target? ",
+    "url": "https://nulltx.com/bitcoin-price-analysis-prediction-december-18-btc-signals-correction-after-losing-7-weekly-is-40k-next-target/",
+    "description": "The overall crypto market is down 1% today with Bitcoin dropping to its lowest level in two weeks. It has recovered briefly in the past hours but is likely to resume selling soon. Its dominance against altcoins currently stands at 52.1%. Bitcoin appeared to have finally suspended bullish after rejecting [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-19T15:06:24.000Z",
-    "title": "Breaking Boundaries: Analyst Warns of ‘Max Pain’ Scenario in Bitcoin’s Journey",
-    "url": "https://www.crypto-news-flash.com/breaking-boundaries-analyst-warns-of-max-pain-scenario-in-bitcoins-journey/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-boundaries-analyst-warns-of-max-pain-scenario-in-bitcoins-journey",
-    "description": "<img width=\"2560\" height=\"1536\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-1024x614.jpg 1024w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Bitcoin is expected to make one big jump after the halving event, then record a multi-year bearish run that could push &#8220;junk&#8221; assets out of the market.  According to the analyst, the extended bearish run could start after Bitcoin hits $180k.  Bitcoin (BTC) is still enjoying its rally as the asset makes a 58.76% surge [...]"
+    "date": "2023-12-19T15:36:46.000Z",
+    "title": "Ripple Wallet Xumm Becomes Xaman: XRPL Wallet’s Exciting Rebrand and Multi-Network Expansion with Xahau",
+    "url": "https://www.crypto-news-flash.com/ripple-wallet-xumm-becomes-xaman-xrpl-wallets-exciting-rebrand-and-multi-network-expansion-with-xahau/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-wallet-xumm-becomes-xaman-xrpl-wallets-exciting-rebrand-and-multi-network-expansion-with-xahau",
+    "description": "<img width=\"720\" height=\"480\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ripple-6237041__480.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ripple-6237041__480.jpg 720w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ripple-6237041__480-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/ripple-6237041__480-104x69.jpg 104w\" sizes=\"(max-width: 720px) 100vw, 720px\" />XRPL wallet Xumm undergoes a major rebranding, transforming into Xaman, as XRPL Labs introduces comprehensive updates. XRPL wallet Xumm undergoes a major rebranding, transforming into Xaman, as XRPL Labs introduces comprehensive updates. In a momentous development, the widely acclaimed XRPL wallet, Xumm, has undergone a transformative rebranding, emerging as Xaman and bringing forth several enhancements. [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-19T15:00:00.000Z",
-    "title": "Hoskinson vs. XRP Army: Crypto Influencer Throws Fuel on the Fire",
-    "url": "https://coinedition.com/hoskinson-vs-xrp-army-crypto-influencer-throws-fuel-on-the-fire/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hoskinson vs. XRP Army\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument-.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the latest video on Ben Armstrong&#8217;s YouTube channel, the influencer dives into the escalating tension between Cardano&#8217;s Charles Hoskinson and the XRP Army. Armstrong sheds light on the recent controversial comments made by Hoskinson. The video opens with Armstrong delving into Charles Hoskinson&#8217;s unfiltered comments directed at the XRP Army. Hoskinson&#8217;s statements have sparked [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/hoskinson-vs-xrp-army-crypto-influencer-throws-fuel-on-the-fire/\">Hoskinson vs. XRP Army: Crypto Influencer Throws Fuel on the Fire</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-19T15:30:00.000Z",
+    "title": "Solana Makes History; Flips Ethereum on DEX 24-Hour Trading Volume",
+    "url": "https://coinedition.com/solana-makes-history-flips-ethereum-on-dex-24-hour-trading-volume/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SOL Escapes a Negative Trend but Is Not Out of the Woods Yet\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cryptocurrency expert Lark Davis shared in an analysis on X (formerly Twitter) that Solana has flipped Ethereum on another metric in its recent resurgence.&#160; The analyst mentioned that the Layer-1 blockchain surpassed Ethereum in the 24-hour volume registered on decentralized exchanges. According to Davis, the flip is the first of its kind in the network&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/solana-makes-history-flips-ethereum-on-dex-24-hour-trading-volume/\">Solana Makes History; Flips Ethereum on DEX 24-Hour Trading Volume</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-19T15:30:53.000Z",
+    "title": "Bitcoin (BTC) Will Surge by up to 30% in Two Days on the Back of This Catalyst, According to CNBC’s Jon Najarian",
+    "url": "https://dailyhodl.com/2023/12/19/bitcoin-btc-will-surge-by-up-to-30-in-two-days-on-the-back-of-this-catalyst-according-to-cnbcs-jon-najarian/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Back-of-This-Catalyst.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>CNBC contributor and options trader Jon Najarian says one catalyst could send Bitcoin (BTC) on a sudden parabolic move. In a new interview with trader Scott Melker, Najarian says that he believes that the U.S. Securities and Exchange Commission (SEC) will approve spot Bitcoin exchange-traded funds (ETFs), and that would send the crypto king soaring [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/19/bitcoin-btc-will-surge-by-up-to-30-in-two-days-on-the-back-of-this-catalyst-according-to-cnbcs-jon-najarian/\">Bitcoin (BTC) Will Surge by up to 30% in Two Days on the Back of This Catalyst, According to CNBC’s Jon Najarian</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

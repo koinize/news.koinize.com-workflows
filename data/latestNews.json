@@ -1,58 +1,93 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-19T14:59:35.000Z",
+    "title": "Hashkey Capital Singapore Secures Capital Markets Services License From MAS",
+    "url": "https://www.coindesk.com/policy/2023/12/19/hashkey-capital-singapore-secures-capital-markets-services-license-from-mas/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The firm follows crypto exchange DigiFT, which received a CMS license last month."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-19T14:50:56.000Z",
+    "title": "OKX Wallet Users Warned to Update App to Avoid Code Vulnerability",
+    "url": "https://www.coindesk.com/business/2023/12/19/okx-wallet-users-warned-to-update-app-to-avoid-code-vulnerability/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Blockchain security firm Certik has warned OKX Wallet users to update their iOS app after a critical Remote Code Execution (RCE) vulnerability was found in a previous version."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-19T14:27:44.000Z",
-    "title": " Bitcoin ETF in 3 weeks? BTC traders aren&#039;t acting like it&#039;s happening ",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-3-weeks-btc-traders-arent-happening",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZDY5NjY0ZmUtZGRiZi00YmFhLWI2NTctYzk4NDlkNjBmYmUzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin markets are acting like no ETF approval is even on the cards, let alone a reality, fresh analysis concludes.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is about to hit all-time lows in terms of leverage in what one analyst says is “quite remarkable.”</p><p>Despite being up nearly 200% year-to-date, BTC price strength is garnering little interest into the 2023 candle close, per data from on-chain analytics firm <a href=\"https://studio.glassnode.com/metrics?a=BTC&amp;m=derivatives.FuturesEstimatedLeverageRatio\" target=\"_blank\" rel=\"noopener nofollow\">Glassnode</a>.</p><p>Bitcoin’s leverage ratio, as well as cash-margined and crypto-margined open interest, are firmly “muted” at current prices, with the former even on the cusp of hitting all-time lows.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-3-weeks-btc-traders-arent-happening\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-19T14:41:53.000Z",
+    "title": " Ethereum proof-of-work core development team disbands ",
+    "url": "https://cointelegraph.com/news/ethereum-proof-of-work-core-development-team-disbands",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNmRkNzZiM2QtNGI0NS00N2NkLWE5MjItOTBlNjJjMWZjMDhhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The ETHW blockchain will continue to run with decentralized governance. </p>\n                    <p><p>Developers of the Ethereum proof-of-work (PoW) hard fork have decided to disband.</p><p>According to the Dec. 19 <a href=\"https://medium.com/@ETHW/ethw-core-dissolution-statement-46f6ab80924\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, the core EthereumPoW development team will be dissolved to \"achieve full autonomy.\" Thereafter, the EthereumPoW blockchain will continue to run with PoW as the main consensus for the chain and decentralized governance \"to become a deity-less public chain.\" </p><p>Meanwhile, existing EthereumPoW servers will be transferred to OneDAO, a decentralized protocol on Harmony network, for \"transitional maintenance until long-term ecological partners are identified.\" Jadal Page, core developer of Ethereum PoW, wrote:</p><p><a href=\"https://cointelegraph.com/news/ethereum-proof-of-work-core-development-team-disbands\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2023-12-19T14:30:41.000Z",
-    "title": "Court bars Digital Currency Group from reducing Genesis ownership during bankruptcy",
-    "url": "https://cryptoslate.com/court-bars-digital-currency-group-from-reducing-genesis-ownership-during-bankruptcy/",
-    "description": "<p>Digital Currency Group, the parent company of bankrupt crypto lender Genesis, has been barred from reducing ownership in the bankrupt firm until its bankruptcy proceedings conclude, according to a Dec. 18 court filing. Judge Sean Lane ruled that DCG&#8217;s ownership of the distressed crypto lender was crucial for securing tax benefits. These benefits hinge on [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/court-bars-digital-currency-group-from-reducing-genesis-ownership-during-bankruptcy/\">Court bars Digital Currency Group from reducing Genesis ownership during bankruptcy</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-19T14:32:11.000Z",
-    "title": "Litecoin (LTC) in the Shadows as Aave (AAVE) Surfs the Bullish Tide: Will the Mood Change?",
-    "url": "https://cryptodaily.co.uk/2023/12/litecoin-ltc-in-the-shadows-as-aave-aave-surfs-the-bullish-tide-will-the-mood-change",
-    "description": "Step into the dynamic world of cryptocurrency as Aave (AAVE) rides the bullish wave, showcasing remarkable gains. The intrigue deepens as we explore whether Litecoin (LTC) can pick up the positive mood, offering insights into its potential reversal. Discover the contrasting tales of bullish triumph and bearish struggles, unraveling the mysteries of these crypto giants. Stay informed and navigate the exciting crypto landscape with our in-depth analysis."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-19T14:30:32.000Z",
-    "title": "Montenegro Appeals Court Overturns Extradition of Terraform Labs Co-Founder Do Kwon ",
-    "url": "https://news.bitcoin.com/montenegro-appeals-court-overturns-extradition-of-terraform-labs-co-founder-do-kwon/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Montenegro Appeals Court Overturns Extradition of Terraform Labs Co-Founder Do Kwon\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/fodd000.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Tuesday, Montenegro&#8217;s appeals court overturned the extradition request for Terraform Labs co-founder Do Kwon. This reversal follows reports that Justice Minister Andrej Milovic had informally agreed to the extradition. Kwon to Remain in Montenegro, Decision Lies With Justice Minister For the time being, Kwon is set to stay in Montenegro, as the Appeals Court [&#8230;]"
+    "source": "CryptoGlobe",
+    "date": "2023-12-19T15:02:22.000Z",
+    "title": "Trading Legend Peter Brandt Sees Ethereum Falling to $650 as U.S. SEC Postpones Decision on Multiple Ethereum ETFs",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/trading-legend-peter-brandt-sees-ethereum-falling-to-650-as-u-s-sec-postpones-decision-on-multiple-ethereum-etfs/",
+    "description": "Yesterday, Peter Brandt, a renowned market trader, forecasted a significant price drop for Ethereum (ETH), the second-largest cryptocurrency by market capitalization. Brandt, known for his generally pessimistic view on Ethereum, predicts the digital currency could plummet to as low as $650. Peter Brandt is a highly experienced and respected figure in the world of trading […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T14:10:41.000Z",
-    "title": "8 takeaways for retail investors from Coinbase’s 2024 crypto market outlook",
-    "url": "https://www.cryptopolitan.com/8-takeaways-for-retail-investors-from-coinbases-2024-crypto-market-outlook/",
-    "description": "Coinbase is taking root in the United States of America and trying international markets after CZ and Binance settled with the DOJ and now the CFTC. With the newly found market growth, Coinbase has released crypto market forecasts for 2024. The crypto entity envisions that institutional flows will remain anchored on Bitcoin through the first [&#8230;]"
+    "date": "2023-12-19T15:08:58.000Z",
+    "title": "Security concerns rise as Binance law enforcement access offered for $10,000",
+    "url": "https://www.cryptopolitan.com/binance-law-enforcement-access-offered-10k/",
+    "description": "A user named &#8220;Miembro&#8221; has surfaced on Breach Forums, advertising access to Binance&#8217;s law enforcement request panel for $10,000 in Bitcoin or Monero. This access, claimed to be exclusive to law enforcement, is suspected to originate from compromised email accounts of law enforcement officials. Security breach details The compromised credentials reportedly stem from a global [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T15:08:11.000Z",
+    "title": "AI and Humanization: The Future of Journalism in 2024",
+    "url": "https://www.cryptopolitan.com/ai-and-humanization-the-future-of-journalism/",
+    "description": "In recent years, the buzz surrounding artificial intelligence (AI) in journalism has been deafening. The rapid advancement of large language models and other AI technologies has promised to revolutionize newsrooms. However, a more nuanced picture emerges as the hype begins to subside. In the coming 12 months, newsrooms are expected to embrace AI technology for [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T15:06:40.000Z",
+    "title": "HashKey Capital secures regulatory approval for fund management operations in Singapore",
+    "url": "https://www.cryptopolitan.com/hashkey-secures-cms-approval-in-singapore/",
+    "description": "The Singapore unit of Hong Kong-based digital asset firm Hashkey has been given a full capital markets services license by the Republic&#8217;s regulator. On December 19, HashKey Capital Singapore touted this as a &#8220;pivotal development&#8221; that allows the firm to provide regulated fund management services, principally with respect to capital markets products from its Singapore [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T15:04:46.000Z",
+    "title": "Metaplex’s Innovative Leap in Solana NFTs: Inscriptions and Engravings",
+    "url": "https://www.cryptopolitan.com/metaplex-solana-nfts-inscriptions-engravings/",
+    "description": "In the dynamic world of blockchain and NFTs, Metaplex is making a significant stride on the Solana network with the introduction of two features: Metaplex Inscriptions and Engravings. These features are set to redefine the standards of NFT security, permanence, and integration within the Solana ecosystem, marking a new chapter in the evolution of blockchain [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T15:01:47.000Z",
+    "title": "AI Robot CyberRunner Surpasses Humans in Labyrinth Game",
+    "url": "https://www.cryptopolitan.com/ai-robot-cyberrunner-surpasses-humans/",
+    "description": "In a groundbreaking achievement, researchers at ETH Zurich have developed an AI robot named CyberRunner that has outperformed humans in the popular game Labyrinth. The robot accomplished this feat by navigating a small metal ball through a maze using fine motor skills and spatial reasoning, mastering the game in six hours.&#160; This marks one of [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2023-12-19T14:53:21.000Z",
+    "title": "RIPPLE PRICE ANALYSIS & PREDICTION (December 19) –XRP May See Bigger Loss If $0.57 Cracks, Loses 3% Today",
+    "url": "https://nulltx.com/ripple-price-analysis-prediction-december-19-xrp-may-see-bigger-loss-if-0-57-cracks-loses-3-today/",
+    "description": "While most altcoins took a downturn since last week, XRP had seen a substantial loss in the past hour as the price dips below the $0.6 level. More bleeding may occur if the volatility continues to drop. In November, XRP traded as high as $0.75 after increasing by roughly 80% [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-12-19T15:00:01.000Z",
+    "title": "Crypto Analyst Predicts XRP 1,500% Move Against Bitcoin, What Are The Terms?",
+    "url": "https://www.newsbtc.com/analysis/xrp/xrp-1500-against-bitcoin/",
+    "description": "Crypto analyst CryptoInsightUk has once again given his projections as to the future trajectory of the XRP price. This time, the analyst predicts that the crypto token could enjoy unprecedented against the flagship cryptocurrency, Bitcoin. However, there is a caveat for this to materialize.  How XRP Could Gain 1500% Against Bitcoin In a post shared on his X (formerly Twitter) platform, CryptoInsightUk said that XRP could see a move up to 1500% against Bitcoin. This, he stated, will happen if the crypto token could break and hold above the top grey box in the accompanying chart he shared. However, even if that doesn’t happen, he still expects XRP to make significant gains against Bitcoin. Source: X Related Reading: Dogecoin On-Chain Metrics Explode, Can DOGE Price Reach $0.2? He had earlier laid out another scenario where XRP makes an 88% move against Bitcoin. The crypto analyst seemed more confident in this happening as he mentioned that it looks like it is just a “matter of time” before this move-up happens. Many will, however, be hoping that the move of 1500% also actualizes at some point.  CrytoInsightUK happens to be one of those who are very bullish on XRP’s future trajectory. The crypto analyst had previously suggested that XRP could recapture the 61,000% gain it saw back in 2017. He highlighted how the token was in a better place and had a lot of potential. He also alluded to how the token is in a “unique position” considering that it has gained legal clarity. Token price shows strength &#124; Source: XRPUSD On Tradingview.com Stronger Than Bitcoin Crypto analyst Egrag Crypto recently asserted that XRP is stronger than BTC. He made this statement in relation to the fact that XRP is trading at a higher price level now, with Bitcoin currently trading at around $42,000, than when the flagship cryptocurrency was trading at this same level two years ago. XRP is said to be trading at 0.00000637 BTC back then. Related Reading: VanEck CEO Predicts When The Bitcoin Price Will Reach $69,000 Again According to Egrag, XRP’s 129% gain against Bitcoin highlights the former’s strength. It also cements “XRP’s dominance” in the market cycle. Meanwhile, the crypto analyst once again called for patience from the XRP community as he says that XRP hitting between $1.3 and $1.5 is on the horizon.  The bullish price predictions keep flowing in as the bull market draws near. Patrick Riley, the founder of Reaper Financial, also recently stated that XRP will hit $22 at the peak of the next bull run. Interestingly, he even went on to assert that the crypto token will surpass Bitcoin at some point.  At the time of writing, XRP is trading at around $0.61, up almost 1% in the last 24 hours, according to data from CoinMarketCap.  Featured image from Quora, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-19T14:38:11.000Z",
-    "title": "Helium Mobile (MOBILE) Skyrockets 60% in 24 Hours Amid Expanding Network and Solana Saga Demand",
-    "url": "https://www.crypto-news-flash.com/helium-mobile-mobile-skyrockets-60-in-24-hours-amid-expanding-network-and-solana-saga-demand/?utm_source=rss&utm_medium=rss&utm_campaign=helium-mobile-mobile-skyrockets-60-in-24-hours-amid-expanding-network-and-solana-saga-demand",
-    "description": "<img width=\"1280\" height=\"855\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280-1024x684.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/apple-1867461_1280-104x69.jpg 104w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Helium Mobile experiences a notable 100% surge, reaching $0.0067, coinciding with the sell-out of outdoor hotspots. Solana&#8217;s Saga phones and Helium Mobile&#8217;s $20 per month services witness high demand, leading to sell-outs. The airdrop of the BONK tokens over the purchase of the Solana Saga phones created a major frenzy in the market with investors [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-19T14:30:20.000Z",
-    "title": "Big Moves in Crypto: Cardano’s $1.5B Whale Splash & Galaxy Fox’s Epic 70% Surge",
-    "url": "https://www.crypto-news-flash.com/big-moves-in-crypto-cardanos-1-5b-whale-splash-galaxy-foxs-epic-70-surge/?utm_source=rss&utm_medium=rss&utm_campaign=big-moves-in-crypto-cardanos-1-5b-whale-splash-galaxy-foxs-epic-70-surge",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-18T162913.995.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-18T162913.995.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-18T162913.995-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-18T162913.995-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Funds are flowing, and there have been big moves in crypto recently. Cardano’s ($ADA) $1.5 billion whale splash and Galaxy Fox’s ($GFOX) epic 70% surge generated serious excitement. The alternative layer one trade has returned, and presales are ripping. The bull market is back and promises to be larger than ever. Seismic shifts in the [...]"
+    "date": "2023-12-19T15:06:24.000Z",
+    "title": "Breaking Boundaries: Analyst Warns of ‘Max Pain’ Scenario in Bitcoin’s Journey",
+    "url": "https://www.crypto-news-flash.com/breaking-boundaries-analyst-warns-of-max-pain-scenario-in-bitcoins-journey/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-boundaries-analyst-warns-of-max-pain-scenario-in-bitcoins-journey",
+    "description": "<img width=\"2560\" height=\"1536\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/bitcoin-3406638-1-1024x614.jpg 1024w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Bitcoin is expected to make one big jump after the halving event, then record a multi-year bearish run that could push &#8220;junk&#8221; assets out of the market.  According to the analyst, the extended bearish run could start after Bitcoin hits $180k.  Bitcoin (BTC) is still enjoying its rally as the asset makes a 58.76% surge [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-19T14:21:00.000Z",
-    "title": "The SEC Is Moving the US in the Wrong Direction: Ripple’s CEO",
-    "url": "https://coinedition.com/the-sec-is-moving-the-us-in-the-wrong-direction-ripples-ceo/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"The SEC Is Moving the US in the Wrong Direction: Ripple’s CEO\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/The-Ripple-2023-New-Value-Report-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Notable crypto entities, including Ripple and Coinbase, actively support the campaign. Three political action committees, backed by crypto executives and investors, have raised $78 million. Ripple&#8217;s CEO leads a concerted effort to support pro-crypto candidates in the upcoming 2024 U.S. election cycle. Ripple&#8217;s CEO, Brad Garlinghouse, has expressed the team&#8217;s commitment to supporting candidates with [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/the-sec-is-moving-the-us-in-the-wrong-direction-ripples-ceo/\">The SEC Is Moving the US in the Wrong Direction: Ripple’s CEO</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-19T15:00:00.000Z",
+    "title": "Hoskinson vs. XRP Army: Crypto Influencer Throws Fuel on the Fire",
+    "url": "https://coinedition.com/hoskinson-vs-xrp-army-crypto-influencer-throws-fuel-on-the-fire/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hoskinson vs. XRP Army\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument-.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/Cardano-Founder-and-XRP-Community-Enter-Contentious-Argument--696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the latest video on Ben Armstrong&#8217;s YouTube channel, the influencer dives into the escalating tension between Cardano&#8217;s Charles Hoskinson and the XRP Army. Armstrong sheds light on the recent controversial comments made by Hoskinson. The video opens with Armstrong delving into Charles Hoskinson&#8217;s unfiltered comments directed at the XRP Army. Hoskinson&#8217;s statements have sparked [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/hoskinson-vs-xrp-army-crypto-influencer-throws-fuel-on-the-fire/\">Hoskinson vs. XRP Army: Crypto Influencer Throws Fuel on the Fire</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,44 +1,65 @@
 [
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-19T08:44:23.000Z",
-    "title": "Solana-Based Aurory Suffers Devastating Hack, Loses 80% Liquidity",
-    "url": "https://cryptodaily.co.uk/2023/12/solana-based-aurory-suffers-devastating-hack-loses-80-liquidity",
-    "description": "Solana-based Aurory, the Pokemon-like battler game, fell victim to a devastating hack in which the attacker stole around 600,000 AURY tokens worth around $830,000 at the time of the exploit."
+    "source": "Cointelegraph",
+    "date": "2023-12-19T09:14:20.000Z",
+    "title": " Blockchain adoption ‘accelerating very quickly’ in big finance: Franklin Templeton exec ",
+    "url": "https://cointelegraph.com/news/institutional-blockchain-adoption-jpmorgan-hsbc-report",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYTljZjAyZmMtOGFkNC00NmJhLTkzYjQtNTVkYjYzNWRlM2Q1LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Franklin Templeton executive Sandy Kaul said in a report that a pathway to re-engineering the global financial markets can be seen for the first time.</p>\n                    <p><p>Major financial firms like JPMorgan and HSBC are ramping up their blockchain-related activities several months before 2024, accelerating the adoption of distributed ledger technology (DLT) within traditional finance. </p><p>In November, there was a rise in activity among major financial institutions like JPMorgan and HSBC. On Nov. 3, JPMorgan executed its first decentralized finance (DeFi) <a href=\"https://cointelegraph.com/news/jp-morgan-executes-first-defi-trade-on-public-blockchain\">trade on a public blockchain</a>. The company <a href=\"https://cointelegraph.com/news/jp-morgan-launches-programmable-payments-for-jpmcoin\">rolled out programmable payments</a> for its institutional blockchain platform JPM Coin on Nov. 10. Executives of JPMorgan Chase and Apollo also unveiled plans for a <a href=\"https://cointelegraph.com/news/jp-morgan-launches-programmable-payments-for-jpmcoin\">tokenized enterprise mainnet</a> on Nov. 28. </p><p>Apart from JPMorgan, the Hong Kong and Shanghai Banking Corporation (HSBC) has also been on the move. On Nov. 1, HSBC and financial services provider Ant Group <a href=\"https://cointelegraph.com/news/hsbc-ant-group-test-tokenized-deposits-under-hkma-sandbox\">tested tokenized deposits</a> under a sandbox arranged by the Hong Kong Monetary Authority. Meanwhile, HSBC partnered with Metaco, a Ripple-owned tech firm, on Nov. 8 to <a href=\"https://cointelegraph.com/news/hsbc-ripple-metaco-security-token-custody\">hold tokenized securities</a> on its new custody platform. </p><p><a href=\"https://cointelegraph.com/news/institutional-blockchain-adoption-jpmorgan-hsbc-report\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-19T09:15:47.000Z",
+    "title": "Bitcoin rebound above $43,000 sparks $67M BTC liquidation, indicating further market maturity",
+    "url": "https://cryptoslate.com/bitcoin-rebound-above-43000-sparks-67m-btc-liquidation-indicating-further-market-maturity/",
+    "description": "<p>Bitcoin (BTC) climbed back above $43,000 during Asian trading hours following news that BlackRock amended its spot exchange-traded fund (ETF) application to comply with the U.S. Securities and Exchange Commission (SEC). Coinglass data shows that the price movement liquidated $206 million across all assets from more than 81,000 crypto traders during the past day. Long [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-rebound-above-43000-sparks-67m-btc-liquidation-indicating-further-market-maturity/\">Bitcoin rebound above $43,000 sparks $67M BTC liquidation, indicating further market maturity</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-12-19T09:30:06.000Z",
+    "title": "China’s Current Economic Challenges Echo Japan’s Past Economic Struggles",
+    "url": "https://news.bitcoin.com/chinas-current-economic-challenges-echo-japans-past-economic-struggles/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-768x432.jpeg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Similarities to Japan&#039;s Lost Decades in China’s Current Economic Slowdown\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-300x169.jpeg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-1024x576.jpeg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-768x432.jpeg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-190x107.jpeg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-380x214.jpeg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities-760x428.jpeg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/japan_china_economic_similarities.jpeg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Experts highlight the critical need for China to learn from Japan&#8217;s prolonged economic stagnation, emphasizing the urgency to transition from manufacturing and investment reliance to boosting domestic consumption. Similarities to Japan&#8217;s Lost Decades in China’s Current Economic Slowdown In a compelling parallel drawn between the economic trajectories of Japan starting in the 1980s and China&#8217;s [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T09:08:45.000Z",
-    "title": "Challenges and Solutions in Safeguarding Language Model Agents from Prompt Injection",
-    "url": "https://www.cryptopolitan.com/language-model-from-prompt-injection/",
-    "description": "The development and integration of Language Model Agents (LLMs) into real-world applications have garnered significant attention due to their remarkable natural language processing capabilities. However, the rise of prompt injection as a potential threat to LLM integrity has raised concerns about their security and reliability. The threat of prompt injection Prompt injection poses a significant [&#8230;]"
+    "date": "2023-12-19T09:38:26.000Z",
+    "title": "AI Regulation and the Path to a Global Solution",
+    "url": "https://www.cryptopolitan.com/ai-regulation-and-the-path-to-a-global-solution/",
+    "description": "In an era where artificial intelligence (AI) is reshaping industries and influencing daily lives, the need for effective regulation has never been more pressing. The European Union, a frontrunner in establishing AI laws, faces a significant challenge in ensuring these technologies are used safely and ethically. Experts argue that the existing national efforts are insufficient [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-19T09:21:13.000Z",
+    "title": "Aardman’s Chicken Run 2 Proves Art’s Endurance Amidst the Rise of AI",
+    "url": "https://www.cryptopolitan.com/aardmans-chicken-run-2-proves-arts-endurance/",
+    "description": "In an era dominated by the increasing capabilities of artificial intelligence (AI), whether the traditional artist is becoming obsolete has been a topic of concern. Software programs like Midjourney have made it easier than ever to create images and videos with minimal effort, even leading to AI-generated e-books climbing bestseller lists. However, the recent release [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2023-12-19T09:05:14.000Z",
-    "title": "KuCoin Pays $22,000,000 for Lawsuit, Everlodge Aims to Revolutionize Real Estate",
-    "url": "https://nulltx.com/kucoin-pays-22000000-for-lawsuit-everlodge-aims-to-revolutionize-real-estate/",
-    "description": "KuCoin exchange recently made a big move, affecting the residents of New York. Apparently, the platform has made actions to restrict New Yorkers from trading on its platform following a lawsuit filed against them. Conversely, Everlodge embarks on a fresh path to revolutionize real estate management with blockchain at its [&#8230;]"
+    "date": "2023-12-19T09:14:53.000Z",
+    "title": "ADA Price Stable During Correction; Polkadot (DOT) & Borroe Finance ($ROE) Ready to Ignite",
+    "url": "https://nulltx.com/ada-price-stable-during-correction-polkadot-dot-borroe-finance-roe-ready-to-ignite/",
+    "description": "In the ever-evolving crypto landscape, Cardano&#8217;s ADA is making waves with its remarkable resilience, while Polkadot (DOT) and the new kid on the block, Borroe Finance ($ROE), are prepping for a potential breakout. For those who breathe the air of the crypto world, this isn&#8217;t just news &#8211; it&#8217;s your [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2023-12-19T09:13:11.000Z",
+    "title": "Cardano’s 63% Price Surge in a Week;  InQubeta Gains Ripple Whales Interest",
+    "url": "https://nulltx.com/cardanos-63-price-surge-in-a-week-inqubeta-gains-ripple-whales-interest/",
+    "description": "In the last week, Cardano made a new high for the year as it shot from $0.38 to $0.65, posting a gain of over 60%. Many analysts are attributing ADA’s stellar performance to a wider trend in the overall crypto market. As 2023 comes to a close there has been [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T09:08:50.000Z",
-    "title": "Ark Invest buys $25.7m in Block shares, offloads $28m in GBTC",
-    "url": "https://crypto.news/ark-invest-buys-25-7m-in-block-shares-offloads-28m-in-gbtc/",
-    "description": "Cathie Wood&#8217;s ARK Invest bought 347,692 shares of Block for $25.7 million while offloading 809,441 GBTC shares worth about $27.95 million. On Dec. 18, ARK Invest, led by Cathie Wood, bought $25.7 million in Block Inc (SQ) stock after the&#8230;"
+    "date": "2023-12-19T09:33:56.000Z",
+    "title": "7RCC applies for spot Bitcoin ETF with 20% allocated to carbon credit futures",
+    "url": "https://crypto.news/7rcc-applies-for-spot-bitcoin-etf-with-20-allocated-to-carbon-credit-futures/",
+    "description": "A firm specializing in environmental investments, 7RCC, has applied to open a spot Bitcoin (BTC) ETF. 7RCC filed an application to the Securities and Exchange Commission (SEC) to create an ETF, centered around environmental, social, and governance (ESG) principles. 7RCC&#8217;s&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T09:06:22.000Z",
-    "title": "Sanctioned Russian banker offloads $19m in Copper shares",
-    "url": "https://crypto.news/sanctioned-russian-banker-offloads-19m-in-copper-shares/",
-    "description": "A sanctioned Russian banker sold $19m worth of shares in Copper, a crypto custodian linked to ex-U.K. Chancellor Philip Hammond. As reported by The Guardian, Russian-sanctioned banker Mikhail Klyukin has sold over £15 million (around $19 million) worth of shares&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2023-12-19T09:04:03.000Z",
-    "title": "Shiba Inu’s Astonishing Ascent: Could It Really Hit $0.02? Expert Insights",
-    "url": "https://www.crypto-news-flash.com/shiba-inus-astonishing-ascent-could-it-really-hit-0-02-expert-insights/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inus-astonishing-ascent-could-it-really-hit-0-02-expert-insights",
-    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SHIBA INU\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-300x169.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-1024x576.jpeg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-768x432.jpeg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Shiba Inu has been predicted to &#8220;kill&#8221; more zeros to hit $0.02 by the next decade as a Web3 analytics platform digs into its potential.  The meme coin is expected to undergo another massive burn which could send the price to a new height.  The discussions surrounding Shiba Inu (SHIB) have transcended beyond the $0.01 [...]"
+    "date": "2023-12-19T09:30:04.000Z",
+    "title": "Whales move over 514m Dogecoin amid push to $0.1",
+    "url": "https://crypto.news/whales-move-over-514m-dogecoin-amid-push-to-0-1/",
+    "description": "Dogecoin (DOGE) whales have moved over 514 million tokens today amid the memecoin’s recent resurgence, as it looks to reclaim the $0.1 price territory on the back of the latest market-wide recovery. Whale Alert, a prominent crypto whale-tracking resource, identified&#8230;"
   }
 ]

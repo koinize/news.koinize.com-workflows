@@ -1,93 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-19T08:18:12.000Z",
-    "title": "ARK Sells $28M Grayscale Bitcoin Trust Shares as Bitcoin Nears $43K",
-    "url": "https://www.coindesk.com/markets/2023/12/19/ark-sells-28m-grayscale-bitcoin-trust-shares-as-bitcoin-nears-43k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "ARK Invest offloaded $13M worth of GBTC shares last week."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-19T08:36:24.000Z",
-    "title": " OpenAI launches ‘Preparedness Team’ for AI safety, gives board final say   ",
-    "url": "https://cointelegraph.com/news/openai-launches-preparedness-team-for-ai-safety-gives-board-final-say",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNjcwNWMwMTAtMGFlYS00NjllLWFmOWUtZGQxNjkwZDM3MjAzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OpenAI said its new “Preparedness Framework” aims to help protect against “catastrophic risks” when developing high-level AI systems.  </p>\n                    <p><p>The artificial intelligence (AI) developer OpenAI has announced it will implement its “Preparedness Framework,” which includes creating a special team, to evaluate and predict risks. </p><p>On Dec. 18, the company released a blog <a href=\"https://openai.com/safety/preparedness\" target=\"_blank\" rel=\"noopener nofollow\">post</a> saying that its new “Preparedness Team” will be the bridge that connects safety and policy teams working across OpenAI.</p><p>It said these teams providing almost a checks-and-balances-type system will help protect against “catastrophic risks” that could be posed by increasingly powerful models. OpenAI said it would only deploy its technology if it were deemed safe. </p><p><a href=\"https://cointelegraph.com/news/openai-launches-preparedness-team-for-ai-safety-gives-board-final-say\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-19T08:19:12.000Z",
-    "title": " BTC price bounces 5% as investor says Bitcoin ETF &#039;99.9% done deal&#039; ",
-    "url": "https://cointelegraph.com/news/btc-price-bounces-5-investor-bitcoin-etf-done-deal",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMjk0YWVlYmYtM2RmYS00NTY2LTk4MjItMzc4ODYxY2U3M2ZkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>New updates to BlackRock's Bitcoin spot ETF filing come as BTC price strength narrowly retains $40,000 as support.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) returned above $43,000 into Dec. 19 amid fresh news over the United States’ would-be first spot price exchange-traded fund (ETF).</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> showed a BTC price recovery taking the market to local highs of $43,456 after the daily close.</p><p>After starting the week on an uncertain footing, BTC/USD swiftly gathered strength, with the Dec. 18 candle closing over 5% above the day’s low.</p><p><a href=\"https://cointelegraph.com/news/btc-price-bounces-5-investor-bitcoin-etf-done-deal\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-19T08:30:07.000Z",
-    "title": "Central Bank of Brazil Opens Public Consultation on Virtual Assets Service Provider Rulemaking",
-    "url": "https://news.bitcoin.com/central-bank-of-brazil-opens-public-consultation-on-virtual-assets-service-provider-rulemaking/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Central Bank of Brazil Opens Public Consultation on Virtual Asset Service Providers (VASP) Rulemaking\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/shutterstock_1029896725.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Central Bank of Brazil opened a new public consultation to obtain feedback for regulating the operations of virtual assets service providers (VASPs) in the country. The bank organized a questionnaire of 38 questions divided into different themes that can be partially, or fully answered until January 31, 2024. Central Bank of Brazil Seeks Input [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-19T08:44:23.000Z",
+    "title": "Solana-Based Aurory Suffers Devastating Hack, Loses 80% Liquidity",
+    "url": "https://cryptodaily.co.uk/2023/12/solana-based-aurory-suffers-devastating-hack-loses-80-liquidity",
+    "description": "Solana-based Aurory, the Pokemon-like battler game, fell victim to a devastating hack in which the attacker stole around 600,000 AURY tokens worth around $830,000 at the time of the exploit."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-19T08:30:14.000Z",
-    "title": "BlackRock opts for cash-only redemptions in Bitcoin ETF application",
-    "url": "https://www.cryptopolitan.com/blackrock-opts-for-cash-only-redemptions/",
-    "description": "In a significant development, BlackRock, one of the world&#8217;s largest asset managers, has made a pivotal adjustment to its Bitcoin exchange-traded fund (ETF) application.&#160; The company has decided to embrace &#8216;cash creations&#8217; for fund redemptions, aligning itself with the stance of US financial regulators.&#160; This move marks a crucial step towards approving BlackRock&#8217;s Bitcoin ETF, [&#8230;]"
+    "date": "2023-12-19T09:08:45.000Z",
+    "title": "Challenges and Solutions in Safeguarding Language Model Agents from Prompt Injection",
+    "url": "https://www.cryptopolitan.com/language-model-from-prompt-injection/",
+    "description": "The development and integration of Language Model Agents (LLMs) into real-world applications have garnered significant attention due to their remarkable natural language processing capabilities. However, the rise of prompt injection as a potential threat to LLM integrity has raised concerns about their security and reliability. The threat of prompt injection Prompt injection poses a significant [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-19T08:16:41.000Z",
-    "title": "Ethereum MEV relay giant takes a U-turn, rejects OFAC-sanctioned blocks",
-    "url": "https://www.cryptopolitan.com/ethereum-mev-relay-giant-takes-a-u-turn/",
-    "description": "In a surprising reversal of its stance on censorship resistance, bloXroute Labs, a prominent producer of Ethereum blocks, has announced that it will begin censoring blocks containing transactions sanctioned by the United States Office of Foreign Asset Control (OFAC). The decision has stirred controversy within the Ethereum community and is viewed by some as a [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-19T08:37:23.000Z",
-    "title": "Solana may hit $100, this presale approaching $1.4m",
-    "url": "https://crypto.news/solana-may-hit-100-this-presale-approaching-1-4m/",
-    "description": "Analysts expect Solana to reach $100 as the uptrend resumes. Meanwhile, the ongoing Galaxy Fox (GFOX) presale has raised over $1.4 million"
+    "source": "NullTX",
+    "date": "2023-12-19T09:05:14.000Z",
+    "title": "KuCoin Pays $22,000,000 for Lawsuit, Everlodge Aims to Revolutionize Real Estate",
+    "url": "https://nulltx.com/kucoin-pays-22000000-for-lawsuit-everlodge-aims-to-revolutionize-real-estate/",
+    "description": "KuCoin exchange recently made a big move, affecting the residents of New York. Apparently, the platform has made actions to restrict New Yorkers from trading on its platform following a lawsuit filed against them. Conversely, Everlodge embarks on a fresh path to revolutionize real estate management with blockchain at its [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T08:35:04.000Z",
-    "title": "Japan-backed Cambodia’s digital currency soars to 10m users",
-    "url": "https://crypto.news/japan-backed-cambodias-digital-currency-soars-to-10m-users/",
-    "description": "Bakong, Cambodia&#8217;s digital currency, has surpassed 10 million opened accounts, accounting for 60% of the nation&#8217;s population. In a recent interview with Nikkei Asia on Dec. 19, Cambodia&#8216;s central bank governor, Chea Serey, revealed that the country&#8217;s nascent digital currency,&#8230;"
+    "date": "2023-12-19T09:08:50.000Z",
+    "title": "Ark Invest buys $25.7m in Block shares, offloads $28m in GBTC",
+    "url": "https://crypto.news/ark-invest-buys-25-7m-in-block-shares-offloads-28m-in-gbtc/",
+    "description": "Cathie Wood&#8217;s ARK Invest bought 347,692 shares of Block for $25.7 million while offloading 809,441 GBTC shares worth about $27.95 million. On Dec. 18, ARK Invest, led by Cathie Wood, bought $25.7 million in Block Inc (SQ) stock after the&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-19T08:29:07.000Z",
-    "title": "SEI rallies 35%, open interest and social volume doubled",
-    "url": "https://crypto.news/sei-rallies-35-open-interest-and-social-volume-doubled/",
-    "description": "Sei (SEI) registered significant gains over the past day as its social activity and open interest (OI) more than doubled in just 24 hours. SEI is up by 35% in the past 24 hours and is trading at $0.345 at&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-19T08:23:08.000Z",
-    "title": "Rebase announces IRL Cup to celebrate IRL token launch",
-    "url": "https://crypto.news/rebase-announces-irl-cup-to-celebrate-irl-token-launch/",
-    "description": "Rebase, a digital platform, has introduced the IRL Cup, an event celebrating the launch of IRL, the platform's native token"
+    "date": "2023-12-19T09:06:22.000Z",
+    "title": "Sanctioned Russian banker offloads $19m in Copper shares",
+    "url": "https://crypto.news/sanctioned-russian-banker-offloads-19m-in-copper-shares/",
+    "description": "A sanctioned Russian banker sold $19m worth of shares in Copper, a crypto custodian linked to ex-U.K. Chancellor Philip Hammond. As reported by The Guardian, Russian-sanctioned banker Mikhail Klyukin has sold over £15 million (around $19 million) worth of shares&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-19T08:15:22.000Z",
-    "title": "Litecoin’s Rollercoaster Ride: Addresses Surge, but Prices Plunge",
-    "url": "https://www.crypto-news-flash.com/ltc-rollercoaster-ride-addresses-surge-but-prices-plunge/?utm_source=rss&utm_medium=rss&utm_campaign=ltc-rollercoaster-ride-addresses-surge-but-prices-plunge",
-    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Wit-Olszweski-2-Litecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Wit-Olszweski-2-Litecoin.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Wit-Olszweski-2-Litecoin-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Wit-Olszweski-2-Litecoin-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/06/Wit-Olszweski-2-Litecoin-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Litecoin (LTC) active wallet addresses have recorded a massive upsurge fuelled by growing interest in the Bitcoin fork. LTC prices have continued to fall flat after a disappointing Litecoin halving earlier this year. Litecoin (LTC) continues to draw attention from ambitious crypto investors. Driving this interest is growing adoption, network development, and faltering prices. This [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-19T08:24:01.000Z",
-    "title": "SEC Might Be Backing Down on Ethereum: Bloomberg Analyst",
-    "url": "https://coinedition.com/sec-might-be-backing-down-on-ethereum-bloomberg-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/SEC_Must_Turn_Over_Emails_About_Ethereum—But_It_Wont_Help_Ripple-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent episode of crypto journalist Laura Shin&#8217;s Unchained Podcast, Bloomberg analyst James Seyffart discussed a noteworthy development suggesting a potential shift in the U.S. Securities and Exchange Commission&#8217;s (SEC) stance towards Ethereum.&#160; Seyffart shared his perspective on the matter, pointing to the SEC&#8217;s recent approval of Ethereum futures exchange-traded funds (ETFs). This move, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/sec-might-be-backing-down-on-ethereum-bloomberg-analyst/\">SEC Might Be Backing Down on Ethereum: Bloomberg Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-19T08:12:03.000Z",
-    "title": "KuCoin Labs Announces Its Strategic Partnership with Biis, an Innovative BRC20 Tool Aggregator, to Further Support the Development of BTC Ecosystem",
-    "url": "https://coinedition.com/kucoin-labs-announces-its-strategic-partnership-with-biis-an-innovative-brc20-tool-aggregator-to-further-support-the-development-of-btc-ecosystem/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/PR1-19.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/PR1-19.png 730w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/12/PR1-19-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a landmark collaboration,&#160;KuCoin Labs&#160;has joined forces with Biis, the pioneering BRC20 tool aggregator, to bolster the Bitcoin (BTC) ecosystem. This strategic partnership is poised to revolutionize how users interact with BRC tokens, leveraging Biis&#8217;s cutting-edge tool aggregation capabilities. “The strategic partnership between KuCoin Labs and Biis aligns with our commitment to supporting innovative blockchain [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kucoin-labs-announces-its-strategic-partnership-with-biis-an-innovative-brc20-tool-aggregator-to-further-support-the-development-of-btc-ecosystem/\">KuCoin Labs Announces Its Strategic Partnership with Biis, an Innovative BRC20 Tool Aggregator, to Further Support the Development of BTC Ecosystem</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-19T09:04:03.000Z",
+    "title": "Shiba Inu’s Astonishing Ascent: Could It Really Hit $0.02? Expert Insights",
+    "url": "https://www.crypto-news-flash.com/shiba-inus-astonishing-ascent-could-it-really-hit-0-02-expert-insights/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inus-astonishing-ascent-could-it-really-hit-0-02-expert-insights",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SHIBA INU\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-300x169.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-1024x576.jpeg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-768x432.jpeg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Shiba Inu has been predicted to &#8220;kill&#8221; more zeros to hit $0.02 by the next decade as a Web3 analytics platform digs into its potential.  The meme coin is expected to undergo another massive burn which could send the price to a new height.  The discussions surrounding Shiba Inu (SHIB) have transcended beyond the $0.01 [...]"
   }
 ]

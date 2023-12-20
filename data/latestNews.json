@@ -1,114 +1,86 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-20T14:00:00.000Z",
+    "title": "Crypto Accounting and Tax Reporting Platform TRES Raises $11M to Add New Blockchains",
+    "url": "https://www.coindesk.com/business/2023/12/20/crypto-accounting-and-tax-reporting-platform-tres-raises-11m-to-add-new-blockchains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "TRES currently services clients with combined assets worth $19 billion, helping them manage, monitor and reconcile their digital asset activity across over 100 layer-1 and layer 2-blockchain networks"
+  },
+  {
+    "source": "Decrypt",
+    "date": "2023-12-20T13:59:20.000Z",
+    "title": "Ledger to Disable Blind Signing on Dapps by June 2024",
+    "url": "https://decrypt.co/210393/ledger-to-disable-blind-signing-on-dapps-by-june-2024",
+    "description": "The hardware wallet manufacturer stated it would reimburse victims of last week's exploit involving a malicious version of its Connect Kit library."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-20T13:30:12.000Z",
-    "title": " Ledger crypto wallet pledges to reimburse users following Connect Kit exploit ",
-    "url": "https://cointelegraph.com/news/ledger-reimburse-connect-kit-exploit",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvOWU2NmYxNzUtZWQ3My00YTllLTk2ODQtOGE2YTM4NmE3OGY0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ledger says some $600k in assets were stolen from users blind signing on EVM DApps, and that it will ensure all victims are \"made whole,\" while Blind Signing will be disallowed by June 2024.</p>\n                    <p><p>Hardware cryptocurrency wallet provider Ledger says it will reimburse all affected users in the aftermath of the Ledger Connect Kit exploit.</p><p>Ledger took to X (formerly Twitter) on Dec. 20 to announce that the firm is aware of roughly $600,000 in assets impacted or stolen from users through <a href=\"https://cointelegraph.com/news/decentralized-applications-pause-ledger-connect-as-exploit-fix-deployed\">blind signing on Ethereum Virtual Machine (EVM) decentralized applications</a> (DApps).</p><p>Multiple decentralized applications using Ledger’s connector library — including SushiSwap and Revoke.cash — <a href=\"https://cointelegraph.com/news/multiple-dapps-using-ledger-connector-compromised\">were compromised on Dec. 14, 2023</a>, resulting in massive losses by investors.</p><p><a href=\"https://cointelegraph.com/news/ledger-reimburse-connect-kit-exploit\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-20T14:00:00.000Z",
+    "title": " Dubai regulator VARA sets a crypto precedent for the world to follow ",
+    "url": "https://cointelegraph.com/news/dubai-regulator-vara-crypto-precedent-for-world",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvM2E1MGE0OTktZjQ2MS00ZjliLWI5NzQtNTM5ZmY1YWE0NzNjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Key executives representing the Virtual Assets Regulatory Authority (VARA) revealed Dubai’s “hands-on” approach toward crypto in a Cointelegraph interview.</p>\n                    <p><p>The Virtual Asset Regulatory Authority (VARA), the regulator overseeing cryptocurrency laws within Dubai, has moved steadily toward its goal of establishing comprehensive rules for the crypto service providers in the region. </p><p>Formed in March 2022 to oversee and develop the Web3 ecosystem in Dubai, VARA <a href=\"https://cointelegraph.com/news/dubai-releases-crypto-regulations-for-virtual-asset-services-providers\">released comprehensive crypto regulatory guidelines</a> less than a year later, in February 2023, for virtual asset service providers (VASPs).</p><p>The virtual asset guidelines include four compulsory rulebooks, seven activity-specific rulebooks that lay down the rules for operating VASPs, and one virtual asset issuance rulebook. </p><p><a href=\"https://cointelegraph.com/news/dubai-regulator-vara-crypto-precedent-for-world\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-20T13:34:14.000Z",
-    "title": "Polkadot (DOT) Riding the Bulls, While Polygon (MATIC) Faces Bearish Shadows - What's the Verdict?",
-    "url": "https://cryptodaily.co.uk/2023/12/polkadot-dot-riding-the-bulls-while-polygon-matic-faces-bearish-shadows-whats-the-verdict",
-    "description": "Explore the dynamic crypto landscape as Polkadot (DOT) and Polygon (MATIC) navigate contrasting trends. Uncover the bullish potential of Polkadot through technical indicators, while delving into Polygon's bearish sentiment revealed by on-chain data. Discover the intriguing balance these cryptocurrencies maintain in global markets, hinting at widespread appeal and future growth possibilities."
+    "source": "Cointelegraph",
+    "date": "2023-12-20T13:59:11.000Z",
+    "title": " How to buy Tether (USDT) ",
+    "url": "https://cointelegraph.com/news/how-to-buy-tether-usdt",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYjRiNjg0NGMtYTRkMS00MTBjLThjNDgtMDQ1Y2NlYzdhYmI1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Seamlessly enter the world of crypto — find out the various ways to buy USDT and safely store it.</p>\n                    <p><p></p><p>A stablecoin is a type of cryptocurrency designed to maintain a stable value by <a href=\"https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work\">pegging it to a reserve asset</a> like the United States dollar. USDT is a prominent example, which is tethered to the value of $1. </p><p>The precursor to Tether, originally named “Realcoin,” was issued on <a href=\"https://cointelegraph.com/learn/how-does-blockchain-work-a-beginners-guide-to-blockchain-technology\">the Bitcoin blockchain</a> before its rebranding. In 2014, Tether launched on Bitcoin’s Omni Layer, subsequently expanding to support multiple protocols, including <a href=\"https://cointelegraph.com/learn/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency\">Ethereum</a> and Tron. </p><p><a href=\"https://cointelegraph.com/news/how-to-buy-tether-usdt\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2023-12-20T13:30:51.000Z",
-    "title": "SOMA.finance Announces Launch of  Digital Asset Trading Platform  with First Product SOMA Starter",
-    "url": "https://cryptodaily.co.uk/2023/12/somafinance-announces-launch-of-digital-asset-trading-platform-with-first-product-soma-starter",
-    "description": "SOMA.finance Announces Launch of  Digital Asset Trading Platform  with First Product SOMA Starter"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-20T13:22:00.000Z",
-    "title": "Retik Finance (RETIK) finds momentum in its Presale as investors rush in to buy at cheap prices",
-    "url": "https://cryptodaily.co.uk/2023/12/retik-finance-retik-finds-momentum-in-its-presale-as-investors-rush-in-to-buy-at-cheap-prices",
-    "description": "The world of decentralized finance (DeFi) is abuzz with excitement as Retik Finance, a groundbreaking project in the space, gains significant momentum in its presale."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-20T13:15:46.000Z",
-    "title": "Memecoins making all the hype but are they any good for big long-term gains? Experts explain why Retik Finance (RETIK) is the best option right now",
-    "url": "https://cryptodaily.co.uk/2023/12/memecoins-making-all-the-hype-but-are-they-any-good-for-big-long-term-gains-experts-explain-why-retik-finance-retik-is-the-best-option-right-now",
-    "description": "In the world of cryptocurrencies, memecoins have taken center stage, drawing in both seasoned investors and newcomers seeking quick gains."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-20T13:12:42.000Z",
-    "title": "Web3 Mainstream Adoption Will Require Seamless Onboarding of Web2 Users",
-    "url": "https://cryptodaily.co.uk/2023/12/web3-mainstream-adoption-will-require-seamless-onboarding-of-web2-users",
-    "description": "The Web3 space is evolving rapidly, however, many of the existing user interfaces can be quite challenging to navigate due to their highly technical nature. Most industry professionals agree that Web2 has a solid user-base,"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-20T13:14:10.000Z",
-    "title": "Bitcoin Technical Analysis: Bullish Trends Push Against Upper Resistance Limits",
-    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-bullish-trends-push-against-upper-resistance-limits/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Bullish Trends Push Against Upper Resistance Limits\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbbull.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin&#x2019;s price of $43,094, fluctuating between $42,235 and $43,176 within 24 hours, reflects a market in subtle motion. With a substantial 24-hour volume of $20.10 billion and a market capitalization of $837 billion, bitcoin maintains its strong presence in the cryptocurrency sphere. Bitcoin Bitcoin&#x2019;s current oscillators offer a diverse perspective. The relative strength index (RSI) [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2023-12-20T13:45:01.000Z",
+    "title": "Trump NFT collection takes hit after Colorado ballot removal",
+    "url": "https://cryptoslate.com/trump-nft-collection-takes-hit-after-colorado-ballot-removal/",
+    "description": "<p>The Colorado Supreme Court&#8217;s removal of former U.S. President Donald Trump from the state 2024 ballot has impacted the floor prices of his NFT collections. Data from OpenSea shows that the former President’s Collection Series 1 tanked by 11% to 0.1505 ETH, or $333, following the news. The collection&#8217;s market capitalization is approximately $15 million as of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/trump-nft-collection-takes-hit-after-colorado-ballot-removal/\">Trump NFT collection takes hit after Colorado ballot removal</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-20T13:34:27.000Z",
-    "title": "AI Training Datasets Harbor Disturbing Levels of Child Sexual Abuse Material",
-    "url": "https://www.cryptopolitan.com/reveals-child-sexual-abuse-material-in-ai/",
-    "description": "In a recent investigation conducted by the Stanford Internet Observatory (SIO), hundreds of known images of child sexual abuse material (CSAM) were identified in an open dataset utilized for training popular AI text-to-image generation models, including Stable Diffusion. The findings shed light on the disturbing use of openly available datasets in the development of advanced [&#8230;]"
+    "date": "2023-12-20T13:55:45.000Z",
+    "title": "Latest Xbox Firmware Update Addresses Baldur’s Gate 3 Crashes",
+    "url": "https://www.cryptopolitan.com/latest-xbox-firmware-update-address-baldurs/",
+    "description": "In a recent development, Microsoft&#8217;s Xbox support team announced that the latest Xbox firmware update includes a fix for some of the crashing issues plaguing Baldur&#8217;s Gate 3 on the Xbox platform.&#160; The highly anticipated release of Larian Studios&#8217; Baldur&#8217;s Gate 3 for Xbox earlier this month was marred by reports of crashes that resulted [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-20T13:33:27.000Z",
-    "title": "Mauga’s Overwatch 2 Buffs Spark Meta Concerns",
-    "url": "https://www.cryptopolitan.com/maugas-overwatch-2-buffs-spark-meta-concerns/",
-    "description": "In a surprising turn of events, Overwatch 2&#8217;s Competitive queue witnessed the introduction of Mauga, the Samoan warrior, and a substantial overhaul of his abilities in the Winter Wonderland update on December 19.&#160; While the arrival of Mauga in the competitive scene was eagerly anticipated, some players are expressing concerns that the buffs might have [&#8230;]"
+    "date": "2023-12-20T13:52:00.000Z",
+    "title": "Immutable launches Passport for seamless gaming",
+    "url": "https://www.cryptopolitan.com/immutable-launches-passport-seamless-gaming/",
+    "description": "Immutable, a prominent Web3 game publisher, has recently unveiled its latest innovation in the form of a cutting-edge wallet infrastructure called “Immutable Passport.” This novel login method introduces a user-friendly approach, allowing individuals to effortlessly create and recover their wallets through familiar platforms such as Google or Apple accounts, as well as conventional email addresses. [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-20T13:30:55.000Z",
-    "title": "SOMA.finance Announces Launch of Digital Asset Trading Platform with First Product SOMA Starter",
-    "url": "https://www.cryptopolitan.com/soma-finance-announces-launch-of-digital-asset-trading-platform-with-first-product-soma-starter/",
-    "description": "New York, USA, December 20th, 2023, Chainwire Launch Coincides with $SOMA Token Sale in Partnership with CF Portal Akemona SOMA Finance, Incorporated (“SOMA” &#38; “SOMA.finance”), the joint venture between MANTRA and Tritaurian Capital, Incorporated (“Tritaurian”) that is building the critical infrastructure of decentralized finance (DeFi), announced today the launch of the first components of its [&#8230;]"
+    "date": "2023-12-20T13:40:17.000Z",
+    "title": "The Best Holiday Game to Play this Christmas",
+    "url": "https://www.cryptopolitan.com/the-best-holiday-game-to-play-this-christmas/",
+    "description": "The holiday season brings with it a unique opportunity for gamers to engage in immersive and entertaining holiday games. A recent article from Eurogamer.net has highlighted a list of five video games that are particularly suited for this festive time. This selection of holiday games offers a diverse range of genres and gameplay styles, catering [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-20T13:29:41.000Z",
-    "title": "EthSign debuts its DocuSign feature on Telegram and Line",
-    "url": "https://www.cryptopolitan.com/ethsign-docusign-feature-telegram-and-line/",
-    "description": "In the midst of an ongoing regulatory crackdown on the crypto industry players like EthSign and the challenges faced by some prominent players, the foundational decentralized technology continues to draw established internet platforms towards the realm of web3. Telegram and Line, two globally popular messaging apps boasting hundreds of millions of monthly users, have recently [&#8230;]"
+    "date": "2023-12-20T13:40:09.000Z",
+    "title": "Michael Saylor lauds the emergence of Bitcoin ETFs on Wall Street",
+    "url": "https://www.cryptopolitan.com/michael-saylor-laud-bitcoin-etfs-wall-street/",
+    "description": "Bitcoin bull Michael Saylor anticipates that the approval of a spot Bitcoin exchange-traded fund (ETF) could mark the most significant development on Wall Street since the early 1990s. He likens it to the creation of the S&#38;P index, highlighting its potential impact on mainstream retail and institutional investors. Michael Saylor suggests that a spot Bitcoin [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-20T13:20:13.000Z",
-    "title": "Avalanche Whales Trigger Alarm Bells as AVAX Soars Towards $50",
-    "url": "https://www.crypto-news-flash.com/avalanche-whales-trigger-alarm-bells-as-avax-soars-towards-50/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-whales-trigger-alarm-bells-as-avax-soars-towards-50",
-    "description": "<img width=\"1920\" height=\"1282\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-1024x684.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-1536x1026.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-24x16.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-36x24.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-48x32.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Avalanche (AVAX) has been surging since Monday and looks poised to hit $50—the token looked set to achieve this milestone last week but lost momentum at $45. However, on-chain data has revealed that whale investors have been selling off their holdings after the price hit $40, with $6.8 million worth of AVAX sold in the [...]"
+    "source": "BTCManager",
+    "date": "2023-12-20T13:40:47.000Z",
+    "title": "MOLLARS presale ongoing, project building a decentralized store of value ecosystem",
+    "url": "https://crypto.news/mollars-presale-ongoing-project-building-a-decentralized-store-of-value-ecosystem/",
+    "description": "The initial coin offering for MOLLARS, a store of value token on Ethereum, is now live"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-20T13:10:21.000Z",
-    "title": "Top Wallets Hold $2.18 Billion in Injective; Investor Anticipate Galaxy Fox Major 2024 Growth Coin",
-    "url": "https://www.crypto-news-flash.com/top-wallets-hold-2-18-billion-in-injective-investor-anticipate-galaxy-fox-major-2024-growth-coin/?utm_source=rss&utm_medium=rss&utm_campaign=top-wallets-hold-2-18-billion-in-injective-investor-anticipate-galaxy-fox-major-2024-growth-coin",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-123.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-123.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-123-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-123-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Altcoins are making waves, and two projects, Injective and Galaxy Fox, are catching the eye of investors. Let&#8217;s dive into the story of top wallets holding $2.5 billion in Injective and explore why Galaxy Fox, a good crypto to buy, is anticipated to be a major growth coin in 2024. Top Wallets Hold $2.5 Billion [...]"
+    "source": "NewsBTC",
+    "date": "2023-12-20T14:00:08.000Z",
+    "title": "MATIC Enters Correction Phase, Bleeds 10% In The Past Week ",
+    "url": "https://www.newsbtc.com/news/matic-enters-correction-phase-bleeds-over-8-in-the-past-week/",
+    "description": "After the market entered a shortened bleeding phase, it has since rebounded to a stable foothold in preparation for a possibly bigger rally by year’s end. However, some altcoins continued to trend downward with MATIC being one of them. According to Coingecko, the token is down almost 10% in the weekly timeframe. Although the bears have a slight chokehold on MATIC’s market, there is some on-chain news that keeps the token afloat.  Related Reading: Woo-ing Buyers: Woo Network Token 75% Rally Sparks Investor Interest Update On Polygon’s Chain Development Kit (CDK)  Polygon recently posted on their blog about the newest addition to their CDK. Gateway, a blockchain infrastructure-focused team, integrated cdk-erigon into Polygon’s CDK. According to the blog post, Erigon is a fast, high-efficiency node that will bring a better user experience for developers building on Polygon.  Need for a Public RPC infrastructure in #defi? We got you covered 😎 Our team is happy to announce that we have become the RPC provider infrastructure for Stellar @StellarOrg /Soroban @SorobanOfficial Public RPC infrastructure. @gateway_eth head of infrastructure,… pic.twitter.com/c3jEMToFoP — Gateway FM (@gateway_eth) September 28, 2023 “Erigon is known for being memory-optimized, and so is cdk-erigon. Compared to the zkNode on Polygon zkEVM (of which Polygon CDK is a fork), cdk-erigon uses 10x less disk space with +150x faster sync times on mainnet,” the Polygon team said in the blog post.  MATIC market cap currently at $7.424 billion. Chart: TradingView.com This new addition will attract more developers to the platform. It can already be seen happening, with six projects testing the new Polygon CDK with the cdk-erigon integration.  Polygon also iterated that the system will be available as an RPC node for the protocol’s zkEVM Mainnet Beta next year. Positive News Overall, But What Now? As of writing, MATIC bulls are trying to reverse the current downward trend that the token is on. However, they might need to settle for a lower, more stable price point around $0.7550. This will provide investors and traders with a stable jump-off point for higher gains before the year’s end.  From MATIC To POL But MATIC bulls should consider the current phase of the network. Last September, the Polygon dev team announced the implementation of Polygon 2.0, an upgrade that would change the network’s token from MATIC to POL. According to MATIC’s Coingecko page, the upgrade from MATIC to POL has been initiated on the Ethereum mainnet.  Related Reading: Ethereum Whales Scoop Up $230 Million In ETH In One Week – Price Hike Next? Once the upgrade is in full swing, investors and traders will migrate their MATIC holdings to POL. This will inevitably harm the price as more and more investors will try to take value out of MATIC before it goes to the bin.  For now, investors and traders should be cautious of any major decision-making as any big investing decision made now will hurt gains in the long run. Featured image from Shutterstock"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-20T13:38:00.000Z",
-    "title": "Bullish ETH on the Prowl! Accumulation Zone Found, Next Stop $3,500?",
-    "url": "https://coinedition.com/bullish-eth-on-the-prowl-accumulation-zone-found-next-stop-3500/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/ETH-Exchange-Address-Activity-Reached-a-New-High-Recently-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A famous cryptocurrency analyst identifying as Ali on X (formerly Twitter) has spotted a significant development in Ethereum’s daily chart. In a recent post, Ali showed that Ether is retesting its breakout zone from an ascending triangle, hinting at preparation for a further climb. According to Ali, the price range between $2,150 and $1,900 could [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bullish-eth-on-the-prowl-accumulation-zone-found-next-stop-3500/\">Bullish ETH on the Prowl! Accumulation Zone Found, Next Stop $3,500?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-20T13:19:00.000Z",
-    "title": "Cardano Community up in Arms Over Messari 2024 Report Omission",
-    "url": "https://coinedition.com/cardano-community-up-in-arms-over-messari-2024-report-omission/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/cardano-02.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/cardano-02.jpg 730w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/cardano-02-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cryptocurrency market intelligence platform Messari and its founder, Ryan Selkis, came under fire from Cardano community members following their 2024 Messari crypto report. Cardano community members complained that the report largely ignored the Cardano blockchain and its strides this year. A community member pointed out that Cardano had no single mention in the report, despite [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-community-up-in-arms-over-messari-2024-report-omission/\">Cardano Community up in Arms Over Messari 2024 Report Omission</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-20T13:15:35.000Z",
-    "title": "First Round of Speakers for TOKEN2049 Dubai Revealed",
-    "url": "https://coinedition.com/first-round-of-speakers-for-token2049-dubai-revealed/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/12/PR1-20.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/12/PR1-20.png 730w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-300x169.png 300w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-380x214.png 380w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-696x392.png 696w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-159x89.png 159w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-255x143.png 255w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-313x175.png 313w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-440x247.png 440w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-414x233.png 414w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-293x165.png 293w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-375x211.png 375w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-328x185.png 328w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-144x81.png 144w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-123x70.png 123w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-129x73.png 129w, https://coinedition.com/wp-content/uploads/2023/12/PR1-20-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>TOKEN2049, the leading global Web3 and crypto conference series, has unveiled the initial speaker lineup for its inaugural Dubai edition, which will be taking place from 18-19 April 2024.&#160; The first round of the event’s speaker lineup has been made public. The list includes Paolo Ardoino, CEO of Tether; Sandeep Nailwal, Co-Founder of Polygon; Arthur Hayes, Co-Founder of BitMEX; Roger [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/first-round-of-speakers-for-token2049-dubai-revealed/\">First Round of Speakers for TOKEN2049 Dubai Revealed</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-20T13:49:05.000Z",
+    "title": "XRP (XRP) Price Prediction 2024-2030: Will XRP Price Hit $1 Soon?",
+    "url": "https://coinedition.com/ripple-xrp-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bullish XRP’s price prediction ranges from $0.824 to $0.955. Analysis suggests that the XRP may also reach $1.12 this year. XRP’s bearish market price prediction for 2024 is $0.2841. As the “crypto solution for business,” Ripple promises to create a business impact by taking advantage of blockchain technology. Ripple promises that its solution is faster, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-xrp-price-prediction/\">XRP (XRP) Price Prediction 2024-2030: Will XRP Price Hit $1 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,79 +1,93 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2023-12-20T08:46:51.000Z",
-    "title": " US standards and tech group seeks public input on AI safety, development guidelines ",
-    "url": "https://cointelegraph.com/news/us-standards-tech-group-seeks-public-input-ai-safety-development-guidelines",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNDEyZWY3ZmUtZjdjNy00YzI2LWFiNGUtOGUzZTlkNzQ1ODEyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The U.S. National Institute of Standards and Technology’s request for information seeks input from AI companies and the public on generative AI risk management and reducing risks of AI-generated misinformation.</p>\n                    <p><p>The National Institute of Standards and Technology (NIST) within the U.S. Department of Commerce has released a Request for Information (RFI) to support its duties outlined in the latest Executive Order concerning the secure and responsible development and use of artificial intelligence (AI).</p><p>The organization <a href=\"https://www.nist.gov/news-events/news/2023/12/nist-calls-information-support-safe-secure-and-trustworthy-development-and\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> that it's inviting public input up to Feb. 2 to gather essential feedback for conducting tests to ensure the safety of AI systems.</p><p>Secretary of Commerce Gina Raimondo stated that the initiative is inspired by President Joe Biden’s October Executive directive instructing NIST to create guidelines, including evaluation and red-teaming, foster consensus-based standards, and establish testing environments for AI system assessment. This framework aims to support the AI community in safely, reliably, and responsibly developing AI.</p><p><a href=\"https://cointelegraph.com/news/us-standards-tech-group-seeks-public-input-ai-safety-development-guidelines\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-20T08:43:17.000Z",
-    "title": " Ripple gets approval to operate as digital asset service operator in Ireland ",
-    "url": "https://cointelegraph.com/news/ripple-vasp-registration-ireland",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvY2VkZDk1NTgtYTExYS00ZGQyLTlmNjYtMjFhMDE4NTA1MTcxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Other companies in the CBI VASP register include Coinbase and Gemini exchanges, the payment processor MoonPay, Zodia Custody and others.</p>\n                    <p><p>Cryptocurrency payment network Ripple has reached another regulatory milestone in Ireland, with the Central Bank of Ireland (CBI) approving the firm as a virtual asset service provider (VASP). </p><p>Announcing the news on Dec. 19, Ripple <a href=\"https://ripple.com/ripple-press/ripple-added-to-central-bank-of-irelands-virtual-asset-service-providers-register\" target=\"_blank\" rel=\"noopener nofollow\">said</a> it has now been added to the CBI’s list of registered VASPs, allowing the firm to provide certain digital asset services in Ireland.</p><p><a href=\"https://registers.centralbank.ie/DownloadsPage.aspx\" target=\"_blank\" rel=\"noopener nofollow\">According</a> to data from CBI’s VASP register, Ripple can conduct transactions on behalf of another natural or legal person who moves digital assets from one address or account to another. Ripple is also allowed to provide crypto exchange services against fiat currencies, as well as exchange between different cryptocurrencies and provide custody services, according to the data.</p><p><a href=\"https://cointelegraph.com/news/ripple-vasp-registration-ireland\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2023-12-20T09:18:58.000Z",
+    "title": "Bitcoin Could Reach $160K in 2024 on the Back of Halving, Spot ETF Hype: Analysts",
+    "url": "https://www.coindesk.com/markets/2023/12/20/bitcoin-could-reach-160k-in-2024-on-the-back-of-halving-spot-etf-hype-analysts/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin has historically rallied after its halving event – which automatically decreases the supply of new coins in the open market – and traders are likely pricing in the event that’s next scheduled for April 2024."
   },
   {
     "source": "CryptoGlobe",
-    "date": "2023-12-20T08:39:50.000Z",
-    "title": "Ripple President Monica Long Forecasts a Transformative 2024 for Crypto",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/ripple-president-monica-long-forecasts-a-transformative-2024-for-crypto/",
-    "description": "On 19 December 2023, Monica Long, the President of Ripple, shared her predictions for the cryptocurrency landscape in 2024 on social media platform X. Her insights reflect a vision of significant evolution and maturation in the crypto industry. Here’s a detailed breakdown of her key predictions and statements: Breaking the Speculative Hype Cycle: Long anticipates […]\n"
+    "date": "2023-12-20T09:10:15.000Z",
+    "title": "XRP Community Strikes Back at Rajat Soni’s Outrageous Claims: Blockchain Expert Panos Mekras Leads Bold Rebuttal",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/xrp-community-strikes-back-at-rajat-sonis-outrageous-claims-blockchain-expert-panos-mekras-leads-bold-rebuttal/",
+    "description": "On 18 December 2023, Bitcoin educator Rajat Soni shared his thoughts about XRP on social media platform X, contrasting it with Bitcoin. His thread included the following points: Labeling XRP as a Scam: Soni started by calling XRP a scam and asserted that banks would prefer USD or Bitcoin over XRP. Centralization Issues: He pointed […]\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2023-12-20T09:30:53.000Z",
+    "title": "Making Privacy Solutions EVM-Compatible Is Key to Integrating Them With Blockchains and Dapps — Guy Itzhaki",
+    "url": "https://news.bitcoin.com/making-privacy-solutions-evm-compatible-is-key-to-integrating-them-with-blockchains-and-dapps-guy-itzhaki/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Making Privacy Solutions EVM-Compatible Is Key to Integrating Them With Blockchains and Dapps — Guy Itzhaki\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/ethers.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />While proponents of fully homomorphic encryption (FHE) have sometimes touted it as a better privacy solution than zero-knowledge (ZK) proofs, Guy Itzhaki, the founder and CEO of Fhenix, said both are cryptographic-based technologies which, when combined, can form a robust and efficient encryption layer. To support this viewpoint, Itzhaki pointed to a research study whose [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-20T08:52:52.000Z",
-    "title": "Ripple advances in EU with central bank of Ireland approval",
-    "url": "https://www.cryptopolitan.com/ripple-advances-in-eu-with-bank-of-ireland/",
-    "description": "In a significant development for the blockchain industry, Ripple Markets Ireland Limited, a subsidiary of Ripple (XRP), has been granted registration by the Central Bank of Ireland as a Virtual Asset Service Provider (VASP). This move marks a crucial step in Ripple&#8217;s expansion strategy in the European market, particularly following the recent implementation of the [&#8230;]"
+    "date": "2023-12-20T09:38:27.000Z",
+    "title": "AI Predicts Individuals’ Time of Death with High Accuracy, Study Reveals",
+    "url": "https://www.cryptopolitan.com/ai-predicts-individuals-time-of-death/",
+    "description": "In a groundbreaking study conducted by scientists from the Technical University of Denmark (DTU), a newly developed AI system, akin to ChatGPT has demonstrated an unprecedented ability to predict individual lifespans and the risk of early mortality. The AI model, named &#8220;life2vec,&#8221; was trained on the personal data of over one million individuals in Denmark, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:37:55.000Z",
+    "title": "Transformative Trends in the UK’s Accountancy Market for 2024",
+    "url": "https://www.cryptopolitan.com/trends-in-the-uks-accountancy-market-for-2024/",
+    "description": "The UK&#8217;s accountancy market is poised for significant transformation in 2024, driven by technological advancements and evolving business needs. As the industry navigates this changing landscape, accountants and financial professionals are adapting to remain competitive and efficient. Embracing technological advancements and legislative changes A key factor in the transformation of the accountancy market is the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:30:15.000Z",
+    "title": "Older Workers Adapting to AI: Challenges and Strategies",
+    "url": "https://www.cryptopolitan.com/workers-adapting-ai-challenge-and-strategies/",
+    "description": "As Artificial Intelligence (AI) continues to shape the modern workforce, older employees face unique challenges when adapting to this rapidly evolving technology. The challenges faced by senior workers Skills gap One of the most prominent challenges older workers face is the skills gap. Many older employees may not possess the same level of digital proficiency [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:29:45.000Z",
+    "title": "Ripple President Monica Long outlines 2024 crypto trends",
+    "url": "https://www.cryptopolitan.com/ripples-monica-long-outlines-2024-crypto/",
+    "description": "As 2023 concludes, Ripple Labs Inc., a prominent player in the crypto payments sector, has shed light on its expectations for 2024. The company&#8217;s president, Monica Long, and other key executives have offered their insights, outlining a future where the industry shifts from speculative trends to real-world utility and compliance. Monica long foresees major crypto [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:20:05.000Z",
+    "title": "Over 40 new countries got into crypto in 2023 – Inside look",
+    "url": "https://www.cryptopolitan.com/43-new-countries-got-into-crypto-in-2023/",
+    "description": "The cryptocurrency industry has witnessed a significant shift in 2023, with a remarkable 42 new countries entering the sphere. This dynamic change, as highlighted in a recent PriceWaterhouseCoopers report, underscores a global shift towards embracing and regulating digital currencies. Global Crypto Adoption: A New Wave The PwC report paints a vivid picture of the rapidly [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:13:45.000Z",
+    "title": "UK Government Urged to Prioritize AI Innovation Over Copyright Restrictions",
+    "url": "https://www.cryptopolitan.com/uk-government-urged-to-prioritize-ai-innovation-over-copyright-restrictions/",
+    "description": "Recently, the United Kingdom&#8217;s government has faced mounting pressure from advocacy groups and organizations to reconsider its stance on copyright laws, specifically concerning the burgeoning field of artificial intelligence (AI). Concerns have arisen over the potential stifling of AI innovation due to copyright restrictions, prompting a call to action from various tech and research community [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-20T09:11:08.000Z",
+    "title": "Irish Shoppers Show Mixed Feelings Towards AI in Retail, Accenture Survey Reveals",
+    "url": "https://www.cryptopolitan.com/irish-shoppers-mixed-feelings-ai-in-retail/",
+    "description": "In a recent survey conducted by Accenture in Ireland, it has become evident that Irish consumers have a cautious approach towards the implementation of generative artificial intelligence (AI) in retail spaces. While AI technology continues to advance, its acceptance among shoppers varies significantly, especially when it comes to personalization of shopping experiences. Varied reactions to [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2023-12-20T09:08:23.000Z",
-    "title": "Bitcoin (BTC) and Ethereum (ETH) Down Over 6% This Week, Whales Plunge Into Pullix Presale Ahead of Q1 Launch",
-    "url": "https://nulltx.com/bitcoin-btc-and-ethereum-eth-down-over-6-this-week-whales-plunge-into-pullix-presale-ahead-of-q1-launch/",
-    "description": "As Bitcoin (BTC) and Ethereum (ETH) went through a tough week, experiencing a dip of over 6%, the cryptocurrency market saw major movements elsewhere. Pullix (PLX) &#8211; a new ICO currently in Stage 2 of its presale, has gained mass appeal with over 4.7M tokens sold and $199,000 raised. Numerous [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-20T09:04:28.000Z",
-    "title": "Ethereum Shows Resilience As Market Value Holds Strong Amid Exchange Supply Decline",
-    "url": "https://nulltx.com/ethereum-shows-resilience-as-market-value-holds-strong-amid-exchange-supply-decline/",
-    "description": "Ethereum (ETH), the world&#8217;s second-largest cryptocurrency, is poised for an upward trajectory after successfully retesting at $2,100. As of the latest update, the price of Ethereum is comfortably trading at $2,220. Insights from the market intelligence platform Santiment, shared on X, indicate a noteworthy trend in Ethereum&#8217;s market dynamics. The [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-20T08:55:39.000Z",
-    "title": "Elastos’ token ELA jumps 100% following Bitcoin layer-2 announcement",
-    "url": "https://crypto.news/elastos-token-ela-jumps-100-following-bitcoin-layer-2-announcement/",
-    "description": "Blockchain developer Elastos introduced a Bitcoin layer-2 network, aiming to attract liquidity through its staking tools. According to a blog post, Elastos&#8216; new solution called &#8220;Bitcoin Elastos Layer2&#8221; abbreviated as BeL2, intends to leverage SmartWeb technology to enhance the capabilities&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-20T08:51:08.000Z",
-    "title": "Analyzing investment appeal of RBLZ, BONK, and TIA",
-    "url": "https://crypto.news/analyzing-investment-appeal-of-rblz-bonk-and-tia/",
-    "description": "Celestia and BONK are firm after key announcements. Meanwhile, analysts are bullish on Rebel Satoshi in the ongoing RBLZ presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-20T08:47:10.000Z",
-    "title": "Senator Warren accuses crypto lobbyists of obstructing anti-terrorism efforts",
-    "url": "https://crypto.news/senator-warren-accuses-crypto-lobbyists-of-obstructing-anti-terrorism-efforts/",
-    "description": "In a pointed letter to prominent crypto lobbying groups, including the Blockchain Association, Coin Center and Coinbase, Warren emphasized the potential negative impact of their lobbying activities. Warren accuses these groups of engaging in efforts that could delay or obstruct&#8230;"
+    "date": "2023-12-20T09:23:54.000Z",
+    "title": "Near Protocol (NEAR) A Giant Set To Wake? Experts Bullish On This Trailblazing New Meme Coin",
+    "url": "https://nulltx.com/near-protocol-near-a-giant-set-to-wake-experts-bullish-on-this-trailblazing-new-meme-coin/",
+    "description": "Experts are highlighting Near Protocol as a sleeping giant that could soon wake up and reward investors. But one more project could be even more promising — Meme Moguls. This up-and-coming P2E game is especially interesting because tokens are offered at just $0.0021 during the presale phase. Let&#8217;s take a [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-20T09:04:45.000Z",
-    "title": "Solana’s Tokenized Treasury Soars to $760 Million as Ondo Finance Expands",
-    "url": "https://www.crypto-news-flash.com/solanas-tokenized-treasury-soars-to-760-million-as-ondo-finance-expands/?utm_source=rss&utm_medium=rss&utm_campaign=solanas-tokenized-treasury-soars-to-760-million-as-ondo-finance-expands",
-    "description": "<img width=\"1043\" height=\"575\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/12/Solana.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Jito\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/12/Solana.jpg 1043w, https://www.crypto-news-flash.com/wp-content/uploads/2022/12/Solana-300x165.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/12/Solana-1024x565.jpg 1024w\" sizes=\"(max-width: 1043px) 100vw, 1043px\" />Investors can now access Tokenized real-world assets (RWA) on the Solana blockchain.  This makes it the second layer 1 network behind Ethereum where U.S. Dollar Yield (USDY) can be accessed.  Solana is currently one of the most popular and adopted coins in the crypto ecosystem based on its on-chain activities. According to a recent report, [...]"
+    "date": "2023-12-20T09:32:57.000Z",
+    "title": "ZKFair Launches Community-Driven ZK-L2 Mainnet",
+    "url": "https://www.crypto-news-flash.com/zkfair-launches-community-driven-zk-l2-mainnet/?utm_source=rss&utm_medium=rss&utm_campaign=zkfair-launches-community-driven-zk-l2-mainnet",
+    "description": "ZKFair&#8217;s Mainnet launch on December 20th brings a fair, community-driven approach to the world of ZK-L2 blockchains, distributing 100% of ZKF Tokens to users through airdrops. This disruptive project aims to empower everyday users by returning 100% of gas fee profits to the community, in contrast to projects prioritizing VC investors. The ZK-L2 community network, [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2023-12-20T08:48:51.000Z",
-    "title": "12 Lessons to Boost Your Portfolio in the Bull Market – Part 2",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/12-lessons-to-boost-your-portfolio-in-the-bull-market-part-2/",
-    "description": "<p>Crypto bull markets are a double-edged sword. If you play it right, you&#8217;ll laugh your way to the bank. But if you play it wrong, you could be missing out on massive gains. In this two-part article series, we&#8217;ll teach you how to boost your portfolio in the bull market.  Before we begin, do note [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/12-lessons-to-boost-your-portfolio-in-the-bull-market-part-2/\">12 Lessons to Boost Your Portfolio in the Bull Market &#8211; Part 2</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2023-12-20T09:19:37.000Z",
+    "title": "Top 10 Rules to Spot Next Crypto Gems – Part 2",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-10-rules-to-spot-next-crypto-gems-part-2/",
+    "description": "<p>Crypto traders are currently searching for the next 500x token because a bull run is around the corner. And that’s when prices usually skyrocket. If this is your first bull run, know that picking the right project can make a difference. While it’s hard to predict what token will hit the jackpot, there’s a science [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-10-rules-to-spot-next-crypto-gems-part-2/\">Top 10 Rules to Spot Next Crypto Gems &#8211; Part 2</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

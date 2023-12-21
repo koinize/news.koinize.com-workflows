@@ -1,79 +1,107 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2023-12-21T18:51:24.000Z",
+    "title": "New MidJourney V6 Release Upgrades Visuals and Tackles Text Generation (Mostly)",
+    "url": "https://decrypt.co/210637/midjourney-v6-base-model-upgrade-text-generation",
+    "description": "The new model promises better enhancers, upscalers, prompt following, and text generation capabilities. Stricter censorship, too."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-21T18:20:00.000Z",
-    "title": " Ethereum &#039;Dencun&#039; upgrade testing is now scheduled for Jan. 17 ",
-    "url": "https://cointelegraph.com/news/ethereum-dencun-upgrade-testing-scheduled-jan-17",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNGRjZjk2MGEtZjY2ZC00OTMyLWE0OTAtYWM2MGU3OGEzODk2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Ethereum “Dencun’\" upgrade will be implemented on Goerli testnet on Jan. 17, followed by Sepolia and Holesky testnets in the following weeks.</p>\n                    <p><p>Ethereum’s forthcoming upgrade, “Cancun-Deneb” (also known as “Dencun”), will <a href=\"https://github.com/ethereum/execution-specs/pull/860/commits/8a92d6d21f38d498922a1bb78d32e40a8f207653\" target=\"_blank\" rel=\"noopener nofollow\">begin</a> testing on Jan.17, according to a note published on the official Ethereum Github repository. The upgrade will first be applied to the Goerli testnet, then added to Sepolia on Jan. 30 and Holesky on Feb. 7. The Ethereum team has yet to announce when Dencun will be implemented on the mainnet.</p><p>The new upgrade includes several tools intended to reduce fees, allow for new features of bridges and staking pools, and limit the use of self-destruct operations on smart contracts.</p><p>According to its developer documents, Dencun will contain Ethereum Improvement Proposal (EIP) 4844, also known as “proto-danksharding.” This will <a href=\"https://eips.ethereum.org/EIPS/eip-4844\" target=\"_blank\" rel=\"noopener nofollow\">allow</a> layer-2 rollup networks like Arbitrum, Base, Polygon zkEVM and others to store certain transaction data temporarily, using a new format called “blobs.” Blobs can be deleted after 18 days, whereas the current practice is to include the data in the CALLDATA field and keep it on the blockchain forever. Ethereum developers believe that proto-danksharding will significantly reduce transaction fees on layer-2s.</p><p><a href=\"https://cointelegraph.com/news/ethereum-dencun-upgrade-testing-scheduled-jan-17\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-21T18:45:00.000Z",
+    "title": " UN internet governance group to create trial DAO for public sector ",
+    "url": "https://cointelegraph.com/news/un-internet-governance-group-create-trial-dao-public-sector",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYWI0ODU5NzAtZjgxMC00MjdiLWIwODktMGZkNDJjYzFiNGUxLmpwZWc=.jpeg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The group didn’t say what it would do with its DAO but emphasized its potential to facilitate decision-making. </p>\n                    <p><p>A United Nations Internet Governance Forum (IGF) group plans to create a distributed autonomous organization (DAO) in a pilot project to demonstrate its applications in the public sector, the IGF <a href=\"https://en.acnnewswire.com/article.asp?art_id=88247\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> on Dec. 21.</p><p>The IGF Dynamic Coalition on Blockchain Assurance &amp; Standardization (BSA) wanted to showcase how public sector organizations can “leverage blockchain technology and DAO principles to foster transparent, rules-based, and high-integrity governance structures.” The IGF did not specify how its DAO would be used, but it emphasized DAOs’ decision-making capacity rather than financial aspects.</p><p><strong><em>Related: <a href=\"https://cointelegraph.com/news/united-nations-agency-undp-blockchain-academy-algorand\">United Nations agency to upskill thousands of staff in blockchain tech</a></em></strong></p><p><a href=\"https://cointelegraph.com/news/un-internet-governance-group-create-trial-dao-public-sector\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-21T18:10:31.000Z",
-    "title": "Arthur Hayes sees new arbitrage opportunities in SEC’s crypto ETF concerns",
-    "url": "https://cryptoslate.com/arthur-hayes-predicts-new-arbitrage-opportunities-in-secs-crypto-etf-concerns/",
-    "description": "<p>Arthur Hayes, the co-founder and former CEO of BitMEX, highlighted the potential &#8220;juicy arbitrage opportunities&#8221; that would emerge for investors who trade on both American and non-American crypto exchanges due to the SEC&#8217;s insistence that applicants handle funds in a specific way. In a Dec. 21 post on X (formerly Twitter), Hayes explained that an [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/arthur-hayes-predicts-new-arbitrage-opportunities-in-secs-crypto-etf-concerns/\">Arthur Hayes sees new arbitrage opportunities in SEC&#8217;s crypto ETF concerns</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-21T19:00:53.000Z",
+    "title": "Realized price and true market mean: Understanding Bitcoin’s key cost-basis indicators",
+    "url": "https://cryptoslate.com/realized-price-vs-true-market-mean-understanding-bitcoins-key-cost-basis-indicators/",
+    "description": "<p>Introduction The realized price and the true market mean price are critical indicators in Bitcoin&#8217;s on-chain data analysis, each providing essential insights into the valuation and investor behavior within the cryptocurrency landscape. Understanding the distinction between these two metrics is crucial for a comprehensive grasp of Bitcoin&#8217;s valuation, as they collectively shed light on both [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/realized-price-vs-true-market-mean-understanding-bitcoins-key-cost-basis-indicators/\">Realized price and true market mean: Understanding Bitcoin&#8217;s key cost-basis indicators</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2023-12-21T18:21:42.000Z",
-    "title": "Argentina now allows Bitcoin-denominated private agreements",
-    "url": "https://cryptobriefing.com/argentina-now-allows-bitcoin-denominated-private-agreements/?utm_source=feed&utm_medium=rss",
-    "description": "Chancellor Diana Mondino confirms Bitcoin and other cryptos as valid for contracts in Argentina, as part of Milei's economic reforms."
+    "date": "2023-12-21T18:57:11.000Z",
+    "title": "Solana ‘memecoin season’ tokens see profits up to over 7,300%",
+    "url": "https://cryptobriefing.com/solana-memecoin-season-tokens-see-profits-up-7300/?utm_source=feed&utm_medium=rss",
+    "description": "Solana DEX volume hits $1.2B, nearing Ethereum's as \"memecoin fever\" takes hold."
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2023-12-21T18:33:00.000Z",
-    "title": "Why Is the Price of Solana (SOL) up Today?",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/why-is-the-price-of-solana-sol-up-today/",
-    "description": "The price of smart contract platform Solana (SOL) is up by more than 7% so far today, significantly outperforming other leading digital assets, with Bitcoin’s price dropping 0.5% over the same period and ETH dropping by 0.6%. The price of Solana is up nearly 800% so far this year, and more than 400% over the […]\n"
+    "source": "Crypto Briefing",
+    "date": "2023-12-21T18:47:56.000Z",
+    "title": "Google and X used by scammers to steal $58 million from victims",
+    "url": "https://cryptobriefing.com/google-and-x-used-by-scammers-to-steal-58-million-from-victims/?utm_source=feed&utm_medium=rss",
+    "description": "Research by Scam Sniffer traces how scammers continue to steal millions in crypto by adapting phishing sites on Google and X."
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-21T18:16:15.000Z",
-    "title": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem",
-    "url": "https://cryptodaily.co.uk/2023/12/betfury-unveils-innovative-nft-lootboxes-in-its-expanding-nft-ecosystem",
-    "description": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem"
+    "date": "2023-12-21T19:02:39.000Z",
+    "title": "Why Might Litecoin (LTC), Arbitrum (ARB), and Polygon (MATIC) Be the Talk of Wall Street Soon?",
+    "url": "https://cryptodaily.co.uk/2023/12/why-might-litecoin-ltc-arbitrum-arb-and-polygon-matic-be-the-talk-of-wall-street-soon",
+    "description": "Join StealthEX's exciting $1,000 giveaway and explore the potential of Litecoin (LTC), Arbitrum (ARB), and Polygon (MATIC) in the dynamic crypto landscape. Discover how Bitcoin's ETF, Ethereum's upgrade, and StealthEX's festive offer could shape the future of these cryptocurrencies."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-12-21T18:30:31.000Z",
-    "title": "Phantom Expands Web3 Wallet to Embrace Bitcoin, Ordinals, and BRC20 Tokens Amid Soaring Demand",
-    "url": "https://news.bitcoin.com/phantom-expands-web3-wallet-to-embrace-bitcoin-ordinals-and-brc20-tokens-amid-soaring-demand/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Phantom Expands Web3 Wallet to Embrace Bitcoin, Ordinals, and BRC20 Tokens Amid Soaring Demand\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Phantom, the Web3 cryptocurrency wallet initially developed for Solana, has expanded to include Ethereum and Polygon, and is now introducing support for Bitcoin, Ordinal inscriptions, and BRC20 tokens. Users of Phantom have the ability to integrate their existing bitcoin wallets, allowing them to manage their Bitcoin-centric digital collectibles and fungible tokens through the Web3 platform&#8217;s [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T18:35:52.000Z",
-    "title": "Core Scientific all set to make a comeback in January",
-    "url": "https://www.cryptopolitan.com/core-scientific-to-make-comeback-in-january/",
-    "description": "Core Scientific, a prominent player in the cryptocurrency mining industry, has announced its expected emergence from bankruptcy by mid-to-late January. The Austin, Texas-based company, which had filed for bankruptcy protection in December last year, is now on the brink of a significant turnaround. This potential revival comes at a time when the crypto industry is [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2023-12-21T18:44:28.000Z",
+    "title": "BNB Chain Launches Content Campaign, Offering $10K in Rewards For Creative Technical opBNB Content",
+    "url": "https://cryptodaily.co.uk/2023/12/bnb-chain-launches-content-campaign-offering-10k-in-rewards-for-creative-technical-opbnb-content",
+    "description": "BNB Chain Launches Content Campaign, Offering $10K in Rewards For Creative Technical opBNB Content"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T18:29:03.000Z",
-    "title": "Federal Reserve gets some respite from GDP numbers",
-    "url": "https://www.cryptopolitan.com/federal-reserve-gets-some-respite-from-gdp/",
-    "description": "The U.S. economy has presented a set of data that brings a semblance of relief to the Federal Reserve, amid its ongoing battle against inflation and economic downturns. The third-quarter gross domestic product (GDP) growth rate and inflation figures, both key indicators of economic health, were revised to show slower growth and inflation than initially [&#8230;]"
+    "date": "2023-12-21T18:58:09.000Z",
+    "title": "Why stablecoins are taking center stage in 2024",
+    "url": "https://www.cryptopolitan.com/stablecoins-are-taking-center-stage-in-2024/",
+    "description": "Stablecoins, the relatively stable assets in the volatile cryptocurrency market, are expected to take a significant leap forward in 2024. These digital currencies, pegged to stable assets like fiat currencies or a basket of goods, are increasingly becoming the backbone of financial transactions in the crypto space. As the world continues to embrace digital transformation [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T18:17:47.000Z",
-    "title": "Apple Vision Pro Launch Expected in February, Sources Suggest",
-    "url": "https://www.cryptopolitan.com/apple-vision-pro-launch-expected-in-february/",
-    "description": "In a recent update from renowned Bloomberg journalist Mark Gurman, there are strong indications that Apple&#8217;s much-anticipated product, the Apple Vision Pro, is set to launch by February. Gurman&#8217;s sources reveal that production lines in China have been operating at full capacity for several weeks, aiming to meet the end-of-January target for readiness. Production in [&#8230;]"
+    "date": "2023-12-21T18:50:08.000Z",
+    "title": "EU governments reach landmark economic agreement",
+    "url": "https://www.cryptopolitan.com/eu-govts-reach-landmark-economic-agreement/",
+    "description": "In a significant development for the European Union&#8217;s economic landscape, EU finance ministers have reached an agreement to reform the bloc&#8217;s fiscal rules, which have been in place for two decades. This landmark agreement, achieved on Wednesday, is set to allow more flexibility in public debt reduction and create incentives for public investment during periods [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T18:16:26.000Z",
-    "title": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem",
-    "url": "https://www.cryptopolitan.com/betfury-unveils-innovative-nft-lootboxes-in-its-expanding-nft-ecosystem/",
-    "description": "Willemstad, Curacao, December 21st, 2023, Chainwire BetFury has launched its latest innovation &#8211; NFT Lootboxes, marking a significant milestone in its NFT ecosystem. These Lootboxes feature a variety of rare NFTs and diverse rewards, offering a unique opportunity for participants in the world of crypto art and gaming. Understanding NFT Lootboxes NFT Lootboxes, inspired by [&#8230;]"
+    "date": "2023-12-21T18:44:31.000Z",
+    "title": "BNB Chain Launches Content Campaign, Offering $10K in Rewards For Creative Technical opBNB Content",
+    "url": "https://www.cryptopolitan.com/bnb-chain-launches-content-campaign-offering-10k-in-rewards-for-creative-technical-opbnb-content/",
+    "description": "DUBAI, UAE, December 21st, 2023, Chainwire BNB Chain, the community-driven blockchain ecosystem that includes the world’s largest smart contract blockchain, today announced the launch of the ‘opBNB Technical Content Creation Campaign.’  Open to both experienced and junior Web3 developers, Web2 developers, tech enthusiast content creators and key opinion leaders (KOLs), the campaign is designed to [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2023-12-21T18:29:32.000Z",
-    "title": "Injective’s $INJ Sees Remarkable 3,000% Surge, Hitting New All-Time High At $43",
-    "url": "https://nulltx.com/injectives-inj-sees-remarkable-3000-surge-hitting-new-all-time-high-at-43/",
-    "description": "Injective witnessed another surge on Wednesday as money continued to flow into the altcoin and cryptocurrency markets. On December 20, the price of Injective (INJ), the Artificial Intelligence (AI) financial blockchain, achieved a new all-time high at $43, concluding a year of extraordinary gains surpassing 3,000%.  Notably, major investors in [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2023-12-21T18:41:43.000Z",
+    "title": "From bad to worse? Assessing China-Philippines relations",
+    "url": "https://www.cryptopolitan.com/from-bad-to-worse-china-philippines/",
+    "description": "The diplomatic waters between China-Philippines are becoming increasingly turbulent, with both nations ramping up rhetoric over territorial claims in the South China Sea. This escalation of tensions, despite calls for dialogue to resolve the issues, has raised concerns about the direction and future of China-Philippines relations. The situation is particularly delicate under the administration of [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-21T18:47:15.000Z",
+    "title": "Ethereum devs eye January for Dencun testing",
+    "url": "https://crypto.news/ethereum-devs-eye-january-for-dencun-testing/",
+    "description": "Ethereum Foundation Developers set tentative dates for a major upgrade to scale crypto’s biggest altcoin blockchain. "
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-12-21T19:00:35.000Z",
+    "title": "Matrixport Foresees Bitcoin Hitting $50,000 Price Mark: Here’s When",
+    "url": "https://www.newsbtc.com/bitcoin-news/matrixport-foresees-bitcoin-hitting-50000-price-mark/",
+    "description": "Matrixport, a crypto financial services firm founded by Jihan Wu, former CEO of Bitmain has recently shared a summary that delves into its forecast for Bitcoin, predicting a significant surge in its price. Founded in 2019, Matrixport has been closely monitoring Bitcoin’s market dynamics and trends. Their recent analysis suggests a robust future for Bitcoin, particularly noting its potential to break the $50,000 barrier by 2024. Related Reading: Eyes On $50,000: Bitcoin Poised For Major Rally Amid Spot ETF Optimism – Analyst Spot ETF Approval Could Catapult Bitcoin Above $50,000 Matrixport bases its optimistic forecast on the anticipated approval of Bitcoin spot ETFs by the US Securities and Exchange Commission (SEC) in January. This crucial regulatory nod is seen as a pivotal factor that could propel Bitcoin&#8217;s price to soar above $50,000. The summary draws a parallel to a previous significant moment in Bitcoin’s history – the launch of Bitcoin futures by the CME Group and CBOE in December 2017. That event marked a notable spike in Bitcoin&#8217;s price, pushing it to reach $20,000 for the first time. Matrixport expected the SEC to approve Bitcoin Spot ETFs in January and this should lift Bitcoin prices above $50,000 by the end of January 2024. TV commercials are being rolled out already from multiple ETF applicants, which will continue to support Bitcoin prices.… — Wu Blockchain (@WuBlockchain) December 21, 2023 Matrixport equates the potential impact of spot ETFs to this historical milestone, anticipating a similar, if not greater, market reaction. Industry Experts Echo Matrixport&#8217;s Optimism Matrixport is not alone in its bullish stance on Bitcoin’s prospects. Other industry experts and analysts have echoed similar predictions, especially in light of the probable approval of a spot Bitcoin ETF. Michael van de Poppe, a prominent crypto analyst, recently suggested that Bitcoin is poised to reach the $47,000-$50,000 range soon. Van de Poppe, just like Matrixport, attributes this potential surge to the anticipated approval of spot BTC ETFs by leading financial entities like BlackRock, Fidelity, and Ark Investment. Investment management firm VanEck also shares this sentiment, forecasting a substantial influx of funds into spot Bitcoin ETFs. They predict over $2.4 billion pouring into these spot ETFs in the first quarter of 2024 alone. VanEck’s report highlights a growing investor trend towards ‘hard money’ assets, which are less influenced by US authorities. Bitcoin, with its resilience and limited correlation to traditional financial markets, according to VanEck, stands out as a particularly attractive option for investors. VanEck analysts also hold a firm belief in Bitcoin’s market stability, projecting that its price will likely not fall below $30,000 in early 2024. This prediction is reinforced by another analyst, Ali, who has identified a robust support zone for Bitcoin between $37,150 and $38,360. Related Reading: Crypto Funds’ 11-Week Inflow Streak Snapped: Bitcoin Faces $33M Exodus As Altcoins Shine This range is backed by substantial buying activities from around 1.52 million addresses, accumulating approximately 534,000 BTC. Ali’s analysis suggests that this significant accumulation acts as a strong foundation, potentially preventing further downturns in Bitcoin’s value. Featured image from Unsplash, Chart from TradingView"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2023-12-21T18:42:00.000Z",
+    "title": "Binance Expands DApp Access With 19 New Integrations in Binance Wallet",
+    "url": "https://coinedition.com/binance-expands-dapp-access-with-19-new-integrations-in-binance-wallet/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance Expands DApp Access With 19 New Integrations in Binance Wallet\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/Binance_Is_the_First_Virtual_Asset_Exchange_to_Receive_an_Operational-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Leading crypto exchange Binance has revealed the successful integration of 19 new decentralized applications (dApps) onto its Binance Web3 Wallet. The exchange communicated this development via its official blog today. As a result of the new integration, users can now access the dApps directly through the Binance Wallet, simplifying their DeFi and Web3 interactions. The [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/binance-expands-dapp-access-with-19-new-integrations-in-binance-wallet/\">Binance Expands DApp Access With 19 New Integrations in Binance Wallet</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-21T19:05:58.000Z",
+    "title": "‘Take a Cautious Approach’ – Santiment Issues Warning on Solana, NEAR Protocol and One Bitcoin Ecosystem Altcoin",
+    "url": "https://dailyhodl.com/2023/12/21/take-a-cautious-approach-santiment-issues-warning-on-solana-near-protocol-and-one-bitcoin-ecosystem-altcoin/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/08/in-Sight-for-Altcoins.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analytics firm Santiment is warning about Solana (SOL) and two other altcoins based on one key metric. The firm says that the discussions of Solana on social media platforms are soaring, which often signals a market top. Social media discussions are also rising quickly for Stacks (STX), a project that aims to enable smart [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/21/take-a-cautious-approach-santiment-issues-warning-on-solana-near-protocol-and-one-bitcoin-ecosystem-altcoin/\">‘Take a Cautious Approach’ – Santiment Issues Warning on Solana, NEAR Protocol and One Bitcoin Ecosystem Altcoin</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

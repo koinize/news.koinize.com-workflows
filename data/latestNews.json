@@ -1,58 +1,79 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2023-12-21T17:57:15.000Z",
-    "title": "3AC Liquidators Freeze $1.4 Billion From Founders",
-    "url": "https://decrypt.co/210622/3ac-liquidators-freeze-1-4-billion-from-founders",
-    "description": "The freeze stops 3AC co-founders Su Zhu and Kyle Davies, along with Davies’ wife, Kelly Chen, from accessing the funds in question."
+    "source": "Cointelegraph",
+    "date": "2023-12-21T18:20:00.000Z",
+    "title": " Ethereum &#039;Dencun&#039; upgrade testing is now scheduled for Jan. 17 ",
+    "url": "https://cointelegraph.com/news/ethereum-dencun-upgrade-testing-scheduled-jan-17",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNGRjZjk2MGEtZjY2ZC00OTMyLWE0OTAtYWM2MGU3OGEzODk2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Ethereum “Dencun’\" upgrade will be implemented on Goerli testnet on Jan. 17, followed by Sepolia and Holesky testnets in the following weeks.</p>\n                    <p><p>Ethereum’s forthcoming upgrade, “Cancun-Deneb” (also known as “Dencun”), will <a href=\"https://github.com/ethereum/execution-specs/pull/860/commits/8a92d6d21f38d498922a1bb78d32e40a8f207653\" target=\"_blank\" rel=\"noopener nofollow\">begin</a> testing on Jan.17, according to a note published on the official Ethereum Github repository. The upgrade will first be applied to the Goerli testnet, then added to Sepolia on Jan. 30 and Holesky on Feb. 7. The Ethereum team has yet to announce when Dencun will be implemented on the mainnet.</p><p>The new upgrade includes several tools intended to reduce fees, allow for new features of bridges and staking pools, and limit the use of self-destruct operations on smart contracts.</p><p>According to its developer documents, Dencun will contain Ethereum Improvement Proposal (EIP) 4844, also known as “proto-danksharding.” This will <a href=\"https://eips.ethereum.org/EIPS/eip-4844\" target=\"_blank\" rel=\"noopener nofollow\">allow</a> layer-2 rollup networks like Arbitrum, Base, Polygon zkEVM and others to store certain transaction data temporarily, using a new format called “blobs.” Blobs can be deleted after 18 days, whereas the current practice is to include the data in the CALLDATA field and keep it on the blockchain forever. Ethereum developers believe that proto-danksharding will significantly reduce transaction fees on layer-2s.</p><p><a href=\"https://cointelegraph.com/news/ethereum-dencun-upgrade-testing-scheduled-jan-17\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2023-12-21T18:10:31.000Z",
+    "title": "Arthur Hayes sees new arbitrage opportunities in SEC’s crypto ETF concerns",
+    "url": "https://cryptoslate.com/arthur-hayes-predicts-new-arbitrage-opportunities-in-secs-crypto-etf-concerns/",
+    "description": "<p>Arthur Hayes, the co-founder and former CEO of BitMEX, highlighted the potential &#8220;juicy arbitrage opportunities&#8221; that would emerge for investors who trade on both American and non-American crypto exchanges due to the SEC&#8217;s insistence that applicants handle funds in a specific way. In a Dec. 21 post on X (formerly Twitter), Hayes explained that an [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/arthur-hayes-predicts-new-arbitrage-opportunities-in-secs-crypto-etf-concerns/\">Arthur Hayes sees new arbitrage opportunities in SEC&#8217;s crypto ETF concerns</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2023-12-21T18:21:42.000Z",
+    "title": "Argentina now allows Bitcoin-denominated private agreements",
+    "url": "https://cryptobriefing.com/argentina-now-allows-bitcoin-denominated-private-agreements/?utm_source=feed&utm_medium=rss",
+    "description": "Chancellor Diana Mondino confirms Bitcoin and other cryptos as valid for contracts in Argentina, as part of Milei's economic reforms."
   },
   {
     "source": "CryptoGlobe",
-    "date": "2023-12-21T17:43:00.000Z",
-    "title": "Solana Overtakes XRP to Become Fifth-Largest Crypto By Market Cap After 770% YTD Rise",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/solana-overtakes-xrp-to-become-fifth-largest-crypto-by-market-cap-after-770-ytd-rise/",
-    "description": "Solana’s price rise so far this year has seen it become the fifth-largest digital asset by market capitalization after surpassing the native token of the XRP Ledger, XRP. Solana’s price rose more than 770% so far this year, as it recovers from the collapse of FTX. Before collapsing FTX had heavily supported the Solana ecosystem […]\n"
+    "date": "2023-12-21T18:33:00.000Z",
+    "title": "Why Is the Price of Solana (SOL) up Today?",
+    "url": "https://www.cryptoglobe.com/latest/2023/12/why-is-the-price-of-solana-sol-up-today/",
+    "description": "The price of smart contract platform Solana (SOL) is up by more than 7% so far today, significantly outperforming other leading digital assets, with Bitcoin’s price dropping 0.5% over the same period and ETH dropping by 0.6%. The price of Solana is up nearly 800% so far this year, and more than 400% over the […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-12-21T18:16:15.000Z",
+    "title": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem",
+    "url": "https://cryptodaily.co.uk/2023/12/betfury-unveils-innovative-nft-lootboxes-in-its-expanding-nft-ecosystem",
+    "description": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2023-12-21T18:00:22.000Z",
-    "title": "Grimace Community Triumphs: MEXC’s Multimillion-Dollar Capitulation",
-    "url": "https://news.bitcoin.com/grimace-community-triumphs-mexcs-multimillion-dollar-capitulation/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/unnamed-2023-12-21t180525-667.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. On December 19, Grimace&#8217;s creator staged a New Year&#8217;s miracle live, gifting his followers millions of dollars. The MEXC exchange funded this entire giveaway, as they went against Grimace&#8217;s user base and listed the token on their futures market without approval. The Start of It All: The Complete Story of the Dispute In [&#8230;]"
+    "date": "2023-12-21T18:30:31.000Z",
+    "title": "Phantom Expands Web3 Wallet to Embrace Bitcoin, Ordinals, and BRC20 Tokens Amid Soaring Demand",
+    "url": "https://news.bitcoin.com/phantom-expands-web3-wallet-to-embrace-bitcoin-ordinals-and-brc20-tokens-amid-soaring-demand/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Phantom Expands Web3 Wallet to Embrace Bitcoin, Ordinals, and BRC20 Tokens Amid Soaring Demand\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/phantom.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Phantom, the Web3 cryptocurrency wallet initially developed for Solana, has expanded to include Ethereum and Polygon, and is now introducing support for Bitcoin, Ordinal inscriptions, and BRC20 tokens. Users of Phantom have the ability to integrate their existing bitcoin wallets, allowing them to manage their Bitcoin-centric digital collectibles and fungible tokens through the Web3 platform&#8217;s [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T17:52:28.000Z",
-    "title": "Why is Argentina auctioning its debt?",
-    "url": "https://www.cryptopolitan.com/why-is-argentina-auctioning-its-debt/",
-    "description": "In a move that signifies a paradigm shift in its economic strategy, Argentina has embarked on a massive auction of its treasury debt, totaling approximately 2.96 trillion pesos ($3.7 billion). This action is part of the government&#8217;s broader initiative to untangle a complex web of short-term central bank arrears, predominantly held by local creditors. The [&#8230;]"
+    "date": "2023-12-21T18:35:52.000Z",
+    "title": "Core Scientific all set to make a comeback in January",
+    "url": "https://www.cryptopolitan.com/core-scientific-to-make-comeback-in-january/",
+    "description": "Core Scientific, a prominent player in the cryptocurrency mining industry, has announced its expected emergence from bankruptcy by mid-to-late January. The Austin, Texas-based company, which had filed for bankruptcy protection in December last year, is now on the brink of a significant turnaround. This potential revival comes at a time when the crypto industry is [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T17:40:55.000Z",
-    "title": "Javier Milei releases bold economic deregulation decree for Argentina",
-    "url": "https://www.cryptopolitan.com/javier-milei-economic-deregulation-argentina/",
-    "description": "In a bold move that marks a drastic shift in Argentina&#8217;s economic policy, the country&#8217;s new libertarian president, Javier Milei, has unveiled a comprehensive emergency decree. This decree, released on Wednesday night, encompasses over 300 measures aimed at deregulating the nation&#8217;s economy. The sweeping reforms introduced by Milei are set to dismantle major regulations across [&#8230;]"
+    "date": "2023-12-21T18:29:03.000Z",
+    "title": "Federal Reserve gets some respite from GDP numbers",
+    "url": "https://www.cryptopolitan.com/federal-reserve-gets-some-respite-from-gdp/",
+    "description": "The U.S. economy has presented a set of data that brings a semblance of relief to the Federal Reserve, amid its ongoing battle against inflation and economic downturns. The third-quarter gross domestic product (GDP) growth rate and inflation figures, both key indicators of economic health, were revised to show slower growth and inflation than initially [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2023-12-21T17:47:57.000Z",
-    "title": "Terraform Labs and SEC agree on confidentiality terms as trial approaches",
-    "url": "https://crypto.news/terraform-labs-and-sec-agree-on-confidentiality-terms-as-trial-approaches/",
-    "description": "The legal team of Terraform Labs and Do Kwon have agreed with the SEC on maintaining the confidentiality of certain documents in their trial. "
+    "source": "Cryptopolitan",
+    "date": "2023-12-21T18:17:47.000Z",
+    "title": "Apple Vision Pro Launch Expected in February, Sources Suggest",
+    "url": "https://www.cryptopolitan.com/apple-vision-pro-launch-expected-in-february/",
+    "description": "In a recent update from renowned Bloomberg journalist Mark Gurman, there are strong indications that Apple&#8217;s much-anticipated product, the Apple Vision Pro, is set to launch by February. Gurman&#8217;s sources reveal that production lines in China have been operating at full capacity for several weeks, aiming to meet the end-of-January target for readiness. Production in [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-21T17:56:38.000Z",
-    "title": "Streamr Announces the Start of Testnet Two for the Decentralized Streamr Network 1.0 – Paving the Way for Next-Gen Data Broadcasting",
-    "url": "https://dailyhodl.com/2023/12/21/streamr-announces-the-start-of-testnet-two-for-the-decentralized-streamr-network-1-0-paving-the-way-for-next-gen-data-broadcasting/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-Streamr-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>December 21, 2023 – Zug, Switzerland After the successful launch of &#8216;testnet one,&#8217; paving the way for the upcoming Streamr Network 1.0 milestone, Streamr is excited to announce the start of &#8216;testnet two.&#8217; This second incentivized testnet – starting on December 21, 2023, and concluding on January 8, 2024 – will see a reward pool [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/21/streamr-announces-the-start-of-testnet-two-for-the-decentralized-streamr-network-1-0-paving-the-way-for-next-gen-data-broadcasting/\">Streamr Announces the Start of Testnet Two for the Decentralized Streamr Network 1.0 – Paving the Way for Next-Gen Data Broadcasting</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2023-12-21T18:16:26.000Z",
+    "title": "BetFury Unveils Innovative NFT Lootboxes in Its Expanding NFT Ecosystem",
+    "url": "https://www.cryptopolitan.com/betfury-unveils-innovative-nft-lootboxes-in-its-expanding-nft-ecosystem/",
+    "description": "Willemstad, Curacao, December 21st, 2023, Chainwire BetFury has launched its latest innovation &#8211; NFT Lootboxes, marking a significant milestone in its NFT ecosystem. These Lootboxes feature a variety of rare NFTs and diverse rewards, offering a unique opportunity for participants in the world of crypto art and gaming. Understanding NFT Lootboxes NFT Lootboxes, inspired by [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2023-12-21T17:55:06.000Z",
-    "title": "Atomic Wallet Launches $1,000,000 Bug Bounty Program Months After Suffering Multi-Million Dollar Hack",
-    "url": "https://dailyhodl.com/2023/12/21/atomic-wallet-wallet-launches-1000000-bug-bounty-program-months-after-suffering-multi-million-dollar-hack/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/atomic-wallet-bug-bounty.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Atomic Wallet is beefing up the security of its platform through a new initiative that will give monetary awards to those who discover potential vulnerabilities in its app. In a new statement, the decentralized wallet company says it is launching a bug bounty program with a cumulative prize pool of $1 million months after suffering [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/21/atomic-wallet-wallet-launches-1000000-bug-bounty-program-months-after-suffering-multi-million-dollar-hack/\">Atomic Wallet Launches $1,000,000 Bug Bounty Program Months After Suffering Multi-Million Dollar Hack</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "NullTX",
+    "date": "2023-12-21T18:29:32.000Z",
+    "title": "Injective’s $INJ Sees Remarkable 3,000% Surge, Hitting New All-Time High At $43",
+    "url": "https://nulltx.com/injectives-inj-sees-remarkable-3000-surge-hitting-new-all-time-high-at-43/",
+    "description": "Injective witnessed another surge on Wednesday as money continued to flow into the altcoin and cryptocurrency markets. On December 20, the price of Injective (INJ), the Artificial Intelligence (AI) financial blockchain, achieved a new all-time high at $43, concluding a year of extraordinary gains surpassing 3,000%.  Notably, major investors in [&#8230;]"
   }
 ]

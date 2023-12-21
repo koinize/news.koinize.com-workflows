@@ -1,86 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-21T10:41:23.000Z",
-    "title": "Solana, Avax, Helium Led Digital Assets Gains This Year. What's Next?",
-    "url": "https://www.coindesk.com/markets/2023/12/21/solana-avax-helium-led-digital-assets-gains-this-year-whats-next/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "What to watch for in 2024, according to market analysts."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2023-12-21T10:58:48.000Z",
-    "title": " Stablecoin laws: Only six countries had legislation in place in 2023 ",
-    "url": "https://cointelegraph.com/news/stablecoin-laws-only-6-countries-2023",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMzFmNzkyNmEtNTAwOS00NzRkLWI0OTItNjFiNzllNjA1M2JjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Out of 35 countries analyzed by PwC, only six jurisdictions had stablecoin regulations in place in 2023, including Switzerland and Japan.</p>\n                    <p><p>The <a href=\"https://cointelegraph.com/learn/stablecoins-101-what-are-crypto-stablecoins-and-how-do-they-work\">industry of stablecoins</a> — or cryptocurrencies like Tether (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>) and USDC (<a href=\"https://cointelegraph.com/usdc-price-index\">USDC</a>) — has seen impressive growth over the past year, with the market value hitting new all-time highs in 2023. Despite this rapid expansion, only a few countries have started regulating the market, according to a new report.</p><p>Only six countries had stablecoin legislation or regulation in place in 2023, according to the PwC Global Crypto Regulation Report 2023 <a href=\"https://www.pwc.com/gx/en/new-ventures/cryptocurrency-assets/pwc-global-crypto-regulation-report-2023.pdf\" target=\"_blank\" rel=\"noopener nofollow\">published</a> on Dec. 19. These countries are The Bahamas, The Cayman Islands, Gibraltar, Japan, Mauritius and Switzerland, according to the PwC’s analysis and regulatory assessment.</p><p>The countries that enacted stablecoin laws have also enforced all the other reviewed regulations, including a crypto regulatory framework, Anti-Money Laundering (AML) rules and the <a href=\"https://cointelegraph.com/learn/crypto-travel-rule\">Financial Action Task Force’s Travel Rule</a>, the report notes. </p><p><a href=\"https://cointelegraph.com/news/stablecoin-laws-only-6-countries-2023\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2023-12-21T10:55:31.000Z",
-    "title": "Ripple CTO Predicts 2024 Surge in Real World Asset Tokenization on XRP Ledger",
-    "url": "https://www.cryptoglobe.com/latest/2023/12/ripple-cto-predicts-2024-surge-in-real-world-asset-tokenization-on-xrp-ledger/",
-    "description": "On December 20, 2023, Ripple’s Chief Technology Officer, David Schwartz, shared his predictions for the year 2024 on social media platform X, focusing on the evolving landscape of blockchain technology and its intersection with other sectors. His insights cover a range of topics from AI integration to the rise of stablecoins. 1. AI and Blockchain […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2023-12-21T10:44:43.000Z",
-    "title": "Bitcoin is about to do what it always does in the bull markets",
-    "url": "https://cryptodaily.co.uk/2023/12/bitcoin-is-about-to-do-what-it-always-does-in-the-bull-markets",
-    "description": "For the vast majority of those who follow the cryptocurrency market, and particularly bitcoin, the moves of the market are mysterious. However, bitcoin follows the same general moves every time."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T11:09:46.000Z",
-    "title": "Revolut launches over 100 crypto options in New Zealand",
-    "url": "https://www.cryptopolitan.com/revolut-launch-crypto-option-in-new-zealand/",
-    "description": "London-based fintech firm Revolut has made a significant stride in the cryptocurrency market by launching its trading services in New Zealand. This move allows customers in the country to buy, sell, and hold a variety of digital currencies through the Revolut app, marking a new chapter in the accessibility of cryptocurrencies to the general public [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T11:03:33.000Z",
-    "title": "PEPE Price Prediction: Will Pepe Coin Dominate Dogecoin And Shiba Inu In 2024?",
-    "url": "https://www.cryptopolitan.com/pepe-price-prediction/",
-    "description": "PEPE Price Predictions 2023-2032 Meme coins are renowned in the cryptocurrency market for boosting investor morale, particularly during periods of market turbulence or stagnation. For enthusiasts of meme coins, the newly-introduced &#8220;PEPE&#8221; coin is one not to be overlooked. It has established a remarkable benchmark, experiencing an extraordinary surge of nearly 7,000% since its debut [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T10:48:02.000Z",
-    "title": "Historic cross-border e-CNY Gold purchase in Shanghai",
-    "url": "https://www.cryptopolitan.com/e-cny-gold-purchase-in-shanghai/",
-    "description": "In a historic move, the first-ever cross-border settlement for precious metals using the digital yuan, also known as the e-CNY (Central Bank Digital Currency), was successfully executed in 2023.&#160; The transaction, valued at 100 million yuan (approximately $14 million), was facilitated by the Shanghai Financial Exchange International Board and orchestrated by the Bank of China&#8217;s [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-21T11:06:04.000Z",
-    "title": "Chainlink announces top winners of Constellation 2023 hackathon",
-    "url": "https://crypto.news/chainlink-announces-top-winners-of-constellation-2023-hackathon/",
-    "description": "Chainlink Labs has unveiled prize winners in six categories, each focused on solving a specific task in the Web3 ecosystem. In a blog announcement on Dec. 20, the developer of the Chainlink decentralized oracle network said it had granted the&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-21T10:45:22.000Z",
-    "title": "Investors exploring Shiba Inu and Dogecoin alternative: new crypto project in focus",
-    "url": "https://crypto.news/investors-exploring-shiba-inu-and-dogecoin-alternative-new-crypto-project-in-focus/",
-    "description": "While Shiba Inu (SHIB) and Dogecoin (DOGE) are popular meme coins, investors have been exploring Borroe Finance (ROE)"
+    "source": "CryptoSlate",
+    "date": "2023-12-21T11:15:13.000Z",
+    "title": "Three Arrows Capital founders hit with $1.14 billion asset freeze",
+    "url": "https://cryptoslate.com/three-arrows-capital-founders-hit-with-1-billion-asset-freeze/",
+    "description": "<p>A British Virgin Islands court froze $1.14 billion in assets belonging to the founders of Three Arrows Capital (3AC), Su Zhu, Kyle Davies, and his wife, Kelly Chen, Bloomberg reported on Dec. 21, citing an emailed statement from the bankrupt hedge fund liquidator Teneo. The freezing order has global implications, impacting the founders&#8217; assets worldwide. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/three-arrows-capital-founders-hit-with-1-billion-asset-freeze/\">Three Arrows Capital founders hit with $1.14 billion asset freeze</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-21T11:04:07.000Z",
-    "title": "NEAR Price Soars 18% in 24 Hours: Is a Bullish Trend on the Horizon?",
-    "url": "https://www.crypto-news-flash.com/near-price-soars-18-in-24-hours-is-a-bullish-trend-on-the-horizon/?utm_source=rss&utm_medium=rss&utm_campaign=near-price-soars-18-in-24-hours-is-a-bullish-trend-on-the-horizon",
-    "description": "<img width=\"1280\" height=\"846\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-300x198.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-1024x677.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-768x508.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-104x69.png 104w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-214x140.png 214w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-24x16.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-36x24.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/rocket-ged5410645_1280-48x32.png 48w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />NEAR makes an 18 percent price surge in just 24 hours as analysts observe bullish signals in various technical indicators.  According to analysts, the asset has enough liquidity to support an upward surge.  The native token of the NEAR Protocol is back in the news after recording its highest price from year to date by [...]"
+    "date": "2023-12-21T11:36:55.000Z",
+    "title": "Shiba Inu’s Unique Proposal Aims to Attract More Users: What’s in Store for SHIB?",
+    "url": "https://www.crypto-news-flash.com/shiba-inus-unique-proposal-aims-to-attract-more-users-whats-in-store-for-shib/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inus-unique-proposal-aims-to-attract-more-users-whats-in-store-for-shib",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SHIBA INU\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin.jpeg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-300x169.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-1024x576.jpeg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/SHIB-Shiba-Inu-Altcoin-768x432.jpeg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Shiba Inu developers aim to acquire their own &#8220;.shib&#8221; domain to revolutionize digital identity on Web3. Despite a 4,000% increase in SHIB token burning, its price remains relatively stable, down 2% in 24 hours but up 9% weekly. The developers behind the popular Shiba Inu (SHIB) meme token have unveiled ambitious plans to acquire a [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-21T10:49:01.000Z",
-    "title": "Bitcoin ETF: Wall Street’s Most Anticipated Event in 30 Years Unveils 2 Hidden Risks",
-    "url": "https://www.crypto-news-flash.com/bitcoin-etf-wall-streets-most-anticipated-event-in-30-years-unveils-2-hidden-risks/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etf-wall-streets-most-anticipated-event-in-30-years-unveils-2-hidden-risks",
-    "description": "<img width=\"1000\" height=\"667\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin ETF\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2019/05/Beneath-Blue-Bitcoin-ETF-1-104x69.jpg 104w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Bitcoin ETF approval, potentially Wall Street&#8217;s most significant event in 30 years, brings new dynamics to the financial market. Two key risks identified: sourcing challenges for regulated Bitcoin and reduced profitability in the basis trade strategy. As we look ahead to the possibility of an ETF approval by January 10, 2024, a development reported by [...]"
+    "date": "2023-12-21T11:36:41.000Z",
+    "title": "Litecoin to Surge Above $100, Ripple Experiences Price Correction, Everlodge Reaches New All-Time High",
+    "url": "https://www.crypto-news-flash.com/litecoin-to-surge-above-100-ripple-experiences-price-correction-everlodge-reaches-new-all-time-high/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-to-surge-above-100-ripple-experiences-price-correction-everlodge-reaches-new-all-time-high",
+    "description": "<img width=\"512\" height=\"307\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-21T115114.533.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-21T115114.533.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-21T115114.533-300x180.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-2023-12-21T115114.533-336x200.png 336w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As Litecoin (LTC) is battling key support levels, analysts are projecting that it could soon see a major upswing. Ripple (XRP) has experienced a price correction, which resulted in the fall into the red zone.  As a result, many have begun to diversify their holdings with the Everlodge (ELDG) crypto, as it has seen massive [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-21T11:20:50.000Z",
+    "title": "Cardano Partners with Brazil’s State-Owned Energy Company Petrobras to Ignite Green Energy Revolution",
+    "url": "https://www.crypto-news-flash.com/cardano-partners-with-brazils-state-owned-energy-company-petrobras-to-ignite-green-energy-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-partners-with-brazils-state-owned-energy-company-petrobras-to-ignite-green-energy-revolution",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-24x14.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-36x20.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/cardano-48x27.png 48w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Cardano partners with Petrobras to educate more than 45,000 employees on blockchain technology and cryptocurrencies. Participants will receive certificates and NFTs after completing Cardano workshops, driving innovation in the Brazilian energy sector. The partnership between Cardano and Petrobras, the Brazilian energy giant, marks a significant milestone in the integration of blockchain technology in the energy [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-21T10:47:32.000Z",
-    "title": "Solana’s Meteoric Rise Pushes XRP Down, What is Next?",
-    "url": "https://coinedition.com/solanas-meteoric-rise-pushes-xrp-down-what-is-next/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/SOLANA-8-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Solana (SOL) has achieved a significant milestone, surpassing Ripple&#8217;s XRP to become the fifth-largest cryptocurrency by market capitalization. This marks a pivotal moment in the digital currency space, with Solana reaching a market cap of $36 billion. The ascent of Solana reflects a dynamic shift in the crypto landscape, indicating investor confidence and a growing [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/solanas-meteoric-rise-pushes-xrp-down-what-is-next/\">Solana&#8217;s Meteoric Rise Pushes XRP Down, What is Next?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2023-12-21T11:16:12.000Z",
+    "title": "Investors Could Turn to ETH Post BTC Spot ETF Approval: Report",
+    "url": "https://coinedition.com/investors-could-turn-to-eth-post-btc-spot-etf-approval-report/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC Cannot Call ETH Security and Approve ETH Futures ETF: Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/Whether_people_want_to_admit_or_not_Adam_is_💯_correct_here_And-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent announcement on their Telegram broadcast channel, asset trading firm QCP Capital has provided key insights into the widely anticipated BTC Spot ETF. The report speculates that the United States Securities and Exchange Commission (SEC) could approve one or more of the pending applications for BTC spot ETFs  in less than three weeks. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/investors-could-turn-to-eth-post-btc-spot-etf-approval-report/\">Investors Could Turn to ETH Post BTC Spot ETF Approval: Report</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

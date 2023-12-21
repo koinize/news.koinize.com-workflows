@@ -1,58 +1,44 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-21T21:47:30.000Z",
+    "title": "Protocol Village: Amboss, Bitcoin Lightning Data Analytics Provider, Launches 'Ghost Addresses' ",
+    "url": "https://www.coindesk.com/tech/2023/12/20/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 21-Jan. 3. (EDITOR'S NOTE: We will be taking much-needed time off around the end of the year, so updates will be less frequent. Happy holidays!)"
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-21T22:08:29.000Z",
+    "title": " Does Bitcoin&#039;s dominance drop hint at full-blown altcoin season? ",
+    "url": "https://cointelegraph.com/news/does-bitcoin-s-dominance-drop-hint-at-full-blown-altcoin-season",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNDYzMmI3YmQtMGJiMC00ZDlkLTk5NWYtMmFhODM1MGNjZDQ1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Near parabolic growth in the Solana and Avalanche ecosystem take place as Bitcoin dominance drops slightly. Is it altcoin season?</p>\n                    <p><p>Solana (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) and Avalanche (<a href=\"https://cointelegraph.com/avalanche-price-index\">AVAX</a>) price lead among large-cap altcoins on Dec. 21 as Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) price hovers in the $43,400 range. The steady bullish momentum in altcoins comes after Bitcoin price failed to secure the $45,000 level, which has stood as resistance since the initial run-up on Dec. 5. </p><p>With $45,000 standing as the current resistance level, Bitcoin’s market dominance has also begun to pull back from 53.95% to 53.17% and as shown in the chart below, altcoin market dominance (TOTAL2) has risen concurrently. </p><p>Traders who use technical analysis typically view a combination of a drop in Bitcoin dominance and BTC range-bound trading or price consolidation as a possible sign that altcoin prices could break out. </p><p><a href=\"https://cointelegraph.com/news/does-bitcoin-s-dominance-drop-hint-at-full-blown-altcoin-season\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-21T21:59:31.000Z",
+    "title": " El Salvador passes law offering citizenship to Bitcoin investors: Report ",
+    "url": "https://cointelegraph.com/news/el-salvador-passes-law-offering-citizenship-bitcoin-investors",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvYzk3MzVkNjYtNGNiZS00NzAxLWIzMjMtYWMwY2ViYWZhOGM2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The new citizenship by Bitcoin \"donation\" law comes about two weeks after El Salvador launched a Bitcoin \"Freedom Visa\" for foreigners looking to move to the Central American country.</p>\n                    <p><p>El Salvador's Congress has reportedly approved a migration law allowing citizenship to foreigners who make Bitcoin <a href=\"https://cointelegraph.com/bitcoin-price\">(BTC)</a> \"donations\" toward the country's government-run social and economic development programs.</p><p>The reform was passed by the country's legislature on Dec. 21 with support from the Nayib Bukele's New Idea's party, <a href=\"https://www.reuters.com/world/americas/el-salvador-offers-citizenship-foreign-bitcoin-investors-2023-12-21/\" target=\"_blank\" rel=\"noopener nofollow\">according</a> to a Reuters report.</p><p>The law is expected to come into force in the coming days.</p><p><a href=\"https://cointelegraph.com/news/el-salvador-passes-law-offering-citizenship-bitcoin-investors\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-21T21:40:00.000Z",
+    "title": " ‘MS Drainer’ scammers used Google Ads to swipe $59M in crypto: Report ",
+    "url": "https://cointelegraph.com/news/ms-drainer-scammers-used-google-ads-swipe-59-million-crypto-scam-sniffer",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMmY4YWZjODMtZWM3OC00MDM4LTljM2ItNjFmOWEwMDg3NTRkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The attackers used a variety of techniques to get around Google AdSense audits, including regional targeting and page-switching.</p>\n                    <p><p data-ct-non-breakable=\"true\">Scammers used a wallet draining service called “MS Drainer” to <a href=\"https://twitter.com/realScamSniffer/status/1737799062328660384?s=20\" target=\"_blank\" rel=\"noopener nofollow\">siphon</a> approximately $59 million in crypto from victims over the past nine months, according to a Dec. 21 report on X (formerly Twitter) from blockchain security platform Scam Sniffer. The scammers used Google Ads to target victims with fake versions of popular crypto sites, including Zapper, Lido, Stargate, DefiLlama, Orbiter Finance and Radient, the report states.</p><p data-ct-non-breakable=\"true\">Wallet drainers are blockchain protocols that allow scammers to <a href=\"https://cointelegraph.com/news/cypto-drainers-pink-pussy-venom-and-inferno-steal-millions\">transfer crypto from a victim to the attacker</a> without their consent, usually by exploiting the token approval process. Developers usually charge a percentage of the profit in exchange for using their drainer software, and this fee is enforced through smart contracts, making it impossible to avoid.</p><p><em><strong>Related: </strong><a href=\"https://cointelegraph.com/news/cypto-drainers-pink-pussy-venom-and-inferno-steal-millions\"><strong>Pink, Pussy, Venom, Inferno — Drainers coming for a crypto wallet near you</strong></a></em></p><p><a href=\"https://cointelegraph.com/news/ms-drainer-scammers-used-google-ads-swipe-59-million-crypto-scam-sniffer\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2023-12-21T21:25:25.000Z",
-    "title": "SEC holding ‘rare joint conference call’ with spot Bitcoin ETF applicants: Reports",
-    "url": "https://cryptoslate.com/sec-holding-rare-joint-conference-call-with-spot-bitcoin-etf-applicants-reports/",
-    "description": "<p>The U.S. Securities and Exchange Commission (SEC) is rumored to be speaking with multiple spot Bitcoin ETF applicants at once according to a Dec. 21 report. FOX Business correspondent Charles Gasparino wrote on X: &#8220;SCOOP: [The SEC] is having what&#8217;s described as a rare joint conference call with prospective &#8220;spot&#8221; [Bitcoin] ETF filers, as its [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/sec-holding-rare-joint-conference-call-with-spot-bitcoin-etf-applicants-reports/\">SEC holding &#8216;rare joint conference call&#8217; with spot Bitcoin ETF applicants: Reports</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2023-12-21T21:21:12.000Z",
-    "title": "Circle applies for a license in France, eyes USDC boost in Europe",
-    "url": "https://cryptobriefing.com/circle-applies-for-a-license-in-france-eyes-usdc-boost-in-europe/?utm_source=feed&utm_medium=rss",
-    "description": "Circle continues its European push, with conditional French registration and the appointment of former PayPal Coralie Billmann."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2023-12-21T21:30:55.000Z",
-    "title": "Seasoned Trader Peter Brandt Challenges Bitcoin Halving Hype Calling It a ‘Whole Lot of Excitement Over Nothing’",
-    "url": "https://news.bitcoin.com/seasoned-trader-peter-brandt-challenges-bitcoin-halving-hype-calling-it-a-whole-lot-of-excitement-over-nothing/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Seasoned Trader Peter Brandt Challenges Bitcoin Halving Hype Calling It a ‘Whole Lot of Excitement Over Nothing’\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/btcbrndt.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Recently, the seasoned financial analyst and trader Peter Brandt has been increasingly expressive about crypto assets, with a particular focus on bitcoin and ethereum. On Dec. 21, 2023, Brandt reaffirmed his stance regarding the anticipated Bitcoin reward halving set for April 2024. He contends that the halving is overly sensationalized and will only exert a [&#8230;]"
+    "date": "2023-12-21T22:10:01.000Z",
+    "title": "Coinbase secures virtual asset service provider status in France",
+    "url": "https://cryptoslate.com/coinbase-secures-virtual-asset-service-provider-status-in-france/",
+    "description": "<p>Coinbase has registered to provide cryptocurrency services in France, according to an announcement from the company on Dec. 21. In an accompanying blog post, Coinbase stated that it has received virtual asset service provider (VASP) approval from France&#8217;s Autorité des marchés financiers (AMF), allowing it to operate within the country. That registration is also known [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-secures-virtual-asset-service-provider-status-in-france/\">Coinbase secures virtual asset service provider status in France</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-21T21:32:12.000Z",
-    "title": "UN shocks world with public sector DAO trial",
-    "url": "https://www.cryptopolitan.com/un-shocks-world-with-public-sector-dao-trial/",
-    "description": "The United Nations Internet Governance Forum (IGF) has taken a bold step into the future of governance and technology by initiating a pilot project to create a Distributed Autonomous Organization (DAO). Announced on December 21, 2023, this initiative marks a significant milestone in exploring the application of blockchain technology within public sector organizations. The project, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T21:27:06.000Z",
-    "title": "El Salvador’s Congress approves expedited citizenship for Bitcoin donors",
-    "url": "https://www.cryptopolitan.com/el-salvadors-congress-citizenship-btc-donors/",
-    "description": " El Salvador&#8217;s Congress has passed a migration law granting expedited citizenship to foreign investors making Bitcoin donations to government development programs. The reform is backed by President Nayib Bukele&#8217;s New Ideas party. Bitcoin &#8220;donations&#8221; for citizenship The unicameral legislature approved the reform without specifying a minimum Bitcoin donation requirement. The law emphasizes the &#8220;vital interest&#8221; [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T21:24:13.000Z",
-    "title": "France gives thumbs up to Coinbase and Circle – What’s next?",
-    "url": "https://www.cryptopolitan.com/france-gives-thumbs-up-to-coinbase-circle/",
-    "description": "In a significant stride for the cryptocurrency sector, France has given the green light to prominent crypto players Coinbase and Circle, indicating a forward-thinking approach to digital assets. The French markets regulator&#8217;s approval of Coinbase as a virtual asset service provider (VASP) and Circle&#8217;s conditional registration as a Digital Asset Service Provider (DASP) signifies a [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T21:22:03.000Z",
-    "title": "WEEKLY CRYPTO PRICE ANALYSIS: BTC, ETH, BNB, SOL, XRP, AVAX, AND DOGE",
-    "url": "https://www.cryptopolitan.com/weekly-crypto-price-analysis-21-12-2023/",
-    "description": "Weekly crypto analysis reveals that most of the cryptocurrencies have been trading in mixed signals, with bullish and bearish trends taking turns. Most of the token prices have remained consistent with minor fluctuations, with some experiencing major dips and gains. The market sentiment remains positive as investors continue to show confidence in the long-term potential [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-21T21:12:30.000Z",
-    "title": "Argentina to embrace Bitcoin for contracts",
-    "url": "https://www.cryptopolitan.com/argentina-to-embrace-bitcoin-for-contracts/",
-    "description": "Argentina is set to embrace Bitcoin and other cryptocurrencies for contractual settlements and payments, marking a significant shift in the country&#8217;s economic and financial landscape. Diana Mondino, Argentina&#8217;s Minister of Foreign Affairs, International Trade and Worship, has indicated that a recent decree aimed at economic reform and deregulation will encompass the use of Bitcoin and [&#8230;]"
+    "date": "2023-12-21T21:47:50.000Z",
+    "title": "A new chapter emerges in the endless US-China dispute",
+    "url": "https://www.cryptopolitan.com/new-chapter-in-the-endless-us-china-dispute/",
+    "description": "The ongoing geopolitical chess game between the US-China has entered a new phase with Beijing&#8217;s latest maneuver &#8211; the ban on exporting rare earth processing technologies. This move, a clear response to the US-led restrictions on advanced computer chip sales to Chinese companies, escalates the already tense relations between the two superpowers. China&#8217;s dominance in [&#8230;]"
   }
 ]

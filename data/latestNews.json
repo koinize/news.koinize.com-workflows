@@ -1,44 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2023-12-22T17:12:29.000Z",
-    "title": "Protocol Village: Fountain, Podcast App With Bitcoin Lightning Network Payments, Launches Redesign",
-    "url": "https://www.coindesk.com/tech/2023/12/20/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Dec 21-Jan. 3. (EDITOR'S NOTE: We will be taking much-needed time off around the end of the year, so updates will be less frequent. Happy holidays!)"
+    "date": "2023-12-22T17:44:53.000Z",
+    "title": "SEC Blasts 'Purportedly Decentralized' DAOs in $1.7M Settlement with BarnBridge",
+    "url": "https://www.coindesk.com/policy/2023/12/22/sec-blasts-purportedly-decentralized-daos-in-17m-settlement-with-barnbridge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BarnBridge failed to register its structured crypto product with the SEC, regulators alleged."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2023-12-22T17:30:15.000Z",
-    "title": "GHO Stablecoin Fails to Enforce Dollar Peg Amid Criticism, Receives D Grade From Bluechip",
-    "url": "https://news.bitcoin.com/gho-stablecoin-fails-to-enforce-dollar-peg-amid-criticism-receives-d-grade-from-bluechip/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"GHO Stablecoin Fails to Enforce Dollar Peg Amid Criticism, Receives D Grade From Bluechip\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/d.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Roughly three weeks ago, Bitcoin.com News covered the stablecoin GHO, when it achieved a notable milestone by reaching $0.98 per coin. However, on December 11, the token experienced a slight dip, hitting $0.975 per unit. Despite some improvement in its stability, the stablecoin has still not enforced its intended goal of a $1 peg. GHO&#8217;s [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2023-12-22T17:48:50.000Z",
+    "title": "Paxos to launch USDP stablecoin on Solana, secures NY regulatory approval",
+    "url": "https://cryptobriefing.com/paxos-launch-usdp-stablecoin-solana-after-securing-ny-regulatory-approval/?utm_source=feed&utm_medium=rss",
+    "description": "Paxos claims that the approval from the New York regulator aligns with its commitment to regulatory compliance and transparency."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-12-22T17:53:40.000Z",
+    "title": "Top Cryptos to Buy Before Bitcoin ETF Approval: Solana (SOL), Dogecoin (DOGE) and Everlodge (ELDG) Leads",
+    "url": "https://cryptodaily.co.uk/2023/12/top-cryptos-to-buy-before-bitcoin-etf-approval-solana-sol-dogecoin-doge-and-everlodge-eldg-leads",
+    "description": "The cryptocurrency world is experiencing a strong upward trend in trading volume, with more people buying and selling digital assets like Overall"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2023-12-22T17:47:54.000Z",
+    "title": "Investors Anticipate Which Digital Currencies Musk May Integrate Into X; Dogecoin (DOGE) and Ethereum (ETH) Top The List; Investors Turning Heads To This New Presale",
+    "url": "https://cryptodaily.co.uk/2023/12/investors-anticipate-which-digital-currencies-musk-may-integrate-into-x-dogecoin-doge-and-ethereum-eth-top-the-list-investors-turning-heads-to-this-new-presale",
+    "description": "Ethereum (ETH) has seen a significant level of attention as of recently following projections by JP Morgan analysts alongside the hype surrounding the EIP-4844 upgrade"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-22T17:28:02.000Z",
-    "title": "Bahrain Embraces AI in Addiction Recovery",
-    "url": "https://www.cryptopolitan.com/bahrain-embraces-ai-in-addiction-recovery/",
-    "description": "In a significant move toward harnessing technology for social good, Bahrain has initiated an innovative project utilizing artificial intelligence (AI) to aid in drug addiction recovery. This initiative, led by Lieutenant-General Tariq Al Hassan, the Chief of Public Security, was introduced at a workshop organized by the General Directorate of Criminal Investigation and Forensic Science. [&#8230;]"
+    "date": "2023-12-22T17:56:36.000Z",
+    "title": "Comprehending the Essence of A Blockchain Fork",
+    "url": "https://www.cryptopolitan.com/comprehending-the-essence-blockchain-fork/",
+    "description": "A fork represents a pivotal moment of divergence in the protocol rules governing a blockchain network. This leads to the creation of two paths from a single original chain. A blockchain fork materializes when modifications are made to the protocol, resulting in either an entirely new blockchain or a significant alteration to the existing chain. [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2023-12-22T17:24:41.000Z",
-    "title": "Matrixport forecasts Bitcoin to hit $50k in January",
-    "url": "https://crypto.news/matrixport-forecasts-bitcoin-to-hit-50k-in-january/",
-    "description": "Matrixport's track record includes successful predictions, with two out of six already realized, underscoring the anticipation surrounding their latest forecast of Bitcoin reaching $50,000."
+    "date": "2023-12-22T18:00:00.000Z",
+    "title": "Solana trends higher, Everlodge and Cardano may benefit",
+    "url": "https://crypto.news/solana-trends-higher-everlodge-and-cardano-may-benefit/",
+    "description": "The crypto market is dynamic, and three coins—Solana (SOL), Everlodge (ELDG), and Cardano (ADA)—are drawing investors' attention"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-22T17:53:09.000Z",
+    "title": "Paxos expands stablecoin issuance to Solana",
+    "url": "https://crypto.news/paxos-expands-stablecoin-issuance-to-solana/",
+    "description": "Leading tokenization platform Paxos has announced its expansion into the Solana blockchain, marking a significant move beyond its previous Ethereum exclusivity. "
+  },
+  {
+    "source": "BTCManager",
+    "date": "2023-12-22T17:46:19.000Z",
+    "title": "Litecoin surpasses 200 million transactions",
+    "url": "https://crypto.news/litecoin-surpasses-200-million-transactions/",
+    "description": "In a Dec. 22 post on X, the Litecoin network hit the 200 millionth transaction mark, showcasing accelerated growth with an impressive processing of over 10 million transactions."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2023-12-22T18:00:12.000Z",
+    "title": "Former Director Says Ripple Can Burn 40 Billion XRP In Escrow, How Will This Affect Price?",
+    "url": "https://www.newsbtc.com/analysis/xrp/ripple-burn-40-billion-xrp/",
+    "description": "The possibility of Ripple ‘burning’ its escrowed XRP funds has come up for discussion. This development could become a major talking point as the XRP community continues to clamor about XRP’s tepid price action.  Can Ripple Burn Its Escrowed XRP Funds? In a post on his X (formerly Twitter) platform, former Ripple Director Matt Hamilton suggested a way in which Ripple could potentially ‘burn’ its XRP holdings in escrow lockups. He stated that Ripple could disable the master key on the destination account, which usually receives these escrow funds.  Related Reading: Solana Headed To $100? Here’s What’s Driving The Growth Hamilton believes that this achieves the same purpose for which tokens are burned, considering that they become inaccessible to anyone when they are released from escrow. His statement formed part of a larger discussion among some members of the XRP community on what to do with the escrowed funds if there was a need to get rid of them.  Crypto sleuth Mr. Huber had also weighed in on the discussion as he stated that Ripple can’t burn these escrowed funds as the decision isn’t theirs to make. Ripple will apparently need the approval of validators on the XRP Ledger before they can make such a move.  From the discussion, one could see that they were alluding to the escrowed funds possibly being encoded on the XRP Ledger. As such, Ripple will need the permission of these validators to alter the code and burn those funds. However, Hamilton’s comment was more focused on Ripple burning these funds by simply disabling access to the destination account.  Bulls maintain control of price &#124; Source: XRPUSD on Tradingview.com Ripple Burning Escrowed Funds And Its Significance Ripple burning their escrowed funds is something that could easily pique the interest of the XRP community. This is true, especially considering recent talks about Ripple deliberately suppressing XRP’s price. As such, there could be shouts for Ripple to burn some of these tokens to show its commitment to XRP’s growth. Related Reading: Shiba Inu Eyes $0.00002 As Shibarium Marks Momentous Milestone However, from all indications, this isn’t a straightforward process, and there is no guarantee that it will affect XRP’s price. At some point in the discussion, XRP YouTuber Moon Lambo alluded to the fact that Ripple’s XRP holdings aren’t part of those in the open market. It has also been reported that Ripple’s XRP transactions do not impact prices on crypto exchanges.  Therefore, there is the likelihood that Ripple burning their XRP holdings (the escrowed funds in particular) might not impact XRP’s price on the open market. Ripple probably knows this, and that is why they haven’t made such a move. Instead, to provide stability to XRP, they return most of their unlocked tokens to escrow.  Featured image from Watcher Guru, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-22T17:31:26.000Z",
-    "title": "Litecoin to Surge Above $100, Ripple Experiences Price Correction, Everlodge Reaches New All-Time High",
-    "url": "https://www.crypto-news-flash.com/litecoin-to-surge-above-100-ripple-experiences-price-correction-everlodge-reaches-new-all-time-high-2/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-to-surge-above-100-ripple-experiences-price-correction-everlodge-reaches-new-all-time-high-2",
-    "description": "<img width=\"512\" height=\"307\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-6-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-6-1.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-6-1-300x180.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-6-1-150x90.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-6-1-450x270.png 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As Litecoin (LTC) is battling key support levels, analysts are projecting that it could soon see a major upswing. Ripple (XRP) has experienced a price correction, which resulted in the fall into the red zone.  As a result, many have begun to diversify their holdings with the Everlodge (ELDG) crypto, as it has seen massive [...]"
+    "date": "2023-12-22T18:01:56.000Z",
+    "title": "Circle Secures French DASP Registration to Strengthen EU Foothold",
+    "url": "https://www.crypto-news-flash.com/circle-secures-french-dasp-registration-to-strengthen-eu-foothold/?utm_source=rss&utm_medium=rss&utm_campaign=circle-secures-french-dasp-registration-to-strengthen-eu-foothold",
+    "description": "<img width=\"1306\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/USDC_1666017094KC9UrWxcFL.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/USDC_1666017094KC9UrWxcFL.png 1306w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/USDC_1666017094KC9UrWxcFL-300x165.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/USDC_1666017094KC9UrWxcFL-1024x565.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/USDC_1666017094KC9UrWxcFL-768x423.png 768w\" sizes=\"(max-width: 1306px) 100vw, 1306px\" />USDC issuer, Circle has secured the conditional DASP license in France. The company is tightening its global foothold in hopes of a possible IPO. Circle, a leading global financial technology company, has successfully secured registration as a Digital Asset Service Provider (DASP) in France as part of a deliberate drive to extend its footprint in [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2023-12-22T17:09:54.000Z",
-    "title": "Binance Makes Memecoin Trading More Accessible with New Minimum Order Size",
-    "url": "https://www.crypto-news-flash.com/binance-makes-memecoin-trading-more-accessible-with-new-minimum-order-size/?utm_source=rss&utm_medium=rss&utm_campaign=binance-makes-memecoin-trading-more-accessible-with-new-minimum-order-size",
-    "description": "<img width=\"1600\" height=\"900\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"opBNB\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn.png 1600w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-1536x864.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-24x14.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-36x20.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/07/Binance-Coin-BNB-token-Burn-48x27.png 48w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" />According to a recent announcement, Binance will be reducing the minimum order size for specific memecoins. Along with the new development, the minimum amount investors can spend will also be lowered from five to one stablecoins.  As adoption for memecoins increases, the Binance cryptocurrency exchange is doing all it takes to keep up with public [...]"
+    "source": "The Daily Hodl",
+    "date": "2023-12-22T17:55:46.000Z",
+    "title": "USDC Issuer Circle Secures ‘Conditional’ Registration To Operate in France After Coinbase Receives Green Light",
+    "url": "https://dailyhodl.com/2023/12/22/usdc-issuer-circle-secures-conditional-registration-to-operate-in-france-after-coinbase-receives-green-light/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/12/circle-to-operate-after.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Financial markets regulators in France just granted USDC stablecoin issuer Circle a conditional registration as a Digital Asset Service Provider (DASP). The French Financial Markets Authority (AMF) requires DASPs to register to operate as a crypto trading platform or to provide services related to digital asset custody, buying and selling of cryptocurrencies in a legal [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/22/usdc-issuer-circle-secures-conditional-registration-to-operate-in-france-after-coinbase-receives-green-light/\">USDC Issuer Circle Secures ‘Conditional’ Registration To Operate in France After Coinbase Receives Green Light</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-22T17:51:31.000Z",
+    "title": "PLXYER Web 3.0 Game Distribution Platform – Empowering the Next Era of Web 3.0 Gaming",
+    "url": "https://dailyhodl.com/2023/12/22/plxyer-web-3-0-game-distribution-platform-empowering-the-next-era-of-web-3-0-gaming/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/12/UPSCALED-PLXYER-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>In the dynamic landscape of blockchain gaming, PLXYER emerges as a revolutionary force, bridging the gap between game creators and the global gaming community. Pronounced as &#8216;player,&#8217; PLXYER is a comprehensive Web 3.0 game distribution platform that embodies a creator-centric approach, fostering an ecosystem where players, creators and token holders thrive. At its core, PLXYER [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/22/plxyer-web-3-0-game-distribution-platform-empowering-the-next-era-of-web-3-0-gaming/\">PLXYER Web 3.0 Game Distribution Platform – Empowering the Next Era of Web 3.0 Gaming</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

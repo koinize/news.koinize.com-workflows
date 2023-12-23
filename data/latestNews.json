@@ -1,23 +1,30 @@
 [
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-23T10:00:35.000Z",
-    "title": "Apple Ventures into Generative AI: Negotiations Underway for News Archives Access",
-    "url": "https://www.cryptopolitan.com/apple-into-generative-ai-negotiations/",
-    "description": "In a recent development reported by The New York Times, technology giant Apple is making strides in the field of generative AI, aiming to secure access to major publishers&#8217; news archives for training purposes. Despite the notable absence of Apple in the generative AI arena, the company is reportedly in negotiations with key publishers and [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-23T09:51:38.000Z",
-    "title": "AI Image Dataset Controversy: Child Sexual Abuse Material Raises Alarms",
-    "url": "https://www.cryptopolitan.com/ai-image-child-sexual-abuse-raises-alarms/",
-    "description": "In a recent revelation, the Stanford Internet Observatory has uncovered a disconcerting reality within the realm of artificial intelligence (AI) development. The largest image dataset employed for training AI image generation models, LAION-5B, has been found to contain 3,226 images suspected to be child sexual abuse material (CSAM). This revelation has prompted LAION to swiftly [&#8230;]"
+    "date": "2023-12-23T10:34:56.000Z",
+    "title": "AI-Powered Conversations with Art Unveiled at Ghent Museum of Fine Arts",
+    "url": "https://www.cryptopolitan.com/ai-conversations-with-art-at-ghent-museum/",
+    "description": "In a pioneering move, the Ghent Museum of Fine Arts (MSK) has embraced artificial intelligence (AI) to bring paintings to life through interactive conversations. Spearheaded by local AI specialists Lean Mean Learning Machine, the initiative marks a significant leap in the fusion of technology and art. The debut piece, &#8220;The Cattle Shed&#8221; by Jenny Montigny, [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-23T09:55:06.000Z",
-    "title": "UN Embraces Blockchain: Utilizing ZK-Proofs and Decentralized IDs for Refugee Safety – IOTA Offers the Same Tech But Better",
-    "url": "https://www.crypto-news-flash.com/un-embraces-blockchain-utilizing-zk-proofs-and-decentralized-ids-for-refugee-safety-iota-offers-the-same-tech-but-better/?utm_source=rss&utm_medium=rss&utm_campaign=un-embraces-blockchain-utilizing-zk-proofs-and-decentralized-ids-for-refugee-safety-iota-offers-the-same-tech-but-better",
-    "description": "<img width=\"674\" height=\"432\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/IOTA.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/IOTA.png 674w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/IOTA-300x192.png 300w\" sizes=\"(max-width: 674px) 100vw, 674px\" />The UNHCR is actively exploring decentralized identity solutions, particularly zero-knowledge proofs (ZK-proofs), to ensure the safety of refugees crossing borders. The agency acknowledges the potential of blockchain technology and has already initiated a pilot project using USD Coin (USDC) stablecoin for swift financial assistance to Ukrainian refugees. The treasurer of a United Nations agency recently [...]"
+    "date": "2023-12-23T10:32:57.000Z",
+    "title": "ICO Launches Compared: Celestia vs Pyth Network vs InQubeta",
+    "url": "https://www.crypto-news-flash.com/ico-launches-compared-celestia-vs-pyth-network-vs-inqubeta/?utm_source=rss&utm_medium=rss&utm_campaign=ico-launches-compared-celestia-vs-pyth-network-vs-inqubeta",
+    "description": "<img width=\"512\" height=\"246\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-7-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-7-1.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-7-1-300x144.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-7-1-150x72.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/unnamed-7-1-450x216.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Initial Coin Offerings (ICOs) are like gold mines in the crypto landscape. As a result, they have been the go-to for explosive gains. It really does pay to be early in crypto.  This post will explore Celestia (TIA) and Pyth Network (PYTH), two ICOs that have gone on to have successful launches. They will also [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2023-12-23T10:15:31.000Z",
+    "title": "Amboss Launches ‘Ghost Addresses’ to Boost Lightning Network Self-Custody",
+    "url": "https://www.crypto-news-flash.com/amboss-launches-ghost-addresses-to-boost-lightning-network-self-custody/?utm_source=rss&utm_medium=rss&utm_campaign=amboss-launches-ghost-addresses-to-boost-lightning-network-self-custody",
+    "description": "<img width=\"1000\" height=\"647\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Sasa-Prudkov-Lightning.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Sasa-Prudkov-Lightning.jpg 1000w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Sasa-Prudkov-Lightning-300x194.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2019/04/Sasa-Prudkov-Lightning-768x497.jpg 768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" />Ghost Addresses have been launched by the provider of the Bitcoin Lightning Network Payment Solution. This is expected to simplify the process of transactions as there would be email-like format addresses to receive payment. Amboss Technologies, the provider of Bitcoin Lightning Network payment solutions has announced the launch of “Ghost Addresses” to move away from [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2023-12-23T10:15:32.000Z",
+    "title": "‘Brace for a Strong Rally’ – Trader Says Ethereum Rival Has Entered Bullish Zone, Could Surge by Double Digits",
+    "url": "https://dailyhodl.com/2023/12/23/brace-for-a-strong-rally-trader-says-ethereum-rival-has-entered-bullish-zone-could-surge-by-double-digits/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Could-Surge-by-Double.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Cryptocurrency analyst and trader Ali Martinez is expressing bullish sentiment on an Ethereum (ETH) competitor based on price action. Martinez tells his 36,800 followers on the X social media platform that Fantom (FTM) managing to overcome and stay above a key resistance level “marks a significant bullish turn” for the smart contract-enabled blockchain platform’s native [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/23/brace-for-a-strong-rally-trader-says-ethereum-rival-has-entered-bullish-zone-could-surge-by-double-digits/\">‘Brace for a Strong Rally’ – Trader Says Ethereum Rival Has Entered Bullish Zone, Could Surge by Double Digits</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

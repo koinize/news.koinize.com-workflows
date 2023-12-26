@@ -1,9 +1,16 @@
 [
   {
+    "source": "Bitcoin.com",
+    "date": "2023-12-26T03:30:16.000Z",
+    "title": "US Lawmaker Spotlights Crypto Bills Approved by House Committee This Year",
+    "url": "https://news.bitcoin.com/us-lawmaker-spotlights-crypto-bills-approved-by-house-committee-this-year/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"US Lawmaker Spotlights Crypto Bills Approved by House Committee This Year\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2023/12/tom-emmers-bills.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />U.S. Congressman Tom Emmer has highlighted various crypto bills that passed out of the House Committee on Financial Services this year. Among them is his appropriations amendment barring the U.S. Securities and Exchange Commission (SEC) &#8220;from using taxpayer dollars on its abusive crypto enforcement tirade until Congress passes legislation giving the SEC jurisdiction over this [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2023-12-26T03:00:18.000Z",
-    "title": "Is the Future of Depression Diagnosis Already Here?",
-    "url": "https://www.cryptopolitan.com/future-depression-diagnosis-here/",
-    "description": "The future of depression diagnosis and treatment is being reshaped by artificial intelligence (AI). With an estimated 20% of the global population experiencing depression at some point in their lives, and 300 million people currently battling the condition worldwide, the World Health Organization identifies depression as a major contributor to global ill health.&#160; Addressing the [&#8230;]"
+    "date": "2023-12-26T03:21:50.000Z",
+    "title": "Danish Researchers Unveil Life2Vec – An AI Death Calculator LLM Predicting Lifespan with 78% Accuracy",
+    "url": "https://www.cryptopolitan.com/life2vec-llm-predicting-78-accuracy/",
+    "description": "Danish researchers at Danmarks Tekniske Universitet (DTU) have introduced Life2Vec, an artificial intelligence model akin to OpenAI&#8217;s transformer model. Departing from traditional language-based data processing, Life2Vec delves into sequences of key life events to predict an individual&#8217;s personality and, more remarkably, their anticipated lifespan. The model, dubbed an &#8220;AI death calculator,&#8221; claims an impressive 78% [&#8230;]"
   }
 ]

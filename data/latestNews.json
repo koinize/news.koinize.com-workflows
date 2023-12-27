@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "source": "Cointelegraph",
+    "date": "2023-12-27T04:57:18.000Z",
+    "title": " Taproot Wizards launches script so haters can now reject Ordinals on Bitcoin ",
+    "url": "https://cointelegraph.com/news/taproot-wizards-launches-software-reject-ordinals-bitcoin",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvNWZmZTBmYTUtMGEzNy00ZjI4LTgwNzktNzVkMzA1YzA2NjcwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>“Go run the script or admit that you're just virtue signaling on twitter and are uninterested in stopping inscriptions,” said Rijndael, a Taproot Wizards contributor.</p>\n                    <p><p>In a bizarre game of consensus chicken, a contributor to Taproot Wizards — an art collection inscribed by Bitcoin Ordinals — says he's come up with a way for Bitcoiners to reject Ordinals inscriptions. </p><p>However, he doesn’t expect many will take up the offer. </p><p>“Merry Christmas, ord disrespectoors! I have a gift just for you! This [script] will rid your node of inscriptions,” <a href=\"https://x.com/rot13maxi/status/1739488819034890541?s=20\" target=\"_blank\" rel=\"noopener nofollow\">wrote</a> Rijndael, the firm’s pseudonymous chief technology officer, in a Dec. 26 post. </p><p><a href=\"https://cointelegraph.com/news/taproot-wizards-launches-software-reject-ordinals-bitcoin\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-27T04:58:42.000Z",
+    "title": "The Generative AI Dilemma – Navigating the Hype and Hallucinations",
+    "url": "https://www.cryptopolitan.com/generative-ai-dilemma-hype-hallucinations/",
+    "description": "In the ever-evolving landscape of artificial intelligence, the rise of generative AI has become a focal point for both excitement and apprehension. As the technology advances, so do the challenges and perceived risks associated with it. In this news exploration, we delve into the complex realm of generative AI, analyzing its potential contributions to the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-27T04:46:09.000Z",
+    "title": "Thunder Terminal thwarts $240,000 hack attempt, assures user funds are safe",
+    "url": "https://www.cryptopolitan.com/thunder-terminal-thwarts-240000-hack/",
+    "description": "In a recent incident, Thunder Terminal, the on-chain trading platform, successfully thwarted an exploit that compromised 114 wallets, resulting in losses of $240,000. The attacker, however, has disputed Thunder&#8217;s claims of user data safety, demanding a ransom for the purportedly affected information.&#160; The exploit and losses On December 27, Thunder Terminal issued an incident report [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2023-12-27T04:40:55.000Z",
+    "title": "AI-Powered App Predicts Illness 10 Days in Advance – Revolutionizing Cystic Fibrosis Care",
+    "url": "https://www.cryptopolitan.com/ai-powered-app-10-days-cystic-fibrosis/",
+    "description": "An AI-powered app named Breathe RM is poised to transform the landscape of care for patients with chronic lung conditions, particularly cystic fibrosis (CF). The app, utilizing advanced algorithms, holds the potential to predict when a patient will fall ill up to 10 days in advance. This technological leap is set to redefine how CF [&#8230;]"
+  }
+]

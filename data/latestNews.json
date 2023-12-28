@@ -1,72 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2023-12-28T08:52:37.000Z",
-    "title": "PancakeSwap Proposes to Reduce CAKE Token Supply by 300 Million",
-    "url": "https://www.coindesk.com/markets/2023/12/28/pancakeswap-proposes-to-reduce-cake-token-supply-by-300-million/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "More than 99.95% of the community, representing 70,000 votes from CAKE holders, favored the proposal shortly after it went live."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2023-12-28T09:05:55.000Z",
-    "title": " Crypto landscape: ten years of growth, change, advances and retreats ",
-    "url": "https://cointelegraph.com/news/crypto-market-10-years-ago-bitcoin-ripple-litecoin",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZjIzN2M2ODgtOGU3Zi00YjZkLTk3NWMtNWM4YTVhNzk0NzY2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Many top coin projects a decade ago have fallen off, while Bitcoin remains resilient and has made the most gains in ten years. </p>\n                    <p><p>While some digital assets have stood the test of time, others have tumbled below the thousands of new digital currencies that exist today. </p><p>On Dec. 28, the total market capitalization for the crypto space stood at around $1.77 trillion, with Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) still leading the charge at $842 million. It’s followed by market leaders like Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>), BNB (<a href=\"https://cointelegraph.com/binance-coin-price-index\">BNB</a>), and Solana (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>), as well as stablecoins like Tether (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>) and USD Coin (<a href=\"https://cointelegraph.com/usdc-price-index\">USDC</a>). </p><p>Projects like XRP (<a href=\"https://cointelegraph.com/xrp-price-index\">XRP</a>), Cardano (<a href=\"https://cointelegraph.com/ada-price-index\">ADA</a>) and Avalanche (<a href=\"https://cointelegraph.com/avalanche-price-index\">AVAX</a>) are also in the top ten digital assets by market cap and have proved their resilience over the years. In addition, Lido Staked Ether (stETH), which represents staked ETH in the liquid staking protocol Lido and combines the value of the initial deposit and staking rewards, is also in the top ten.</p><p><a href=\"https://cointelegraph.com/news/crypto-market-10-years-ago-bitcoin-ripple-litecoin\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-28T09:29:53.000Z",
+    "title": " NYT AI case vs OpenAI, Microsoft could be &#039;watershed moment&#039; — community responds  ",
+    "url": "https://cointelegraph.com/news/nyt-ai-case-vs-openai-microsoft-could-be-watershed-moment-community-responds",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvMTM1ZTVmM2UtMGY2MS00NGJiLWIyMGItMjljYTNlNDgzZWE1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The New York Times filed a lawsuit against ChatGPT developer OpenAI and Microsoft claiming they unlawfully used its content to train AI bots, thereby threatening its journalistic work. </p>\n                    <p><p>Another<a href=\"https://cointelegraph.com/news/open-ai-microsoft-sued-alleged-unauthorized-use-authors-work\"> copyright infringement lawsuit</a> hits the artificial intelligence (AI) industry - this time, however, it has been filed by legacy media outlet New York Times (NYT) against ChatGPT creator OpenAI. </p><p>On Dec. 27, the NYT filed the <a href=\"https://nytco-assets.nytimes.com/2023/12/NYT_Complaint_Dec2023.pdf\" target=\"_blank\" rel=\"noopener nofollow\">lawsuit</a>, alleging that OpenAI has unlawfully used its content to train its AI chatbots, thereby hindering the NYT from doing its work. </p><p>The lawsuit pulls from both the United States Constitution and the Copyright Act to defend the original journalism of the NYT. It also points to Microsoft’s Bing AI, alleging that it creates verbatim excerpts from its content.</p><p><a href=\"https://cointelegraph.com/news/nyt-ai-case-vs-openai-microsoft-could-be-watershed-moment-community-responds\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-28T09:00:48.000Z",
-    "title": "AI’s Global Impact on Climate Disaster Mitigation and Pakistan’s Challenges",
-    "url": "https://www.cryptopolitan.com/ais-climate-disaster-mitigation-pakistan/",
-    "description": "In the wake of a tumultuous year marked by an alarming surge in climate change-induced disasters, the synergy between artificial intelligence (AI) and climate action takes center stage as a beacon of hope. The pressing concerns of climate change, driven by human activities, have catapulted the world into a precarious era where innovative solutions are [&#8230;]"
+    "date": "2023-12-28T09:32:24.000Z",
+    "title": "Ukraine Advances with AI-Enhanced Artillery: A Strategic Shift in Military Technology",
+    "url": "https://www.cryptopolitan.com/ukraine-advances-with-ai-enhanced-artillery/",
+    "description": "In a significant development in military technology, the Ukrainian military is set to enhance its warfare capabilities by integrating advanced Artificial Intelligence (AI) into its Caesar artillery systems. This strategic move is expected to reshape the dynamics of modern warfare and underscores the growing importance of AI in military applications. AI Integration in Artillery: A [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-28T08:58:47.000Z",
-    "title": "XRPL’s scalability challenged amid inscription saga",
-    "url": "https://www.cryptopolitan.com/xrpls-scalability-challenged/",
-    "description": "In recent discussions within the cryptocurrency community, the XRP Ledger (XRPL) has been scrutinized for its perceived limitations in supporting ordinals and their inscriptions.&#160; The debate centers around the XRPL&#8217;s capacity to handle certain data inscriptions, sparking a dialogue on its scalability and overall reliability. Inscriptions surge creates XRPL stress test The controversy began when [&#8230;]"
+    "date": "2023-12-28T09:15:15.000Z",
+    "title": "Bitzlato temporarily suspends all Bitcoin withdrawals",
+    "url": "https://www.cryptopolitan.com/bitzlato-temporarily-suspends-all-bitcoin-withdrawals/",
+    "description": "Bitzlato, a cryptocurrency exchange platform, has temporarily suspended all Bitcoin withdrawals just weeks after its co-founder, Anatoly Legkodymov, pled guilty to operating an unlicensed money services business and agreed to dissolve the exchange.&#160; The move comes as the company faces legal challenges related to seizing its assets in France. Despite the suspension, Bitzlato expresses determination [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-28T08:48:58.000Z",
-    "title": "What’s fueling the sudden surge in geopolitical tensions?",
-    "url": "https://www.cryptopolitan.com/sudden-surge-in-geopolitical-tensions/",
-    "description": "In a world increasingly defined by volatility and uncertainty, the sharp rise in geopolitical tensions has become the focal point of global attention. This surge, marked by conflicts such as the ongoing crisis in Ukraine, has triggered a ripple effect, significantly impacting the defense sector. With a notable increase in defense spending and expanding order [&#8230;]"
+    "date": "2023-12-28T09:15:04.000Z",
+    "title": "News Publishers’ Association Expresses Concern Over New York Times’ Lawsuit Against Microsoft and OpenAI",
+    "url": "https://www.cryptopolitan.com/publishers-concern-new-york-times-lawsuit/",
+    "description": "The News Publishers&#8217; Association of New Zealand has voiced its disappointment regarding The New York Times&#8217; decision to sue OpenAI, the creator of ChatGPT, and Microsoft over alleged copyright infringements. The Association&#8217;s public affairs director, Andrew Holden, expressed concern about the use of news content by automated chatbots and other commercial AI products without proper [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T08:48:55.000Z",
-    "title": "Dell Demonstrates Potential Use of Copilot AI in Future Windows PCs",
-    "url": "https://www.cryptopolitan.com/dell-use-of-copilot-ai-in-windows-pcs-2/",
-    "description": "Dell, a leading computer manufacturer, has showcased its vision for integrating Microsoft&#8217;s Copilot AI into future Windows PCs. Copilot, formerly known as Bing Chat, has garnered attention as a generative AI chatbot poised to redefine the user experience on Windows 11 and Windows 10. Dell&#8217;s recent demonstration highlights how Copilot-like features could simplify various tasks, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T08:47:53.000Z",
-    "title": "Refunds Initiated by ZK Fair and a Remarkable Achievement in Ethereum’s History",
-    "url": "https://www.cryptopolitan.com/refunds-initiated-zk-fair-ethereum-history/",
-    "description": "Zk Fair, a prominent player in the Layer 2 (L2) ecosystem has announced the initiation of refunds in USDC. The development comes as a culmination of an extraordinary period of activity that saw the community come together to achieve remarkable feats. The initiative not only reflects the platform&#8217;s commitment to its users but also marks [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T08:45:50.000Z",
-    "title": "Ondo Foundation Proposes ONDO Token Unlock: A New Chapter in Democratizing Finance",
-    "url": "https://www.cryptopolitan.com/ondo-foundation-token-democratizing-finance/",
-    "description": "The Ondo Foundation, a key player in the decentralized finance (DeFi) landscape, has announced a significant development in its journey: a proposal for the release of the ONDO token lock-up. The initiative marks a pivotal moment for the foundation, aligning its community toward a future of open, transparent, and efficient global finance.&#160; The document aims [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T08:42:10.000Z",
-    "title": "Ledger Live under scrutiny for alleged user tracking",
-    "url": "https://www.cryptopolitan.com/ledger-live-under-scrutiny-for-user-tracking/",
-    "description": "A recent report by a pseudonymous software developer and privacy advocate known as REKTBuilder, has raised concerns about Ledger Live, the software associated with Ledger, a prominent manufacturer of cryptocurrency hardware wallets.&#160; According to REKTBuilder&#8217;s findings, Ledger Live is purportedly tracking its users and collecting data on their wallet usage, including details about the apps [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-28T09:00:00.000Z",
-    "title": "Market trends: XRP falls, NuggetRush’s presale ignites demand",
-    "url": "https://crypto.news/market-trends-xrp-falls-nuggetrushs-presale-ignites-demand/",
-    "description": "As 2023 comes to a close, the cryptocurrency market has been quite a rollercoaster, with XRP and the new player, NuggetRush (NUGX), grabbing attention"
+    "source": "Crypto News Flash",
+    "date": "2023-12-28T09:36:20.000Z",
+    "title": "Tether’s $8 Billion Minting Frenzy: Ethereum and Tron Surge in USDT Supply",
+    "url": "https://www.crypto-news-flash.com/tethers-8-billion-minting-frenzy-ethereum-and-tron-surge-in-usdt-supply/?utm_source=rss&utm_medium=rss&utm_campaign=tethers-8-billion-minting-frenzy-ethereum-and-tron-surge-in-usdt-supply",
+    "description": "<img width=\"610\" height=\"407\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1.jpg 610w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1-24x16.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1-36x24.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/Tether25252520USDT-1-48x32.jpg 48w\" sizes=\"(max-width: 610px) 100vw, 610px\" />Tether, the issuer of USDT, recently minted $8 billion in USDT tokens, sparking debate in the crypto community. The minting was termed an &#8220;inventory replenish,&#8221; with new tokens awaiting future issuance demands and chain swaps. According to cryptocurrency tracker Lookonchain, Tether, the issuer of the largest stablecoin in the world, USDT, has made major strides [...]"
   }
 ]

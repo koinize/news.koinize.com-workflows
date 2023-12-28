@@ -1,93 +1,58 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2023-12-28T13:26:26.000Z",
+    "title": "Argentina's Milei Proposes Incentives for Declaring Domestic, Foreign Crypto Holdings in Draft Bill",
+    "url": "https://www.coindesk.com/policy/2023/12/28/argentinas-milei-proposes-incentives-for-declaring-domestic-foreign-crypto-holdings-in-draft-bill/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Crypto is captured in an asset-regularization regime included in a wide-ranging bill that's facing mounting backlash from citizens."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2023-12-28T13:10:41.000Z",
+    "title": "First Mover Americas: MicroStrategy Buys More BTC and ARK Invest Buys BITO",
+    "url": "https://www.coindesk.com/markets/2023/12/28/first-mover-americas-microstrategy-buys-more-btc-and-ark-invest-buys-bito/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Dec. 28, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2023-12-28T13:06:27.000Z",
-    "title": " Why is Bitcoin price stuck? ",
-    "url": "https://cointelegraph.com/news/why-is-bitcoin-price-stuck",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDUvYWZjOGVjMDgtNDc2OC00MTdhLWEzNzEtYTQ2NDQyMzQ0ZWE4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin is stuck in a rangebound construction as expectations of BTC price upside meet broader market fatigue.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is oscillating within a sideways channel as bulls lack strength into the yearly close.</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> shows BTC price 20-month highs above $44,000 remain in place.</p><p>Despite maintaining its year-to-date gains, Bitcoin is giving way to altcoins this month.</p><p><a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-stuck\">Read more</a></p></p>\n                \n            "
+    "date": "2023-12-28T13:20:00.000Z",
+    "title": " Hashing It Out: 2024 narratives — Layer-2 networks  ",
+    "url": "https://cointelegraph.com/news/hashing-it-out-2024-narratives-layer2-networks",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMTIvZTVjZDExMjgtYzFmNS00NWY2LWI0ZjAtMzc2OTc4OWQ4Y2NhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Mark Smargon, CEO of Fuse, argues that the biggest problem layer-2 networks have to deal with is the current state of bridging infrastructure.  </p>\n                    <p><p>As 2024 draws near, <em>Hashing It Out</em> is focusing on narratives that are tipped to be at the heart of the cryptocurrency conversation in the new year. In Episode 41, Mark Smargon, CEO of Fuse — a public blockchain ecosystem for Web3 payments — explains how layer-2 networks have become the center of attention in the cryptocurrency space. </p><p>Smargon highlights how far layer 2s have come, their role in adoption and the increase in general activity, while forecasting trends in the sector, such as a greater focus on zero-knowledge (ZK) technology. </p><p>He breaks down the origins of the idea of layer-2 networks, explaining that it all started with the arduous task of trying to solve the scaling problems of major layer-1 blockchains. He adds that layer-2 networks solve scalability issues that can’t be fixed by simply doubling the network’s capacity. They have become more prevalent in the Web3 space because of the affordable nature of transactions, which makes them difficult for users and developers to ignore. </p><p><a href=\"https://cointelegraph.com/news/hashing-it-out-2024-narratives-layer2-networks\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2023-12-28T12:50:21.000Z",
-    "title": "PancakeSwap’s CAKE token jumps 10% as proposal gains traction to practically half the max token supply",
-    "url": "https://cryptoslate.com/pancakeswaps-cake-token-jumps-10-as-token-supply-reduction-proposal-gains-traction/",
-    "description": "<p>PancakeSwap&#8217;s native CAKE token price surged nearly 10% today, according to CryptoSlate&#8217;s data, following the decentralized exchange (DEX) proposal to reduce its maximum supply by 300 million to 450 million tokens. There are currently roughly 386 million CAKE tokens issued, with 267 million in the circulating supply. The circulating supply is, therefore, around 35% of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/pancakeswaps-cake-token-jumps-10-as-token-supply-reduction-proposal-gains-traction/\">PancakeSwap&#8217;s CAKE token jumps 10% as proposal gains traction to practically half the max token supply</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2023-12-28T13:15:09.000Z",
+    "title": "Bitcoin mining stocks dwarf Bitcoin’s gains amid short squeeze buzz",
+    "url": "https://cryptoslate.com/insights/bitcoin-mining-stocks-dwarf-bitcoins-gains-amid-short-squeeze-buzz/",
+    "description": "<p>Quick Take Bitcoin mining stocks have seen a remarkable performance in 2023, outpacing Bitcoin&#8217;s already impressive 160% YTD surge. Key mining players, including Hive and Marathon Digital Holdings, have recorded skyrocketing growth figures at an astonishing 274% and 767% YTD, respectively. Data from Fintel points to an intriguing phenomenon &#8211; a significant percentage of short [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-mining-stocks-dwarf-bitcoins-gains-amid-short-squeeze-buzz/\">Bitcoin mining stocks dwarf Bitcoin&#8217;s gains amid short squeeze buzz</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2023-12-28T12:40:26.000Z",
-    "title": "How Liquid Bitcoin Hashrate Represents Mining Democratization: GoMining's Vision",
-    "url": "https://cryptodaily.co.uk/2023/12/how-liquid-bitcoin-hashrate-represents-mining-democratization-gominings-vision",
-    "description": "Interest in the globe’s most popular cryptocurrency has experienced a significant uptrend over the upcoming Bitcoin halving scheduled for April 2024."
+    "date": "2023-12-28T13:36:08.000Z",
+    "title": "Can Uniswap (UNI) and Sui (SUI) Make Their Big Break Amidst Bitcoin's Waning Grip?",
+    "url": "https://cryptodaily.co.uk/2023/12/can-uniswap-uni-and-sui-sui-make-their-big-break-amidst-bitcoins-waning-grip",
+    "description": "Discover the latest explosive trends in the crypto world with our in-depth analysis of Uniswap (UNI) and Sui (SUI). Find out how these altcoins are challenging Bitcoin's dominance and reshaping the DeFi landscape. Don't miss the insights on UNI's bullish journey and SUI's innovative strides – your guide to understanding the future of cryptocurrency starts here!"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2023-12-28T12:52:22.000Z",
-    "title": "So Far, So Good For SocialFi, But Challenges Remain",
-    "url": "https://www.cryptopolitan.com/so-far-so-good-for-socialfi-but-challenges-remain/",
-    "description": "Social media networks attract more than their fair share of abuse and criticism, but for all of the hatred and scorn that&#8217;s directed their way, they sure are resilient. According to DataReportal’s latest Global Statshot Report, traditional social media platforms boast a combined 4.7 billion users globally that tune in for an average of 2.5 [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T12:49:07.000Z",
-    "title": "The Ultimate 3 Fastest Growing Cryptos of This Year",
-    "url": "https://www.cryptopolitan.com/the-ultimate-3-fastest-growing-cryptos-of-this-year/",
-    "description": "The crypto market is currently experiencing a dynamic shift, with significant developments hinting at a bullish trend for 2024. Key players like Bitcoin are expected to thrive, potentially catalyzing a positive ripple effect across select altcoins. This optimistic outlook is bolstered by the anticipation of regulatory advancements, such as the potential approval of Bitcoin spot [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2023-12-28T12:45:57.000Z",
-    "title": "Riding the Crypto Wave: The Future of Web3 & Blockchain Job Market",
-    "url": "https://www.cryptopolitan.com/riding-the-crypto-wave-the-future-of-web3-blockchain-job-market/",
-    "description": "The crypto and web3 sectors have recently exhibited a dichotomy of decline and hope. The year 2022 saw nearly 27,000 individuals parting ways with their jobs in the cryptocurrency realm, a reality accentuated as we stepped into 2023 with significant layoffs in major crypto establishments like Huobi Global and Genesis Global Trading, among others​​. Major [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2023-12-28T12:45:46.000Z",
-    "title": "BONK PRICE ANALYSIS & PREDICTION (December 28) – Bonk Turns Weak After Losing Half Of Its Value In Two Weeks, Can It Recover?",
-    "url": "https://nulltx.com/bonk-price-analysis-prediction-december-28-bonk-turns-weak-after-losing-half-of-its-value-in-two-weeks-can-it-recover/",
-    "description": "Following a 3% decrease in the meme coins market, Bonk saw a notable drop and lost more than half of its value in two weeks. This puts the token as the market top-loser with a 15% drop in the last 24 hours. After reaching an all-time high of $0.000035 (Bybit) [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-28T12:43:33.000Z",
-    "title": "Ethereum surging as crypto turns bullish, new altcoin set for more gains",
-    "url": "https://crypto.news/ethereum-surging-as-crypto-turns-bullish-new-altcoin-set-for-more-gains/",
-    "description": "Ethereum could rally to new all-time highs in 2024. Meanwhile, Bitcoin Minetrix is trending higher in its BTCMTX presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2023-12-28T12:42:00.000Z",
-    "title": "China to intensify crackdown on stablecoins to thwart illegal forex trading",
-    "url": "https://crypto.news/china-to-intensify-crackdown-on-stablecoins-to-thwart-illegal-forex-trading/",
-    "description": "In a bid to intensify the crackdown on crypto, China is calling for strict measures against illegal foreign exchange trading involving USDT. China is seemingly preparing to double down on its crypto crackdown, with the Supreme People’s Procuratorate (SPP) and&#8230;"
+    "date": "2023-12-28T13:14:57.000Z",
+    "title": "EOS Price Prediction 2023-2032: Is EOS a good investment?",
+    "url": "https://www.cryptopolitan.com/eos-price-prediction/",
+    "description": "EOS Price Prediction 2023-2032 EOS, a crypto token formed by the company to promote its decentralized app creation, ranks #47, a little lower on the charts, thanks to its slightly lower market cap of $3,365,472,360. Lately, it has resumed its upward projectile with renewed activities and is viewed by some analysts as a &#8220;ticking time [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2023-12-28T13:06:17.000Z",
-    "title": "Crypto Analyst Predicts 200% Surge for Ethereum Challenger Fantom (FTM)",
-    "url": "https://www.crypto-news-flash.com/crypto-analyst-predicts-200-surge-for-ethereum-challenger-fantom-ftm/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-analyst-predicts-200-surge-for-ethereum-challenger-fantom-ftm",
-    "description": "<img width=\"1140\" height=\"815\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis.jpg 1140w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-300x214.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-1024x732.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-768x549.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-269x192.jpg 269w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-24x17.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-36x26.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis-48x34.jpg 48w\" sizes=\"(max-width: 1140px) 100vw, 1140px\" />Popular crypto analyst Ali Martinez drops predictions for three altcoins &#8211; Fantom (FTM), Worldcoin (WLD), and The Sandbox (SAND). According to him, Worldcoin could stage an 80 percent rally to hit $6.3 considering its current patterns.  Renowned crypto analyst Ali Martinez has disclosed to his 37,800 X followers that smart contract platform Fantom (FTM) could [...]"
+    "date": "2023-12-28T13:35:04.000Z",
+    "title": "Ex-Binance CEO CZ Navigates Legal Storm, BNB Price Explodes by 8%",
+    "url": "https://www.crypto-news-flash.com/ex-binance-ceo-cz-navigates-legal-storm-bnb-price-explodes-by-8/?utm_source=rss&utm_medium=rss&utm_campaign=ex-binance-ceo-cz-navigates-legal-storm-bnb-price-explodes-by-8",
+    "description": "<img width=\"400\" height=\"400\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400.jpg 400w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400-300x300.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/5oR3tZi5_400x400-150x150.jpg 150w\" sizes=\"(max-width: 400px) 100vw, 400px\" />Despite the legal tribulations facing Binance, CZ’s fortune has grown by more than $25 billion in 2023. The recent BNB price spike has invalidated a possible FTX scenario amid the ongoing altcoin awakening. Amid the ongoing crypto regulatory crackdown in the United States, leading digital asset exchange Binance has been the most hit. Currently, Binance [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2023-12-28T13:06:04.000Z",
-    "title": "Trump Cashes Out NFT Sales: Is He Funding His 2024 Campaign with Crypto?",
-    "url": "https://coinedition.com/trump-cashes-out-nft-sales-is-he-funding-his-2024-campaign-with-crypto/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/NFT-V2-17-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Former U.S. President Donald Trump has been reported cashing out a substantial amount of Ether (ETH) earned from selling his NFTs. What&#8217;s raising eyebrows is the speculation that Trump might be funding his 2024 presidential campaign with cryptocurrency. Blockchain intelligence platform Arkham posted on X that the Trump-affiliated wallet recently transferred a staggering 1,075 ETH, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/trump-cashes-out-nft-sales-is-he-funding-his-2024-campaign-with-crypto/\">Trump Cashes Out NFT Sales: Is He Funding His 2024 Campaign with Crypto?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2023-12-28T12:52:08.000Z",
-    "title": "Solana Fierce Rally in 2023: Is Ethereum’s Dominance Under Threat?",
-    "url": "https://coinedition.com/solana-fierce-rally-in-2023-is-ethereums-dominance-under-threat/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-1-1-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Layer-1 blockchain Solana&#8217;s sporadic and unexpected rise this year has been marked with excitement from holders and speculations for a wider market takeover.&#160; The token now sits comfortably above the $100 threshold after rising all through the year. Dubbed the Ethereum-killer, Solana first gained prominence in 2021 when its enthusiasts asserted the blockchain’s speed and [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/solana-fierce-rally-in-2023-is-ethereums-dominance-under-threat/\">Solana Fierce Rally in 2023: Is Ethereum’s Dominance Under Threat?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2023-12-28T12:45:22.000Z",
-    "title": "Large-Cap Ethereum-Based Altcoin on the ‘Verge of a Breakout,’ Could Explode by Over 60%, According to Trader",
-    "url": "https://dailyhodl.com/2023/12/28/large-cap-ethereum-based-altcoin-on-the-verge-of-a-breakout-could-explode-by-over-60-according-to-trader/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/12/Verge-of-a-Breakout.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Cryptocurrency analyst and trader Ali Martinez is expressing bullish sentiment on a leading Ethereum layer-2 altcoin. Martinez tells his 37,900 followers on the X social media platform that Polygon (MATIC) could surge by nearly 65% from the current level and hit a price of $1.73 if it breaks out of a key resistance level. According [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2023/12/28/large-cap-ethereum-based-altcoin-on-the-verge-of-a-breakout-could-explode-by-over-60-according-to-trader/\">Large-Cap Ethereum-Based Altcoin on the ‘Verge of a Breakout,’ Could Explode by Over 60%, According to Trader</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2023-12-28T13:42:11.000Z",
+    "title": "Ethereum (ETH) Price Prediction 2024-2030: Will ETH Price Hit $3,500 Soon?",
+    "url": "https://coinedition.com/ethereum-eth-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-ETH-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ethereum blockchain has remained relevant after it entered the crypto and blockchain space. The native token of the Ethereum blockchain is called Ether, denoted with ETH. It uses the Solidify programming language to ensure that activities in its network are efficient and secured. It supports the development of decentralized applications (DApps). In the past 30 [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereum-eth-price-prediction/\">Ethereum (ETH) Price Prediction 2024-2030: Will ETH Price Hit $3,500 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

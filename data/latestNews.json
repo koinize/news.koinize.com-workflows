@@ -1,65 +1,79 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-02T18:14:07.000Z",
+    "title": "Jim Cramer Capitulates on Bitcoin: 'Technological Marvel … It's Here to Stay'",
+    "url": "https://www.coindesk.com/markets/2024/01/02/jim-cramer-capitulates-on-bitcoin-technological-marvel-its-here-to-stay/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Mad Money Host three months ago was highly bearish on the world's largest cryptocurrency."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-01-02T17:40:49.000Z",
-    "title": "Final Fantasy Maker Square Enix Plans 'Aggressive' AI Moves in 2024",
-    "url": "https://decrypt.co/211477/final-fantasy-maker-square-enix-plans-aggressive-ai-moves-2024",
-    "description": "Square Enix wants to use AI to increase productivity and create content—despite broader industry backlash against the use of generative AI."
+    "date": "2024-01-02T18:25:19.000Z",
+    "title": "These Are the High-Profile Spot Bitcoin ETF Applications Currently in Play",
+    "url": "https://decrypt.co/62912/high-profile-bitcoin-etf-applications",
+    "description": "The U.S. SEC has dragged its heels on approval of a Bitcoin spot ETF—but analysts are optimistic that there's light at the end of the tunnel."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-02T17:45:00.000Z",
-    "title": " Crypto voters could provide ‘key swing’ in 2024 US elections: CCI poll ",
-    "url": "https://cointelegraph.com/news/crypto-voters-swing-elections-poll",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYTQyZDU1MDctZWJlMy00NmVjLWJhMzUtZTM3MzMxMjUyZGRlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A poll of 454 voters in December 2023 showed “significant ticket-splitting” among Republican and Democratic candidates for U.S. president and Congress in 2024.</p>\n                    <p><p data-ct-non-breakable=\"true\">Crypto users planning to participate in the 2024 elections in the United States could be a “key swing voting bloc,” with many races polling with tight margins.</p><p>According to a poll released on Jan. 2 by the Crypto Council for Innovation (CCI), most crypto-focused individuals <a href=\"https://cryptoforinnovation.org/poll-finds-crypto-voters-are-a-key-swing-bloc-in-2024-election/\" target=\"_blank\" rel=\"noopener nofollow\">surveyed</a> said a candidate’s position on digital assets would be somewhat, very or extremely important to their vote. Roughly 83% of people polled <a href=\"https://cointelegraph.com/news/tom-emmer-crypto-sleeper-issue-2024-elections\">said they would prefer a candidate</a> in the 2024 election who “wants to write clear rules for cryptocurrency” to promote growth in the industry.</p><p>“Crypto voters are here to stay and are sending a clear message: they want Congress to prioritize cryptocurrency regulation,” said former U.S. Senator Cory Gardner, a CCI political adviser. “This issue could be the deciding factor in tight races, offering a unique opportunity for any party ready to earn their trust.”</p><p><a href=\"https://cointelegraph.com/news/crypto-voters-swing-elections-poll\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-02T18:26:41.000Z",
+    "title": " BRC-20 inventor wants to stop UniSat fork ",
+    "url": "https://cointelegraph.com/news/brc-20-inventor-wants-stop-unisat-fork",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzNlZGM5ODItZDgxZS00YWZhLWI0MmQtMDhlYzJmZTM2YjdlLkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Domo wishes to take a more balanced approach to upgrading BRC-20 assets, while UniSat wishes to pursue the latest enhancements as soon as possible.</p>\n                    <p><p data-ct-non-breakable=\"true\">On Jan. 2, X (formerly Twitter) user Domo, creator of the Bitcoin BRC-20 token standard, said he would oppose an upcoming fork proposed by UniSat Wallet.</p><p>“I believe rushing these updates in BRC20 is reckless,” <a href=\"https://twitter.com/domodata/status/1742200975077568757\" target=\"_blank\" rel=\"noopener nofollow\">said</a> Domo. “[They] disregard their peer indexers, and could potentially harm the broader community of BRC20 users.”</p><p data-ct-non-breakable=\"true\">BRC-20 tokens have <a href=\"https://cointelegraph.com/news/brc-20-tokens-presenting-new-opportunities-bitcoin\">surged in popularity</a> as one of the largest technological advancements in Bitcoin’s history. Bitcoin Ordinals is a numbering system that assigns a unique number to each satoshi, or 1/100 millionth of a Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), enabling tracking and transfer. Combined with the inscription process, which adds a layer of data to each satoshi, users can mint unique digital assets on the Bitcoin blockchain.</p><p><a href=\"https://cointelegraph.com/news/brc-20-inventor-wants-stop-unisat-fork\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-02T18:10:00.000Z",
+    "title": " Back to $30K? This BTC price metric is calling Bitcoin’s mid-cycle top ",
+    "url": "https://cointelegraph.com/news/back-to-30k-this-btc-price-metric-calling-bitcoin-mid-cycle-top",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYmMxMDIxM2QtOGFmNC00ODQxLThiYTUtNTYxMWNmNzZlODQwLmpwZWc=.jpeg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin can yet see a significant cooling-off, one popular analyst concludes, based on historical readings from the DMI.</p>\n                    <p><p data-ct-non-breakable=\"true\">Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) could dip 30% to flush out “overheated” conditions on one of its most reliable indicators.</p><p>In an <a href=\"https://twitter.com/CryptoCon_/status/1741837709461627062/photo/1\" target=\"_blank\" rel=\"noopener nofollow\">analysis</a> on X (formerly Twitter) on Jan. 1, popular commentator CryptoCon argued that a $30,000 BTC price was not yet a thing of the past.</p><p data-ct-non-breakable=\"true\">Bitcoin may have approached $45,000 this week, but historical patterns call for a retracement to characterize the start of 2024.</p><p><a href=\"https://cointelegraph.com/news/back-to-30k-this-btc-price-metric-calling-bitcoin-mid-cycle-top\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-02T18:13:19.000Z",
+    "title": "Grayscale files amended Bitcoin ETF application, omits details of AP and fee structure",
+    "url": "https://cryptoslate.com/grayscale-files-amended-bitcoin-etf-application-omits-details-of-ap-and-fee-structure/",
+    "description": "<p>Grayscale Investments submitted an amended application for its spot Bitcoin exchange-traded fund (ETF) on Jan. 2, which notably lacks specific details about any Authorized Participant (AP) and the fee structure. The absence has raised questions and drawn attention, particularly from Bloomberg’s senior ETF analyst Eric Balchunas, who highlighted the missing details in Grayscale&#8217;s amendment on [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/grayscale-files-amended-bitcoin-etf-application-omits-details-of-ap-and-fee-structure/\">Grayscale files amended Bitcoin ETF application, omits details of AP and fee structure</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-02T18:30:48.000Z",
+    "title": "AI Crypto Assets Skyrocket 540% in Under a Year, Hitting $7 Billion Market Cap",
+    "url": "https://news.bitcoin.com/ai-crypto-assets-skyrocket-540-in-under-a-year-hitting-7-billion-market-cap/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"AI Crypto Assets Skyrocket 540% in Under a Year, Hitting $7 Billion Market Cap\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/aicoins.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The sector of crypto economy dedicated to artificial intelligence (AI) has been expanding steadily, and in the past 34 days, since Nov. 29, 2023, the market capitalization of AI-focused crypto assets has surged by $1.75 billion. A majority of the leading ten AI tokens experienced substantial growth, with more than half recording gains in the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-02T17:40:46.000Z",
-    "title": "Curve Finance Expands Its Ecosystem with crvUSD Pool Launch on Arbitrum",
-    "url": "https://www.cryptopolitan.com/curve-finance-crvusd-pool-launch-on-arbitrum/",
-    "description": "Curve Finance, a leading player in the decentralized finance (DeFi) space, has recently announced the launch of its crvUSD pool on the Arbitrum network.&#160; The significant development marks Curve&#8217;s expansion into one of the fastest-growing Layer 2 solutions in the blockchain industry. The launch of the crvUSD pool on Arbitrum is not just a technical [&#8230;]"
+    "date": "2024-01-02T18:36:42.000Z",
+    "title": "Jim Cramer declares Bitcoin Indestructible in financial markets",
+    "url": "https://www.cryptopolitan.com/jim-cramer-declares-bitcoin-indestructible/",
+    "description": "In a recent statement on CNBC, renowned television personality and economic analyst Jim Cramer expressed a strong conviction about the endurance and relevance of Bitcoin in today&#8217;s financial landscape. His comments come as Bitcoin experiences a significant rally, surpassing the $45,000 mark, a peak not seen since 2022. This development has ignited discussions and expectations [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-02T18:07:13.000Z",
-    "title": "Lisk garners community attention with a 51% price swell",
-    "url": "https://crypto.news/lisk-garners-community-attention-with-a-51-price-swell/",
-    "description": "Although it hasn't reached its 2017 peak, Lisk continues to trend, according to a Jan. 2 CoinGecko report."
+    "source": "Cryptopolitan",
+    "date": "2024-01-02T18:27:36.000Z",
+    "title": "United States set for crypto regulatory clarity in 2024",
+    "url": "https://www.cryptopolitan.com/united-states-crypto-regulatory-clarity-2024/",
+    "description": "In the landscape of cryptocurrency, 2024 emerges as a pivotal year in the United States, marked by crossroads across various dimensions—markets, legal and regulatory frameworks, and the vibrant Web3 startup ecosystem. Widely acknowledged among industry leaders, this year is anticipated to wield substantial influence over the trajectory of crypto, bringing both promise and potential challenges. [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-02T17:50:26.000Z",
-    "title": "Grayscale submits 3rd amended GBTC conversion filing",
-    "url": "https://crypto.news/grayscale-submits-3rd-amended-gbtc-conversion-filing/",
-    "description": "Grayscale continued efforts to list a spot BTC ETF built on its existing fund, which boasts a $25 billion market cap."
+    "source": "Cryptopolitan",
+    "date": "2024-01-02T18:18:20.000Z",
+    "title": "Jupiter Co-Founder Meow Introduces Tentative Plan for JUP Token Distribution",
+    "url": "https://www.cryptopolitan.com/jupiter-meow-plan-token-distribution/",
+    "description": "Jupiter&#8217;s co-founder, known by the pseudonym Meow, has recently announced a tentative plan for the distribution of the JUP token, Jupiter&#8217;s native cryptocurrency.&#160; The announcement marks a significant step in the evolution of the company&#8217;s tokenomics, outlining a strategic approach to the initial minting and distribution of 10 billion JUP tokens. The plan is designed [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-02T17:57:19.000Z",
-    "title": "Investors Pile Up Fantom (FTM): Is a Price Surge Imminent?",
-    "url": "https://www.crypto-news-flash.com/investors-pile-up-fantom-ftm-is-a-price-surge-imminent/?utm_source=rss&utm_medium=rss&utm_campaign=investors-pile-up-fantom-ftm-is-a-price-surge-imminent",
-    "description": "<img width=\"1140\" height=\"815\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/05/Fantom-price-analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Fantom has failed to ignite investor interest in recent months, but as one analyst points out, its TD Sequential indicator signals a buying opportunity, with over 10% gains expected. Other indicators prove that investors are stockpiling FTM, with the volume on exchanges dropping significantly and the number of total investors spiking. Once one of the [...]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-02T18:09:59.000Z",
+    "title": "Tech Trends Reshaping Facilities and Property Management in 2024",
+    "url": "https://www.cryptopolitan.com/tech-trend-reshaping-facilities-and-property/",
+    "description": "The Facilities Management (FM) and Property Management (PM) sectors are poised for a significant transformation in 2024, driven by the adoption of cutting-edge technology. Three key trends are set to redefine the industry: the integration of artificial intelligence (AI), data-driven insights, and the digitization of everyday operations. These trends promise to enhance efficiency, sustainability, and [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-02T17:48:10.000Z",
-    "title": "XRPL’s XRPScan Introduces Game-Changing Transparency Feature",
-    "url": "https://www.crypto-news-flash.com/xrpls-xrpscan-introduces-game-changing-transparency-feature/?utm_source=rss&utm_medium=rss&utm_campaign=xrpls-xrpscan-introduces-game-changing-transparency-feature",
-    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-58.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />XRPScan introduces a new feature allowing users to view the onchain base transaction fee on the XRP Ledger. As XRP enters 2024, it showcases resilience in the market with the liquidation of short positions exceeding long positions. The XRP Ledger (XRPL) is gearing up enhance its transparency with a new feature introduced by the leading [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-02T18:03:07.000Z",
-    "title": "Major Partners To Join the Upcoming Aleph Zero CTRL+Hack+ZK Hackathon",
-    "url": "https://dailyhodl.com/2024/01/02/major-partners-to-join-the-upcoming-aleph-zero-ctrlhackzk-hackathon/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-AlephZero-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 2, 2024 – Zug, Switzerland In collaboration with Telekom MMS – a wholly-owned subsidiary of Deutsche Telekom, Stc Bahrain, Heartcore Capital, Arca Finance, Cardinal Cryptography and others – the hybrid event offers different tracks with up to $575,000 in bounties and funding opportunities. The Aleph Zero Foundation, committed to the advancement and adoption of [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/02/major-partners-to-join-the-upcoming-aleph-zero-ctrlhackzk-hackathon/\">Major Partners To Join the Upcoming Aleph Zero CTRL+Hack+ZK Hackathon</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-02T17:55:39.000Z",
-    "title": "Wallet Thought To Be Owned by Tether Gains $1,330,000,000 in Bitcoin Profits, Now the 10th Largest BTC Address",
-    "url": "https://dailyhodl.com/2024/01/02/wallet-thought-to-be-owned-by-tether-gains-1330000000-in-bitcoin-profits-now-the-10th-largest-btc-address/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/btc-Wallet-Abruptly-Wakes.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A wallet believed to be owned by the largest stablecoin issuer Tether is sitting on $1.33 billion in Bitcoin (BTC) profits. Tom Wan, a digital asset strategy associate at 21.co, speculates that a specific wallet could be the home to Tether&#8217;s Bitcoin holdings. Wan notes that this specific wallet has only received BTC inflow from [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/02/wallet-thought-to-be-owned-by-tether-gains-1330000000-in-bitcoin-profits-now-the-10th-largest-btc-address/\">Wallet Thought To Be Owned by Tether Gains $1,330,000,000 in Bitcoin Profits, Now the 10th Largest BTC Address</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-01-02T18:13:00.000Z",
+    "title": "Global Crypto ATMs Plummet Marking a Historic Loss: Report",
+    "url": "https://coinedition.com/global-crypto-atms-plummet-marking-a-historic-loss-report/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin ATM Count Grows by 543% From 2020 Amid Bear Market\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Crypto_ATM_firm_Bitcoin_Depot_aims_to_go_public_in_2023_via_885M-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The latest insights from Coin ATM Radar unveiled that the total number of crypto ATMs has declined by 14.56% in a year, marking the first dip since 2013. Reportedly, around 5,730 crypto ATMs were deactivated in 2023, as the global crypto machine count fell from 39,350 to 33,620 in one year. Since the inception of [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/global-crypto-atms-plummet-marking-a-historic-loss-report/\">Global Crypto ATMs Plummet Marking a Historic Loss: Report</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

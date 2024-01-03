@@ -1,114 +1,72 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-03T10:17:18.000Z",
-    "title": "Arbitrum Token Sets Record High as Value Locked Crosses $2.5B",
-    "url": "https://www.coindesk.com/markets/2024/01/03/arbitrum-token-sets-record-high-as-value-locked-crosses-25b/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Transaction volumes on the network overtook those for Solana-based applications, which boomed after a meme coin-led frenzy in December."
+    "date": "2024-01-03T10:56:41.000Z",
+    "title": "BRC-20 Marketplace, Creator Take Opposing Positions on Proposed Network Upgrade",
+    "url": "https://www.coindesk.com/tech/2024/01/03/brc-20-marketplace-creator-take-opposing-positions-on-proposed-network-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BRC-20 marketplace UniSat said it would follow a proposed fork in the network's token standard, which was met with opposition from Domo, the pseudonymous creator of BRC-20."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-03T10:30:43.000Z",
-    "title": "Report: Turkey Exits From Foreign Exchange Protected Deposit Program",
-    "url": "https://news.bitcoin.com/report-turkey-exits-from-foreign-exchange-protected-deposit-program/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Report: Turkey Exits From Foreign Exchange Protected Deposit Program\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/h90p.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Jan. 1 Turkey ended its two-year-old foreign exchange (FX)—protected deposit program in what is seen as another step towards a return to orthodoxy. Treasury and Finance Minister, Mehmet Simsek also signaled the start of what he called a &#8220;permanent improvement in the current account.&#8221; Turkey&#8217;s Policy U-Turn Turkey’s Treasury and Finance Minister, Mehmet Simsek, [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-01-03T10:50:45.000Z",
+    "title": " 15 years, 90K &#039;Bitcoinaires&#039; — Bitcoin millionaire wallets jump 300% ",
+    "url": "https://cointelegraph.com/news/15-years-90k-bitcoinaires-bitcoin-millionaire-wallets-jump",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzA4YjczYmEtYzkwMC00OTczLTk0ZTQtMjM0NWJmYjZhYjdmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin is creating millionaires thick and fast, while those with a whole bitcoin are also past the one million mark.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) may have made upward of 100,000 U.S. dollar millionaires as it enters its sixteenth year.</p><p><a href=\"https://studio.glassnode.com/metrics?a=BTC&amp;m=addresses.Min1MUsdCount\" target=\"_blank\" rel=\"noopener nofollow\">Data</a> shows that the number of wallets containing BTC worth at least $1 million is up nearly 300% since the start of 2023.</p><p>Bitcoin is now the ninth most valuable asset in the world as it <a href=\"https://cointelegraph.com/news/bitcoin-birthday-15-years-satoshi-nakamoto-genesis-block-mine\">celebrates its fifteenth birthday</a>. Fifteen years to the day that the genesis block was mined, Bitcoin has a market cap of around $900 billion.</p><p><a href=\"https://cointelegraph.com/news/15-years-90k-bitcoinaires-bitcoin-millionaire-wallets-jump\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T10:37:23.000Z",
-    "title": "Why experts are predicting a bad year for UK’s economy",
-    "url": "https://www.cryptopolitan.com/experts-predicting-a-bad-year-for-uk-economy/",
-    "description": "The UK economy is bracing for a challenging year ahead, according to a recent Financial Times survey of leading economists. Despite some positive indicators, such as higher wages, the general consensus points towards a period of economic difficulty for the United Kingdom. Experts predict that the ongoing cost of living crisis, combined with other economic [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T10:32:12.000Z",
-    "title": "Ethereum explorer etherscan expands to Solana via Solscan’s official acquisition",
-    "url": "https://www.cryptopolitan.com/etherscan-expands-to-solana/",
-    "description": "In a significant development within the cryptocurrency space, Etherscan, a renowned Ethereum blockchain explorer, has acquired Solscan, a leading block explorer in the thriving Solana ecosystem.&#160; This strategic move aims to enhance blockchain data accessibility and contribute to the continuous evolution of the Solana ecosystem, which has recently surged to become the fifth-largest cryptocurrency by [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2024-01-03T10:50:25.000Z",
+    "title": "Etherscan expands into Solana ecosystem with Solscan acquisition",
+    "url": "https://cryptoslate.com/etherscan-expands-into-solana-ecosystem-with-solscan-acquisition/",
+    "description": "<p>Solscan, the Solana ecosystem block explorer, has been acquired by Etherscan, according to announcements on Jan. 3. Today&#8217;s announcement from Solscan marks a notable move in the blockchain industry as it joins Polygonscan within the family of Etherscan block explorers. Established in 2015, Etherscan is one of the earliest crypto projects, primarily focusing on the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/etherscan-expands-into-solana-ecosystem-with-solscan-acquisition/\">Etherscan expands into Solana ecosystem with Solscan acquisition</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T10:30:46.000Z",
-    "title": "Experts point to $50k test for Bitcoin amid New Year surge",
-    "url": "https://www.cryptopolitan.com/50k-test-for-bitcoin-amid-new-year-surge/",
-    "description": "Bitcoin&#8217;s New Year rally has caught the eye of investors and analysts alike, as the premier cryptocurrency’s value soared to nearly $46,000. The surge, starting late Monday night, saw Bitcoin break past the $45,000 barrier, reaching heights unseen since April 2022. This jump marks the continuation of Bitcoin&#8217;s upward trend, having concluded 2023 with a [&#8230;]"
+    "date": "2024-01-03T10:56:49.000Z",
+    "title": "U.S. national debt hits yet another all-time high",
+    "url": "https://www.cryptopolitan.com/us-national-debt-hits-another-all-time-high/",
+    "description": "In a revelation that&#8217;s more eye-popping than a Hollywood blockbuster, the U.S. national debt has skyrocketed to over $34 trillion. This staggering figure isn&#8217;t just a number; it&#8217;s a neon sign flashing a warning about the economic hurdles and political tug-of-war awaiting America&#8217;s future. As the U.S. Treasury Department unveils this daunting financial reality, the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T10:27:30.000Z",
-    "title": "Americans to face felony charges by the IRS over crypto",
-    "url": "https://www.cryptopolitan.com/americans-to-face-felony-charges-over-crypto/",
-    "description": "In a significant shift in regulatory approach, American cryptocurrency users are now under heightened scrutiny from the Internal Revenue Service (IRS). A new mandate requires U.S. citizens to report any digital asset transactions worth more than $10,000 within 15 days. Failure to comply with this directive could result in felony charges, marking a stringent step [&#8230;]"
+    "date": "2024-01-03T10:50:07.000Z",
+    "title": "Riot Games criticized for alleged Saudi-backed Esports World Cup partnership",
+    "url": "https://www.cryptopolitan.com/riot-games-criticized-alleged-saudi-backed/",
+    "description": "Riot Games, the developer behind the immensely popular game League of Legends, has reportedly accepted a deal to send teams to the Esports World Cup, a tournament backed by Saudi Arabia. According to esports journalist Jacob Wolf, Riot is currently working through the details of how its teams will participate in the upcoming event. Representatives [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T10:24:39.000Z",
-    "title": "Manta Network and Forward collaboration paves the Way for dApp deployment",
-    "url": "https://www.cryptopolitan.com/manta-network-and-forward-collaboration/",
-    "description": "Manta Network, a leading player in the blockchain sphere, and Forward Protocol, an innovative platform for deploying decentralized applications (dApps), have joined forces to create new opportunities for developers and crypto enthusiasts.&#160; This collaboration promises to revolutionize how dApps are deployed on Manta Network&#8217;s Pacific ecosystem and offers a tantalizing possibility of a future airdrop [&#8230;]"
+    "date": "2024-01-03T10:49:29.000Z",
+    "title": "The global economy is about to change forever",
+    "url": "https://www.cryptopolitan.com/the-global-economy-about-to-change-forever/",
+    "description": "As 2024 unfolds, the global economy stands on the precipice of a transformative era. The past years&#8217; economic rollercoaster, marked by pandemic disruptions and geopolitical upheavals, has set the stage for a radical shift. This year, we brace ourselves for a new economic order – one where the cheap money era fades into history, leaving [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T10:19:49.000Z",
-    "title": "DMI metric rings alarm bells for Bitcoin investors",
-    "url": "https://www.cryptopolitan.com/dmi-metric-alarm-bells-for-bitcoin-investors/",
-    "description": "Bitcoin, the flagship cryptocurrency, is currently facing a critical moment that could see its price drop significantly, according to recent analyses. The directional movement index (DMI), a trusted indicator in the crypto market, suggests that Bitcoin could be heading towards a substantial correction. The analysis, shared by prominent crypto commentator CryptoCon on social media, indicates [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T10:15:26.000Z",
-    "title": "Litecoin Price Prediction 2023-2032: Will LTC Price skyrocket?",
-    "url": "https://www.cryptopolitan.com/litecoin-price-prediction/",
-    "description": "Litecoin Price Prediction 2023-2032 How much is LTC worth? Today, the price of Litecoin stands at $73.4, backed by a 24-hour trading volume amounting to $336 million. With a market capitalization of $5 billion, its market dominance is 0.48%. Over the past 24 hours, the LTC price has seen a 2.3% decrease. Currently, the circulating [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T10:15:18.000Z",
-    "title": "Ethereum’s price skyrockets – What’s up with that?",
-    "url": "https://www.cryptopolitan.com/ethereums-price-skyrockets-whats-up/",
-    "description": "Ethereum has recently seen a meteoric rise in its value, leaving market watchers and crypto enthusiasts in awe. The price of Ether surged past the $2,400 mark, a bullish move that reflects a broader trend in the cryptocurrency market. This significant uptick in Ethereum’s price isn&#8217;t just a random market fluctuation. It&#8217;s the result of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T10:11:21.000Z",
-    "title": "Competitors are closing in on BlackRock in U.S. ETF market",
-    "url": "https://www.cryptopolitan.com/competitors-blackrock-in-u-s-etf-market/",
-    "description": "BlackRock, a titan in the U.S. exchange-traded fund (ETF) market, is witnessing a gradual erosion of its commanding lead as competitors like Vanguard and smaller firms carve out larger market shares in the booming $8 trillion industry. This shifting landscape is reshaping the dynamics of the ETF market, where BlackRock’s iShares once held unchallenged dominance. [&#8230;]"
+    "date": "2024-01-03T10:45:17.000Z",
+    "title": "U.S. politicians vs. the crypto market: Who won in 2023?",
+    "url": "https://www.cryptopolitan.com/us-politicians-vs-the-crypto-market-in-2023/",
+    "description": "2023 witnessed a titanic struggle between U.S. lawmakers and the volatile crypto market, a saga marked by regulatory scrutiny, legislative maneuvers, and financial drama. The year&#8217;s events unfolded against the backdrop of a divided 118th Congress, known for its financial entanglements and a penchant for trading in stocks and cryptocurrencies. Now, let&#8217;s really get into [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-03T10:21:43.000Z",
-    "title": "Etherscan acquires Solana blockchain explorer Solscan",
-    "url": "https://crypto.news/etherscan-acquires-solana-blockchain-explorer-solscan/",
-    "description": "Etherscan has broadened its horizons in the blockchain scene with the recent acquisition of Solscan, a leading block explorer in the Solana ecosystem.&#160; This move marks a significant step towards making blockchain data more accessible to developers and users alike,&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-03T10:38:38.000Z",
-    "title": "Bitcoin Bull Michael Saylor’s Bold Move: Dumps $216,000,000 MicroStrategy Stock for More BTC – Market Shakeup Imminent?",
-    "url": "https://www.crypto-news-flash.com/bitcoin-bull-michael-saylors-bold-move-dumps-216000000-microstrategy-stock-for-more-btc-market-shakeup-imminent/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-bull-michael-saylors-bold-move-dumps-216000000-microstrategy-stock-for-more-btc-market-shakeup-imminent",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bull-posing-next-to-Bitcoin-BTC-gold-coins-with-Logo-Bitcoin-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bull-posing-next-to-Bitcoin-BTC-gold-coins-with-Logo-Bitcoin-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Saylor, Chairman of MicroStrategy, is selling $216 million in company stock to increase his personal Bitcoin holdings, signaling a significant shift in his investment strategy. This move, coupled with the potential approval of Bitcoin ETFs, raises questions about the future dynamics of cryptocurrency stocks, particularly for companies like MicroStrategy that are heavily invested in Bitcoin. [...]"
+    "date": "2024-01-03T10:49:45.000Z",
+    "title": "BTC’s 20-month high: exploring Bitcoin’s potential rally",
+    "url": "https://crypto.news/btcs-20-month-high-exploring-bitcoins-potential-rally/",
+    "description": "Bitcoin starts 2024 by surpassing the $45,000 mark, setting a new 20-month high. What’s next?"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-01-03T10:15:17.000Z",
-    "title": "Top 10 Crypto Predictions for 2024 – Part 2",
-    "url": "https://www.altcoinbuzz.io/top-article/top-10-crypto-predictions-for-2024-part-2/",
-    "description": "<p>After the unpredictable year of 2023, predicting the future of the fast-moving and volatile crypto asset space is challenging. However, despite the inherent challenges, making predictions holds value. Even if the crystal ball proves to be less than precise, it is beneficial for analyzing market trends and major players. Now, armed with their unique perspective, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/top-article/top-10-crypto-predictions-for-2024-part-2/\">Top 10 Crypto Predictions for 2024 &#8211; Part 2</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-01-03T10:48:06.000Z",
+    "title": "How to Earn USDC Yield in Kamino Finance",
+    "url": "https://www.altcoinbuzz.io/defi/how-to-earn-usdc-yield-in-kamino-finance/",
+    "description": "<p>Kamino Finance is a lending and borrowing protocol on Solana. In a short timeframe, it managed to become Solana&#8217;s fourth-biggest protocol by TVL. Their TVL over the last 30 days improved by 448%. That&#8217;s impressive. The platform also doesn&#8217;t have a token yet. So, an airdrop is possible. In this article, we will take a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/defi/how-to-earn-usdc-yield-in-kamino-finance/\">How to Earn USDC Yield in Kamino Finance</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-03T10:22:56.000Z",
-    "title": "Tether Treasury 2 Billion USDT Transfer to Whale: What is Going on?",
-    "url": "https://coinedition.com/tether-treasury-2-billion-usdt-transfer-to-whale-what-is-going-on/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Tether Mints 1B USDT\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Tether-Mints-1B-USDT-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A series of Tether USDT transactions worth $182 million have been transferred from Tether Treasury to a giant whale, according to transfer receipts from LookOnChain, a web3 data analysis tool.&#160; In the post shared on X (formerly Twitter), LookOnChain reported that the recent transactions follow a slew of other transfers from Tether Treasury to the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/tether-treasury-2-billion-usdt-transfer-to-whale-what-is-going-on/\">Tether Treasury 2 Billion USDT Transfer to Whale: What is Going on?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-03T10:15:20.000Z",
-    "title": "Billionaire Shark Tank Star Mark Cuban Blasts SEC, Says the Regulator Fails To Protect Investors",
-    "url": "https://dailyhodl.com/2024/01/03/billionaire-shark-tank-star-mark-cuban-blasts-sec-says-the-regulator-fails-to-protect-investors/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Mark-Cuban-Blasts-SEC.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Celebrity billionaire Mark Cuban thinks the U.S. Securities and Exchange Commission (SEC) doesn&#8217;t do an effective job of protecting investors. The Shark Tank star refers to the SEC as &#8220;the QuickBooks of Financial Regulation.&#8221; &#8220;They don’t protect anyone but they are really good at bookkeeping. Has the SEC ever moved in to protect investors BEFORE [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/03/billionaire-shark-tank-star-mark-cuban-blasts-sec-says-the-regulator-fails-to-protect-investors/\">Billionaire Shark Tank Star Mark Cuban Blasts SEC, Says the Regulator Fails To Protect Investors</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-03T10:56:42.000Z",
+    "title": "XRP Will Retrieve Its ATH If Ripple Spends $6B in Net Buys: Analyst",
+    "url": "https://coinedition.com/xrp-will-retrieve-its-ath-if-ripple-spends-6b-in-net-buys-analyst/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/xRP-1-Day-Chart-says-we-had-the-RSI-top-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto sleuth Mr. Huber added intrigue to the growing New Year anticipations on a potential crypto bull run with his insightful findings of Ripple’s XRP. As a sequel to his previous analysis of XRP’s potential challenges to retrieve its all-time high (ATH), the researcher shared a few “facts” about XRP. The analyst’s findings are based [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/xrp-will-retrieve-its-ath-if-ripple-spends-6b-in-net-buys-analyst/\">XRP Will Retrieve Its ATH If Ripple Spends $6B in Net Buys: Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

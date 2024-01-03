@@ -1,58 +1,93 @@
 [
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-03T08:30:54.000Z",
-    "title": "Study: Only 6% of Crypto Exchanges Integrated the Lightning Network",
-    "url": "https://news.bitcoin.com/study-only-6-of-crypto-exchanges-integrated-the-lightning-network/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/lightining.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />A new research study has partly attributed the growth in the use of bitcoin &#x201C;as a transactional layer&#x201D; to the increased number of crypto platforms that have joined the Lightning Network ecosystem. The study however found that just over 6% of centralized crypto exchanges have integrated the layer 2 protocol with their respective platforms. Record [&#8230;]"
+    "source": "CoinDesk",
+    "date": "2024-01-03T08:57:32.000Z",
+    "title": "EU Banking Watchdog to Deepen Probe of Links Between Banks, Crypto Entities: FT",
+    "url": "https://www.coindesk.com/policy/2024/01/03/eu-banking-watchdog-to-deepen-probe-of-links-between-banks-crypto-entities-ft/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The European Banking Authority (EBA) will take additional steps to anticipate how strains in non-bank financial institutions (NBFIs), including cryptocurrency-related entities, will affect banks."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-03T08:56:34.000Z",
+    "title": "Salus Publishes 2023 Web3 Security Landscape Report",
+    "url": "https://cryptodaily.co.uk/2024/01/salus-publishes-2023-web3-security-landscape-report",
+    "description": "Salus's 22023 Web3 Security Landscape Report highlights more than $1.7 billion in losses due to access control problems, phishing, flash loan attacks, and reentrance."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T08:22:33.000Z",
-    "title": "Memecoin Price Prediction 2023 – 2040: Is MEME A Wise Investment?",
-    "url": "https://www.cryptopolitan.com/memecoin-price-prediction-2023-2040-is-meme-a-wise-investment/",
-    "description": "Memecoin MEME Overview Meme coins are a category of cryptocurrencies based on memes and meme culture. They have gained popularity in crypto due to their unique nature and appeal to a younger audience. Memecoin MEME is no exception, with its quirky branding and dedicated community. Dogecoin was the frontier in the meme coin world, and [&#8230;]"
+    "date": "2024-01-03T09:09:07.000Z",
+    "title": "California Lawmakers Confront AI Regulation and Budget Deficit",
+    "url": "https://www.cryptopolitan.com/california-lawmakers-confront-ai-regulation-and-budget-deficit/",
+    "description": "California lawmakers are gearing up for a crucial legislative session in an election year, with two major challenges at the forefront: managing the state&#8217;s staggering budget deficit and establishing regulations for artificial intelligence (AI) technology. This session promises to be particularly demanding, as the deficit reaches a staggering $68 billion, surpassing the entire budgets of [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-03T08:38:47.000Z",
-    "title": "Solana falls below $110, trails BNB again",
-    "url": "https://crypto.news/solana-falls-below-110-trails-bnb-again/",
-    "description": "Solana (SOL) has been struggling to strongly hold above the $110 mark over the past week. The recent price drop has resulted in its capitulation to BNB again. SOL declined by 3.8% in the past 24 hours and is trading&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T08:55:53.000Z",
+    "title": "AI’s Impact on Elections: Challenges and Guardrails",
+    "url": "https://www.cryptopolitan.com/ais-impact-on-elections/",
+    "description": "As the world gears up for a wave of national elections in 2024, concerns are mounting about the role of artificial intelligence (AI) in shaping the electoral landscape. Social media platforms, once essential tools for voter engagement, face criticism for their diminished content moderation efforts, potentially allowing misinformation and hate speech to run rampant. Moreover, [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-03T08:15:00.000Z",
-    "title": "Chainlink vs. Arbitrum battle heating up, Meme Moguls presale hits $1m",
-    "url": "https://crypto.news/chainlink-vs-arbitrum-battle-heating-up-meme-moguls-presale-hits-1m/",
-    "description": "Meme Moguls has raised over $1 million in the ongoing presale. Meanwhile, the Chainlink and Arbitrum are competing for defi dominance"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T08:47:20.000Z",
+    "title": "UAE regulator publishes terrorist red flag quidance that includes virtual assets",
+    "url": "https://www.cryptopolitan.com/uae-regulator-publishes-terrorist-red-flag-quidance-that-includes-virtual-assets/",
+    "description": "The regulatory authority of Abu Dhabi Global Market, the FSRA ( Financial Services Regulatory Authority), Financial Crime Unit, has published an update on terrorist and proliferation financing red flags guidance that include a new section for specific red flags applicable tovirtual assets and virtual asset service providers (VASPs). The update is related to the provisions [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-03T08:14:42.000Z",
-    "title": "Arbitrum One’s TVL surges to $10b, breaks new records",
-    "url": "https://crypto.news/arbitrum-ones-tvl-surges-to-10b-breaks-new-records/",
-    "description": "An all-time record for Total value locked (TVL) was recently set on the Arbitrum One platform. According to the L2Beat platform, the growth in the last 24 hours was 15%, and TVL of Arbitrum, a Layer 2 solution for the&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T08:40:07.000Z",
+    "title": "Gemini: A Breakthrough in Large-Scale DNN Chiplet Accelerators",
+    "url": "https://www.cryptopolitan.com/gemini-a-breakthrough-in-large-scal/",
+    "description": "In the ever-evolving world of Deep Neural Networks (DNNs), the demand for increased computing power and storage capabilities has grown exponentially. Chiplet technology emerges as a compelling solution to meet these demands, offering the potential to boost performance, reduce power consumption, and enhance design flexibility. However, it comes with its challenges, including elevated packaging costs [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-03T09:00:00.000Z",
+    "title": "Researcher Decodes Link Between XRP Price And Ripple’s Buybacks",
+    "url": "https://www.newsbtc.com/xrp-news/link-xrp-price-ripple-buybacks/",
+    "description": "Ever since, the relationship between Ripple&#8217;s XRP buybacks and its impact on price has been a subject of intense discussion. Crypto Mark, an active community member on X, raised a pertinent question regarding Ripple&#8217;s strategy of purchasing more of the cryptocurrency. &#8220;Shouldn’t Ripple be trying to distribute XRP and not buying more though? Would like to see them own less XRP, not more,&#8221; Crypto Mark posted. The Influence Of XRP Buybacks By Ripple On The Price This inquiry was addressed by Mr. Huber, a renowned member of the community, who provided a detailed explanation of the dynamics at play. Huber emphasized the strategic rationale behind Ripple&#8217;s buybacks. &#8220;That&#8217;s just a question of your knowledge. Ripple makes it transparent. That&#8217;s why we know. And you want Ripple to buy back XRP. You don&#8217;t want them to just sell it. Believe me. If XRP actually has a use for Ripple then you want them to buy on open markets for liquidity reasons,&#8221; he explained. This statement highlights the necessity and benefits of Ripple&#8217;s buyback strategy, suggesting that it is beneficial for maintaining market liquidity. Related Reading: Crypto Analyst Predicts XRP Price Breakout To $22.39, Here’s When In his analysis of the market, Mr. Huber pointed out key patterns: &#8220;Facts; 1. XRP has sudden inexplicable very fast price spikes between 30 and 100% which are then lost over several months. 2. These price spikes almost invariably coincide with buybacks of Ripple on open markets. They take place approximately once a quarter. 80% reliability. 3. If you look at these buybacks, you realize that when Ripple buys 100 million dollars of net purchases within 1-2 days, they trigger a price spike of around 50%.&#8221; Recent data from Ripple&#8217;s API revealed a notable decrease in the company&#8217;s buyback activity. The researcher noted that the API was updated just days ago with the newest data. Ripple’s sales now account for 167,758,585 XRP, for an average of $0.62, which results in a total of $104,010,323 from December 4 to 29. “This is twice the usual sales volume of the last 6 months. I suspect that Ripple wants to push this cut down again with the next buyback,&#8221; reported Mr. Huber. Related Reading: XRP Price Poised To Hit $20,000: Chad Steingraber Theory Outlines How Addressing a user&#8217;s question about the scale of investment needed for a substantial increase in the cryptocurrency&#8217;s price, Mr. Huber stated, “$100 million dollars trigger a price swing of around 30-50%. So for 2,000% you would have to expect at least 4-6 billion dollars in net purchases.&#8221; This response provides a clear indication of the financial magnitude required for substantial market movements. Impact Of Ripple&#8217;s Sale And Distributions Furthermore, Mr. Huber compared Ripple&#8217;s sales and distribution strategy with other cryptocurrencies. He wrote, &#8220;Ripples Sales and Distribution of XRP of the past 10 years. 6.48% Inflation for 2023. In comparison with SOL and ETH, it becomes clear that the price action is due much more to a lack of demand than to Ripple sales.&#8221; He added, &#8220;ETH &#8211; Reducing supply and proof of stake, but hardly any price action since the Merge. [&#8230;] The (XRP/XRPUSD)/(BTC/BTCUSD) chart shows that over the last 9 years, the supply of XRP has only increased by 22.73% more than the supply of Bitcoin.&#8221; At press time, XRP traded at $0.63135. Featured image from Kraken Blog, chart from TradingView.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-03T08:25:52.000Z",
-    "title": "Cardano (ADA) Price Expected to Surge Past $1 in January: On-Chain Metrics Signal Bullish Run",
-    "url": "https://www.crypto-news-flash.com/cardano-ada-price-expected-to-surge-past-1-in-january-on-chain-metrics-signal-bullish-run/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-price-expected-to-surge-past-1-in-january-on-chain-metrics-signal-bullish-run",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cardano-ADA-logo-with-red-background-Smart-Contracts.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Cardano (ADA) experienced a robust rally in December 2023, securing a monthly gain of 62% and reaching a new annual peak with a price surge of over 150%, revisiting $0.67 The growth aligns with significant developments in the Cardano ecosystem, including a remarkable 26,000% surge in Minswap, a leading Decentralized Exchange (DEX). The Cardano (ADA) [...]"
+    "date": "2024-01-03T09:01:33.000Z",
+    "title": "BREAKING: Billion-Dollar Morgan Stanley Opportunity Fund Set to Purchase Bitcoin (BTC) via Grayscale’s GBTC in a Historic Move",
+    "url": "https://www.crypto-news-flash.com/breaking-billion-dollar-morgan-stanley-opportunity-fund-set-to-purchase-bitcoin-btc-via-grayscales-gbtc-in-a-historic-move/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-billion-dollar-morgan-stanley-opportunity-fund-set-to-purchase-bitcoin-btc-via-grayscales-gbtc-in-a-historic-move",
+    "description": "<img width=\"1600\" height=\"900\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/10/jp-morgan1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Morgan Stanley is likely to gain exposure to Bitcoin through Grayscale&#8217;s GBTC. This move aligns with the bank&#8217;s investment strategy and further boosting the Bitcoin ETF hype. The Morgan Stanley Opportunity Fund is reportedly set to allocate up to 25% of its total assets to Bitcoin (BTC) through the Grayscale Bitcoin Trust (GBTC). This historic [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-03T08:24:03.000Z",
-    "title": "Ethereum’s Strong Start to 2024 Sparks Q1 Optimism: Could ETH Reach $3,600?",
-    "url": "https://www.crypto-news-flash.com/ethereums-strong-start-to-2024-sparks-q1-optimism-could-eth-reach-3600/?utm_source=rss&utm_medium=rss&utm_campaign=ethereums-strong-start-to-2024-sparks-q1-optimism-could-eth-reach-3600",
-    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/07/ethereum-g3da2e1262_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Prospects of an Ether spot ETF have set up Ethereum (ETH) as a top altcoin pick for Q1 2024 as it prepares to welcome institutional investors. Crypto analyst Michaël van de Poppe predicts that ETH could outperform Bitcoin (BTC) in Q1. Ethereum (ETH) continues to lead altcoins in the new year both with its performance [...]"
+    "date": "2024-01-03T08:52:17.000Z",
+    "title": "Bloomberg ETF Expert: 90% Probability of Bitcoin Spot ETF Approval by January 10th for BlackRock and JPMorgan",
+    "url": "https://www.crypto-news-flash.com/bloomberg-etf-expert-90-probability-of-bitcoin-spot-etf-approval-by-january-10th-for-blackrock-and-jpmorgan/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-etf-expert-90-probability-of-bitcoin-spot-etf-approval-by-january-10th-for-blackrock-and-jpmorgan",
+    "description": "<img width=\"1600\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />An expert from Bloomberg forecasts a 90% probability of Bitcoin Spot ETF approval by January 10th, specifically for industry giants BlackRock and JPMorgan. The anticipated approval of Bitcoin Spot ETFs for BlackRock and JPMorgan is driving investor excitement, reflecting positively on Bitcoin&#8217;s market value. The discussion around the likelihood of Bitcoin Spot ETF approval by [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-03T08:42:43.000Z",
+    "title": "BNB’s Stellar Run: Can Binance Coin (BNB) Hold Above $300?",
+    "url": "https://www.crypto-news-flash.com/bnbs-stellar-run-can-binance-coin-bnb-hold-above-300/?utm_source=rss&utm_medium=rss&utm_campaign=bnbs-stellar-run-can-binance-coin-bnb-hold-above-300",
+    "description": "<img width=\"1918\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BNB\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />A recent court verdict boosts Binance Coin (BNB) price, defying expectations and surpassing $300, exciting the crypto community. Technical analysis shows potential for BNB&#8217;s upward movement, but a drop below $301 could change the outlook.  The recent negative court verdict against Binance has positively impacted Binance Coin (BNB) prices. Contrary to expectations, BNB has surged [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-03T09:09:12.000Z",
+    "title": "Possible Market Reactions to the Approval of Bitcoin ETFs",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/possible-market-reactions-to-the-approval-of-bitcoin-etfs/",
+    "description": "<p>The Bitcoin Spot ETF approval is imminent. The deadline for the first approval is this coming 10th, January 2024. It looks like a done deal. The likelihood is up to 99%. There was a last-minute change to the deadline. Applicants are releasing Bitcoin-related videos. There were over 30 meetings with the SEC. Many insiders confirmed [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/possible-market-reactions-to-the-approval-of-bitcoin-etfs/\">Possible Market Reactions to the Approval of Bitcoin ETFs</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-03T08:41:53.000Z",
+    "title": "4 Altcoins with MASSIVE Upcoming Pump",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/4-altcoins-with-massive-upcoming-pump/",
+    "description": "<p>January 2024 is about to make big crypto waves. The first approved BTC spot ETF could see the light of day on 10th January. That means we might see the whole crypto market might see a huge surge. Get ready for a crazy ride.  But, my research team and I found four altcoins that we expect [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/4-altcoins-with-massive-upcoming-pump/\">4 Altcoins with MASSIVE Upcoming Pump</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-03T08:21:00.000Z",
-    "title": "MicroStrategy’s Saylor Sells $216M of His Shares to Buy More Bitcoin",
-    "url": "https://coinedition.com/microstrategys-saylor-sells-216m-of-his-shares-to-buy-more-bitcoin/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/MicroStrategy-Could-Devlve-into-Bitcoin-Futures-Saylor-Says-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>MicroStrategy&#8216;s executive chairman, Michael Saylor, has begun selling $216 million worth of his shares in the company. The decision reveals Saylor&#8217;s intention to utilize part of the proceeds to expand his personal Bitcoin holdings. Saylor, a prominent advocate for cryptocurrency adoption, unveiled this plan in a filing with the U.S. Securities and Exchange Commission (SEC). [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/microstrategys-saylor-sells-216m-of-his-shares-to-buy-more-bitcoin/\">MicroStrategy&#8217;s Saylor Sells $216M of His Shares to Buy More Bitcoin</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-03T08:58:00.000Z",
+    "title": "Ben Armstrong Weighs in on Cardano’s Resilience and Challenges",
+    "url": "https://coinedition.com/ben-armstrong-weighs-in-on-cardanos-resilience-and-challenges/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano Surpasses Ethereum\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/Cardano-Surpasses-Ethereum-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to prominent crypto commentator Ben Armstrong, the sentiment around Cardano has been polarized, with claims of its demise and allegations against its founder, Charles Hoskinson. Armstrong acknowledged the vocal detractors in one of his recent videos, stating,&#160; Cardano is finished. Charles Hoskinson is officially a scammer, and the platform is vaporware. ADA is basically [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ben-armstrong-weighs-in-on-cardanos-resilience-and-challenges/\">Ben Armstrong Weighs in on Cardano&#8217;s Resilience and Challenges</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

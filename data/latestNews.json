@@ -1,72 +1,86 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-01-03T09:26:13.000Z",
-    "title": " Bitcoin Birthday: 15 years after Satoshi Nakamoto mined genesis block ",
-    "url": "https://cointelegraph.com/news/bitcoin-birthday-15-years-satoshi-nakamoto-genesis-block-mine",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYjg5ZGM1NjAtYmUzOC00YjY2LTkzM2MtMDE1ZTFlNjBjNWQwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Fifteen years after the first block of Bitcoin was mined, the original cryptocurrency has battled critics, haters and agitators, and emerged victorious - and is now ranked as one of the top ten most valuable assets in the world. </p>\n                    <p><p>While many celebrate Oct. 31, 2008 — <a href=\"https://cointelegraph.com/news/bitcoin-btc-whitepaper-turns-15-satoshi-nakamoto\">the release of the Bitcoin whitepaper</a> — as Bitcoin’s original birthday, others take a more technical approach to determining the true age of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>). For the latter, Jan. 3 is the actual date Bitcoin materialized as a store of value and transferable currency.</p><p>The genesis block, a.k.a. the first Bitcoin block, was mined on Jan. 3, 2009, by its <a href=\"https://cointelegraph.com/learn/who-is-satoshi-nakamoto-the-creator-of-bitcoin\">mysterious creator Satoshi Nakamoto</a>. What followed was years of triumph versus naysayers that included critics, mainstream media, politicians and governments worldwide. On the occasion of Bitcoin’s 15th birthday, we take a bird’s eye view of the Bitcoin ecosystem.</p><p>Bitcoin ATMs were first conceived nearly five years after the first block was mined, with historical <a href=\"https://coinatmradar.com/charts/growth/\" target=\"_blank\" rel=\"noopener nofollow\">data</a> confirming that the first ATM went live in October 2013. The motive was to provide another avenue for people to exchange their local fiat currencies for Bitcoin.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-birthday-15-years-satoshi-nakamoto-genesis-block-mine\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-03T10:00:47.000Z",
+    "title": " Bitcoin ETF race will push issuers to disclose addresses — Samson Mow ",
+    "url": "https://cointelegraph.com/news/bitcoin-etf-race-disclose-addresses-samson-mow",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZWM4ZmMzYTQtNzk4NS00YTI3LWEzMWMtMzcyY2NkMWQxN2RiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A situation where a spot Bitcoin ETF issuer fakes the underlying BTC volumes is hypothetically possible in case an issuer violates the rules, Samson Mow said.</p>\n                    <p><p>Some issuers of potential spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETF) will eventually have to disclose the on-chain addresses for the underlying BTC to compete with other issuers, according to one industry activist.</p><p>Disclosures of verifiable on-chain proofs showing Bitcoin reserves would be the best option for spot Bitcoin ETF issuers to ensure their holdings, according to Jan3 CEO Samson Mow. But none of the existing 14 applicants have been working to provide on-chain proofs, Mow said in an interview with Cointelegraph on Dec. 28.</p><p>Some cryptocurrency observers have been skeptical about the underlying holdings of a spot Bitcoin ETF, with certain executives even <a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-millions-unbacked-btc\">suggesting that a spot Bitcoin ETF could potentially create</a> “millions of unbacked BTC.”</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-race-disclose-addresses-samson-mow\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-03T09:47:36.000Z",
+    "title": " What are Telegram trading bots and how to use them in crypto? ",
+    "url": "https://cointelegraph.com/news/what-are-telegram-trading-bots",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOGRkMGFhMWQtMzAwMC00ZDJkLWJlNjktZGQyMWNjNTk5NGFjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Explore the world of crypto trading within Telegram using specialized bots, offering efficiency and convenience. </p>\n                    <p><p>Telegram trading bots redefine trading simplicity by executing commands without missing a beat. Dive into a realm where algorithms reign supreme, making trading an art of precision.</p><p>Automated programs known as Telegram trading bots can be easily integrated with the Telegram messaging platform via its bot <a href=\"https://cointelegraph.com/learn/a-beginners-guide-to-blockchain-apis\">application programming interface (API)</a>. This integration allows users to communicate with the trading bot over chat, provide commands, get updates, and execute trades using interactive buttons or straightforward text commands within the Telegram interface.</p><p>Unibet (Unibot) is an example of a Telegram crypto bot. It was designed to enable quick swaps and snipers; it was first presented as the fastest Telegram Uniswap sniper accessible for a 1% transaction charge. </p><p><a href=\"https://cointelegraph.com/news/what-are-telegram-trading-bots\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-03T09:11:43.000Z",
-    "title": "Radiant Capital suspends DeFi lending on Arbitrum after $4.5 million ETH exploit",
-    "url": "https://cryptoslate.com/radiant-capital-suspends-defi-lending-on-arbitrum-after-4-5-million-eth-exploit/",
-    "description": "<p>Decentralized finance (DeFi) lending protocol Radiant Capital temporarily paused its operations on the Ethereum layer2 network Arbitrum after it was exploited for 1,900 ETH, or $4.5 million. In a Jan. 3 post on social media platform X (formerly Twitter), the cross-chain lending protocol confirmed that it received a report of an issue with its newly [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/radiant-capital-suspends-defi-lending-on-arbitrum-after-4-5-million-eth-exploit/\">Radiant Capital suspends DeFi lending on Arbitrum after $4.5 million ETH exploit</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-03T09:43:25.000Z",
+    "title": "Bitcoin outshines Ethereum, leads for four successive quarters in performance",
+    "url": "https://cryptoslate.com/insights/bitcoin-outshines-ethereum-leads-for-four-successive-quarters-in-performance/",
+    "description": "<p>Quick Take Bitcoin has maintained a notable ascendancy over Ethereum throughout 2023, sustaining a performance that outstripped Ethereum each quarter. In Q1, Bitcoin&#8217;s value surge of 72% significantly overshadowed Ethereum&#8217;s 52% increase. The trend continued into Q2, with Bitcoin and Ethereum growing at 7% and 6% respectively. While both experienced a downturn in Q3, Bitcoin&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-outshines-ethereum-leads-for-four-successive-quarters-in-performance/\">Bitcoin outshines Ethereum, leads for four successive quarters in performance</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T09:38:27.000Z",
-    "title": "Chainlink Price Prediction 2023-2032: A Strong Buy Sentiment for LINK?",
-    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
-    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s [&#8230;]"
+    "date": "2024-01-03T09:56:45.000Z",
+    "title": "IT Operations Facing Challenges in 2024",
+    "url": "https://www.cryptopolitan.com/it-operations-facing-challenges-in-2024/",
+    "description": "As the year 2024 unfolds, the enterprise network market is poised for significant changes, driven by the evolving landscape of IT operations and emerging technologies. One key trend that is expected to shape the industry is the growing strain on IT operations teams. This strain is a direct consequence of IT&#8217;s multifaceted role, the rapid [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T09:35:21.000Z",
-    "title": "Worldcoin Price Prediction 2024 – 2033: How High Will WLD Go?",
-    "url": "https://www.cryptopolitan.com/worldcoin-price-prediction/",
-    "description": "Worldcoin Price Prediction 2024- up to $8.32 Worldcoin Price Prediction 2027-up to $17.21 Worldcoin Price Prediction 2030- up to $28.33 Worldcoin Price Prediction 2033- up to $73.74 Worldcoin, spearheaded by OpenAI chief Sam Altman,&#160;launched&#160;on Monday, 24 July 2023, after years in development, promising to verify users’ identity by iris-scanning and potentially solving one of the [&#8230;]"
+    "date": "2024-01-03T09:52:50.000Z",
+    "title": "CRO Price Prediction 2023-2032: Is Cronos a Good Investment?",
+    "url": "https://www.cryptopolitan.com/cro-price-prediction/",
+    "description": "CRO Price Prediction 2023-2032 Cronos is the native token for the Crypto.com blockchain. First known as Crypto.com Coin, in February 2022, it was rebranded as Cronos, though it still trades under the same CRO abbreviation. Three months after going live, user adoption has surpassed expectations, with more than 350,000 unique wallet addresses performing transactions on [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:30:25.000Z",
-    "title": "Bullish on Chainlink? Here’s Why Market Watchers Are Eyeing New Opportunities",
-    "url": "https://nulltx.com/bullish-on-chainlink-heres-why-market-watchers-are-eyeing-new-opportunities/",
-    "description": "TLDR: Chainlink (LINK) is expected to continue correction and drop below $15.  Near Protocol (NEAR) is predicted to leave accumulation and surge above $5.  Rebel Satoshi ($RBLZ) aims for a $100 million market cap with 100% already during the presale.  With one of the top altcoins, Chainlink (LINK), making a [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T09:50:19.000Z",
+    "title": "Emotional Intelligence Must Guide Artificial Intelligence in Healthcare",
+    "url": "https://www.cryptopolitan.com/emotional-intelligenceguide-ai-in-healthcare/",
+    "description": "In the rapidly evolving landscape of healthcare, the integration of Artificial Intelligence (AI) has been met with both excitement and skepticism. While AI holds the potential for efficiency and precision, it cannot replace the essential human touch and emotional connection that patients often need. This article explores the importance of Emotional Intelligence (EI) in guiding [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:26:32.000Z",
-    "title": "Crypto Favorites: Spotlight on NuggetRush, and Litecoin",
-    "url": "https://nulltx.com/crypto-favorites-spotlight-on-nuggetrush-and-litecoin/",
-    "description": "TLDR: NuggetRush (NUGX) is a play-to-earn gaming platform merging gold mining, cryptocurrency, and support for real-world miners in developing nations. Users earn rewards during gameplay, driving demand. With deflationary features and a robust roadmap, NUGX has gained investor popularity. Litecoin (LTC) witnessed a substantial surge in new addresses on December [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T09:49:59.000Z",
+    "title": "Bitcoin Price Prediction 2023-2032: Will Bitcoin Bulls Rally?",
+    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
+    "description": "BTC Price Predictions 2023-2032 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $45,272, with a trading volume over the past 24 hours reaching $24 billion. Its market capitalization is $887 billion, and it currently commands 54% of the market share. Over the last 24 hours, the BTC price has experienced [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:24:23.000Z",
-    "title": "Grayscale’s Vision: A $30 Trillion Bitcoin Bull Market; New Investors Flock to Litecoin & Borroe Finance",
-    "url": "https://nulltx.com/grayscales-vision-a-30-trillion-bitcoin-bull-market-new-investors-flock-to-litecoin-borroe-finance/",
-    "description": "Grayscale Investments, a big name in handling assets, is pulling off some major moves. Their CEO, Michael Sonnenshein, has this exciting idea that if they get the thumbs up for Bitcoin exchange-traded funds (ETFs), a jaw-dropping $30 trillion could flood into the crypto industry. Grayscale isn&#8217;t just in the game; [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T09:44:09.000Z",
+    "title": "AI-Driven Professional Development Boosts Math Teacher Effectiveness",
+    "url": "https://www.cryptopolitan.com/ai-development-boosts-math-teacher/",
+    "description": "AI technology has demonstrated its potential to enhance the skills of middle school math teachers, resulting in improved student performance, according to a recent study. The study, conducted by a team of researchers, implemented an online professional development program that leveraged artificial intelligence (AI) to empower math educators. The results of this experiment reveal significant [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:22:40.000Z",
-    "title": "Investors Take Notice as Bitcoin Encounters Resistance, Slipping Below $43,000; InQubeta Increasingly on Whales’ Radar",
-    "url": "https://nulltx.com/investors-take-notice-as-bitcoin-encounters-resistance-slipping-below-43000-inqubeta-increasingly-on-whales-radar/",
-    "description": "In the ever-shifting landscape of cryptocurrency, where Bitcoin rules as the OG, investors are on high alert as the digital behemoth encounters resistance, slipping below the crucial $43,000 mark. But fear not, as we delve into the market dynamics and explore an altcoin that’s been steadily gaining traction—InQubeta. Strap in [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-03T10:05:59.000Z",
+    "title": "Michael Saylor starts selling $216m in MicroStrategy shares to purchase more BTC",
+    "url": "https://crypto.news/michael-saylor-starts-selling-216m-in-microstrategy-shares-to-purchase-more-btc/",
+    "description": "Michael Saylor, MicroStrategy&#8217;s Executive Chairman, has initiated a four-month plan to sell $216 million of his MicroStrategy shares, previously stating his intention to use part of the proceeds to buy additional Bitcoin (BTC). Saylor revealed in a Jan. 2 filing&#8230;"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:16:18.000Z",
-    "title": "Analyst Says TRON (TRX) Is Banking the Unbanked – Meme Moguls (MGLS) to Dominate the $6.1B Market by 2025",
-    "url": "https://nulltx.com/analyst-says-tron-trx-is-banking-the-unbanked-meme-moguls-mgls-to-dominate-the-6-1b-market-by-2025/",
-    "description": "TRON (TRX) has overtaken Bitcoin, Ethereum, and Solana as the cryptocurrency network that&#8217;s accelerating the most financial inclusion on a global scale. The founder, Justin Sun, plans to eventually serve eight billion people on a global scale. Meme Moguls (MGLS) is an upcoming platform that introduces an innovative approach with [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-03T10:04:29.000Z",
+    "title": "South Korea excludes decentralized crypto wallets from overseas declarations",
+    "url": "https://crypto.news/south-korea-excludes-decentralized-crypto-wallets-from-overseas-declarations/",
+    "description": "South Korea&#8217;s National Tax Service (NTS) has updated its position on virtual assets. In a new statement, NTS clarified its position regarding the owners of decentralized crypto wallets. Thus, individuals who own virtual assets through non-custodial decentralized wallets, such as&#8230;"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-03T09:14:28.000Z",
-    "title": "Investor Frenzy: Pullix (PLX) Rivals Attention With Tezos (XTZ) and Compound (COMP) in Bullish Markets",
-    "url": "https://nulltx.com/investor-frenzy-pullix-plx-rivals-attention-with-tezos-xtz-and-compound-comp-in-bullish-markets/",
-    "description": "In the DeFi market, Pullix (PLX) emerges as a contender battling for investor attention alongside Tezos (XTZ) and Compound (COMP). As bullish sentiments sweep the market, these altcoins spark investor frenzy, with PLX standing out. Some experts even foresee this Stage 5 presale star becoming the next 100x token in [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-03T10:00:00.000Z",
+    "title": "XRP and Chainlink bullish, ELDG holders to get free night stays at luxury resorts",
+    "url": "https://crypto.news/xrp-and-chainlink-bullish-eldg-holders-to-get-free-night-stays-at-luxury-resorts/",
+    "description": "XRP and Chainlink are bullish. Meanwhile, Everlodge is gaining traction as ELDG holders are set to receive multiple benefits"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-03T10:00:38.000Z",
+    "title": "Solana (SOL) Sets Yearly Record Above $115; The Graph (GRT) and InQubeta (QUBE) Emerge as Investor Favorite Picks",
+    "url": "https://www.crypto-news-flash.com/solana-sol-sets-yearly-record-above-115-the-graph-grt-and-inqubeta-qube-emerge-as-investor-favorite-picks/?utm_source=rss&utm_medium=rss&utm_campaign=solana-sol-sets-yearly-record-above-115-the-graph-grt-and-inqubeta-qube-emerge-as-investor-favorite-picks",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-35-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Solana (SOL) made its way onto 2023&#8217;s best-performing cryptocurrencies lists by rising above $115. Solana&#8217;s surge served as the perfect finale for what was an eventful year for the cryptocurrency. Its market run over the past was dotted with multiple achievements including outperforming Ethereum. The other names on crypto investors&#8217; list of favorites were InQubeta [...]"
   }
 ]

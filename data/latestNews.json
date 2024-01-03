@@ -1,65 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-03T16:45:00.000Z",
-    "title": "Stablecoins Can Help Fix the Current Lending Market",
-    "url": "https://www.coindesk.com/business/2024/01/03/stablecoins-can-help-fix-the-current-lending-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The Global Financial Crisis reduced the depth of capital markets. Blockchain-based stablecoins can help fill the gap, say Christine Cai and Sefton Kincaid, of Cicada Partners."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-03T16:45:00.000Z",
-    "title": "Bitcoin ETF Looks Very Likely Given These Bureaucratic SEC Steps",
-    "url": "https://www.coindesk.com/markets/2024/01/03/bitcoin-etf-looks-very-likely-given-these-bureaucratic-sec-steps/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "We see a 98% chance of approval in the next couple of weeks and the high likelihood of a Bitcoin rally to follow."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-01-03T16:59:40.000Z",
-    "title": " Matrixport founder says dissemination of Bitcoin ETF report was &#039;beyond our control&#039; ",
-    "url": "https://cointelegraph.com/news/matrixport-founder-says-dissemination-bitcoin-etf-report-beyond-our-control",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvY2I0N2FjZGMtNmY1ZS00YTQ5LTg3YjctMTlhODY1MjZkNjlmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The crypto market sell-off on Wednesday coincided with the release of a skeptical report by Matrixport analysts on the approval of a Bitcoin spot ETF. </p>\n                    <p><p>Jihan Wu, founder of Bitcoin mining company Bitdeer and crypto financial services firm Matrixport, <a href=\"https://twitter.com/JihanWu/status/1742577001633026365\" target=\"_blank\" rel=\"noopener nofollow\">said</a> that the widespread dissemination of a Bitcoin exchange-traded fund (ETF) report was \"not planned by Matrixport and is beyond our control.\"</p><p>On Jan. 3, the price of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) fell by more than 10% to $40,800 <a href=\"https://cointelegraph.com/news/peter-schiff-says-spot-bitcoin-etf-could-crash-btc-price\">before recovering</a>. The price action coincided with the release of a Matrixport report for its clients, where analysts opined that Bitcoin spot ETF proposals, widely believed to be on track for regulatory approval, would be rejected by the U.S. Securities and Exchange Commission this month. Matrixport researchers claimed:</p><p>In response to the ongoing market volatility, Wu stated that Matrixport analysts \"operate independently, expressing their opinions without any influence or interference from management.\" The founder also shrugged off claims that the Matrixport report derailed the price of Bitcoin, instead blaming the price action on the Bitcoin perpetual markets' \"high funding fees\" and the recent pullback in crypto-related stocks.</p><p><a href=\"https://cointelegraph.com/news/matrixport-founder-says-dissemination-bitcoin-etf-report-beyond-our-control\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-03T17:30:00.000Z",
+    "title": " ‘Likely rejection’ or smooth sailing? Experts weigh in on potential spot Bitcoin ETF ",
+    "url": "https://cointelegraph.com/news/bitcoin-etf-experts-weigh-approval",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMmY0OTQ2ZTAtYWNmNi00YmM1LWJjNjUtN2QyM2JhN2QzOGM0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The SEC has not decided on multiple pending spot Bitcoin ETF applications, with many in the space split on how the commission will handle the investment vehicle.</p>\n                    <p><p>Many are speculating on the ramifications of the United States Securities and Exchange Commission (SEC) potentially deciding on exchanges listing a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund ahead of a Jan. 10 deadline.</p><p>At the time of publication, the SEC had not announced whether it planned to approve or disapprove of multiple spot BTC exchange-traded product applications in its pipeline. The commission has until Jan. 10 to decide whether to reject or approve listing shares of a Bitcoin ETF from ARK Invest and 21Shares. Analysts speculated that should the SEC <a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-january-10-analysts\">approve one spot crypto investment vehicle</a>, it could approve multiple ones.</p><p>A Jan. 3 report from 10x Research’s Markus Thielen <a href=\"https://reports.10xresearch.co/p/potential-ramifications-sec-rejects-bitcoin-spot-etfs-next-week\" target=\"_blank\" rel=\"noopener nofollow\">suggested</a> that despite bullish trends in the price of Bitcoin, ETF applicants hadn’t met the requirements necessary for SEC approval. The research paper was released amid reports the SEC <a href=\"https://twitter.com/EleanorTerrett/status/1742574686196637834\" target=\"_blank\" rel=\"noopener nofollow\">planned</a> to hold meetings with major exchanges to finalize comments on applications submitted by spot crypto ETF issuers.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-experts-weigh-approval\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-01-03T16:44:29.000Z",
-    "title": "Bitcoin’s dive to $40k triggers massive liquidations amid shifting margin trends",
-    "url": "https://cryptoslate.com/insights/bitcoins-dive-to-40k-triggers-massive-liquidations-amid-shifting-margin-trends/",
-    "description": "<p>Quick Take The digital asset market has witnessed Bitcoin&#8217;s significant fall in the past 24 hours, dropping from $45,000 to roughly $40,000, resulting in more than $660 million being liquidated, according to Coinglass. This plunge has brought into focus on the margin used for the open interest in futures contracts. It is noteworthy that the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoins-dive-to-40k-triggers-massive-liquidations-amid-shifting-margin-trends/\">Bitcoin&#8217;s dive to $40k triggers massive liquidations amid shifting margin trends</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Bitcoin.com",
+    "date": "2024-01-03T17:30:57.000Z",
+    "title": "Stablecoin Storm — Gemini’s GUSD Shrinks 93% Amidst Market Turbulence",
+    "url": "https://news.bitcoin.com/stablecoin-storm-geminis-gusd-shrinks-93-amidst-market-turbulence/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ddff.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Over the past few years, the stablecoin market has significantly slowed, particularly since mid-2022, following the collapse of Terra&#x2019;s stablecoin. Additionally, last year, the New York Department of Financial Services (NYDFS) instructed Paxos to cease the issuance of BUSD. Beyond these setbacks, the supplies of three other stablecoin assets have drastically reduced, now garnering minimal [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T17:04:31.000Z",
-    "title": "TMX Group Finalizes Acquisition of VettaFi, Bolstering Its Global and Digital Presence",
-    "url": "https://www.cryptopolitan.com/tmx-group-finalizes-acquisition-vettafi/",
-    "description": "TMX Group Limited, a key player in the global financial market, has officially announced the completion of its acquisition of VettaFi Holdings LLC, a renowned US-based company specializing in indexing, digital distribution, analytics, and thought leadership. The acquisition, which includes approximately 78% of VettaFi&#8217;s common units, marks a significant expansion of TMX Group&#8217;s portfolio and [&#8230;]"
+    "date": "2024-01-03T17:34:02.000Z",
+    "title": "Bloomberg analyst uncovers scenarios for spot Bitcoin ETF rejection",
+    "url": "https://www.cryptopolitan.com/bloomberg-uncover-spot-bitcoin-etf-rejection/",
+    "description": "As the deadline looms for the Securities and Exchange Commission’s (SEC) decision on a Bitcoin exchange-traded fund (ETF), the sentiments among analysts remain cautiously optimistic, with Bloomberg’s Eric Balchunas and James Seyffart assigning a 90% chance of approval by January 10. Despite the prevailing optimism, the analysts are hesitant to push the odds beyond 90%, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T17:30:50.000Z",
+    "title": "BendDAO Set to Launch BDIN Token on January 6 with Special Whitelist Rules",
+    "url": "https://www.cryptopolitan.com/benddao-launch-bdin-toke-whitelist-rules/",
+    "description": "BendDAO, a prominent platform in the NFT lending space, has officially announced the release of its new token, BDIN. Scheduled for January 6. The launch marks a significant milestone for BendDAO, expanding its offerings and enhancing its platform&#8217;s capabilities.&#160; The introduction of the BDIN token is expected to bring new dynamics to the platform&#8217;s operations [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-03T16:59:18.000Z",
-    "title": "CoinGecko reports crypto market cap down 7.2%",
-    "url": "https://crypto.news/coingecko-reports-crypto-market-cap-down-7-2/",
-    "description": "According to CoinGecko, one of the largest global crypto data aggregators, the cryptocurrency market is down to 1.7 trillion, down 7% in the last 24 hours."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-03T16:44:57.000Z",
-    "title": "Bitget stacks workforce amid growing interest in Bitcoin, BRC-20 tokens",
-    "url": "https://crypto.news/bitget-stacks-workforce-amid-growing-interest-in-bitcoin-brc-20-tokens/",
-    "description": "Bitget increased its headcount ahead of anticipated developments in crypto’s two largest decentralized networks and the intersection between AI and digital assets."
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-03T17:04:28.000Z",
-    "title": "Forget The SEC And Bitcoin ETF Approval Drama, Here’s Why Bitcoin Flash Crashed",
-    "url": "https://www.newsbtc.com/bitcoin-news/forget-the-sec-and-bitcoin-etf-approval-drama-heres-why-bitcoin-flash-crashed/",
-    "description": "The recent flash crash of Bitcoin from over $45,500 to as low as $41,100 has sent shockwaves throughout the crypto community, sparking debate over the underlying causes. While some have attributed the crash to unconfirmed rumors that the US Securities and Exchange Commission (SEC) might, after all, not approve Bitcoin ETFs in January, The Wolf Of All Streets on X suggests a different explanation. Blame The High Funding Rate For The BTC Crash The analyst points to the ultra-high positive funding rate on perpetual futures contracts as the primary culprit. In crypto perpetual trading, the funding rate is a mechanism that adjusts the price of futures contracts to reflect the difference in the spot price of the underlying asset, in this case, Bitcoin. In recent months, the funding rate, according to Coinglass, had surged to multi-month highs, reaching an annualized rate of 66% on January 2, as The Wolf Of All Streets noted, before today&#8217;s crash. With Bitcoin trending higher, a large influx of long positions on Bitcoin&#8217;s perpetual futures contracts drove the funding rate to monthly highs. Expanding Bitcoin prices created an imbalance in the market, with more people paying to be long than short. As a result, when the price of Bitcoin began to decline rapidly, exchanges had to unwind long positions, triggering a wave of liquidation.  Related Reading: Solana Has Flipped Ethereum In Yet Another Metric In Its Bid To Reach $200 As of January 3, records from Coinglass show that over $669 million were liquidated. Most of these positions were long, at around $577 million, with only approximately $91 million being shorts. Overall, OKX closed the most positions with $292 million longs closed. Binance, Huobi, and Bybit also closed many long positions. Will Bitcoin Degens Arrest The Sell-Off? According to The Wolf Of All Streets, the recent flash crash was not a natural market event but an intentional move orchestrated by &#8220;degens.&#8221; Based on the analyst, the unusually high funding rate as of early January 3 created a situation where long positions, amplified by leverage, had to be liquidated for equilibrium to be reinstated in the Bitcoin market.   Related Reading: By The Numbers: Crypto Users Lose $300 Million To Phishing Scams In 2023 The analyst&#8217;s comments echo those of other market observers who have warned of the potential for blow-ups in the perpetual futures market due to the high leverage and funding rates involved. These warnings have become more significant in light of the recent flash crash. How prices will react going forward is unclear. However, what&#8217;s clear is that bears appear to be in control in the short term. The recent sell-off is at the back of high trading volume that may see the coin track lower, towards $38,000 or lower, in the coming sessions. Feature image from Canva, chart from TradingView"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-03T16:41:47.000Z",
-    "title": "Ripple Moves Forward with IT Payments by Providing Blockchain-Based Solutions",
-    "url": "https://www.crypto-news-flash.com/ripple-moves-forward-with-it-payments-by-providing-blockchain-based-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-moves-forward-with-it-payments-by-providing-blockchain-based-solutions",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-logo-with-bank-silhouette-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-logo-with-bank-silhouette-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Ripple seeks to revolutionize IT payments with blockchain, offering fast and efficient transactions globally. Ripple&#8217;s solution eliminates pre-funding, allowing IT companies to invest capital in growth and development. In the technology and finance sector, Ripple, already a leader in cryptocurrency payments, is now positioned to transform the IT services market with its innovative payment solution. [...]"
+    "date": "2024-01-03T17:11:07.000Z",
+    "title": "Asset manager backs Bitcoin price to hit $80K in 2024",
+    "url": "https://crypto.news/asset-manager-backs-bitcoin-price-to-hit-80k-in-2024/",
+    "description": "BTC could reach an all-time high price of $80,000 in 2024 lifting other projects like Bitcoin Minetrix"
   }
 ]

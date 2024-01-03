@@ -1,65 +1,121 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-01-03T18:33:01.000Z",
-    "title": "Gaming Tokens IMX, SAND and AXS Plunge Following Bitcoin Flash Crash",
-    "url": "https://decrypt.co/211671/gaming-tokens-imx-sand-and-axs-plunge-following-bitcoin-flash-crash",
-    "description": "Immutable, The Sandbox, Axie Infinity, and Gala tokens dropped 8-15%, facing deeper losses after Bitcoin’s dip."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-03T18:14:36.000Z",
-    "title": "Bitcoin Ordinals Upgrade Could Create a Centralized Fork, Says BRC-20 Creator",
-    "url": "https://decrypt.co/211665/bitcoin-ordinals-upgrade-could-be-unsafe-create-centralized-fork",
-    "description": "The latest drama in Bitcoin inscriptions swirls around the BRC-20 protocol, which allows the creation of meme coins."
+    "source": "CoinDesk",
+    "date": "2024-01-03T19:00:27.000Z",
+    "title": "The Protocol: Is Solana's Rebound The Real Thing?",
+    "url": "https://www.coindesk.com/tech/2024/01/03/the-protocol-is-solanas-rebound-the-real-thing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Solana has been one of the biggest gainers of the latest crypto cycle, with a handful of airdrops and meme tokens accelerating big boosts in the price of SOL. Also, Ethereum co-founder Vitalik Buterin has released an updated roadmap for the ecosystem."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-03T18:27:37.000Z",
-    "title": " Why is the crypto market down today? ",
-    "url": "https://cointelegraph.com/news/why-is-the-crypto-market-down-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvODAzMjgxMmQtMWQ1MC00NmFiLWI5NjUtYTBjYjZkZDQxYTYzLkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The crypto market is down today as the impact of large liquidations temporarily shakes traders’ bullish confidence.</p>\n                    <p><p>The crypto market is down today after a sharp correction hit Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) and altcoins on Jan. 3. Bitcoin price dropped by 10%, <a href=\"https://cointelegraph.com/news/bitcoin-targets-48k-spot-driven-btc-price-rally\">nearly erasing</a> all 2024 gains, before rounding to trade near $42,700.</p><p>Let’s take a closer look at the factors impacting Bitcoin price today.</p><p>Investors’ belief that the United States Securities and Exchange Commission (SEC) could approve one of the 14 outstanding <a href=\"https://cointelegraph.com/news/bitcoin-btc-price-breaks-above-45k-excitement-over-etf-approval\">spot Bitcoin ETF</a> applications in early January sent BTC price over $45,000. </p><p><a href=\"https://cointelegraph.com/news/why-is-the-crypto-market-down-today\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-03T19:06:52.000Z",
+    "title": " Orbit hacker may have also performed Coinspaid, Coinex hacks - onchain experts ",
+    "url": "https://cointelegraph.com/news/orbit-hacker-may-have-also-performed-coinspaid-coinex-hacks-onchain-experts",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTc2YTk2ZmQtMzMwYy00YTA2LWJiOWQtZTYyZWE0NmZhM2U3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Orbit attacker used SWFT, Avalanche Bridge, Sinbad mixer, implying that it may be associated with Lazarus.</p>\n                    <p><p>The attacker who drained $81.5 million from the Orbit bridge may have also been involved in several other 2023 crypto cyberattacks, including those against Coinspaid, Coinex, and Atomic Wallet, according to a January 3 report from blockchain analysts Match Systems seen by Cointelegraph.</p><p> Specifically, the report claims that its analysis “gives reason to believe that the same criminal group may be involved in the hacking of the Orbit bridge, which in 2023 had previously committed several large hacks of the cryptocurrency services Atomic wallet, CoinsPaid, CoinEx, etc., using tools and patterns of the well-known Lazarus group.”</p><p>Match Systems attempted to trace the Orbit attacker’s activity on the blockchain. They discovered that the attacker’s account was pre-seeded with gas funds from other accounts that <a href=\"https://etherscan.io/tx/0x5e35f4b1886d62543cc027b5c0ef54aac3901a25c37d8ea6b1ab8861c9bd09dd\" target=\"_blank\" rel=\"noopener nofollow\">withdrew</a> them from Tornado Cash. Withdrawing from Tornado Cash is a common tactic used by cybercriminals to obscure the source of their funds. </p><p><a href=\"https://cointelegraph.com/news/orbit-hacker-may-have-also-performed-coinspaid-coinex-hacks-onchain-experts\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-01-03T18:14:06.000Z",
-    "title": "Bloomberg analyst queries Matrixport’s Bitcoin ETF potential rejection claim",
-    "url": "https://cryptoslate.com/bloomberg-analyst-queries-matrixports-bitcoin-etf-potential-rejection-claim/",
-    "description": "<p>Bloomberg analyst Eric Balchuna questioned the veracity of a Matrixport report that claimed that the Securities and Exchange Commission (SEC) might reject several pending applications for a spot Bitcoin ETF. &#8220;At this point, saying SEC rejecting it isn’t just going against James Seyffart and I like it was in the early days, now you basically [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bloomberg-analyst-queries-matrixports-bitcoin-etf-potential-rejection-claim/\">Bloomberg analyst queries Matrixport&#8217;s Bitcoin ETF potential rejection claim</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CryptoGlobe",
+    "date": "2024-01-03T19:00:00.000Z",
+    "title": "Why is the Price of Cardano (ADA) Down Today?",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/why-is-the-price-of-cardano-ada-down-today/",
+    "description": "The price of the smart contract platform Cardano (ADA) is down by more than 8.7% over the last 24-hour period, and more than 11% over the past week. The cryptocurrency’s price seemingly dropped due to a specific factor affecting the wider cryptocurrency market. Available market data shows that Cardano is currently trading at $0.56 per […]\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T18:37:02.000Z",
-    "title": "Ordinals founder addresses Bitcoin maxis complaints",
-    "url": "https://www.cryptopolitan.com/ordinals-founder-bitcoin-maxis-complaints/",
-    "description": "In recent discussions within the Bitcoin community, Casey Rodarmor, the developer behind the Ordinals protocol, has addressed concerns raised by ideological Bitcoin maximalists regarding the protocol’s use of block space. The Ordinals protocol facilitates the embedding of inscriptions and media directly on the Bitcoin blockchain, sparking debates about its impact and potential hard fork within [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-03T18:29:06.000Z",
-    "title": "Charles Hoskinson engages in Bitcoin ETF dialogue with Peter Schiff",
-    "url": "https://www.cryptopolitan.com/charles-hoskinson-engages-in-bitcoin-etf/",
-    "description": "Charles Hoskinson, the founder of Cardano, and Peter Schiff, a well-known Bitcoin critic, have publicly voiced contrasting views on the matter. This debate is occurring against the backdrop of the United States Securities and Exchange Commission (SEC) considering the approval of such an ETF, which has significant implications for the cryptocurrency market. Charles Hoskinson addresses [&#8230;]"
+    "source": "CryptoGlobe",
+    "date": "2024-01-03T18:49:29.000Z",
+    "title": "Billionaire ‘Shark’ Mark Cuban Calls for Crypto-Specific Regulations, Criticizes SEC’s Preventive Measures",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/billionaire-shark-mark-cuban-calls-for-crypto-specific-regulations-criticizes-secs-preventive-measures/",
+    "description": "In a recent post on social media platform X dated 28 December 2023, Mark Cuban, the influential entrepreneur and television personality, expressed his views on the inadequacy of existing financial regulations in dealing with the complexities of cryptocurrency. Cuban highlighted the limitations of the Howey and Reves tests, long-standing legal benchmarks for defining securities, underscoring […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-03T18:16:08.000Z",
-    "title": "Lightning network credited with Bitcoin’s surging use",
-    "url": "https://www.cryptopolitan.com/lightning-network-credited-bitcoins-use/",
-    "description": "In recent market research conducted by Kaminari, the increased use of Bitcoin as a transactional layer has been attributed, in part, to the growing adoption of the Lightning Network (LN) by crypto platforms. The study reveals that Bitcoin’s transactional activity has experienced steady growth, with 40 million transactions settled in Q3 of 2023, indicating a [&#8230;]"
+    "date": "2024-01-03T19:08:02.000Z",
+    "title": "USDC value fluctuates sharply in response to Bitcoin ETF speculations",
+    "url": "https://www.cryptopolitan.com/usdc-fluctuates-bitcoin-etf-speculations/",
+    "description": "Circle&#8217;s USDC, a prominent dollar-pegged stablecoin, encountered significant volatility today. Notably, the stablecoin&#8217;s value dipped to as low as $0.74 in three separate instances. This instability surfaced amid a broader market sell-off triggered by skepticism over approving a Bitcoin ETF this month. The fluctuations in USDC&#8217;s value were observed on the Binance exchange. Specifically, the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T19:02:05.000Z",
+    "title": "Lawsuit Highlights Copyright Challenges in the Age of AI News Generation",
+    "url": "https://www.cryptopolitan.com/lawsuit-highlights-copyright-challenges-in-the-age-of-ai-news-generation/",
+    "description": "In a landmark legal battle, The New York Times has filed a lawsuit against tech giants OpenAI and Microsoft, alleging copyright infringement related to the use of their artificial intelligence-powered language models (LLMs) in news generation.&#160; The lawsuit underscores the clash between traditional human-driven journalism and AI-powered information dissemination and raises significant questions about the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-03T18:48:13.000Z",
+    "title": "Puma reiterates its commitment to the Web3 industry",
+    "url": "https://www.cryptopolitan.com/puma-reiterates-commitment-web3-industry/",
+    "description": "In 2023, amidst a prolonged crypto winter prompting several brands to distance themselves from web3, Puma took a divergent path under the leadership of Ivan Dashkov, its head of emerging technology. Unlike others, Puma remained steadfast in its commitment to web3, signaling a strategic move to position itself for an anticipated crypto-friendly future. Puma anticipates [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-03T18:10:56.000Z",
-    "title": "ApeX reports 203% gains amid market downturn",
-    "url": "https://crypto.news/apex-reports-203-gains-amid-market-downturn/",
-    "description": "According to CoinGecko data, ApeX, the token behind the decentralized derivatives protocol, was reported as the top gainer on Jan. 3."
+    "date": "2024-01-03T19:02:22.000Z",
+    "title": "Survey: Approval of Bitcoin ETF could boost investment from non-crypto users",
+    "url": "https://crypto.news/survey-approval-of-bitcoin-etf-could-boost-investment-from-non-crypto-users/",
+    "description": "A recent Security.org report indicates a 10% year-over-year increase in U.S. cryptocurrency ownership, with 46% optimistic about the potential positive impact of Bitcoin ETF approvals in 2024."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-03T19:00:00.000Z",
+    "title": "Whales accumulate Shiba Inu as Sponge also sees growing holder numbers",
+    "url": "https://crypto.news/whales-accumulate-shiba-inu-as-sponge-also-sees-growing-holder-numbers/",
+    "description": "Whales notice rising demand for Shiba Inu (SHIB), while Sponge V2 gains renewed interest with its buy-and-stake campaign nearing $2 million"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-03T18:54:38.000Z",
+    "title": "Nigerian central bank publishes rules for opening crypto accounts",
+    "url": "https://crypto.news/nigerian-central-bank-publishes-rules-for-opening-crypto-accounts/",
+    "description": "Nigeria’s apex bank expanded on its decision to reverse a crypto ban on financial service providers, providing clear rules to oversee operations moving forward. "
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-03T19:00:34.000Z",
+    "title": "Arbitrum Reaches Major Milestone In TVL As Price Rallies",
+    "url": "https://www.newsbtc.com/analysis/arb/arbitrum-reaches-major-milestone-in-tvl-as-price-rallies/",
+    "description": "Arbitrum (ARB), a layer 2 (L2) protocol has achieved yet another major milestone in its Total Value Locked (TVL) reaching new heights, following a surge in the crypto asset&#8217;s price. Arbitrum Sees Surge In Total Value Locked (TVL) According to the L2beat platform, Arbitrum&#8217;s TVL recently went past the $10 billion mark putting it in the spotlight. Data from the analytics firm reveals that the network&#8217;s TVL is currently at $10.36 billion. L2beat&#8217;s report shows that Arbitrum One&#8217;s TVL soared by a remarkable 16.49% over the past seven days. With this accomplishment, the network is firmly established as the first Layer 2 network to surpass the $10 billion TVL threshold. Related Reading: Arbitrum: What’s In Store For ARB Token After Unlock? L2beat shows that Arbitrum is above Optimism (OP) by about 40% which comes in second place with a TVL of $6.44 billion. Optimism&#8217;s TVL has also increased significantly by 11.63% in the last 24 hours.  When analyzing Arbitrum&#8217;s TVL, Ethereum (ETH) makes up about 30% of the TVL, while the ARB token makes up about 23.68%. Meanwhile, stablecoins make up a substantial portion of 29% of the TVL, with the remaining 15.76% going to other assets. This diverse composition highlights the platform&#8217;s increasing popularity and attractiveness to a larger range of users. In addition, L2beat has also revealed a surge in the network&#8217;s market share. The data shows that Arbitrum One&#8217;s market share has seen an increase of over 48%.  So far, the network&#8217;s token ARB seems to have experienced a rise in response to the rise in TVL. The digital asset price is currently set at $1.84, indicating a 2.82% increase in the past day. As of the time of writing, the network&#8217;s trading volume has increased significantly by 60% in the past 24 hours. Meanwhile, its market capitalization is up by 1% in the past day, according to data from CoinMarketcap The price rise is indicative of investors&#8217; increased faith and interest in Arbitrum&#8217;s ecosystem. The network&#8217;s success also highlights the growing need in the Ethereum ecosystem for scalable and affordable solutions. Analyst Predicts A Clear Uptrend For ARB Cryptocurrency analyst Michaël van de Poppe has predicted a clear uptrend for Arbitrum, signaling a possible breakout. The analyst shared his projections for the token on the social media platform X (formerly Twitter). Related Reading: Arbitrum Network Faces Major Outage, ARB Token Faces 4% Decline In his analysis, he noted that the uptrend is &#8220;taking place with beautiful retests of previous resistances, becoming a support zone.&#8221; Poppe further pointed out a possible retest optimal “go-to level” between $1.50-1.60.  This area denotes a tactical stage where the token might experience a retest before opting to breach the psychological barrier of $2.  However, this will only take place if the ARB continues on the current upward path. Lastly, Poppe highlighted a difficulty in the token initiating its first cycle when put against Bitcoin. &#8220;Against $BTC, this pair barely wakes up and starts its first cycle,&#8221; he stated. With the recent price of Arbitrum sitting at $1.84, it appears that the analyst&#8217;s predictions will soon come to pass. Featured image from Shutterstock, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-03T18:37:31.000Z",
-    "title": "Cardano (ADA) Surges with Double Digit Volume Gains in 2024",
-    "url": "https://www.crypto-news-flash.com/cardano-ada-surges-with-double-digit-volume-gains-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-surges-with-double-digit-volume-gains-in-2024",
-    "description": "<img width=\"1000\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/Cardano-as-the-best-choice-of-watches-1000x600-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC lists Cardano as a security\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Cardano (ADA) has started the year strong with positive price performance and trading volumes reaching record highs. Crypto investors are optimistic about a strong year based on promised network developments and positive technical indications. Cardano (ADA) was one of the most closely watched coins in 2023, and it continues to impress investors into the new [...]"
+    "date": "2024-01-03T19:08:58.000Z",
+    "title": "Arbitrum Soars to All-Time Highs: Can It Hit $3 in 2024?",
+    "url": "https://www.crypto-news-flash.com/arbitrum-soars-to-all-time-highs-can-it-hit-3-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=arbitrum-soars-to-all-time-highs-can-it-hit-3-in-2024",
+    "description": "<img width=\"538\" height=\"303\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/arbitrum-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Arbitrum (ARB) shows signs of a short-term rally to reach the coveted $3 mark over the coming weeks. The network has become one of the most sought projects due to its unique solution to the issue of scalability. Arbitrum (ARB) is making headways at the beginning of the year after ending 2023 with an all-time [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-03T19:02:05.000Z",
+    "title": "Market Speculation: Will NuggetRush Surpass Giants Like Dogecoin and Arbitrum?",
+    "url": "https://www.crypto-news-flash.com/market-speculation-will-nuggetrush-surpass-giants-like-dogecoin-and-arbitrum/?utm_source=rss&utm_medium=rss&utm_campaign=market-speculation-will-nuggetrush-surpass-giants-like-dogecoin-and-arbitrum",
+    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-10.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />NUGX investors are set to receive 33.33% gains before the official launch. DOGE could decrease to $0.085 by the end of January 2024. ARB could surge over $1.65 by the middle of January 2024. NuggetRush (NUGX) has caught the attention of numerous crypto enthusiasts on the strength of its unparalleled real-world utility. Let’s analyze if [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-03T18:48:45.000Z",
+    "title": "Internet Computer Protocol Skyrockets: ICP Price Surges by 200% in 30 Days",
+    "url": "https://www.crypto-news-flash.com/internet-computer-protocol-skyrockets-icp-price-surges-by-200-in-30-days/?utm_source=rss&utm_medium=rss&utm_campaign=internet-computer-protocol-skyrockets-icp-price-surges-by-200-in-30-days",
+    "description": "<img width=\"1824\" height=\"1014\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />Internet Computer (ICP) has been one of the best performers in the past month, and over the past week, its 53% gains have been the highest among the top 100 cryptos in the market. Trading at $17, it has flipped Shiba Inu on the charts and has its eye set on Chainlink and MATIC, and [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-03T18:42:59.000Z",
+    "title": "Radiant Capital Hacked: $4.4 Million Loss Sends Shockwaves Through DeFi",
+    "url": "https://www.crypto-news-flash.com/radiant-capital-hacked-4-4-million-loss-sends-shockwaves-through-defi/?utm_source=rss&utm_medium=rss&utm_campaign=radiant-capital-hacked-4-4-million-loss-sends-shockwaves-through-defi",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/hacker-g49391eea9_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Monero hack\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" />A malicious attack targeting RDNTCapital leads to a substantial loss of 1,900 ETH worth $4.4 million. RDNTCapital responds to the security breach, temporarily halting lending and borrowing markets on Arbitrum for investigation. Cyvers, a cybersecurity firm leveraging an AI-powered system, has uncovered a series of malicious activities targeting Radiant Capital (RNDTCApital). RDNTCapital, a decentralized finance [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-03T18:45:00.000Z",
+    "title": "The Rekt Capital Report: Top 6 Altcoins to Watch in 2024",
+    "url": "https://coinedition.com/the-rekt-capital-report-top-6-altcoins-to-watch-in-2024/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Altcoins-Not-Make-States-Youtuber-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a series of posts on X (formerly Twitter), crypto analyst Rekt Capital made a series of predictions on the price performance of leading altcoins, including Binance Coin (BNB), Polygon (MATIC), Avalanche (AVAX), Cardano (ADA), Chainlink (LINK) and Uniswap (UNI). BNB Coin According to Rekt Capital, BNB Coin, which currently trades at $318.95, is potentially [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/the-rekt-capital-report-top-6-altcoins-to-watch-in-2024/\">The Rekt Capital Report: Top 6 Altcoins to Watch in 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-03T19:05:14.000Z",
+    "title": "$670,000,000 in Liquidations Rocks Crypto Markets As Bitcoin ETF Rejection Predictions Swirl",
+    "url": "https://dailyhodl.com/2024/01/03/670000000-in-liquidations-rocks-crypto-markets-as-bitcoin-etf-rejection-predictions-swirl/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/09/Crypto-Markets-Are-Disconnected.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>After a strong start to the year, Bitcoin (BTC) and altcoins are weathering a sharp correction which has caused over $670 million in liquidations in mere hours. According to crypto exchange data platform Coinglass, traders have suffered $670 million worth of liquidations in the last 24 hours, with the overwhelming majority being traders who were [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/03/670000000-in-liquidations-rocks-crypto-markets-as-bitcoin-etf-rejection-predictions-swirl/\">$670,000,000 in Liquidations Rocks Crypto Markets As Bitcoin ETF Rejection Predictions Swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

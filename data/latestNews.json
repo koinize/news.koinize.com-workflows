@@ -1,86 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-04T08:52:40.000Z",
-    "title": "'Deniers Are Crypto's Flat Earthers' as Markets Flash 83% Odds of Bitcoin ETF Approval",
-    "url": "https://www.coindesk.com/markets/2024/01/04/deniers-are-cryptos-flat-earthers-as-markets-flash-83-odds-of-bitcoin-etf-approval/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The popular Polymarket market bet “Bitcoin ETF approved by Jan 15?” has attracted almost $1 million in volume from hundreds of users."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-04T08:48:56.000Z",
-    "title": " dYdX identifies attacker, considers legal action over $9M loss ",
-    "url": "https://cointelegraph.com/news/dydx-identifies-attacker-considers-legal-action-over-9m-loss",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzI0N2QzNWItZmIyNy00NWJmLTg4NjYtZTY5MzE4NDJmN2IyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>To avoid future coordinated attacks with similar tactics, dYdX said it had improved its v3 trading platform to enhance open-interest monitoring and alerts.</p>\n                    <p><p data-ct-non-breakable=\"true\">Decentralized exchange dYdX says it has uncovered the identity of the attacker responsible for the exchange’s v3 platform attack on Nov. 17, 2023, which resulted in a loss of $9 million from its insurance fund. </p><p>In a post-mortem on the “targeted attack” on the exchange, dYdX <a href=\"https://dydx.exchange/blog/sushi-yfi-incident\" target=\"_blank\" rel=\"noopener nofollow\">confirmed</a> that it is now looking into legal actions against the person responsible.</p><p>To avoid future coordinated attacks with similar tactics, dYdX said it had improved its v3 trading platform to enhance open-interest monitoring and alerts.</p><p><a href=\"https://cointelegraph.com/news/dydx-identifies-attacker-considers-legal-action-over-9m-loss\">Read more</a></p></p>\n                \n            "
-  },
-  {
     "source": "CryptoGlobe",
-    "date": "2024-01-04T08:59:47.000Z",
-    "title": "Morgan Stanley Chairman James Gorman on Bitcoin’s Future in Wealth Management",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/morgan-stanley-chairman-james-gorman-on-bitcoins-future-in-wealth-management/",
-    "description": "On 3 January 2024, James Gorman, the Executive Chairman of Morgan Stanley (NYSE: MS), spoke with Sonali Basak on Bloomberg TV. The Board of Directors at Morgan Stanley announced on 25 October 2023 that Co-President Edward (Ted) Pick would be appointed as the firm’s Chief Executive Officer, effective from 1 January 2024. In this new […]\n"
+    "date": "2024-01-04T09:28:00.000Z",
+    "title": "Coinbase Exec Talks About Impact of U.S. Spot Bitcoin Approval on $30 Trillion U.S. Wealth Management Industry",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/coinbase-exec-talks-about-impact-of-u-s-spot-bitcoin-approval-on-30-trillion-u-s-wealth-management-industry/",
+    "description": "In an interview with CNBC on 2 January 2024, Hassan Ahmed, the Country Director for Singapore at Coinbase, shared his thoughts on the potential impact of U.S. SEC-approved spot Bitcoin ETFs on the cryptocurrency market. Ahmed emphasized the foundational nature of a U.S. spot Bitcoin ETF, describing it as a “structural market change” for cryptocurrencies. […]\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-04T08:43:03.000Z",
-    "title": "Cboe Gives Nod To Fidelity Bitcoin ETF Listing, But SEC Mum",
-    "url": "https://cryptodaily.co.uk/2024/01/cboe-gives-nod-to-fidelity-bitcoin-etf-listing-but-sec-mum",
-    "description": "United States-based Cboe has given the Fidelity Wise Origin Bitcoin Fund the nod to be listed under the FBTC ticker, according to a new Securities and Exchange Fund filing."
+    "source": "Bitcoin.com",
+    "date": "2024-01-04T09:30:51.000Z",
+    "title": "Defi Platform Radiant Capital Loses Digital Assets Worth $4.5 Million After Flash Loan Attack",
+    "url": "https://news.bitcoin.com/defi-platform-radiant-capital-loses-digital-assets-worth-4-5-million-after-flash-loan-attack/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Defi Platform Radiant Capital Loses Digital Assets Worth $4.5 Million After Flash Loan Attack\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ff0000d.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Radiant Capital, a decentralized finance (defi) platform, confirmed on Jan. 3, 2023, that it fell victim to an attack which saw the &#8220;protocol accruing bad debt in the WETH market, totaling about 1.3% of total protocol TVL&#8221; or $4.5 million. Radiant Capital has urged the hackers to establish contact with the defi platform before law [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-04T09:00:28.000Z",
-    "title": "Analyst predicts altcoin rally, investors accumulating Polkadot, Meme Moguls, and Solana",
-    "url": "https://crypto.news/analyst-predicts-altcoin-rally-investors-accumulating-polkadot-meme-moguls-and-solana/",
-    "description": "investors have been doubling down on altcoins, actively exploring Polkadot (DOT), Meme Moguls (MGLS), and Solana (SOL)"
+    "source": "Cryptopolitan",
+    "date": "2024-01-04T09:38:05.000Z",
+    "title": "Decentralized exchange dYdX exposes details of $9 million attack on its v3 platform",
+    "url": "https://www.cryptopolitan.com/decentralized-exchange-dydx-exposes/",
+    "description": "Decentralized exchange dYdX has released a post-mortem report regarding a &#8220;targeted attack&#8221; on its v3 platform in November, resulting in a $9 million loss in its insurance fund, equivalent to approximately 40% of the total fund. The exchange&#8217;s investigation has identified the attacker&#8217;s identity, and legal actions are being considered against the perpetrator. dYdX attacker&#8217;s [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-04T08:50:21.000Z",
-    "title": "Why is crypto down today? Matrixport and other FUD",
-    "url": "https://crypto.news/why-is-crypto-down-today-matrixport-and-other-fud/",
-    "description": "The crypto market witnessed a sharp decline just hours after the Matrixport report on Jan. 3. However, data shows that investors believe this could be a local bottom. According to data provided by CoinGecko, the global crypto market capitalization is&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-01-04T09:34:48.000Z",
+    "title": "Ark Invest sells more Coinbase shares worth $25.3M",
+    "url": "https://www.cryptopolitan.com/ark-invest-sells-more-coinbase-shares/",
+    "description": "In a recent trade filing, Cathie Wood&#8217;s Ark Invest has continued its selling spree of Coinbase Global Inc. shares, disposing of an additional 166,183 shares, valued at approximately $25.3 million, on Wednesday. This move follows a series of recent sell-offs by the investment firm, which have already seen them offload over $200 million of Coinbase [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-04T08:44:26.000Z",
-    "title": "Traders liquidate almost $700m amid Bitcoin’s precipitous decline",
-    "url": "https://crypto.news/traders-liquidate-almost-700m-amid-bitcoins-precipitous-decline/",
-    "description": "Against the falling Bitcoin (BTC) exchange rate, the daily liquidation volume on the crypto market approached $700 million. Traders liquidated $698 million worth of positions in the last 24 hours, according to Coinglass data. The majority came from BTC, $11.1&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-01-04T09:23:11.000Z",
+    "title": "South Korea proposes amendment to restrict credit card use for crypto purchases",
+    "url": "https://www.cryptopolitan.com/south-korea-on-crypto-purchases/",
+    "description": "The Financial Services Commission (FSC) of South Korea, the nation&#8217;s top financial regulator, has proposed to amend the Credit Finance Act, prohibiting its citizens from utilizing credit cards to purchase cryptocurrencies.&#160; This move comes as a response to concerns regarding the illegal flow of domestic funds, money laundering, and the promotion of speculative behavior through [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T09:00:57.000Z",
-    "title": "Comparing Long-Term Crypto Assets: NuggetRush, Avalanche, and Polygon Prospects",
-    "url": "https://www.crypto-news-flash.com/comparing-long-term-crypto-assets-nuggetrush-avalanche-and-polygon-prospects/?utm_source=rss&utm_medium=rss&utm_campaign=comparing-long-term-crypto-assets-nuggetrush-avalanche-and-polygon-prospects",
-    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-13.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-13.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-13-300x188.png 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Avalanche (AVAX) has unveiled plans to invest in meme coins. Polygon’s (MATIC) zkEVM records an increase in network activity after a partnership with Chainlink. NuggetRush&#8217;s (NUGX) unexpected 50% growth is dominating headlines in the digital asset industry. Avalanche (AVAX) will jump on the meme coin craze following the significant increase of Solana’s BONK token. Polygon [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T09:00:14.000Z",
-    "title": "BREAKING: FOX Business Reports SEC to Approve BlackRock’s Bitcoin ETF in Final Meeting with CBOE and NYSE on January 5th",
-    "url": "https://www.crypto-news-flash.com/breaking-fox-business-reports-sec-to-approve-blackrocks-bitcoin-etf-in-final-meeting-with-cboe-and-nyse-on-january-5th/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-fox-business-reports-sec-to-approve-blackrocks-bitcoin-etf-in-final-meeting-with-cboe-and-nyse-on-january-5th",
-    "description": "<img width=\"1600\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background.jpg 1600w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-1024x768.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-768x576.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-1536x1152.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-150x113.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-450x338.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-logo-with-blue-ETF-letters-on-a-digital-background-1200x900.jpg 1200w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" />The SEC is meeting with major exchanges like NYSE and CBOE, with potential Bitcoin ETF approval announcements expected by January 5th. Speculations about the rejection of Bitcoin spot ETFs by the SEC have led to market uncertainty, affecting Bitcoin&#8217;s price and the broader cryptocurrency market. According to a recent FOX Business report, SEC staff attorneys [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T08:54:26.000Z",
-    "title": "VeChain & BCG: Revolutionizing Sustainable Agriculture with Blockchain",
-    "url": "https://www.crypto-news-flash.com/vechain-bcg-revolutionizing-sustainable-agriculture-with-blockchain/?utm_source=rss&utm_medium=rss&utm_campaign=vechain-bcg-revolutionizing-sustainable-agriculture-with-blockchain",
-    "description": "<img width=\"1191\" height=\"584\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/vechain.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Vechain\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/11/vechain.jpg 1191w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/vechain-300x147.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/vechain-1024x502.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/11/vechain-768x377.jpg 768w\" sizes=\"(max-width: 1191px) 100vw, 1191px\" />The Vechain network has grown to a mature scalable smart contract platform that is at the forefront of enabling a sustainable future through a regulated blockchain solution. The partnership between Vechain and the Boston Consulting Group (BCG) will further enhance the mass adoption of VET as the crypto coin to streamline the agricultural supply chain.  [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T08:53:31.000Z",
-    "title": "Internet Computer (ICP) Rockets 72%: Is a Top 10 Spot in Sight?",
-    "url": "https://www.crypto-news-flash.com/internet-computer-icp-rockets-72-is-a-top-10-spot-in-sight/?utm_source=rss&utm_medium=rss&utm_campaign=internet-computer-icp-rockets-72-is-a-top-10-spot-in-sight",
-    "description": "<img width=\"1824\" height=\"1014\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270.jpeg 1824w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-300x167.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-1024x569.jpeg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-768x427.jpeg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-1536x854.jpeg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-24x13.jpeg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-36x20.jpeg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/05/internet-computer-1-e1620728933270-48x27.jpeg 48w\" sizes=\"(max-width: 1824px) 100vw, 1824px\" />Internet Computer (ICP) has posted mixed indicators as bears and bulls battle for control of the digital asset. Up by 55% in the last 7 days, bulls have been in control as they aspire to push the altcoin to a top 10 spot in the market. Internet Computer (ICP) investors are celebrating record gains in [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-04T08:53:08.000Z",
-    "title": "Instant: A Fee-Free Solana USDC Debit Card Available Worldwide",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/instant-a-fee-free-solana-usdc-debit-card-available-worldwide/",
-    "description": "<p>One of the features of Instant is its compatibility with Solana&#8217;s USDC, a stablecoin pegged to the US dollar. Zebec Users can now load this digital debit card with USDC effortlessly, providing a stable and reliable alternative to traditional fiat currencies. This move marks a significant step towards the mainstream adoption of DeFi solutions. Let&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/instant-a-fee-free-solana-usdc-debit-card-available-worldwide/\">Instant: A Fee-Free Solana USDC Debit Card Available Worldwide</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-01-04T09:23:10.000Z",
+    "title": "EU Grants Medical Device Certification to iRhythm’s Zio Wearable ECG with AI Detection of Heart Problems",
+    "url": "https://www.cryptopolitan.com/eu-grants-certification-to-irhythms-zio-ecg/",
+    "description": "In a groundbreaking development in cardiac healthcare, iRhythm Technologies has received European Union (EU) medical device certification for its innovative Zio wearable ECG (Electrocardiogram). This cutting-edge device combines the power of artificial intelligence (AI) with extensive machine learning to accurately detect cardiac arrhythmias, providing a level of precision equivalent to that of a medical professional. [&#8230;]"
   }
 ]

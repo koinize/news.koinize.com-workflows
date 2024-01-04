@@ -1,93 +1,58 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-04T10:55:24.000Z",
-    "title": " Crypto community sings unhappy tune on ‘stupid’ IRS reporting requirement ",
-    "url": "https://cointelegraph.com/news/irs-reporting-rules-community-responses",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNWIyMzViMjAtNWMzYi00NDJlLTkxOWItYjJjNGY3MDYxZjJjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Community member Adriano Feria described the law as “stupid” and called the officials that created it “idiotic” on X. </p>\n                    <p><p>Community members have expressed their frustration about new rules that require crypto users to report transactions worth more than $10,000 to the Internal Revenue Service (IRS) through social media posts and a song.</p><p>The new crypto tax reporting obligations for United States citizens came into effect on Jan. 1. The rules oblige crypto brokers to <a href=\"https://cointelegraph.com/news/irs-rules-10k-crypto-transactions-2024\">send personal data</a> to the IRS on transactions worth over $10,000. This includes information such as the sender’s name, address and social security number. </p><p>The law also set a deadline of 15 days to complete the report. However, requirements such as this may be challenging to meet, due to the nature of on-chain transactions, according to Coin Center executive director Jerry Brito. He said many users “will find it difficult to comply,” as they could risk being found guilty of a felony.</p><p><a href=\"https://cointelegraph.com/news/irs-reporting-rules-community-responses\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-01-04T11:19:25.000Z",
+    "title": "Nigeria’s Central Bank Fleshes Out New Rule Allowing Crypto Firms’ Access to Bank Accounts",
+    "url": "https://www.coindesk.com/policy/2024/01/04/nigerias-central-bank-fleshes-out-new-rule-allowing-crypto-firms-access-to-bank-accounts/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Nigerian banks are still restricted from holding or trading crypto on their own behalf, despite regulators’ softening stance toward digital assets."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-04T10:48:15.000Z",
-    "title": "Phuket to Pioneer Blockchain Mass Adoption in Thailand with B2GC: Blockchain to Government Conference",
-    "url": "https://cryptodaily.co.uk/2024/01/phuket-to-pioneer-blockchain-mass-adoption-in-thailand-with-b2gc-blockchain-to-government-conference",
-    "description": "Phuket to Pioneer Blockchain Mass Adoption in Thailand with B2GC: Blockchain to Government Conference"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-04T11:00:40.000Z",
-    "title": "Solana Foundation Plans Expansion to Brazil With Over $10M in Investments",
-    "url": "https://news.bitcoin.com/solana-foundation-plans-expansion-to-brazil-with-over-10m-in-investments/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Solana Foundation to Land in Brazil With Over $10M in Investments\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2051580854.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Solana Foundation, the institution in charge of managing initiatives related to the Solana network, has announced it will expand to Brazil. According to local reports, the organization plans to launch a local team and invest over $10 million in several Web3 fields, including tokenization, artificial intelligence, and art. Solana Foundation Announces Expansion to Brazil [&#8230;]"
+    "source": "Decrypt",
+    "date": "2024-01-04T11:16:28.000Z",
+    "title": "Privacy Coins Monero, Zcash, Horizen 'At Risk' of Delisting by Binance",
+    "url": "https://decrypt.co/211717/privacy-coins-monero-zcash-horizen-at-risk-of-delisting-by-binance",
+    "description": "Binance has flagged several privacy coins with a \"monitoring tag\" indicating that they are at risk of being delisted from its platform."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-04T11:02:31.000Z",
-    "title": "Growing concerns over Solana wallet drainer community with 6,000 members",
-    "url": "https://www.cryptopolitan.com/growing-concerns-over-solana/",
-    "description": "Blockchain security firm Chainalysis has reported the presence of a large online community dedicated to Solana wallet-draining activities, with more than 6,000 members.  This development comes as the price of SOL, the native cryptocurrency of the Solana blockchain, has experienced significant price surges, making holders of SOL and Solana-based tokens attractive targets for phishing attacks. [&#8230;]"
+    "date": "2024-01-04T11:37:48.000Z",
+    "title": "AI Researchers Suggest 5% Chance of Human Extinction Due to Advanced AI",
+    "url": "https://www.cryptopolitan.com/ai-research-suggest-5-human-extinction/",
+    "description": "In a recent survey conducted among 2,700 artificial intelligence (AI) researchers who have published work at six top AI conferences, it was revealed that almost 58% of respondents believe there is a 5% chance of AI causing human extinction or other catastrophic outcomes. The survey also explored the timelines for AI technological milestones and their [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-04T11:00:08.000Z",
-    "title": "Hashdex celebrates Bitcoin’s 15th year, eyes Bitcoin ETF approval",
-    "url": "https://www.cryptopolitan.com/hashdex-celebrates-btc-15th-year-eye-bitcoin/",
-    "description": "In recognition of Bitcoin&#8217;s 15th anniversary, Hashdex, a prominent asset management firm, has released a video celebrating the cryptocurrency&#8217;s journey and its transformative impact on the financial sector. The video highlights Bitcoin&#8217;s evolution since its inception 15 years ago and emphasizes its potential as a “generational investment.” This came when Bitcoin, the leading digital currency, [&#8230;]"
+    "date": "2024-01-04T11:34:51.000Z",
+    "title": "Ethereum’s Foundation picks Bangkok for Devcon 7 conference",
+    "url": "https://www.cryptopolitan.com/ethereums-foundation-picks-bangkok/",
+    "description": "In a major announcement that underscores the growing influence of Southeast Asia in the global cryptocurrency landscape, the Ethereum Foundation has revealed that Devcon 7, its flagship event for Ethereum developers, will be held in Bangkok, Thailand. Scheduled from November 12 to 15, 2024, this conference edition marks a significant shift in focus, as it [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-04T10:51:31.000Z",
-    "title": "Phuket to Pioneer Blockchain Mass Adoption in Thailand with B2GC: Blockchain to Government Conference",
-    "url": "https://www.cryptopolitan.com/phuket-to-pioneer-blockchain-mass-adoption-in-thailand-with-b2gc-blockchain-to-government-conference/",
-    "description": "Bangkok, Thailand, January 4th, 2024, Chainwire Phuket is set to host the groundbreaking, invitation-only Blockchain to Government Conference (B2GC) from January 17th to 19th, 2024. This government-led initiative, co-organized by Thailand&#8217;s key government agencies in the development of its digital economy and society (DEPA, ETDA and DGA) alongside Finstable Group, a leading blockchain company, will [&#8230;]"
+    "date": "2024-01-04T11:10:08.000Z",
+    "title": "Renowned author Robert Kiyosaki advocates close watch on Bitcoin halving",
+    "url": "https://www.cryptopolitan.com/kiyosaki-advocates-watch-on-bitcoin-halving/",
+    "description": "Author of &#8220;Rich Dad Poor Dad,&#8221; Robert Kiyosaki, has advised his followers to closely monitor the impending Bitcoin halving event.&#160; Scheduled to occur in 2024, the Bitcoin halving involves a reduction in the reward for mining Bitcoin transactions, ultimately impacting the rate at which new bitcoins are generated. Bitcoin halving draws attention Renowned author and [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-04T10:43:41.000Z",
-    "title": "Chainlink Price Prediction 2024-2032: A Strong Buy Sentiment for LINK?",
-    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
-    "description": "Chainlink Price Predictions 2023-2032 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-04T11:22:54.000Z",
+    "title": "Gamma Strategies faces security attack, over 200 ETH at risk",
+    "url": "https://crypto.news/gamma-strategies-faces-security-attack-over-200-eth-at-risk/",
+    "description": "Gamma Strategies, an Ethereum-based asset management protocol, is currently grappling with a security breach that has led to a potential loss of 211.9 ETH. On Jan. 4, blockchain analysis firm PeckShield identified an exploit estimated to be worth about $469,000&#8230;"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-04T10:42:46.000Z",
-    "title": "Loneliness Epidemic: Seeking Deeper Connections in a Digital Age",
-    "url": "https://www.cryptopolitan.com/loneliness-epidemic-seeking-deeper-connections-in-a-digital-age/",
-    "description": "In recent years, an alarming rise in loneliness has gripped our society, driven by factors such as declining marriage and birth rates, the erosion of traditional community structures, and the isolating effects of the COVID-19 pandemic. As people grapple with these challenges, they increasingly recognize that human contact isn&#8217;t merely a luxury but a fundamental [&#8230;]"
+    "source": "NewsBTC",
+    "date": "2024-01-04T11:30:43.000Z",
+    "title": "Crypto Analyst Predicts Bullish Hammer For XRP In Upcoming Move",
+    "url": "https://www.newsbtc.com/analysis/xrp/crypto-analyst-predicts-bullish-hammer-for-xrp-in-upcoming-move/",
+    "description": "In the ever-fluctuating world of cryptocurrencies, crypto analyst CryptoWzrd has expressed an optimistic prediction for XRP, while highlighting a potential bullish hammer for the crypto asset. A Bullish Hammer For XRP Could Take Place The cryptocurrency analyst recently took to X (formerly Twitter) to share the projections with the entire crypto market. The analyst predictions were made using the daily technical outlook of XRP. With a clear observation of the chart, CryptoWzrd noted that XRP could be ready to form a bullish hammer. However, for this pattern to take place, a bullish candle must appear today, January 4. Related Reading: Crypto Analyst Blasts $20,000 XRP Price Target, Reveals Why It’s Impossible Following the prediction, CryptoWzrd noted that the XRP/BTC chart is demonstrating strength against the bears. In addition, it has recovered the majority of its loss and ended the day with a promising pin bar. The analyst was upbeat about XRP&#8217;s potential to take control and highlighted that a strong rebound could push the token higher. However, he alluded to the impact of outside variables hindering this rebound, particularly the potential threat of unfavorable SEC news regarding ETFs. CryptoWzrd&#8217;s predictions came amidst a notable disruption in the crypto market that took place yesterday. The disruption saw Bitcoin (BTC) plummeting to about $40,000, while XRP fell to nearly reach the October 2023 lows of $0.50. After recovering to a level around $0.57, CryptoWzrd anticipates that a rebound from this area could indicate the daily lower high trendlines&#8217;s breaking point. As a result of this, the crypto asset could therefore push closer to and over the $0.7300 mark. In the crypto analyst&#8217;s opinion, the strength displayed by the XRP/BTC chart is one major reason behind the optimistic outlook. According to CryptoWzrd, this strength surrounds the positive viewpoint that XRP may orchestrate the bullish rise.  The Analyst&#8217;s Thoughts From The Intraday Angle CryptoWzrd further turned his attention to the intraday chart while anticipating the next move. The expert noted that his &#8220;primary attention&#8221; will be on the intraday chart today which he will be looking for a scalp. While acknowledging the volatility that occurred on Wednesday, the analyst has forecasted that it will continue today. However, in spite of the uncertainties, CryptoWzrd has expressed optimism and plans to make another trade. So far, the expert has stressed that two crucial factors will determine XRP&#8217;s final trajectory. These include the path that Bitcoin takes and the fundamental data that could emerge in the coming days. Related Reading: XRP Price Could Rally If It Clears This Hurdle – $0.75 Next? As of the time of writing, XRP was trading at $0.578, indicating an over 8% decline in the past 24 hours. Meanwhile, its market capitalization is also down by over 8% over the past 24 hours.  Despite the drop in price and market cap, the token&#8217;s trading volume appears to have increased significantly over the past day. Data from CoinMarketCap shows that the crypto asset&#8217;s trading volume is up by 153.49% as of the time of writing. Featured image from Shutterstock, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-04T11:00:38.000Z",
-    "title": "Why $XRP Will Hit $7 in 2024 and $GFOX Will Flip $SHIB",
-    "url": "https://www.crypto-news-flash.com/why-xrp-will-hit-7-in-2024-and-gfox-will-flip-shib/?utm_source=rss&utm_medium=rss&utm_campaign=why-xrp-will-hit-7-in-2024-and-gfox-will-flip-shib",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-40.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-40.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-40-300x200.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As market sentiment heats up, analysts start making their price targets, and two of these have caught more attention than most. Ben Armstrong recently shared his prediction for Ripple ($XRP), but the price prediction stealing the show is the forecast for Galaxy Fox ($GFOX). Could it be the top crypto to buy now? A fresh [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T11:00:10.000Z",
-    "title": "Bitcoin Reigns Supreme: $2.25 Billion Pour into Digital Assets, Solana Surpasses Ethereum",
-    "url": "https://www.crypto-news-flash.com/bitcoin-reigns-supreme-2-25-billion-pour-into-digital-assets-solana-surpasses-ethereum/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-reigns-supreme-2-25-billion-pour-into-digital-assets-solana-surpasses-ethereum",
-    "description": "<img width=\"640\" height=\"426\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Bitcoin dominated the positive shift in investor sentiment, attracting US$1.9 billion in inflows, representing 87% of total flows. Altcoins like Ethereum and Solana also saw institutional interest, with Ethereum recovering to US$78 million in inflows, while Solana benefited from investor hesitation on Ethereum, garnering US$167 million in inflows. In the realm of digital assets, 2023 [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-04T10:43:47.000Z",
-    "title": "Bitcoin: Goldman Sachs Eyes Major Role in US BTC ETC Race with BlackRock, JPMorgan and Grayscale as AP",
-    "url": "https://www.crypto-news-flash.com/bitcoin-goldman-sachs-eyes-major-role-in-us-btc-etc-race-with-blackrock-jpmorgan-and-grayscale-as-ap/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-goldman-sachs-eyes-major-role-in-us-btc-etc-race-with-blackrock-jpmorgan-and-grayscale-as-ap",
-    "description": "<img width=\"1140\" height=\"760\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh.png 1140w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh-768x512.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh-150x100.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/dhjweoiuuh-450x300.png 450w\" sizes=\"(max-width: 1140px) 100vw, 1140px\" />Marking a significant shift in the financial sector, Goldman Sachs is set to join the Bitcoin ETF race, signifying the growing mainstream acceptance of cryptocurrencies. The involvement of major banks like Goldman Sachs and JPMorgan, once skeptical of Bitcoin, indicates a significant change in the perception of cryptocurrencies in the traditional financial world. Reflecting insights [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-04T10:42:43.000Z",
-    "title": "3 Reasons Why Solana is the Hottest Blockchain Today",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-reasons-why-solana-is-the-hottest-blockchain-today/",
-    "description": "<p>Solana is known for being fast and having very low costs for transactions, making it a top pick in the blockchain world. Solana&#8217;s speed and efficiency are clear in apps like Serum. Serum has gained popularity for its rapid execution of trades. Here are three reasons why Solana is currently the most talked-about blockchain. 1) Stellar [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-reasons-why-solana-is-the-hottest-blockchain-today/\">3 Reasons Why Solana is the Hottest Blockchain Today</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-04T11:02:21.000Z",
-    "title": "Dogefather on the Move? $24M Transfer Sparks Speculation: Is a Bull Run Brewing?",
-    "url": "https://coinedition.com/dogefather-on-the-move-24m-transfer-sparks-speculation-is-a-bull-run-brewing/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/doge7.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/doge7.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/doge7-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/doge7-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/doge7-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/doge7-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/doge7-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a post on X (formerly Twitter), Whale Alert, an account dedicated to tracking the trading activity of crypto whales, found that a staggering 300 million Dogecoin (DOGE), valued at approximately $24.51 million, was transferred from an unknown wallet to leading cryptocurrency exchange Binance earlier today. Watch Out For a Price Dip This kind of [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/dogefather-on-the-move-24m-transfer-sparks-speculation-is-a-bull-run-brewing/\">Dogefather on the Move? $24M Transfer Sparks Speculation: Is a Bull Run Brewing?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-04T11:14:20.000Z",
+    "title": "Can Dogecoin Reach $1.50 in 2024? Analysts Weigh In",
+    "url": "https://www.crypto-news-flash.com/can-dogecoin-reach-1-50-in-2024-analysts-weigh-in/?utm_source=rss&utm_medium=rss&utm_campaign=can-dogecoin-reach-1-50-in-2024-analysts-weigh-in",
+    "description": "<img width=\"640\" height=\"426\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-GQMj7cbWo6g-unsplash-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />A crypto analyst has listed multiple factors that could propel Dogecoin to trade between $0.5 and $2 in 2024. According to him, the X integration and the possible spot Bitcoin ETF could play a crucial role in its movement.  Dogecoin (DOGE) the biggest meme coin by market cap, is expected to break another crucial resistance [...]"
   }
 ]

@@ -1,65 +1,9 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-07T22:22:02.000Z",
-    "title": "Protocol Village: Samson Mow's AQUA Launches Bitcoin Wallet for Latin American Users, Maxis",
-    "url": "https://www.coindesk.com/tech/2024/01/04/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 4-10."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-07T22:30:27.000Z",
-    "title": "Blackrock Expects SEC to Approve Spot Bitcoin ETF This Wednesday",
-    "url": "https://news.bitcoin.com/blackrock-expects-sec-to-approve-spot-bitcoin-etf-this-wednesday/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Blackrock Expects SEC to Approve Spot Bitcoin ETF This Wednesday\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/blackrock-wednesday.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Blackrock, the world&#8217;s largest asset manager, reportedly expects its spot bitcoin exchange-traded fund (ETF), the Ishares Bitcoin Trust, to be approved by the U.S. Securities and Exchange Commission (SEC) this coming Wednesday. According to reports, the asset manager has lined up over $2 billion in capital for its spot bitcoin ETF launch. Ishares Bitcoin Trust&#8217;s [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:33:45.000Z",
-    "title": "Justin Sun and anonymous whales acquire over $182 million in Ethereum",
-    "url": "https://www.cryptopolitan.com/justin-sun-and-anonymous-whales-182-m-eth/",
-    "description": "In recent weeks, the cryptocurrency market has witnessed substantial Ethereum (ETH) acquisitions by notable figures, including Tron (TRX) founder Justin Sun. According to on-chain data analyzed by blockchain tracking firm Lookonchain, these purchases amount to over $182 million in Ethereum since December 26, highlighting a trend of increasing interest among prominent investors. Tron founder&#8217;s Ethereum [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:33:30.000Z",
-    "title": "Assessing U.S. inflation: The December numbers",
-    "url": "https://www.cryptopolitan.com/assessing-us-inflation-the-december-numbers/",
-    "description": "As the calendar page flips, the eyes of the financial world are intently fixed on the U.S. inflation numbers for December. These figures aren&#8217;t just numbers on a page; they&#8217;re the pulse of the economy, dictating the Federal Reserve&#8217;s next move and shaping the financial landscape. Navigating the U.S. Economic Waters In the intricate dance [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:24:29.000Z",
-    "title": "Cracking Vladimir Putin’s economic code for Russia",
-    "url": "https://www.cryptopolitan.com/cracking-putins-economic-code-for-russia/",
-    "description": "Deciphering the economic strategy of Russian President Vladimir Putin is akin to untangling a complex web of power plays, strategic decisions, and political maneuvers. As Russia braces for its presidential election in March, the spotlight intensifies on Putin&#8217;s economic blueprint for the nation. Despite the theatrical facade of a competitive election, the outcome is a [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:19:10.000Z",
-    "title": "Weekly roundup of Asia’s hottest crypto news",
-    "url": "https://www.cryptopolitan.com/weekly-roundup-of-asias-hottest-crypto-news/",
-    "description": "Asia&#8217;s dynamic cryptocurrency landscape continues to evolve with intriguing developments and regulatory shifts, reflecting a region at the forefront of digital finance innovation. This week&#8217;s roundup captures the essence of these changes, offering insights into the ever-shifting crypto terrain. Mainland China’s Crypto Pulse China remains a significant player in the crypto world, despite its regulatory [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:14:28.000Z",
-    "title": "Bitcoin ETF sees 5% SEC rejection probability; optimism grows",
-    "url": "https://www.cryptopolitan.com/bitcoin-etf-sees-5-sec-rejection-probability/",
-    "description": "The United States Securities and Exchange Commission (SEC) is on the verge of making a pivotal decision regarding approving Bitcoin ETF. This potential regulatory shift generates significant interest and optimism within the cryptocurrency and investment communities. Bloomberg&#8217;s leading Bitcoin ETF analysts, Eric Balchunas, and James Seyffart, have highlighted a noticeable decrease in the likelihood of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-07T22:11:20.000Z",
-    "title": "How could the 2024 elections affect U.S. economy?",
-    "url": "https://www.cryptopolitan.com/how-the-2024-elections-affect-us-economy/",
-    "description": "The 2024 U.S. elections loom large, promising to be a pivotal moment for the country&#8217;s economic future. As Americans prepare to cast their votes, the impact on the U.S. economy is a hot topic for debate. Let&#8217;s cut through the fluff and get to the heart of how these elections might shape the nation&#8217;s financial [&#8230;]"
-  },
-  {
     "source": "BTCManager",
-    "date": "2024-01-07T22:22:40.000Z",
-    "title": "Former SEC official, cybersecurity expert opines on ‘catastrophic’ spot Bitcoin ETFs",
-    "url": "https://crypto.news/stark-reality-john-reed-catastrophe-ofbitcoin-spot-etf/",
-    "description": "The scathing attack from John Reed Stark echoes similar sentiments made by Better Markets CEO Dennis Kelleher, who implored the SEC to reject spot Bitcoin ETF applications."
+    "date": "2024-01-07T22:43:17.000Z",
+    "title": "Orbit Bridge loses $82m in hack, BTC slumps, spot ETF approval window closes in | Weekly Recap",
+    "url": "https://crypto.news/weekly-recap-orbit-bridge-82-million-hack-btc-slumps/",
+    "description": "Weekly Recap: Orbit Bridge suffers $82 million exploit, Bitcoin (BTC) slumps after $45,000 retest, spot BTC ETF approval window closes in"
   }
 ]

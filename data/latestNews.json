@@ -1,44 +1,93 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-08T18:58:57.000Z",
-    "title": "Protocol Village: Ta-da, AI Marketplace Based on 'Gamified Web3,' Raises $3.5M ",
-    "url": "https://www.coindesk.com/tech/2024/01/04/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 4-10."
+    "date": "2024-01-08T19:26:34.000Z",
+    "title": "BTC Blasts Past $47K as Bitcoin ETF Excitement Gets Feverish",
+    "url": "https://www.coindesk.com/markets/2024/01/08/btc-blasts-past-47k-as-bitcoin-etf-excitement-gets-feverish/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin could rally 10%-15% more in case the SEC approves spot bitcoin ETFs, LMAX strategist Joel Kruger noted."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-08T19:24:06.000Z",
+    "title": "Bitcoin ETFs: The Bear Case",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/01/08/bitcoin-etfs-the-bear-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin exchange traded funds may not actually be approved, due to the SEC’s long-held concerns about market manipulation. And, if they are, they could change the nature of Bitcoin itself, to the detriment of Satoshi Nakamoto’s original vision, say critics."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-08T19:12:00.000Z",
+    "title": " Mount Sinai medical researchers claim ChatGPT is ready to practice medicine  ",
+    "url": "https://cointelegraph.com/news/mount-sinai-medical-researchers-claim-chat-gpt-artificial-intelligence-ready-practice-medicine",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNjY5ZDNlNDMtOTM4NC00NDVhLWI1ZWMtOTI5ODVhYzBkNTBiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>While the researchers claim this important first step could change the medical field, their paper leaves a lot undiscussed. </p>\n                    <p><p>A team of medical researchers from the Icahn School of Medicine at Mount Sinai recently conducted a study on artificial intelligence (AI) chatbots wherein they determined that “generative large language models are autonomous practitioners of evidence-based medicine.”</p><p>According to pre-print research published on arXiv, the Mount Sinai team <a href=\"https://arxiv.org/ftp/arxiv/papers/2401/2401.02851.pdf\" target=\"_blank\" rel=\"noopener nofollow\">tested</a> various off-the-shelf consumer-facing large language models (LLMs), including both ChatGPT 3.5 and 4, and Gemini Pro, as well as open-source models LLaMA v2 and Mixtral-8x7B. </p><p>The models were given prompts engineered with information such as “you are a medical professor” and then asked to follow evidence-based medical protocols to suggest the proper course of treatment for a series of test cases. </p><p><a href=\"https://cointelegraph.com/news/mount-sinai-medical-researchers-claim-chat-gpt-artificial-intelligence-ready-practice-medicine\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-08T18:42:35.000Z",
-    "title": "SEC Chair Gary Gensler issues stark warning about crypto investing ahead of Bitcoin ETF decision",
-    "url": "https://cryptoslate.com/sec-chair-gary-gensler-issues-stark-warning-about-crypto-investing-ahead-of-bitcoin-etf-decision/",
-    "description": "<p>The U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler issued a cautionary advisory regarding crypto asset investments just ahead of the highly anticipated spot Bitcoin exchange-traded fund (ETF) approval deadline. In a Jan. 8 post on social media platform X (formerly Twitter), Gensler highlighted the risks of investing in cryptocurrencies, citing regulatory non-compliance, volatility, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/sec-chair-gary-gensler-issues-stark-warning-about-crypto-investing-ahead-of-bitcoin-etf-decision/\">SEC Chair Gary Gensler issues stark warning about crypto investing ahead of Bitcoin ETF decision</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-08T19:35:35.000Z",
+    "title": "Global digital asset investments soar with $151 million inflow in first week of 2024",
+    "url": "https://cryptoslate.com/insights/global-digital-asset-investments-soar-with-151-million-inflow-in-first-week-of-2024/",
+    "description": "<p>Quick Take The nascent year 2024 has marked a significant surge in digital asset investment products globally, amounting to inflows of $151 million in just the first week, as per the analysis by James Butterfill at Coinshares. The Grayscale vs SEC lawsuit seems to have only galvanized investors, leading to a substantial increase in inflows, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/global-digital-asset-investments-soar-with-151-million-inflow-in-first-week-of-2024/\">Global digital asset investments soar with $151 million inflow in first week of 2024</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-08T19:13:46.000Z",
+    "title": "VanEck buys 1,640 BTC for $72.5M to seed ETF, holdings up over $1M before trading",
+    "url": "https://cryptoslate.com/vaneck-buys-1640-btc-for-72-5m-to-seed-etf-holdings-up-over-1m-before-trading/",
+    "description": "<p>VanEck is heating up the competition by seeding its potential spot Bitcoin exchange-traded fund (ETF) with a substantial $72.5 million, according to the amended S-1 form filed on Jan. 8. The move is part of a broader strategy among various asset managers who are vying for the attention of investors through competitive fee structures and [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/vaneck-buys-1640-btc-for-72-5m-to-seed-etf-holdings-up-over-1m-before-trading/\">VanEck buys 1,640 BTC for $72.5M to seed ETF, holdings up over $1M before trading</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-08T19:04:32.000Z",
-    "title": "Ripple's (XRP) $56M Transfer Amid ETF Speculation: Is a Price Rally to $1 on the Horizon?",
-    "url": "https://cryptodaily.co.uk/2024/01/ripples-xrp-56m-transfer-amid-etf-speculation-is-a-price-rally-to-1-on-the-horizon",
-    "description": "Explore the latest developments in the cryptocurrency market with a focus on Ripple (XRP). Delve into Ripple's significant $56 million transaction, its impact on XRP's price, and the potential effects of US Bitcoin Spot ETF approvals and XRP ETF speculation. Understand Ripple's position in the evolving crypto landscape with insights into its technical analysis and price predictions."
+    "date": "2024-01-08T19:36:27.000Z",
+    "title": "The man who profited $25M from Solana's journey from $9 to $124 this year is buying big bags of Retik Finance (RETIK), Here's why",
+    "url": "https://cryptodaily.co.uk/2024/01/the-man-who-profited-25m-from-solanas-journey-from-9-to-124-this-year-is-buying-big-bags-of-retik-finance-retik-heres-why",
+    "description": "The world of cryptocurrencies is no stranger to astonishing success stories, where savvy investors capitalise on the meteoric rise of digital assets to accumulate staggering wealth"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-08T19:30:04.000Z",
+    "title": "Reviving Retro — Ninjalerts CEO Unveils SNES Emulator on Bitcoin Blockchain to Preserve Classic Games",
+    "url": "https://news.bitcoin.com/reviving-retro-ninjalerts-ceo-unveils-snes-emulator-on-bitcoin-blockchain-to-preserve-classic-games/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Reviving Retro — Ninjalerts CEO Unveils SNES Emulator on Bitcoin Blockchain to Preserve Classic Games\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/snesbtc.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The chief executive officer of Ninjalerts announced on Monday that a functional Super Nintendo Entertainment System (SNES) emulator has been successfully encoded onto the Bitcoin blockchain. The head of Ninjalerts emphasized that the inscription of the emulator on the Bitcoin network was motivated not just by a fondness for &#8217;90s nostalgia but also to ensure [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-08T19:20:23.000Z",
+    "title": "2024 begins with a surge in cryptocurrency investments led by institutional players: Report",
+    "url": "https://www.cryptopolitan.com/2024-surge-crypto-investments-institutional/",
+    "description": "The digital asset sector has witnessed a remarkable start to 2024, with digital assets investment funds experiencing a substantial influx of capital. In the first week of the year alone, these funds recorded $151 million in inflows. This surge is largely attributed to institutional investors&#8217; growing interest, fueled by the anticipation of a potential approval [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-08T19:16:38.000Z",
+    "title": "Vitalik Buterin shares tips for a secure financial future",
+    "url": "https://www.cryptopolitan.com/buterin-tips-for-a-secure-financial-future/",
+    "description": "Vitalik Buterin, the influential co-founder of Ethereum, isn&#8217;t just a tech wizard; he&#8217;s also a sage when it comes to financial advice. Recently, Buterin offered some golden nuggets of wisdom for those looking to secure their financial future. Forget the high-stakes gambles and flashy investment strategies; Buterin&#8217;s advice is grounded, practical, and, dare we say, [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-08T19:31:12.000Z",
+    "title": "Bitcoin Exhibits Resilience Amidst Price Dip As Smart Whales Accumulate",
+    "url": "https://nulltx.com/bitcoin-exhibits-resilience-amidst-price-dip-as-smart-whales-accumulate/",
+    "description": "Bitcoin encountered a minor setback, experiencing a $1,000 drop (-2.3%) on Monday. Notably, F2Pool deposited 1,000 BTC ($43.96 million) to Binance during this period, contributing to the slight decline, following a similar deposit two days prior. Why did the price of $BTC drop $1K (-2.3%) in the last 7 hours? [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-08T19:00:00.000Z",
-    "title": "Solana drops below $90, new altcoin emerges as alternative",
-    "url": "https://crypto.news/solana-drops-below-90-new-altcoin-emerges-as-alternative/",
-    "description": "As Solana retraces, analysts are looking at Bitcoin Minetrix whose presale has raised over $7.8 million"
+    "date": "2024-01-08T19:16:38.000Z",
+    "title": "Starknet community approves STRK for transaction fees",
+    "url": "https://crypto.news/starknet-community-approves-strk-for-transaction-fees/",
+    "description": "Although STRK has not officially launched, the Starknet community showed overwhelming support for an upgrade aiming to introduce the native crypto as a gas token."
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-08T19:00:31.000Z",
-    "title": "A Bullish Beginning? $151 Million Poured Into Crypto Funds In 2024’s First Week",
-    "url": "https://www.newsbtc.com/news/bullish-beginning-poured-into-crypto-funds-in-2024s-first-week/",
-    "description": "The first week of 2024 marked a notable milestone in crypto asset investments. Investment products in this particular sector witnessed inflows amounting to $151 million, according to a recent report from CoinShares. Crypto Asset Funds Sees Surge In Inflows This $151 million surge in inflow, as highlighted by James Butterfill, Head of Research at CoinShares, is particularly noteworthy in light of the Grayscale vs. US Securities and Exchange Commission (SEC) lawsuit, with these inflows contributing to a total of $2.3 billion since the case began in October 2022. Related Reading: Crypto Funds Flourish In 2023: CoinShares Reports $2.2 Billion Inflow This amount accounts for 4.4% of the firm’s total managed assets. Even without a spot exchange-traded fund (ETF) launch in the US, Butterfill revealed that American exchanges contributed to over half of these inflows, at 55%. German and Swiss exchanges followed, contributing 21% and 17% of the inflows, respectively. Bitcoin emerged as the leader in investment inflows, amassing $113 million. This substantial sum equates to 3.2% of the total assets under management (AuM) in the last nine weeks. James Butterfill pointed out an interesting trend that challenges the anticipation of the US SEC approval of a spot Bitcoin ETF being a &#8220;buy the rumor, sell the news&#8221; event. Butterfill noted in the report: If many truly believed that launch of the [spot] ETF in the US would a “buy the rumour, sell the news” event, we surely would expect to see inflows into short-bitcoin ETPs, instead, outflows over the last 9 weeks have amounted to US$7m. Notably, this is because &#8220;buy the rumor, sell the news&#8221; implies that investors buy assets ahead of an anticipated event (like the spot ETF launch) and sell them when the actual event occurs, often leading to a price decline. However, the observation here by Butterfill is quite the opposite. Instead of seeing inflows (more investment) into short-Bitcoin exchange-traded products (ETPs) (which benefit from a decline in Bitcoin&#8217;s price), there have been outflows amounting to $7 million over the last nine weeks. This indicates that investors might not expect a significant price drop following the spot Bitcoin ETF launch in the US, contradicting the &#8220;buy the rumor, sell the news&#8221; expectation. Ethereum And Altcoins: A Mixed Bag Of Sentiments Ethereum&#8217;s performance in the crypto asset investment space has also been noteworthy. The second-largest crypto by market cap saw inflows of $29 million, with the last nine weeks bringing in $215 million. This influx indicates a significant shift in investor sentiment towards Ethereum. While Solana, on the other hand, faced outflows amounting to $5.3 million, Cardano, Avalanche, and Litecoin witnessed inflows. Cardano saw $3.7 million, Avalanche $2 million, and Litecoin $1.4 million in inflows. The blockchain equity sector also started the year on a strong note, recording inflows of $24 million in the past week. Despite Bitcoin&#8217;s dominance in inflows, the flagship crypto has recently experienced a net outflow of $32.8 million, with short Bitcoin investment products also seeing a minor outflow last month. However, Bitcoin&#8217;s recent $113 million inflow has shown the asset&#8217;s move to rebound. Even in price performance, Bitcoin has increased by 5.2% over the past week and appears to be continuing its upward trajectory by 1.1% in the first 24 hours, with its trading price nearing the $45,000 mark. Contrastingly, Ethereum, after a 2% decline over the past week, is showing signs of recovery, increasing by nearly 1% in the past day. Other altcoins such as Solana, Cardano, Avalanche, and Litecoin have been less fortunate, experiencing significant losses, with Avalanche and Cardano being the top losers, down by 27.3% and 17% in the past week. Related Reading: Crypto Funds’ 11-Week Inflow Streak Snapped: Bitcoin Faces $33M Exodus As Altcoins Shine Litecoin and Solana, though also in the red, have seen slightly lesser declines. Solana is down by 10% over the past week and 1.6% in the past 24 hours, while Litecoin mirrors this trend, down by 10.8% over the week and 0.4% in the last day. Featured image from iStock, Chart from TradingView"
+    "source": "Crypto News Flash",
+    "date": "2024-01-08T19:38:36.000Z",
+    "title": "Breaking News: Grayscale Unveils Game-Changing 1.5% Fees for Bitcoin ETF",
+    "url": "https://www.crypto-news-flash.com/breaking-news-grayscale-unveils-game-changing-1-5-fees-for-bitcoin-etf/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-news-grayscale-unveils-game-changing-1-5-fees-for-bitcoin-etf",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Halving\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Grayscale adjusts its management fee from 2% to 1.5% for its potential Bitcoin ETF, seeking competitiveness. It adds Jane Street, Virtu, Macquarie Capital and ABN AMRO Clearing as authorized participants, strengthening its position. Grayscale, with an impressive asset management of around $27 billion, has announced a significant adjustment to its fee structure for its proposed [...]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-01-08T19:05:06.000Z",
-    "title": "Bloomberg Analyst Mike McGlone Issues Bitcoin Warning, Says ETF Hype Feels Like Previous Price Tops",
-    "url": "https://dailyhodl.com/2024/01/08/bloomberg-analyst-mike-mcglone-issues-bitcoin-warning-says-etf-hype-feels-like-previous-price-tops/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/07/BTC-in-the-Second-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Bloomberg Intelligence’s senior macro strategist Mike McGlone is warning that Bitcoin (BTC) is topping out and about to undergo a market correction. In a new discussion with crypto influencer Scott Melker, McGlone predicts that Bitcoin will start to decline after a months-long rally leading up to the possible approval of a spot Bitcoin exchange-traded fund [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/08/bloomberg-analyst-mike-mcglone-issues-bitcoin-warning-says-etf-hype-feels-like-previous-price-tops/\">Bloomberg Analyst Mike McGlone Issues Bitcoin Warning, Says ETF Hype Feels Like Previous Price Tops</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-08T19:28:21.000Z",
+    "title": "Bitcoin ETF Countdown: The Key Factors to Watch as the Big Day Approaches",
+    "url": "https://www.crypto-news-flash.com/bitcoin-etf-countdown-the-key-factors-to-watch-as-the-big-day-approaches/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etf-countdown-the-key-factors-to-watch-as-the-big-day-approaches",
+    "description": "<img width=\"1854\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin-BTC-with-ETF-letters-on-a-gray-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background.jpg 1854w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-300x194.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-1024x663.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-768x497.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-1536x994.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-150x97.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-450x291.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-with-ETF-letters-on-a-gray-background-1200x777.jpg 1200w\" sizes=\"(max-width: 1854px) 100vw, 1854px\" />The SEC may approve a Bitcoin ETF soon, marking a major step for cryptocurrency in the US. Investors watch for low fees, with Fidelity leading at 0.39% and rumors of BlackRock investing $2 billion. The crypto world is on the edge as the United States Securities and Exchange Commission (SEC) approaches a pivotal moment that [...]"
   }
 ]

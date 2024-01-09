@@ -1,58 +1,114 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-09T10:25:00.000Z",
-    "title": " What is a nonce in blockchain, explained ",
-    "url": "https://cointelegraph.com/explained/what-is-a-nonce-in-blockchain-explained",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mYzVmMjYzZWIwN2E0YjE1NDJkN2UzNjA4MGUyYzY3MS5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A nonce in a blockchain is a unique number used in mining, acting like a puzzle piece that miners must find through trial and error.</p>\n                    <p><p data-ct-widget=\"explained-block-content\">                </p><p><em>A nonce, short for “number used once,” is a special number that is assigned to a block in a blockchain during the mining process. It is an essential part of the <a href=\"https://cointelegraph.com/explained/proof-of-work-explained\">proof-of-work (PoW)</a> consensus mechanism. </em></p><p>The <a href=\"https://cointelegraph.com/explained/what-is-chain-reorganization-in-blockchain-technology\">nonce</a>, serving as a cryptographic puzzle, is a variable that miners manipulate to produce a hash value that satisfies particular requirements. Miners keep changing the nonce until they find a hash that possesses the necessary properties, which are frequently a set number of leading zeros. This iterative process, known as mining, ensures the security of the blockchain.</p><p><a href=\"https://cointelegraph.com/explained/what-is-a-nonce-in-blockchain-explained\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2024-01-09T11:02:39.000Z",
+    "title": "SEC Provides Comments on Latest Bitcoin ETF Filings: Report",
+    "url": "https://decrypt.co/212095/sec-provides-comments-on-latest-bitcoin-etf-filings-report",
+    "description": "Prospective Bitcoin ETF issuers are reportedly set to file updated documents Tuesday, responding to a round of comments from the SEC Monday."
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-09T10:20:31.000Z",
-    "title": "Bitcoin bucks the trend, outperforms MicroStrategy with ETF speculation fueling market moves",
-    "url": "https://cryptoslate.com/insights/bitcoin-bucks-the-trend-outperforms-microstrategy-with-etf-speculation-fueling-market-moves/",
-    "description": "<p>Quick Take Bitcoin displayed notable resilience in the latest market events, from $43,300 to $47,200. This surge markedly increased its market capitalization, moving from $850 billion to $925 billion. Jan. 8 was the fourth most significant one-day change in Bitcoin market cap since Dec. 2021. Interestingly, a divergence has been observed in the performance of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-bucks-the-trend-outperforms-microstrategy-with-etf-speculation-fueling-market-moves/\">Bitcoin bucks the trend, outperforms MicroStrategy with ETF speculation fueling market moves</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-09T11:00:43.000Z",
+    "title": "Bitcoin open interest soars past $20 billion, hits 16-month high",
+    "url": "https://cryptoslate.com/insights/bitcoin-open-interest-soars-past-20-billion-hits-16-month-high/",
+    "description": "<p>Quick Take Bitcoin open interest has witnessed an impressive increase in the past 24 hours, catapulting over $20 billion in notional value, a peak not observed since Dec. 2021, according to Coinglass. This surge appears to rekindle the market vigor exhibited during Bitcoin&#8217;s all-time high in Nov. 2021. In the past 24 hours, the open [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-open-interest-soars-past-20-billion-hits-16-month-high/\">Bitcoin open interest soars past $20 billion, hits 16-month high</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-09T10:54:37.000Z",
+    "title": "Digital Currency Group still owes Bitcoin, USD to Genesis, filing suggests",
+    "url": "https://cryptoslate.com/digital-currency-group-still-owes-bitcoin-usd-to-genesis-filing-suggests/",
+    "description": "<p>An ad hoc group of lenders associated with bankrupt Genesis alleged that Digital Currency Group has yet to fulfill its loan repayment requirements with the defunct lender because it still owes substantial amounts in both Bitcoin and US Dollars, according to a Jan. 8 court filing. On Jan. 5, DCG publicly claimed it had disbursed [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/digital-currency-group-still-owes-bitcoin-usd-to-genesis-filing-suggests/\">Digital Currency Group still owes Bitcoin, USD to Genesis, filing suggests</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "CryptoGlobe",
-    "date": "2024-01-09T10:33:06.000Z",
-    "title": "Memeinator Presale Smashes Past $3M Mark as Crypto Market Rallies",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/memeinator-presale-smashes-past-3m-mark-as-crypto-market-rallies/",
-    "description": "London, UK, January 9th, 2024, Chainwire Having surpassed $3 million raised in 3 months, the Memeinator presale is progressing at a blistering pace, with everything on track for the project plans in Q1. Currently priced at $0.0176 in stage 11 of its presale, there are only 4% of tokens left at this price before the stage sells […]\n"
+    "date": "2024-01-09T10:49:20.000Z",
+    "title": "Standard Chartered Forecasts Bitcoin Hitting $200,000 by End-2025 Post US Spot ETF Approval",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/standard-chartered-forecasts-bitcoin-hitting-200000-by-end-2025-post-us-spot-etf-approval/",
+    "description": "On 8 January 2024, Standard Chartered’s Global Research department released a research note titled “Bitcoin – Price upside from US spot ETF approval” that was written by Geoff Kendrick and Suki Cooper. The note provides a comprehensive analysis of the potential impact of the imminent approval of spot ETFs for Bitcoin by the U.S. Securities […]\n"
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2024-01-09T10:11:53.000Z",
-    "title": "$JTC Network, a New Layer 1 Blockchain Focused on Legal Enforcement, To List On BitMart Exchange",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/jtc-network-a-new-layer-1-blockchain-focused-on-legal-enforcement-to-list-on-bitmart-exchange/",
-    "description": "Chicago, Illinois, January 9th, 2024, Chainwire $JTC, the native token of a legal recourse Bitcoin branch, is soon to be listed on BitMart. The highly anticipated $JTC listing on BitMart has been confirmed. The coin will be listed at 10 AM UTC on 09/01. The listing announcement earlier in December brings the crypto industry one step […]\n"
+    "source": "Crypto Daily",
+    "date": "2024-01-09T11:04:51.000Z",
+    "title": "Bitcoin breaks out - correction or continued price surge?",
+    "url": "https://cryptodaily.co.uk/2024/01/bitcoin-breaks-out-correction-or-continued-price-surge",
+    "description": "As the hype over the impending Spot Bitcoin ETF announcement builds, a buying frenzy is taking over the crypto market. What is $BTC going to do when the news finally drops?"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-09T11:00:47.000Z",
+    "title": "Tunisian Universities’ Hackathons to Boost Understanding of Distributed Ledger Technology",
+    "url": "https://news.bitcoin.com/tunisian-universities-hackathons-to-boost-understanding-of-distributed-ledger-technology/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/coding.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Two Tunisian universities working in collaboration with the blockchain company Dar Blockchain and the Hashgraph Association are set to hold three-day hackathons. Hackathon participants are set to learn how decentralized finance (defi) can help revolutionize and make financial services widely available to Tunisian and African communities. Driving the Youth&#8217;s Adoption of Web3 Two Tunisian universities, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-09T10:13:24.000Z",
-    "title": "Blockchain Association responds to Warren’s crypto queries",
-    "url": "https://www.cryptopolitan.com/blockchain-association-responds-to-warrens/",
-    "description": "In a recent development within the cryptocurrency industry, the Blockchain Association has formally responded to Senator Elizabeth Warren&#8217;s inquiries regarding the hiring practices of the association, particularly about former government officials. This response comes after Senator Warren raised concerns about the potential influence of these hires on legislative efforts aimed at regulating the cryptocurrency sector, [&#8230;]"
+    "date": "2024-01-09T11:04:17.000Z",
+    "title": "Crypto investors are bullish as Bitcoin short positions drop and ETF hopes rise",
+    "url": "https://www.cryptopolitan.com/crypto-investors-are-bullish-as-bitcoin/",
+    "description": "In the first week of 2024, the cryptocurrency market has seen a surge in investor sentiment, driven by significant inflows into digital asset investment products and a notable decrease in short positions for Bitcoin.&#160; CoinShares data reveals that digital asset investment products, including exchange-traded products (ETPs), attracted a substantial $151 million in new investments during [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-09T10:33:42.000Z",
-    "title": "ARK Continues Coinbase Exodus: Sells $20.6M Worth of COIN Shares in Latest Move",
-    "url": "https://www.crypto-news-flash.com/ark-continues-coinbase-exodus-sells-20-6m-worth-of-coin-shares-in-latest-move/?utm_source=rss&utm_medium=rss&utm_campaign=ark-continues-coinbase-exodus-sells-20-6m-worth-of-coin-shares-in-latest-move",
-    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/02/Coinbase-7-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />A whopping $20.6 million worth of COIN has been offloaded by ARK Invest, while the stock continues to rise. The market looks forward to the approval of a Bitcoin Spot Exchange Traded Fund. In a continued journey from the previous year, Ark Invest has continued to offload its COIN holdings. The firm reportedly sold a [...]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-09T10:55:59.000Z",
+    "title": "Tech Trends of 2024: What Lies Ahead in the World of Technology",
+    "url": "https://www.cryptopolitan.com/tech-trends-of-2024-what-lies-ahead-in-the-world-of-technology/",
+    "description": "As 2024 unfolds, the technology landscape is poised for significant developments across various domains. Leading research firms and experts have offered insights into the trends that are expected to shape the year ahead. From the evolution of Artificial Intelligence (AI) to the surge of FemTech in healthcare, these trends promise to influence industries and redefine [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-09T10:51:25.000Z",
+    "title": "Singapore MAS expands alert list with new crypto entities",
+    "url": "https://www.cryptopolitan.com/singapore-mas-expands-alert-list/",
+    "description": "In a significant development in cryptocurrency regulation, the Monetary Authority of Singapore (MAS) has expanded its scrutiny to include more entities in its Investor Alert List. The recent addition of the noncustodial crypto wallet, imToken, and the BKEX crypto exchange marks a new phase in Singapore&#8217;s regulatory efforts to oversee the burgeoning crypto market. MAS&#8217;s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-09T10:45:33.000Z",
+    "title": "Standard Chartered Bank expects spot Bitcoin ETFs to attract $50-100 billion inflows in 2024",
+    "url": "https://www.cryptopolitan.com/spot-bitcoin-etfs-50-100-b-inflows-2024/",
+    "description": "The financial industry is on the brink of a significant transformation with the expected approval of spot Bitcoin ETFs by the Securities and Exchange Commission (SEC). Industry experts, including Standard Chartered Bank, project these funds could attract an impressive $50-100 billion in inflows this year. This development marks a pivotal moment, comparable to the launch [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-09T10:40:51.000Z",
+    "title": "Razer Blade Revolutionizes Gaming: New Laptops at CES 2024",
+    "url": "https://www.cryptopolitan.com/razer-blade-new-gaming-laptops-at-ces-2024/",
+    "description": "Razer Blade has once again taken the gaming world by storm, unveiling its latest line of laptops at CES 2024. These new models are not just upgrades but revolutionary leaps forward in gaming technology. Let&#8217;s look at what the company has to offer this year. Razer Blade 16: A new benchmark in gaming displays At [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-09T10:59:36.000Z",
+    "title": "Bitcoin ETF applicants ramp up BTC purchases ahead of SEC verdict",
+    "url": "https://crypto.news/bitcoin-etf-applicants-btc-purchases-sec-verdict/",
+    "description": "Bitcoin (BTC) price soared above $47,000 on Jan. 8 for the first time in 21 months amid Bitcoin ETF approval anticipation. Recent developments surrounding the U.S. Securities and Exchange Commission’s (SEC) looming verdict on Spot ETF filings have been pivotal&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-09T10:58:10.000Z",
+    "title": "Threshold outstrips DeFi market growth with optimistic 30% rally and TVL surge",
+    "url": "https://crypto.news/threshold-uutstrips-defi-market-growth-with-optimistic-30-rally-and-tvl-surge/",
+    "description": "Threshold has seen a price increase of about 30% over the seven days to press time"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-09T11:00:57.000Z",
+    "title": "Bitcoin Spot ETF: Analyst Predicts 2 Scenarios For Price Beforehand",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-spot-etf-analyst-predicts-2-scenarios-for-price-beforehand/",
+    "description": "Amid the anticipation circling the Bitcoin Spot Exchange-Traded Fund (ETF) approval, crypto analyst CryptoQuant has made a bold prediction for the digital asset beforehand. 2 Major Scenarios For Bitcoin Price CryptoQuant, a well-known cryptocurrency expert, has revealed two major scenarios for Bitcoin in advance to BTC Spot Exchange-Traded Fund (ETF). According to the analyst, BTC will undergo a bullish and bearish scenario before approval from the United States Securities and Exchange Commission (SEC). The analyst&#8217;s prediction delves into Bitcoin price support and resistance analysis. CryptoQuant&#8217;s forecast was based on on-chain data of the average unit price of BTC holders. Related Reading: Analyst Predicts $570 Billion Inflow Amid Bitcoin Spot ETF Approval The post read: 2 Scenarios Before Bitcoin Spot ETF Approval and How to Respond. This post explains how to analyze the Bitcoin price support and resistance using on-chain data of the average unit price of #Bitcoin holders. For the bullish scenario, CryptoQuant noted that the percentage of daily to weekly holders is expected to increase by 8% if BTC reaches $48,500. This suggests &#8220;an overheated market and reinforces a correction.&#8221; The analyst asserted that the $48,500 price mark is the &#8220;average unit price&#8221; for holders between 2-3 years. In addition, a primary resistance can also be formed at this level. Meanwhile, for the bearish scenario, CryptoQuant noted a drop in Bitcoin price around 2-30% in the past during its upswing. The crypto expert also added that BTC could form a support level between $30,000 to $34,000 if the price plummets. Furthermore, CryptoQuant highlighted an average unit price of $34,000 for both the 18-month to two-year and one-week to one-month holding periods. Meanwhile, the average unit price for the holding period of three to twelve months is $30,000. So far, the expert has highlighted rising dangers and uncertainty as the approval outcome of the Bitcoin Spot ETF approaches. CryptoQuant has issued a warning to the crypto community not to take on the risk as this is &#8220;unnecessary.&#8221; BTC Price Dip After Approval Outcome Institutional trading analyst MacroScope has forecasted a price dip for Bitcoin following the ETF approval outcome. &#8220;We know there will be a dip at some point after approval,&#8221; MacroScope stated. The analyst further added that the dip could take place a day or week after the outcome. However, he asserted that the exact timeframe is &#8220;hard to predict, but it should surprise no one.&#8221; Related Reading: Bitcoin Price Takes Major Hit But Uptrend Far From Over – Here’s Why MacroScope also highlighted a few factors to watch out for during the dip. The expert noted that &#8220;once the dip stabilizes, the next upward move could be a ripper.&#8221; In addition, billions of funds will be waiting for the turn, trying to time it just right. However, MacroScope has suggested allocating a starting position in order not to miss this turn. As of the time of writing, Bitcoin was trading at $46,860, indicating an increase of over 6% in the past day. Its trading volume is significantly up by over 70% in the past 24 hours, according to CoinMarketCap Featured image from iStock, chart from Tradingview.com"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-09T10:42:09.000Z",
+    "title": "3 Altcoins Set to Dominate 2024 + Key Crypto Narratives",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-altcoins-set-to-dominate-2024-key-crypto-narratives/",
+    "description": "<p>What altcoins will change the game for the industry and users in 2024? I’m sure you have your own ideas for this and that’s where you put your money. We have some ideas too. And today, we are going to share these altcoins with you. The Importance of Narratives If you had asked yourself or [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-altcoins-set-to-dominate-2024-key-crypto-narratives/\">3 Altcoins Set to Dominate 2024 + Key Crypto Narratives</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-09T10:24:35.000Z",
-    "title": "Is SOL Heading For $163? Analysts Identify Key Resistance Levels",
-    "url": "https://coinedition.com/is-sol-heading-for-163-analysts-identify-key-resistance-levels/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana Year-To-Date Performance\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Solana-Year-To-Date-Performance-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cryptocurrency analysts are closely watching Solana&#8217;s (SOL) price movement as emerging patterns suggest a potential rise to $163. Veteran traders Ali and Rekt Capital have identified key resistance levels that, if surpassed, could signal a significant uptrend. Ali notes a bull flag formation on the hourly chart, with $110 as the critical resistance level. A [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/is-sol-heading-for-163-analysts-identify-key-resistance-levels/\">Is SOL Heading For $163? Analysts Identify Key Resistance Levels</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-09T10:15:02.000Z",
-    "title": "Crypto Bear Says Fakeout Rallies and Then Massive Corrections Coming for Bitcoin and Ethereum",
-    "url": "https://dailyhodl.com/2024/01/09/crypto-bear-says-fakeout-rallies-and-then-massive-corrections-coming-for-bitcoin-and-ethereum/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Crypto-Bear-Says-Fakeout.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto bear believes that major corrections are coming for Bitcoin (BTC) and Ethereum (ETH) after fleeting rallies. Pseudonymous trader Capo tells his 83,873 Telegram subscribers that the possible approval this week of a spot Bitcoin exchange-traded fund (ETF) will likely ignite a short-lived rally for Bitcoin and other digital assets. “Whales are [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/09/crypto-bear-says-fakeout-rallies-and-then-massive-corrections-coming-for-bitcoin-and-ethereum/\">Crypto Bear Says Fakeout Rallies and Then Massive Corrections Coming for Bitcoin and Ethereum</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-09T10:43:00.000Z",
+    "title": "Lawyer Points Out Silence in SEC v Ripple: Has the SEC Given Up?",
+    "url": "https://coinedition.com/lawyer-points-out-silence-in-sec-v-ripple-has-the-sec-given-up/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/SEC-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC-XRP\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/SEC-3.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/SEC-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/SEC-3-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/SEC-3-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/SEC-3-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a series of tweets on social media platform X, U.S. attorney Fred Rispoli pointed out the silence around the ongoing lawsuit between the U.S. Securities and Exchange Commission (SEC) and Ripple Labs.&#160; As noted in the tweet, the SEC has until February 12 to complete the damages-related discovery. So far, Rispoli stated that the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/lawyer-points-out-silence-in-sec-v-ripple-has-the-sec-given-up/\">Lawyer Points Out Silence in SEC v Ripple: Has the SEC Given Up?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

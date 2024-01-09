@@ -1,72 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-09T16:23:41.000Z",
+    "title": "Bitcoin ETF Fever Drives Ethereum to 32-Month Low Versus BTC",
+    "url": "https://www.coindesk.com/markets/2024/01/09/bitcoin-etf-fever-drives-ethereum-to-32-month-low-versus-btc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Ether has lost 43% of its value against bitcoin since Sept. 7."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-09T16:22:36.000Z",
+    "title": "Fox, Polygon Release Blockchain-Powered Tool 'Verify' to Weed Out Deepfakes",
+    "url": "https://www.coindesk.com/tech/2024/01/09/fox-polygon-release-blockchain-powered-tool-verify-to-weed-out-deepfakes/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "\"Verify\" is an open-source protocol built on Polygon's PoS blockchain, specifically used to establish the origin and history of registered media."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-01-09T16:02:30.000Z",
-    "title": " Cosmos developers propose reducing ATOM inflation rate ",
-    "url": "https://cointelegraph.com/news/cosmos-developers-propose-reducing-atom-inflation-rate",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzZmMWRiOGUtMDUxYS00ZGY4LWI2N2ItMzgyMTVhZGM0ZDc1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The minimum inflation rate for ATOM could potentially be reduced to 0% per annum. </p>\n                    <p><p>Developers of inter-blockchain communications (IBC) protocol Cosmos want to further reduce the inflation of its native token, ATOM.</p><p>According to a Jan. 9 <a href=\"https://www.mintscan.io/cosmos/proposals/868\" target=\"_blank\" rel=\"noopener nofollow\">proposal</a> by StakeLab, a staking and relaying hub on the Cosmos ecosystem, developers wish to reduce the minimum inflation of ATOM to 0%. ATOM's current inflation rate is between 7% and 20% and will be reduced to 0% or 20% if the proposal passes. A quorum of 40% of ATOM's outstanding supply and sufficient yes votes are required before Jan. 23 for the proposal to pass. In outlining the rationale for the proposal, StakeLabs wrote:</p><p>StakeLab further explained that the community should consider the viability of transferring protocol revenue from emerging Cosmos consumer chains to ATOM stakers instead of issuing tokens outright. \"It may not make sense to maintain a 7% annual emission rate if the revenue from consumer chains becomes substantial,\" the firm wrote.</p><p><a href=\"https://cointelegraph.com/news/cosmos-developers-propose-reducing-atom-inflation-rate\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-09T16:34:21.000Z",
+    "title": " Fox Corp launches Polygon-based blockchain platform to address AI firms’ use of content ",
+    "url": "https://cointelegraph.com/news/fox-blockchain-platform-content-ai",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNDJlNjlhYjAtMDQ0ZC00NWQ3LTk5MTMtMWM1MTg2MTM3Y2NkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Polygon said the Verify protocol would be able to confirm whether Fox-created content used on another platform had been verified by the media outlet.</p>\n                    <p><p>The Fox Corporation, the media conglomerate behind brand names including Fox News, launched a blockchain platform for firms to track how their content was being used online.</p><p>In a Jan. 9 announcement, Polygon Labs <a href=\"https://polygon.technology/blog/fox-corporation-taps-polygon-pos-to-power-verify-an-open-protocol-for-content-and-image-verification\" target=\"_blank\" rel=\"noopener nofollow\">said</a> Fox had released the Verify platform “to establish the history and origin of registered media” used by artificial intelligence (AI) firms. Polygon developed Verify with Fox’s in-house technology team.</p><p>“With this technology, readers will know for sure that an article or image that purportedly comes from a publisher in fact originated at the source,” said Polygon. “As AI-generated text and images flow more widely online, Verify will be able to help consumers not only identify the veritable source of content, but also give media publishers more control over relationships with AI platforms scraping the web.”</p><p><a href=\"https://cointelegraph.com/news/fox-blockchain-platform-content-ai\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-09T15:45:08.000Z",
-    "title": "Exchange flows show short term buyers preparing for volatility while long term hodl",
-    "url": "https://cryptoslate.com/exchange-flows-show-sths-preparing-for-volatility-while-lths-hodl/",
-    "description": "<p>As the crypto market holds its breath for the U.S. Securities and Exchange Commission&#8217;s (SEC) impending decision on the first spot Bitcoin Exchange-Traded Fund (ETF), a close analysis of Bitcoin&#8217;s on-chain data reveals a market in a state of cautious anticipation. Between Jan. 4 and Jan. 8, 2024, Bitcoin&#8217;s price increased from $44,230 to $46,944 after [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/exchange-flows-show-sths-preparing-for-volatility-while-lths-hodl/\">Exchange flows show short term buyers preparing for volatility while long term hodl</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-09T16:35:22.000Z",
+    "title": "Ethereum-Bitcoin ratio drops to historic low as ETF approval speculation heightens",
+    "url": "https://cryptoslate.com/ethereum-bitcoin-ratio-drops-to-historic-low-as-etf-approval-speculation-heightens/",
+    "description": "<p>Ethereum&#8217;s value against Bitcoin has dropped to historical lows as market anticipation grows for an imminent launch of a spot exchange-traded fund in the U.S. Data from Paris-based crypto intelligence platform Kaiko showed that the ETH/BTC ratio has steadily declined since the smart-contract-enabled blockchain transitioned into a proof-of-stake network in September 2022. During the last [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereum-bitcoin-ratio-drops-to-historic-low-as-etf-approval-speculation-heightens/\">Ethereum-Bitcoin ratio drops to historic low as ETF approval speculation heightens</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-01-09T16:30:44.000Z",
+    "title": "Elon Musk’s X to launch peer-to-peer payments this year",
+    "url": "https://cryptobriefing.com/elon-musks-x-launch-peer-2-peer-payments-2024/?utm_source=feed&utm_medium=rss",
+    "description": "X to launch P2P payments, transforming the social media app into a financial services provider and realizing Musk's ambitions."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-09T16:02:54.000Z",
-    "title": "3 Cryptos to Buy Before the Next Bull Market Sparks 10x Gains",
-    "url": "https://cryptodaily.co.uk/2024/01/3-cryptos-to-buy-before-the-next-bull-market-sparks-10x-gains",
-    "description": "Discover the top three cryptocurrencies poised for explosive growth in the next bull market. Learn which assets could potentially offer 10x gains and why they stand out in the rapidly evolving crypto landscape."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-09T16:01:00.000Z",
-    "title": "Meme Moguls Price Prediction – Solana (SOL) NFT Sales Drop, Ethereum (ETH) Prices Up",
-    "url": "https://cryptodaily.co.uk/2024/01/meme-moguls-price-prediction-solana-sol-nft-sales-drop-ethereum-eth-prices-up",
-    "description": "Cryptocurrency markets continue to evolve with varying trends, particularly in the case of Meme Moguls, Solana (SOL), and Ethereum (ETH)."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-09T15:44:30.000Z",
-    "title": "Pullix (PLX) Defies Market Volatility, Gains 70% In Presale Stage 5 Surge With Stellar (XLM) And Polygon (MATIC)",
-    "url": "https://cryptodaily.co.uk/2024/01/pullix-plx-defies-market-volatility-gains-70-in-presale-stage-5-surge-with-stellar-xlm-and-polygon-matic",
-    "description": "People across the globe believe that the crypto market will do good in 2024. Hence, they want to invest in cryptocurrencies that can give great returns on investments."
+    "date": "2024-01-09T16:17:36.000Z",
+    "title": "Solana's (SOL) $100 Comeback: Unveiling Game-Changing Trends and Profitable Predictions",
+    "url": "https://cryptodaily.co.uk/2024/01/solanas-sol-100-comeback-unveiling-game-changing-trends-and-profitable-predictions",
+    "description": "Dive into the dynamic world of cryptocurrency as we unravel Solana's promising trajectory, showcasing positive market indicators and technical trends that point towards a short to medium-term surge, potentially reaching the elusive $160 threshold. Explore the surge in developer engagement, coupled with a remarkable 600% price rally in 2023, reflecting growing confidence in Solana’s capabilities."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-09T16:02:00.000Z",
-    "title": "Uniswap Price Prediction 2024-2033: Will UNI Keep Steady?",
-    "url": "https://www.cryptopolitan.com/uniswap-price-prediction/",
-    "description": "Uniswap Price Prediction 2024-2033 For anyone considering the switch from centralized finance (CeFi) to decentralized finance (DeFi), here&#8217;s a thought: Why do we constantly update the Uniswap Price Prediction? The fight is on for the survival of the fittest crypto project, and we need to keep you informed despite social media maneuvers by certain quarters! [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-09T15:48:42.000Z",
-    "title": "Why is the crypto market up today? BTC hovers around $47K",
-    "url": "https://www.cryptopolitan.com/why-is-the-crypto-market-up-today-btc-at-47k/",
-    "description": "Today&#8217;s surge in the crypto market, with Bitcoin (BTC) hovering around the $47,000 mark, has captivated the attention of investors, enthusiasts, and analysts alike. Several interconnected factors contribute to the volatility and subsequent surges in the crypto market, and today&#8217;s rally is no exception. Here is what&#8217;s happening. Crypto ecosystems pick up pace The rise [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-09T16:00:13.000Z",
-    "title": "Global Mega Bank Standard Chartered Releases Bullish Forecast For Spot Bitcoin ETFs",
-    "url": "https://www.newsbtc.com/news/bitcoin/standard-chartered-spot-bitcoin-etf/",
-    "description": "Standard Chartered Bank is the latest to give its predictions on the impact Spot Bitcoin ETFs could have on Bitcoin’s price in the long term. The bank took a bullish stance as they predicted that BTC could rise to unprecedented heights by the end of 2025.  Bitcoin Could Hit $200,000 By End Of 2024 According to a report by Standard Chartered shared on the X (formerly Twitter) platform, BTC&#8217;s price could reach $200,000 by end-2025. There is the potential for Bitcoin to hit this price level with $50 to $100 billion flowing into the Spot Bitcoin ETFs, says the bank’s Head of Digital Assets Research Geoff Kendrick and Precious Metal Analyst Suki Cooper. Related Reading: Shiba Inu Breakout To $0.001? Rumored 9.25 Trillion SHIB Token Burn Could Be The Catalyst Their projections stem from the fact that an approval of these Spot Bitcoin ETFs could happen as soon as this week. If that happens, Kendrick and Cooper state that will be a key driver of Bitcoin’s price to the upside, something similar to what happened with Gold ETPs. Interestingly, Standard Chartered predicts that BTC could hit $100,000 before this year runs out.  Elaborating on BTC enjoying similar gains to Gold (when Gold ETPs were approved), the bank expects that such gains will materialize over a shorter period for the flagship crypto token. This is based on their view that the Spot BTC ETF market will develop quicker than the Gold ETPs did.  The amount of inflows that these Spot Bitcoin ETFs could witness has continued to be up for debate. Crypto research firm Galaxy Digital took a more conservative stance as they project that only about $14 billion will flow into these funds in the first year. Meanwhile, VanEck’s advisor, Gabor Gurbacs, is only choosing to look at the long term. BTC reaches new 1-year high &#124; Source: BTCUSD on Tradingview.com “Trillions, Not Billions” In The Long Term Commenting on Standard Chartered’s report, Gurbacs mentioned that he prefers to look at how much could flow into these funds in the longer term rather than now. With that in mind, he projects that trillions of dollars will flow into Spot Bitcoin ETFs in the long term. Specifically, he makes a case for $2.5 trillion flowing into these BTC assets.  Related Reading: Rocket Carrying Physical Dogecoin To The Moon Takes Off, But Why Is Price Struggling? He explained that this could easily happen, considering that there are roughly $500 trillion in assets globally. As such, $2.5 trillion, representing just 0.5% of the global allocation, flowing into the Bitcoin ecosystem shouldn’t be a problem. He also bases his projection on the fact that Bitcoin won’t stop rising in value as fiat currencies continue to weaken. BTC has no top because fiat has no bottom, he says. Gurbacs also expects that Bitcoin will enjoy more acceptance once these Spot Bitcoin ETFs are approved. He says that banks, financial service firms, and regulators will turn from “enemies of Bitcoin to allies of Bitcoin.” This is “immeasurably valuable” as BTC adoption can level, he remarked. Featured image from Premium Times, chart from Tradingview.com"
+    "date": "2024-01-09T16:36:15.000Z",
+    "title": "imToken’s Plea for Blacklist Removal: Engaging with Singapore’s MAS",
+    "url": "https://www.cryptopolitan.com/imtoken-plea-blacklist-removal-singapore-mas/",
+    "description": "Cryptocurrency wallet firm imToken found itself in a challenging position after being added to the Investor Alert List (IAL) by the Monetary Authority of Singapore (MAS). The IAL serves as a cautionary measure to inform investors about entities that may be considered potentially risky or suspicious. The move by MAS came as a significant setback [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-09T16:00:40.000Z",
-    "title": "Analysts’ Price Forecast for Trending Tokens: XRP (XRP), Injective (INJ) and Everlodge (ELDG)",
-    "url": "https://www.crypto-news-flash.com/analysts-price-forecast-for-trending-tokens-xrp-xrp-injective-inj-and-everlodge-eldg/?utm_source=rss&utm_medium=rss&utm_campaign=analysts-price-forecast-for-trending-tokens-xrp-xrp-injective-inj-and-everlodge-eldg",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-09T131152.507.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-09T131152.507.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-09T131152.507-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-09T131152.507-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-09T131152.507-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />As 2024 gets underway, the crypto market has recorded varying price movements from several crypto coins. Tokens like XRP (XRP) are experiencing a downward price movement while the Injective (INJ) token is showing bullish signs. Meanwhile, Everlodge (ELDG) has drawn the attention of whales, making the token one of the best crypto to buy in [...]"
+    "date": "2024-01-09T16:37:03.000Z",
+    "title": "Bitcoin ETF Race Heats Up: BlackRock and VanEck Speed Up SEC Filings",
+    "url": "https://www.crypto-news-flash.com/bitcoin-etf-race-heats-up-blackrock-and-vaneck-speed-up-sec-filings/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etf-race-heats-up-blackrock-and-vaneck-speed-up-sec-filings",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Cryptocurrency-coins-with-ETF-letters-on-them-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />BlackRock and VanEck swiftly adjust bitcoin ETF filings, demonstrating responsiveness to SEC feedback in a dynamic regulatory environment. SEC&#8217;s proactive engagement highlights the significance of imminent decisions, setting the stage for potential industry-shaping developments. Amidst a swiftly evolving regulatory landscape, financial powerhouses BlackRock (BLK) and VanEck, both part of the group of 13 firms vying [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-09T16:00:00.000Z",
-    "title": "CFTC Sounds Alarm on DeFi: Lack of Accountability Poses Serious Risks",
-    "url": "https://coinedition.com/cftc-sounds-alarm-on-defi-lack-of-accountability-poses-serious-risks/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/11/DEFI-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/11/DEFI-4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/11/DEFI-4-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The US Commodity Futures Trading Commission (CFTC) has issued a stark warning about Decentralized Finance (DeFi), highlighting the urgent need for clear lines of responsibility and accountability. In a report titled &#8220;Decentralized Finance,&#8221;&#160; Commissioner Christy Goldsmith Romero emphasized that DeFi remains at the center of illicit finance risks, cyber hacks, and theft. The report&#8217;s central [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cftc-sounds-alarm-on-defi-lack-of-accountability-poses-serious-risks/\">CFTC Sounds Alarm on DeFi: Lack of Accountability Poses Serious Risks</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-09T16:22:06.000Z",
+    "title": "Solana’s (SOL) Price Drops Below $100: Is This the Start of a New Trend?",
+    "url": "https://www.crypto-news-flash.com/solanas-sol-price-drops-below-100-is-this-the-start-of-a-new-trend/?utm_source=rss&utm_medium=rss&utm_campaign=solanas-sol-price-drops-below-100-is-this-the-start-of-a-new-trend",
+    "description": "<img width=\"1920\" height=\"1282\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-1024x684.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-1536x1026.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-24x16.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-36x24.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/10/bear-4838870_1920-48x32.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Solana (SOL) has started the year on a downtrend, recording successive bearish weekly candlesticks for the first time in over three months as it continued to drop from its Christmas high. SOL dipped below $100 yesterday to bottom out at $85, but it has now recouped some of the losses and trades 6% higher today, [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-09T16:21:49.000Z",
+    "title": "El Salvador’s Global Leadership in Driving Economic Resilience",
+    "url": "https://www.crypto-news-flash.com/el-salvadors-global-leadership-in-driving-economic-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvadors-global-leadership-in-driving-economic-resilience",
+    "description": "<img width=\"509\" height=\"339\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/istockphoto-1340083999-170667a.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/01/istockphoto-1340083999-170667a.jpg 509w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/istockphoto-1340083999-170667a-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/01/istockphoto-1340083999-170667a-104x69.jpg 104w\" sizes=\"(max-width: 509px) 100vw, 509px\" />El Salvador, led by Nayib Bukele, defies the fourth round of economic crises, standing out with bold policies and tangible improvements. Bitcoin and Bukele&#8217;s innovative vision position El Salvador as a global reference, facing criticism and geopolitical pressures. El Salvador, under the presidency of Nayib Bukele, has emerged as a global leader in the midst [...]"
   }
 ]

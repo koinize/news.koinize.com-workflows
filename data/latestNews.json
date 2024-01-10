@@ -1,58 +1,93 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-10T09:22:35.000Z",
-    "title": "BTC Supply in Profit Nears 90% as Price Rallies on Expected Bitcoin ETF Approval",
-    "url": "https://www.coindesk.com/markets/2024/01/10/btc-supply-in-profit-nears-90-as-price-rallies-on-expected-bitcoin-etf-approval/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Just under half of the bitcoin supply was in profit at the start of last year."
+    "date": "2024-01-10T09:46:57.000Z",
+    "title": "Ether Jumps Over $2.4K as Traders Bet on Possible Ether ETF Next",
+    "url": "https://www.coindesk.com/markets/2024/01/10/ether-jumps-over-24k-as-traders-bet-on-possible-ether-etf-next/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BlackRock had previously filed an S-1 form with the U.S. Securities and Exchange Commission (SEC) for its iShares Ethereum Trust, a spot ether exchange-traded fund (ETF)."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-01-10T10:04:19.000Z",
+    "title": "Twitter Safety: ‘Compromised’ SEC Account Posted Fake Bitcoin ETF Tweet, Didn’t Enable 2FA",
+    "url": "https://decrypt.co/212251/twitter-safety-compromised-sec-account-posted-fake-bitcoin-etf-tweet-didnt-enable-2fa",
+    "description": "Twitter confirmed the regulator's account was compromised after a third party obtained control over a phone number associated with it."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-10T10:02:22.000Z",
+    "title": " Bitcoin ETF may fail to spark BTC price breakout above $48K — analysis ",
+    "url": "https://cointelegraph.com/news/bitcoin-etf-may-fail-btc-price-breakout-48k-analysis",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvODJhYTkwM2QtYTUyNS00MGI0LTgxMTktNzFlNjA4Y2FjZmUwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin may stay rangebound even once the drama surrounding the ETF passes, according to the latest BTC price debate.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) seems unlikely to produce a snap bull market response to the U.S. ETF approval, analysis warns.</p><p>In a market update on Jan. 10, trading firm QCP Capital acknowledged a lack of upside BTC price volatility.</p><p>Bitcoin saw <a href=\"https://cointelegraph.com/news/sec-account-hacked-no-spot-bitcoin-etf-approval\">whipsaw price moves</a> overnight as a hacker published a false “official” approval of the first U.S. spot Bitcoin exchange-traded fund (ETF).</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-may-fail-btc-price-breakout-48k-analysis\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-10T09:35:36.000Z",
-    "title": "Bitcoin nears all-time profitability peak with 91% supply now in the green",
-    "url": "https://cryptoslate.com/insights/bitcoin-nears-all-time-profitability-peak-with-91-supply-now-in-the-green/",
-    "description": "<p>Quick Take As per recent data from Glassnode, an impressive 91.20% of the total circulating supply of Bitcoin, amounting to nearly 17,553,000 BTC, has entered a profitable state. This figure, one of the highest in Bitcoin&#8217;s profit regime, reflects a solid bullish trend in the digital asset market. In comparison, the highest recorded profit regime [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-nears-all-time-profitability-peak-with-91-supply-now-in-the-green/\">Bitcoin nears all-time profitability peak with 91% supply now in the green</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-10T10:09:29.000Z",
+    "title": "SEC faces congressional scrutiny after social media account hack exposes weak security",
+    "url": "https://cryptoslate.com/sec-faces-congressional-scrutiny-after-social-media-account-hack-exposes-weak-security/",
+    "description": "<p>Social Media platform X (formerly Twitter) revealed that the U.S. Securities and Exchange Commission (SEC) official account was compromised, in part, due to a lack of vital security measures, including two-factor authentication. On Jan. 9, the SEC&#8217;s X account was compromised and used to post fake news about approving a spot Bitcoin exchange-traded fund (ETF). [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/sec-faces-congressional-scrutiny-after-social-media-account-hack-exposes-weak-security/\">SEC faces congressional scrutiny after social media account hack exposes weak security</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-10T09:30:15.000Z",
-    "title": "Nigerian Payments Fintech Startup Cleva Secures $1.5 Million in Pre-Seed Funding",
-    "url": "https://news.bitcoin.com/nigerian-payments-fintech-startup-cleva-secures-1-5-million-in-pre-seed-funding/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/finance.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Y Combinator-backed Nigerian fintech startup has reportedly raised $1.5 million in pre-seed funding. Tolu Alabi, the CEO of Cleva, expressed confidence in her and fellow co-founder Philip Abel’s ability to navigate the competitive fintech market, citing their background as a factor that counts in the startup’s favor. Cleva Founders &#8216;Uniquely Qualified&#8217; Nigerian fintech startup [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-10T10:02:01.000Z",
+    "title": "PayPal’s PYUSD Stablecoin Turns To DeFi For Liquidity Boost",
+    "url": "https://cryptodaily.co.uk/2024/01/paypals-pyusd-stablecoin-turns-to-defi-for-liquidity-boost",
+    "description": "PayPal’s PYUSD stablecoin, which has been trailing more established stablecoins such as USDT and USDC, is leveraging DeFi to give itself a liquidity boost."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T09:38:56.000Z",
-    "title": "Revolutionizing Mobile Device Interaction: Introducing the Rabbit R1",
-    "url": "https://www.cryptopolitan.com/mobile-device-interaction-the-rabbit-r1/",
-    "description": "In the rapidly evolving world of technology, Rabbit Inc., a Santa Monica-based AI startup, has launched a groundbreaking mobile device, the Rabbit R1. This innovative product stands out in the crowded AI market, offering unique features and a new approach to interacting with mobile applications. A new era of smart devices The Rabbit R1 redefines [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-10T09:49:25.000Z",
+    "title": "NoahArk Receives $2.4M Investment From EOS Network Ventures",
+    "url": "https://cryptodaily.co.uk/2024/01/noahark-receives-24m-investment-from-eos-network-ventures",
+    "description": "The race to decide which EVM chain offers the best DeFi experience is heating up. EOS Network Ventures (ENV) has just announced a major investment into decentralized finance in the hopes of bringing the EOS EVM chain up to speed"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T09:30:28.000Z",
-    "title": "Fake SEC’s Tweets spark Bitcoin price volatility",
-    "url": "https://www.cryptopolitan.com/fake-secs-tweets-spark-bitcoin-volatility/",
-    "description": "The U.S. Securities and Exchange Commission (SEC) found itself at the center of a major cryptocurrency market disruption as hackers gained access to its official Twitter account, known as SEC X. The breach led to a series of fake tweets that caused significant price volatility in the Bitcoin (BTC) market, liquidating nearly $90 million worth [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-10T10:00:00.000Z",
+    "title": "Analysts endorse Everlodge, Hedera, and Kaspa as coins under $0.50 to watch",
+    "url": "https://crypto.news/analysts-endorse-everlodge-hedera-and-kaspa-as-coins-under-0-50-to-watch/",
+    "description": "Analysts are convinced Everlodge, Hedera, and Kaspa are top coins under $0.50 to watch. The ELDG presale is ongoing"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T09:26:57.000Z",
-    "title": "Binance Futures offers $170K in USDC rewards campaign",
-    "url": "https://www.cryptopolitan.com/binance-futures-offers-170k-in-usdc-rewards/",
-    "description": "Binance Futures, the leading crypto derivatives exchange, has recently announced a new promotional campaign involving $170,000 in USDC rewards to increase engagement and awareness of its newly launched USDC-margined perpetual contracts. This move comes as the platform continues to dominate the crypto futures market, with an impressive $60 billion daily volume and a significant hold [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T09:14:17.000Z",
-    "title": "Apple removes major crypto exchanges in India from its App Store; here’s why",
-    "url": "https://www.cryptopolitan.com/apple-removes-major-crypto-exchanges-india/",
-    "description": "Apple has withdrawn several prominent offshore cryptocurrency exchanges from its App Store in India. This decision follows the Indian government&#8217;s recent compliance notices to nine cryptocurrency entities. Among the removed apps are well-known platforms such as Binance, KuCoin, and OKX. India&#8217;s regulatory crackdown on cryptocurrency The move follows show-cause notices on December 28, when the [&#8230;]"
+    "source": "NewsBTC",
+    "date": "2024-01-10T10:00:58.000Z",
+    "title": "Shiba Inu Lead Dev Hints At Major Progress As SHIB Holds Key Support",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-major-progress-shib-key-support/",
+    "description": "Shiba Inu lead developer Shytoshi Kusama has hinted at significant progress in the project&#8217;s ambitions. Kusama&#8217;s statements, shared on X (formerly Twitter), provide insights into the strategic direction of Shiba Inu and its integration with broader internet infrastructure. Alluding to the fake spot Bitcoin ETF approval news, Kusama stated, “Hey, SHIBARMY! While everyone is focused on approved or not, hacked or not, we remained focused on creating what we said we would: A Network State. Since I&#8217;m hearing a lot of Web 3 but not enough WEB, let&#8217;s talk about SHIB NAME TOKENS.” Elaborating on the project&#8217;s direction, Kusama highlighted the importance of domains in the digital world: “Domains are the identity layer of the Internet. For 40 years, they have made using the Internet easier for all. If you type http://shib.io into your browser, you go to the Shib website. What if you could do more?” In a push to gain adoption, Shiba Inu is partnering with D3 to apply for the .shib Top-Level Domain (TLD), aiming to make a significant impact on the internet landscape. “This will allow us to tap into infrastructure that is used by 5.3 BILLION people worldwide,” Kusama noted, emphasizing the extensive reach of this endeavor. Related Reading: Shiba Inu Breakout To $0.001? Rumored 9.25 Trillion SHIB Token Burn Could Be The Catalyst The plan involves utilizing domains to establish a seamless identity layer for Shib across the internet, without necessitating special software, wallets, plugins, or extensions. This move could drastically simplify user interaction with the Shiba Inu ecosystem, potentially revolutionizing digital identity verification and interaction on Web3 platforms. Kusama envisions a future where .shib domains could be used for various purposes, including hosting websites, sending and receiving emails and digital assets, and serving as usernames on Web3 platforms. “You already use domains all over Web3. You use it to access our ecosystem, you use it to access the exchanges where you buy and sell SHIB, LEASH and BONE, you use it to open X to read this tweet. Now imagine if those domains ended in .shib,” Kusama remarked. Shiba Inu Price Analysis Simultaneously, the SHIB/USD pair&#8217;s technical analysis indicates a cautiously optimistic outlook. The weekly chart reveals a break from a downtrend as well as a thus far successful retest of the breakout. As NewsBTC reported, SHIB broke out of the descending triangle pattern in early December and recorded a new higher high after a series of lower highs from August 2022 to November 2023. Related Reading: Shiba Inu’s Shibarium Hit Major Milestone Amid Rapid Network Recovery Despite experiencing a retracement of approximately 28% from this local peak, SHIB has displayed resilience by maintaining key support levels on the weekly time frame. Notably, the previous week&#8217;s close remained above the triangle&#8217;s descending trendline, which is a bullish signal. Additionally, SHIB managed to sustain prices above the 0.236 Fibonacci level at $0.00000878. The maintenance of the price above the 20-week EMA is another bullish indicator, especially if SHIB manages to close above this level again this week. Should this trend persist, a retest of the 0.5 Fibonacci level is plausible. However, traders should anticipate significant resistance in the zone between the 0.382 Fibonacci level, approximately $0.00001050, and $0.00001063. In the event of an extended upward trajectory, the 0.618 and 0.786 Fibonacci levels, at about $0.00001327 and $0.00001525 respectively, are poised to be the next critical resistance junctures. The ultimate target for bullish momentum could be the August 2022 high of $0.00001777. The volume profile reinforces this bullish outlook, revealing a spike in trading activity that coincides with the recent appreciation in price, indicative of robust buying pressure. The RSI&#8217;s neutral stance at 53.63 lends flexibility to the market&#8217;s directional bias, implying that there is sufficient headroom for price expansion before the asset enters overbought or oversold territory. Featured image from Shutterstock, chart from TradingView.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-10T09:16:24.000Z",
-    "title": "The Bull Case for Bitcoin ETFs: More Than Just Price Momentum",
-    "url": "https://www.crypto-news-flash.com/the-bull-case-for-bitcoin-etfs-more-than-just-price-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=the-bull-case-for-bitcoin-etfs-more-than-just-price-momentum",
-    "description": "<img width=\"640\" height=\"426\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/kanchanara-jM1sLPJnzqE-unsplash-1-104x69.jpg 104w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Spot Bitcoin ETF emergence might have a more promising impact on the market in the long term. Current applicants including BlackRock, Bitwise, and VanEck are hopeful of approvals soon. While the immediate impact of a spot Bitcoin (BTC) Exchange-Traded Fund (ETF) could be an increase in Bitcoin&#8217;s price, this article delves into the multidimensional bull [...]"
+    "date": "2024-01-10T10:04:26.000Z",
+    "title": "Bitcoin Price Explodes to $47,800 Following Fake Bitcoin ETF Approval News: Small Negative Impact Shows BTC’s Market Resilience and Readiness for Wall Street",
+    "url": "https://www.crypto-news-flash.com/bitcoin-price-explodes-to-47800-following-fake-bitcoin-etf-approval-news-small-negative-impact-shows-btcs-market-resilience-and-readiness-for-wall-street/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-price-explodes-to-47800-following-fake-bitcoin-etf-approval-news-small-negative-impact-shows-btcs-market-resilience-and-readiness-for-wall-street",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.03.13-An-image-representing-the-article-Bitcoin-Price-Explodes-to-47800-Following-Fake-Bitcoin-ETF-Approval-News_-Small-Negative-Impact-Shows-BTCs-Marke-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Despite false Bitcoin ETF approval news, Bitcoin&#8217;s price surged to $47,800, indicating strong market resilience and readiness for integration with mainstream financial systems. The incident raised security concerns and skepticism within the crypto community, especially regarding the SEC&#8217;s internal security measures. Following a CNF update, the SEC&#8217;s decision on the much-anticipated Bitcoin ETF has been [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-10T10:00:39.000Z",
+    "title": "Long-Term Holder Trends in Bitcoin vs. Cardano; Whales Show Interest in Polkadot & InQubeta",
+    "url": "https://www.crypto-news-flash.com/long-term-holder-trends-in-bitcoin-vs-cardano-whales-show-interest-in-polkadot-inqubeta/?utm_source=rss&utm_medium=rss&utm_campaign=long-term-holder-trends-in-bitcoin-vs-cardano-whales-show-interest-in-polkadot-inqubeta",
+    "description": "<img width=\"512\" height=\"342\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-65.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-65.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-65-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-65-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-65-450x301.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Understanding long-term holder trends is akin to deciphering the currents of a vast ocean of crypto for beginners. Let’s delve into the fascinating comparison between Bitcoin and Cardano, unraveling the intricate choices of crypto enthusiasts. But that’s not all. Let’s set sail into the promising trajectories of Polkadot (DOT) and explore the groundbreaking opportunities presented [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-10T09:41:34.000Z",
+    "title": "Bitcoin Spot ETFs Spark Frenzy, but Don’t Overlook the Upcoming Halving",
+    "url": "https://www.crypto-news-flash.com/bitcoin-spot-etfs-spark-frenzy-but-dont-overlook-the-upcoming-halving/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-spot-etfs-spark-frenzy-but-dont-overlook-the-upcoming-halving",
+    "description": "<img width=\"1280\" height=\"853\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/bitcoin-6024248_1280-104x69.jpg 104w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />The excitement around the approval of the first spot Bitcoin ETF is reaching its peak, with recent false reports propelling BTC to $48,000. This could be a record year for Bitcoin with the April halving set to be another major event influencing the digital asset. While the entire crypto community is fixated on the approval [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-10T09:46:41.000Z",
+    "title": "All About the SEC Account Hack",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/all-about-the-sec-account-hack/",
+    "description": "<p>The crypto market was in chaos on Tuesday 9th. This was caused by a fake X (Twitter) post from the SEC&#8217;s account claiming it had approved a spot bitcoin exchange-traded fund (ETF). However, the SEC later claimed the post was “unauthorized” and its account had been hacked. If you aren&#8217;t familiar with what happened, here [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/all-about-the-sec-account-hack/\">All About the SEC Account Hack</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-10T10:03:00.000Z",
+    "title": "Will XRP ETF Launch Become a Reality? Bulls and Bears Hold Contrasting Beliefs",
+    "url": "https://coinedition.com/will-xrp-etf-launch-become-a-reality-bulls-and-bears-hold-contrasting-beliefs/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Trader Shares the 2 Levels XRP Needs to Break Before It Can Rally\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Trader-Shares-the-2-Levels-XRP-Needs-to-Break-Before-It-Can-Rally-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto enthusiasts and the XRP community have been actively watching market developments in anticipation of a potential XRP ETF launch. Fox Business journalist Eleanor Terrett shared insights on the crypto community’s differing views on the possibility of the SEC’s XRP ETF approval. In a recent interview, Valkyrie Funds&#8217; co-founder, Steve McClurg, signaled a possible approval [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/will-xrp-etf-launch-become-a-reality-bulls-and-bears-hold-contrasting-beliefs/\">Will XRP ETF Launch Become a Reality? Bulls and Bears Hold Contrasting Beliefs</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

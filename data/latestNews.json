@@ -1,65 +1,100 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-10T16:49:47.000Z",
-    "title": "We Tried Fox's Blockchain-Based Tool for Deepfake Detection. Here's How It Went",
-    "url": "https://www.coindesk.com/tech/2024/01/10/we-tried-foxs-blockchain-based-tool-for-deepfake-detection-heres-how-it-went/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Fox's new blockchain tool might not help consumers suss out deep fakes, but it could be a boon to publishers struggling to navigate the AI age. We kicked the tires on the new technology."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-10T16:45:00.000Z",
-    "title": "Beyond the ETF: Crypto Innovations to Watch in 2024",
-    "url": "https://www.coindesk.com/markets/2024/01/10/beyond-the-etf-crypto-innovations-to-watch-in-2024/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "While most market watchers are focused on bitcoin ETFs at the moment, Decentralized Physical Infrastructure Networks (DePIN) and Real World Assets (RWA) hold a lot of long-term promise, says Colton Dillion, CEO of Hedgehog."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-10T16:45:00.000Z",
-    "title": "Making Sense of Web3’s Burgeoning AI Ecosystem",
-    "url": "https://www.coindesk.com/tech/2024/01/10/making-sense-of-web3s-burgeoning-ai-ecosystem/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Although the intersection of Web3 and AI has great potential, there is a lot of confusion about this emerging technology in the market today. Mapping out the GPU supply chain, layers of the tech stack, and various competitive landscapes can help investors better understand the ecosystem and make more informed investment decisions, says David Attermann, at M31 Capital."
+    "date": "2024-01-10T17:16:34.000Z",
+    "title": "Did the Fake Bitcoin ETF Announcement Prove an SEC Approval Is a 'Sell-the-News' Event?",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/01/10/did-the-fake-bitcoin-etf-announcement-prove-an-sec-approval-is-a-sell-the-news-event/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The SEC's social media account was hacked to say the much-anticipated financial product was approved, perhaps answering the question of what will happen when it actually happens."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-10T17:04:49.000Z",
-    "title": " Price analysis 1/10: BTC, ETH, BNB, SOL, XRP, ADA, AVAX, DOGE, DOT, MATIC ",
-    "url": "https://cointelegraph.com/news/price-analysis-1-10-btc-eth-bnb-sol-xrp-ada-avax-doge-dot-matic",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvY2ExMzY4NzQtNDgzOS00ODU0LWIxMDctZjBlNTcyYTQzNmRiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin shows some surprising downside as a spot ETF decision approaches, and altcoins rally higher as ETH turns bullish.</p>\n                    <p><p>There was <a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-volatile-today\">high drama on Jan. 9</a> as the United States Securities and Exchange Commission tweeted that spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund applications were approved but later said that the SEC’s social account was hacked and that no ETFs had been approved.</p><p>After the hacked tweet was sent out, Bitcoin <a href=\"https://cointelegraph.com/news/fake-bitcoin-etf-approval-sell-the-news\">quickly surged to about $48,000</a> but then gave back the gains and slipped to $46,000 within a few minutes. <a href=\"https://cointelegraph.com/news/bitcoin-etf-may-fail-btc-price-breakout-48k-analysis\">Noting the muted response</a>, trading firm QCP Capital said that the approval is “mostly priced in and there may not be a huge rally post the approval.”</p><p>Although the event may boost volatility in the short term, the long-term trend could remain intact. Even if the markets sell-off after one or more spot Bitcoin ETFs are greenlit, the downside is likely to be limited as the long-term investors may view the dips as a buying opportunity. </p><p><a href=\"https://cointelegraph.com/news/price-analysis-1-10-btc-eth-bnb-sol-xrp-ada-avax-doge-dot-matic\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-10T17:30:00.000Z",
+    "title": " MIT/Harvard spinout plans 10,000-qubit, error-corrected quantum computer by 2026 ",
+    "url": "https://cointelegraph.com/news/mit-harvard-spinout-plans-10-000-qubit-error-corrected-quantum-computer-2026",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOWVlOWI5YjQtMmNiYi00NGIxLTk2OWMtZWNiZjQ4ZGQxODFiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p> If successful, the startup could beat industry leaders IBM, Microsoft, and Google to error-corrected quantum computing.</p>\n                    <p><p>QuEra, a quantum computing startup founded by researchers from Harvard and MIT, recently released what may be the most ambitious quantum technology roadmap we’ve seen yet. </p><p>The company <a href=\"https://www.quera.com/press-releases/quera-computing-releases-a-groundbreaking-roadmap-for-advanced-error-corrected-quantum-computers-pioneering-the-next-frontier-in-quantum-innovation\" target=\"_blank\" rel=\"noopener nofollow\">plans</a> on releasing a quantum computer with 100 logical qubits and 10,000 physical qubits by 2026. It also claims this planned system will demonstrate “practical quantum advantage,” meaning they’d be capable of useful computation feats that classical, binary computers aren’t. </p><p>There’s currently no consensus in the scientific community as to when or even if “quantum advantage” will be reached at a practical level. Scientists have conducted myriad experiments using quantum computers to solve problems considered unsolvable by classical computers, but the majority of these involved running specific algorithms with little or no practical use outside of laboratory tests. </p><p><a href=\"https://cointelegraph.com/news/mit-harvard-spinout-plans-10-000-qubit-error-corrected-quantum-computer-2026\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-10T17:02:01.000Z",
-    "title": " Bitcoin ETF speculation written into the Bitcoin blockchain paraphrasing Satoshi ",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-speculation-written-bitcoin-blockchain-paraphrasing-satoshi",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvODZkZTVjNTEtZGNmOC00MWQ2LWI1MDktYTE4ZjQ0MmUzZTIyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A Bitcoin user inscribed the text “SEC Chairman on the brink of second ETF approval” into a Bitcoin transaction’s OP_RETURN field.</p>\n                    <p><p data-ct-non-breakable=\"true\">In response to speculation that a Bitcoin exchange-traded fund (ETF) will be approved, one Bitcoin user has decided to commemorate the period by writing text into the blockchain. On Jan. 9 at 7:24 pm UTC, a transaction was <a href=\"https://mempool.space/tx/07bcf35c548e402e2219fbd846d4e736418d777c38bda6465e7f2956fd63e948\" target=\"_blank\" rel=\"noopener nofollow\">confirmed</a> with text that read, “SEC Chairman on the brink of second ETF approval.”</p><p data-ct-non-breakable=\"true\">The memorialization paraphrases Bitcoin’s pseudonymous inventor, Satoshi Nakamoto, who famously <a href=\"https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f\" target=\"_blank\" rel=\"noopener nofollow\">inscribed</a> the text “Chancellor on brink of second bailout for banks” into the first Bitcoin block. In both cases, the text was inserted into the OP_RETURN field of the transaction, preserving it for as long as the Bitcoin blockchain exists.</p><p>The United States Securities and Exchange Commission has not yet approved even a single spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ETF. However, it did <a href=\"https://finance.yahoo.com/news/sec-approves-bitcoin-etf-opening-205444651.html\" target=\"_blank\" rel=\"noopener nofollow\">approve</a> the first Bitcoin futures ETF in October 2021, which may account for why the author of the Jan. 9 post referred to the “second ETF approval” as being “on the brink” rather than the first. The word “second” could have also been inserted just to make it similar to Satoshi’s original.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-speculation-written-bitcoin-blockchain-paraphrasing-satoshi\">Read more</a></p></p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2024-01-10T17:15:37.000Z",
+    "title": "Bankrupt FTX seeks to sell luxury Bahamian properties amid bankruptcy proceedings",
+    "url": "https://cryptoslate.com/bankrupt-ftx-seeks-to-sell-luxury-bahamian-properties-amid-bankruptcy-proceedings/",
+    "description": "<p>Bankrupt cryptocurrency exchange FTX is seeking court permission to divest several Bahamas luxury real estate properties under the settlement terms with the Bahamian liquidators of FTX Digital Markets, a Jan. 9 court filing suggested. FTX aims to secure permission from the Delaware bankruptcy court to sell these luxurious apartments, provided a buyer offers 80% or [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bankrupt-ftx-seeks-to-sell-luxury-bahamian-properties-amid-bankruptcy-proceedings/\">Bankrupt FTX seeks to sell luxury Bahamian properties amid bankruptcy proceedings</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T17:05:50.000Z",
-    "title": "Tezos Price Prediction 2024-2033: How High can XTZ Rise?",
-    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
-    "description": "Tezos Price Prediction 2024-2033 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-10T16:57:49.000Z",
-    "title": "Shiba Inu Coin Price Prediction 2024-2033: Is SHIB Skyrocketing Soon?",
-    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
-    "description": "Shiba Inu Price Prediction 2024-2032 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-10T17:36:49.000Z",
+    "title": "Top 3 Whale-Favored Cryptos: Prime Picks for Major Gains",
+    "url": "https://cryptodaily.co.uk/2024/01/top-3-whale-favored-cryptos-prime-picks-for-major-gains",
+    "description": "Explore the top three cryptocurrencies favored by whale investors for high gains. Get insights into Ethereum (ETH), Solana (SOL), and Cardano (ADA)'s market performance, alongside the impact of upcoming SEC decisions on Bitcoin ETFs and the broader crypto market. Learn about ScapesMania (MANIA)'s presale and its potential in the gaming industry. Stay informed about Ethereum's resilience, Solana's bullish surge, and Cardano's steady ascent amidst market fluctuations."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-10T16:42:37.000Z",
-    "title": "World Faces Growing Threat of Global Catastrophes, Warns World Economic Forum Report",
-    "url": "https://www.cryptopolitan.com/world-faces-growing-threat/",
-    "description": "The World Economic Forum (WEF) has released its latest Global Risks Report, sounding a stark warning about the impending threats the world faces. The report, based on a survey of nearly 1,500 experts, industry leaders, and policymakers, paints a grim picture of the near future, citing concerns about extreme weather events, artificial intelligence, and cybercrime. [&#8230;]"
+    "date": "2024-01-10T17:38:32.000Z",
+    "title": "U.S. SEC’s conundrum in the crypto industry",
+    "url": "https://www.cryptopolitan.com/us-secs-conundrum-in-the-crypto-industry/",
+    "description": "The United States Securities and Exchange Commission (SEC) finds itself navigating a treacherous terrain in the rapidly evolving crypto industry. The allure of bitcoin exchange-traded funds (ETFs) teeters on the edge of granting cryptocurrencies mainstream credibility. Yet, the recent turmoil caused by a counterfeit social media post, falsely claiming the SEC&#8217;s green light for spot [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-10T17:00:29.000Z",
-    "title": "Ethereum’s Bullish Breakout: Analysts Predict Surge To $3,500 – Here’s Why",
-    "url": "https://www.newsbtc.com/news/ethereum/ethereums-bullish-breakout-analysts-predict-surge-to-3500-heres-why/",
-    "description": "Ethereum, the second-largest crypto by market capitalization, is currently exhibiting signs of a bullish breakout, as observed by two prominent analysts in the crypto space. According to World Of Charts, Ethereum shows consolidation within a bullish pennant pattern. This technical formation typically suggests continuing an upward trend in Ethereum&#8217;s case. According to the analyst, if Ethereum successfully breaks out of this pattern, it could surge toward a significant level of $3,500. $Eth Trend Is Up Consolidating In Bullish Pennant Expecting Breakout Soon Incase Of Successful Breakout Expecting Move Towards 3500$#Crypto #Eth #Ethusdt #Ethereum pic.twitter.com/nlqbMfh3k0 — World Of Charts (@WorldOfCharts1) January 10, 2024 Crucial Resistance Zone: Ethereum Path To Breakout Adding to World Of Charts&#8217; optimistic outlook, crypto trader Skew has identified the $2,320–$2,382 range as a key resistance zone for Ethereum. This price range has historically acted as a barrier to Ethereum&#8217;s upward movement, with &#8220;numerous rejections&#8221; witnessed at these levels. Related Reading: Ethereum Reaches Critical Inflection Point Against Bitcoin: What Happens Next? Skew emphasizes the importance of Ethereum closing above $2,400 on the 1-hour and 4-hour charts. This decisive move would breach the resistance zone and confirm Ethereum&#8217;s bullish momentum. Skew also noted that technical indicators such as the Relative Strength Index (RSI) and stochastics still display significant momentum, supporting the potential for Ethereum&#8217;s continued upward trend. $ETH 4H Maybe it&#8217;s time for ETH to shine &#38; run, would definitely help if the BTC Spot ETF is legitimately approved later $2320 &#8211; $2382 has proven to be strong resistance with numerous rejections the key confirmation would be a solid 1H &#38; 4H close above $2400 4H trend &#38;… pic.twitter.com/taWbcC7eWY — Skew Δ (@52kskew) January 10, 2024 Ethereum’s Solo Bull Run Amid Market Turbulence Despite recent market turbulence, including the plunge of several cryptocurrencies, including BTC, following the Securities and Exchange Commission&#8217;s (SEC) fake spot ETF approval announcement, Ethereum has shown resilience and is currently in the green. Over the past 24 hours, Ethereum has climbed by 5.5%, surpassing the $2,400 mark before a slight retracement to around $2,381 at the time of writing. This bullish trend is further supported by increased trading volume, which surged below $30 billion to approximately $39 billion in the past day. Skew suggests that Ethereum&#8217;s bullish momentum could receive an additional boost from the potential approval of a Spot BTC ETF. If such approval were to come to fruition, it could further support Ethereum&#8217;s upward trajectory. This sentiment is echoed by Michaël van de Poppe, another renowned crypto analyst, who also foresees Ethereum&#8217;s approach to its 2022 low as a precursor to a potential breakout. Van de Poppe believes that Ethereum&#8217;s current positioning near last year&#8217;s low could be crucial in absorbing liquidity and fueling a bullish breakout. Van de Poppe&#8217;s analysis highlights the broader market context, specifically the awaited decision on a spot Bitcoin ETF in the US. An approval, he predicts, could notably impact the ETH/BTC trading pair, potentially triggering a sharp price movement known as a liquidation candle. Related Reading: Ready For Liftoff: Ethereum Eyes Breakthrough As Analyst Signals Upward Trend Following this, Van de Poppe anticipates a significant reallocation of funds into Ethereum, accompanied by a bullish weekly divergence, propelling Ethereum onto an upward trajectory. Featured image from Unsplash, Chart from TradingView"
+    "source": "Cryptopolitan",
+    "date": "2024-01-10T17:36:56.000Z",
+    "title": "SK Group Chairman Calls for Business Model Transformation at CES 2024",
+    "url": "https://www.cryptopolitan.com/sk-calls-for-business-model-at-ces-2024/",
+    "description": "SK Group Chairman Chey Tae-won, during an interview at CES 2024, emphasized the need for businesses to adapt to the rapidly changing AI era by reshaping their business models. He urged companies to be flexible and responsive to evolving market demands, suggesting that even established businesses should consider transformation into software or AI-focused entities if [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-10T17:31:03.000Z",
+    "title": "Assessing the potential effects of Europe’s CBDC on banks",
+    "url": "https://www.cryptopolitan.com/potential-effects-of-europes-cbdc-on-banks/",
+    "description": "As Europe strides towards the digital era with its Central Bank Digital Currency (CBDC), the banking sector braces itself for a seismic shift. The European Central Bank (ECB) has embarked on a mission to adapt to a paperless union while retaining monetary sovereignty, a move that could rewrite the rules of financial engagement in the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-10T17:24:45.000Z",
+    "title": "Sui Price Prediction 2024-2033: Is SUI A Good Investment?",
+    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
+    "description": "Sui Price Prediction 2024-2033 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-10T17:22:16.000Z",
+    "title": "Why ECB has a gloomy outlook on Eurozone economy",
+    "url": "https://www.cryptopolitan.com/ecb-has-a-gloomy-outlook-on-eurozone-economy/",
+    "description": "The Eurozone is on the brink of another economic downturn, a situation that&#8217;s causing frowns in financial circles and beyond. The European Central Bank (ECB) Vice-President, in a rather blunt speech, cautioned against optimism, highlighting a looming contraction and persistent inflation. This landscape paints a rather somber picture for the Eurozone&#8217;s economy, reflecting a challenging [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-10T17:37:31.000Z",
+    "title": "Ethereum price to cross $3k after Bitcoin ETF approval? ",
+    "url": "https://crypto.news/ethereum-price-to-cross-3000-after-bitcoin-etf-approval/",
+    "description": "Derivative market analysis suggests that Ethereum (ETH) price could outperform Bitcoin (BTC) after the ETF approval verdict. "
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-10T17:20:16.000Z",
+    "title": "CBOE announces the listing of several Bitcoin ETFs pending SEC approval",
+    "url": "https://crypto.news/cboe-announces-the-listing-of-several-bitcoin-etfs-pending-sec-approval/",
+    "description": "The Chicago Board Options Exchange has extended its approval for listing several spot Bitcoin ETFs, pending the final nod from the SEC."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-10T17:13:55.000Z",
+    "title": "Elon Musk’s X discontinues NFT profile photo feature",
+    "url": "https://crypto.news/elon-musks-x-discontinues-nft-profile-photo-feature/",
+    "description": "Tech magnate Elon Musk once called adding NFTs to X “annoying” and a waste of engineering resources."
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-10T17:24:01.000Z",
+    "title": "Lido DAO’s Spectacular 21% Rally Amid Crypto Market Fluctuations",
+    "url": "https://www.crypto-news-flash.com/lido-daos-spectacular-21-rally-amid-crypto-market-fluctuations/?utm_source=rss&utm_medium=rss&utm_campaign=lido-daos-spectacular-21-rally-amid-crypto-market-fluctuations",
+    "description": "<img width=\"2560\" height=\"1707\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-scaled.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-scaled.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-2048x1365.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/stock-market-6531146-104x69.jpg 104w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />A recent market surge triggered by a fake tweet caused a sharp surge in Lido as it jumped by 21 percent.  Bitcoin and other altcoins took a nosedive after the SEC chair dismissed the ETF approval rumor.  It can be recalled that a compromised X account of the US Securities and Exchange Commission earlier tweeted [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-10T17:11:38.000Z",
+    "title": "Spot Bitcoin ETF Approval Sparks CME Futures Frenzy: ‘Selling Pressure’ Looms, Warns K33",
+    "url": "https://www.crypto-news-flash.com/spot-bitcoin-etf-approval-sparks-cme-futures-frenzy-selling-pressure-looms-warns-k33/?utm_source=rss&utm_medium=rss&utm_campaign=spot-bitcoin-etf-approval-sparks-cme-futures-frenzy-selling-pressure-looms-warns-k33",
+    "description": "<img width=\"1798\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin-BTC-gold-coin-pile\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile.jpg 1798w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-1536x1025.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-gold-coin-pile-1200x801.jpg 1200w\" sizes=\"(max-width: 1798px) 100vw, 1798px\" />Spot Bitcoin ETF approval may trigger a slump in future open interest. Uncertainties surround the current Bitcoin ETF approval timeline. The anticipation of a potential approval for a spot-based Bitcoin Exchange-Traded Fund (ETF) by the U.S. Securities and Exchange Commission (SEC) has fueled a remarkable surge in Bitcoin (BTC) futures open interest on the Chicago [...]"
   }
 ]

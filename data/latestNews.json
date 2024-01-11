@@ -1,23 +1,37 @@
 [
   {
     "source": "Decrypt",
-    "date": "2024-01-10T23:58:26.000Z",
-    "title": "Ordinalized Again: Gensler's Bitcoin ETF Retreat Immortalized as Inscription",
-    "url": "https://decrypt.co/212387/sec-gensler-bitcoin-etf-retreat-ordinals-inscription",
-    "description": "The Bitcoin blockchain permanently commemorates another historic moment: the SEC chair’s Bitcoin ETF approval statement."
+    "date": "2024-01-11T00:31:02.000Z",
+    "title": "SEC 'Squandered a Decade' Rejecting Bitcoin ETFs: Commissioner Hester Peirce",
+    "url": "https://decrypt.co/212381/sec-squandered-decade-rejecting-bitcoin-etfs-commissioner-hester-peirce",
+    "description": "Spot Bitcoin ETFs will start trading Thursday, but one crypto-friendly SEC Commissioner says it's a day far too long in coming."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-01-11T00:19:06.000Z",
+    "title": "Degens Are Already Trading 'Bitcoin ETF' Meme Coins—On Solana",
+    "url": "https://decrypt.co/212380/degens-already-trading-bitcoin-etf-meme-coins-solana",
+    "description": "Solana traders are jumping on the Bitcoin ETF news. The meme tokens, unsurprisingly, crashed shortly thereafter."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-11T00:32:09.000Z",
+    "title": "Dissenting SEC commissioner says agency approved spot Bitcoin ETPs, not ETFs",
+    "url": "https://cryptoslate.com/dissenting-sec-commissioner-says-agency-approved-spot-bitcoin-etps-not-etfs/",
+    "description": "<p>Members of the U.S. Securities and Exchange Commission (SEC) commented on the approval of various spot Bitcoin products on Jan. 10. One commissioner, Caroline A. Crenshaw, expressed dissent by raising concerns about fraud and market manipulation as well as broader concerns about Bitcoin. Most notably, she contested the nature of the recent approvals, stating: &#8220;I [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/dissenting-sec-commissioner-says-agency-approved-spot-bitcoin-etps-not-etfs/\">Dissenting SEC commissioner says agency approved spot Bitcoin ETPs, not ETFs</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-01-11T00:08:20.000Z",
-    "title": "Bitcoin considered a “speculative asset” by European Central Bank",
-    "url": "https://cryptobriefing.com/bitcoin-considered-a-speculative-asset-by-european-central-bank/?utm_source=feed&utm_medium=rss",
-    "description": "ECB executive rules out Bitcoin purchases, says crypto \"does not fulfill\" attributes of currency like new digital euro."
+    "date": "2024-01-11T00:20:45.000Z",
+    "title": "Bitcoin miner Phoenix Group buys $187 million worth of miners from Bitmain",
+    "url": "https://cryptobriefing.com/bitcoin-miner-phoenix-group-buys-187-million-worth-miners-bitmain/?utm_source=feed&utm_medium=rss",
+    "description": "Phoenix has disclosed an agreement to purchase $187 million worth of new Bitcoin mining rigs from Bitmain Technologies."
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-11T00:00:13.000Z",
-    "title": "PayPal Incentivizing People To Provide PYUSD Liquidity On Curve, CRV To The Moon?",
-    "url": "https://www.newsbtc.com/news/paypal-incentivizing-pyusd-liquidity-curve-crv-moon/",
-    "description": "In a landmark move, PayPal, the payment processor, has incentivized PYUSD liquidity on Curve Finance, the world&#8217;s largest stablecoin decentralized exchange (DEX) by trading volume.  PayPal Incentivizing PYUSD Liquidity Via Curve This development, which Stake DAO first captured on January 10, sent shockwaves through the crypto community, with many experts predicting that Curve is on its way to becoming the go-to platform for institutional and corporate trading of on-chain stablecoins. PayPal&#8217;s decision to incentivize PYUSD liquidity on Curve is a significant step forward for adopting stablecoins and promoting decentralized finance (DeFi) protocols in general. By providing attractive rewards for liquidity providers, PayPal is signaling its commitment to the growth of this rapidly evolving sector. Related Reading: Cardano Price Explosion: Crypto Analyst Predicts ADA Price To Hit $6 As part of its incentive program, PayPal has deposited vote incentives worth $132k in PYUSD on Votemarket, a vote incentive platform. These rewards are designed to encourage users to increase their liquidity on Curve. In addition, PayPal will offer direct rewards to liquidity providers distributed in PYUSD, with an APY of 11%. Observers note that the $66,000 allocated weekly to Votemarket could direct at least $55k in CRV, a governance token on Curve Finance, to the PYUSD-USDC pool. Institutional Endorsement: Will CRV Rally Above $0.75? With PayPal&#8217;s endorsement, Curve may attract even more liquidity and cement its position as a leader in on-chain stablecoin trading. It is unclear whether other Wall Street heavyweights on the wings are ready to enhance liquidity via Curve or other DeFi protocols. Their involvement will validate Curve and DeFi&#8217;s potential, accelerating adoption among institutional investors. According to DeFiLlama data on January 10, Curve has a total value locked (TVL) of $1.82 billion, with a big chunk of this in Ethereum. The protocol has deployed in Ethereum layer-2s and other Ethereum Virtual Machine (EVM) compatible platforms, including Arbitrum. For now, CRV, the native token of Curve, remains under pressure. Looking at the performance in the daily chart, the token is down 30% from recent December peaks, sliding when writing.  Related Reading: Bitcoin ETF Drama Reveals Post-Approval Price Trend: Experts From price technical analysis, any break above $0.75 could spark more demand, lifting the token to new 2024 highs. Presently, CRV is trending inside a bear candlestick, signaling general weakness. In the short term, sharp losses below $0.45 might trigger a sell-off. CRV risks dropping to September 2023 lows of around $0.40 in that case. Feature image from Canva, chart from TradingView"
+    "source": "Crypto Briefing",
+    "date": "2024-01-11T00:19:18.000Z",
+    "title": "Bitcoin decouples from the Nasdaq-100 for the first time after four years",
+    "url": "https://cryptobriefing.com/bitcoin-decouples-nasdaq-100-first-time-after-four-years/?utm_source=feed&utm_medium=rss",
+    "description": "Bitcoin is starting to trade more on its sector-specific news and drivers rather than just following wider financial market movements."
   }
 ]

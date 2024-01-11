@@ -1,37 +1,30 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-11T06:00:00.000Z",
-    "title": "European Central Bank Shows It’s Serious About Enabling Digital Euro Offline Use",
-    "url": "https://www.coindesk.com/policy/2024/01/11/european-central-bank-shows-its-serious-about-enabling-digital-euro-offline-use/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The central bank plans to allocate the lion’s share of its $1.3 billion contract budget for providers to work on enabling offline payments for a digital euro."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-11T06:07:12.000Z",
-    "title": " Critics lash out at ‘unsound’ and ‘ahistorical’ spot Bitcoin ETF approval ",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-approval-critics-lash-sec-decision-fraud-manipulation",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNmNlZjJiNzMtNThjZC00ZGNkLWEwZWUtYWMyODc1YzgxNTQwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>While the crypto sector celebrated the landmark approval of several spot Bitcoin ETFs, not everyone was pleased by the decision.</p>\n                    <p><p>While the crypto industry at large celebrated the long-awaited landmark approval of spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ETFs in the United States, not everyone was pleased with the Securities and Exchange Commission’s decision. </p><p>In a Jan. 10 <a href=\"https://www.sec.gov/news/statement/crenshaw-statement-spot-bitcoin-011023\" target=\"_blank\" rel=\"noopener nofollow\">statement</a>, SEC Commissioner Caroline Crenshaw — one of two commissioners to vote against the approval — wrote that the agency’s move to greenlight the Bitcoin-based investment vehicles was “unsound and ahistorical.”</p><p>“I am concerned that these products will flood the markets and land squarely in the retirement accounts of US households who can least afford to lose their savings to the fraud and manipulation that appears prevalent in the spot bitcoin markets and will impact the ETPs,” Crenshaw wrote. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-approval-critics-lash-sec-decision-fraud-manipulation\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-11T05:46:34.000Z",
-    "title": " Elon Musk initially disses, then considers using Bitcoin on Mars ",
-    "url": "https://cointelegraph.com/news/elon-musk-spacex-mars-currency-bitcoin-twitter-x-space",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMThhZjI0Y2ItOGZjZC00MDVjLWFkNDEtNTUxZmRmZTc3MDVlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Multi-billionaire entrepreneur Elon Musk says it could be possible to use Bitcoin on Mars, though the transaction settlement speed could pose challenges.</p>\n                    <p><p>While initially hesitant to the idea of using Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) as currency on Mars, Tesla CEO and SpaceX founder Elon Musk may have just come around on the matter — but barely.</p><p>In an X Spaces titled ‘ARK 21Shares Bitcoin ETF (ARKB) Approved,’ with ARK Invest CEO Cathie Wood, Musk initially shot down using Bitcoin as a Martian currency due to the significant time it takes to settle transactions.</p><p>This comes amid Musk’s <a href=\"https://en.wikipedia.org/wiki/SpaceX_ambition_of_colonizing_Mars\" target=\"_blank\" rel=\"noopener nofollow\">ongoing</a> vision of building a colony on Mars by 2050, contending that humans must evolve into a multi-planet species to survive. </p><p><a href=\"https://cointelegraph.com/news/elon-musk-spacex-mars-currency-bitcoin-twitter-x-space\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-11T06:00:09.000Z",
-    "title": "Coinbase Report Analyzes 2024 Bitcoin Halving and Ethereum’s Cancun Upgrade Impact",
-    "url": "https://news.bitcoin.com/coinbase-report-analyzes-2024-bitcoin-halving-and-ethereums-cancun-upgrade-impact/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Coinbase Report Analyzes 2024 Bitcoin Halving and Ethereum&#039;s Cancun Upgrade Impact\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/cb.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Coinbase&#x2019;s recent 2024 Market Outlook report was followed by a fresh analysis from its institutional arm, focusing on the pivotal market happenings linked to two leading cryptocurrencies: bitcoin and ethereum. This new report, titled &#x201C;Q1 2024 Guide to Crypto Markets&#x201D;, underscores key events that are set to influence the future direction of these digital currencies. [&#8230;]"
+    "date": "2024-01-11T06:19:33.000Z",
+    "title": "Aave Community Votes To Integrate PayPal’s Stablecoin",
+    "url": "https://www.coindesk.com/markets/2024/01/11/aave-community-votes-to-integrate-paypals-stablecoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Majority of token holders favor onboard PYUSD in AAVE's Ethereum pool, the ongoing vote shows."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-11T05:46:34.000Z",
-    "title": "Hester Pierce, Crypto Mom, credits Grayscale’s appeal for historic spot Bitcoin ETF approval",
-    "url": "https://www.cryptopolitan.com/crypto-mom-spot-bitcoin-etf-approval/",
-    "description": "In a significant development in the world of cryptocurrency, the United States Securities and Exchange Commission (SEC) has finally approved spot Bitcoin exchange-traded funds (ETFs), marking a long-awaited milestone for the crypto industry.&#160; The approval, however, has not come without its share of controversies and challenges. In this article, we will explore the key factors [&#8230;]"
+    "date": "2024-01-11T06:17:00.000Z",
+    "title": "OpenAI Engages in Content Licensing Talks with CNN, Fox, Time Amidst Ongoing Lawsuit with New York Times",
+    "url": "https://www.cryptopolitan.com/openai-content-licensing-cnn-fox-time/",
+    "description": "In a dynamic development within the ever-evolving realm of artificial intelligence, OpenAI, the creator of the widely known AI chatbot ChatGPT, finds itself entangled in negotiations with major media giants CNN, Fox Corp., and Time.&#160; The talks, aimed at securing content licenses, unfold against the backdrop of a legal clash with the New York Times, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-11T06:15:57.000Z",
+    "title": "World’s First Fully Autonomous Restaurant, ‘CaliExpress by Flippy,’ Redefines Dining Experience",
+    "url": "https://www.cryptopolitan.com/autonomous-restaurant-caliexpress-by-flippy/",
+    "description": "&#8216;CaliExpress by Flippy&#8217; is set to revolutionize the restaurant industry with its innovative integration of robotics and artificial intelligence (AI). Located in downtown Pasadena, this autonomous restaurant is redefining the dining experience as it introduces the world to Flippy, an AI-powered robotic fry station, and facial recognition technology at its order kiosks. The introduction of [&#8230;]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-11T06:13:54.000Z",
+    "title": "Shiba Inu (SHIB), Retik Finance (RETIK), and Bonk (BONK) Are the Only 3 Tokens To Have in Your Crypto Portfolio in 2024",
+    "url": "https://coinedition.com/shiba-inu-shib-retik-finance-retik-and-bonk-bonk-are-the-only-3-tokens-to-have-in-your-crypto-portfolio-in-2024/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/PR1-30.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/PR1-30.png 730w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/01/PR1-30-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency landscape is a vast, ever-shifting desert of opportunity. Thousands of tokens shimmer like mirages, promising riches and technological marvels. But in the scorching heat of 2024, only three tokens stand out as oases of potential: Shiba Inu (SHIB), Retik Finance (RETIK), and Bonk (BONK). These are not just speculative mirages; they are carefully [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shiba-inu-shib-retik-finance-retik-and-bonk-bonk-are-the-only-3-tokens-to-have-in-your-crypto-portfolio-in-2024/\">Shiba Inu (SHIB), Retik Finance (RETIK), and Bonk (BONK) Are the Only 3 Tokens To Have in Your Crypto Portfolio in 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

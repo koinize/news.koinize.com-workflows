@@ -1,135 +1,93 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-11T19:34:15.000Z",
-    "title": "What Is a Smart Contract Audit?",
-    "url": "https://www.coindesk.com/learn/2024/01/11/what-is-a-smart-contract-audit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Smart contract security audits are an integral part of ensuring a secure and user-friendly Web3 experience."
+    "date": "2024-01-11T19:57:53.000Z",
+    "title": "Atomic Swaps: What Are They & How Do They Work?",
+    "url": "https://www.coindesk.com/learn/2024/01/11/atomic-swaps-what-are-they-how-do-they-work/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Atomic swaps open the door for truly decentralized cross-chain trading."
   },
   {
     "source": "CoinDesk",
-    "date": "2024-01-11T19:30:33.000Z",
-    "title": "What Is Bitcoin Dollar-Cost Averaging? A Beginner’s Guide",
-    "url": "https://www.coindesk.com/learn/2024/01/11/what-is-bitcoin-dollar-cost-averaging-a-beginners-guide/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Dollar-cost averaging bitcoin in an automated manner has emerged as a popular way to “stack sats” among Bitcoiners."
+    "date": "2024-01-11T19:53:28.000Z",
+    "title": "Bitcoin Name Service (BNS) Explained: A Guide to .BTC Domains",
+    "url": "https://www.coindesk.com/learn/2024/01/11/bitcoin-name-service-bns-explained-a-guide-to-btc-domains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin Name Service (BNS) domains provide Bitcoin web3 users with human-readable .btc names for their wallets."
   },
   {
     "source": "CoinDesk",
-    "date": "2024-01-11T19:22:12.000Z",
-    "title": "Steward of Bitcoin Software Explains Why She Nixed an Acrimonious Code Debate",
-    "url": "https://www.coindesk.com/tech/2024/01/11/steward-of-bitcoin-software-explains-why-she-nixed-an-acrimonious-code-debate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "\"All it was doing was generating noise,\" the Bitcoin Core maintainer Ava Chow says of Luke Dashjr's pull request, which would have severely curtailed the use of Ordinals."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-11T19:18:32.000Z",
-    "title": "Crypto Rug Pulls: What Are They & How to Avoid Them",
-    "url": "https://www.coindesk.com/learn/2024/01/11/crypto-rug-pulls-what-are-they-how-to-avoid-them/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Crypto rug pulls cause billions of dollars in loses in the global crypto markets."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-11T19:14:52.000Z",
-    "title": "Bitcoin ETFs Explained: What Are They & How Do They Work?",
-    "url": "https://www.coindesk.com/learn/2024/01/11/bitcoin-etfs-explained-what-are-they-how-do-they-work/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Bitcoin ETFs provide traditional investors with a regulated investment vehicle that enables them to invest in Bitcoin without having to directly own the underlying cryptocurrency."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-11T19:09:59.000Z",
-    "title": "What Is a Central Bank Digital Currency? A Brief Guide to CBDCs",
-    "url": "https://www.coindesk.com/learn/2024/01/11/what-is-a-central-bank-digital-currency-a-brief-guide-to-cbdcs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Central bank digital currency (CBDC) aims to take the benefits from blockchain-based digital currency and combine it with fiat currency under the control of the central bank."
+    "date": "2024-01-11T19:50:34.000Z",
+    "title": "Bitcoin Whales: What They Are & How to Spot Them?",
+    "url": "https://www.coindesk.com/learn/2024/01/11/bitcoin-whales-what-they-are-how-to-spot-them/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin whales are major market players who can influence the price of bitcoin when they decide to buy or sell large volumes of the digital currency."
   },
   {
     "source": "Decrypt",
-    "date": "2024-01-11T19:30:10.000Z",
-    "title": "Did You Forget to Pay Crypto Taxes? IRS Is Letting You Off the Hook—Kinda",
-    "url": "https://decrypt.co/212324/crypto-taxes-irs-waives-penalties",
-    "description": "The IRS is waiving penalties on unpaid taxes, crypto and otherwise, on 2020 and 2021 returns. Taxpayers have until March to make good."
+    "date": "2024-01-11T19:48:29.000Z",
+    "title": "Bitcoin ETFs Notch $1.9B in Trading Volume—But Merrill Lynch, Vanguard Won’t List",
+    "url": "https://decrypt.co/212523/bitcoin-etfs-notch-1-9b-in-trading-volume-merrill-lynch-vanguard-wont-list",
+    "description": "The newly approved Bitcoin ETFs reached $1.9 billion worth of volume by midday, with BlackRock and Fidelity leading the pack."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-11T19:28:00.000Z",
-    "title": " Canada may also benefit as US finally gets spot BTC ETF: Coinbase exec ",
-    "url": "https://cointelegraph.com/news/canada-benefit-us-finally-gets-spot-btc-etf-coinbase-exec",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNTcyYjYyYjItNGMyYi00NjZhLWI2OGUtNGZmYzdjZTNhNTMzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Canada has had a spot BTC ETF for years, but the surge in interest from the U.S. may boost its neighbor’s market and increase competition.</p>\n                    <p><p>Canadians have had spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETFs) available to them since early 2021, but there may be subtle effects on the market now that their neighbors to the south have the same opportunities, Coinbase Canada director Lucas Matheson told Cointelegraph.</p><p>Matheson praised Canadian regulators as “leading the world.” Spot BTC EFTs have been gradually <a href=\"https://cointelegraph.com/news/accelerate-financial-s-bitcoin-etf-approved-in-canada\">integrated into the larger Canadian financial system</a> since their introduction and are becoming a standard part of family office holdings, tax-advantaged funds and other mainstream financial products, Matheson said.</p><p>The United States Securities and Exchange Commission (SEC) decision to approve spot BTC ETFs “validates cryptocurrencies as an asset class and builds credibility for the industry at large,” Matheson said, adding: </p><p><a href=\"https://cointelegraph.com/news/canada-benefit-us-finally-gets-spot-btc-etf-coinbase-exec\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-11T20:05:12.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">Billions of dollars flowed into spot Bitcoin exchange-traded funds (ETFs) on Jan. 11 as they debuted on major exchanges. The United States Securities and Exchange Commission (SEC) approved the products the day prior after a false After a false start on Jan. 9, spot Bitcoin ETFs were given the official approval by the United States Securities and Exchange Commission on Jan. 10. Only hours before, news emerged that Cboe approved the listing of spot Bitcoin ETFs.</p><p>The launch of spot Bitcoin ETF trading in the United States was met with heavy demand on Jan. 11, as <a href=\"https://cointelegraph.com/news/bitcoin-spot-etf-trading-volume-surpasses-1-6-billion-within-minutes-launch\">roughly $1.6 billion</a> flowed into the assets in the first few minutes.</p><p>The heaviest volumes were recorded for Grayscale's GBTC, followed by BlackRock's IBIT, Fidelity's FBTC and Ark's ARKB. The Securities and Exchange Commission approved 11 spot BTC products on Jan. 10.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-11T20:00:00.000Z",
+    "title": " Gary Gensler had the opportunity to stop a spot Bitcoin ETF, so why didn’t he? ",
+    "url": "https://cointelegraph.com/news/gary-gensler-stop-spot-bitcoin-etf-why",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzllODkyNWYtZmQ1YS00YjMyLThmODUtMzZhMmQ4NThhNjY1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Many speculated that the SEC chair had no choice but to approve the investment vehicle after a court-ordered review of Grayscale’s spot Bitcoin ETF application.</p>\n                    <p><p>On Jan. 10, after a false start the day prior, the United States Securities and Exchange Commission (SEC) under chair Gary Gensler gave the green light to a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund for the first time. </p><p>The decision by the SEC to approve a spot cryptocurrency investment vehicle for the first time raised questions about Gensler’s intentions. Since taking office, the SEC chair has often <a href=\"https://cointelegraph.com/news/gary-gensler-warning-crypto-spot-etf\">spoken about the risks</a> of crypto investments, connecting digital assets to fraud and scams. </p><p>Yet, when the SEC <a href=\"https://www.sec.gov/about/commission-votes/2024/commission-votes-2024-01.xml\" target=\"_blank\" rel=\"noopener nofollow\">held</a> a vote to decide on a spot Bitcoin ETF, Gensler was one of three commissioners who voted to approve the offerings. Commissioners Hester Peirce and Mark Uyeda voted in favor of the ETF alongside Gensler, while Caroline Crenshaw and Jaime Lizárraga dissented. </p><p><a href=\"https://cointelegraph.com/news/gary-gensler-stop-spot-bitcoin-etf-why\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-11T20:00:23.000Z",
+    "title": "Worldcoin’s identity service captures over 1% of Argentina amidst token value surge",
+    "url": "https://cryptoslate.com/worldcoins-identity-service-captures-over-1-of-argentina-amidst-token-value-surge/",
+    "description": "<p>Worldcoin verified nearly 16,000 Argentines in a single day in late December, bringing the number of people verified by the platform in the South American country to more than 500,000, or over 1% of its total population. The increased demand is coming at a time when the project&#8217;s WLD token is also enjoying a massive [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/worldcoins-identity-service-captures-over-1-of-argentina-amidst-token-value-surge/\">Worldcoin&#8217;s identity service captures over 1% of Argentina amidst token value surge</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-11T19:29:40.000Z",
-    "title": "Polkadot Price Prediction 2024-2033: A Bullish Pattern?",
-    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
-    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
+    "date": "2024-01-11T19:55:53.000Z",
+    "title": "ApeCoin Price Prediction 2024-2033: Will APE Break $2 Resistance?",
+    "url": "https://www.cryptopolitan.com/apecoin-price-prediction/",
+    "description": "ApeCoin Price Prediction 2024-2033 The NFT industry has been booming for the past few years and is not stopping anytime soon. The NFT project Bored Ape Yacht Club has been one of the most successful in the blockchain industry. However, recent statistics indicate that the project is losing its momentum. Various APE price highlights unfold [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-11T19:28:18.000Z",
-    "title": "BlackRock’s Bitcoin ETF nod boosts its Ethereum ETF approval chances",
-    "url": "https://www.cryptopolitan.com/blackrocks-btc-etf-nod-ethereum-etf-chances/",
-    "description": "The United States Securities and Exchange Commission (SEC) recently approved BlackRock, the world’s largest asset manager, along with 13 other institutional giants, to launch the first spot Bitcoin exchange-traded funds (ETF) in the United States on January 10. This move has injected a renewed sense of optimism into the crypto space, given BlackRock’s status as [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-11T19:17:13.000Z",
-    "title": "Bitcoin miners and traders anticipate spot Bitcoin ETF effects",
-    "url": "https://www.cryptopolitan.com/bitcoin-miners-trader-anticipate-bitcoin-etf/",
-    "description": "Bitcoin faced challenges breaking out of its established range on the day the United States approved its first spot Bitcoin exchange-traded fund (ETF). Despite the focus on a $48,000 target, data from exchanges revealed significant BTC movements on January 10, both before and after the ETF approval. Bitcoin miners and traders navigate BTC volatility Notably, [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-11T19:39:17.000Z",
-    "title": "Vanguard, other tradfi giants boycott spot Bitcoin ETFs",
-    "url": "https://crypto.news/vanguard-other-tradfi-giants-boycott-spot-bitcoin-etfs/",
-    "description": "Financial institutions like Vanguard have no plans to allow spot Bitcoin ETF trading despite approval from the U.S. SEC. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-11T19:29:38.000Z",
-    "title": "Hedera and Algorand collaborate on decentralized system for wallet recovery",
-    "url": "https://crypto.news/hedera-and-algorand-collaborate-on-decentralized-system-for-wallet-recovery/",
-    "description": "The DeRec Alliance, formed by key players in Hedera and Algorand ecosystems, aims to create a decentralized digital asset recovery system."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-11T19:19:46.000Z",
-    "title": "Bitcoin ETF approval: crypto volume spiked, market cap rose",
-    "url": "https://crypto.news/bitcoin-etf-approval-crypto-volume-spiked-market-cap-rose/",
-    "description": "The approval of Bitcoin ETFs resulted in a sharp increase in crypto trading volume, jumping from around $86 billion to nearly $140 billion, marking a 63% rise."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-11T19:10:29.000Z",
-    "title": "Trader Joe’s franchise Merchant Moe partners with Mantle for defi expansion",
-    "url": "https://crypto.news/trader-joes-franchise-merchant-moe-partners-with-mantle-for-defi-expansion/",
-    "description": "Trader Joe’s decentralized exchange franchise, Merchant Moe, has announced a significant partnership with Mantle, a rapidly growing DAO-led web3 ecosystem. "
+    "date": "2024-01-11T19:54:45.000Z",
+    "title": "SEC Commissioner rues decades of Bitcoin ETF rejection",
+    "url": "https://www.cryptopolitan.com/sec-commissioner-decade-of-btc-etf-rejection/",
+    "description": "The United States Securities and Exchange Commission (SEC) recently gave its approval for the trading of spot Bitcoin exchange-traded funds (ETFs), bringing an end to a prolonged and consequential regulatory process. Hester Pierce, an SEC Commissioner recognized as “Crypto Mom” for her pro-crypto stance, expressed her perspective on the matter, deeming the entire saga unnecessary [&#8230;]"
   },
   {
     "source": "NewsBTC",
-    "date": "2024-01-11T19:39:30.000Z",
-    "title": "Bitcoin News Catalyst: Could ETF Hype Cause BTC Price To Double?",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-news-catalyst-could-etf-hype-cause-btc-price-to-double/",
-    "description": "Bitcoin price is struggling to crack resistance around $47,000 per coin, but it might not be long until it does thanks to the backdrop of bullish spot BTC ETF news. The news could also be supported by a change in mass crowd psychology, according to Elliott Wave Principle and the current projected count in BTCUSD. All of this could cause the top cryptocurrency by market cap to double in a flash. The Countdown To Bitcoin Price Doubling During every major bull run, there is a phase where the rally is supported by the regular occurrence of bullish Bitcoin news. If it all seems to arrive at once, this is due to the way mass crowd psychology works, according to Elliott Wave Principle. When an asset, in this case BTCUSD, reaches what&#8217;s referred to as an impulse wave, humans begin to behave in an impulsive way, selling at the first sign of a correction, and buying every minor pump that ultimately gets retraced. Because so many market participants are entering during this phase, things get extra volatile. Related Reading: Bitcoin Trend Strength Exhibits Striking Similarities With Last Bull Run If this sounds familiar, this is precisely what&#8217;s going on with Bitcoin now, and it&#8217;s only going to pick up momentum as ETF-related investments are revealed. Compare the chart below referencing BTCUSD now versus late 2020. During the green box, bullish news was breaking all day long. Is BTC poised to double soon? &#124; BTCUSD on TradingView.com Show Me The Charts, And I&#8217;ll Tell You The News An onslaught of big companies began buying BTC, such as MicroStrategy, Tesla, and Square. From the bottom of what is labeled wave (iv) in BTCUSD to the top of wave (v) in 2020 into early 2021, the first ever cryptocurrency went on a 136% run. This caused price to more than double from around $18,000 to $42,000. Today, Bitcoin is in a similar wave count, with news catalysts ready to help propel the crypto market higher. If the Elliott Wave Principle count is accurate, BTCUSD could see a similarly move where it doubles in a matter of a month. Another 136% increase from here would take BTC to around $95,000 per coin and complete wave (v) and wave 3. Related Reading: Bitcoin Enters Uncharted Territory with First Ever Golden Cross Wave 3&#8217;s are commonly referred to as an impulse wave. An impulse wave can be sub-divided into five sub-waves. When the powerful wave 3 ascent is over, only a short-lived wave 4 sharp correction should follow, at which point wave 5 will begin and complete the cycle. Tony is the author of the CoinChartist (VIP) newsletter. Sign up for free. Follow @TonyTheBullBTC &#38; @coinchartist_io on Twitter. Or join the TonyTradesBTC Telegram for daily market insights and technical analysis education. Please note: Content is educational and should not be considered investment advice. Featured image from Shutterstock, Charts from TradingView.com"
+    "date": "2024-01-11T20:00:06.000Z",
+    "title": "Shiba Inu Team’s Record 9.35 Billion SHIB Burn Sends Burn Rate Soaring",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-9-35-billion-shib-burn/",
+    "description": "The Shiba Inu burn rate is not slowing down, especially now that the SHIB team has officially joined the effort. This participation from the Shiba Inu team has led to some of the largest daily SHIB burns that have been recorded since the burn initiative started. And now, once again, the team has carried out another massive burn that sent the burn rate surging. Shiba Inu Team Burns 9.35 Billion Tokens In the latest iteration of the Shiba Inu team burn, a total of 9.35 billion SHIB have now been sent to the burn address. At the time of the transaction, the 9.35 billion SHIB was worth a total of $92,953.36. This makes it the largest burn that the team has carried out since it began burning tokens. Related Reading: Cardano Price Explosion: Crypto Analyst Predicts ADA Price To Hit $6 The token burn which took place on January 9 triggered a substantial surge in the daily SHIB burn rate. According to data from the Shiba Inu burn tracking website Shibburn, the team’s burn caused the burn rate to spike by 28,659% in the 24-hour period. This spike represents the highest spike in the burn rate in 2024 so far, suggesting a bullish start to the year for the token. However, the burn rate has since taken a nosedive as the burn figures fell short of expectations between Wednesday and Thursday. Shibburn data shows a 99.94% decline in the burn rate at the time of writing, with only a little over 5.3 million SHIB tokens burned in the last day. There have also been only four burn transactions carried out in the 24-hour period at the time of writing, following the same trend from the last few days. SHIB price above $0.00001 &#124; Source: SHIBUSD on Tradingview.com SHIB Burn Gains Steam Despite the decline in the burn rate in the last day, the community is still looking at more significant burns as time goes on. One of the developments that guarantee these burns is the fact that Shiba Inu burns are now being automated directly through the Shibarium network. Related Reading: XRP Whales Make Big Moves Amid Market Volatility The burn automation was revealed by the Shiba Inu team which revealed that there will be a two-pronged approach to this process. The first, which is how the team has been burning tokens, is manually sending tokens from the deployer wallet to the burn address. The second approach, which is the most significant, will see an automated SHIB burn system from Shibarium put in place in January. This automated burn mechanism has sparked excitement in the SHIB community as some expect as much as 9.25 trillion tokens to be burned monthly. Featured image from CoinGape, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-11T19:59:32.000Z",
+    "title": "GBTC Converges to NAV: A Sign of Maturity for the Crypto Industry, Experts Say",
+    "url": "https://www.crypto-news-flash.com/gbtc-converges-to-nav-a-sign-of-maturity-for-the-crypto-industry-experts-say/?utm_source=rss&utm_medium=rss&utm_campaign=gbtc-converges-to-nav-a-sign-of-maturity-for-the-crypto-industry-experts-say",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-08.05.39-An-updated-illustration-focusing-on-the-United-States-Securities-and-Exchange-Commission-SEC-in-relation-to-the-Bitcoin-ETF-decision-and-the-alleged-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The Grayscale Bitcoin Trust (GBTC) discount to net asset value (NAV) closes completely, marking an important milestone. The approval of the move to an ETF boosts the maturity of the crypto market, alleviating concerns about persistent discounts. The closing of the discount to net asset value (NAV) by the Grayscale Bitcoin Trust (GBTC) marks a [...]"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-01-11T19:41:26.000Z",
-    "title": "Bitcoin (BTC) Reaches $49,000 As Spot ETFs Kick Off Trading in the US After SEC Approval",
-    "url": "https://dailyhodl.com/2024/01/11/bitcoin-btc-reaches-49000-as-spot-etfs-kick-off-trading-in-the-us-after-sec-approval/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/sec-official-btc-etf.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Bitcoin (BTC) is skyrocketing after the U.S. Securities and Exchange Commission (SEC) approved a slew of bids to create spot market BTC exchange-traded funds (ETFs). The highly anticipated move by the regulatory agency – which saw it approve the applications of several marquee firms such as BlackRock (IBIT), Fidelity (FBTC), Invesco (BTCO), ARK Invest (ARKB), [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/11/bitcoin-btc-reaches-49000-as-spot-etfs-kick-off-trading-in-the-us-after-sec-approval/\">Bitcoin (BTC) Reaches $49,000 As Spot ETFs Kick Off Trading in the US After SEC Approval</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-11T19:46:19.000Z",
+    "title": "Zeitgeist Announces Revolutionary Integration With Polkassembly To Enhance Polkadot Governance",
+    "url": "https://dailyhodl.com/2024/01/11/zeitgeist-announces-revolutionary-integration-with-polkassembly-to-enhance-polkadot-governance/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Zeitgeist-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 11, 2024 – Berlin, Germany Innovative collaboration enables users to predict and profit from governance decisions.  Zeitgeist – a leading prediction markets DApp in the Polkadot ecosystem – is thrilled to announce a pioneering integration with Polkassembly, transforming the landscape of decentralized governance. Marking a significant milestone for the Polkadot ecosystem, the collaboration allows [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/11/zeitgeist-announces-revolutionary-integration-with-polkassembly-to-enhance-polkadot-governance/\">Zeitgeist Announces Revolutionary Integration With Polkassembly To Enhance Polkadot Governance</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-01-11T19:25:49.000Z",
-    "title": "DappRadar Integrates Games and DApps on Oasys To Support Verses, Showing Five Games Leading UAW Rankings",
-    "url": "https://dailyhodl.com/2024/01/11/dappradar-integrates-games-and-dapps-on-oasys-to-support-verses-showing-five-games-leading-uaw-rankings/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Oasys-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 11, 2024 – Singapore, Singapore Gaming optimized blockchain Oasys is excited to announce a significant milestone in its journey. From today, the diverse range of games and DApps (decentralized applications) built on the network will be listed on DappRadar, the world’s leading DApp store. This collaboration marks an important step in increasing the accessibility [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/11/dappradar-integrates-games-and-dapps-on-oasys-to-support-verses-showing-five-games-leading-uaw-rankings/\">DappRadar Integrates Games and DApps on Oasys To Support Verses, Showing Five Games Leading UAW Rankings</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-11T19:13:17.000Z",
-    "title": "INTMAX Announces Link Transfer – A Revolutionary Way To Send Crypto to Anyone Using Its Wallet",
-    "url": "https://dailyhodl.com/2024/01/11/intmax-announces-link-transfer-a-revolutionary-way-to-send-crypto-to-anyone-using-its-wallet/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-INTMAX-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 11, 2024 – Lucerne, Switzerland The INTMAX Wallet team is excited to announce the launch of &#8216;Link Transfer&#8217; today, a groundbreaking feature addition. This innovative functionality transforms the process of sending crypto for both individuals and organizations, making it as simple as sending a message on a social network. The introduction of Link Transfer [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/11/intmax-announces-link-transfer-a-revolutionary-way-to-send-crypto-to-anyone-using-its-wallet/\">INTMAX Announces Link Transfer – A Revolutionary Way To Send Crypto to Anyone Using Its Wallet</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-11T19:45:37.000Z",
+    "title": "Apple Expunges Binance, Kraken, Kucoin, Huobi and Other Crypto Exchanges From App Store in India: Report",
+    "url": "https://dailyhodl.com/2024/01/11/apple-expunges-binance-kraken-kucoin-huobi-and-other-crypto-exchanges-from-app-store-in-india-report/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/apple-expunges-from-app.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Apple has reportedly booted out several crypto exchanges from its app store in India amid allegations that most of these platforms are illegally operating in the country. TechCrunch reports that Binance, Kraken, Huobi, Gate.io, Bittrex, Bitfinex and OKX&#8217;s apps are no longer accessible on Apple&#8217;s India app store, though customers who have already installed them [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/11/apple-expunges-binance-kraken-kucoin-huobi-and-other-crypto-exchanges-from-app-store-in-india-report/\">Apple Expunges Binance, Kraken, Kucoin, Huobi and Other Crypto Exchanges From App Store in India: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

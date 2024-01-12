@@ -1,429 +1,93 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-12T15:54:32.000Z",
-    "title": "Bitwise, Fidelity, BlackRock See Biggest Bitcoin ETF Inflow in Preliminary Tally",
-    "url": "https://www.coindesk.com/markets/2024/01/12/bitwise-fidelity-blackrock-see-biggest-bitcoin-etf-inflow-in-preliminary-tally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Data about inflows is still incomplete and market watchers might have to wait until Friday evening for the full picture, Bloomberg analyst Eric Balchunas pointed out."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-12T15:50:53.000Z",
-    "title": "Genesis Global Trading Pays $8M to Settle New York Lawsuit",
-    "url": "https://www.coindesk.com/policy/2024/01/12/genesis-global-trading-pays-8m-to-settle-new-york-lawsuit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Genesis Global Trading has agreed to pay $8 million and give up its BitLicense to settle anti-money laundering and fraud charges against it, New York State Department of Financial Services (DFS) Superintendent Adrienne A. Harris said Friday in a statement."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-12T15:50:04.000Z",
-    "title": "Taproot Wizards, Bitcoin Ordinals Project That Raised $7.5M, to Sell 'Quantum Cats' Collection",
-    "url": "https://www.coindesk.com/tech/2024/01/12/taproot-wizards-bitcoin-ordinals-project-that-raised-75m-to-sell-quantum-cats-collection/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The \"NFTs on Bitcoin\" project has capitalized on the popularity of the controversial Ordinals protocol, which has generated a flurry of interest in the original blockchain but added to congestion and higher fees."
+    "source": "Decrypt",
+    "date": "2024-01-12T16:27:50.000Z",
+    "title": "Genesis Pays $8 Million and Forfeits BitLicense to Settle New York Charges",
+    "url": "https://decrypt.co/212656/genesis-pays-8-million-and-forfeits-bitlicense-to-settle-new-york-charges",
+    "description": "Genesis Trading has had its BitLicense since 2018."
   },
   {
     "source": "Decrypt",
-    "date": "2024-01-12T15:38:04.000Z",
-    "title": "CoinShares Acquires Valkyrie Funds—And the BRRR Bitcoin ETF With It",
-    "url": "https://decrypt.co/212627/coinshares-acquires-valkyrie-funds-brrr-bitcoin-etf",
-    "description": "The acquisition includes the Valkyrie Bitcoin Fund, which trades under the BRRR ticker on Nasdaq."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-12T15:01:02.000Z",
-    "title": "Taproot Wizards Launch Quantum Cats Collection As Bitcoin Inscriptions",
-    "url": "https://decrypt.co/212594/taproot-wizards-launch-quantum-cats-bitcoin-ordinals-collection",
-    "description": "The 3,333-image images on the Bitcoin blockchain cost $66,000 to create."
+    "date": "2024-01-12T16:17:27.000Z",
+    "title": "Ethereum Rallies as BlackRock Boss Eyes ETH ETF After Bitcoin",
+    "url": "https://decrypt.co/212662/ethereum-rallies-blackrock-boss-eyes-eth-etf-after-bitcoin",
+    "description": "Analysts think an ETH ETF is now a slam dunk, sending Ethereum pumping 18% in the last week amid the Bitcoin ETF rollout in the U.S."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-12T15:05:00.000Z",
-    "title": " Ether price jumps 20% vs. Bitcoin as BlackRock boosts Ethereum ETF bets ",
-    "url": "https://cointelegraph.com/news/ether-price-jumps-20-bitcoin-blackrock-ethereum-etf",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZGEyYzA3OWMtOTk5OS00ZDA0LWE4YzUtNjA0MmFhMTFlNjRiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ethereum ETF “value” is acknowledged by CEO Larry Fink as ETH’s price rises sharply in both U.S. dollar and BTC terms.</p>\n                    <p><p data-ct-non-breakable=\"true\">Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) has gained more than 20% against Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) in 72 hours, and traders see further upside to come.</p><p data-ct-non-breakable=\"true\">Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> shows ETH/BTC rising from yearly lows of 0.0478 on Jan. 9 to hit 0.0587 on the day.</p><p>ETH/USD is also busy breaking out, seeing levels absent from the chart since mid-2022.</p><p><a href=\"https://cointelegraph.com/news/ether-price-jumps-20-bitcoin-blackrock-ethereum-etf\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-12T14:58:13.000Z",
-    "title": " Genesis Global Trading settles with NYDFS, will forfeit BitLicense and pay $8M ",
-    "url": "https://cointelegraph.com/news/genesis-settlement-nydfs-forfeit-bitlicense",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvODk3NTRkN2QtYzVjNC00NWM0LTllZGUtMjYwMmM3ODFjOTMwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>According to the New York regulator, Genesis had compliance failures that violated crypto and cybersecurity regulations, leaving the company “vulnerable to illicit activity.”</p>\n                    <p><p data-ct-non-breakable=\"true\">Cryptocurrency firm Genesis Global Trading has agreed to settle with the New York Department of Financial Services (NYDFS), surrendering its ability to conduct operations in the state.</p><p>According to a Jan. 12 announcement, Genesis <a href=\"https://www.dfs.ny.gov/reports_and_publications/press_releases/pr2024011224\" target=\"_blank\" rel=\"noopener nofollow\">agreed</a> to pay an $8-million penalty to the NYDFS, cease operations in New York, and surrender its BitLicense, which the firm had held since 2018. The settlement followed an investigation in which New York authorities discovered “significant failings” in Genesis’ Anti-Money Laundering and cybersecurity programs.</p><p>“Genesis Global Trading’s failure to maintain a functional compliance program demonstrated a disregard for the Department’s regulatory requirements and exposed the company and its customers to potential threats,” said NYDFS Superintendent Adrienne Harris.</p><p><a href=\"https://cointelegraph.com/news/genesis-settlement-nydfs-forfeit-bitlicense\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-12T14:24:03.000Z",
-    "title": " CoinShares exercises option to acquire U.S. Bitcoin ETF issuer Valkyrie ",
-    "url": "https://cointelegraph.com/news/coinshares-exercises-option-buy-valkyrie",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNWZhNGE1MDYtNGVhNC00ZWEwLWE3MTAtNGQzYTUyNWMxZGQyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>After securing the option to acquire Valkyrie’s crypto unit in November 2023, CoinShares is exercising the option after Valkyrie’s spot Bitcoin ETF listing on Nasdaq.</p>\n                    <p><p>European cryptocurrency investment firm CoinShares is progressing with a potential acquisition of its United States competitor, Valkyrie Funds, which is also an issuer of a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) in the country.</p><p data-ct-non-breakable=\"true\">CoinShares on Jan. 12 <a href=\"https://www.prnewswire.com/news-releases/coinshares-exercises-option-to-acquire-valkyrie-funds-302033313.html#:~:text=CoinShares'%20decision%20to%20exercise%20this,such%20products%20in%20the%20U.S\" target=\"_blank\" rel=\"noopener nofollow\">confirmed</a> the exercise of its strategic option to acquire Valkyrie, strengthening its efforts to enter the U.S. market.</p><p data-ct-non-breakable=\"true\">A spokesperson for CoinShares declined to disclose the terms of the deal to Cointelegraph. The representative noted:</p><p><a href=\"https://cointelegraph.com/news/coinshares-exercises-option-buy-valkyrie\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-12T14:22:33.000Z",
-    "title": " South Korean regulator warns against US Bitcoin ETF trading ",
-    "url": "https://cointelegraph.com/news/south-korean-regulator-warns-against-us-bitcoin-etf-trading",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNDFiNGZkNjAtMmM0Mi00ZGRkLWI1NWItNzJjZTU5NjEzNGQxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The South Korean Financial Services Commission may review and update its regulations with regard to the Bitcoin spot ETF trade approval in the United States.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Financial Services Commission (FSC), a principal financial regulator in South Korea, has warned local firms against brokering spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETFs) from the United States.</p><p>On Jan. 12, the FSC <a href=\"https://www.fsc.go.kr/no010101/81456\" target=\"_blank\" rel=\"noopener nofollow\">issued</a> a brief press release emphasizing that domestic securities firms brokering overseas-listed spot Bitcoin ETFs “may violate” the existing government stance on virtual assets and the Capital Markets Act.</p><p>However, the statement notes that the regulatory regime for crypto in the country is still in its established stages. Thus, the commission plans to review the regulations regarding the updates overseas, specifically in the United States.</p><p><a href=\"https://cointelegraph.com/news/south-korean-regulator-warns-against-us-bitcoin-etf-trading\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-12T14:01:00.000Z",
-    "title": " Spot Bitcoin ETF approved in the US: What to expect next ",
-    "url": "https://cointelegraph.com/news/spot-bitcoin-etf-what-to-expect",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZjYxMjgyYTAtZTJhMC00NDhmLThkYzYtNzgxN2FhYzYyNjNlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Industry experts predict what to expect next following the approval of spot Bitcoin ETFs in the United States. </p>\n                    <p><p data-ct-non-breakable=\"true\">On Jan. 9, the United States Securities and Exchange Commission (SEC) <a href=\"https://cointelegraph.com/news/sec-account-hacked-no-spot-bitcoin-etf-approval\">scrambled as it tried to recover</a> from an erroneous tweet announcing the approval of a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF).</p><p>This left many members of the cryptocurrency community on pins and needles. But, just a day after this chaotic event, the SEC officially announced that it had <a href=\"https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals\">approved the first regulated spot Bitcoin ETF</a> in the United States.</p><p>While notable, many people may now be wondering what to expect next. The approval of spot Bitcoin ETFs in the U.S. will further lead to the institutionalization of Bitcoin, but industry experts have pointed out that other factors will come into play.</p><p><a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-what-to-expect\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-12T15:09:27.000Z",
-    "title": "Grayscale transfers $200M Bitcoin to Coinbase Prime hinting at possible ETF redemption activity",
-    "url": "https://cryptoslate.com/grayscale-transfers-200m-bitcoin-to-coinbase-prime-hinting-at-possible-etf-redemption-activity/",
-    "description": "<p>Grayscale has begun moving Bitcoin out of its trust and sending it to Coinbase as of 2 p.m. GMT, Jan. 12. A total of 4,000 BTC (roughly $200M) has been sent as of press time, with all Bitcoin going to Coinbase Prime, one of the key participants in the series of Bitcoin ETFs launched yesterday. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/grayscale-transfers-200m-bitcoin-to-coinbase-prime-hinting-at-possible-etf-redemption-activity/\">Grayscale transfers $200M Bitcoin to Coinbase Prime hinting at possible ETF redemption activity</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-12T14:55:23.000Z",
-    "title": "Bitcoin’s miner fee revenue plummets by 50% from recent highs",
-    "url": "https://cryptoslate.com/insights/bitcoins-miner-fee-revenue-plummets-by-50-from-recent-highs/",
-    "description": "<p>Quick Take A marked shift in Bitcoin&#8217;s fee structure has become noticeable as the digital asset continues to fluctuate. Bitcoin&#8217;s fees have seen a significant decrease of 50% from the peak of its recent mini-bull run. In numerical terms, by the end of Dec. 2023, the total amount paid to miners in fees stood at [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoins-miner-fee-revenue-plummets-by-50-from-recent-highs/\">Bitcoin&#8217;s miner fee revenue plummets by 50% from recent highs</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-12T14:36:57.000Z",
-    "title": "Hut 8 expands borrowing capacity with Coinbase to $65 million, acquires natural gas power plants",
-    "url": "https://cryptoslate.com/hut-8-expands-borrowing-capacity-with-coinbase-to-65-million-acquires-natural-gas-power-plants/",
-    "description": "<p>Bitcoin miner Hut 8 has secured an additional $15 million from a subsidiary of the United States-based cryptocurrency exchange, Coinbase, according to a Jan. 12 statement. The miner revealed that the new deal represents an amendment and restatement of its previous $50 million credit facility with the cryptocurrency trading platform, bringing its cumulative credit portfolio [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/hut-8-expands-borrowing-capacity-with-coinbase-to-65-million-acquires-natural-gas-power-plants/\">Hut 8 expands borrowing capacity with Coinbase to $65 million, acquires natural gas power plants</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-12T13:45:10.000Z",
-    "title": "CoinShares leverages Valkyrie acquisition to enter US Bitcoin ETF arena",
-    "url": "https://cryptoslate.com/coinshares-leverages-valkyrie-acquisition-to-enter-us-bitcoin-etf-arena/",
-    "description": "<p>Europe-based asset management firm CoinShares has exercised its option to acquire Valkyrie&#8217;s crypto-focused exchange-traded funds (ETF) investment advisory business, expanding its business into the U.S. In a Jan. 12 statement, CoinShares explained that the deal follows the recent approval of Valkyrie&#8217;s spot Bitcoin ETF, the Valkyrie Bitcoin Fund (BRRR), by the U.S. Securities and Exchange Commission [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinshares-leverages-valkyrie-acquisition-to-enter-us-bitcoin-etf-arena/\">CoinShares leverages Valkyrie acquisition to enter US Bitcoin ETF arena</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-01-12T15:00:17.000Z",
-    "title": "Ripple spot ETF approval unlikely this year, says Bloomberg analyst",
-    "url": "https://cryptobriefing.com/ripple-spot-etf-approval-unlikely-year-bloomberg-analyst/?utm_source=feed&utm_medium=rss",
-    "description": "Seyffart predicts a remote possibility of spot Ripple ETF approval this year, citing SEC lawsuit and CME futures market limitations."
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-01-12T15:21:13.000Z",
-    "title": "BlackRock CEO Larry Fink Advocates for Spot Ethereum ETF, Highlights Tokenization Future",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/blackrock-ceo-larry-fink-advocates-for-spot-ethereum-etf-highlights-tokenization-future/",
-    "description": "Earlier today, during a conversation with CNBC’s Andrew Ross Sorkin, Larry Fink, CEO of BlackRock, the world’s largest asset manager, expressed support for the creation of a spot Ethereum (ETH) exchange-traded fund (ETF). This statement came a day after the launch of the much-anticipated spot Bitcoin ETFs in the U.S. Support for a Spot Ethereum […]\n"
+    "date": "2024-01-12T16:11:25.000Z",
+    "title": " Grayscale court decision was key to Bitcoin ETF approval, says Gary Gensler ",
+    "url": "https://cointelegraph.com/news/grayscale-court-decision-key-bitcoin-etf-approval-says-gary-gensler",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOGMxOWEwNTEtNmZmNi00NGM3LWEyZjAtYTE5NGRjYzY5MjUxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The SEC chair said Grayscale’s court decision “changed” the Commission’s approach to spot Bitcoin ETF trading on Wall Street.</p>\n                    <p><p>Gary Gensler, chairman of the U.S. Securities and Exchange Commission (SEC), acknowledged on Jan. 12 that Grayscale’s court victory was crucial in approving spot Bitcoin exchange-traded funds (ETFs). </p><p>Although the SEC has denied several applications for a similar product since 2013, Gensler said during an interview with CNBC’s Squawk Box that the court decision in favor of asset manager Grayscale in August 2023 changed the SEC’s perspective over the crypto investment vehicle: </p><p data-ct-non-breakable=\"true\">Despite the go-head, Gensler reiterated that the approval was not an endorsement of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>). \"We do not endorse [Bitcoin].\"</p><p><a href=\"https://cointelegraph.com/news/grayscale-court-decision-key-bitcoin-etf-approval-says-gary-gensler\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-12T16:07:08.000Z",
-    "title": "5 Tokens Set to Mirror BONK's Impressive Growth",
-    "url": "https://cryptodaily.co.uk/2024/01/5-tokens-set-to-mirror-bonks-impressive-growth",
-    "description": "Explore 5 Tokens Set to Emulate BONK's Growth, Including Izumi Finance (IZI), Hashflow (HFT), Arbitrum (ARB), Optimism (OP), and Samoyedcoin (SAMO). Discover their potential in the volatile crypto market in 2024."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-12T16:01:43.000Z",
-    "title": "Optimism (OP) and Celestia (TIA) Record Impressive Monthly Increase; Everlodge (ELDG) Radical Change to the Real Estate Industry Gets Accolades",
-    "url": "https://cryptodaily.co.uk/2024/01/optimism-op-and-celestia-tia-record-impressive-monthly-increase-everlodge-eldg-radical-change-to-the-real-estate-industry-gets-accolades",
-    "description": "Optimism (OP) and Celestia (TIA) entered 2024 with impressive price actions as investors began accumulating the tokens."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-12T15:52:12.000Z",
-    "title": "Whales Accumulate Ripple (XRP) and Bitcoin (BTC) After EFT approval - New Presale Meme Moguls Races Past 1.5M",
-    "url": "https://cryptodaily.co.uk/2024/01/whales-accumulate-ripple-xrp-and-bitcoin-btc-after-eft-approval-new-presale-meme-moguls-races-past-15m",
-    "description": "The crypto market is expected to boom this week, with speculations that at least one Bitcoin spot ETF application will be accepted"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-12T15:23:53.000Z",
-    "title": "This Ethereum (ETH) alternative is just $0.07 now and is expected to reach the top 10 coins in 2024 itself",
-    "url": "https://cryptodaily.co.uk/2024/01/this-ethereum-eth-alternative-is-just-007-now-and-is-expected-to-reach-the-top-10-coins-in-2024-itself",
-    "description": "The cryptocurrency arena, marked by its ever-changing landscape, is witnessing the rise of formidable contenders challenging established giants"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-12T15:20:06.000Z",
-    "title": "2024's Promising Altcoins: A Journey to Success Echoing Ethereum at $100",
-    "url": "https://cryptodaily.co.uk/2024/01/2024s-promising-altcoins-a-journey-to-success-echoing-ethereum-at-100",
-    "description": "Discover potential investment opportunities in the evolving cryptocurrency market of 2024. Dive into altcoins like Aptos (APT), Arbitrum (ARB), Sui (SUI), Sei (SEI), and Xai (XAI) offering growth prospects reminiscent of Ethereum's early days when it was priced at $100. Get insights on their recent performance, trends, and potential for crypto enthusiasts and investors."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-12T15:06:23.000Z",
+    "date": "2024-01-12T16:22:32.000Z",
     "title": "January Gems: Top Coins to Kickstart Your 2024 Investment Journey",
     "url": "https://cryptodaily.co.uk/2024/01/january-gems-top-coins-to-kickstart-your-2024-investment-journey",
     "description": "With January bringing a new wave of interest in cryptocurrencies, experts have picked the best altcoins to buy. Chainlink (LINK) and Bitcoin Cash (BCH) are the older top altcoins in focus."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-12T14:58:55.000Z",
-    "title": "Whales’ Top 3 Favorite Memecoins: BONK, PEPE, and NuggetRush",
-    "url": "https://cryptodaily.co.uk/2024/01/whales-top-3-favorite-memecoins-bonk-pepe-and-nuggetrush",
-    "description": "Whales often know where the money is or can identify promising narratives. Hence, mirroring whales’ plays has become a popular investment strategy in the crypto space"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-12T16:00:32.000Z",
-    "title": "6 AI Chatbots Forecast Bitcoin’s 2024 Finale — Predicting $60K to $90K Amid ETF Inflows and Halving Hype",
-    "url": "https://news.bitcoin.com/6-ai-chatbots-forecast-bitcoins-2024-finale-predicting-60k-to-90k-amid-etf-inflows-and-halving-hype/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"6 AI Chatbots Forecast Bitcoin&#039;s 2024 Finale — Predicting $60K to $90K Amid ETF Inflows and Halving Hype\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/6robots.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In November 2023, six unique AI-driven chatbots were queried to forecast the value of bitcoin by year-end, with their projections spanning from $15,000 to $45,000 per bitcoin. As of the initial week of January 2024, bitcoin&#x2019;s trading value reached $47,000, coinciding with the approval of 11 spot bitcoin exchange-traded funds (ETFs) in the U.S. With [&#8230;]"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-12T15:00:13.000Z",
-    "title": "SEC Seeks Court Order for Ripple’s Financial Statements in Ongoing Legal Tussle",
-    "url": "https://news.bitcoin.com/sec-seeks-court-order-for-ripples-financial-statements-in-ongoing-legal-tussle/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"SEC&#039;s Legal Pursuit of Ripple Continues With Request to Disclose Financials and XRP Contracts\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ripple_sec.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The legal battle between the SEC and Ripple Labs continues, with the SEC seeking court intervention to obtain Ripple&#x2019;s financial statements and data on institutional XRP sales. SEC&#x2019;s Legal Pursuit of Ripple Continues With Request to Disclose Financials and XRP Contracts The U.S. Securities and Exchange Commission (SEC) has intensified its scrutiny of the cryptocurrency [&#8230;]"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-12T14:04:26.000Z",
-    "title": "Bitcoin Technical Analysis: BTC in Consolidation Phase as Upper Resistance Strengthens",
-    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-btc-in-consolidation-phase-as-upper-resistance-strengthens/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: BTC in Consolidation Phase as Upper Resistance Strengthens\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfddss.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The leading cryptocurrency, bitcoin, has remained within a limited price range since yesterday. This followed yesterday&#x2019;s quick surge to the $49K level, which then declined in the early trading hours of Thursday. Although there was a transient increase to the $47K mark, the value has stayed under the $46K threshold since that point. Notably, there [&#8230;]"
+    "date": "2024-01-12T16:14:54.000Z",
+    "title": "Top analyst predicts Pushd (PUSHD) will overtake Solana (SOL) and Cardano (ADA) during 2024",
+    "url": "https://cryptodaily.co.uk/2024/01/top-analyst-predicts-pushd-pushd-will-overtake-solana-sol-and-cardano-ada-during-2024",
+    "description": "In the ever-changing world of cryptocurrencies, where big names like Solana (SOL) and Cardano (ADA) are in the spotlight, a fresh player Pushd (PUSHD),"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T16:02:05.000Z",
-    "title": "AI, Security, and Sustainability Take Center Stage in Logicalis’ 2024 Strategy",
-    "url": "https://www.cryptopolitan.com/ai-security-and-sustainability-take-center/",
-    "description": "Logicalis CEO Bob Bailkoski has outlined the key areas driving the company&#8217;s business in 2024. In a recent statement, Bailkoski expressed optimism about the upcoming year and highlighted three key focus areas: artificial intelligence (AI), security, and sustainability. These trends will dominate customer conversations and shape IT investments in the coming months. AI takes center [&#8230;]"
+    "date": "2024-01-12T16:38:21.000Z",
+    "title": "Ethereum ETF coming in 4 months? Experts think so",
+    "url": "https://www.cryptopolitan.com/ethereum-etf-coming-in-4-months/",
+    "description": "The world of cryptocurrency is buzzing with anticipation as Ethereum (ETH) eyes its next big leap. Following the historic nod from the U.S. Securities and Exchange Commission (SEC) for 11 Bitcoin Exchange Traded Funds (ETFs) earlier, the focus has now shifted to Ethereum. The potential for an Ethereum ETF has experts and enthusiasts alike perched [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T16:01:47.000Z",
-    "title": "CoinShares to Acquire Valkyrie Funds After SEC Approves Spot Bitcoin ETF",
-    "url": "https://www.cryptopolitan.com/coinshare-valkyrie-fund-sec-spot-bitcoin-etf/",
-    "description": "CoinShares, a leading investment firm, has recently announced a strategic move to expand its influence in the digital asset space by exercising its option to acquire Valkyrie Funds. The decision comes on the heels of the U.S. Securities and Exchange Commission (SEC) approving Valkyrie&#8217;s spot bitcoin exchange-traded fund (ETF), marking a significant milestone in the [&#8230;]"
+    "date": "2024-01-12T16:35:43.000Z",
+    "title": "Injective Embarks on a New Era with the Volan Mainnet Upgrade",
+    "url": "https://www.cryptopolitan.com/injective-embarks-volan-mainnet-upgrade/",
+    "description": "Injective, a pioneering entity in the realm of Web3  finance, has now marked a significant milestone with the launch of its most extensive mainnet upgrade to date: the Volan Upgrade. The development signifies the dawn of a new era in digital finance, the company is introducing a suite of innovative features and capabilities that are [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T16:01:01.000Z",
-    "title": "Unveiling AI Integration: 2024 Marks the Year of Organic Adoption",
-    "url": "https://www.cryptopolitan.com/unveiling-ai-integration-2024-marks-the-year/",
-    "description": "In the wake of 2023&#8217;s public unveiling of artificial intelligence (AI), 2024 is poised to witness the integration of AI into the very fabric of society. Despite historical patterns indicating the gradual adoption of transformative technologies, AI distinguishes itself by experiencing organic assimilation. Unlike past innovations requiring top-down corporate strategies and substantial capital investments, AI&#8217;s [&#8230;]"
+    "date": "2024-01-12T16:29:23.000Z",
+    "title": "What BlackRock actually thinks about blockchain and crypto coins",
+    "url": "https://www.cryptopolitan.com/blackrock-on-blockchain-and-crypto-coins/",
+    "description": "The financial world is witnessing a transformative era, and BlackRock, the colossal asset management firm, is not just observing from the sidelines. They&#8217;re actively shaping this new landscape, particularly in the realm of blockchain and cryptocurrencies. It&#8217;s a bold new chapter, with BlackRock&#8217;s CEO Larry Fink at the helm, steering the conversation beyond mere speculation [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T15:55:43.000Z",
-    "title": "Mastercard Unveils Groundbreaking Small Business AI Initiative",
-    "url": "https://www.cryptopolitan.com/mastercard-unveils-small-business/",
-    "description": "Mastercard takes a bold step into the future of financial services with the launch of Mastercard Small Business AI, a revolutionary artificial intelligence tool designed to empower small business owners (SBEs) globally. Recognizing the vital role played by small businesses in the global economy, Mastercard aims to provide personalized guidance and support, addressing the challenges [&#8230;]"
+    "date": "2024-01-12T16:25:00.000Z",
+    "title": "Palworld Fighting: An Overview of Mechanics and Features",
+    "url": "https://www.cryptopolitan.com/palworld-fighting-overview/",
+    "description": "Discover the latest insights on Palworld fighting mechanics and gameplay features in this comprehensive overview, getting you ready for the exciting early access release."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T15:53:21.000Z",
-    "title": "EVGA GeForce RTX 3090 FTW3 Graphics Card Price Drops to $1,598.99",
-    "url": "https://www.cryptopolitan.com/evga-geforce-rtx-3090-card-price-drops/",
-    "description": "In a remarkable turn of events for tech enthusiasts, the EVGA GeForce RTX 3090 FTW3 graphics card is now available at a highly discounted price of $1,598.99 on Amazon. This significant price reduction of $321 from its original cost of $1,919.99 has caught the attention of gaming and creative communities alike. With unparalleled performance and [&#8230;]"
+    "date": "2024-01-12T16:18:18.000Z",
+    "title": "SkyArk Chronicles Secures $15 Million in Funding Led by Binance Labs",
+    "url": "https://www.cryptopolitan.com/skyark-chronicle-15-million-fund-binance-lab/",
+    "description": "SkyArk Chronicles, a prominent player in the Triple-A gaming platform sector, has recently completed a significant milestone in its growth journey. On January 12, 2024, the company announced the successful closure of a $15 million funding round, a major achievement in the highly competitive gaming industry. Binance Labs, the investment arm of the world’s leading [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T15:52:14.000Z",
-    "title": "Generative AI Revolutionizing the Creative Sphere",
-    "url": "https://www.cryptopolitan.com/generative-ai-revolutionizing-the-creative/",
-    "description": "Generative AI, a groundbreaking branch of artificial intelligence, is reshaping the creative landscape and offering numerous opportunities for businesses worldwide. This article explores how Generative AI transforms creative work, its advantages, challenges, and strategies for integrating this technology into your brand&#8217;s workflow. The power of Generative AI Generative AI leverages advanced machine learning algorithms and [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-12T15:45:39.000Z",
-    "title": "The Rise of Generative AI (GenAI) and its Impact on Enterprises",
-    "url": "https://www.cryptopolitan.com/the-rise-of-generative-ai-genai/",
-    "description": "In the ever-evolving landscape of technology, transformative innovations have consistently reshaped how we live, work, and interact. Over the past few decades, several technological revolutions have left an indelible mark on society, including the advent of personal computers, the internet, smartphones, and cloud computing.&#160; Today, we stand on the precipice of another groundbreaking transformation driven [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-12T15:41:48.000Z",
-    "title": "Telcoin Successfully Recovers User Balances After Exploit, Sees Surge in Deposits",
-    "url": "https://www.cryptopolitan.com/telcoin-recover-exploit-surge-deposit/",
-    "description": "Telcoin, a company known for developing financial applications for mobile users, including trading and remittance tools, recently faced a significant security challenge. The firm experienced an exploit leading to the unauthorized transfer of $1.2 million from some users&#8217; accounts. However, in a commendable move, The company has managed to restore all user balances within weeks [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-12T15:38:43.000Z",
-    "title": "AI Models Revolutionize Global Trade Surveillance",
-    "url": "https://www.cryptopolitan.com/ai-models-global-trade-surveillance/",
-    "description": "In the dynamic arena of global trade, artificial intelligence (AI) models have emerged as indispensable tools, offering a prescient gaze into the future of commerce. These advanced models, powered by machine learning algorithms, exhibit a unique ability to predict and identify unusual trade patterns before they materialize. Their efficacy lies in the analysis of extensive [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-12T15:29:33.000Z",
-    "title": "AUC Coin Integration Redefines Access to Finance in South Africa",
-    "url": "https://www.cryptopolitan.com/auc-coin-integration-redefines-access-to-finance-in-south-africa/",
-    "description": "TL ; DR Advanced Project has partnered with major retail giant Pick N Pay to integrate AUC Coin as a payment method at retail stores across South Africa. This strategic alliance will catalyze digital asset adoption and usher in a new era of cryptocurrency use within the region. South Africa has emerged as a leader [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T15:30:45.000Z",
-    "title": "BITCOIN CASH PRICE ANALYSIS & PREDICTION (January 12) – BCH Records Highest Weekly Volatile Session in Six Months, Up 16%",
-    "url": "https://nulltx.com/bitcoin-cash-price-analysis-prediction-january-12-bch-records-highest-weekly-volatile-session-in-six-months-up-16/",
-    "description": "The aftermath of spot Bitcoin ETF has sparked a lot of positivity in the market as many altcoins resumed bullish this week. BCH just flipped through its recent high, charging strong for a bigger price movement.  After exploding massively to $329 in June 2023, BCH lost momentum and later found [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T14:43:24.000Z",
-    "title": "FTX TOKEN PRICE ANALYSIS & PREDICTION (January 12) – FTT Rebounds With 18% Profits Amid Fresh Surge, Signals Buy",
-    "url": "https://nulltx.com/ftx-token-price-analysis-prediction-january-12-ftt-rebounds-with-18-profits-amid-fresh-surge-signals-buy/",
-    "description": "FTT found support this week after retracing for two weeks. The price bounced back earlier today as it gears up for another leg up. A surge through the last month’s resistance could set the asset for a big rally. In late 2023, when the overall market started to pick up, [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T14:05:19.000Z",
-    "title": "ETHEREUM CLASSIC PRICE ANALYSIS & PREDICTION (January 12) – ETC Breaks To A New Monthly High As It Jumps 30% In A Day",
-    "url": "https://nulltx.com/ethereum-classic-price-analysis-prediction-january-12-etc-breaks-to-a-new-monthly-high-as-it-jumps-30-in-a-day/",
-    "description": " Aside from ENS, which has stolen the show from Ethereum, ETC has joined the bullish party with an impressive gain in the last 24 hours. This has triggered a huge price explosion near its 17-month high. Following a solid bounce above $20 on the first day of the week, Ethereum [&#8230;]"
+    "date": "2024-01-12T16:15:00.000Z",
+    "title": "Uniswap Price Prediction 2024-2033: Will UNI Keep Steady?",
+    "url": "https://www.cryptopolitan.com/uniswap-price-prediction/",
+    "description": "Uniswap Price Prediction 2024-2033 For anyone considering the switch from centralized finance (CeFi) to decentralized finance (DeFi), here&#8217;s a thought: Why do we constantly update the Uniswap Price Prediction? The fight is on for the survival of the fittest crypto project, and we need to keep you informed despite social media maneuvers by certain quarters! [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-12T16:08:42.000Z",
-    "title": "NADA boasts 185% gains following listing announcement",
-    "url": "https://crypto.news/nada-boasts-185-gains-following-listing-announcement/",
-    "description": "According to a CoinGecko report, the NADA token protocol, supplied by a Korean gaming developer, was one of the top-trending coins on Jan. 12."
+    "date": "2024-01-12T16:41:23.000Z",
+    "title": "Sui, FTT anchors today’s top cryptocurrency gainers",
+    "url": "https://crypto.news/sui-ftt-anchors-todays-top-cryptocurrency-gainers/",
+    "description": "According to CoinMarketCap, the world's most-referenced price-tracking website for cryptoassets, SUI is the day's top gainer at 17%, followed by FTT and BLUR."
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-12T15:31:30.000Z",
-    "title": "BlackRock’s Larry Fink points to value in Ethereum ETFs, crypto asset class",
-    "url": "https://crypto.news/blackrocks-larry-fink-points-to-value-in-ethereum-etfs-crypto-asset-class/",
-    "description": "Larry Fink, CEO of BlackRock, likened Bitcoin to gold a day after spot BTC ETFs went live but forecasted slim chances for cryptos as currency."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-12T15:23:44.000Z",
-    "title": "Analyst: Bitcoin market setting in a major top",
-    "url": "https://crypto.news/analyst-bitcoin-market-setting-in-a-major-top/",
-    "description": "According to YouTube analyst Crypto Banter, the narrative around the Bitcoin ETF hype is starting to die down, prompting investors to start taking profits."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-12T14:35:50.000Z",
-    "title": "Whales respond to Ripple’s $285m buy-back plan: XRP price rally imminent?",
-    "url": "https://crypto.news/whales-respond-to-ripples-285m-buy-back-plan-xrp-price-rally-imminent/",
-    "description": "On-chain analysis examines how crypto whales' reaction to Ripple's share buy-back plan could impact XRP price action."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-12T14:25:15.000Z",
-    "title": "Dogecoin price bounces 13% as Elon Musk’s X teases P2P payments ",
-    "url": "https://crypto.news/dogecoin-price-elon-musks-x-teases-p2p-payments/",
-    "description": "Dogecoin price briefly grazed $0.09 on Jan. 12, up 13% since Elon Musk’s X announced plans to launch a P2P payment platform earlier in the week. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-12T16:00:08.000Z",
-    "title": "XRP Burn Hits Major Milestone, Can The Burns Propel Price To $1?",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-burn-major-milestone-1/",
-    "description": "The total number of XRP tokens burned just recently hit a major milestone. This has raised questions as to how much impact these burns can have on the value of the XRP tokens in circulation. Interestingly, Ripple’s CTO David Schwartz recently made some comments in this regard as he weighed in on whether or not XRP burns could affect the token’s value.  12 Million XRP Now Wiped Out Of Circulation Data from the XRP Scan shows that just over 12 million XRP tokens have now been burned and wiped out from circulation. This figure represents just 0.012% of XRP’s total available supply, which now stands at over 99.9 billion. Considering the magnitude of tokens still available, it is hard to imagine that the tokens burned so far can have so much impact on the token’s price. Related Reading: Crypto Analyst Reveals Why $0.087 Is A Key Profitable Level To Watch For Dogecoin It is also worth mentioning that the 12 million XRP burned so far is a cumulative total of all the tokens that have been wiped out from circulation since they were premined. As such, these tokens have been burned at separate times and not necessarily on a large scale. With this in mind, that could explain why the XRP community is calling for burns of Ripple’s XRP holdings.  Ripple currently has over 40 billion XRP in escrow. Burning a significant portion of these tokens could have more effect on the token&#8217;s price than the 12 million burned so far. However, Ripple’s CTO David Schwartz doesn’t believe that this would yield “any real benefits.” He also alluded to how Stellar burning 55 billion XLM tokens in 2019 didn’t have much impact on the token’s price.  Token price falls below $0.6 &#124; Source: XRPUSD On Tradingview.com Ripple’s XRP Holdings Might Not Be The Problem Talks about Ripple burning or at least disposing of a significant portion of their XRP holdings continue to spring up in the XRP community. This is because of accusations that the crypto firm is responsible for XRP’s stagnant price based on the belief that they continue to dump their tokens on the market.    Related Reading: Shiba Inu Team’s Record 9.35 Billion SHIB Burn Sends Burn Rate Soaring These allegations, however, seem unfounded, considering that it has been reported that Ripple’s XRP sales do not have an impact on the token’s price on crypto exchanges. If anything, the crypto firm somehow provides stability to the ecosystem as they are known to perform buybacks at different periods.  Ripple burning their escrowed tokens is also not an easy task, as Ripple’s CTO seemed to suggest in his latest remarks. It has been said in the past that Ripple will likely need the approval of validators to carry out these burns.  A former Ripple Director had previously mentioned that Ripple could simply disable the master key on the destination account that receives these escrowed funds. However, there are no assurances that this could achieve the same purpose as the tokens being wiped out from circulation.  Featured image from Crypto News, chart from Tradingview.com"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-12T15:00:47.000Z",
-    "title": "Lido (LDO) Action Heats Up: Nearly 90% Of Holders See Profits On Crypto Climb",
-    "url": "https://www.newsbtc.com/news/lido-ldo-action-heats-up-nearly-90-of-holders-see-profits-on-crypto-climb/",
-    "description": "The past week has been a triumphant one for Lido DAO, with its LDO token surging an impressive 22%, leaving a sluggish broader crypto market in its dust. This notable feat mirrors the 18% ascent of Ethereum, its underlying blockchain, showcasing a deep synergy between the leading liquid staking platform and its technological foundation. But the good news doesn&#8217;t stop there. A staggering 87% of Lido DAO token holders are reaping the rewards of their investment, according to data from IntoTheBlock. This solid figure underscores the strong performance of LDO, attributed largely to its stellar weekly performance, as the crypto trading analytics platform noted. Related Reading: Crypto CEO Bets Big: ‘Perfect Storm’ Event To Slingshot Bitcoin To $1 Million Lido Holders Get Good Returns From Their Investment Following a strong price move by $LDO this week, ~87% of LDO addresses are now in profit. pic.twitter.com/3rLodKvK21 — IntoTheBlock (@intotheblock) January 10, 2024 Furthermore, Lido&#8217;s Total Value Locked (TVL), a crucial metric reflecting the amount of cryptocurrency deposited in its protocol, has also ballooned a remarkable 19% in tandem with the price hike. Analysts attribute LDO&#8217;s ascent to a potent cocktail of factors. First and foremost, its symbiotic relationship with Ethereum. As the leading smart contract platform enjoys renewed momentum, projects built on its infrastructure – like Lido – relish the rising tide that lifts all boats. Furthermore, Lido&#8217;s recent bounce back from a critical support level at $2.80 appears to have ignited a bullish fervor. Technical indicators whisper of a potential retest of the $3.60 resistance barrier, suggesting further upward potential. Lido TVL. Source: Defillama Adding fuel to the fire is the skyrocketing demand for Ethereum staking. Lido&#8217;s user-friendly model allows investors to earn rewards on their ETH without locking them up for extended periods, a flexibility that resonates deeply with yield-hungry crypto enthusiasts. This, coupled with Lido&#8217;s robust platform and proven track record, is attracting new users at a steady pace. Strong TVL Numbers Put Lido In Contention The surging TVL is a testament to this burgeoning trust. As more users deposit their ETH on Lido, the total value locked in the protocol increases, further validating its platform and potentially attracting even more participants. This positive feedback loop could propel Lido towards solidifying its position as the premier Ethereum staking solution. LDO market cap currently at $3.3 billion. Chart: TradingView.com However, a note of prudent caution remains. Lido&#8217;s recent upswing hasn&#8217;t been entirely organic. The absence of major platform-specific developments raises questions about the rally&#8217;s long-term sustainability. Additionally, a large token sale earlier triggered a temporary dip, highlighting the potential for volatility. Related Reading: Ethereum Classic (ETC) Explodes Over 50% In Massive Price Jump – Here’s Why Technical analysis also suggests that breaking the $3.60 resistance is crucial for continued upward momentum. Failure to do so could lead to a pullback, and investors should be prepared for such a scenario. Ultimately, while Lido DAO is riding a wave of momentum, fueled by its association with Ethereum, its robust platform, and the ever-growing demand for liquid staking solutions, investors should approach with cautious optimism. Featured image from Freepik"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-12T14:00:49.000Z",
-    "title": "Cardano’s 2024 Kickoff: First Two Weeks Show Major Updates, Report",
-    "url": "https://www.newsbtc.com/news/cardano/cardano-2024-kickoff-first-two-weeks-show-major-updates-report/",
-    "description": "In a report from the educational tool Essential Cardano, the team behind Input Output Global (IOG) showed some of the latest updates to ship in the ecosystem. From performance to scalability, the network continues to implement improvements. Related Reading: Is Cardano The Next Solana? Institutional Investors Clamor For ADA Exposure Cardano has been regaining bullish momentum in the crypto market as the news of the spot Bitcoin Exchange Traded (ETF) fund in the US pushed the sector higher. At the time of writing, ADA’s price trades at $0.5 with a 7% profit in the last week. Big Updates, Big Things In Store? Cardano Picks Up Bullish Momentum According to the report from Essential Cardano, the network saw the introduction of a new version of its client, v.8.7.3, by its core technology team. The update addresses an issue with the outbound governor function, causing communication problems across specific nodes and impacting network performance. On the other hand, the networking and consensus teams implemented an update on the decision logic used by a cluster run by IOG and integrated a new ledger database, respectively. These updates will allow the network to mitigate performance issues. The report noted that the Lace team fixed a bug in the wallet and services sector that affected the singData method, impacting the visualization of stake pool rewards. The team also fixed issues with reading minting transaction data, stake pool visualization, and transaction signatures. An official post stated the following regarding a new feature that gave users more freedom to synchronize their wallets: Using multi-address wallets with Lace just got smoother, with a new simple way to discover and sync new addresses. Ready to make your life easier? Go to ‘Wallet Sync’ in your settings to resync your multi-address wallet and discover new addresses. After all, why shouldn’t we have our wallets and use them, simultaneously? Cardano Funding, Smart Contracts, And More On the smart contract side, the Cardano platform, Plutus, received an update to enhance its performance. In addition, the team implemented an update that allows the node to index consensus events and ledger states. This implementation represents a milestone in the platform’s long-term progress and in its capacity to deploy a queryable node, IOG noted. As in previous years, the Cardano ecosystem will stay focused on its community and in ways of promoting participation in its governance model. In that sense, the community awaits the release of a “constitution” to be agreed upon and voted by elected delegates. Related Reading: Cardano Price Explosion: Crypto Analyst Predicts ADA Price To Hit $6 Furthermore, the fundraising device for the ecosystem, Project Catalyst, will conclude its voter registration. This tool will continue to be a key ecosystem component throughout 2024. The post noted: Fund11 is progressing through the community review stage, now entering the moderation part where experienced community members help cross-check the output of the reviews. Results of this stage should be known within two weeks. The improvements have allowed the Cardano ecosystem to grow, deploy new features, and onboard new projects. All of which will be easier to visualize with the new Mithril Explorer. 🌐Meet Mithril Explorer, the gateway to the #Mithril ecosystem. Identify stake pools pioneers paving the way for the Mithril protocol. Kudos to our early adopters! 🙌 @X_StakePool_XSP, @canadastakes1, @sakakibara1JPN, and more. 🔍Explore now: https://t.co/IqFCqpb8qc #Cardano pic.twitter.com/9KsWp6gJly — Input Output (@InputOutputHK) January 12, 2024 Cover image from Unsplash, chart from Tradingview"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T16:02:12.000Z",
-    "title": "Litecoin’s Explosive Start to 2024: Trading Surge and $70 Price Rally Spark Enthusiasm",
-    "url": "https://www.crypto-news-flash.com/litecoins-explosive-start-to-2024-trading-surge-and-70-price-rally-spark-enthusiasm/?utm_source=rss&utm_medium=rss&utm_campaign=litecoins-explosive-start-to-2024-trading-surge-and-70-price-rally-spark-enthusiasm",
-    "description": "<img width=\"2501\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Litecoin-LTC-gold-coin-on-a-black-keyboard\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard.jpg 2501w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-300x144.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1024x491.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-768x368.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1536x737.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-2048x983.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-150x72.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-450x216.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1200x576.jpg 1200w\" sizes=\"(max-width: 2501px) 100vw, 2501px\" />Litecoin seems to be having a good year as existing network users increase activities, however, new demand for the network declined.  Analysts have observed that various technical indicators are showing a trend reversal. Litecoin (LTC) has made a 5.5% surge in the last 24 hours to trade at $75.51. In the last seven days, the [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T15:41:12.000Z",
-    "title": "Shiba Inu Burn Rate Skyrockets 400% Amidst Thrilling SHIB Price Rally",
-    "url": "https://www.crypto-news-flash.com/shiba-inu-burn-rate-skyrockets-400-amidst-thrilling-shib-price-rally/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inu-burn-rate-skyrockets-400-amidst-thrilling-shib-price-rally",
-    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba Inu Holding a $GOLDEN Token\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/shiba-6763358_1920-1200x600-1-1024x512.jpg 1024w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />As the network continues to burn Shiba Inu, the memecoin continues to cut down on its existing supply, with the burn rate surging by 400%.                                                              [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T15:33:46.000Z",
-    "title": "Bitcoin to Break $69,000 After ETF Approval, Says Former White House Official Anthony Scaramucci",
-    "url": "https://www.crypto-news-flash.com/bitcoin-to-break-69000-after-etf-approval-says-former-white-house-official-anthony-scaramucci/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-to-break-69000-after-etf-approval-says-former-white-house-official-anthony-scaramucci",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-10-11.32.43-An-image-illustrating-the-article-Market-Sentiment-Remains-Bullish-Following-Bitcoin-Spot-ETF-News_-Outcome-of-Approval-Likely-Not-a-Sell-the-News-E-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Scaramucci says that Bitcoin will break past $69,000, its all-time high price, which it hit in November 2021 after Gary Gensler opened the floodgates to Wall Street by approving the ETF. He is hopeful that an Ethereum ETF will be approved by the May deadline but says that Gensler and Senator Elizabeth Warren will likely [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T15:00:56.000Z",
-    "title": "Max Keiser Sees Solana (SOL) Dropping to $20; Monero (XMR) & Rebel Satoshi ($RBLZ) Set for Promising 2024",
-    "url": "https://www.crypto-news-flash.com/max-keiser-sees-solana-sol-dropping-to-20-monero-xmr-rebel-satoshi-rblz-set-for-promising-2024/?utm_source=rss&utm_medium=rss&utm_campaign=max-keiser-sees-solana-sol-dropping-to-20-monero-xmr-rebel-satoshi-rblz-set-for-promising-2024",
-    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-91.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-91.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-91-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-91-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-91-450x281.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The cryptocurrency market, ever dynamic and unpredictable, recently saw Max Keiser, a fervent Bitcoin advocate, make waves with his startling prediction regarding Solana (SOL). While Keiser&#8217;s forecast has the community abuzz, other altcoins like Monero (XMR) and Rebel Satoshi ($RBLZ) are gearing up for what appears to be a promising 2024. Let&#8217;s delve into the [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T14:01:15.000Z",
-    "title": "Hedera and Algorand Join Forces: A Game-Changing Decentralized Wallet Recovery System Emerges",
-    "url": "https://www.crypto-news-flash.com/hedera-and-algorand-join-forces-a-game-changing-decentralized-wallet-recovery-system-emerges/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-and-algorand-join-forces-a-game-changing-decentralized-wallet-recovery-system-emerges",
-    "description": "<img width=\"836\" height=\"508\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hedera\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA-.png 836w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--300x182.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/HEDERA--768x467.png 768w\" sizes=\"(max-width: 836px) 100vw, 836px\" />Hedera and Algorand ecosystems have formed the DeRec Alliance, which aims to develop a decentralized recovery system for cryptocurrencies. The alliance seeks collaborations beyond the two ecosystems, onboarding across the industry involving banks, credit unions, and wallet software projects. In a joint panel at the Crypto Finance Conference in St. Moritz, Hedera, Algorand ecosystems and [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-12T14:00:26.000Z",
-    "title": "AI-Driven Trading Platform Option2Trade Launches $10 mln Presale, eToro Improves Customer Support with Einstein GPT",
-    "url": "https://www.crypto-news-flash.com/ai-driven-trading-platform-option2trade-launches-10-mln-presale-etoro-improves-customer-support-with-einstein-gpt/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-trading-platform-option2trade-launches-10-mln-presale-etoro-improves-customer-support-with-einstein-gpt",
-    "description": "<img width=\"1280\" height=\"576\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57-300x135.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57-1200x540.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57-768x346.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57-150x68.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/photo_2024-01-12_13-56-57-450x203.jpg 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Option2Trade (O2T) and eToro are both tapping into artificial intelligence (AI) to enhance their users&#8217; experience. Option2Trade (O2T) is leaning on AI algorithms to enhance trading of different financial instruments such as forex, CFDs, altcoins, and its own token that’s currently in a $10 million presale. eToro, on the other hand, is using the technology [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-12T15:59:02.000Z",
-    "title": "Unveiling the Mechanics of Bitcoin ETFs: A Brief Guide",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/unveiling-the-mechanics-of-bitcoin-etfs-a-brief-guide/",
-    "description": "<p>We know that Bitcoin ETFs offer investors a regulated and accessible way to gain exposure to the price movements of Bitcoin without directly owning the digital asset. However, there are some internal things that we need to understand to see if this will boost Bitcoin&#8217;s price. In this article, we&#8217;ll see how Bitcoin ETFs work. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/unveiling-the-mechanics-of-bitcoin-etfs-a-brief-guide/\">Unveiling the Mechanics of Bitcoin ETFs: A Brief Guide</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-12T14:14:50.000Z",
-    "title": "Coinbase’s OTC Impact: Bitcoin Price Stability Post-ETF Launch",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/coinbases-otc-impact-bitcoin-price-stability-post-etf-launch/",
-    "description": "<p>We all found it very strange that the price of Bitcoin did not move as we thought it would after the 4.3 billion Bitcoin ETF was sold. This happened because Coinbase, the Bitcoin ETF provider, conducted all Bitcoin transactions on an OTC basis. Let&#8217;s discover why this could have happened. Coinbase&#8217;s OTC Tactics Impact Bitcoin [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/coinbases-otc-impact-bitcoin-price-stability-post-etf-launch/\">Coinbase&#8217;s OTC Impact: Bitcoin Price Stability Post-ETF Launch</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-12T16:05:00.000Z",
-    "title": "CoinShares Acquires Valkyrie’s ETF Business in Landmark Move Following SEC’s Bitcoin ETF Approval",
-    "url": "https://coinedition.com/coinshares-acquires-valkyries-etf-business-in-landmark-move-following-secs-bitcoin-etf-approval/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"CoinShares Acquires Valkyrie&#039;s ETF Business in Landmark Move Following SEC&#039;s Bitcoin ETF Approval\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/GBTC-Calls-for-Spot-ETF-Approval-Citing-SEC-Past-Futures-Greenlight-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The deal boosts CoinShares&#8217; assets, reflecting growth and innovation in the crypto sector. CoinShares&#8217; acquisition post-SEC approval signals confidence in Bitcoin ETFs&#8217; mainstream potential. This strategic move highlights a significant shift towards integrating digital assets in traditional finance. CoinShares, a prominent player in the cryptocurrency investment space, has announced a significant acquisition in a strategic [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/coinshares-acquires-valkyries-etf-business-in-landmark-move-following-secs-bitcoin-etf-approval/\">CoinShares Acquires Valkyrie&#8217;s ETF Business in Landmark Move Following SEC&#8217;s Bitcoin ETF Approval</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-12T15:30:00.000Z",
-    "title": "Do Kwon Seeks to Delay SEC Trial Amid Extradition Uncertainty",
-    "url": "https://coinedition.com/do-kwon-seeks-to-delay-sec-trial-amid-extradition-uncertainty/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Do Kwon Seeks to Delay SEC Trial Amid Extradition Uncertainty\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/South_Korea_Officials_Seek_Arrest_of_Do_Kwons_Former_Terraform-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Terra Luna founder might not be able to appear in the U.S. in March. Kwon&#8217;s legal team proposes that his absence should not be considered unduly prejudicial. The slow progress in Montenegro&#8217;s extradition will prevent Do Kwon from appearing in the U.S. trial. In a strategic move, Do Kwon, the founder of Terraform Labs [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/do-kwon-seeks-to-delay-sec-trial-amid-extradition-uncertainty/\">Do Kwon Seeks to Delay SEC Trial Amid Extradition Uncertainty</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-12T14:45:00.000Z",
-    "title": "Breaking Above $50K Would See BTC Head Towards New ATH: Analyst",
-    "url": "https://coinedition.com/btc-has-reached-a-significant-price-level-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/BTC-23.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Breaking Above $50K Would See BTC Head Towards New ATH: Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/BTC-23.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/BTC-23-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto Banter YouTube channel host Sheldon The Sniper thinks the Bitcoin price has reached a significant level. Sheldon believes that by climbing to $49,048, according to TradingView data, Bitcoin entered the $50,000 resistance zone, and a break above that level would see the flagship cryptocurrency racing towards new all-time highs (ATH). In a recently uploaded [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btc-has-reached-a-significant-price-level-analyst/\">Breaking Above $50K Would See BTC Head Towards New ATH: Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-12T14:05:00.000Z",
-    "title": "Ethereum’s Price Breakout Signals Potential for $2,700 and Beyond",
-    "url": "https://coinedition.com/ethereums-price-breakout-signals-potential-for-2700-and-beyond/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum&#039;s Price Breakout Signals Potential for $2,700 and Beyond\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/09/BTC-and-ETH-2-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>SEC&#8217;s approval of Bitcoin ETFs triggers a robust crypto market surge, benefiting Ethereum. Ethereum shows strong momentum, potentially outperforming Bitcoin with a recent 15.52% gain. The resilience of Ethereum hints at a potential breakthrough above $3,000, showcasing the maturation and integration of the crypto market. Optimism is surging through the cryptocurrency market, buoyed by recent [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereums-price-breakout-signals-potential-for-2700-and-beyond/\">Ethereum&#8217;s Price Breakout Signals Potential for $2,700 and Beyond</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-12T13:56:25.000Z",
-    "title": "Bitcoin Cash (BCH) Price Prediction 2024-2030: Will BCH reach $500 Soon?",
-    "url": "https://coinedition.com/bitcoin-cash-bch-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Cash (BCH) Price Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Bitcoin-Cash-BCH-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>What is Bitcoin Cash (BCH)? Bitcoin Cash (BCH) is a hard fork of Bitcoin that emerged on August 1, 2017, as a result of an attempt to increase the maximum block size of Bitcoin. During the lead-up to the inception of BCH in 2017, Bitcoin was increasingly unreliable and expensive during the 2016-2017 years. This [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoin-cash-bch-price-prediction/\">Bitcoin Cash (BCH) Price Prediction 2024-2030: Will BCH reach $500 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-12T15:30:17.000Z",
-    "title": "Coinbase CEO Brian Armstrong Says SEC’s Spot Bitcoin ETF Approvals Will Attract New Pools of Capital to Crypto",
-    "url": "https://dailyhodl.com/2024/01/12/coinbase-ceo-brian-armstrong-says-secs-spot-bitcoin-etf-approvals-will-attract-new-pools-of-capital-to-crypto/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Will-Attract-New-Pools.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The chief executive of Coinbase is weighing in on the impacts of the approved spot market Bitcoin (BTC) exchange-traded funds. In a new interview on CNBC Squawk Box, Coinbase CEO Brian Armstrong says that the spot BTC ETFs will bring into the crypto market new sources of capital. “This is a monumental step for the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/12/coinbase-ceo-brian-armstrong-says-secs-spot-bitcoin-etf-approvals-will-attract-new-pools-of-capital-to-crypto/\">Coinbase CEO Brian Armstrong Says SEC’s Spot Bitcoin ETF Approvals Will Attract New Pools of Capital to Crypto</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-12T16:25:01.000Z",
+    "title": "Bitcoin mining: record-breaking in 2023, facing challenges in 2024",
+    "url": "https://crypto.news/bitcoin-mining-record-breaking-in-2023-facing-challenges-in-2024/",
+    "description": "In 2023, Bitcoin miners saw a profit surge, yet challenges like the halving event loom over smaller players."
   }
 ]

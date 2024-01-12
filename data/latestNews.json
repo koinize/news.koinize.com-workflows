@@ -1,107 +1,79 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-12T09:41:25.000Z",
-    "title": "Telcoin Restores User Balances After Exploit, Records 400% Increase in Deposits",
-    "url": "https://www.coindesk.com/tech/2024/01/12/telcoin-restores-user-balances-after-exploit-records-400-increase-in-deposits/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The issue apparently resulted from a fault in the interaction between Telcoin’s digital wallet and a proxy contract that incorrectly performed certain storage functions."
+    "source": "CryptoSlate",
+    "date": "2024-01-12T10:22:14.000Z",
+    "title": "Do Kwon seeks SEC trial delay while awaiting extradition from Montenegro",
+    "url": "https://cryptoslate.com/do-kwon-seeks-sec-trial-delay-while-awaiting-extradition-from-montenegro/",
+    "description": "<p>According to a court filing, embattled Terraform Labs co-founder Do Kwon wants to delay his Securities and Exchange Commission (SEC) trial to mid-March, pending his extradition to the country from Montenegro. In a Jan. 11 letter to Judge Rakoff, as shared by Inner City Press, Kwon&#8217;s legal team revealed that their client wants to appear [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/do-kwon-seeks-sec-trial-delay-while-awaiting-extradition-from-montenegro/\">Do Kwon seeks SEC trial delay while awaiting extradition from Montenegro</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "CryptoGlobe",
-    "date": "2024-01-12T09:43:57.000Z",
-    "title": "Ethereum Community Divided Over Vitalik’s Proposal to Increase Gas Limit",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/ethereum-community-divided-over-vitaliks-proposal-to-increase-gas-limit/",
-    "description": "The Ethereum community is currently engaged in a debate over a recent proposal by co-founder Vitalik Buterin to increase the network’s gas limit. This suggestion, aimed at potentially improving network throughput, has sparked discussions among developers, node operators, and users, highlighting the complexities of managing a major blockchain protocol. Buterin’s Proposal for Gas Limit Increase […]\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-12T10:00:11.000Z",
-    "title": "Coinbase’s Rollup Base Updates Roadmap and Goals for 2024",
-    "url": "https://news.bitcoin.com/coinbases-rollup-base-updates-roadmap-and-goals-for-2024/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Coinbase&#039;s Rollup Base Updates Roadmap and Goals for 2024\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/2b5f0d32-31c5-40b7-b8d3-eeb6fedfc707.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Base, the Coinbase incubated rollup, has updated its roadmap and goals for 2024. In a blog post, Base informed that it will not only focus on building a development platform but on fostering the decentralization of such an environment, building on-chain apps, and bringing liquidity to its ecosystem. Base to Focus on Building a &#8216;New [&#8230;]"
+    "date": "2024-01-12T10:10:37.000Z",
+    "title": "Vanguard’s Stance Against Spot Bitcoin ETFs Leads to Customer Dissatisfaction and Potential Fund Transfers",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/vanguards-stance-against-spot-bitcoin-etfs-leads-to-customer-dissatisfaction-and-potential-fund-transfers/",
+    "description": "Vanguard is a large American investment management company known for its low-cost mutual funds and exchange-traded funds (ETFs). Founded in 1975 by John C. Bogle, it is one of the world’s largest investment management firms. Vanguard is unique in the industry for its mutual ownership structure; it is owned by its funds, which in turn […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T09:59:14.000Z",
-    "title": "Extradition delay prompts request to postpone SEC trial of former Terra CEO Do Kwon",
-    "url": "https://www.cryptopolitan.com/request-to-postpone-sec-trial-of-do-kwon/",
-    "description": "The former CEO of Terra, Do Kwon, is facing a delay in his Securities and Exchange Commission (SEC) trial as his extradition proceedings in Montenegro are taking longer than expected.  Kwon&#8217;s counsel has requested the U.S. court postpone the trial until his arrival, expecting him won&#8217;t be in the United States until February or March. [&#8230;]"
+    "date": "2024-01-12T10:32:27.000Z",
+    "title": "AI Advances Prompt Concerns About Misinformation and Manipulation",
+    "url": "https://www.cryptopolitan.com/ai-advances-prompt-concerns/",
+    "description": "In recent years, there has been a significant surge in the development and usage of generative AI tools that can replicate people&#8217;s voices and create convincing video clones of individuals. These AI technologies have the capability to generate new content, including text, images, videos, and audio, by drawing upon existing data they have been trained [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-12T09:43:57.000Z",
-    "title": "Navigating the Competitive Job Market of 2024: Avoiding Resume Red Flags",
-    "url": "https://www.cryptopolitan.com/navigating-competitive-job-market-of-2024/",
-    "description": "In today&#8217;s fiercely competitive job market, standing out is essential for job seekers looking to land their dream job in 2024. However, it&#8217;s crucial to stand out as a star candidate and not as an applicant filled with resume red flags. With the employment landscape continuously evolving due to technological advancements and changing industry norms, [&#8230;]"
+    "date": "2024-01-12T10:19:26.000Z",
+    "title": "FPT Reinforces World-Class Stature, Poised for Billion-Dollar Goals",
+    "url": "https://www.cryptopolitan.com/fpt-reinforces-world-class-stature-poised/",
+    "description": "Global tech corporation FPT affirms its position as a world-class technology enabler for complex business challenges and opportunities with long-term goals defined for 2024 onwards. FPT aims to achieve USD 5 billion in revenue from global IT services in 2030 and reach billion-dollar milestones from a single market, a single vertical industry, and a single [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-12T10:04:32.000Z",
-    "title": "Early Solana (SOL) Investors Buy into the Pushd (PUSHD) Presale While Dogecoin (DOGE) Drops in Value",
-    "url": "https://nulltx.com/early-solana-sol-investors-buy-into-the-pushd-pushd-presale-while-dogecoin-doge-drops-in-value/",
-    "description": "Cryptocurrency investors are shifting their sights away from the current cryptos and onto newer ones. Solana (SOL) and Dogecoin (DOGE) are among the most notable casualties, considering that they are losing investors and dropping in value. In contrast, Pushd (PUSHD) is making headlines because of the stir it has caused [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-12T10:19:20.000Z",
+    "title": "Ripple and SEC file key motions in the ongoing legal battle",
+    "url": "https://www.cryptopolitan.com/ripple-and-sec-file-key-motions/",
+    "description": "In the ongoing legal saga between Ripple Labs Inc. and the U.S. Securities and Exchange Commission (SEC), both parties have filed new motions related to the remedies phase of their lawsuit. This development follows a silence following the court’s scheduling order for this case phase. SEC seeks compulsion for Ripple&#8217;s financial statements The SEC has [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-12T09:59:28.000Z",
-    "title": "Binance Coin (BNB) and Meme Moguls (MGLS) Set to Surge in Value in January 2024",
-    "url": "https://nulltx.com/binance-coin-bnb-and-meme-moguls-mgls-set-to-surge-in-value-in-january-2024/",
-    "description": "Binance Coin, the native token of the Binance exchange, experienced steady growth in 2023. In total, its value increased by 9.21%, and its blockchain had over 1 million daily users. Now, experts predict that Binance Coin could surge in 2024 as investors look for a secure exchange for transactions. At [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-01-12T10:35:48.000Z",
+    "title": "HKVAC’s global crypto index adds SOL, replacing XRP",
+    "url": "https://crypto.news/hkvacs-global-crypto-index-adds-sol-replacing-xrp/",
+    "description": "The Hong Kong Virtual Asset Rating Agency (HKVAC) has announced the results of index adjustments. The index adjustments will take effect on Jan. 19. The HKVAC global large cryptocurrency index has added Internet Computer (ICP), Near (NEAR), Optimism (OP), Injective&#8230;"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-12T09:58:00.000Z",
-    "title": "Crypto Analyst Egrag Crypto Thinks Ripple May Rise In 2024; Injective Awaits Major Upgrade Whilst Pullix Prepares For Q1 Launch",
-    "url": "https://nulltx.com/crypto-analyst-egrag-crypto-thinks-ripple-may-rise-in-2024-injective-awaits-major-upgrade-whilst-pullix-prepares-for-q1-launch/",
-    "description": "Crypto analyst Egrag Crypto posted a chart believing that Ripple could potentially pump soon. Meanwhile, the Injective community looks forward to the Volan Mainnet upgrade this week.  Also Pullix which is now in the 5th stage of its ICO is set to be launching a BETA version of its hybrid [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T09:55:53.000Z",
-    "title": "January’s High Potential Investment Choices – Lido DAO, Rebel Satoshi, and GMT for Significant Profits",
-    "url": "https://nulltx.com/januarys-high-potential-investment-choices-lido-dao-rebel-satoshi-and-gmt-for-significant-profits/",
-    "description": "TLDR Lido DAO gained 60% in Q4 2023, and experts predict more growth by 2025. GMT surged 86% in Q4 2023, and analysts expect bulls to remain dominant. Rebel Satoshi emerges as a top investment after promising more presale gains.  Top altcoins like Lido DAO (LDO) and GMT (GMT) performed [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T09:54:38.000Z",
-    "title": "Record Highs in Bitcoin Mining & Transfers; Crypto Experts Predict High-Value Surge for Rebel Satoshi",
-    "url": "https://nulltx.com/record-highs-in-bitcoin-mining-crypto-experts-predict-high-value-surge-for-rebel-satoshi/",
-    "description": "In the dynamic world of cryptocurrencies, Bitcoin stands out as one of the top crypto coins, breaking records in both mining activities and transactions. As enthusiasts weigh their options on what crypto to buy, the spotlight now shifts to Rebel Satoshi ($RBLZ), a community-driven meme token gaining traction for its [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-12T09:53:32.000Z",
-    "title": "Shiba Inu Surpasses Ethereum In Trading Volume; InQubeta Sets The Stage For Significant Moves",
-    "url": "https://nulltx.com/shiba-inu-surpasses-ethereum-in-trading-volume-inqubeta-sets-the-stage-for-significant-moves/",
-    "description": "Shiba Inu (SHIB) investors who stuck with the project through its days of bearish trends are now reaping the benefits following its recent performances. This meme coin gained significant attention due to the massive burns of Shiba Inu tokens, which led to its increased value. Shiba Inu&#8217;s trading volume recently [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-12T10:00:03.000Z",
-    "title": "Shiba Inu Burn Rate Skyrockets Over 300% As Price Sheds A Zero",
-    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-burn-rate-skyrockets-over-300-as-price-sheds-a-zero/",
-    "description": "The Shiba Inu burn initiative has been one of the most notable developments this week that has gained the interest of the crypto community, witnessing massive surges in its token burn rate in the past few days. Shiba Inu Burn Rate On The Rise Data from Shiba Inu burn tracker Shibburn shows that the SHIB burn rate has increased significantly in the past 24 hours. According to the tracking platform, the burn rate has witnessed a 395.43% uptick today, January 12. The tracker reveals that over 18 million SHIB tokens have been destroyed in the past 24 hours. The rise in burn rate came in light of Shiba Inu experiencing a price rally which has led to the token erasing another zero. Related Reading: Shiba Inu Burn Rate Rises Rapidly In One Week, What’s Been Driving It? It is noteworthy that three burn transactions were responsible for the rise in burn rate today. Shibburn revealed that the three transactions incinerated a total of 16.56 million SHIB tokens in less than 8 hours. The first transaction carried out by the wallet address 0x618ffd1cdabee36&#8230;3f21272bd7 saw about 7.77 million SHIB tokens being burned. Additionally, another wallet address 0xab782bc7d4a2b30&#8230;f8f63ee1bc sent over 3.33 million SHIB to the burn wallet five hours later. Meanwhile, the third transaction initiated by the wallet address 0xa9d1e08c7793af6&#8230;7fb81d3e43 incinerated about 5.46 million SHIB tokens.  Over the past few days, the Shiba Inu burn rate has been recording major spikes. The development seems to have caused quite a speculative frenzy within the crypto space. On Tuesday, January 9, the tracking platform recorded an increase in burn rate of over 28,000%. The surge was caused by a burn transaction carried out by the Shiba Inu team. The team sent a whopping 9.35 billion SHIB tokens valued at $92,553 to the burn address. This marks the highest burn the team has initiated since it started burning SHIB. SHIB Erases Another Zero Post ETF Approval The majority of crypto assets are flashing green, signaling a general upturn in the cryptocurrency market. The recent approval of the Bitcoin Spot Exchange-Traded Funds (ETFs) by the SEC is largely considered to be responsible for the upward trend. Related Reading: Shiba Inu Price Enters Most Crucial Week In 1.5 Years, Here’s Why Prior to the approval of Bitcoin ETFs, Shiba Inu was trading at a comparatively low value of $0.0000095. However, after the approval, SHIB has witnessed a price increase, allowing the token to shed another zero. The increase in SHIB price post-ETF has garnered interest from investors and generated speculations over the coin&#8217;s potential for long-term growth. Currently, SHIB is trading at $0.000010, indicating a 0.60% decrease in the past 24 hours. However, the token&#8217;s trading volumes appear to be down in the past day by over 12%, according to CoinMarketCap. Featured image from iStock, chart from Tradingview.com"
+    "source": "BTCManager",
+    "date": "2024-01-12T10:33:53.000Z",
+    "title": "Korea’s FSC bars local brokers from offering spot Bitcoin ETFs overseas",
+    "url": "https://crypto.news/koreas-fsc-bars-local-brokers-from-offering-spot-bitcoin-etfs-overseas/",
+    "description": "South Korea&#8217;s financial regulator has declared that domestic securities firms are barred from offering spot Bitcoin exchange-traded funds (ETFs) in international markets. South Korea&#8216;s Financial Services Commission (FSC) said in a press release on Jan. 12 that domestic securities firms&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-12T10:00:55.000Z",
-    "title": "$CORGI, $FLOKI and $GFOX — Which is a Better Buy in 2024?",
-    "url": "https://www.crypto-news-flash.com/corgi-floki-and-gfox-which-is-a-better-buy-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=corgi-floki-and-gfox-which-is-a-better-buy-in-2024",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-88.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-88.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-88-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-88-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-88-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Cryptocurrency enthusiasts constantly look for the next big thing in the ever-evolving digital asset landscape. In 2024, three contenders making waves are $CORGI, $FLOKI, and the promising newcomer and the best upcoming ICO, $GFOX. Let&#8217;s dive into each to see which might be the better buy for investors seeking the next moonshot. The Rise of [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-12T09:49:03.000Z",
-    "title": "Bitcoin ETFs Off to a Huge Start! More Reactions",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/bitcoin-etfs-off-to-a-huge-start-more-reactions/",
-    "description": "<p>The SEC’s approval of 11 outstanding Bitcoin ETF requests is no doubt a perfect start to the year. As expected, the news was met with wild jubilation from different corners of the crypto market. Crypto Twitter is currently raving following the impressive numbers recorded on the first day of trading. Let&#8217;s describe how was the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/bitcoin-etfs-off-to-a-huge-start-more-reactions/\">Bitcoin ETFs Off to a Huge Start! More Reactions</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-01-12T10:11:20.000Z",
+    "title": "IOTA Foundation’s Q4 2023: Major Strides Towards IOTA 2.0 and Regulatory Compliance",
+    "url": "https://www.crypto-news-flash.com/iota-foundations-q4-2023-major-strides-towards-iota-2-0-and-regulatory-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=iota-foundations-q4-2023-major-strides-towards-iota-2-0-and-regulatory-compliance",
+    "description": "<img width=\"1880\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Black-and-white-IOTA-logo-with-hand\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand.jpg 1880w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-300x191.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-1024x654.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-768x490.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-1536x980.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-150x96.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-450x287.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Black-and-white-IOTA-logo-with-hand-1200x766.jpg 1200w\" sizes=\"(max-width: 1880px) 100vw, 1880px\" />Q4 saw massive developments in the IOTA ecosystem, with the finalization of the tokenomics whitepaper and the consensus protocol, and the introduction of the implicit account mechanism. Firefly IOTA 2.0.0 was released in Q4 as the march towards the Firefly Wallet continued as ShimmerEVM racked up over 1.5 million transactions and over 2,600 smart contracts. [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-12T09:53:57.000Z",
-    "title": "“Grossly Unfair”: FTX Customers Ask Court to Block Valuation Plan",
-    "url": "https://coinedition.com/grossly-unfair-ftx-customers-ask-court-to-block-valuation-plan/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/FTX_customers_file_class_action_to_lay_claim_to_dwindling_assets-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Customers of the troubled cryptocurrency exchange FTX have asked a US Bankruptcy Judge to stop the exchange’s proposed plan to value crypto assets using November 2022 prices, Reuters reported.&#160; Over the past week, dozens of the crypto exchange’s customers from around the world have written letters to Judge John Dorsey in Delaware, who is overseeing [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/grossly-unfair-ftx-customers-ask-court-to-block-valuation-plan/\">“Grossly Unfair”: FTX Customers Ask Court to Block Valuation Plan</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-12T10:24:00.000Z",
+    "title": "The SEC Launches Fresh Attack on Ripple in Latest Court Filing",
+    "url": "https://coinedition.com/the-sec-launches-fresh-attack-on-ripple-in-latest-court-filing/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"No Precedent for Treating Underlying Crypto Asset as Security: Lawyer\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/No-Precedent-for-Treating-Underlying-Crypto-Asset-as-Security-Lawyer-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The U.S. Securities and Exchange Commission (SEC) has filed a motion to compel Ripple to produce its financial statements for 2022-2023 and to produce its post-Complaint contracts governing institutional sales. According to the filing, institutional sales cover the same types of transactions that Judge Torres held to constitute unregistered offers and sales of securities for [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/the-sec-launches-fresh-attack-on-ripple-in-latest-court-filing/\">The SEC Launches Fresh Attack on Ripple in Latest Court Filing</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-12T10:19:46.000Z",
+    "title": "Can Polkadot Break Through the $9 Barrier? Option2Trade Pre-sale Grows By 20% as Investors Jump on Board",
+    "url": "https://coinedition.com/can-polkadot-break-through-the-9-barrier-option2trade-pre-sale-grows-by-20-as-investors-jump-on-board/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/pr-1-171.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/pr-1-171.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/pr-1-171-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Earlier this week, cryptocurrency services provider Matrixport published a report on its website titled &#8220;Why the SEC will REJECT Bitcoin Spot ETFs Again.&#8221; The report predicted that the U.S. Securities and Exchange Commission (SEC) would reject all spot Bitcoin ETF applications, citing political and legal compliance concerns. &#8220;SEC Chair Gensler is not embracing crypto in [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/can-polkadot-break-through-the-9-barrier-option2trade-pre-sale-grows-by-20-as-investors-jump-on-board/\">Can Polkadot Break Through the $9 Barrier? Option2Trade Pre-sale Grows By 20% as Investors Jump on Board</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-12T10:15:59.000Z",
+    "title": "Ethereum Rival That’s Up Over 470% Primed To Continue Its Rally, Says Crypto Trader – Here’s Why",
+    "url": "https://dailyhodl.com/2024/01/12/ethereum-rival-thats-up-over-470-primed-to-continue-its-rally-says-crypto-trader-heres-why/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/470-Primed-To-Continue.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst and trader Ali Martinez says that one Ethereum (ETH) rival could soar even higher after putting up big gains. Martinez tells his 40,300 followers on the social media platform X that Solana (SOL) may be printing a bullish pattern that could lead to a more than 65% increase from its current value. &#8220;Solana [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/12/ethereum-rival-thats-up-over-470-primed-to-continue-its-rally-says-crypto-trader-heres-why/\">Ethereum Rival That’s Up Over 470% Primed To Continue Its Rally, Says Crypto Trader – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

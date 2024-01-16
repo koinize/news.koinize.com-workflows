@@ -1,142 +1,44 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-16T09:42:59.000Z",
-    "title": " Tether responds to UN report about ‘illicit activity’ of USDT ",
-    "url": "https://cointelegraph.com/news/tether-challenges-report-illicit-activity-usdt",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTNjMGE2MjQtMzM3My00M2U1LWFhMDAtY2YzNzlmZWIxNjM0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The UN “completely neglects” developing economies using stablecoins like USDT because servicing them would be “unprofitable” for the agency, Tether argued.</p>\n                    <p><p>Major stablecoin firm Tether has responded to the United Nations’ report highlighting the alleged involvement of the Tether stablecoin (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>) in illicit activity.</p><p data-ct-non-breakable=\"true\">The Southeast Asia and the Pacific division of the UN Office for Drugs and Crime (UNODC) on Jan. 15 <a href=\"https://www.unodc.org/roseap/uploads/documents/Publications/2024/Casino_Underground_Banking_Report_2024.pdf\" target=\"_blank\" rel=\"noopener nofollow\">issued</a> a report devoted to issues of the use of cryptocurrencies in illegal activities and underground banking.</p><p data-ct-non-breakable=\"true\">Titled “Casinos, Money Laundering, Underground Banking, and Transnational Organized Crime in East and Southeast Asia: A Hidden, Accelerating Threat,” the report referred to the USDT stablecoin as one of major vehicles for money laundering in the region. The report specifically referred to the rising popularity of USDT based on the Tron blockchain.</p><p><a href=\"https://cointelegraph.com/news/tether-challenges-report-illicit-activity-usdt\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-16T09:40:48.000Z",
-    "title": "Bitcoin accumulation trend hits lowest point since October, signaling widespread distribution shifts",
-    "url": "https://cryptoslate.com/insights/bitcoin-accumulation-trend-hits-lowest-point-since-october-signaling-widespread-distribution-shifts/",
-    "description": "<p>Quick Take The Accumulation Trend Score, a metric that measures the relative strength of Bitcoin (BTC) accumulation by different entity wallet cohorts, has registered a significant shift. Notably, the trend score has plummeted to 0.5, the lowest level since October 2023, just prior to Bitcoin&#8217;s monumental rise from $25,000 to $49,000, spurred by the launch [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-accumulation-trend-hits-lowest-point-since-october-signaling-widespread-distribution-shifts/\">Bitcoin accumulation trend hits lowest point since October, signaling widespread distribution shifts</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-16T09:59:52.000Z",
-    "title": "Crypto Exchange Binance Thailand Opens Trading to the Public",
-    "url": "https://cryptodaily.co.uk/2024/01/crypto-exchange-binance-thailand-opens-trading-to-the-public",
-    "description": "Binance Thailand opened its crypto exchange services to the public today. The exchange, Binance TH, is operated by a joint venture between Binance and Thailand’s Gulf Innova, called ‘Gulf Binance’."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-16T10:00:40.000Z",
-    "title": "Hedera Council Boosts Blockchain Innovation With Billions in HBAR",
-    "url": "https://news.bitcoin.com/hedera-council-boosts-blockchain-innovation-with-billions-in-hbar/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Hedera Council Commits 4.86 Billion HBARs\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hedera_council_allocates_billions.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Hedera Council announces an allocation of 4.86 billion HBARs, primarily focused on bolstering initiatives like the HBAR Foundation, Hashgraph Association, and DLT Science Foundation. Hedera Council Commits 4.86 Billion HBARs In a move towards enhancing its network and decentralized governance, the Hedera Council has approved an allocation of funds amounting to 4.86 billion HBARs, [&#8230;]"
+    "source": "CoinDesk",
+    "date": "2024-01-16T10:22:46.000Z",
+    "title": "Manta Pacific Replaces Base as Fourth Largest Scaling Solution: L2Beat",
+    "url": "https://www.coindesk.com/business/2024/01/16/manta-pacific-replaces-base-as-fourth-largest-scaling-solution-l2beat/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Manta Pacific is the native layer 2 of the Manta Network."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-16T10:07:00.000Z",
-    "title": "Tether disputes UN claims on USDT misuse in strong response",
-    "url": "https://www.cryptopolitan.com/tether-disputes-un-claims-on-usdt-misuse/",
-    "description": "Tether, the prominent cryptocurrency platform, has publicly refuted recent allegations by the United Nations (UN) concerning the misuse of its stablecoin, USDT. The UN&#8217;s report had implicated USDT in a range of illicit activities, notably money laundering and the “pig butchering” scams prevalent in Southeast Asia. Tether&#8217;s rebuttal, issued on January 16, centers on its [&#8230;]"
+    "date": "2024-01-16T10:25:58.000Z",
+    "title": "BTC price remains above $40K despite RSI dipping to 4-month lows",
+    "url": "https://www.cryptopolitan.com/btc-price-remains-above-40k-despite-rsi/",
+    "description": "Bitcoin&#8217;s Relative Strength Index (RSI) drops to levels not seen since September, indicating potentially oversold conditions despite BTC&#8217;s price above $40,000. Bitcoin (BTC) is on a rollercoaster ride as its Relative Strength Index (RSI) hits its lowest level in four months. The RSI suggests potentially oversold conditions despite trading above the $40,000 mark.&#160; Analyst Matthew [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-16T10:06:36.000Z",
-    "title": "BrainSightAI Unveils Groundbreaking AI/ML Platform at CES 2024",
-    "url": "https://www.cryptopolitan.com/brainsightai-unveils-groundbreaking-ai-ml-platform-at-ces-2024/",
-    "description": "BrainSightAI, a pioneering neurotech firm, has taken the stage at the Consumer Electronics Show (CES) 2024 to introduce its innovative artificial intelligence/machine learning (AI/ML) platform, accompanied by the Virtual Twin Evolution. In partnership with Dassault Systèmes and the 3DEXPERIENCE Lab, BrainSightAI has ushered in a remarkable transformation in the realm of neurological and psychiatric diagnosis [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T10:03:40.000Z",
-    "title": "Why you should expect a slow improvement for U.S. inflation",
-    "url": "https://www.cryptopolitan.com/expect-a-slow-improvement-for-us-inflation/",
-    "description": "Anticipating the trajectory of U.S. inflation is akin to predicting the weather in a particularly capricious climate. Despite a recent period of declining rates, the latest data hints at a more gradual path to economic stability. The December figures are particularly telling. While some optimists had their eyes set on a decrease in interest rates, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:59:13.000Z",
-    "title": "Fantom foundation bolsters layer-1 blockchain security with staking requirement cut",
-    "url": "https://www.cryptopolitan.com/fantom-foundation-bolsters-layer-blockchain/",
-    "description": "In a significant move aimed at fortifying the security of its layer-1 blockchain network, the Fantom Foundation has successfully slashed the validator self-staking requirement by a staggering 90%.&#160; This momentous decision comes following a governance vote that concluded in June 2023. Fantom (FTM) has lowered the staking threshold from 500,000 to 50,000 FTM, valued at [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:57:31.000Z",
-    "title": "All things considered, USDC had a good year in 2023",
-    "url": "https://www.cryptopolitan.com/usdc-had-a-good-year-in-2023/",
-    "description": "Contrary to the pessimistic predictions that often cloud the crypto landscape, USDC, a stablecoin that&#8217;s pegged to the US dollar, has carved out a noteworthy year in 2023. This is no small feat, especially in an ecosystem where digital assets often ride a rollercoaster of volatility. But let&#8217;s not get carried away with back-patting; the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:52:16.000Z",
-    "title": "Why everyone is concerned about Canada’s economy",
-    "url": "https://www.cryptopolitan.com/why-everyone-concerned-about-canadas-economy/",
-    "description": "Amidst a sea of fluctuating global economies, Canada’s situation has garnered a unique blend of concern and cautious optimism. As we dive into the intricacies of this North American economic enigma, it’s clear why the eyes of financial pundits worldwide remain fixated on Canada. Recent surveys from the Bank of Canada reveal a fascinating dichotomy: [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:49:37.000Z",
-    "title": "New Machine Learning Study Identifies Hundreds of Potential Cancer Drug Targets with Biomarkers",
-    "url": "https://www.cryptopolitan.com/new-machine-learning-study-identifies-hundreds-of-potential-cancer-drug-targets-with-biomarkers/",
-    "description": "Researchers at the Wellcome Sanger Institute have harnessed the power of machine learning to uncover 370 previously undiscovered drug targets for various types of cancer, including breast cancer, cervical cancer, and glioblastoma. The findings, published in Cancer Cell on January 11th, 2024, represent a significant leap forward in the quest for precision medicine and could [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:45:06.000Z",
-    "title": "Solana Mobile to unveil second crypto smartphone with lower cost and enhanced features",
-    "url": "https://www.cryptopolitan.com/solana-mobile-to-unveil-second-crypto/",
-    "description": "Solana Mobile is set to unveil its second crypto-ready smartphone, building upon the unexpected success of its debut product, the Saga.&#160; This new device is expected to come with a more affordable price tag and different hardware, aiming to cater to a broader audience of cryptocurrency enthusiasts and NFT collectors. Smartphones feature lower price points [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:44:46.000Z",
-    "title": "Nigeria’s inflation climbs to 27-year record",
-    "url": "https://www.cryptopolitan.com/nigerias-inflation-climbs-to-27-year-record/",
-    "description": "As Nigeria&#8217;s economic rollercoaster continues its unpredictable trajectory, the latest reports show a staggering climb in consumer prices, marking a 27-year high. In a dramatic turn of events, the inflation rate in Nigeria soared to a jaw-dropping 28.9% this December. This isn&#8217;t just a number; it&#8217;s a reflection of a series of cascading economic challenges, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-16T09:40:36.000Z",
-    "title": "Measuring Customer Emotion in the Contact Centre: A Comprehensive Approach",
-    "url": "https://www.cryptopolitan.com/measuring-customer-emotion-in-the-contact/",
-    "description": "In the realm of contact centers, understanding and measuring customer emotion is paramount to enhancing customer satisfaction. This process involves a combination of quantitative and qualitative methods, encompassing collecting customer feedback, harnessing AI-powered insights, and deploying powerful reporting techniques. Each of these components contributes uniquely to gaining a holistic perspective on customer sentiment. Collecting customer [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-16T09:41:20.000Z",
-    "title": "Binance and Gulf Energy launch crypto exchange services in Thailand",
-    "url": "https://crypto.news/binance-and-gulf-energy-launch-crypto-exchange-services-in-thailand/",
-    "description": "Gulf Binance, a collaborative venture between global cryptocurrency exchange Binance and Thailand&#8217;s Gulf Innova, has officially launched its exchange services in Thailand. On Jan. 16, Binance TH announced that its exchange is now open to all eligible users. According to&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-16T09:41:07.000Z",
-    "title": "Spot Bitcoin ETF jitters force Dogecoin and Shiba Inu lower, this alternative is solid",
-    "url": "https://crypto.news/spot-bitcoin-etf-jitters-force-dogecoin-and-shiba-inu-lower-this-alternative-is-solid/",
-    "description": "Dogecoin and Shiba Inu are purely speculative. NuggetRush (NUGX) seeks to transform the meme coin sector"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-16T09:40:23.000Z",
-    "title": "Klaytn, Finschia propose merger to create join ecosystem",
-    "url": "https://crypto.news/klaytn-finschia-propose-merger-to-create-join-ecosystem/",
-    "description": "Klaytn Foundation and Finschia Foundation propose a merger to create a joint ecosystem, with a new mainnet and a token. In a press release on Jan. 16, Klaytn Foundation and the Finschia Foundation announced their plans to create a joint&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-16T10:00:33.000Z",
-    "title": "Stablecoin Takeover? Record Tether 71% Dominance Raises Questions About Crypto Future",
-    "url": "https://www.newsbtc.com/news/stablecoin-takeover-record-tether-71-dominance-raises-questions-about-crypto-future/",
-    "description": "Tether, the issuer of the ubiquitous USDT stablecoin, cemented its dominance in 2023, ballooning its market share to a staggering 71%. This explosive growth, however, comes with a chilling undercurrent: a United Nations report linking USDT to a surge in cybercrime and money laundering in Southeast Asia. Glassnode data paints a stark picture of Tether&#8217;s ascent. Its market capitalization reached a record $95 billion in January 2024, fueled by a 40% increase in USDT supply over the past year. Meanwhile, competitors like Circle&#8217;s USDC saw their market share shrink, with USDT now commanding over 7 times the circulation of its nearest rival. Related Reading: Ethereum Classic Maintains 32% Steady Rise – What’s Driving ETC Up? Tether Market Dominance Soars  USDT dominance shown in green. Source: Glassnode Paolo Ardoino, Tether&#8217;s new CEO, has prioritized cooperation with U.S. law enforcement. The company boasts of freezing wallets linked to sanctions lists and recovering over $435 million in illicit funds. However, the UN report casts a shadow on these efforts, detailing how USDT facilitates &#8220;sextortion,&#8221; &#8220;pig butchering&#8221; scams, and underground banking across Asia. While Tether has proactively banned over 1,260 addresses linked to criminal activity, the sheer volume of illicit transactions raises concerns about the effectiveness of these measures. USDT market cap currently at $94.904 billion. Chart: TradingView.com Critics point to Tether&#8217;s opaque reserve backing as a breeding ground for misuse, calling for greater transparency to combat money laundering. Tether&#8217;s Reign At Risk: Regulatory Challenges The stablecoin market, once touted as a bridge between traditional finance and the crypto world, now faces a reckoning. Tether&#8217;s dominance is undeniable, but its association with criminal activity threatens to erode trust and trigger stricter regulations. Tether total assets nearing the $95 billion level. Source: Gabor Gurbacs X post. Meanwhile, Circle&#8217;s recent IPO filing hints at a potential shift in the landscape. With regulatory scrutiny intensifying, Tether&#8217;s future hinges on its ability to address concerns about transparency and combat illicit activity. Can it clean up its act and maintain its crown, or will the tide turn towards its more transparent rivals? Only time will tell if Tether&#8217;s reign as the king of stablecoins will weather the storm of controversy. Related Reading: Solid TVL Slingshots SUI Price To Break $1 For New All-Time High – Details With its historic 71% market share, Tether&#8217;s reign over the stablecoin realm is undeniable. Yet, the shadow of illicit activity threatens to eclipse its success. As regulators sharpen their focus and competitors like Circle step into the ring, the question looms: will Tether clean house and retain its crown, or will this be the tipping point for a stablecoin revolution, reshaping the future of crypto itself? Only time will tell if Tether&#8217;s dominance signals a bright new era for digital currencies or serves as a cautionary tale, paving the way for a more transparent and accountable crypto landscape. The gloves are off, and the fight for the future of stablecoins is just beginning. Featured image from Shutterstock"
+    "date": "2024-01-16T10:10:15.000Z",
+    "title": "China’s risky gamble in the face of economic challenges",
+    "url": "https://www.cryptopolitan.com/chinas-risky-gamble-in-economic-challenges/",
+    "description": "China stands at a crossroads, its economy teetering on the brink of a high-stakes gamble. The People&#8217;s Bank of China (PBOC), in a bold yet cautious move, has held its key interest rate steady. This decision, a tightrope walk balancing yuan volatility and the remote possibility of Federal Reserve easing, signals a trepidation in Beijing&#8217;s [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-16T10:05:26.000Z",
-    "title": "Institutional Frenzy: Billions Flood into Crypto Markets After Bitcoin ETF Approval, While Vanguard Apologizes to Its Customers After Removing Option to Invest in BTC ETF",
-    "url": "https://www.crypto-news-flash.com/institutional-frenzy-billions-flood-into-crypto-markets-after-bitcoin-etf-approval-while-vanguard-apologizes-to-its-customers-after-removing-option-to-invest-in-btc-etf/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-frenzy-billions-flood-into-crypto-markets-after-bitcoin-etf-approval-while-vanguard-apologizes-to-its-customers-after-removing-option-to-invest-in-btc-etf",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-16-10.55.04-A-conceptual-scene-representing-the-frenzy-in-institutional-investment-in-cryptocurrency-markets-following-the-approval-of-a-Bitcoin-ETF-and-Vanguard-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The U.S. SEC&#8217;s approval of a spot BTC ETF has led to a significant $1.18 billion inflow into BTC investment products. Vanguard faces criticism and client dissatisfaction for not expanding access to Bitcoin investments, indicating a potential shift in its stance. According to the latest Digital Asset Fund Flows Weekly Report by CoinShares, Bitcoin (BTC) [...]"
+    "date": "2024-01-16T10:18:54.000Z",
+    "title": "JPMorgan and DBS Bank Choose Polygon PoS for Tokenizing Singapore Assets",
+    "url": "https://www.crypto-news-flash.com/jpmorgan-and-dbs-bank-choose-polygon-pos-for-tokenizing-singapore-assets/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-and-dbs-bank-choose-polygon-pos-for-tokenizing-singapore-assets",
+    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon-MATIC-logo-on-dark-purple-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-on-dark-purple-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Major funds like Brevan Howard and Hamilton Lane are launching dedicated Real World Asset (RWA) chains like Libre within the Polygon ecosystem. Notable achievements also include the tokenization of private credit funds and US-registered mutual funds on Polygon PoS. In a notable development, BlackRock CEO Larry Fink has characterized the recent ETF approvals as &#8220;stepping [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-16T10:01:13.000Z",
-    "title": "4 Top Gaming Gems",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/4-top-gaming-gems/",
-    "description": "<p>In this article, I will discuss some hot coins, tokens, or events that are coming up. Coins that could pump hard. Or how about having a massive capital infusion on the way? Others may have explosive updates coming their way. So, what have I mentioned plenty of times on this channel? Be there early! Well, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/4-top-gaming-gems/\">4 Top Gaming Gems</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-01-16T10:28:37.000Z",
+    "title": "Zentu Genesis Hits 10M ABBC In Record Time",
+    "url": "https://coinedition.com/zentu-genesis-hits-10m-abbc-in-record-time/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Zentu Genesis Hits 10M ABBC In Record Time\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/Zentu-Genesis-Hits-10M-ABBC-In-Record-Time-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The ABBC ecosystem unveils a new dawn with ABBC 3.0, embodied by the Zentu platform. In the dynamic intersection of AI and blockchain solutions, Zentu stands out as a decentralized application (dApp) set to redefine the human-AI relationship. With the surge in AI adoption, the quest for authentic connections persists, and Zentu emerges as a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/zentu-genesis-hits-10m-abbc-in-record-time/\">Zentu Genesis Hits 10M ABBC In Record Time</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-16T10:15:16.000Z",
+    "title": "Billionaire Bill Ackman Predicts Multiple Interest Rate Cuts, Says Fed Must Move Fast Enough To Avoid Recession",
+    "url": "https://dailyhodl.com/2024/01/16/billionaire-bill-ackman-predicts-multiple-interest-rate-cuts-says-fed-must-move-fast-enough-to-avoid-recession/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Multiple-Interest-Rate-Cuts.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Billionaire investor Bill Ackman believes that the Federal Reserve is set to cut interest rates as data shows that inflation is on its way down. In a new CNBC interview, the founder and chief executive of the hedge fund Pershing Square Capital Management says that a minimum, he sees the Federal Reserve announcing three rate [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/16/billionaire-bill-ackman-predicts-multiple-interest-rate-cuts-says-fed-must-move-fast-enough-to-avoid-recession/\">Billionaire Bill Ackman Predicts Multiple Interest Rate Cuts, Says Fed Must Move Fast Enough To Avoid Recession</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

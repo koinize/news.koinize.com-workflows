@@ -1,51 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-16T15:01:10.000Z",
-    "title": "Chainlink Teams Up With Circle to Allow Cross-Chain Stablecoin Transfers",
-    "url": "https://www.coindesk.com/tech/2024/01/16/chainlink-teams-up-with-circle-to-allow-cross-chain-stablecoin-transfers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The integration allows developers to build cross-chain use cases via Chainlink's CCIP that involve multichain transfers of Circle's USDC stablecoin."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-16T15:00:20.000Z",
-    "title": "Another pro-crypto presidential candidate suspends campaign for office",
-    "url": "https://cryptoslate.com/another-pro-crypto-presidential-candidate-suspends-campaign-for-office/",
-    "description": "<p>Pro-crypto presidential hopeful Vivek Ramaswamy has suspended his campaign for office on Jan. 16. In a post on the social media platform X (formerly Twitter), Ramaswamy revealed he was suspending his campaign to support former President Donald Trump&#8217;s bid to return to the Oval Office, saying: &#8221; I am suspending my campaign and endorsing Donald [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/another-pro-crypto-presidential-candidate-suspends-campaign-for-office/\">Another pro-crypto presidential candidate suspends campaign for office</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Crypto Briefing",
+    "date": "2024-01-16T15:19:55.000Z",
+    "title": "Chainlink partners with Circle to enable cross-chain USDC transactions via CCIP",
+    "url": "https://cryptobriefing.com/chainlink-circle-usdc-cross-chain-integration/?utm_source=feed&utm_medium=rss",
+    "description": "Chainlink's CCIP integrates with Circle's CCTP, enhancing secure and efficient cross-chain USDC transfers for developers and users."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-16T14:40:57.000Z",
-    "title": "These Altcoins Can Outshine Bitcoin In 2024",
-    "url": "https://cryptodaily.co.uk/2024/01/these-altcoins-can-outshine-bitcoin-in-2024-1",
-    "description": "Dive into the latest trends in the cryptocurrency market with insightful analyses of Solana's surging DEX activity, Ripple's legal milestones, and VeChain's U.S. patent triumph. Explore potential price movements, key support and resistance levels, and the delicate balance between optimism and caution in this comprehensive overview. Stay informed on the dynamic landscape of Solana, Ripple, and VeChain, and make informed decisions in the ever-evolving world of digital assets."
+    "date": "2024-01-16T15:36:15.000Z",
+    "title": "3 Cryptos to Skyrocket in 2024: Expert Insights",
+    "url": "https://cryptodaily.co.uk/2024/01/3-cryptos-to-skyrocket-in-2024-expert-insights",
+    "description": "Dive into the 2024 crypto landscape where altcoins like Cardano (ADA), Polygon (MATIC), and Sei (SEI) are making waves, backed by strong technology and growing communities. Discover Cardano's potential breakout, Polygon's strategic edge, and Sei's rapid market climb. This comprehensive analysis offers insights into their price movements, market dynamics, and the factors driving their promising futures. Stay ahead in the crypto game with our in-depth look at these rising stars and what makes them stand out in a vibrant market."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-16T15:11:17.000Z",
+    "title": "Solana Competitor To Reach the Market Cap of SOL in 2024 Is Just $0.08 Now",
+    "url": "https://cryptodaily.co.uk/2024/01/solana-competitor-to-reach-the-market-cap-of-sol-in-2024-is-just-008-now",
+    "description": "In the dynamic world of cryptocurrency, a new contender is making waves. Meet Retik Finance (RETIK)"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-16T15:09:05.000Z",
-    "title": "Anti-Defamation League (ADL) report unmasks how cryptocurrencies are secretly funding hate groups",
-    "url": "https://www.cryptopolitan.com/ad-crypto-role-funding-supremacist-groups/",
-    "description": "In a recent report by the Anti-Defamation League (ADL), a concerning trend has emerged within the realms of cryptocurrency and extremist funding. The ADL, a renowned New York-based organization dedicated to combating antisemitism and extremism, has highlighted how certain white supremacist groups in the U.S. are utilizing cryptocurrencies like Bitcoin for funding. This revelation comes [&#8230;]"
+    "date": "2024-01-16T15:43:20.000Z",
+    "title": "Hedera Network Enhances Accessibility with MetaMask Integration through Hedera Wallet Snap",
+    "url": "https://www.cryptopolitan.com/hedera-network-metamask-hedera-wallet-snap/",
+    "description": "The Hedera network has announced the launch of the Hedera Wallet Snap. The innovative integration connects Hedera, an open-source, leaderless proof-of-stake network, with MetaMask, a leading cryptocurrency wallet boasting 30 million monthly active users. Developed by Tuum Technologies, a pioneer in decentralized identity solutions, the Hedera Wallet Snap is a significant milestone in making Hedera’s [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-16T14:41:45.000Z",
-    "title": "Klaytn and LINE’s Finschia Eye Merger: A Leap Towards Asia’s Largest Web3 Ecosystem",
-    "url": "https://www.cryptopolitan.com/klaytn-lines-finschia-eye-merger-asia-web3/",
-    "description": "Klaytn and Finschia have announced a proposal for a merger. The ambitious plan, backed by two technological powerhouses in South Korea and Japan, respectively, aims to integrate two of the region&#8217;s most prominent blockchain networks. The resulting entity is poised to establish itself as a behemoth in the burgeoning web3 ecosystem. A union of Klaytn [&#8230;]"
+    "date": "2024-01-16T15:17:59.000Z",
+    "title": "dForce Launches Innovative Grants Program to Propel DeFi Ecosystem Forward",
+    "url": "https://www.cryptopolitan.com/dforce-launche-grants-program-defi-ecosystem/",
+    "description": "The dForce network has taken a significant leap forward in fostering community-driven innovation within the decentralized finance (DeFi) sector. Following the unanimous approval of the DIP061 proposal, the network proudly announces the launch of the dForce Grants Program (DGP), a pioneering initiative aimed at supporting and nurturing creative projects within its ecosystem. DGP: Catalyzing DeFi [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-16T15:00:23.000Z",
-    "title": "XRP Investors Become Fearful: Time To Buy?",
-    "url": "https://www.newsbtc.com/xrp-news/xrp-investors-become-fearful-time-to-buy/",
-    "description": "Data shows the sentiment around XRP has taken a plunge following the failed attempt at a Bitfinex attack using the &#8220;partial payments exploit.&#8221; XRP Weighted Sentiment Has Plunged To Negative Levels Recently As explained by the on-chain analytics firm Santiment in a new post on X, the sentiment around XRP has turned negative. The indicator of interest here is the &#8220;Weighted Sentiment,&#8221; which itself is based on two other metrics: the &#8220;Sentiment Balance&#8221; and &#8220;Social Volume.&#8221; Related Reading: Dogecoin To See 24% Rally To $0.100 If This Holds: Analyst The former of these basically keeps track of the sentiment currently present among social media users around any topic. The indicator calculates this score by going through social media posts and using a machine-learning model to separate between negative and positive sentiments. The other relevant metric here, the Social Volume, measures the amount of discussion related to any given topic that&#8217;s happening on the major social media platforms right now. The indicator measures this by counting the total number of unique posts or threads making at least one mention of the topic. Now, what the &#8220;Weighted Sentiment&#8221; does is that it takes the Sentiment Balance and weighs it against the Social Volume. What this means is that the Weighted Sentiment&#8217;s value would only register a spike when not only is the sentiment leaning towards one side, but the sample size of these posts is also large. The below chart shows the trend in this indicator for XRP over the last few months: Looks like the value of the metric has taken a plunge in recent days &#124; Source: Santiment on X When the Weighted Sentiment has a highly positive value, it means that there is a high amount of positive discussion happening related to the asset. From the graph, it&#8217;s visible that XRP saw such a bullish sentiment earlier in the month when its price made a recovery attempt. Since then, however, the indicator&#8217;s value has plummeted for the cryptocurrency and is now floating deep inside the negative zone. Naturally, this implies that social media users are now bearish about the coin. Santiment has noted that this sentiment, which is the most negative in years, has come for XRP as a failed Bitfinex hack attempt has taken place. During this attack, someone tried to make use of the &#8220;partial payments&#8221; system of the cryptocurrency to trick the exchange into thinking the transfer amount was greater than it actually was (equal to half the asset&#8217;s circulating supply, in fact). Bitfinex, however, had the correct configuration in place to read transactions of this type, so the platform never fell for the exploit. Even though nothing ended up happening, the initial confusion naturally worsened the sentiment around the asset. Related Reading: How Low Can Bitcoin Go? CryptoQuant Head Reveals Target This negative sentiment, though, can actually be a boon in disguise for XRP, as historically, the price has tended to move against the expectations of the majority. This might also be the reason that the recovery attempt earlier in the year failed, as traders got too hyped too quickly. Since the sentiment is completely opposite now, perhaps a price surge might have an easier time growing up. XRP Price Since the asset&#8217;s failed recovery attempt, XRP has been moving mostly sideways, as it currently trades around the $0.576 level. The price of the coin seems to have been stuck in consolidation recently &#124; Source: XRPUSD on TradingView Featured image from Kanchanara on Unsplash.com, charts from TradingView.com, Santiment.net"
+    "source": "BTCManager",
+    "date": "2024-01-16T15:41:45.000Z",
+    "title": "Chiliz leads top gainers with 18% price surge",
+    "url": "https://crypto.news/chiliz-leads-top-gainers-with-18-price-surge/",
+    "description": "Three altcoins, Chiliz, Klaytn, and Blur, boast more than 15% gains as the top gainers on Jan. 16, as reported by CoinMarketCap"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-16T15:05:00.000Z",
-    "title": "Polygon’s MATIC Token Controversy: What’s Behind the Suspicious Flows?",
-    "url": "https://coinedition.com/polygons-matic-token-controversy-whats-behind-the-suspicious-flows/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/MATIC-Technical-Indicators.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon&#039;s MATIC Token Controversy: What&#039;s Behind the Suspicious Flows?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/MATIC-Technical-Indicators.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/MATIC-Technical-Indicators-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/MATIC-Technical-Indicators-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Allocation disparities raise questions about Polygon&#8217;s $250 million Hermez Network acquisition. Collaboration between Polygon and Binance in token movements raises a billion-dollar concern for investors. Suspicious token flows and transparency concerns plague Polygon&#8217;s MATIC token and Hermez Network acquisition. The MATIC token from Polygon has attracted significant attention lately due to mounting apprehensions regarding the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/polygons-matic-token-controversy-whats-behind-the-suspicious-flows/\">Polygon&#8217;s MATIC Token Controversy: What&#8217;s Behind the Suspicious Flows?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-01-16T15:30:00.000Z",
+    "title": "Shiba Inu is firm as investors exploring new meme coin and gaming project",
+    "url": "https://crypto.news/shiba-inu-is-firm-as-investors-exploring-new-meme-coin-and-gaming-project/",
+    "description": "Meme moguls aims to reshape the meme coin scene and is attracting investors. Shiba Inu is steady"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-16T15:14:36.000Z",
+    "title": "What is Myro and why is it up 450% in 2024?",
+    "url": "https://crypto.news/what-is-myro-and-why-is-it-up-450-in-2024/",
+    "description": "Myro’s value has dropped nearly 15% in the past 24 hours, pausing its significant upward trend throughout the year."
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-16T15:30:19.000Z",
+    "title": "Benjamin Cowen Updates Bitcoin Price Forecast, Says Fed Rate Cuts Not As Bullish as Market Expects",
+    "url": "https://dailyhodl.com/2024/01/16/benjamin-cowen-updates-bitcoin-price-forecast-says-fed-rate-cuts-not-as-bullish-as-market-expects/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Fed-Rate-Cuts-Not.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst Benjamin Cowen is updating his outlook on Bitcoin (BTC) as investors begin to anticipate the possibility that the Federal Reserve will reverse its tight monetary policies in the coming months. In a new strategy session, Cowen tells his 789,000 YouTube subscribers that when the Fed starts cutting rates, which CME’s FedWatch Tool indicates [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/16/benjamin-cowen-updates-bitcoin-price-forecast-says-fed-rate-cuts-not-as-bullish-as-market-expects/\">Benjamin Cowen Updates Bitcoin Price Forecast, Says Fed Rate Cuts Not As Bullish as Market Expects</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

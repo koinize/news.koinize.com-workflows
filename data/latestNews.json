@@ -1,44 +1,37 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-17T22:20:34.000Z",
+    "title": "The Protocol: MetaMask's Secret Weapon and Ethereum's Dencun Debacle ",
+    "url": "https://www.coindesk.com/tech/2024/01/17/the-protocol-metamasks-secret-weapon-and-ethereums-dencun-debacle/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "In this issue of CoinDesk's weekly newsletter on blockchain technology, we bring you Sam Kessler's scoop on MetaMask's in-development \"intents\" feature that could revolutionize how users interact with blockchains. Also: a post-mortem on Ethereum's unexpectedly ugly Dencun testnet upgrade – and a glimpse of one of the new data blobs."
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-17T22:28:58.000Z",
+    "title": "JPM’s Jamie Dimon believes Satoshi Nakamoto will either increase or “erase” Bitcoin supply",
+    "url": "https://cryptoslate.com/jpms-jamie-dimon-believes-satoshi-nakamoto-will-either-increase-or-erase-bitcoin-supply/",
+    "description": "<p>Jamie Dimon, the CEO of JPMorgan, took aim at Bitcoin once again during an interview with CNBC at Davos 2024 on Jan. 17. Dimon expressed an unusual theory in which he suggested that Bitcoin (BTC) could be eliminated once its maximum supply is issued. He said: &#8220;I think there&#8217;s a good chance that &#8230; when [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/jpms-jamie-dimon-believes-satoshi-nakamoto-will-either-increase-or-erase-bitcoin-supply/\">JPM&#8217;s Jamie Dimon believes Satoshi Nakamoto will either increase or &#8220;erase&#8221; Bitcoin supply</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
     "source": "Crypto Briefing",
-    "date": "2024-01-17T21:42:46.000Z",
-    "title": "CertiK outlines three crypto exploits targeting DeFi users",
-    "url": "https://cryptobriefing.com/certik-three-crypto-exploits-targeting-defi-users/?utm_source=feed&utm_medium=rss",
-    "description": "A report published on January 11 details the most common honeypot schemes in DeFi and how to identify them through block explorers."
+    "date": "2024-01-17T22:25:41.000Z",
+    "title": "Uniswap records $2.6 million in revenue 3 months after fee rollout",
+    "url": "https://cryptobriefing.com/uniswap-records-2-6-million-revenue-3-months-fee-rollout/?utm_source=feed&utm_medium=rss",
+    "description": "Uniswap's 0.15% swap fee generates a millionaire amount in revenue amid community debate over VC interests."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-17T22:08:38.000Z",
-    "title": "dYdX surpasses Uniswap in daily trading volume following move to Cosmos",
-    "url": "https://www.cryptopolitan.com/dydx-surpasses-uniswap-daily-trading-volume/",
-    "description": "The decentralized exchange (DEX) dYdX has recently surpassed Uniswap, a long-standing leader in the sector, by recording the highest daily trading volume, according to CoinMarketCap data. This achievement marks a significant milestone for dYdX, especially after its strategic migration from the Ethereum blockchain to the Cosmos ecosystem. dYdX&#8217;s strategic move to Cosmos dYdX&#8217;s transition to [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-17T21:39:44.000Z",
-    "title": "Multiple states in the U.S challenge inclusion of CBDCs as legal tender",
-    "url": "https://www.cryptopolitan.com/u-s-states-inclusion-of-cbdcs-legal-tender/",
-    "description": "Several states in the U.S. have initiated legislative actions to redefine the concept of money, specifically excluding Central Bank Digital Currencies (CBDCs) from this definition. These moves represent a growing skepticism and regulatory caution towards digital currencies issued by central banks. Legislative actions across four states The states of Utah, South Carolina, South Dakota, and [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-01-17T22:30:55.000Z",
+    "title": "NYSE’s Strategic Move — Bitcoin ETF Options Poised to Boost Market Dynamics",
+    "url": "https://news.bitcoin.com/nyses-strategic-move-bitcoin-etf-options-poised-to-boost-market-dynamics/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"NYSE&#039;s Strategic Move — Bitcoin ETF Options Poised to Boost Market Dynamics\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nyses.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a groundbreaking move, NYSE Arca Inc. has submitted a proposal to amend its rules to enable options trading on commodity-based trust shares, specifically targeting bitcoin-based ETFs. This initiative, detailed in the 19b-4 filing with the SEC, marks a significant advancement in the financial products available for crypto investors. The NYSE&#8217;s proposal aligns with the [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-01-17T22:04:17.000Z",
-    "title": "SEC approves ETFs swings the crypto market, why investing into new Pushd presale over the likes of Bitcoin (BTC) and Cardano (ADA)",
-    "url": "https://nulltx.com/sec-approves-etfs-swings-the-crypto-market-why-investing-into-new-pushd-presale-over-the-likes-of-bitcoin-btc-and-cardano-ada/",
-    "description": "News of the SEC’s approval of ETFs has been a major talking point in the crypto industry lately. Cryptocurrencies like Bitcoin (BTC) and Cardano (ADA) could benefit massively from this new development. But what makes Pushd (PUSHD) a potentially better investment than these coins? Let&#8217;s find out. Bitcoin (BTC) &#8211; [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-17T21:49:08.000Z",
-    "title": "Altcoin Eruption Option2Trade (O2T) Surges, Stacking against Polygon (MATIC) and Celestia (TIA) for Top Spot",
-    "url": "https://nulltx.com/altcoin-eruption-option2trade-o2t-surges-stacking-against-polygon-matic-and-celestia-tia-for-top-spot/",
-    "description": "Welcome to the exciting realm of Altcoins, where the seismic tremors of change are unmistakably felt with the resounding surge of Option2Trade (O2T). In a captivating display of market dynamics, Option2Trade (O2T) has embarked on an upward trajectory, positioning itself as a formidable contender against the stalwarts, Polygon (MATIC) and [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-17T22:00:29.000Z",
-    "title": "Crypto Analyst Predicts XRP Price Will Surge 800% To Reach $5 In The Next 90 Days",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-price-800-5-90-days/",
-    "description": "Crypto analyst Egrag Crypto recently made a bold prediction as to the future trajectory of the XRP price and asserted when exactly the crypto token will hit this price level. Considering XRP’s current price level, it will no doubt be interesting to see how this prediction plays out.  “XRP To $5 In 90 Days” Egrag mentioned in an X (formerly Twitter) post that XRP will rise to $5 in 90 days. The analyst also suggested that this price surge was just the beginning of XRP’s meteoric rise, as he said that the $5 range will mark the “initial wave 1 of a prolonged bull market.” This bull market, he expects, will span for several months, possibly enough time for XRP to hit all of Egrag’s bullish targets.  Related Reading: Crypto Community Raises Alarm Over Coinbase’s Dominance Of Bitcoin Held In Spot ETFs The analyst outlined these bullish targets in a subsequent post as he noted that they remain unchanged. Egrag predicts that XRP will hit $1.2, $1.6, $7.5, and $13 on its way to $27. He had previously laid out a narrative as to why XRP will surge by over 4000% to hit $27. According to him, XRP hitting this price level was a real possibility considering that the token had in 2017 risen by 61,000%. Egrag happens to be one of the analysts who are most bullish on XRP’s future despite its current price action. His most bullish prediction to date remains how XRP could rise to $2,500 by 2029. All this while, he has also urged XRP holders to be more patient as good things lie ahead for those who will stick around.  Notably, Egrag credits his conviction to the amount of research he has put into studying XRP’s price movement over the years. Another reason why he seems to have become more bullish on XRP is because of the regulatory clarity that it enjoys. He once noted that this places XRP as the “safest investment choice.” Token price at $0.56 &#124; Source: XRPUSD on Tradingview.com A Further Analysis Of XRP Price Chart In the meantime, Egrag believes that the $0.55 level stands as “significant support for XRP,” and he doesn’t see the weekly candle closing below the $0.50 level. He further noted that the “edge of the atlas line looms at $0.43.” However, he is not anticipating XRP dropping to that price level. Instead, he is choosing to focus on the bigger picture. Related Reading: Bitcoin Gearing Up For Recovery As Large Whales Stop Moving Old Coins Meanwhile, crypto analyst Crypto Rover also recently predicted that a parabolic breakout is on the horizon for XRP.  Just like Egrag, he provided a timeline, saying it would happen in the “upcoming 8 weeks.” However, His prediction looks more conservative than Egrag’s $5 prediction, as the chart Rover shared showed that XRP could rise to just over $1. At the time of writing, XRP is trading at $0.57, according to data from CoinMarketCap. Featured image from CryptoRank, chart from Tradingview.com"
+    "date": "2024-01-17T22:17:44.000Z",
+    "title": "Bitcoin Spot ETFs Garner Nearly $10 Billion In Three Days; Grayscale Dominates Trading Volume",
+    "url": "https://nulltx.com/bitcoin-spot-etfs-garner-nearly-10-billion-in-three-days-grayscale-dominates-trading-volume/",
+    "description": "The U.S. Bitcoin spot ETFs witnessed a staggering total trading volume of almost $10 billion within a span of three days, according to insights from Bloomberg analyst James Seyffart. Grayscale GBTC led the charts with a three-day trading volume of $5.174 billion, followed by BlackRock&#8217;s IBIT at $1.997 billion and [&#8230;]"
   }
 ]

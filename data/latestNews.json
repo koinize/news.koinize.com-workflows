@@ -1,51 +1,44 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-17T21:13:00.000Z",
-    "title": "Does Howard Lutnick Know ‘the Truth’ About Tether?",
-    "url": "https://www.coindesk.com/consensus-magazine/2024/01/17/does-howard-lutnick-know-the-truth-about-tether/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Speaking at Davos, the Cantor Fitzgerald CEO says the stablecoin issuer has the money to back USDT. Maybe it’s time we all started to believe in Tether, despite the “truthers”?"
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-17T21:31:48.000Z",
-    "title": "Solana Meme Coin Dogwifhat Spikes 257% as SOL Reclaims $100",
-    "url": "https://decrypt.co/213268/solana-meme-coin-dogwifhat-spikes-257-sol-reclaims-100",
-    "description": "BONK isn’t the hottest Solana meme coin at the moment: WIF has more than doubled in price this week alone."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-17T21:37:32.000Z",
-    "title": " Why is Bitcoin price down today? ",
-    "url": "https://cointelegraph.com/news/why-is-bitcoin-price-down-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZDM2MDViNmItMGVmZi00NmY2LWE0NmYtYjE1ZWMzYjNlY2JlLmpwZWc=.jpeg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin price is down today as traders continue to realize profits as volatility spikes.</p>\n                    <p><p>The bullish momentum that propelled Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) over $49,000 in 2024 seems to be waning, with BTC price hitting a year-to-date low on Jan. 15. </p><p>The contraction in <a href=\"https://cointelegraph.com/news/crypto-products-record-weekly-volume-spot-bitcoin-etfs-coinshares\">Bitcoin price</a> comes as investors in the United States flock to institutional investment products after spot ETF approval. </p><p>Let’s take a closer look at the factors impacting Bitcoin price today.</p><p><a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-down-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-17T21:20:19.000Z",
-    "title": " Unstoppable Domains launches badge-gated group chat feature for username holders ",
-    "url": "https://cointelegraph.com/news/unstoppable-domains-launches-badge-gated-group-chat-feature-username-holders",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMDBiMDRiYjktYmRlOC00MjFhLTk4YWYtOTJjYTM2ZjEzOWY1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Unstoppable Domains app now allows messaging within groups instead of just between individuals, and badges can be used to automate membership.</p>\n                    <p><p>Web3 username protocol Unstoppable Domains (UD) launched a new group chat feature, according to a Jan. 17 announcement. </p><p>The feature allows username owners to form group chats that are badge-gated, meaning that only wallet accounts with particular characteristics are allowed to participate in the chat. The feature was created using Web3 communication system Push Protocol.</p><p>UD is a Web3 username protocol. It allows wallet holders to register human-readable names that can stand for a particular wallet account. The team claims this can potentially help to prevent other users from needing to cut and paste long strings of characters when interacting with an account. Web3 usernames are also <a href=\"https://cointelegraph.com/explained/the-concept-and-future-of-decentralized-web3-domain-names\">sometimes called “Web3 domain names.”</a></p><p><a href=\"https://cointelegraph.com/news/unstoppable-domains-launches-badge-gated-group-chat-feature-username-holders\">Read more</a></p></p>\n                \n            "
-  },
-  {
     "source": "Crypto Briefing",
-    "date": "2024-01-17T21:15:57.000Z",
-    "title": "Ethereum’s Dencun upgrade launches on Goerli testnet",
-    "url": "https://cryptobriefing.com/ethereum-dencun-upgrade-goerli-testnet/?utm_source=feed&utm_medium=rss",
-    "description": "Ethereum developers have successfully deployed the Dencun upgrade on the Goerli testnet, with mainnet activation in sight."
+    "date": "2024-01-17T21:42:46.000Z",
+    "title": "CertiK outlines three crypto exploits targeting DeFi users",
+    "url": "https://cryptobriefing.com/certik-three-crypto-exploits-targeting-defi-users/?utm_source=feed&utm_medium=rss",
+    "description": "A report published on January 11 details the most common honeypot schemes in DeFi and how to identify them through block explorers."
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-17T21:36:17.000Z",
-    "title": "QCP: Ethereum likely to surpass Bitcoin in midterm",
-    "url": "https://crypto.news/qcp-ethereum-likely-to-surpass-bitcoin-in-midterm/",
-    "description": "Ethereum is outperforming Bitcoin, driven by market anticipation of potential spot ETH ETF approvals."
+    "source": "Cryptopolitan",
+    "date": "2024-01-17T22:08:38.000Z",
+    "title": "dYdX surpasses Uniswap in daily trading volume following move to Cosmos",
+    "url": "https://www.cryptopolitan.com/dydx-surpasses-uniswap-daily-trading-volume/",
+    "description": "The decentralized exchange (DEX) dYdX has recently surpassed Uniswap, a long-standing leader in the sector, by recording the highest daily trading volume, according to CoinMarketCap data. This achievement marks a significant milestone for dYdX, especially after its strategic migration from the Ethereum blockchain to the Cosmos ecosystem. dYdX&#8217;s strategic move to Cosmos dYdX&#8217;s transition to [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-17T21:28:15.000Z",
-    "title": "Rocket Pool’s X account compromised",
-    "url": "https://crypto.news/rocket-pools-x-account-compromised/",
-    "description": "The X account of the Ethereum staking protocol Rocket Pool was hacked on Jan. 17, with the exploiter asking users to migrate their assets via a malicious link. "
+    "source": "Cryptopolitan",
+    "date": "2024-01-17T21:39:44.000Z",
+    "title": "Multiple states in the U.S challenge inclusion of CBDCs as legal tender",
+    "url": "https://www.cryptopolitan.com/u-s-states-inclusion-of-cbdcs-legal-tender/",
+    "description": "Several states in the U.S. have initiated legislative actions to redefine the concept of money, specifically excluding Central Bank Digital Currencies (CBDCs) from this definition. These moves represent a growing skepticism and regulatory caution towards digital currencies issued by central banks. Legislative actions across four states The states of Utah, South Carolina, South Dakota, and [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-17T22:04:17.000Z",
+    "title": "SEC approves ETFs swings the crypto market, why investing into new Pushd presale over the likes of Bitcoin (BTC) and Cardano (ADA)",
+    "url": "https://nulltx.com/sec-approves-etfs-swings-the-crypto-market-why-investing-into-new-pushd-presale-over-the-likes-of-bitcoin-btc-and-cardano-ada/",
+    "description": "News of the SEC’s approval of ETFs has been a major talking point in the crypto industry lately. Cryptocurrencies like Bitcoin (BTC) and Cardano (ADA) could benefit massively from this new development. But what makes Pushd (PUSHD) a potentially better investment than these coins? Let&#8217;s find out. Bitcoin (BTC) &#8211; [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-17T21:49:08.000Z",
+    "title": "Altcoin Eruption Option2Trade (O2T) Surges, Stacking against Polygon (MATIC) and Celestia (TIA) for Top Spot",
+    "url": "https://nulltx.com/altcoin-eruption-option2trade-o2t-surges-stacking-against-polygon-matic-and-celestia-tia-for-top-spot/",
+    "description": "Welcome to the exciting realm of Altcoins, where the seismic tremors of change are unmistakably felt with the resounding surge of Option2Trade (O2T). In a captivating display of market dynamics, Option2Trade (O2T) has embarked on an upward trajectory, positioning itself as a formidable contender against the stalwarts, Polygon (MATIC) and [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-17T22:00:29.000Z",
+    "title": "Crypto Analyst Predicts XRP Price Will Surge 800% To Reach $5 In The Next 90 Days",
+    "url": "https://www.newsbtc.com/analysis/xrp/xrp-price-800-5-90-days/",
+    "description": "Crypto analyst Egrag Crypto recently made a bold prediction as to the future trajectory of the XRP price and asserted when exactly the crypto token will hit this price level. Considering XRP’s current price level, it will no doubt be interesting to see how this prediction plays out.  “XRP To $5 In 90 Days” Egrag mentioned in an X (formerly Twitter) post that XRP will rise to $5 in 90 days. The analyst also suggested that this price surge was just the beginning of XRP’s meteoric rise, as he said that the $5 range will mark the “initial wave 1 of a prolonged bull market.” This bull market, he expects, will span for several months, possibly enough time for XRP to hit all of Egrag’s bullish targets.  Related Reading: Crypto Community Raises Alarm Over Coinbase’s Dominance Of Bitcoin Held In Spot ETFs The analyst outlined these bullish targets in a subsequent post as he noted that they remain unchanged. Egrag predicts that XRP will hit $1.2, $1.6, $7.5, and $13 on its way to $27. He had previously laid out a narrative as to why XRP will surge by over 4000% to hit $27. According to him, XRP hitting this price level was a real possibility considering that the token had in 2017 risen by 61,000%. Egrag happens to be one of the analysts who are most bullish on XRP’s future despite its current price action. His most bullish prediction to date remains how XRP could rise to $2,500 by 2029. All this while, he has also urged XRP holders to be more patient as good things lie ahead for those who will stick around.  Notably, Egrag credits his conviction to the amount of research he has put into studying XRP’s price movement over the years. Another reason why he seems to have become more bullish on XRP is because of the regulatory clarity that it enjoys. He once noted that this places XRP as the “safest investment choice.” Token price at $0.56 &#124; Source: XRPUSD on Tradingview.com A Further Analysis Of XRP Price Chart In the meantime, Egrag believes that the $0.55 level stands as “significant support for XRP,” and he doesn’t see the weekly candle closing below the $0.50 level. He further noted that the “edge of the atlas line looms at $0.43.” However, he is not anticipating XRP dropping to that price level. Instead, he is choosing to focus on the bigger picture. Related Reading: Bitcoin Gearing Up For Recovery As Large Whales Stop Moving Old Coins Meanwhile, crypto analyst Crypto Rover also recently predicted that a parabolic breakout is on the horizon for XRP.  Just like Egrag, he provided a timeline, saying it would happen in the “upcoming 8 weeks.” However, His prediction looks more conservative than Egrag’s $5 prediction, as the chart Rover shared showed that XRP could rise to just over $1. At the time of writing, XRP is trading at $0.57, according to data from CoinMarketCap. Featured image from CryptoRank, chart from Tradingview.com"
   }
 ]

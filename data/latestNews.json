@@ -1,86 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-17T17:39:47.000Z",
-    "title": "Bernstein Says Buy the Dip in Bitcoin Mining Stocks Ahead of BTC Price 'Inflection'",
-    "url": "https://www.coindesk.com/business/2024/01/17/bernstein-says-buy-the-dip-in-bitcoin-mining-stocks-ahead-of-btc-price-inflection/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The broker says it prefers outperform rated mining stocks Riot Platforms (RIOT) and CleanSpark (CLSK)."
-  },
-  {
     "source": "Decrypt",
-    "date": "2024-01-17T18:03:10.000Z",
-    "title": "Ethereum Moves One Step Closer Toward Major Scalability Upgrade",
-    "url": "https://decrypt.co/213208/ethereum-dencun-upgrade-live-testnet",
-    "description": "Ethereum’s Dencun upgrade today went live on the Goerli testnet in a move that aims solve the network's scalability issues."
+    "date": "2024-01-17T18:29:44.000Z",
+    "title": "Jaime Dimon Belittles Bitcoin ETFs: ‘Please Stop Talking About This Shit’",
+    "url": "https://decrypt.co/213211/jaime-dimon-bitcoin-etf-stop-talking-about-shit",
+    "description": "The longtime Bitcoin critic says he defends investors’ right “to do Bitcoin.”"
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-17T17:55:00.000Z",
-    "title": " Ethereum Dencun upgrade goes live on testnet after 4-hour delay ",
-    "url": "https://cointelegraph.com/news/ethereum-dencun-upgrade-goes-live-testnet-after-4-hour-delay",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZTE2NDEwNTYtN2M0Zi00YzQ1LTgyNTktYjBlMDMzYjM2N2YwLkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Dencun upgrade was implemented on Ethereum’s Goerli testnet, but a bug in Prysm kept the network from finalizing for nearly four hours.</p>\n                    <p><p>The newest upgrade to the Ethereum network, codenamed “Cancun-Deneb” or “Dencun,” has gone live on the Goerli testnet for the first time, according to a Jan. 17 social media post from Ethereum developer Parithosh Jayanthi. </p><p>According to Jayanthi, a bug delayed the network’s launch for approximately four hours. But once this problem was fixed through a patch, the network came back up.</p><p>Once implemented on mainnet, the Dencun upgrade will <a href=\"https://cointelegraph.com/news/ethereum-dencun-upgrade-testing-scheduled-jan-17\">significantly lower the cost of transactions</a> on Ethereum layer-2s such as Optimism, Base, Polygon zkEVM, and others, developers have claimed. It will also limit self-destruct operations and allow for new bridge and staking pool features.</p><p><a href=\"https://cointelegraph.com/news/ethereum-dencun-upgrade-goes-live-testnet-after-4-hour-delay\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-17T18:23:56.000Z",
+    "title": " Bitcoin and ETF traders are overstating the impact of GBTC selling  ",
+    "url": "https://cointelegraph.com/news/bitcoin-and-etf-traders-are-overstating-the-impact-of-gbtc-selling",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMDc3N2VmNmMtOWVmMi00OWQwLWJiZmEtZmJhY2RhZDExNDQ5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Grayscale GBTC outflows find a counterpart in net inflows to the remaining spot Bitcoin ETF funds. Here’s why it’s important.</p>\n                    <p><p>The spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) instrument debuted on Jan. 12. The <a href=\"https://cointelegraph.com/news/bitcoin-spot-etf-volumes-break-records-blackrock-fidelity-grayscale\">first trading session</a> was somewhat chaotic as investors had no clue as to what the actual inflow was, and the market makers themselves faced issues with the different liquidation timelines for each instrument. Still, the $4.66 billion volume on Bitcoin spot-based ETFs set a record high in the traditional finance industry, but is this enough to justify a Bitcoin price rally above $47,000?</p><p>Some criticism emerged regarding the Grayscale GBTC, which previously existed as a Trust fund and held over $27 billion worth of BTC under management. In the first three trading days alone, this instrument <a href=\"https://cointelegraph.com/news/grayscale-bitcoin-trust-etf-transfers-another-376-million-worth-btc-price-stabilizes\">experienced $1.17 billion of net outflows</a>. Most of that movement happened on Jan. 13 and Jan. 16, balancing out 86% of the inflows to other spot Bitcoin ETFs in the period. In absolute terms, this translates to a mere aggregate $157 million net inflow in 2 days.</p><p>Most of the $782 million net inflow highlighted in the data originally presented by senior Bloomberg ETF analyst Eric Balchunas occurred on the first trading session. Due to its different settlement times, arbitrage desks were unable to exit their GBTC positions on Jan. 12. For instance, a short (negative) <a href=\"https://cointelegraph.com/news/bitcoin-cme-gaps-how-to-trade-them\">position on CME Bitcoin futures</a> could have been used to offset the GBTC long (positive) to benefit from the discount that the fund shares used to trade prior to the spot ETF approval.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-and-etf-traders-are-overstating-the-impact-of-gbtc-selling\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-17T17:45:00.000Z",
-    "title": " Gemini approved to operate in France, will debut within weeks ",
-    "url": "https://cointelegraph.com/news/gemini-approved-operate-france-debut-within-weeks",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTA1NjdhNDUtNGYzYi00MTcyLTk0NDQtODcxYjgyMmZlZDA2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>French markets regulator Autorité des marchés financiers granted Gemini registration, reportedly making it the 105th company to receive it. </p>\n                    <p><p>Cryptocurrency exchange Gemini has received approval to operate in France as a digital asset services provider (DASP). The new registration brings the total number of European jurisdictions where Gemini operates to “over a dozen,” the company <a href=\"https://www.gemini.com/blog/gemini-secures-french-crypto-registration-continuing-global-expansion\" target=\"_blank\" rel=\"noopener nofollow\">said</a> on Jan. 17</p><p>Gemini services should be available there in the coming weeks, making over 70 cryptocurrencies available to institutional and retail traders, it said. Institutional traders will also have access to Gemini eOTC electronic over-the-counter trading. Gemini head of the European Union and Ireland Gillian Lynch said:</p><p>French media <a href=\"https://www.bfmtv.com/crypto/regulation/les-deux-geants-des-cryptos-okx-et-gemini-debarquent-en-france_AV-202312140397.html\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> in December that financial markets regulator Autorité des marchés financiers (AMF) was granting Gemini and crypto exchange OKX PSAN (DASP) registration simultaneously, and Gemini was its 105th registrant. </p><p><a href=\"https://cointelegraph.com/news/gemini-approved-operate-france-debut-within-weeks\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-17T18:20:00.000Z",
+    "title": " US sanctions over China&#039;s military use of Baidu chatbot could spell bad news for the AI industry ",
+    "url": "https://cointelegraph.com/news/us-sanctions-over-china-military-use-artificial-intelligence-bad-news-ai-industry",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYzRlN2Q4MzQtOTM0Zi00Nzc3LTg2MzQtNTdhNWQxNDYyODQwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Any company with a public-facing generative AI service could theoretically find themselves in the same crosshairs.</p>\n                    <p><p>Chinese artificial intelligence (AI) firm Baidu faces potential US sanctions over the People’s Liberation Army’s (PLA’s) alleged use of the company's technology for military endeavors. </p><p>According to a Jan. 12 report from the South China Morning Post (SCMP), researchers in China <a href=\"https://www.scmp.com/news/china/science/article/3248050/chinas-military-lab-ai-connects-commercial-large-language-models-first-time-learn-more-about-humans\" target=\"_blank\" rel=\"noopener nofollow\">used</a> Baidu’s Ernie chatbot while working with the PLA on military technology.</p><p>Baidu categorically denies participating in the research or authorizing the use of its technology. A company statement <a href=\"https://ir.baidu.com/news-releases/news-release-details/baidu-responds-recent-media-reports-ernie-bot\" target=\"_blank\" rel=\"noopener nofollow\">indicates</a> that Ernie was one of many language models used in the cited research, a list which includes OpenAI’s GPT3.5 and GPT 4. </p><p><a href=\"https://cointelegraph.com/news/us-sanctions-over-china-military-use-artificial-intelligence-bad-news-ai-industry\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-17T18:11:58.000Z",
-    "title": "NEAR Protocol (NEAR) Defies Odds with Epic Rally – Is Optimism (OP) Next in Line for a Massive Breakout?",
-    "url": "https://cryptodaily.co.uk/2024/01/near-protocol-near-defies-odds-with-epic-rally-is-optimism-op-next-in-line-for-a-massive-breakout",
-    "description": "Embark on the latest dynamics in the crypto world with our in-depth analysis of NEAR Protocol's (NEAR) remarkable growth and Optimism's (OP) strategic maneuvering in the Ethereum L2 landscape. Dive into this compelling article to explore how NEAR's impressive resilience and gains contrast with OP's fluctuating fortunes, shaping the future of blockchain technology in 2024."
+    "source": "CryptoSlate",
+    "date": "2024-01-17T18:33:40.000Z",
+    "title": "Gemini gains ground in France with official Digital Asset Service Provider registration",
+    "url": "https://cryptoslate.com/gemini-gains-ground-in-france-with-official-digital-asset-service-provider-registration/",
+    "description": "<p>Crypto exchange Gemini has been registered as a Digital Asset Service Provider (DASP) in France by the l’Autorité des Marchés Financiers (AMF), the French financial markets regulator, according to a Jan. 17 statement. The registration would enable it to cater to retail and institutional customers in France. Moreover, the regulatory milestone would also grant its [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/gemini-gains-ground-in-france-with-official-digital-asset-service-provider-registration/\">Gemini gains ground in France with official Digital Asset Service Provider registration</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-17T17:40:20.000Z",
-    "title": "Bitcoin ETF Surge Fuels Dogecoin (DOGE) and Shiba Inu (SHIB) Momentum",
-    "url": "https://cryptodaily.co.uk/2024/01/bitcoin-etf-surge-fuels-dogecoin-doge-and-shiba-inu-shib-momentum",
-    "description": "Discover how the surge in Bitcoin ETFs, attracting over $1 billion in just two days, impacts the cryptocurrency market. Explore Dogecoin (DOGE) and Shiba Inu (SHIB) as they gain momentum alongside Bitcoin. Get insights into DOGE's high-profile backing and SHIB's whale-driven price surge. Stay updated on the dynamic crypto landscape."
+    "source": "CryptoSlate",
+    "date": "2024-01-17T18:30:43.000Z",
+    "title": "Bitcoin now second largest commodity ETF asset class in US, ahead of Silver",
+    "url": "https://cryptoslate.com/insights/bitcoin-now-second-largest-commodity-etf-asset-class-in-us-ahead-of-silver/",
+    "description": "<p>Quick Take The implicit recognition of Bitcoin as a commodity by the Securities and Exchange Commission (SEC) marks a significant turning point for the digital asset. With the authorization of spot Bitcoin ETFs under NYSE Arca Rule 8.201-E, which governs Commodity-Based Trust Shares, Bitcoin has ascended to the status of the second largest commodity in [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-now-second-largest-commodity-etf-asset-class-in-us-ahead-of-silver/\">Bitcoin now second largest commodity ETF asset class in US, ahead of Silver</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-17T18:30:01.000Z",
+    "title": "Grayscale Sees Over $477 Million Bitcoin Exodus as Blackrock and Fidelity ETFs Bolster Holdings",
+    "url": "https://news.bitcoin.com/grayscale-sees-over-477-million-bitcoin-exodus-as-blackrock-and-fidelity-etfs-bolster-holdings/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Grayscale Sees Over $477 Million Bitcoin Exodus as Blackrock and Fidelity ETFs Bolster Holdings\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/argbtc.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Recent data reveals that since the update on Grayscale&#x2019;s website three days prior, the firm&#x2019;s most recent figures indicate a significant reduction in its holdings, with over 11,189 bitcoin, valued at approximately $477 million, being withdrawn from GBTC&#x2019;s reserves. Concurrently, the introduction of spot bitcoin exchange-traded funds (ETFs) by Blackrock, Fidelity, and other companies has [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-17T18:11:59.000Z",
-    "title": "Regulating AI: Feasible Approaches to Address Growing Concerns",
-    "url": "https://www.cryptopolitan.com/regulating-ai-feasible-approaches-to-address/",
-    "description": "As the influence of generative artificial intelligence (AI) technologies continues to expand, so does the apprehension surrounding their potential consequences. These concerns encompass various issues, from the proliferation of disinformation and job displacement to the loss of creative control and even existential threats posed by superintelligent AI.&#160; In response to these mounting fears, governments worldwide [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-17T18:07:55.000Z",
-    "title": "Binance launches AltLayer on Launchpool, expands crypto investment options",
-    "url": "https://crypto.news/binance-launches-altlayer-on-launchpool-expands-crypto-investment-options/",
-    "description": "Binance has added AltLayer as the latest project on its Binance Launchpool platform, offering users new opportunities for cryptocurrency staking and trading."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-17T18:00:34.000Z",
-    "title": "Sam Bankman-Fried’s parents seeking dismissal of FTX lawsuit",
-    "url": "https://crypto.news/sam-bankman-frieds-parents-seeking-dismissal-of-ftx-lawsuit/",
-    "description": "Sam Bankman-Fried's parents have filed a motion to dismiss FTX's lawsuit, denying involvement in the exchange's downfall."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-17T17:52:08.000Z",
-    "title": "Grayscale moved $1.3b Bitcoin to Coinbase since ETF approval",
-    "url": "https://crypto.news/grayscale-moved-1-3b-bitcoin-to-coinbase-since-etf-approval/",
-    "description": "Following the approval of spot Bitcoin ETFs, Grayscale has transferred some 31,638 BTC within its dedicated Coinbase accounts."
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-17T18:00:37.000Z",
-    "title": "QCP Capital Forecasts ETH’s Dominance Over Bitcoin To Persist,  Ethereum ETFs In Focus",
-    "url": "https://www.newsbtc.com/ethereum-news/qcp-capital-forecasts-eths-dominance-over-bitcoin-to-persist-ethereum-etfs-in-focus/",
-    "description": "Over the past 30 days, Ethereum (ETH), the second-largest cryptocurrency, has experienced a notable surge of 17%, outperforming Bitcoin (BTC), which has recorded a surge of 2.5% over the same period.  This comes as the initial excitement surrounding the approval of the exchange-traded funds (ETFs) by the US Securities and Exchange Commission (SEC) appears to have waned, with BTC witnessing a 5% drop in the past seven days.  Interestingly, according to crypto trading firm QCP Capital, following the approval of Bitcoin ETFs, the focus has shifted to the potential launch of an ETH spot ETF, which could be one of the factors for Ethereum outperforming BTC.   Ethereum Gains Ground Against BTC  According to QCP Capital, the total volumes transacted across all 11 ETFs in the past week have reached $9.8 billion. The Grayscale Bitcoin Trust (GBTC) alone accounted for $4.6 billion.  Since converting from a Trust to an ETF, GBTC has experienced outflows of $1.17 billion. This is “unsurprising” for the firm, considering GBTC had been trading at a discount since 2020, offering investors an opportunity to exit at par value.  Related Reading: Chiliz (CHZ) Jumps Over 40%: Reasons Behind The Hot Streak BTC initially surged to a high of $49,100 upon ETF approval but has since seen a decline, consolidating above the $40,000 support level. Volumes have slowed since the initial launch, and market attention is focused on GBTC outflows.  Meanwhile, ETHBTC, which traded below 0.05, has seen an upward trend to 0.06. According to QCP Capital, Ethereum is anticipated to continue to outperform Bitcoin in the medium term as the narrative shifts towards potential ETH Spot ETF approvals. Bitcoin Forward Contract Yields Decrease Following the launch of the BTC spot ETF, BTC forward contracts have experienced a greater decline compared to ETH forward contracts. BTC 1-month forward fell from 32% annualized to 9% (-23%), while ETH 1-month forward decreased from 28% to 12% (-16%).  According to QCP Capital, despite declining yields, ETH forwards still appear attractive, offering 11-13% annualized returns. Additionally, selling ETH 1-month 2200 Puts presents a viable option with yields above 21% annually, and it could be a suitable level to buy in the event of a dip upon potential ETH spot ETF approvals. Related Reading: Shibarium Shatters Records: 2 Million Transactions In A Day – Details Ultimately, the crypto firm suggests that the forthcoming BTC halving in mid-April and the potential approval of ETH Spot ETFs from May are anticipated to be significant events for the crypto market.  In the interim, market movements may also be influenced by macroeconomic events. The January Federal Open Market Committee (FOMC) meeting, as well as the February Non-Farm Payrolls (NFP) and Consumer Price Index (CPI) reports, are being closely monitored for insights.  The pace of the balance sheet runoff, discussed briefly in December 2023, is expected to provide further clarity during the January FOMC meeting. The market consensus suggests a slowdown in quantitative tightening (QT), but the timing and extent of these changes remain uncertain. Overall, the potential launch of an Ethereum spot ETF has sparked speculation and could have a transformative impact on the Ethereum ecosystem. As the market grapples with changing dynamics, attention remains on key events, such as the BTC halving and potential ETH Spot ETF approvals. Featured image from Shutterstock, chart from TradingView.com"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-17T17:55:20.000Z",
-    "title": "Tether Protests UN Accusations of USDT Being Used in Crime, Argues Blockchains Are Impractical for Illicit Use",
-    "url": "https://dailyhodl.com/2024/01/17/tether-protests-un-accusations-of-usdt-being-used-in-crime-argues-blockchains-are-impractical-for-illicit-use/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/tether-illicit-crime-use.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Tether is pushing back against recent accusations from a United Nations agency that its stablecoin, USDT, is used extensively for money laundering and fraud in Asia. In a new report, the United Nations Office on Drugs and Crime (UNODC) claims criminals in East and Southeast Asia prefer to use USDT on the Tron (TRON) blockchain [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/17/tether-protests-un-accusations-of-usdt-being-used-in-crime-argues-blockchains-are-impractical-for-illicit-use/\">Tether Protests UN Accusations of USDT Being Used in Crime, Argues Blockchains Are Impractical for Illicit Use</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-17T18:27:50.000Z",
+    "title": "Biometric Payment Solutions Transform Retail Shopping Experience",
+    "url": "https://www.cryptopolitan.com/biometric-payment-solutions-transform-retail/",
+    "description": "Biometric payment solutions have gained significant traction in the retail industry, enhancing the shopping experience for consumers and streamlining checkout processes. Several partnerships and innovations have emerged, offering secure and convenient alternatives to traditional payment methods. Keyo and Mashgin partner to enable palm biometrics Keyo and Mashgin have joined forces to introduce a cutting-edge shopping [&#8230;]"
   }
 ]

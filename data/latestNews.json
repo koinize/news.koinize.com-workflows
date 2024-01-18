@@ -1,65 +1,114 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-18T15:00:00.000Z",
-    "title": "Protocol Village: COTI Allocates $25M Ecosystem Fund as Part of Transition to Ethereum Layer-2",
-    "url": "https://www.coindesk.com/tech/2024/01/18/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 18-24."
+    "source": "CryptoSlate",
+    "date": "2024-01-18T15:35:48.000Z",
+    "title": "BlackRock on track to surpass Grayscale Bitcoin holdings in 37 days",
+    "url": "https://cryptoslate.com/insights/blackrock-on-track-to-surpass-grayscale-bitcoin-holdings-in-37-days/",
+    "description": "<p>Quick Take BlackRock&#8217;s IBIT Bitcoin ETF has recently made headlines, surpassing a net inflow of $1 billion and acquiring 25,067 Bitcoin within four trading days. A deeper analysis reveals that at this acquisition rate, it would reach 592,000 BTC &#8211; an equivalent to Grayscale&#8217;s current holdings &#8211; in approximately 178 days, setting a target date [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/blackrock-on-track-to-surpass-grayscale-bitcoin-holdings-in-37-days/\">BlackRock on track to surpass Grayscale Bitcoin holdings in 37 days</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-18T14:42:21.000Z",
-    "title": " Manta Network experiences DDoS attack amid exchange listing ",
-    "url": "https://cointelegraph.com/news/manta-network-experiences-ddos-attack-amid-exchange-listing",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMDYzNDhlZjItZGVmOS00OWQ0LWJhNjQtMmVkYjZiZGRjZWZmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Over 135 million RPC requests flooded Manta blockchain's nodes on Thursday. </p>\n                    <p><p>Zero-knowledge proof powered layer-2 blockchain Manta Network <a href=\"https://twitter.com/superanonymousk/status/1747968680686993800\" target=\"_blank\" rel=\"noopener nofollow\">experienced</a> a widespread distributed denial-of-service (DDoS) attack amid a successful token listing on multiple exchanges.</p><p>As told by Kenny Li, co-founder of p0x labs, the cryptographic development team behind Manta Network, the blockchain's nodes experienced over 135 million remote procedure call (RPC) requests on Jan. 18. \"This is a very aggressive and timed attack,\" said Li, while stating that \"the blockchain is running safely\" and \"funds are safe.\" However, Li warned that \"communication between apps and the blockchain is severely limited\" for the time being. The co-founder commented:</p><p>The same day, Manta tokens began trading on multiple exchanges, including Binance, Bithumb, and Kucoin. At the time of publication, the Manta token is valued at $2.27, indicating a fully diluted market cap of $2.27 billion. Over $686 million worth of Manta <a href=\"https://coinmarketcap.com/currencies/manta-network/\" target=\"_blank\" rel=\"noopener nofollow\">exchanged</a> hands in the first few hours of trading.</p><p><a href=\"https://cointelegraph.com/news/manta-network-experiences-ddos-attack-amid-exchange-listing\">Read more</a></p></p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2024-01-18T15:12:23.000Z",
+    "title": "One-third of GBTC outflows could be redirected to Spot Bitcoin ETFs: Bloomberg Analysts",
+    "url": "https://cryptoslate.com/insights/one-third-of-gbtc-outflows-could-be-redirected-to-spot-bitcoin-etfs-bloomberg-analyst/",
+    "description": "<p>Quick Take Notable financial analysts have corroborated that the recent outflows from Grayscale&#8217;s Bitcoin Trust (GBTC), to the tune of $1.6 billion in four days, may signal significant investors&#8217; shifts towards other Bitcoin ETFs. James Seyffart notes that as much as a third of the outflows could transition towards other ETFs and other Bitcoin exposures [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/one-third-of-gbtc-outflows-could-be-redirected-to-spot-bitcoin-etfs-bloomberg-analyst/\">One-third of GBTC outflows could be redirected to Spot Bitcoin ETFs: Bloomberg Analysts</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-18T15:03:36.000Z",
-    "title": "AVALANCHE PRICE ANALYSIS & PREDICTION (January 18) –  Calm Before The Storm: Avax Signals More Bearish But Remains Indecisive",
-    "url": "https://nulltx.com/avalanche-price-analysis-prediction-january-18-calm-before-the-storm-avax-signals-more-bearish-but-remains-indecisive/",
-    "description": "Avax initiated a drop and decreased by almost 15% in the past weeks. It held the $35 level as support and remained indecisive above it. A drop from that level could slip the price back to the monthly low with a potential breakdown. Following multiple rejections in the past weeks, Avax’s [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2024-01-18T15:14:09.000Z",
+    "title": "EU reaches provisional agreement on stricter AML rules for crypto firms",
+    "url": "https://cryptobriefing.com/eu-reaches-provisional-agreement-stricter-aml-rules-crypto-firms/?utm_source=feed&utm_medium=rss",
+    "description": "The new requirements force know-your-customer (KYC) checks on transactions over 1,000  even those involving self-hosted wallets."
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-18T14:51:07.000Z",
-    "title": "SOLANA PRICE ANALYSIS & PREDICTION (January 18) – Sol Fails To Retake $100 Following A Sligh Recovery, More Drops Lie Ahead",
-    "url": "https://nulltx.com/solana-price-analysis-prediction-january-18-sol-fails-to-retake-100-following-a-sligh-recovery-more-drops-lie-ahead/",
-    "description": "Solana’s price continued to fall by the day and has lost roughly 10% of its valuation in the last three weeks. It recently recovered from the monthly low but has found it difficult to push above a critical resistance. Since the price touched the $126.3 level in late December, Sol [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-18T15:38:00.000Z",
+    "title": "Best Cryptos to Invest $100 in January for a Potential $1000 Return",
+    "url": "https://cryptodaily.co.uk/2024/01/best-cryptos-to-invest-100-in-january-for-a-potential-1000-return",
+    "description": "Dive into the dynamic 2024 crypto market with our comprehensive analysis of promising cryptocurrencies. Discover ApeX Protocol's strategic Coin98 Wallet integration, Xai's surge from airdrops and BNB listings, Sei's bullish trends, Sui's remarkable TVL growth, and Aptos' resilience amidst market fluctuations. Stay ahead in the evolving world of digital currencies with insights into these standout investments, poised to redefine the landscape of cryptocurrency investing."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-18T15:35:08.000Z",
+    "title": "Beginner's Guide: Top 3 Cryptocurrencies for Your First Investment Journey!",
+    "url": "https://cryptodaily.co.uk/2024/01/beginners-guide-top-3-cryptocurrencies-for-your-first-investment-journey",
+    "description": "Experts have picked the best crypto to buy in 2024 for beginner cryptocurrency investors. Cardano (ADA) and Optimism (OP) are two of the best altcoins in the market"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-18T15:29:42.000Z",
+    "title": "Pullix (PLX) Challenges Solana (SOL) and Ripple (XRP) With Innovative Platform",
+    "url": "https://cryptodaily.co.uk/2024/01/pullix-plx-challenges-solana-sol-and-ripple-xrp-with-innovative-platform",
+    "description": "Ripple (XRP) has recently been affected after bears took control of the crypto, which could soon lead to further decline. Alongside it, the Solana (SOL) crypto has surged 320% and is climbing up the market cap ladde"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-18T15:10:37.000Z",
+    "title": "3 Cryptos with Unstoppable Potential",
+    "url": "https://cryptodaily.co.uk/2024/01/3-cryptos-with-unstoppable-potential",
+    "description": "Discover the booming crypto landscape of 2024, where Bitcoin ETFs, Ethereum, and altcoins like ApeX Protocol, Sei, and Xai are reshaping investment strategies. Dive into the dynamic world of cryptocurrencies and explore how innovations and strategic partnerships are driving growth in this rapidly evolving market. Stay ahead of the game with insights on Bitcoin and Ethereum's rise, the impact of large financial players, and the promising future of emerging crypto assets."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-18T15:30:16.000Z",
+    "title": "Blackrock’s Bitcoin ETF Attracts Diverse Investors, Secures 25,067 BTC in Holdings ",
+    "url": "https://news.bitcoin.com/blackrocks-bitcoin-etf-attracts-diverse-investors-secures-25067-btc-in-holdings/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Blackrock&#039;s Bitcoin ETF Attracts Diverse Investors, Secures 25,067 BTC in Holdings \" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/brock.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a recent interview, Rachel Aguirre, the head of product for Blackrock&#x2019;s Ishares U.S., delved into the substantial inflows witnessed by the firm&#x2019;s new spot bitcoin exchange-traded fund (ETF), known as IBIT. Aguirre highlighted that the IBIT ETF has attracted a diverse group, including &#x201C;retail, self-directed investors, and some who were ready to invest day [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-18T15:19:42.000Z",
+    "title": "EOS Price Prediction 2024-2033: Is EOS a good investment?",
+    "url": "https://www.cryptopolitan.com/eos-price-prediction/",
+    "description": "EOS Price Prediction 2024-2033 EOS, a crypto token formed by the company to promote its decentralized app creation, ranks #47, a little lower on the charts, thanks to its slightly lower market cap of $3,365,472,360. Lately, it has resumed its upward projectile with renewed activities and is viewed by some analysts as a &#8220;ticking time [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-18T15:18:51.000Z",
+    "title": "Business Adoption of Generative AI Raises Urgency for Robust Security Policies",
+    "url": "https://www.cryptopolitan.com/business-adoption-of-generative-ai/",
+    "description": "The surge in business adoption of generative AI is causing alarm within the cybersecurity community, highlighting the urgent need for comprehensive security policies. The rapid evolution of generative AI, coupled with its immense potential and inherent security risks, has led to a situation where guidelines governing its use are lagging behind its widespread adoption. Establish [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-18T15:14:23.000Z",
+    "title": "Pokemon Go Trainer Reaches Level 34 Through Unconventional Method",
+    "url": "https://www.cryptopolitan.com/pokemon-go-trainer-reaches-new-level/",
+    "description": "Discover the remarkable journey of a Pokemon Go trainer who reached level 34 using an unconventional method that intrigued the community."
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-18T15:00:00.000Z",
-    "title": "ChatGPT meme coin price predictions: Dogecoin, Bonk, and Sponge",
-    "url": "https://crypto.news/chatgpt-meme-coin-price-predictions-dogecoin-bonk-and-sponge/",
-    "description": "In this article, ChatGPT predicts the price of Dogecoin, Bonk, Sponge V2, Snek, and WIF"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-18T14:53:10.000Z",
-    "title": "New Web3 games to watch in 2024",
-    "url": "https://crypto.news/new-web3-games-to-watch-in-2024/",
-    "description": "Explore the thrilling universe of new Web3 games set to revolutionize the gaming landscape in 2024. With many analysts forecasting 2024 to be a landmark year for the blockchain gaming industry, an exciting wave of web3 gaming titles that have&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-18T15:00:00.000Z",
-    "title": "Uniswap Unveils New Security Feature: Will It Boost UNI Demand?",
-    "url": "https://www.newsbtc.com/news/uniswap/uniswap-unveils-new-security-feature-will-it-boost-uni-demand/",
-    "description": "Uniswap Labs, the developer of Uniswap&#8211;a decentralized exchange, has introduced a new security feature called Permit2. Taking to X on January 18, the DEX developer said this update addresses the &#8220;infinite token allowances&#8221; vulnerability that hackers can exploit. This flaw risked user funds, and the new feature is meant to resolve this concern. Uniswap Sealing Infinite Token Allowance Risks In crypto, especially among decentralized finance (DeFi) protocols, the &#8220;token allowance&#8221; is permission initiated by the user granting smart contracts access to tokens. From there, assets can be moved. With this permission, it becomes possible for users to interact with dapps, chiefly protocols that utilize user funds. Some of these dapps include, for instance, decentralized exchanges like Uniswap or lending platforms like Aave or Maker.  Related Reading: Bitcoin Sees Massive Sell-Off From Miners, As Price Holds Steady While useful, &#8220;token allowance&#8221; can be exploited by hackers via &#8220;infinite token allowance,&#8221; where hackers can infinitely access and illegally withdraw funds from wallets, draining them as a result. Once a wallet has been compromised, it can be drained without the user&#8217;s knowledge since the compromised code already permits the hacker to move funds. Aware of this risk, Uniswap Labs is introducing the open-source Permit2 as a solution. The tool, the DEX developer says, will give users more protection and, more importantly, control over digital assets. A key feature of Permit2 is that users can set time limits on token approvals. Third parties can only access funds within a specific period in this arrangement.  Additionally, the tool introduces a reusable token approval for simplicity. With this feature, end users don&#8217;t have to repeatedly grant access to their funds for each transaction. On the gas-saving fronts, Uniswap Labs say Permit2 also utilizes signature-based approvals and transfers. This means the tool can reduce gas fees when users transfer tokens. Uniswap Building, UNI Remains Under Pressure This enhancement precedes the upcoming release of Uniswap v4, which introduces Hooks. This new feature provides developers with more flexibility and control over their applications. Related Reading: Why Is Bitcoin Price Trading Sideways? 3 Key Factors Analysts say the launch of Uniswap v4 and Uniswap Labs&#8217; continuous enhancement to improve security might cement the DEX&#8217;s position. According to DeFiLlama data, Uniswap has managed over $4.4 billion worth of assets. Even so, UNI prices continue to struggle.  Looking at the daily chart, UNI has resistance at around $8.1 and is currently down roughly 20% from December highs. Sharp losses below $6 might trigger a sell-off, forcing the token towards $4.5 or lower.  Feature image from Canva, chart from TradingView"
+    "date": "2024-01-18T15:09:36.000Z",
+    "title": "Solana node validators earn record fees, can SOL price hit $120?",
+    "url": "https://crypto.news/solana-node-validators-earn-record-fees-can-sol-price-hit-120/",
+    "description": "Solana on-chain analysis explores how a recent surge in network usage and fees could send SOL price above $120."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-18T14:42:45.000Z",
-    "title": "Deus X Capital and Fabiano Consulting to Power Bitcoin Mining Companies",
-    "url": "https://www.crypto-news-flash.com/deus-x-capital-and-fabiano-consulting-to-power-bitcoin-mining-companies/?utm_source=rss&utm_medium=rss&utm_campaign=deus-x-capital-and-fabiano-consulting-to-power-bitcoin-mining-companies",
-    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Coins-Bitcoin-seeded-ground\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687-768x384.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687-150x75.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-rdne-stock-project-8369687-450x225.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Deus X Capital and Fabiano Consulting are partnering to strategically drive Bitcoin mining by offering comprehensive financing and advice. The collaboration seeks to strengthen mining companies in the face of competition by providing financial and strategic solutions for sustainable success. This partnership between Deus X Capital and Fabiano Consulting represents a strategic move in Bitcoin [...]"
+    "date": "2024-01-18T15:20:56.000Z",
+    "title": "TruthLabs Links Ethereum Foundation to Biggest DAO Hack in 2016 and in History",
+    "url": "https://www.crypto-news-flash.com/truthlabs-links-ethereum-foundation-to-biggest-dao-hack-in-2016-and-in-history/?utm_source=rss&utm_medium=rss&utm_campaign=truthlabs-links-ethereum-foundation-to-biggest-dao-hack-in-2016-and-in-history",
+    "description": "<img width=\"1818\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-ETH-green-logo-with-digital-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background.jpg 1818w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-300x198.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1024x676.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-768x507.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1536x1014.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-150x99.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-450x297.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1200x792.jpg 1200w\" sizes=\"(max-width: 1818px) 100vw, 1818px\" />The Ethereum Foundation faces serious allegations of being linked to the 2016 Gatecoin hack, according to a forensic analyst. TruthLabs and Steven Nerayoff point to transactions that would directly connect the Ethereum Foundation to the hack. The Ethereum Foundation is is under suspicion after forensic blockchain analyst TruthLabs, backed by former Ethereum advisor Steven Nerayoff, [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-18T14:42:09.000Z",
-    "title": "Sui Foundation and Oracle Stork Raise the Standard for Blockchain Trading",
-    "url": "https://www.crypto-news-flash.com/sui-foundation-and-oracle-stork-raise-the-standard-for-blockchain-trading/?utm_source=rss&utm_medium=rss&utm_campaign=sui-foundation-and-oracle-stork-raise-the-standard-for-blockchain-trading",
-    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"pexels-alesia-kozik\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609-768x384.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609-150x75.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-alesia-kozik-6770609-450x225.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Strategic alliance between Sui Foundation and Oracle Stork strengthens efficiency and accuracy in blockchain operations. Oracle Stork excels with ultra-fast pricing updates and the introduction of branded pricing, innovating the market. The strategic alliance between Sui Foundation and Oracle Stork marks a milestone in the blockchain landscape, focused on boosting speed and access to crucial [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-01-18T15:19:04.000Z",
+    "title": "A New 300K $CHONKY Airdrop on the Solana Mobile",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/new-300k-chonky-airdrop-on-the-solana-mobile/",
+    "description": "<p>The integration marks a significant milestone for both ChonkyCom and the Solana blockchain. This strategic integration between CHONKY and SAGA, Solana&#8217;s Mobile, aligns with the growing trend of mobile-first blockchain experiences. 300K $CHONKY Airdrop for Solana SAGA Holders All Solana SAGA holders are eligible to claim an impressive 300,000 $CHONKY tokens as part of the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/new-300k-chonky-airdrop-on-the-solana-mobile/\">A New 300K $CHONKY Airdrop on the Solana Mobile</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-18T15:30:00.000Z",
+    "title": "BTC, ETH, and XRP Are OverHeated But Opportunity Remain Present",
+    "url": "https://coinedition.com/btc-eth-and-xrp-are-overheated-but-opportunity-remain-present/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2.jpg 730w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/BTC-and-ETH-2-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to Santiment, Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) have hit historic high-risk profit levels. The post revealed that Bitcoin’s profit level was 83%, Ethereum was 84%, and XRP was 81%. Furthermore, the post noted that previous high-risk profit levels were between 55% and 75%. So, it is likely that the prices of these [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btc-eth-and-xrp-are-overheated-but-opportunity-remain-present/\">BTC, ETH, and XRP Are OverHeated But Opportunity Remain Present</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-18T15:30:47.000Z",
+    "title": "Kraken CEO David Ripley Says Spot Bitcoin ETFs Will Help Grow the Overall Crypto Industry – Here’s Why",
+    "url": "https://dailyhodl.com/2024/01/18/kraken-ceo-david-ripley-says-spot-bitcoin-etfs-will-help-grow-the-overall-crypto-industry-heres-why/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Ripley-Says-Spot-Bitcoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The CEO of US-based crypto exchange Kraken says the introduction of spot Bitcoin (BTC) exchange-traded funds (ETFs) will have a bullish impact on the crypto industry. Last week, the U.S. Securities and Exchange Commission (SEC) greenlighted BlackRock, Fidelity, Grayscale, VanEck, Bitwise, Franklin, Valkyrie, Hashdex, Ark Invest, WisdomTree and Invesco Galaxy to offer spot Bitcoin ETFs. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/18/kraken-ceo-david-ripley-says-spot-bitcoin-etfs-will-help-grow-the-overall-crypto-industry-heres-why/\">Kraken CEO David Ripley Says Spot Bitcoin ETFs Will Help Grow the Overall Crypto Industry – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

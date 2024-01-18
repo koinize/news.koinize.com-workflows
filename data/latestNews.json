@@ -1,121 +1,86 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-18T10:54:18.000Z",
-    "title": "TrueUSD Wobbles Towards $1 Peg Amid Reported Redemption Issues",
-    "url": "https://www.coindesk.com/markets/2024/01/18/trueusd-wobbles-towards-1-peg-amid-reported-redemption-issues/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "TUSD went as low as 96 cents as Binance data shows traders apparently sold over $300 million worth in the past 24 hours."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-18T10:54:16.000Z",
-    "title": "Trump Vows to 'Never Allow' U.S. CBDC if Reelected",
-    "url": "https://decrypt.co/213324/trump-vows-to-never-allow-u-s-cbdc-if-reelected",
-    "description": "In a campaign speech in New Hampshire, the former U.S. President called central bank digital currencies \"government tyranny.\""
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-01-18T11:00:00.000Z",
-    "title": " OKX doubles down on McLaren deal as F1 continues to attract crypto firms ",
-    "url": "https://cointelegraph.com/news/okx-mclaren-f1-partnership-2024",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzc2OGQ4ODgtMmRlZi00Y2ZhLTk2Y2MtNzNlNzhkYmRiZGQyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OKX’s branding will prominently feature on McLaren’s race cars in 2024 as it expands its partnership with the Formula 1 team.</p>\n                    <p><p data-ct-non-breakable=\"true\">Cryptocurrency exchange OKX has expanded its partnership with the McLaren Racing Formula 1 team, securing high-profile branding space on its race cars for the 2024 F1 season.</p><p>OKX’s logo will feature on the side pods of McLaren’s F1 car livery for all 20 races of the upcoming season. The vehicle’s primary 2024 livery takes inspiration from the OKX-McLaren “Stealth Mode” design from the Singapore and Japan Grand Prix races in 2023.</p><p data-ct-non-breakable=\"true\">OKX chief marketing officer Haider Rafique told Cointelegraph that expanding its sponsorship deal with McLaren was a natural next step given the increased brand awareness it has garnered through the partnership. Sidepods are also considered the most visible spot on F1 race cars, making them prime advertising space for team partners.</p><p><a href=\"https://cointelegraph.com/news/okx-mclaren-f1-partnership-2024\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-18T11:19:37.000Z",
+    "title": " Thailand opens doors to retail investments in infrastructure-backed digital tokens ",
+    "url": "https://cointelegraph.com/news/thailand-eases-restrictions-infrastructure-backed-digital-tokens",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZjE2NDVjZGEtNzNkNS00ZTQ4LTliZWUtMTNmM2I4OWVlMTU5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The new rules cancel the previous limit of 300,000 baht ($8,500) for retail investors concerning investments in digital tokens backed by real estate or infrastructure. </p>\n                    <p><p>Thailand's Securities and Exchange Commission (TSEC) has lifted restrictions on retail investors purchasing digital tokens backed by real estate or infrastructure projects. Previously, retail investors were limited to investing a maximum of 300,000 baht ($8,500) in these types of tokens. </p><p>The updated rules, <a href=\"https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=10459\" target=\"_blank\" rel=\"noopener nofollow\">published in the Royal Gazette</a> on January 16, 2024, remove this limit, allowing retail investors to invest more freely in the real estate and infrastructure-backed digital token (REIT) market.</p><p>The TSEC's decision to lift the investment limit comes as the country's cryptocurrency market is gaining momentum. In September 2023, Thailand's largest bank, KBank, <a href=\"https://cointelegraph.com/news/thailand-kasikorn-bank-crypto-satang\">acquired the crypto exchange business Satang</a>, signaling the growing acceptance of digital assets in the Thai financial system.</p><p><a href=\"https://cointelegraph.com/news/thailand-eases-restrictions-infrastructure-backed-digital-tokens\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-18T11:12:30.000Z",
+    "title": "Texas freeze leads to dip in Bitcoin hash rate",
+    "url": "https://cryptoslate.com/insights/texas-freeze-leads-to-dip-in-bitcoin-hash-rate/",
+    "description": "<p>Quick Take Bitcoin&#8217;s hash rate is currently experiencing a 6% dip from its all-time high of approximately 545 eh/s. On a 7-day moving average, it stands at around 513 eh/s. This noticeable downturn can likely be attributed to the freezing temperatures in Texas leading to power adjustments, as Pierre Rochard, VP of Research at Riot [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/texas-freeze-leads-to-dip-in-bitcoin-hash-rate/\">Texas freeze leads to dip in Bitcoin hash rate</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-18T11:11:20.000Z",
+    "title": "Algorand’s New Update Speeds Up Block Time By 20%",
+    "url": "https://cryptodaily.co.uk/2024/01/algorands-new-update-speeds-up-block-time-by-20",
+    "description": "The latest Dynamic Lambda upgrade on the Algorand blockchain has successfully sped up the process by shaving off 20% of the block time."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T11:02:24.000Z",
-    "title": "Crypto trader turns $10,000 into $1.3 million with timely TROLL token investment",
-    "url": "https://www.cryptopolitan.com/million-with-timely-troll-token-investment/",
-    "description": "A savvy crypto trader has turned heads in the digital currency by transforming a $10,000 investment into a staggering $1.3 million in just under ten days. The trader achieved this remarkable feat through a well-timed purchase of TROLL tokens following Elon Musk&#8217;s amusing update of his Twitter bio to &#8220;Chief Troll Officer.&#8221; Blockchain data provider [&#8230;]"
+    "date": "2024-01-18T11:35:18.000Z",
+    "title": "Rocket Boy Secures $110M Funding for Ambitious Gaming Ventures",
+    "url": "https://www.cryptopolitan.com/rocket-boy-secures-110m-funding/",
+    "description": "Build A Rocket Boy, the Edinburgh-based gaming studio founded by Leslie Benzies has secured over $110 million in a series D funding round, paving the way for the launch of its ambitious projects. RedBird Capital Partners led the recent funding round, bringing their extensive experience in media and entertainment investments.&#160; Julia Wittlin, a partner at [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T10:56:20.000Z",
-    "title": "Bitcoin miners sell over 10,000 BTC in a single day; reserves hit yearly low",
-    "url": "https://www.cryptopolitan.com/bitcoin-miners-sell-over-10000-btc/",
-    "description": "Bitcoin miners have registered a significant drop in their reserves, selling more than 10,000 BTC in a single day on January 17th. This marks the largest daily decline in miner reserves in over a year, according to data from on-chain analytics provider CryptoQuant. The decline amounts to approximately $450 million at current Bitcoin prices. The [&#8230;]"
+    "date": "2024-01-18T11:34:35.000Z",
+    "title": "DePIN: Introducing PKT and the PKT Network",
+    "url": "https://www.cryptopolitan.com/depin-introducing-pkt-and-the-pkt-network/",
+    "description": "PKT is a decentralized physical infrastructure (DePIN) ecosystem built to support the decentralized web. TL;DR PKT refers to both the PKT Network and its native coin. It is a decentralized physical infrastructure (DePIN) blockchain and wifi mesh network that launched on August 19, 2019. The PKT cryptocurrency is a community coin with no central server [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T10:53:22.000Z",
-    "title": "KuCoin to list Solana’s memecoin Dogwifhat",
-    "url": "https://www.cryptopolitan.com/kucoin-to-list-solanas-memecoin-dogwifhat/",
-    "description": "Popular Solana memecoin Dogwifhat has secured another listing on KuCoin. The notable crypto exchange platform with over a million users worldwide is set to enable spot trading for Dogwifhat starting January 18 at 13:00 UTC. It is essential to understand that KuCoin operates globally and is based and licensed in the Seychelles by the FSA. [&#8230;]"
+    "date": "2024-01-18T11:19:38.000Z",
+    "title": "South Korea reviews crypto tax policy amid financial reforms",
+    "url": "https://www.cryptopolitan.com/south-korea-reviews-crypto-tax-policy/",
+    "description": "South Korea is evaluating the possibility of amending its tax regulations concerning cryptocurrency gains, aligning them with broader changes in the country&#8217;s financial investment taxation policies. This development comes as the nation prepares to implement a new tax regime for financial investments to foster wealth accumulation and prudent financial planning among its citizens. Implications of [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T10:51:07.000Z",
-    "title": "Like a Dragon: Infinite Wealth Release Date and Time Revealed",
-    "url": "https://www.cryptopolitan.com/like-a-dragon-infinite-wealth-release-date-and-time-revealed/",
-    "description": "Fans of the Yakuza series are eagerly anticipating the release of the latest installment, &#8220;Like a Dragon: Infinite Wealth,&#8221; set to hit the gaming world on January 25, 2024. Developed by Sega, this highly anticipated game has generated considerable buzz within the gaming community. Gamers are counting down the days until they can step into [&#8230;]"
+    "date": "2024-01-18T11:15:54.000Z",
+    "title": "Polkadot Price Prediction 2024-2033: A Bullish Pattern?",
+    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
+    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T10:49:44.000Z",
-    "title": "Algorand blockchain implements Dynamic Lambda update, reducing block creation times",
-    "url": "https://www.cryptopolitan.com/algorand-blockchain-implement-dynamic-lambda/",
-    "description": "Algorand, a layer-1 blockchain network, has successfully deployed its Dynamic Lambda update, substantially reducing block creation times. The update, which offers enhanced throughput and network performance, has cut average block times by approximately 20%, bringing them below the three-second mark.&#160; This development positions Algorand as a strong competitor in the blockchain space, offering faster confirmations [&#8230;]"
+    "date": "2024-01-18T11:15:00.000Z",
+    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
+    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
+    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-18T10:42:32.000Z",
-    "title": "Stuart Alderoty commends Coinbase in SEC regulatory dispute",
-    "url": "https://www.cryptopolitan.com/stuart-alderoty-commends-coinbase-in-sec/",
-    "description": "Stuart Alderoty, the senior legal counsel at Ripple, has recently supported Coinbase&#8217;s legal team, led by Paul Grewal, in their ongoing legal battle against the U.S. Securities and Exchange Commission (SEC). This commendation arrives as Coinbase endeavors to dismiss a significant lawsuit brought by the SEC, which has become a pivotal case in cryptocurrency regulation. [&#8230;]"
+    "date": "2024-01-18T11:13:26.000Z",
+    "title": "Supreme Court hears argument on cryptocurrency regulation",
+    "url": "https://www.cryptopolitan.com/supreme-court-hears-argument-cryptocurrency/",
+    "description": "In a recent Supreme Court case, attorney Paul D. Clement has drawn attention to the urgent need for congressional action regulating cryptocurrencies. The case, Loper Bright Enterprises et al. v. Gina Raimondo, has ignited a legal debate surrounding the oversight and regulation of the rapidly evolving cryptocurrency industry.&#160; Ripple CTO David Schwartz shared Clement&#8217;s statements, [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-18T11:02:11.000Z",
-    "title": "Shiba Inu hits 3.74m Addresses; Quant and InQubeta garnering more attention",
-    "url": "https://crypto.news/shiba-inu-hits-3-74m-addresses-quant-and-inqubeta-garnering-more-attention/",
-    "description": "As Shiba Inu rises, InQubeta and Quant are two other projects being closely monitored"
+    "date": "2024-01-18T11:36:41.000Z",
+    "title": "Manta Network addresses RPC flood, amidst MANTA airdrop hype",
+    "url": "https://crypto.news/manta-network-addresses-rpc-flood-amidst-manta-airdrop-hype/",
+    "description": "Manta Network successfully navigates RPC flood on the Manta Pacific chain, ensuring uninterrupted blockchain functionality and user service continuity. Manta Network, a Layer 2 modular blockchain, recently confronted a technical disturbance within its Manta Pacific chain triggered by an RPC&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-18T10:58:30.000Z",
-    "title": "Aave community mulls new proposal to increase liquidity for GHO stablecoin",
-    "url": "https://crypto.news/aave-community-mulls-new-proposal-to-increase-liquidity-for-gho-stablecoin/",
-    "description": "Aave Labs has published a new governance proposal for integrating the GHO stablecoin across multiple blockchain networks. In a forum post on Jan. 17, Aave Labs, a firm behind the Aave protocol, revealed a new governance proposal to integrate the&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-18T10:44:17.000Z",
-    "title": "dYdX surpasses Uniswap in daily trading volumes",
-    "url": "https://crypto.news/dydx-surpasses-uniswap-in-daily-trading-volumes/",
-    "description": "Trading volumes on the decentralized exchange (DEX) dYdX v4 exceeded $600 million. According to CoinMarketCap, from Jan. 17 to 18, trading volumes on dYdX were $603 million, with the decentralized exchange beating out the second highest DEX by volume, Uniswap,&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-18T11:00:36.000Z",
-    "title": "Bitcoin Sees Massive Sell-Off From Miners, As Price Holds Steady",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-sees-massive-sell-off-from-miners-as-price-holds-steady/",
-    "description": "Amid the excitement encompassing the approval of Bitcoin Spot Exchange-Traded Funds (ETFs), BTC miners have been spotted carrying out an aggressive selling spree leaving the community to ponder on the impact of the sell-off. Bitcoin Miners Engage In Selling Spree Well-known cryptocurrency analyst Ali Martinez shared this information with the community on the social media network X (formerly Twitter), noting a &#8220;substantial increase in selling activity&#8221; from Bitcoin miners lately. Related Reading: Bitcoin Mining Difficulty Hits New Record High With 5% Rise According to data shared by Ali, miners have sold about 10,600 Bitcoin in less than 24 hours. This was valued at an estimated $455.8 million as of the time of the report. The recent increase in sales by the Bitcoin miners indicates a responsive market. In addition, the sizable amount involved signifies an impactful development in the cryptocurrency landscape. Several reasons could be traced back to the massive selling spree by these miners. One potential reason could be attributed to the decline in the Bitcoin hash rate, which generally affects the profitability of miners. BTC miners must make several guesses at a challenging mathematical problem in order to process transactions. A greater hash rate indicates that the miners are carrying out more guesses, suggesting more effort to secure the network.  The crypto asset&#8217;s hash rate saw a notable decrease of 25% during the last weekend. This raises speculations regarding the security of BTC&#8217;s network ahead of the much-awaited &#8220;Halving.&#8221; It was reported that the total real-time rate from all mining pools decreased from 570 exahashes per second (EH/s) to as low as 425 EH/s. However, the hash rate is currently sitting at 550 exahashes per second (EH/s). The reduction occurred due to the restrictions placed on businesses&#8217; use of electricity by ERCOT (Electric Reliability Council of Texas) because of unfavorable cold weather. Interest In BTC Mining From Institutions Top financial companies have been demonstrating interest in Bitcoin mining companies for a while now. Various financial institutions have made significant investments, which have also helped the mining industries.  Related Reading: Analyst Uncovers BlackRock Long Interest In Bitcoin Mining – Details Even those who have historically opposed Bitcoin or have been hostile to it have invested millions of dollars in the industry throughout 2023. Since August 2023, Blackrock has been a significant stakeholder in four of the five biggest mining companies. The asset manager increased its level of involvement with these firms only during the second half of last year. As of the time of writing, Bitcoin was trading at $42,710, indicating an over 7% decrease in the past seven days. Its market cap is up slightly by 0.02% in the past 24 hours, while its trading volume is down by 17.17%. Featured image from iStock, chart by Tradingview.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-18T11:08:51.000Z",
-    "title": "Terra Luna Classic Strengthens its Position in the Crypto Market with Ethereum Virtual Machine Integration",
-    "url": "https://www.crypto-news-flash.com/terra-luna-classic-strengthens-its-position-in-the-crypto-market-with-ethereum-virtual-machine-integration/?utm_source=rss&utm_medium=rss&utm_campaign=terra-luna-classic-strengthens-its-position-in-the-crypto-market-with-ethereum-virtual-machine-integration",
-    "description": "<img width=\"1945\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Terra-LUNA-logo-with-price-rising-trading-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background.jpg 1945w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-300x185.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-1024x632.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-768x474.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-1536x948.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-150x93.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-450x278.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Terra-LUNA-logo-with-price-rising-trading-background-1200x740.jpg 1200w\" sizes=\"(max-width: 1945px) 100vw, 1945px\" />The integration of Ethereum Virtual Machine strengthens the flexibility and processing power of Terra Luna Classic. Backed by more than 44% of votes in favor, the approval boosts interoperability and collaboration with leading projects. With a new decision that has captured the global attention of the crypto market, the Terra Luna Classic community celebrates the [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-18T11:00:49.000Z",
-    "title": "Insights into Sky-High Value Predictions for Bitcoin (BTC) and InQubeta (QUBE) by Crypto Experts",
-    "url": "https://www.crypto-news-flash.com/insights-into-sky-high-value-predictions-for-bitcoin-btc-and-inqubeta-qube-by-crypto-experts/?utm_source=rss&utm_medium=rss&utm_campaign=insights-into-sky-high-value-predictions-for-bitcoin-btc-and-inqubeta-qube-by-crypto-experts",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092310.355.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092310.355.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092310.355-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092310.355-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092310.355-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Bitcoin (BTC) has had an incredibly successful 2023, with a spectacular comeback that some analysts believe could signal the end of the crypto winter ahead of the mid-2024 Bitcoin halving. Many traders are unsure of what lies ahead for the leading digital asset by crypto market cap after the year-end shift in price momentum. InQubeta [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-18T11:00:26.000Z",
-    "title": "1 Billion Dogecoin (DOGE) Moved to Secret Wallet; Monero and Rebel Satoshi Attract Whale Investors",
-    "url": "https://www.crypto-news-flash.com/1-billion-dogecoin-doge-moved-to-secret-wallet-monero-and-rebel-satoshi-attract-whale-investors/?utm_source=rss&utm_medium=rss&utm_campaign=1-billion-dogecoin-doge-moved-to-secret-wallet-monero-and-rebel-satoshi-attract-whale-investors",
-    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092800.440.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092800.440.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092800.440-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092800.440-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-18T092800.440-450x281.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the fast-paced world of cryptocurrency, every transaction sends ripples across the market. Recently, a whopping one billion Dogecoin (DOGE) made a mysterious leap from Binance, the behemoth of cryptocurrency exchanges, to an undisclosed wallet. This staggering move, equivalent to a cool $78.85 million, has set the crypto community abuzz with speculation and intrigue. Riding [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-01-18T11:21:11.000Z",
+    "title": "Trump Rejects Using a CBDC in the US",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/trump-rejects-using-a-cbdc-in-the-us/",
+    "description": "<p>Trump declared that he would never allow the implementation of a Central Bank Digital Currency under his watch. He referred to a multitude in New Hampshire. Let&#8217;s discover more about what Trump thinks about implementing a CBDC. Diverse Concerns: From Economic Stability to Personal Privacy He argues that using a CBDC could threaten the liberty [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/trump-rejects-using-a-cbdc-in-the-us/\">Trump Rejects Using a CBDC in the US</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-18T10:46:14.000Z",
-    "title": "Paradigm Shares Insights on Ethereum Hard Fork Prague and 2024 Plans",
-    "url": "https://coinedition.com/paradigm-shares-insights-on-upcoming-ethereum-hard-fork/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/ETH15.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Paradigm Shares Insights on Upcoming Ethereum Hard Fork\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/ETH15.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/ETH15-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent report, research-driven investment firm Paradigm shared their perspectives on the upcoming Ethereum hard fork, Prague, and their broader development plans for 2024. According to the report, the Prague hard fork is expected to make its debut on Ethereum testnets by Q3 2024, with a potential mainnet launch by the end of the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/paradigm-shares-insights-on-upcoming-ethereum-hard-fork/\">Paradigm Shares Insights on Ethereum Hard Fork Prague and 2024 Plans</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-18T11:20:00.000Z",
+    "title": "Analyst Downplays Chances of a SHIB ETF, Says Size and Volume Too Low",
+    "url": "https://coinedition.com/analyst-downplays-chances-of-a-shib-etf-says-size-and-volume-too-low/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Analyst Downplays Chances of a SHIB ETF, Says Size and Volume Too Low\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/Meme-Coin-Market-Crashes-50-from-1B-After-Traders-Take-Profit-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent video, Clay, the host of the cryptocurrency YouTube channel ClayBro, explained why the Shiba Inu community may have to wait longer to see the launch of a Shiba Inu exchange-traded fund (ETF).&#160; Following the launch of spot Bitcoin ETFs, chances of other crypto-focused ETFs have since raised optimism among several communities. As [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/analyst-downplays-chances-of-a-shib-etf-says-size-and-volume-too-low/\">Analyst Downplays Chances of a SHIB ETF, Says Size and Volume Too Low</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

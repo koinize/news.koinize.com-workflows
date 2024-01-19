@@ -1,51 +1,79 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-01-19T12:01:02.000Z",
+    "title": "Trump Dips Into Bitcoin Ordinals as His NFT Ambitions Fizzle",
+    "url": "https://decrypt.co/213478/trump-is-doing-bitcoin-ordinals-as-he-tries-to-revive-flailing-nft-drop",
+    "description": "The 2024 presidential hopeful’s latest project involves 200 NFTs inscribed on the Bitcoin blockchain."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-19T11:43:14.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">A crypto trader made $6.77 million during the SatoshiVM (SAVM) token launch a banana gun sniping tool. Bitcoin mining firm’s share prices took a sharp dive on the same day it rang the Nasdaq’s opening bell, and a damning report posted accusations against the firm. Meanwhile, a former OpenSea manager has appealed his conviction in an insider trading case.</p><p>A crypto trader made $6.77 million in profit within three hours of the launch of the SatoshiVM (SAVM) token. The trader used a banana gun sniping tool to acquire the to-be-launched token first and then sold the newly launched token as the price increased, raking in nearly $7 million in profits.</p><p>The token’s price <a href=\"https://cointelegraph.com/news/banana-gun-failed-contract-passed-audits-but-chat-gpt-found-the-bug-in-seconds\">tanked 99% within three hours</a> of the launch. The developers blamed a bug for the collapse during the v1 launch. The team decided to sell treasury to recover the locked LP, and before launching v2, everyone in v1 was made whole and the Banana Gun team took the financial hit.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-19T12:00:55.000Z",
+    "title": "Bitcoin.com Offers $15,000 in Rewards To Boost VERSE Token Liquidity",
+    "url": "https://news.bitcoin.com/bitcoin-com-offers-15000-in-rewards-to-boost-verse-token-liquidity/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-1536x864.png 1536w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-1520x855.png 1520w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1-1280x720.png 1280w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hummingbot-news2x-1.png 2000w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin.com is offering $15,000 in rewards to amplify liquidity and trading volume for its ecosystem token VERSE on Kucoin, a top-tier centralized cryptocurrency exchange. The campaign, which is structured around Hummingbot&#x2019;s Liquidity Miner platform, facilitates a more decentralized market-making process for the VERSE/USDT trading pair on KuCoin. It does this by incentivizing individuals to provide [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-19T12:04:20.000Z",
+    "title": "Canada seeks to reform crypto investment fund policies",
+    "url": "https://www.cryptopolitan.com/canada-seek-to-reform-crypto-investment-fund/",
+    "description": "In a significant move to regulate the burgeoning cryptocurrency market, the Canadian Securities Administrators (CSA) announced on January 18 a series of proposed amendments aimed at public investment funds dealing with crypto assets. These amendments, which seek to enhance investor protection and clarify the rapidly evolving digital asset space, are poised to reshape how mutual [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-19T12:00:00.000Z",
+    "title": "Polygon (MATIC) Rival Poised for 50x Growth in 2024, Currently Priced at Only $0.006",
+    "url": "https://www.cryptopolitan.com/polygon-matic-rival-poised-for-50x-growth-in-2024-currently-priced-at-only-0-006/",
+    "description": " In the world of decentralized finance (DeFi), there&#8217;s a notable shift occurring, steering away from the usual buzz around meme coins and speculative plays. This change is marked by a unique fusion of innovative thinking, user-friendliness, and genuine utility. A standout example of this new wave of crypto assets is Pandoshi (PAMBO), a cryptocurrency modestly [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-19T11:46:10.000Z",
+    "title": "Turnip Boy Robs a Bank: A Bizarre Adventure Unfolds",
+    "url": "https://www.cryptopolitan.com/turnip-boy-robs-a-bank-a-bizarre-adventure-unfolds/",
+    "description": "The notorious criminal, Turnip Boy, is back in action with a new and audacious venture. This time, he&#8217;s teaming up with the fearsome Pickled Gang for what promises to be the weirdest bank heist in history. The recently released action-adventure roguelite game, &#8220;Turnip Boy Robs a Bank,&#8221; offers players an exhilarating experience filled with bank [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-19T11:46:06.000Z",
+    "title": "Rockstar Games to Remove Rockstar Editor Feature from GTA V on Last-Gen Consoles",
+    "url": "https://www.cryptopolitan.com/games-remove-rockstar-editor-feature-gta-v/",
+    "description": "Rockstar Games, the developer behind the immensely popular Grand Theft Auto V (GTA V), has announced the removal of the beloved Rockstar Editor feature from the game&#8217;s PlayStation 4 and Xbox One versions.&#160; This decision, aimed at making room for future updates in GTA Online, has left creative players saddened by losing a cherished tool [&#8230;]"
+  },
+  {
     "source": "BTCManager",
-    "date": "2024-01-19T11:22:09.000Z",
-    "title": "Direxion submits five leveraged spot Bitcoin ETF applications",
-    "url": "https://crypto.news/direxion-submits-five-leveraged-spot-bitcoin-etf-applications/",
-    "description": "Financial products provider Direxion has filed to register five Bitcoin (BTC) ETFs. Bloomberg analyst James Seyffart reported that on Jan. 18, Direxion filed to register five leveraged Bitcoin ETFs with the U.S. Securities and Exchange Commission (SEC). Direxion&#8217;s documents show&#8230;"
+    "date": "2024-01-19T11:56:53.000Z",
+    "title": "Solana grappling with phishing scams; Algorand and Rebel Satoshi may benefit",
+    "url": "https://crypto.news/solana-grappling-with-phishing-scams-algorand-and-rebel-satoshi-may-benefit/",
+    "description": "Solana is struggling with a spike in phishing scams. Meanwhile, investors are looking at Algorand and Rebel Satoshi as alternatives"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-19T11:30:24.000Z",
-    "title": "Why Did The Bitcoin Price Fall Below $41,000?",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-fall-below-41000/",
-    "description": "Bitcoin dropped below $41,000 in the last 24 hours before making a recovery to rise above that level once again. This has become the current reality of the flagship crypto token’s price, which has continued to decline since the Spot Bitcoin ETFs were approved. This is surprising considering that these funds were projected to help boost Bitcoin’s price upon launch.  Why Bitcoin’s Price Could Be Dipping Bloomberg analyst James Seyffart provided insight into what could be the reason for Bitcoin’s declining price as he revealed that Grayscale’s GBTC has experienced an outflow of $2.2 billion since its conversion to a Spot Bitcoin ETF. Crypto analytics platform Arkham Intelligence also revealed that Grayscale had moved 9000 BTC from their wallets to Coinbase, suggesting an imminent sale.  Related Reading: Crypto Analyst Predicts XRP Price Will Surge 800% To Reach $5 In The Next 90 Days A sell pressure of such magnitude would no doubt affect Bitcoin’s price, and that seems to be a plausible explanation for why Bitcoin’s price has declined as of late. The CEO of Jan3 and Bitcoiner, Samson Mow, also echoed similar sentiments as he mentioned that the GBTC sell pressure was pushing prices down.  However, Mow believes that this trend “won’t be a long drawn out process,” as he predicts that many of GBTC’s investors won’t be able to offload their stocks because the “tax hit is too big.” JP Morgan will, however, beg to differ as a research report by the bank estimates that up to $3 billion could exit from the GBTC fund with many investors looking to take profit.  Crypto analyst Ash Crypto also recently elaborated on how profit-taking is one of the reasons that GBTC is seeing this significant amount of outflows. He explained that a lot of GBTC investors bought shares in the fund when it was trading at a 40% discount from Bitcoin, and now they are exiting their positions since that discount is now at 0%.  BTC bulls make a play for control &#124; Source: BTCUSD on Tradingview.com Spot Bitcoin ETFs Are Actually Living Up To Hype While Grayscale’s GBTC continues to bleed, other Spot ETFs look to be living up to the hype, with there being an impressive demand for these funds. Nate Geraci, the President of the ETF Store, revealed that two (IBIT and FBTC) out of the nine Spot ETFs (excluding GBTC) already hit $1 billion in assets under management (AUM) just after five trading days.  Related Reading: $245 Million Whale Wakes Up To Threaten XRP Price Recovery Specifically, BlackRock’s IBIT (iShares Bitcoin Trust) was the first to achieve this milestone in just four trading days. Commenting on how impressive this was, Bloomberg analyst Eric Balchunas noted that only two other ETFs ($GLD and $BITO) had done this before now, and none of those funds faced such competition as IBIT did on launch day.   The demand for Spot ETFs is evidently there, seeing that two spot Bitcoin ETFs have already achieved a record that was held by only two other ETFs before now. Featured image from Yahoo Finance, chart from Tradingview.com"
+    "source": "BTCManager",
+    "date": "2024-01-19T11:56:08.000Z",
+    "title": "Tron founder Justin Sun addresses UN concerns on USDT",
+    "url": "https://crypto.news/tron-founder-justin-sun-addresses-un-concerns-on-usdt/",
+    "description": "Justin Sun, the founder of the Tron blockchain, contested the UN report&#8217;s assertions on USDT, pointing out factual inconsistencies and affirming Tron&#8217;s dedication to maintaining blockchain integrity. The UN report highlighted concerns over the misuse of blockchain technology, focusing on&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-19T11:54:28.000Z",
+    "title": "FinCEN’s crypto mixing reporting for banks poses ‘disruptive’ risks, lawyers say",
+    "url": "https://crypto.news/fincens-crypto-mixing-reporting-for-banks-poses-disruptive-risks-lawyers-say/",
+    "description": "In an op-ed on Bloomberg Law, Steven Merriman and Jim Vivenzio of Perkins Coie raised concerns over FinCEN&#8217;s latest move to crack down on crypto mixers. The Financial Crimes Enforcement Network (FinCEN) is pushing for financial institutions to impose new&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-19T11:29:52.000Z",
-    "title": "ChainGPT facilitates the launch of the GT Protocol, bringing AI-powered auto-trading to crypto",
-    "url": "https://www.crypto-news-flash.com/chaingpt-facilitates-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=chaingpt-facilitates-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-19T142437.706.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-19T142437.706.png 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-19T142437.706-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-19T142437.706-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-19T142437.706-450x253.png 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Dover, DE, USA and Malaga, Sapin, January 19, 2024 — ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, launches the GT Protocol through its IDO (initial DEX offering) launchpad, ChainGPT Pad. The protocol’s app grants access to CeFi, DeFi, and NFTs within a non-custodial setting, providing secure and transparent asset [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-19T11:27:59.000Z",
-    "title": "Crypto’s Next Big Thing: BlackRock’s Bitcoin ETF Soars to $1 Billion in Just One Week",
-    "url": "https://www.crypto-news-flash.com/cryptos-next-big-thing-blackrocks-bitcoin-etf-soars-to-1-billion-in-just-one-week/?utm_source=rss&utm_medium=rss&utm_campaign=cryptos-next-big-thing-blackrocks-bitcoin-etf-soars-to-1-billion-in-just-one-week",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/BLACKROCK-BITCOIN-BTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BlackRock\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/07/BLACKROCK-BITCOIN-BTC.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/07/BLACKROCK-BITCOIN-BTC-300x169.jpg 300w\" sizes=\"(max-width: 512px) 100vw, 512px\" />BlackRock&#8217;s iShares Bitcoin Trust (IBIT) ETF reached $1 billion in assets in its first week, showing strong investor interest. Bitcoin&#8217;s price dropped by 11% since ETF approval, possibly due to investors cashing out after the hype. The historic arrival of Bitcoin exchange-traded funds (ETFs) on Wall Street, spearheaded by financial giant BlackRock, has sparked a [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-19T11:37:21.000Z",
-    "title": "How Did Spot Bitcoin ETFs Perform on Day 5?",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/how-did-spot-bitcoin-etfs-perform-on-day-5/",
-    "description": "<p>Spot Bitcoin ETFs finished their fifth day of trading with a combined trading value of $13.7 billion. With $1.9 billion worth of funds having changed hands on Thursday.  Online data shows that spot Bitcoin ETF issuers added a net of $440 million worth of Bitcoin to their holdings. Let&#8217;s explore more about this important news. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/how-did-spot-bitcoin-etfs-perform-on-day-5/\">How Did Spot Bitcoin ETFs Perform on Day 5?</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-19T11:20:30.000Z",
-    "title": "Top 7 Arbitrum Coins for the Bull Market – Part 2",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-7-arbitrum-coins-for-the-bull-market-part-2/",
-    "description": "<p>With Arbitrum increasing parabolically to a new ATH. It&#8217;s time to explore the top 7 promising projects in its ecosystem. But first, let&#8217;s take a look at why Arbitrum is boosting its ecosystem. Introduction Ethereum has faced challenges due to its increasing popularity, leading to heightened transaction costs and network congestion. While some advocate for [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/top-7-arbitrum-coins-for-the-bull-market-part-2/\">Top 7 Arbitrum Coins for the Bull Market &#8211; Part 2</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-19T11:10:00.000Z",
-    "title": "Grayscale Dumping Bitcoin Holdings? Here’s Why",
-    "url": "https://coinedition.com/grayscale-dumping-bitcoin-holdings-heres-why/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Grayscale Dumping Bitcoin Holdings? Here’s Why\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/OPPORTUNITIES-AROUND-GBTC-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto influencer and trader known as Ash Crypto shared his perspective on the reasons behind Grayscale “dumping” Bitcoin.&#160; The trader believes that before the spot Bitcoin exchange-traded fund (ETF) approval, the Grayscale Bitcoin Trust (GBTC) used to redeem its shares by providing investors with equivalent value in USD.&#160; Grayscale did so without selling the Bitcoin [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/grayscale-dumping-bitcoin-holdings-heres-why/\">Grayscale Dumping Bitcoin Holdings? Here’s Why</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-19T11:52:53.000Z",
+    "title": "Bitcoin Price Faces Possible 20% Drop, Analyst Predicts $34,000 Target Before Halving",
+    "url": "https://www.crypto-news-flash.com/bitcoin-price-faces-possible-20-drop-analyst-predicts-34000-target-before-halving/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-price-faces-possible-20-drop-analyst-predicts-34000-target-before-halving",
+    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin-coin-rests-on-mobile-phone-with-list-of-trading-tickets.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1-768x384.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1-150x75.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-karolina-grabowska-5980856-1-450x225.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Technical analysts, including the &#8220;Titan of Crypto&#8221; and Ali Martinez, observe recurring patterns suggesting Bitcoin tends to trade at around 50% of previous all-time highs during halving events. Historical data shows a 53.4% drop in 2012, setting the stage for subsequent peaks, emphasizing a potential $34,000 target before the upcoming halving. The world&#8217;s largest cryptocurrency [...]"
   }
 ]

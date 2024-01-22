@@ -1,86 +1,142 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-22T15:24:21.000Z",
-    "title": "FTX Sold About $1B of Grayscale's Bitcoin ETF, Explaining Much of Outflow: Sources",
-    "url": "https://www.coindesk.com/business/2024/01/22/ftx-sold-about-1b-of-grayscales-bitcoin-etf-explaining-much-of-outflow-sources/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "BTC's price has fallen since bitcoin ETFs were approved. In theory, now that FTX is done selling its substantial holdings, the selling pressure could ease since a bankruptcy estate liquidating holdings is a relatively unique event."
+    "date": "2024-01-22T16:00:00.000Z",
+    "title": "Protocol Village: Intent-Centric Ruby Protocol Building 'MiniApp' on TON Blockchain, LayerZero",
+    "url": "https://www.coindesk.com/tech/2024/01/18/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 18-24."
   },
   {
-    "source": "CoinDesk",
-    "date": "2024-01-22T15:18:23.000Z",
-    "title": "China's Currency Woes to Weigh on Bitcoin: Crypto Observer",
-    "url": "https://www.coindesk.com/markets/2024/01/22/chinas-currency-woes-to-weigh-on-bitcoin-crypto-observer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Measures taken by the People's Bank of China to cushion yuan against the stock market slide could weigh over bitcoin's price."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-22T15:11:38.000Z",
-    "title": "U.S., U.K., Australia Sanction Hamas-Affiliated Crypto Transaction Facilitators",
-    "url": "https://www.coindesk.com/policy/2024/01/22/us-uk-australia-sanction-hamas-affiliated-crypto-transaction-facilitators/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The U.S. and other governments are adding a number of Hamas-affiliated financiers to a global financial blacklist, the Treasury Department's sanctions watchdog announced Monday."
+    "source": "Decrypt",
+    "date": "2024-01-22T16:01:02.000Z",
+    "title": "Ethereum DeFi Gets ‘Gasless' Trading With New 0x API",
+    "url": "https://decrypt.co/213582/ethereum-defi-gasless-trading-0x-api",
+    "description": "The newest addition to 0x’s selection of trading APIs allows builders to use \"gasless\" swaps in their decentralized applications on Ethereum."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-22T15:35:54.000Z",
-    "title": " Bitcoin devs can undo 21M supply cap but can’t force changes — Analyst ",
-    "url": "https://cointelegraph.com/news/bitcoin-devs-can-undo-21-million-cap-but-cannot-force-changes",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNTNjNzNmOTMtZWJkMS00ZmQyLWIxOGQtYzJmNjRjZjhkZTczLkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin developers can potentially remove Bitcoin’s 21 million supply limit, but miners are unlikely to accept such a change.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) developers can theoretically remove the 21 million BTC supply limit from the source code, but miners are unlikely to accept such a change, according to one analyst.</p><p>The 21 million hard limit of Bitcoin is one of the fundamental principles of the Bitcoin network, which is designed to provide scarcity — the gap between limited resources and unlimited wants.</p><p>Bitcoin’s 21 million supply limit is <a href=\"https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp\" target=\"_blank\" rel=\"noopener nofollow\">written</a> in the open source code by <a href=\"https://cointelegraph.com/learn/who-is-satoshi-nakamoto-the-creator-of-bitcoin\">anonymous creator Satoshi Nakamoto</a>, and is publicly available on GitHub, though it is not explicitly stated in the code.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-devs-can-undo-21-million-cap-but-cannot-force-changes\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-22T15:32:36.000Z",
-    "title": " OSL Exchange CEO discusses expansion plans after historical year in Hong Kong ",
-    "url": "https://cointelegraph.com/news/osl-exchange-ceo-discusses-expansion-plans-after-historical-year-in-hong-kong",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTE3ZDM2NTktNDgzZS00NzVhLTkxMDItNjY1ZjEyZjdjMmFhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The exchange received regulatory approval to offer crypto trading to Hong Kong retail investors last August. </p>\n                    <p><p>After the historical approval of retail crypto trading by Hong Kong regulators last August, crypto exchanges HashKey and OSL became the first pair of firms to be licensed under the new rules. Regulation has greatly benefited both firms. The publicly-listed OSL exchange, formerly known as BC Technology Group, secured a <a href=\"https://cointelegraph.com/news/crypto-hong-kong-debuts-retail-crypto-trading-with-hash-key-exchange\">$90 million investment</a> shortly thereafter. In its most recent financial report, the company <a href=\"https://media-bcgroup.todayir.com/20230918164802727410900045_en.pdf\" target=\"_blank\" rel=\"noopener nofollow\">disclosed</a> revenue of 105 million Hong Kong dollars ($13.4 million) from digital assets and blockchain platform business, up 1767% from the same period in 1H2022.</p><p>During an exclusive interview with Cointelegraph, Patrick Pan, CEO of OSL, said that the exchange plans to list altcoins as soon as they are approved by the region's Securities &amp; Futures Commission (SFC). \"While we are always looking for opportunities to enrich our product suite, any decision to list new assets or products will be made in strict adherence to regulatory guidelines and market demand,\" said Pan.</p><p>In addition to altcoins, Pan said that the firm is currently exploring a Fund Token initiative for the tokenization of retail fund products. \"If authorized by the SFC, these Fund Tokens, representing shares in a novel collective investment scheme under the Harvest-OSL brand, will be available to retail investors in Hong Kong,\" the CEO stated.</p><p><a href=\"https://cointelegraph.com/news/osl-exchange-ceo-discusses-expansion-plans-after-historical-year-in-hong-kong\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-22T16:03:40.000Z",
+    "title": " Concentric liquidity manager exploited for $1.8M in private key hack ",
+    "url": "https://cointelegraph.com/news/concentric-liquidity-manager-exploited-private-key-hack",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvY2Y2YTgyNTQtZmUxMi00YzI4LWI0ZmEtZTFjZTlkNmU3NmIyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>An attacker used a “social engineering attack” to compromise the protocol’s deployer private key, which was then used to mint tokens and burn them drain funds.</p>\n                    <p><p>Liquidity manager app Concentric has been <a href=\"https://twitter.com/ConcentricFi/status/1749418658818830622\" target=\"_blank\" rel=\"noopener nofollow\">exploited</a> on Arbitrum, according to the protocol’s official X account. The attacker used a “social engineering attack” to compromise the private key for the protocol’s deployer account, which was then used to “upgrade the vaults, mint new LP tokens, and subsequently drain the vaults of their assets,” the team stated.</p><p>Concentric is urging users to revoke approvals from all vault addresses, which they <a href=\"https://docs.concentric.fi/security/contracts-and-audit\" target=\"_blank\" rel=\"noopener nofollow\">list</a> in the protocol’s documents.</p><p>The Concentric team said they have initiated an investigation and will issue a post-mortem report as soon as possible. In the report, the team will provide a plan to address the vulnerability. “Our team is fully committed to resolving this issue and restoring the integrity of the Concentric protocol,” Concentric stated.</p><p><a href=\"https://cointelegraph.com/news/concentric-liquidity-manager-exploited-private-key-hack\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-22T15:38:59.000Z",
-    "title": "Ethereum Foundation heaps pressure on market with $1.68 million in ETH sales",
-    "url": "https://cryptoslate.com/ethereum-foundation-heaps-pressure-on-market-with-1-68-million-in-eth-sales/",
-    "description": "<p>The Ethereum Foundation, a non-profit organization dedicated to the blockchain network&#8217;s ecosystem, liquidated $1.6 million worth of ETH, according to crypto analytical firm Arkham Intelligence. Data from the platform reveals that the foundation utilized the CoW Protocol to sell 700 ETH, acquiring $1.6 million in DAI stablecoin. Subsequently, the funds were transferred to an address [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereum-foundation-heaps-pressure-on-market-with-1-68-million-in-eth-sales/\">Ethereum Foundation heaps pressure on market with $1.68 million in ETH sales</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-22T15:56:24.000Z",
+    "title": "Grayscale offloads further 13k BTC as revenues still way above competition",
+    "url": "https://cryptoslate.com/insights/grayscale-offloads-further-13k-btc-as-revenues-still-way-above-competition/",
+    "description": "<p>Data from Arkham Intelligence shows Grayscale has continued its daily Bitcoin outflows, which have occurred daily shortly before the U.S. market opened each day since its conversion to a spot Bitcoin ETF. With famously high fees, the trust continues to see investors leave the fund seeking lower fees or to lock in profits. The trust [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/grayscale-offloads-further-13k-btc-as-revenues-still-way-above-competition/\">Grayscale offloads further 13k BTC as revenues still way above competition</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-01-22T15:47:54.000Z",
+    "title": "ConcentricFi confirms security breach, damage estimated at $1.6 million",
+    "url": "https://cryptobriefing.com/concentricfi-confirms-security-breach-damage-estimated-1-6-million/?utm_source=feed&utm_medium=rss",
+    "description": "With the exploiter now targeting vault approvals, ConcentricFi has urged its users to revoke all approvals and cease any interaction."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-22T15:34:46.000Z",
-    "title": "Bitcoin halving 2024: what to expect from the most important event in Crypto",
-    "url": "https://cryptodaily.co.uk/2024/01/bitcoin-halving-2024-what-to-expect-from-the-most-important-event-in-crypto",
-    "description": "Past price data suggests that the halving has a dramatic impact on supply versus demand roughly every four years, causing an imbalance that favours long term price appreciation and fuels each bull run."
+    "date": "2024-01-22T16:07:12.000Z",
+    "title": "Tokens Under $3 Poised for Growth: Meme Moguls, Immutable X, and Optimism",
+    "url": "https://cryptodaily.co.uk/2024/01/tokens-under-3-poised-for-growth-meme-moguls-immutable-x-and-optimism",
+    "description": "The cryptocurrency market is constantly evolving, with new tokens often presenting lucrative growth opportunities. In this dynamic landscape, certain tokens priced under $3 are showing particular promise. Among these are:"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-22T15:30:49.000Z",
-    "title": "Top 5 AI Crypto Tokens Experience Downturn, Sector Loses $960 Million in Value",
-    "url": "https://news.bitcoin.com/top-5-ai-crypto-tokens-experience-downturn-sector-loses-960-million-in-value/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Top 5 AI Crypto Tokens Experience Downturn, Sector Loses $960 Million in Value\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The value of crypto assets linked to artificial intelligence (AI) surged to $7 billion at the beginning of the year. However, recent weeks have seen a reduction of $960 million in the overall worth of the AI crypto sector. Each of the leading five AI-focused digital assets has experienced a decline in their value, ranging [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-22T16:01:26.000Z",
+    "title": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp",
+    "url": "https://cryptodaily.co.uk/2024/01/the-first-bitcoin-etf-provider-invests-in-defi-a-web3-superapp",
+    "description": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-22T15:52:55.000Z",
+    "title": "Fidelity Addresses Bitcoin's Stagnation: Sei and NuggetRush Gain Momentum for the Altseason",
+    "url": "https://cryptodaily.co.uk/2024/01/fidelity-addresses-bitcoins-stagnation-sei-and-nuggetrush-gain-momentum-for-the-altseason",
+    "description": "Since the SEC decision on Bitcoin ETF, the price of BTC has declined, raising concerns from investors. Speaking on the trend, Fidelity's Director of Global Macro, Jurrien Timmer, has said that it is only a short-term positioning adjustment from investors."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-22T15:48:03.000Z",
+    "title": "Altcoin Market Shakeup: Optimism Lose Seam As Cardano and NuggetRush Form Super Bullish Patterns",
+    "url": "https://cryptodaily.co.uk/2024/01/altcoin-market-shakeup-optimism-lose-seam-as-cardano-and-nuggetrush-form-super-bullish-patterns",
+    "description": "Investor sentiment post BTC ETF has been mixed, with bulls and bears tussling for control of the market. After weeks of uptrend, Optimism (OP) has found itself at the bearish end of the market."
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T16:08:01.000Z",
+    "title": "Binance vs. SEC: Oral arguments begin in landmark crypto legal battle",
+    "url": "https://www.cryptopolitan.com/binance-vs-sec-oral-arguments-begin/",
+    "description": "Binance, one of the world&#8217;s largest crypto exchanges, has embarked on a pivotal legal battle against the U.S. Securities and Exchange Commission (SEC) in a landmark legal development. The oral arguments mark a significant chapter in the ongoing litigation that has captivated the crypto and financial communities alike. The SEC, a regulatory body overseeing securities [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T16:07:37.000Z",
+    "title": "Breakthrough in Biomechanics and Robotics: Human-Like Variable Speed Walking Replicated",
+    "url": "https://www.cryptopolitan.com/robotics-human-like-variable-speed-walking/",
+    "description": "In a remarkable achievement, a research group from the Tohoku University Graduate School of Engineering has successfully replicated human-like variable speed walking using a musculoskeletal model guided by a reflex control method mirroring the human nervous system.&#160; This pioneering development in biomechanics and robotics advances our understanding of human movement and paves the way for [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T16:03:30.000Z",
+    "title": "AI in Healthcare: Navigating Opportunities and Challenges",
+    "url": "https://www.cryptopolitan.com/ai-in-healthcare-navigating-opportunities/",
+    "description": "Recent strides in artificial intelligence (AI) have sparked discussions about its potential to revolutionize the U.S. healthcare system. While AI optimists do not anticipate an immediate overhaul, there is widespread consensus that it holds the key to significantly enhancing care quality and curbing unnecessary costs. Balancing change and resistance The healthcare sector, laden with regulations [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T16:01:29.000Z",
+    "title": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp",
+    "url": "https://www.cryptopolitan.com/the-first-bitcoin-etf-provider-invests-in-de-fi-a-web3-superapp/",
+    "description": "Dubai, United Arab Emirates, January 22nd, 2024, Chainwire De.Fi, the largest Web3 Super App whose $DEFI token listing is coming, announced 21Shares as their investor. 21Shares is a market leader offering ETFs for institutional and retail investors. Their recent investment marks a historic milestone for De.Fi, as it will help to get Traditional Finance exposure [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T16:00:00.000Z",
+    "title": "Investors Rush to Buy Pandoshi (PAMBO) Following Launch of DeFi Wallet Amidst Presale Phase",
+    "url": "https://www.cryptopolitan.com/investors-rush-to-buy-pandoshi-pambo-following-launch-of-defi-wallet-amidst-presale-phase/",
+    "description": "The cryptocurrency space is buzzing with excitement as Pandoshi (PAMBO) recently unveiled its DeFi Pandoshi Wallet, triggering a surge of investor interest amidst its ongoing presale phase. This strategic launch not only showcases Pandoshi&#8217;s innovative edge in the digital finance realm but also solidifies its position as a front-runner in the DeFi space. The introduction [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T15:51:51.000Z",
+    "title": "Innovative Soft Robot Developed in China for Water Contaminant Testing",
+    "url": "https://www.cryptopolitan.com/innovative-soft-robot-developed-in-china/",
+    "description": "Researchers in China have successfully developed a groundbreaking soft robot designed to navigate water environments and assess the quality of water for contaminants. The team, consisting of biomedical engineers and roboticists from various institutions across China, detailed their achievement in a paper published in the journal Science Advances. The small, soft robot, named the miniaturized [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-22T15:48:58.000Z",
+    "title": "Mentessa and EIT Digital Join Forces to Drive Workforce Upskilling with AI Technology",
+    "url": "https://www.cryptopolitan.com/mentessa-and-eit-digital-join-forces/",
+    "description": "Mentessa, a startup founded in Bulgaria and based in Munich, has announced that it has secured funding and support from EIT Digital, a grant co-funded by the European Union, for an innovative project in collaboration with Raiffeisen-Landesbank Steiermark.&#160; The exact amount of funding remains undisclosed, but this partnership represents a significant step forward for Mentessa [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-22T16:04:20.000Z",
+    "title": "Ethereum’s Varied Signals: Whales Accumulate Amid Foundation Sales",
+    "url": "https://nulltx.com/ethereums-varied-signals-whales-accumulate-amid-foundation-sales/",
+    "description": "Recent Ethereum (ETH) market dynamics reveal a mixed picture, with reports of both selling and accumulation activities among major holders. Despite the Ethereum Foundation&#8217;s reported sale of 700 ETH for 1.684 million DAI at an average price of $2,422 over six days, whales are seizing the dip in ETH prices. [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-22T15:56:14.000Z",
+    "title": "Blockchain Finance Firm Ondo Expands Into Asia Pacific Amid On-Chain Activity Concerns",
+    "url": "https://nulltx.com/blockchain-finance-firm-ondo-expands-into-asia-pacific-amid-on-chain-activity-concerns/",
+    "description": "Leading blockchain finance company Ondo Finance has made a strategic move into the Asia Pacific region, marking its entry with the opening of its inaugural office in the area. The expansion aims to strengthen Ondo Finance&#8217;s presence and offerings in the rapidly growing market. Ondo Finance is introducing three tokenized [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-22T15:30:00.000Z",
-    "title": "Polkadot and Chainlink bullish, analysts back Kelexo for growth",
-    "url": "https://crypto.news/polkadot-and-chainlink-bullish-analysts-back-kelexo-for-growth/",
-    "description": "Polkadot and Chainlink are bullish but analysts are endorsing Kelexo in the ongoing KLXO presale"
+    "date": "2024-01-22T15:56:04.000Z",
+    "title": "Bitcoin ETFs in US approved. What about Europe?",
+    "url": "https://crypto.news/bitcoin-etfs-in-us-approved-what-about-europe/",
+    "description": "While Americans have seen the adoption of Bitcoin (BTC) spot and futures ETFs, the situation in Europe is different. Bitcoin ETFs have been a hot topic for many months, as the approval of ETFs based on actual Bitcoin in the&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-22T15:18:32.000Z",
-    "title": "Digital asset investment products saw $21m in outflows",
-    "url": "https://crypto.news/digital-asset-investment-products-saw-21m-in-outflows/",
-    "description": "Investment crypto products' outflows amounted to $21 million last week."
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-22T15:23:46.000Z",
-    "title": "Trump Trading Card Volume Soars 500% on Polygon",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/trump-trading-card-volume-soars-500-on-polygon/",
-    "description": "<p>This unexpected uptick reflects a growing trend of interest and engagement with digital collectibles. Enthusiasts and investors alike flock to the Polygon network for the latest in the world of non-fungible tokens (NFTs). Let&#8217;s explore more about this important news, Polygon&#8217;s Rise: Trump Trading Cards Spark NFT Frenzy Trump Trading Cards have become a focal [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/trump-trading-card-volume-soars-500-on-polygon/\">Trump Trading Card Volume Soars 500% on Polygon</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-22T15:30:33.000Z",
-    "title": "May 2024 Could Be Best Opportunity for Bitcoin (BTC) Bulls, According to Top Analyst",
-    "url": "https://dailyhodl.com/2024/01/22/may-2024-could-be-best-opportunity-for-bitcoin-btc-bulls-according-to-top-analyst/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>An analyst who accurately called the market top in 2021 says that May of this year could be one of the last great opportunities for investors bullish on Bitcoin (BTC). The pseudonymous analyst known as Dave the Wave tells his 143,000 followers on the social media platform X that Bitcoin could correct in the first [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/22/may-2024-could-be-best-opportunity-for-bitcoin-btc-bulls-according-to-top-analyst/\">May 2024 Could Be Best Opportunity for Bitcoin (BTC) Bulls, According to Top Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-01-22T16:00:14.000Z",
+    "title": "Analyst Foresees Bitcoin Downtrend Until GBTC Is Liquidated",
+    "url": "https://www.newsbtc.com/news/bitcoin/analyst-foresees-bitcoin-downtrend-until-gbtc-is-liquidated/",
+    "description": "Chris J Terry, a cryptocurrency analyst and enthusiast, has revealed his insights on the price action of Bitcoin, predicting a continuous decline in the price of the crypto asset. Analyst Says Bitcoin Will Continue To Drop The crypto analyst shared his insights regarding Bitcoin with the cryptocurrency community on the social media platform X (formerly Twitter), anticipating a possible &#8220;continuation of a flat or declining trend.&#8221; Related Reading: Crypto Analyst Predicts Potential Trend For Bitcoin As Price Slips He highlighted that the downtrend will continue until Grayscale Bitcoin Trust (GBTC) is fully &#8220;liquidated.&#8221; According to him, the liquidation will be possible with a whopping $25 billion worth of selling activity over the next few weeks. Terry cites Grayscale&#8217;s choice to keep Bitcoin ETF fees at 1.5% as the cause of what he sees to be the &#8220;biggest strategic error&#8221; in cryptocurrency history. This implies that Grayscale&#8217;s action might have a long-term impact on the crypto market and may prevent wider adoption. The post read: Looks like the BTC price will continue flat/down until GBTC is liquidated, $25B of selling over the next few weeks. Grayscale decision to keep ETF fees at 1.5% will go down as the biggest strategic error in crypto history. Greedy idiots. His analysis emphasizes how investment vehicles are interconnected and how this affects the state of the cryptocurrency market as a whole. However, this has attracted disbelief from a few famous figures in the community. One of the figures who has expressed disbelief is Galaxy Digital CEO Mike Novogratz. He asserted that he &#8220;disagrees&#8221; with Chris Terry&#8217;s analysis because although Novogratz experts some selling pressure activity, he believes investors will move to other ETFs, especially supporting BTCO. Novogratz also pointed out that the Invesco Galaxy Bitcoin ETF (BTCO) is his favorite among the products. Furthermore, Novogratz highlights the significance of maintaining perspective in light of transient market conditions. He noted that the latest development will facilitate older investors&#8217; or boomers&#8217; entry into the crypto landscape. In addition, he has highlighted the potential for enhanced leverage by having 4&#215;5 exposure to Bitcoin via BTCO. He then shared an optimistic look, noting that &#8220;BTC will go higher in the next six months after this indigestion.&#8221; BTC Sees $25 Million Outflows  A recent report from Coinshares has revealed that Bitcoin witnessed an outflow of a whopping $25 million. Coinshares shared the information in its most recent weekly &#8220;Digital Asset Fund Flows.&#8221; Related Reading: Bitcoin Whale Carries Out Massive Sell-Off As BTC Price Suppression Continues It also noted a massive $11.8 billion in BTC trading volume last week. According to Coinshares, this is seven times more than the average weekly trading activity recorded in 2023. There were notable withdrawals from digital asset investment products last week, totaling about $24.7 million. Notably, this spike in trading activity indicates that ETFs account for 63% of all Bitcoin volumes on reliable exchanges. As of the time of writing, Bitcoin was trading at $40,827, indicating a decline of 2.16% in the past day. Despite the price drop, its trading volume is currently up by over 81% in the last 24 hours. Featured image from iStock, chart from Tradingview.com"
   }
 ]

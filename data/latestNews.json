@@ -1,44 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-22T15:00:00.000Z",
-    "title": "Protocol Village: Intent-Centric Ruby Protocol Building 'MiniApp' on TON Blockchain, LayerZero",
-    "url": "https://www.coindesk.com/tech/2024/01/18/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 18-24."
+    "date": "2024-01-22T15:24:21.000Z",
+    "title": "FTX Sold About $1B of Grayscale's Bitcoin ETF, Explaining Much of Outflow: Sources",
+    "url": "https://www.coindesk.com/business/2024/01/22/ftx-sold-about-1b-of-grayscales-bitcoin-etf-explaining-much-of-outflow-sources/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "BTC's price has fallen since bitcoin ETFs were approved. In theory, now that FTX is done selling its substantial holdings, the selling pressure could ease since a bankruptcy estate liquidating holdings is a relatively unique event."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-22T15:18:23.000Z",
+    "title": "China's Currency Woes to Weigh on Bitcoin: Crypto Observer",
+    "url": "https://www.coindesk.com/markets/2024/01/22/chinas-currency-woes-to-weigh-on-bitcoin-crypto-observer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Measures taken by the People's Bank of China to cushion yuan against the stock market slide could weigh over bitcoin's price."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-22T15:11:38.000Z",
+    "title": "U.S., U.K., Australia Sanction Hamas-Affiliated Crypto Transaction Facilitators",
+    "url": "https://www.coindesk.com/policy/2024/01/22/us-uk-australia-sanction-hamas-affiliated-crypto-transaction-facilitators/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The U.S. and other governments are adding a number of Hamas-affiliated financiers to a global financial blacklist, the Treasury Department's sanctions watchdog announced Monday."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-22T14:58:16.000Z",
-    "title": " Crypto community speculates about Bitcoin transfer to Satoshi’s genesis block ",
-    "url": "https://cointelegraph.com/news/crypto-community-bitcoin-transfer-satoshi-genesis-block",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzMxMTJhYzMtZWM5Zi00YmI0LTg5OWItN2RhNjRkZmU1YzJhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Why send 26.9 Bitcoin to Satoshi Nakamoto’s inactive wallet? Cointelegraph gathered the most outlandish theories and asked crypto industry leaders for their craziest hypotheses.  </p>\n                    <p><p data-ct-non-breakable=\"true\">For <a href=\"https://cointelegraph.com/news/2024-new-year-resolutions-crypto-advocate\">a crypto advocate</a>, New Year’s Eve is not only the celebration of the start of a new year — just a couple of days later, on Jan. 3, a significant anniversary occurs. On Jan. 3, 2009, pseudonymous Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) creator Satoshi Nakamoto <a href=\"https://cointelegraph.com/news/bitcoin-birthday-15-years-satoshi-nakamoto-genesis-block-mine\">mined the genesis block</a> — the Bitcoin network’s first-ever block.</p><p>The genesis block contained 50 BTC, the block reward at the time.</p><p>The wallet would remain untouched until a trend emerged within the crypto community where <a href=\"https://cointelegraph.com/news/community-celebrates-bitcoin-genesis-day-by-sending-btc-to-the-genesis-block\">crypto advocates would transfer BTC</a> to the wallet as a tribute to Nakamoto. </p><p><a href=\"https://cointelegraph.com/news/crypto-community-bitcoin-transfer-satoshi-genesis-block\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-22T15:35:54.000Z",
+    "title": " Bitcoin devs can undo 21M supply cap but can’t force changes — Analyst ",
+    "url": "https://cointelegraph.com/news/bitcoin-devs-can-undo-21-million-cap-but-cannot-force-changes",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNTNjNzNmOTMtZWJkMS00ZmQyLWIxOGQtYzJmNjRjZjhkZTczLkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin developers can potentially remove Bitcoin’s 21 million supply limit, but miners are unlikely to accept such a change.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) developers can theoretically remove the 21 million BTC supply limit from the source code, but miners are unlikely to accept such a change, according to one analyst.</p><p>The 21 million hard limit of Bitcoin is one of the fundamental principles of the Bitcoin network, which is designed to provide scarcity — the gap between limited resources and unlimited wants.</p><p>Bitcoin’s 21 million supply limit is <a href=\"https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp\" target=\"_blank\" rel=\"noopener nofollow\">written</a> in the open source code by <a href=\"https://cointelegraph.com/learn/who-is-satoshi-nakamoto-the-creator-of-bitcoin\">anonymous creator Satoshi Nakamoto</a>, and is publicly available on GitHub, though it is not explicitly stated in the code.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-devs-can-undo-21-million-cap-but-cannot-force-changes\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T14:43:09.000Z",
-    "title": "Unveiling Uber’s Drizly Closure, Canva’s Valuation Surge, and Mistral’s AI Triumph!",
-    "url": "https://www.cryptopolitan.com/ubers-drizly-closure-canvas-valuation-surge/",
-    "description": "In a series of recent developments in the world of technology and business, Uber has announced the closure of its alcohol delivery service, Drizly.&#160; Meanwhile, the online design platform Canva is set to conduct a share sale, and the AI landscape is witnessing the rise of new players challenging industry giants. Uber axes Drizly amidst [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-01-22T15:32:36.000Z",
+    "title": " OSL Exchange CEO discusses expansion plans after historical year in Hong Kong ",
+    "url": "https://cointelegraph.com/news/osl-exchange-ceo-discusses-expansion-plans-after-historical-year-in-hong-kong",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTE3ZDM2NTktNDgzZS00NzVhLTkxMDItNjY1ZjEyZjdjMmFhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The exchange received regulatory approval to offer crypto trading to Hong Kong retail investors last August. </p>\n                    <p><p>After the historical approval of retail crypto trading by Hong Kong regulators last August, crypto exchanges HashKey and OSL became the first pair of firms to be licensed under the new rules. Regulation has greatly benefited both firms. The publicly-listed OSL exchange, formerly known as BC Technology Group, secured a <a href=\"https://cointelegraph.com/news/crypto-hong-kong-debuts-retail-crypto-trading-with-hash-key-exchange\">$90 million investment</a> shortly thereafter. In its most recent financial report, the company <a href=\"https://media-bcgroup.todayir.com/20230918164802727410900045_en.pdf\" target=\"_blank\" rel=\"noopener nofollow\">disclosed</a> revenue of 105 million Hong Kong dollars ($13.4 million) from digital assets and blockchain platform business, up 1767% from the same period in 1H2022.</p><p>During an exclusive interview with Cointelegraph, Patrick Pan, CEO of OSL, said that the exchange plans to list altcoins as soon as they are approved by the region's Securities &amp; Futures Commission (SFC). \"While we are always looking for opportunities to enrich our product suite, any decision to list new assets or products will be made in strict adherence to regulatory guidelines and market demand,\" said Pan.</p><p>In addition to altcoins, Pan said that the firm is currently exploring a Fund Token initiative for the tokenization of retail fund products. \"If authorized by the SFC, these Fund Tokens, representing shares in a novel collective investment scheme under the Harvest-OSL brand, will be available to retail investors in Hong Kong,\" the CEO stated.</p><p><a href=\"https://cointelegraph.com/news/osl-exchange-ceo-discusses-expansion-plans-after-historical-year-in-hong-kong\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-22T14:55:20.000Z",
-    "title": "ARBITRUM PRICE ANALYSIS & PREDICTION (January 22) – ARB Slips Below $2 After Losing Momentum For A Week, Can It Recover?",
-    "url": "https://nulltx.com/arbitrum-price-analysis-prediction-january-22-arb-slips-below-2-after-losing-momentum-for-a-week-can-it-recover/",
-    "description": "Yesterday saw ARB through a major crack below a psychological level after losing steam for a week. Although, it has charted a notable loss in three days. It may retake the cracked level if the market recovers.  Last week, ARB reached its highest price level of $2.42 after witnessing a [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2024-01-22T15:38:59.000Z",
+    "title": "Ethereum Foundation heaps pressure on market with $1.68 million in ETH sales",
+    "url": "https://cryptoslate.com/ethereum-foundation-heaps-pressure-on-market-with-1-68-million-in-eth-sales/",
+    "description": "<p>The Ethereum Foundation, a non-profit organization dedicated to the blockchain network&#8217;s ecosystem, liquidated $1.6 million worth of ETH, according to crypto analytical firm Arkham Intelligence. Data from the platform reveals that the foundation utilized the CoW Protocol to sell 700 ETH, acquiring $1.6 million in DAI stablecoin. Subsequently, the funds were transferred to an address [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereum-foundation-heaps-pressure-on-market-with-1-68-million-in-eth-sales/\">Ethereum Foundation heaps pressure on market with $1.68 million in ETH sales</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-22T14:48:53.000Z",
-    "title": "BINANCE COIN PRICE ANALYSIS & PREDICTION (January 22) – BNB Remain Strong Amid Latest Market Weakness, Defying The Odd With 3% Gains",
-    "url": "https://nulltx.com/binance-coin-price-analysis-prediction-january-22-bnb-remain-strong-amid-latest-market-weakness-defying-the-odd-with-3-gains/",
-    "description": "While the latest meltdown has driven most altcoins lower, BNB remained in the green zone and trades well above the $310 level with no signs of dropping yet. The price is up 3% in the last 24 hours. Following a pullback all the way from $338.3 some weeks back, BNB [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-22T15:34:46.000Z",
+    "title": "Bitcoin halving 2024: what to expect from the most important event in Crypto",
+    "url": "https://cryptodaily.co.uk/2024/01/bitcoin-halving-2024-what-to-expect-from-the-most-important-event-in-crypto",
+    "description": "Past price data suggests that the halving has a dramatic impact on supply versus demand roughly every four years, causing an imbalance that favours long term price appreciation and fuels each bull run."
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-22T15:02:00.000Z",
-    "title": "Stablecoin Supply Hits $134.3B Yearly High: Is This the Bullish Signal?",
-    "url": "https://coinedition.com/stablecoin-supply-hits-134-3b-yearly-high-is-this-the-bullish-signal/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stablecoin Supply Hits $134.3B Yearly High: Is This the Bullish Signal?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/Stablecoins-Gain-Market-Cap-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The crypto market has been in a continuous bearish trend since the emergence of crypto ETFs, with market participants searching for reasons to remain optimistic amid the prevailing red candles.&#160; In a recent post on X, the popular YouTube channel Crypto Banter drew attention to an emerging development traditionally known to be a bullish signal. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/stablecoin-supply-hits-134-3b-yearly-high-is-this-the-bullish-signal/\">Stablecoin Supply Hits $134.3B Yearly High: Is This the Bullish Signal?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Bitcoin.com",
+    "date": "2024-01-22T15:30:49.000Z",
+    "title": "Top 5 AI Crypto Tokens Experience Downturn, Sector Loses $960 Million in Value",
+    "url": "https://news.bitcoin.com/top-5-ai-crypto-tokens-experience-downturn-sector-loses-960-million-in-value/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Top 5 AI Crypto Tokens Experience Downturn, Sector Loses $960 Million in Value\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/ai-crypto.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The value of crypto assets linked to artificial intelligence (AI) surged to $7 billion at the beginning of the year. However, recent weeks have seen a reduction of $960 million in the overall worth of the AI crypto sector. Each of the leading five AI-focused digital assets has experienced a decline in their value, ranging [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-22T15:30:00.000Z",
+    "title": "Polkadot and Chainlink bullish, analysts back Kelexo for growth",
+    "url": "https://crypto.news/polkadot-and-chainlink-bullish-analysts-back-kelexo-for-growth/",
+    "description": "Polkadot and Chainlink are bullish but analysts are endorsing Kelexo in the ongoing KLXO presale"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-22T15:18:32.000Z",
+    "title": "Digital asset investment products saw $21m in outflows",
+    "url": "https://crypto.news/digital-asset-investment-products-saw-21m-in-outflows/",
+    "description": "Investment crypto products' outflows amounted to $21 million last week."
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-22T15:23:46.000Z",
+    "title": "Trump Trading Card Volume Soars 500% on Polygon",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/trump-trading-card-volume-soars-500-on-polygon/",
+    "description": "<p>This unexpected uptick reflects a growing trend of interest and engagement with digital collectibles. Enthusiasts and investors alike flock to the Polygon network for the latest in the world of non-fungible tokens (NFTs). Let&#8217;s explore more about this important news, Polygon&#8217;s Rise: Trump Trading Cards Spark NFT Frenzy Trump Trading Cards have become a focal [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/trump-trading-card-volume-soars-500-on-polygon/\">Trump Trading Card Volume Soars 500% on Polygon</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-22T15:30:33.000Z",
+    "title": "May 2024 Could Be Best Opportunity for Bitcoin (BTC) Bulls, According to Top Analyst",
+    "url": "https://dailyhodl.com/2024/01/22/may-2024-could-be-best-opportunity-for-bitcoin-btc-bulls-according-to-top-analyst/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/08/Bitcoin-Secondary-Scare.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>An analyst who accurately called the market top in 2021 says that May of this year could be one of the last great opportunities for investors bullish on Bitcoin (BTC). The pseudonymous analyst known as Dave the Wave tells his 143,000 followers on the social media platform X that Bitcoin could correct in the first [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/22/may-2024-could-be-best-opportunity-for-bitcoin-btc-bulls-according-to-top-analyst/\">May 2024 Could Be Best Opportunity for Bitcoin (BTC) Bulls, According to Top Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

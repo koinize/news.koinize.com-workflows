@@ -1,58 +1,156 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-22T13:00:00.000Z",
+    "title": "First Mover Americas: Solana, Cardano Lead Losses as Market Starts Week in the Red",
+    "url": "https://www.coindesk.com/markets/2024/01/22/first-mover-americas-sol-ada-lead-losses-as-market-starts-week-in-the-red/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Jan. 22, 2024. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-22T13:00:00.000Z",
+    "title": "Protocol Village: Orderly Network Chooses OP Chain for Settlement Layer, Launches Optimism Vault",
+    "url": "https://www.coindesk.com/tech/2024/01/18/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 18-24."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-01-22T12:50:56.000Z",
+    "title": "What is Proof of Stake? How it Differs From Proof of Work",
+    "url": "https://decrypt.co/resources/proof-of-work-vs-proof-of-stake",
+    "description": "Proof of stake is a consensus protocol that locks up crypto to secure the network. It's less energy-intensive than Bitcoin's proof of work mechanism."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-22T13:03:54.000Z",
+    "title": " Global crypto user base surpasses half a billion in 2023 -  Crypto.com report  ",
+    "url": "https://cointelegraph.com/news/global-crypto-users-surpasses-half-a-billion-2023-crypto-com-report",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYTQ2MGRkNDYtZDkxOS00MTMyLWFiYWMtYjA3ZTBmN2EzZTg4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A research report from Crypto.com estimates the number of worldwide cryptocurrency users surged to 580 million people in 2023.</p>\n                    <p><p>More than half a billion people became cryptocurrency users or owners by the end of 2023, according to a market sizing <a href=\"https://contenthub-static.crypto.com/wp_media/2024/01/Crypto-Market-Sizing-2023.pdf\" target=\"_blank\" rel=\"noopener nofollow\">report</a> from cryptocurrency exchange Crypto.com.</p><p>The company estimates that the global amount of cryptocurrency users increased by 34% in 2023, growing from 432 million to 580 million people. </p><p>Delving deeper into the statistics, Crypto.com reveals that Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) ownership rose from 89 million users to 124 million, while Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ownership increased from 222 million to 296 million people by the year’s close.</p><p><a href=\"https://cointelegraph.com/news/global-crypto-users-surpasses-half-a-billion-2023-crypto-com-report\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-22T13:00:00.000Z",
+    "title": " Crypto lost in BNB Chain heists down by 85% in 2023: Report ",
+    "url": "https://cointelegraph.com/news/bnb-chain-losses-decline-crypto-report-2023-avengerdao",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNmQ4OTkxOTktYzEzYS00ZjYzLTliZDctNzc5YjhjMTIwYzBlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Crypto asset losses from the network went from $1.1 billion in 2022 to around $161 million in 2023.</p>\n                    <p><p>The amount of crypto lost on BNB Chain broke a three-year uptrend, going down by 85% in 2023, according to the latest AvengerDAO report contributed by security firms CertiK, Hashdit, Ancilia and Salus. </p><p>Within the report, the security firms highlighted that losses incurred within BNB Chain have consistently increased since 2020, recording their peak in 2022. That year, the BNB Chain ecosystem recorded over $1.1 billion in crypto assets stolen. However, in 2023, the network saw a reduction in losses as it had only $161 million in losses, which is a steep drop from 2022. </p><p data-ct-non-breakable=\"true\">The report also noted that both hacks and scams conducted within the BNB Chain dropped in terms of funds stolen. For hacks, there was a 91% decrease in the amount lost, while scams had a 54% decrease in 2023. </p><p><a href=\"https://cointelegraph.com/news/bnb-chain-losses-decline-crypto-report-2023-avengerdao\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "Crypto Daily",
-    "date": "2024-01-22T12:33:18.000Z",
-    "title": "Pushd (PUSHD) breaks presale records as Polkadot (DOT) and Polygon (MATIC) investors buy in",
-    "url": "https://cryptodaily.co.uk/2024/01/pushd-pushd-breaks-presale-records-as-polkadot-dot-and-polygon-matic-investors-buy-in",
-    "description": "Polkadot (DOT) and Polygon (MATIC) are established names in the crypto world, but they haven’t been performing exactly up to par to start the year"
+    "date": "2024-01-22T13:00:02.000Z",
+    "title": "Experts Predict Solana (SOL) Competitor, Currently Priced at $0.008, to Hit $10 by 2024",
+    "url": "https://cryptodaily.co.uk/2024/01/experts-predict-solana-sol-competitor-currently-priced-at-0008-to-hit-10-by-2024",
+    "description": "In the fast-paced world of cryptocurrencies, a new contender is rapidly gaining traction, challenging the likes of Solana with its promising potential"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-22T12:56:06.000Z",
+    "title": "Terraform Labs Files for Chapter 11 Bankruptcy Protection in the US",
+    "url": "https://cryptodaily.co.uk/2024/01/terraform-labs-files-for-chapter-11-bankruptcy-protection-in-the-us",
+    "description": "Terraform Labs filed a petition for Chapter 11 bankruptcy protection in Delaware on Sunday. According to court documents, the company’s estimated assets and liabilities range between $100 million and $500 million each and an estimated 100 to 199 creditors."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-22T13:00:59.000Z",
+    "title": "Study: Potential Approval of Spot ETF Is Ethereum’s ‘Strongest Narrative Right Now’",
+    "url": "https://news.bitcoin.com/study-potential-approval-of-spot-etf-is-ethereums-strongest-narrative-right-now/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Study: Potential Approval of Spot ETF Is Ethereum’s &#039;Strongest Narrative Right Now&#039;\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2389582873.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The approval of a spot ethereum exchange-traded fund (ETF) by the U.S. Securities and Exchange Commission (SEC) could be the crypto asset&#x2019;s &#x201C;strongest narrative,&#x201D; according to a Kaiko Research analysis. The Kaiko Research team believes that ethereum&#x2019;s rally post-bitcoin ETF approvals show that investors are betting on the regulator&#x2019;s approval of ether-based ETFs. ETH Outperforms [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T12:38:13.000Z",
-    "title": "Study Shows How AI Can Save the Planet by Supercharging Carbon Capture",
-    "url": "https://www.cryptopolitan.com/study-shows-ai-supercharge-carbon-capture/",
-    "description": "Surrey University scientists have made a groundbreaking discovery in the field of carbon capture systems. They have found that Artificial Intelligence (AI) has the potential to significantly reduce energy consumption in these systems while enhancing their effectiveness. The Challenge with Conventional Carbon Capture Systems Traditional carbon capture systems operate at a constant speed, disregarding fluctuations [&#8230;]"
+    "date": "2024-01-22T13:08:57.000Z",
+    "title": "Here’s How AI is Driving Equity in Higher Education",
+    "url": "https://www.cryptopolitan.com/ai-is-driving-equity-in-higher-education/",
+    "description": "In the pursuit of creating a level playing field in education, Dr. Vistasp Karbhari, a Complete College America Fellow and a member of UT Arlington&#8217;s team, alongside leaders like Audrey Ellis, the founder of T3 Advisory, have spearheaded initiatives to promote fairness. Central to their efforts is the development of an AI playbook and a [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T12:35:23.000Z",
-    "title": "Nine Bitcoin ETF issuers accumulate billions in BTC assets, outpacing Grayscale",
-    "url": "https://www.cryptopolitan.com/billions-in-btc-assets-outpacing-grayscale/",
-    "description": "In a significant development in the cryptocurrency world, nine Bitcoin exchange-traded fund (ETF) issuers have rapidly accumulated substantial Bitcoin (BTC) assets, collectively holding over 95,000 BTC worth approximately $4 billion.&#160; This move comes less than two weeks after the launch of these ETFs and signifies a growing interest in cryptocurrency investments. Bloomberg analyst Eric Balchunas [&#8230;]"
+    "date": "2024-01-22T13:07:44.000Z",
+    "title": "Nintendo Switch 2 Specs Leak: Underwhelming Power but Potential Upsides",
+    "url": "https://www.cryptopolitan.com/nintendo-switch-2-specs-leak-underwhelming/",
+    "description": "New details on the rumored Nintendo Switch 2 have emerged, shedding light on its specifications and potential features. While the leaked specs suggest that the console may lag behind its competitors in raw power, some promising elements may still make it an attractive option for Nintendo enthusiasts. Specs reveal underwhelming power Recent leaks, sourced from [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T12:35:05.000Z",
-    "title": "Google Sets Sights on AI Innovation and Cost Efficiency for 2024 Amid Job Security Concerns",
-    "url": "https://www.cryptopolitan.com/google-sets-sights-on-ai-innovation/",
-    "description": "Google, a titan in the tech industry, recently revealed its strategic plan for 2024. The CEO of Google, Sundar Pichai, sent a memo (reported by The Verge) emphasizing the company&#8217;s dual focus on advancing artificial intelligence and implementing cost-saving measures. This announcement comes in the wake of the global economic recovery and follows a similar [&#8230;]"
+    "date": "2024-01-22T12:55:44.000Z",
+    "title": "Exverse.io Integrates with Aethir’s Infrastructure for Enhanced Gaming Accessibility",
+    "url": "https://www.cryptopolitan.com/exverse-io-integrates-with-aethirs-infrastructure-for-enhanced-gaming-accessibility/",
+    "description": "Singapore, SIngapore, January 22nd, 2024, Chainwire Aethir, a pioneer in Decentralized Cloud Infrastructure (DCI) for Gaming and AI, has partnered up with Exverse.io, an AI-powered shooter game driven by Web3 economy Exverse.io. Exverse.io will integrate with Aethir&#8217;s infrastructure to enhance game accessibility and dismantle the notorious barriers that have long hindered the sector&#8217;s growth. &#8220;The [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T12:30:20.000Z",
-    "title": "Aptos Price Prediction for 2024 – 2033: Will APT Token Hold Bullish Hopes?",
-    "url": "https://www.cryptopolitan.com/aptos-price-prediction/",
-    "description": "Aptos Price Prediction 2024-2033 As we venture into 2024 to 2033, the decade promises to be a critical period for Aptos as it strives to establish itself as a significant blockchain platform. The rapidly changing market dynamics, technological advancements, and evolving adoption trends will undoubtedly shape Aptos’s path. Against this backdrop, investors and stakeholders are [&#8230;]"
+    "date": "2024-01-22T12:41:45.000Z",
+    "title": "US authorities probe B. Riley and Nomura in securities fraud case",
+    "url": "https://www.cryptopolitan.com/us-authorities-probe-b-riley-and-nomura/",
+    "description": "US authorities have launched an investigation into the business dealings of investment bank B. Riley with Brian Kahn, a figure involved in a criminal case related to securities fraud, according to a recent report by Bloomberg. This probe, still in its preliminary stages, explores the bank&#8217;s relationship with Kahn and uses his assets to secure [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T12:20:31.000Z",
-    "title": "The Role of AI in Modern Healthcare: Policy vs. Progress",
-    "url": "https://www.cryptopolitan.com/the-role-of-ai-in-modern-healthcare-policy-vs-progress/",
-    "description": "The mid-20th century saw a fear of overpopulation leading to large-scale hunger. This was highlighted in Paul Ehrlich&#8217;s 1968 publication, &#8220;The Population Bomb.&#8221; However, an impending crisis was averted with advancements in wheat production, such as Norman Borlaug&#8217;s &#8220;Green Revolution.&#8221; The Current AI Dilemma in Healthcare In present times, a parallel situation is arising due [&#8230;]"
+    "date": "2024-01-22T12:40:39.000Z",
+    "title": "JPMorgan CEO Jamie Dimon faces speculation over motives behind Bitcoin criticism",
+    "url": "https://www.cryptopolitan.com/jpmorgan-ceo-jamie-dimon-faces-speculation/",
+    "description": "In recent days, JPMorgan Chase CEO Jamie Dimon has once again found himself at the center of controversy within the cryptocurrency community due to his negative comments about Bitcoin (BTC).&#160; This has led to speculation among crypto enthusiasts about Dimon&#8217;s true motivations, with some suggesting that his remarks may be a calculated move to drive [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-22T13:05:36.000Z",
+    "title": "Why investors are finding value in buying into Pushd (PUSHD) over Binance Coin (BNB) and Internet Computer (ICP)",
+    "url": "https://nulltx.com/why-investors-are-finding-value-in-buying-into-pushd-pushd-over-binance-coin-bnb-and-internet-computer-icp/",
+    "description": "Binance Coin (BNB) plays an important role in the world’s largest cryptocurrency exchange from whence it is named. Meanwhile, Internet Computer (ICP) has made a respectable comeback after notoriously dumping from $700 to $2.87 last September 2023. But it isn’t Binance Coin (BNB) or Internet Computer (ICP) that market analysts [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-22T13:03:51.000Z",
+    "title": "Why investors from Ripple (XRP) and Optimism (OP) are joining the new Kelexo (KLXO) presale",
+    "url": "https://nulltx.com/why-investors-from-ripple-xrp-and-optimism-op-are-joining-the-new-kelexo-klxo-presale/",
+    "description": "In the world of cryptocurrency, where things can change quickly and there&#8217;s both risk and opportunity, Ripple (XRP) is dealing with internal decisions and external unknowns. Meanwhile, Optimism (OP) is riding the wave of broad approval. In this ever-changing environment, a new player called Kelexo (KLXO) has entered with plans [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-22T13:00:14.000Z",
+    "title": "Grayscale has offloaded $2.14b in BTC since ETF approval",
+    "url": "https://crypto.news/grayscale-has-offloaded-2-14b-in-btc-since-etf-approval/",
+    "description": "Grayscale Investments has sold over $2.14 billion in BTC following the SEC&#8217;s approval of spot Bitcoin ETFs. According to a Jan. 22 post by crypto analytics platform Lookonchain, Grayscale&#8217;s Bitcoin holdings have diminished by about 52,227 BTC, equivalent to $2.14&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-22T13:00:28.000Z",
+    "title": "XRP Crash Fears Mount As Whale Dumps 26 Million Tokens – Details",
+    "url": "https://www.newsbtc.com/news/xrp-crash-fears-mount-as-whale-dumps-26-million-tokens-details/",
+    "description": "In the world of cryptocurrencies, XRP has once again captured the attention of market enthusiasts with a surge in whale activity. The movement of a staggering 26.8 million XRP tokens has sparked speculation among traders and investors alike. Blockchain data tracked by Whale Alert, a renowned tracker of large cryptocurrency transactions, revealed that an unknown wallet, identified as r4wf7enWPx&#8230;5XgwHh4Rzn, transferred the substantial amount of XRP. Related Reading: From Highs To Lows: Solana’s Price Journey – Can It Recover From FOMO Fumble? Ripple&#8217;s Strategic Moves Trigger XRP Transfers The tokens, valued at approximately $14.75 million, were sent to Bitstamp, a prominent exchange based in Luxembourg City, Europe. Interestingly, this is not the first time the mentioned wallet has made similar transfers to Bitstamp during periods of price dips. The recurrent nature of these transactions has piqued the interest of market participants, especially considering Ripple&#8217;s recent strategic stake acquisition in the exchange. Source: Whale Alert The correlation between Ripple&#8217;s involvement and the XRP transfers to Bitstamp has not gone unnoticed by astute traders and investors. However, the recent movement of XRP tokens aligns with a downward trend in the token&#8217;s price. XRP&#8217;s value has experienced a decline of 2.34% in the past 24 hours, trading at $0.5389 at the time of writing. The weekly chart also paints a dreary picture, showing a significant fall of 7.30%, while the monthly downturn stands at 12.61%. Both market capitalization and trading volume have also taken a significant hit. XRP currently trading at $0.53084 on the daily chart: TradingView.com Despite the prevailing market sentiment, XRP Whale, a reputable crypto market analyst, remains bullish on the token&#8217;s prospects. Contrary to the price decline, the analyst predicts that February will bring positive developments for the Ripple-backed cryptocurrency. Investor Skepticism Persists Amid Market Volatility Such optimism is met with skepticism, as investors grapple with the current state of the market and seek reassurance amid the ongoing volatility. It is important to remember that the cryptocurrency market is highly unpredictable, and caution should always be exercised when making investment decisions. Related Reading: Binance Coin (BNB) Blasts Off: 10% Gain Sparks $350 Price Predictions While the whale activity surrounding XRP and the positive outlook from XRP Whale may spark intrigue, it is crucial to conduct thorough research and seek advice from financial professionals before making any investment moves. Worries of an XRP crash are rampant, fueled by the recent whale sell-off and a confluence of negative technical indicators. The coming days and weeks will be crucial in determining whether XRP can weather this storm or succumb to the immense selling pressure. Featured image from iStock"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-22T12:41:22.000Z",
+    "title": "Bitcoin Price Turns Red, Why BTC Could Tumble Below $40K",
+    "url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-turns-red-40k/",
+    "description": "Bitcoin price started a fresh decline below the $41,250 support zone. BTC is showing bearish signs and might decline heavily below the $40,000 support zone. Bitcoin price is gaining bearish momentum below the $41,500 zone. The price is trading below $41,500 and the 100 hourly Simple moving average. There is a key bearish trend line forming with resistance near $41,320 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair is now at risk of more downsides if it breaks the $40,000 support zone. Bitcoin Price Resumes Downtrend Bitcoin price struggled to stay above the $42,200 support zone. However, BTC failed to clear many hurdles and started a fresh decline below the $42,000 level. There was a move below the $41,500 and $41,250 support levels. The price even spiked below the $40,500 level. A low is formed near $40,369 and the price is now consolidating losses. It is now trading near the 23.6% Fib retracement level of the recent drop from the $42,260 swing high to the $40,369 low. Bitcoin is now trading below $41,500 and the 100 hourly Simple moving average. Immediate resistance is near the $41,000 level. The first major resistance is near the $41,250 level. There is also a key bearish trend line forming with resistance near $41,320 on the hourly chart of the BTC/USD pair. Source: BTCUSD on TradingView.com The trend line is close to the 50% Fib retracement level of the recent drop from the $42,260 swing high to the $40,369 low. A clear move above the $41,320 resistance could send the price toward the $42,000 resistance. The next resistance is now forming near the $42,200 level. A close above the $42,200 level could push the price further higher. The next major resistance sits at $43,250. More Losses In BTC? If Bitcoin fails to rise above the $42,200 resistance zone, it could continue to move down. Immediate support on the downside is near the $40,500 level. The next major support is $40,000. If there is a close below $40,000, the price could gain bearish momentum. In the stated case, the price could drop toward the $38,500 support in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $40,500, followed by $40,000. Major Resistance Levels – $41,500, $42,000, and $42,200."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-22T12:15:43.000Z",
-    "title": "El Salvador Presents Advances in Bitcoin and Digital Assets Regulation at Davos",
-    "url": "https://www.crypto-news-flash.com/el-salvador-presents-advances-in-bitcoin-and-digital-assets-regulation-at-davos/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-presents-advances-in-bitcoin-and-digital-assets-regulation-at-davos",
-    "description": "<img width=\"1200\" height=\"800\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"el-salvador-has-become-first-\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/el-salvador-has-become-first-600nw-2002125767-2-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />El Salvador leads in cryptocurrency regulation, attracting global investment with innovative laws and technology promotion. Educational projects such as &#8220;Bitcoin Beach&#8221; and &#8220;My First Bitcoin&#8221; promote the understanding and adoption of Bitcoin. In a presentation during the Crypto 2030 event, parallel to the World Economic Forum in Davos, Juan Carlos Reyes, president of El Salvador&#8217;s [...]"
+    "date": "2024-01-22T13:00:59.000Z",
+    "title": "Cosmos and Arbitrum Holders Tempted by Rebel Satoshi’s Rapid Market Entry",
+    "url": "https://www.crypto-news-flash.com/cosmos-and-arbitrum-holders-tempted-by-rebel-satoshis-rapid-market-entry/?utm_source=rss&utm_medium=rss&utm_campaign=cosmos-and-arbitrum-holders-tempted-by-rebel-satoshis-rapid-market-entry",
+    "description": "<img width=\"512\" height=\"321\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-22T092942.055.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-22T092942.055.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-22T092942.055-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-22T092942.055-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-22T092942.055-450x282.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Cosmos (ATOM) could gain 60.8% in 2024, according to analysts.  Experts predict Arbitrum (ARB) could surge by 133.9% by the end of 2024.  Rebel Satoshi (RBLZ) promises a 150% return on investment as launch day approaches.  Market analysts have shared their predictions for 2024 to help investors make the right decision. According to predictions, top [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-22T12:28:00.000Z",
-    "title": "Is UMA’s Bullish Rally Over? Indicators Signal Increased Bearish Momentum",
-    "url": "https://coinedition.com/is-umas-bullish-rally-over-indicators-signal-increased-bearish-momentum/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"UMA Bullish Rally Dissipates, Bears Dip Price Over 10%\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/FIL-Price-Surged-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Universal Market Access Protocol&#8217;s native token, UMA, has witnessed an extraordinary surge, catapulting its value by 161.5% in just a week. This upswing pushed its price to a 20-month high, reaching a peak at $6.73 before facing stiff resistance. This surge was a shift from a long period of stagnation to a bullish trend, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/is-umas-bullish-rally-over-indicators-signal-increased-bearish-momentum/\">Is UMA&#8217;s Bullish Rally Over? Indicators Signal Increased Bearish Momentum</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-22T12:54:51.000Z",
+    "title": "Shiba Inu’s Burn Rate Surges by 357% in 24 Hours: Bulls Prepare for Price Rally",
+    "url": "https://www.crypto-news-flash.com/shiba-inus-burn-rate-surges-by-357-in-24-hours-bulls-prepare-for-price-rally/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inus-burn-rate-surges-by-357-in-24-hours-bulls-prepare-for-price-rally",
+    "description": "<img width=\"2127\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba-Inu-SHIB-logo-with-trading-background-graphics\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics.jpg 2127w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-1024x578.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-768x433.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-1536x867.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-2048x1155.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-150x85.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-450x254.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-trading-background-graphics-1200x677.jpg 1200w\" sizes=\"(max-width: 2127px) 100vw, 2127px\" />Increased activities on Shibarium causes the Shiba Inu burn rate to surge by 357% in just 24 hours.  The price has, however, fallen by 4 percent in the last seven days after a “bearish wind” blew across the market.  Dog-themed coin, Shiba Inu (SHIB), grabs headlines after increasing network activities caused a spike in the [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-22T12:49:20.000Z",
+    "title": "Dogecoin Price Surges by 9% as Twitter Launches Payments Account: Could DOGE Become the Platform’s Primary Currency?",
+    "url": "https://www.crypto-news-flash.com/dogecoin-price-surges-by-9-as-twitter-launches-payments-account-could-doge-become-the-platforms-primary-currency/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-price-surges-by-9-as-twitter-launches-payments-account-could-doge-become-the-platforms-primary-currency",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-13.37.11-Create-a-dynamic-and-vivid-illustration-representing-the-surge-in-Dogecoins-price-by-9-following-the-announcement-by-Twitter-to-launch-a-payments-ac-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Dogecoin&#8217;s price jumped by 9% following news of a dedicated payments account by Twitter, sparking speculation about cryptocurrency integration. Elon Musk&#8217;s influence as the &#8216;Dogefather&#8217; and his potential impact on the use of Dogecoin in Twitter&#8217;s payment system is a key focus. Following the recent announcement by CNF that X (formerly Twitter) is set to [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-22T12:45:19.000Z",
+    "title": "Tron Founder Justin Sun Withdraws $60,000,000 Worth of Crypto From Binance in One Month: On-Chain Data",
+    "url": "https://dailyhodl.com/2024/01/22/tron-founder-justin-sun-withdraws-60000000-worth-of-crypto-from-binance-in-one-month-on-chain-data/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/01/crpyto-top-five-plummet.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Billionaire and founder of Tron (TRX) Justin Sun has withdrawn tens of millions of dollars worth of digital assets from crypto exchange Binance in the last month, according to on-chain data. Blockchain tracking firm Lookonchain says that between December 18th and January 21st, Sun has withdrawn several different altcoins from Binance, including $43 million worth [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/22/tron-founder-justin-sun-withdraws-60000000-worth-of-crypto-from-binance-in-one-month-on-chain-data/\">Tron Founder Justin Sun Withdraws $60,000,000 Worth of Crypto From Binance in One Month: On-Chain Data</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

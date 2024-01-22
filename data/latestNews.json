@@ -1,142 +1,79 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-22T16:00:00.000Z",
-    "title": "Protocol Village: Intent-Centric Ruby Protocol Building 'MiniApp' on TON Blockchain, LayerZero",
-    "url": "https://www.coindesk.com/tech/2024/01/18/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 18-24."
+    "date": "2024-01-22T16:26:24.000Z",
+    "title": "Zuzalu, Vitalik Buterin-Led Retreat in Montenegro, Inspires Grants for 'Zu-Villages'",
+    "url": "https://www.coindesk.com/tech/2024/01/22/zuzalu-vitalik-buterin-led-retreat-in-montenegro-inspires-grants-for-zu-villages/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The aim of the program is to continue the \"growth of the pop-up city movement\" and \"support technology-driven projects,” according to a post on Gitcoin."
   },
   {
     "source": "Decrypt",
-    "date": "2024-01-22T16:01:02.000Z",
-    "title": "Ethereum DeFi Gets ‘Gasless' Trading With New 0x API",
-    "url": "https://decrypt.co/213582/ethereum-defi-gasless-trading-0x-api",
-    "description": "The newest addition to 0x’s selection of trading APIs allows builders to use \"gasless\" swaps in their decentralized applications on Ethereum."
+    "date": "2024-01-22T16:30:29.000Z",
+    "title": "Gaming Tokens Plunge as Bitcoin Nears $40K—But Ronin Is On Fire",
+    "url": "https://decrypt.co/213686/gaming-tokens-plunge-bitcoin-nears-40k-ronin-on-fire",
+    "description": "Ronin’s RON token nearly hit a two-year high Sunday amid Pixels airdrop hype, but most major gaming tokens are down today."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-22T16:03:40.000Z",
-    "title": " Concentric liquidity manager exploited for $1.8M in private key hack ",
-    "url": "https://cointelegraph.com/news/concentric-liquidity-manager-exploited-private-key-hack",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvY2Y2YTgyNTQtZmUxMi00YzI4LWI0ZmEtZTFjZTlkNmU3NmIyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>An attacker used a “social engineering attack” to compromise the protocol’s deployer private key, which was then used to mint tokens and burn them drain funds.</p>\n                    <p><p>Liquidity manager app Concentric has been <a href=\"https://twitter.com/ConcentricFi/status/1749418658818830622\" target=\"_blank\" rel=\"noopener nofollow\">exploited</a> on Arbitrum, according to the protocol’s official X account. The attacker used a “social engineering attack” to compromise the private key for the protocol’s deployer account, which was then used to “upgrade the vaults, mint new LP tokens, and subsequently drain the vaults of their assets,” the team stated.</p><p>Concentric is urging users to revoke approvals from all vault addresses, which they <a href=\"https://docs.concentric.fi/security/contracts-and-audit\" target=\"_blank\" rel=\"noopener nofollow\">list</a> in the protocol’s documents.</p><p>The Concentric team said they have initiated an investigation and will issue a post-mortem report as soon as possible. In the report, the team will provide a plan to address the vulnerability. “Our team is fully committed to resolving this issue and restoring the integrity of the Concentric protocol,” Concentric stated.</p><p><a href=\"https://cointelegraph.com/news/concentric-liquidity-manager-exploited-private-key-hack\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-22T15:56:24.000Z",
-    "title": "Grayscale offloads further 13k BTC as revenues still way above competition",
-    "url": "https://cryptoslate.com/insights/grayscale-offloads-further-13k-btc-as-revenues-still-way-above-competition/",
-    "description": "<p>Data from Arkham Intelligence shows Grayscale has continued its daily Bitcoin outflows, which have occurred daily shortly before the U.S. market opened each day since its conversion to a spot Bitcoin ETF. With famously high fees, the trust continues to see investors leave the fund seeking lower fees or to lock in profits. The trust [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/grayscale-offloads-further-13k-btc-as-revenues-still-way-above-competition/\">Grayscale offloads further 13k BTC as revenues still way above competition</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-01-22T15:47:54.000Z",
-    "title": "ConcentricFi confirms security breach, damage estimated at $1.6 million",
-    "url": "https://cryptobriefing.com/concentricfi-confirms-security-breach-damage-estimated-1-6-million/?utm_source=feed&utm_medium=rss",
-    "description": "With the exploiter now targeting vault approvals, ConcentricFi has urged its users to revoke all approvals and cease any interaction."
+    "date": "2024-01-22T16:24:13.000Z",
+    "title": " US, UK and Australia step up sanctions on Hamas-linked crypto facilitators  ",
+    "url": "https://cointelegraph.com/news/sanctions-hamas-crypto-facilitators",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZjIzNDI5MTAtOWQ0Ni00NmE4LTg0ZDMtOWRhY2ExYTU5MmEwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>No specific crypto addresses were listed in the sanctions, which included members of the Shamlakh family and the Herzallah Exchange.</p>\n                    <p><p>The United States Department of the Treasury’s Office of Foreign Assets Control (OFAC) announced new sanctions against “networks and facilitators” of crypto transactions linked to the terrorist group Hamas.</p><p>In a Jan. 22 announcement, OFAC <a href=\"https://home.treasury.gov/news/press-releases/jy2036\" target=\"_blank\" rel=\"noopener nofollow\">said</a> it was imposing a fifth round of sanctions against Hamas following the group’s Oct. 7 attacks on Israel. Treasury said it stargeted financial facilitators that “played key roles” in moving crypto funds to Hamas, a concurrent action with authorities in the United Kingdom and Australia.</p><p>“Hamas has sought to leverage a variety of financial transfer mechanisms, including the exploitation of cryptocurrency, to channel funds to support the group’s terrorist activities,” said Brian Nelson, Under Secretary of the Treasury for Terrorism and Financial Intelligence.</p><p><a href=\"https://cointelegraph.com/news/sanctions-hamas-crypto-facilitators\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-22T16:07:12.000Z",
-    "title": "Tokens Under $3 Poised for Growth: Meme Moguls, Immutable X, and Optimism",
-    "url": "https://cryptodaily.co.uk/2024/01/tokens-under-3-poised-for-growth-meme-moguls-immutable-x-and-optimism",
-    "description": "The cryptocurrency market is constantly evolving, with new tokens often presenting lucrative growth opportunities. In this dynamic landscape, certain tokens priced under $3 are showing particular promise. Among these are:"
+    "date": "2024-01-22T16:36:33.000Z",
+    "title": "Ethereum's (ETH) ETF Buzz Meets Solana's (SOL) Selloff - What Every Investor Needs to Know",
+    "url": "https://cryptodaily.co.uk/2024/01/ethereums-eth-etf-buzz-meets-solanas-sol-selloff-what-every-investor-needs-to-know",
+    "description": "Explore the dynamic crypto arena where Ethereum's ETF anticipation clashes with Solana's post-FOMO challenges. Dive into our comprehensive analysis to understand how ETH's potential regulatory boost and SOL's technical struggles are shaping the future of these digital giants in the ever-evolving cryptocurrency landscape. Stay ahead in the game with our latest insights!"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-22T16:01:26.000Z",
-    "title": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp",
-    "url": "https://cryptodaily.co.uk/2024/01/the-first-bitcoin-etf-provider-invests-in-defi-a-web3-superapp",
-    "description": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp"
+    "date": "2024-01-22T16:15:44.000Z",
+    "title": "Sell the News? Prices Tumble after Bitcoin (BTC) Announcement, Pullix (PLX) Remains Strong Eyeing Another 50% Increase",
+    "url": "https://cryptodaily.co.uk/2024/01/sell-the-news-prices-tumble-after-bitcoin-btc-announcement-pullix-plx-remains-strong-eyeing-another-50-increase",
+    "description": "While the ETF approval of Bitcoin (BTC) made waves across the crypto industry, the hype is gradually dropping"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-22T15:52:55.000Z",
-    "title": "Fidelity Addresses Bitcoin's Stagnation: Sei and NuggetRush Gain Momentum for the Altseason",
-    "url": "https://cryptodaily.co.uk/2024/01/fidelity-addresses-bitcoins-stagnation-sei-and-nuggetrush-gain-momentum-for-the-altseason",
-    "description": "Since the SEC decision on Bitcoin ETF, the price of BTC has declined, raising concerns from investors. Speaking on the trend, Fidelity's Director of Global Macro, Jurrien Timmer, has said that it is only a short-term positioning adjustment from investors."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-22T15:48:03.000Z",
-    "title": "Altcoin Market Shakeup: Optimism Lose Seam As Cardano and NuggetRush Form Super Bullish Patterns",
-    "url": "https://cryptodaily.co.uk/2024/01/altcoin-market-shakeup-optimism-lose-seam-as-cardano-and-nuggetrush-form-super-bullish-patterns",
-    "description": "Investor sentiment post BTC ETF has been mixed, with bulls and bears tussling for control of the market. After weeks of uptrend, Optimism (OP) has found itself at the bearish end of the market."
+    "source": "Bitcoin.com",
+    "date": "2024-01-22T16:30:42.000Z",
+    "title": "Terraform Labs Files for Bankruptcy in US Amid SEC Lawsuit",
+    "url": "https://news.bitcoin.com/terraform-labs-files-for-bankruptcy-in-us-amid-sec-lawsuit/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Terraform Labs Files for Bankruptcy in US Amid SEC Lawsuit\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/terraform-labs-bankruptcy1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Terraform Labs has filed for Chapter 11 bankruptcy in the U.S. amid ongoing litigation with the U.S. Securities and Exchange Commission (SEC). The company stated in its bankruptcy filing that &#8220;funds will be available for distribution to unsecured creditors.&#8221; Meanwhile, Terraform Labs co-founder Do Kwon is facing an upcoming SEC trial and extradition proceedings. Terraform [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T16:08:01.000Z",
-    "title": "Binance vs. SEC: Oral arguments begin in landmark crypto legal battle",
-    "url": "https://www.cryptopolitan.com/binance-vs-sec-oral-arguments-begin/",
-    "description": "Binance, one of the world&#8217;s largest crypto exchanges, has embarked on a pivotal legal battle against the U.S. Securities and Exchange Commission (SEC) in a landmark legal development. The oral arguments mark a significant chapter in the ongoing litigation that has captivated the crypto and financial communities alike. The SEC, a regulatory body overseeing securities [&#8230;]"
+    "date": "2024-01-22T16:27:34.000Z",
+    "title": "BNB Chain reports dramatic drop in crypto losses for 2023",
+    "url": "https://www.cryptopolitan.com/bnb-chain-reports-drop-crypto-losses-2023/",
+    "description": "According to a recent security report published today, the BNB Chain has demonstrated a substantial decrease in the loss of crypto assets in 2023. The detailed analysis, conducted by AvengerDAO in collaboration with notable security firms such as CertiK, Hashdit, Ancilia, and Salus, reveals a striking 85% reduction in losses compared to the previous year.&#160; [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-22T16:07:37.000Z",
-    "title": "Breakthrough in Biomechanics and Robotics: Human-Like Variable Speed Walking Replicated",
-    "url": "https://www.cryptopolitan.com/robotics-human-like-variable-speed-walking/",
-    "description": "In a remarkable achievement, a research group from the Tohoku University Graduate School of Engineering has successfully replicated human-like variable speed walking using a musculoskeletal model guided by a reflex control method mirroring the human nervous system.&#160; This pioneering development in biomechanics and robotics advances our understanding of human movement and paves the way for [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T16:03:30.000Z",
-    "title": "AI in Healthcare: Navigating Opportunities and Challenges",
-    "url": "https://www.cryptopolitan.com/ai-in-healthcare-navigating-opportunities/",
-    "description": "Recent strides in artificial intelligence (AI) have sparked discussions about its potential to revolutionize the U.S. healthcare system. While AI optimists do not anticipate an immediate overhaul, there is widespread consensus that it holds the key to significantly enhancing care quality and curbing unnecessary costs. Balancing change and resistance The healthcare sector, laden with regulations [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T16:01:29.000Z",
-    "title": "The First Bitcoin ETF Provider Invests in De.Fi, a Web3 SuperApp",
-    "url": "https://www.cryptopolitan.com/the-first-bitcoin-etf-provider-invests-in-de-fi-a-web3-superapp/",
-    "description": "Dubai, United Arab Emirates, January 22nd, 2024, Chainwire De.Fi, the largest Web3 Super App whose $DEFI token listing is coming, announced 21Shares as their investor. 21Shares is a market leader offering ETFs for institutional and retail investors. Their recent investment marks a historic milestone for De.Fi, as it will help to get Traditional Finance exposure [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T16:00:00.000Z",
-    "title": "Investors Rush to Buy Pandoshi (PAMBO) Following Launch of DeFi Wallet Amidst Presale Phase",
-    "url": "https://www.cryptopolitan.com/investors-rush-to-buy-pandoshi-pambo-following-launch-of-defi-wallet-amidst-presale-phase/",
-    "description": "The cryptocurrency space is buzzing with excitement as Pandoshi (PAMBO) recently unveiled its DeFi Pandoshi Wallet, triggering a surge of investor interest amidst its ongoing presale phase. This strategic launch not only showcases Pandoshi&#8217;s innovative edge in the digital finance realm but also solidifies its position as a front-runner in the DeFi space. The introduction [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T15:51:51.000Z",
-    "title": "Innovative Soft Robot Developed in China for Water Contaminant Testing",
-    "url": "https://www.cryptopolitan.com/innovative-soft-robot-developed-in-china/",
-    "description": "Researchers in China have successfully developed a groundbreaking soft robot designed to navigate water environments and assess the quality of water for contaminants. The team, consisting of biomedical engineers and roboticists from various institutions across China, detailed their achievement in a paper published in the journal Science Advances. The small, soft robot, named the miniaturized [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-22T15:48:58.000Z",
-    "title": "Mentessa and EIT Digital Join Forces to Drive Workforce Upskilling with AI Technology",
-    "url": "https://www.cryptopolitan.com/mentessa-and-eit-digital-join-forces/",
-    "description": "Mentessa, a startup founded in Bulgaria and based in Munich, has announced that it has secured funding and support from EIT Digital, a grant co-funded by the European Union, for an innovative project in collaboration with Raiffeisen-Landesbank Steiermark.&#160; The exact amount of funding remains undisclosed, but this partnership represents a significant step forward for Mentessa [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-22T16:04:20.000Z",
-    "title": "Ethereum’s Varied Signals: Whales Accumulate Amid Foundation Sales",
-    "url": "https://nulltx.com/ethereums-varied-signals-whales-accumulate-amid-foundation-sales/",
-    "description": "Recent Ethereum (ETH) market dynamics reveal a mixed picture, with reports of both selling and accumulation activities among major holders. Despite the Ethereum Foundation&#8217;s reported sale of 700 ETH for 1.684 million DAI at an average price of $2,422 over six days, whales are seizing the dip in ETH prices. [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-22T15:56:14.000Z",
-    "title": "Blockchain Finance Firm Ondo Expands Into Asia Pacific Amid On-Chain Activity Concerns",
-    "url": "https://nulltx.com/blockchain-finance-firm-ondo-expands-into-asia-pacific-amid-on-chain-activity-concerns/",
-    "description": "Leading blockchain finance company Ondo Finance has made a strategic move into the Asia Pacific region, marking its entry with the opening of its inaugural office in the area. The expansion aims to strengthen Ondo Finance&#8217;s presence and offerings in the rapidly growing market. Ondo Finance is introducing three tokenized [&#8230;]"
+    "date": "2024-01-22T16:27:09.000Z",
+    "title": "AI-Enhanced Modern Garage Doors: A Revolution in Home Security and Automation",
+    "url": "https://www.cryptopolitan.com/ai-enhanced-modern-garage-doors-a-revolution/",
+    "description": "In an era characterized by rapid technological advancements, Artificial Intelligence (AI) integration has brought about transformative changes across various aspects of our lives. Home automation is no exception to this trend, and one area that has witnessed significant improvements is garage doors.&#160; AI-powered modern garage doors have revolutionized how we interact with and secure our [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-22T15:56:04.000Z",
-    "title": "Bitcoin ETFs in US approved. What about Europe?",
-    "url": "https://crypto.news/bitcoin-etfs-in-us-approved-what-about-europe/",
-    "description": "While Americans have seen the adoption of Bitcoin (BTC) spot and futures ETFs, the situation in Europe is different. Bitcoin ETFs have been a hot topic for many months, as the approval of ETFs based on actual Bitcoin in the&#8230;"
+    "date": "2024-01-22T16:30:00.000Z",
+    "title": "Solana and XRP investors looking at Kelexo presale",
+    "url": "https://crypto.news/solana-and-xrp-investors-looking-at-kelexo-presale/",
+    "description": "Solana and XRP investors are increasingly exploring Kelexo in their KLXO presale"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-22T16:00:14.000Z",
-    "title": "Analyst Foresees Bitcoin Downtrend Until GBTC Is Liquidated",
-    "url": "https://www.newsbtc.com/news/bitcoin/analyst-foresees-bitcoin-downtrend-until-gbtc-is-liquidated/",
-    "description": "Chris J Terry, a cryptocurrency analyst and enthusiast, has revealed his insights on the price action of Bitcoin, predicting a continuous decline in the price of the crypto asset. Analyst Says Bitcoin Will Continue To Drop The crypto analyst shared his insights regarding Bitcoin with the cryptocurrency community on the social media platform X (formerly Twitter), anticipating a possible &#8220;continuation of a flat or declining trend.&#8221; Related Reading: Crypto Analyst Predicts Potential Trend For Bitcoin As Price Slips He highlighted that the downtrend will continue until Grayscale Bitcoin Trust (GBTC) is fully &#8220;liquidated.&#8221; According to him, the liquidation will be possible with a whopping $25 billion worth of selling activity over the next few weeks. Terry cites Grayscale&#8217;s choice to keep Bitcoin ETF fees at 1.5% as the cause of what he sees to be the &#8220;biggest strategic error&#8221; in cryptocurrency history. This implies that Grayscale&#8217;s action might have a long-term impact on the crypto market and may prevent wider adoption. The post read: Looks like the BTC price will continue flat/down until GBTC is liquidated, $25B of selling over the next few weeks. Grayscale decision to keep ETF fees at 1.5% will go down as the biggest strategic error in crypto history. Greedy idiots. His analysis emphasizes how investment vehicles are interconnected and how this affects the state of the cryptocurrency market as a whole. However, this has attracted disbelief from a few famous figures in the community. One of the figures who has expressed disbelief is Galaxy Digital CEO Mike Novogratz. He asserted that he &#8220;disagrees&#8221; with Chris Terry&#8217;s analysis because although Novogratz experts some selling pressure activity, he believes investors will move to other ETFs, especially supporting BTCO. Novogratz also pointed out that the Invesco Galaxy Bitcoin ETF (BTCO) is his favorite among the products. Furthermore, Novogratz highlights the significance of maintaining perspective in light of transient market conditions. He noted that the latest development will facilitate older investors&#8217; or boomers&#8217; entry into the crypto landscape. In addition, he has highlighted the potential for enhanced leverage by having 4&#215;5 exposure to Bitcoin via BTCO. He then shared an optimistic look, noting that &#8220;BTC will go higher in the next six months after this indigestion.&#8221; BTC Sees $25 Million Outflows  A recent report from Coinshares has revealed that Bitcoin witnessed an outflow of a whopping $25 million. Coinshares shared the information in its most recent weekly &#8220;Digital Asset Fund Flows.&#8221; Related Reading: Bitcoin Whale Carries Out Massive Sell-Off As BTC Price Suppression Continues It also noted a massive $11.8 billion in BTC trading volume last week. According to Coinshares, this is seven times more than the average weekly trading activity recorded in 2023. There were notable withdrawals from digital asset investment products last week, totaling about $24.7 million. Notably, this spike in trading activity indicates that ETFs account for 63% of all Bitcoin volumes on reliable exchanges. As of the time of writing, Bitcoin was trading at $40,827, indicating a decline of 2.16% in the past day. Despite the price drop, its trading volume is currently up by over 81% in the last 24 hours. Featured image from iStock, chart from Tradingview.com"
+    "source": "BTCManager",
+    "date": "2024-01-22T16:21:05.000Z",
+    "title": "Crypto usage grew 34% in 2023; Bitcoin, Ethereum major catalysts",
+    "url": "https://crypto.news/crypto-usage-grew-34-in-2023-bitcoin-ethereum-major-catalysts/",
+    "description": "Defi activity on Bitcoin and Ethereum’s technological upgrade after the merge propelled global crypto usage above 500 million, a Crypto.com report said. "
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-22T16:27:00.000Z",
+    "title": "LUNA Loses Classic Shine: -7% Plunge Follows Terraform’s Chapter 11 Filing",
+    "url": "https://coinedition.com/luna-plummets-7-on-terraform-labs-chapter-11-filing/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"LUNA Loses Classic Shine: -7% Plunge Follows Terraform&#039;s Chapter 11 Filing\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/We-will-burn-MILLIONS-of-LUNC-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Terra (LUNA) faces a 7% price drop as Terraform Labs files for Chapter 11 bankruptcy, raising investor concerns. Despite the price decline, LUNA sees increased trading volume, hinting at potential rebound opportunities. Technical indicators like RSI and CMF suggest a possible price reversal for LUNAUSD, attracting bullish sentiment. The Terra (LUNA) price has plummeted by [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/luna-plummets-7-on-terraform-labs-chapter-11-filing/\">LUNA Loses Classic Shine: -7% Plunge Follows Terraform&#8217;s Chapter 11 Filing</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

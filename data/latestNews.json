@@ -1,93 +1,72 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-01-23T17:39:58.000Z",
-    "title": "Animoca Brands' Gamee Token Plunges 60% After Exploit",
-    "url": "https://decrypt.co/213929/animoca-brands-gmee-token-plunges-60-percent-after-exploit",
-    "description": "Social gaming platform Gamee saw 600 million of its tokens liquidated overnight, plunging GMEE’s price. Here's what we know so far."
+    "source": "Crypto Briefing",
+    "date": "2024-01-23T18:35:02.000Z",
+    "title": "Concentric’s $1.8M exploiter is tied to OKX and LunaFi incidents, CertiK reports",
+    "url": "https://cryptobriefing.com/concentric-exploiter-tied-okx-lunafi-incidents-certik/?utm_source=feed&utm_medium=rss",
+    "description": "On-chain data shows that the exploiters wallets were funded by addresses connected to three notorious security incidents."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-23T17:54:48.000Z",
-    "title": "Polygon (MATIC) and Polkadot's (DOT) Alarming Slump: Is There Hope for Recovery?",
-    "url": "https://cryptodaily.co.uk/2024/01/polygon-matic-and-polkadots-dot-alarming-slump-is-there-hope-for-recovery",
-    "description": "Uncover the latest market trends and analysis for Polkadot (DOT) and Polygon (MATIC) in our comprehensive review. Find out how Polkadot's new partnerships and Polygon's POL token launch are influencing their market positions. Get ahead with our detailed forecasts and expert insights, crucial for informed investment decisions in the dynamic crypto landscape."
+    "source": "Crypto Briefing",
+    "date": "2024-01-23T18:30:41.000Z",
+    "title": "Registration opens for GDC 2024: The game industry event like nothing else",
+    "url": "https://cryptobriefing.com/registration-opens-gdc-2024-game-industry-event/?utm_source=feed&utm_medium=rss",
+    "description": "Registration is open for the 2024 Game Developers Conference, returning to San Francisco for a week of learning, networking, and fun."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-23T17:40:06.000Z",
-    "title": "TRON (TRX) And Dogecoin (DOGE) Witness Price Fluctuations as Meme Moguls (MGLS) Exhibits Its Profit Potential",
-    "url": "https://cryptodaily.co.uk/2024/01/tron-trx-and-dogecoin-doge-witness-price-fluctuations-as-meme-moguls-mgls-exhibits-its-profit-potential",
-    "description": "The future of top crypto coins like TRON and Dogecoin is uncertain due to recent fluctuations in the industry reshaping its course"
+    "source": "Bitcoin.com",
+    "date": "2024-01-23T18:30:02.000Z",
+    "title": "Critical Bug in Ethereum’s Nethermind Client Highlights Risks of Low Client Diversity",
+    "url": "https://news.bitcoin.com/critical-bug-in-ethereums-nethermind-client-highlights-risks-of-low-client-diversity/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Critical Flaw in Ethereum&#039;s Nethermind Client Spotlights the Dangers of Limited Client Diversity\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/nethermind_bug.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />A severe bug in the Nethermind Ethereum execution client has recently been uncovered, affecting 8% of Ethereum&#8217;s validators and reminding everyone of the necessity for greater client diversity in the Ethereum network. Critical Flaw in Ethereum&#8217;s Nethermind Client Spotlights the Dangers of Limited Client Diversity A critical bug was identified in the Ethereum&#8217;s Nethermind execution [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T18:08:13.000Z",
-    "title": "WHO Emphasizes Risks and Rewards of AI in Healthcare",
-    "url": "https://www.cryptopolitan.com/risks-and-rewards-of-ai-in-healthcare/",
-    "description": "Healthcare providers worldwide need to be cautious about adopting Artificial Intelligence (AI) technologies, particularly in low- and middle-income countries, warns the World Health Organization (WHO).&#160; While Large Multi-Modal Models (LMMs), a subset of generative AI, have the potential to revolutionize healthcare, the WHO underlines the need for awareness and responsible implementation.&#160; AI in healthcare: A [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-01-23T18:39:03.000Z",
+    "title": "BINANCE COIN PRICE ANALYSIS & PREDICTION (January 23) – BNB Faints Buying After Steady Build-Up, Now Charging For A Big Drop",
+    "url": "https://nulltx.com/binance-coin-price-analysis-prediction-january-23-bnb-faints-buying-after-steady-build-up-now-charging-for-a-big-drop/",
+    "description": "BNB lost buzz yesterday after witnessing a consistent increase for more than a week. However, there&#8217;s still hope for the bulls in the mid-term but it appears the bears are now back considering the last down surge. The recent build-up for bullish continuation turned out invalid with a bearish engulfing [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T18:01:57.000Z",
-    "title": "New malware targeting Mac users’ cryptocurrency wallets: Kaspersky issues warning",
-    "url": "https://www.cryptopolitan.com/new-malware-targeting-mac-users/",
-    "description": "Security experts at Kaspersky have recently identified a dangerous malware threat lurking within the Apple Mac ecosystem. This malicious software, concealed within pirated applications, poses a significant risk to Mac users, especially those engaged in cryptocurrency transactions. Kaspersky&#8217;s research reveals that this malware not only steals cryptocurrency wallets but also replaces the victim&#8217;s legitimate wallet [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-01-23T18:31:34.000Z",
+    "title": "AVALANCHE PRICE ANALYSIS & PREDICTION (January 23) – Avax’s Correction May End At $16 If This Key Level Breaks Down",
+    "url": "https://nulltx.com/avalanche-price-analysis-prediction-january-23-avaxs-correction-may-end-at-16-if-this-key-level-breaks-down/",
+    "description": "The latest crackdown has sent most altcoins to a new monthly low with Avax shedding over 12% loss since yesterday. It is in a serious red zone with no attempt to recover at the moment. Avax has witnessed a back-to-back decline in the last 48 hours with no key level [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T18:00:07.000Z",
-    "title": "Leveraging AI as Your Accountability Coach to Achieve Your Goals",
-    "url": "https://www.cryptopolitan.com/leveraging-ai-as-your-accountability-coach/",
-    "description": "In today&#8217;s fast-paced world, many individuals struggle to maintain accountability in their personal and professional lives. Whether achieving business goals or personal aspirations, procrastination, lack of clarity, and self-doubt can hinder progress.&#160; However, there is a powerful ally that remains largely underutilized &#8211; Artificial Intelligence (AI). In the quest for accountability, one of the first [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T17:54:15.000Z",
-    "title": "Google Introduces ‘Draft Email with Voice’ Feature in Gmail for Android Users",
-    "url": "https://www.cryptopolitan.com/google-draft-email-with-voice-feature/",
-    "description": "Google has unveiled a new AI voice feature known as &#8216;Draft Email with Voice&#8217; for Android users to simplify email composition for its Gmail application. This innovative tool, currently available only in Google&#8217;s invite-only Workspace Labs program, aims to streamline the process of drafting emails by allowing users to submit prompts using their voice rather [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T17:52:26.000Z",
-    "title": "Coinbase stock stumbles over Bitcoin ETF woes",
-    "url": "https://www.cryptopolitan.com/coinbase-stock-stumbles-bitcoin-etf-woes/",
-    "description": "Coinbase, the celebrated crypto exchange, is finding itself in rough waters. The once sky-high stock is now grappling with the unforeseen repercussions of the Bitcoin ETF revolution. JPMorgan&#8217;s recent downgrade of Coinbase to &#8216;underweight&#8217; from &#8216;neutral&#8217; with a steadfast price target of $80, highlights the emerging challenges. Despite a staggering 390% surge last year, Coinbase&#8217;s [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T17:42:59.000Z",
-    "title": "Examining Wall Street’s true impact on Bitcoin",
-    "url": "https://www.cryptopolitan.com/wall-streets-true-impact-on-bitcoin/",
-    "description": "Celebrating its 15th anniversary, Bitcoin made a grand entrance onto Wall Street, a move that could signal a new era in its journey. The adolescent cryptocurrency, once a subject of skepticism, now finds itself in the midst of Wall Street&#8217;s complex financial ecosystem. With 11 new U.S. exchange-traded funds (ETFs) tracking its spot price, Bitcoin [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-01-23T18:24:39.000Z",
+    "title": "RIPPLE PRICE ANALYSIS & PREDICTION (January 23) – XRP Resets Back To Three-Month Low Amid Meltdown, Can It Bounce Back? ",
+    "url": "https://nulltx.com/ripple-price-analysis-prediction-january-23-xrp-resets-back-to-three-month-low-amid-meltdown-can-it-bounce-back/",
+    "description": "Ripple&#8217;s XRP has extended bearishness today, registering a total loss of 18% in a month. It is trading near support with no signs of stopping yet. More sell-offs should be expected if the price continues to melt down.  After cracking below a crucial demand zone over the weekend, XRP further [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-23T17:59:34.000Z",
-    "title": "Religious leaders face fraud charges over crypto scheme",
-    "url": "https://crypto.news/religious-leaders-face-fraud-charges-over-crypto-scheme/",
-    "description": "The Colorado Attorney General’s Office has filed a lawsuit against the founders of cryptocurrency INDXCoin, alleging they fraudulently used congregation investments for personal gain."
+    "date": "2024-01-23T18:24:06.000Z",
+    "title": "Abra set to enable customer withdrawals after settling with Texas authorities",
+    "url": "https://crypto.news/abra-set-to-enable-customer-withdrawals-after-settling-with-texas-authorities/",
+    "description": "Cryptocurrency platform Abra has reached a settlement with Texas securities regulators, enabling users to withdraw their funds and ensuring compliance with existing securities laws."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-23T18:10:39.000Z",
+    "title": "ORDI down 14% after Bitcoin plunged under $40k",
+    "url": "https://crypto.news/ordi-down-14-after-bitcoin-plunged-under-40k/",
+    "description": "Inspired by Casey Rodarmor’s Ordinals Protocol, the ORDI token dropped by over 14% on Jan. 23 to a new monthly low as Bitcoin backtracked to $39,000."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-23T18:15:02.000Z",
+    "title": "Crypto Analyst Reveals Top Altcoins To Buy Amid Market Slump",
+    "url": "https://www.newsbtc.com/news/crypto-analyst-top-altcoins-amid-market-slump/",
+    "description": "In a new video update, renowned crypto analyst Michael van der Poppe dissected the current dynamics of the crypto market, emphasizing the potential of select altcoins. VVan der Poppe&#8217;s analysis provides a strategic viewpoint for potential investors, focusing on the intricate relationship between Bitcoin&#8217;s (BTC) price movements and the broader altcoin market. Van der Poppe started by acknowledging the mixed performances among altcoins, with some consolidating, others correcting, and a few showing remarkable strength. The crux of his analysis hinges on the intricate relationship between Bitcoin&#8217;s market behavior and the resultant impact on altcoins. He highlighted the current consolidation phase of Bitcoin, noting, &#8220;Bitcoin is currently looking at a case of consolidating which means that if Bitcoin is bottoming out&#8230; that can be the kickstart of altcoins to start firing up.&#8221; Related Reading: Pastor Accused Of Defrauding Congregation With $3 Million Crypto Ponzi Scheme Furthermore, the crypto analyst delved deep into market capitalization metrics, particularly emphasizing the Total 2 market cap (excluding Bitcoin) and Total 3 market cap (excluding Bitcoin and Ethereum), to underscore the latent potential in altcoins. He pointed out, &#8220;We are at the levels of March 2022&#8230; the total market cap lagging says that we are looking at a case of other cryptocurrencies to start trending outside of Bitcoin.&#8221; Top 3 Altcoins To Buy Now The first altcoins which van der Poppe picked is Ethereum. He linked ETH’s price movements with broader market events, including the Bitcoin halving and potential regulatory approvals and suggested, &#8220;Ether is always going to pick up in a pace that is due to a period of consolidation of Bitcoin.&#8221; He added with regards to the final SEC deadline for an spot Ethereum ETF approval in the US, &#8220;the actual date that we need to focus on is May, which probably is going to lead into such a momentum towards these highs.&#8221; With regard to a possible price target in this bull run, the analyst revealed: &#8220;I think that at this point ETH is still going to continue running towards the area of 8K and we&#8217;re going to find ourselves into a top at that specific level.&#8221; Related Reading: XRP Could Hit $0.39 Before Soaring 1000%: Crypto Analyst With respect to the 1-week ETH/BTC chart, van der Poppe remarked, “We&#8217;re seeing one crucial level that we need to break through 0.06. If we do, I think the range high at 0.0838 is going to be the target. As a matter of fact you can actually say $130 billion needs to be added towards Ethereum. It&#8217;s a rally of approximately 43%. Van der Poppe&#8217;s second pick is Chainlink. Highlighting LINK&#8217;s technical patterns and its correlation position against BTC in the weekly chart, Van der Poppe highlighted that LINK hit resistance at 0.000448, dropped back down towards 0.0002843 and is now consolidating. Once this is finished, he expects Chainlink “to rally towards the resistance and start breaking out of this level towards the highs at 0.0009 to 0.0010.&#8221; He added, &#8220;In terms of BTC value, it&#8217;s very likely that it&#8217;s going to do a 2x,&#8221; emphasizing the potential for significant growth. In USDT terms, this would mean that LINK goes to $17 to $18. “From $17 to $18, you need to do 2X, which is this range high, which is this level, which we can expect Chainlink to go to before we have a pretty substantial correction in the entire market,” he added. The analyst&#8217;s third altcoin is Arbitrum. Focusing on ARB’s recent price actions and potential for a significant rally, Van der Poppe identified key entry points, stating, &#8220;Anywhere in this ballpark between $1.67 and $1.50 is where you want to get yourself into an entry point.&#8221; He underlined the potential growth, saying, &#8220;If there&#8217;s going to be another impulse taking place, it is going to $3.50 or $5.&#8221; At press time, the total crypto market cap stood at $1.473 trillion after being rejected at the 0.382 Fibonacci retracement level. Featured image from iStock, chart from TradingView.com"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-23T17:46:00.000Z",
-    "title": "Cardano Becomes Top Dog in Crypto Development Race, Polkadot and Kusama Follow",
-    "url": "https://coinedition.com/cardano-becomes-top-dog-in-crypto-development-race-polkadot-and-kusama-follow/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano Becomes Top Dog in Crypto Development Race, Polkadot and Kusama Follow\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/DOT-ADA-Surging-Development-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the last 30 days, Cardano (ADA) triumphed over Polkadot (DOT), and its sister-project Kusama (KSM) to become the blockchain with the highest development activity.&#160; Development activity on a blockchain refers to the public GitHub repositories linked to a project. When the metric increases, it means a project has shipped out more features on its [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-becomes-top-dog-in-crypto-development-race-polkadot-and-kusama-follow/\">Cardano Becomes Top Dog in Crypto Development Race, Polkadot and Kusama Follow</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-23T18:01:29.000Z",
-    "title": "Trust Wallet Launches ETH Pooled Staking Service",
-    "url": "https://dailyhodl.com/2024/01/23/trust-wallet-launches-eth-pooled-staking-service/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/01/UPSCALED-Trust-Wallet-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 23, 2024 – Dubai, United Arab Emirates Trust Wallet, a leading cryptocurrency gateway, announces the launch of ETH pooled staking. This feature aims to expand the Ethereum staking experience, offering greater access, potential for rewards and security for Trust Wallet users. ETH pooled staking, offered through Trust Wallet and powered by Kiln, addresses some [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/23/trust-wallet-launches-eth-pooled-staking-service/\">Trust Wallet Launches ETH Pooled Staking Service</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-23T17:55:14.000Z",
-    "title": "Crypto Company Terraform Labs Files for Chapter 11 Bankruptcy Protection",
-    "url": "https://dailyhodl.com/2024/01/23/crypto-company-terraform-labs-files-for-chapter-11-bankruptcy-protection/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/terraform-labs-files-protection.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Collapsed crypto company Terraform Labs has filed for Chapter 11 bankruptcy in the United States. The firm submitted a voluntary petition to the U.S. Bankruptcy Court for the District of Delaware. The document, which was filed on Sunday, indicates Terraform Labs has between 100-199 creditors, owns between $100,000,001-$500 million in estimated assets, and owes between [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/23/crypto-company-terraform-labs-files-for-chapter-11-bankruptcy-protection/\">Crypto Company Terraform Labs Files for Chapter 11 Bankruptcy Protection</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-23T18:15:00.000Z",
+    "title": "Red Alert for Mac Crypto Users: Security Firm Sounds Alarm",
+    "url": "https://coinedition.com/red-alert-for-mac-crypto-users-security-firm-sounds-alarm/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Alibaba Cloud Launch Blockchain Lab\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Alibaba-Cloud-Launch-Blockchain-Lab-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent discovery, cybersecurity researchers at Kaspersky have identified a new strain of macOS malware specifically designed to target crypto stored in digital wallets on Apple devices.&#160; According to Kaspersky, this crypto trojan stands out for two distinct reasons. Firstly, it employs DNS records as a means to deliver its malicious Python script. Secondly, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/red-alert-for-mac-crypto-users-security-firm-sounds-alarm/\">Red Alert for Mac Crypto Users: Security Firm Sounds Alarm</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

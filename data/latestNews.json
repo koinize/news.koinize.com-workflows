@@ -1,86 +1,58 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-01-23T19:14:24.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">Coinbase (COIN) stock could see significant downside this year, according to analysts at JPMorgan. Meanwhile, blockchain research platform Arkham Intelligence reportedly identified the on-chain Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) addresses of several U.S. spot BTC exchange-traded funds (ETF), and U.S. lawmakers are pressing Mark Zuckerberg’s Meta about whether it plans to use any of its five blockchain and crypto-related trademark filings. </p><p>JPMorgan has <a href=\"https://cointelegraph.com/news/jpmorgan-downgrades-coinbase-stock-underweight\">downgraded the stock</a> of crypto exchange Coinbase, citing Bitcoin’s dismal price action since the approval of nine spot exchange-traded funds.</p><p>In a note to investors, the bank’s analysts said Coinbase’s stock has limited upside and downgraded it to “neutral.” JPmorgan maintained its year-end price target of $80 for COIN. It’s currently trading around $124, suggesting downside potential of more than 35%.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-23T19:40:37.000Z",
+    "title": " Bitcoin traders target $30K–$34K price zone due to bearish BTC chart patterns ",
+    "url": "https://cointelegraph.com/news/bitcoin-traders-target-30k-34k-price-zone-due-to-bearish-btc-chart-patterns",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZmMzM2YwYmYtMGFiMy00Y2NkLThkM2YtNzVmYWUzY2FlZjZjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin traders flip their bias and cast downside BTC price targets in the low $30,000 zone.</p>\n                    <p><p>The total crypto market capitalization dropped on Jan. 23 with the global market value falling from $1.6 trillion to $1.5 trillion, representing a 5.5% day-on-day decline.</p><p>While trading volumes rose by 55%, it is largely due to the sell-off in the market.</p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) price <a href=\"https://cointelegraph.com/news/bitcoin-price-falls-to-6-week-low-under-40k-what-s-next-for-btc\">fell below $40,000 </a>to trade at $38,521 on Jan. 23. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-traders-target-30k-34k-price-zone-due-to-bearish-btc-chart-patterns\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-23T19:30:26.000Z",
-    "title": "Iris Energy Boosts Bitcoin Mining Capacity to 6 EH/s, Eyes 20 EH/s Milestone by H2 2024 ",
-    "url": "https://news.bitcoin.com/iris-energy-boosts-bitcoin-mining-capacity-to-6-eh-s-eyes-20-eh-s-milestone-by-h2-2024/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Iris Energy Boosts Bitcoin Mining Capacity to 6 EH/s, Eyes 20 EH/s Milestone by H2 2024 \" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/irensdd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />According to an announcement from the publicly-listed bitcoin miner Iris Energy, the mining operation has increased its operating capacity to 6 exahash per second (EH/s) and expects an additional 4 EH/s to be online by the first half of 2024. Iris Boosts Mining Capacity to 6 EH/s Amidst IREN Share Dip ​​The announcement on Tuesday [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2024-01-23T20:00:09.000Z",
+    "title": "Ethereum validators’ reliance on Geth sparks client diversity push by Coinbase",
+    "url": "https://cryptoslate.com/ethereum-validators-reliance-on-geth-sparks-client-diversity-push-by-coinbase/",
+    "description": "<p>Coinbase, a leading cryptocurrency exchange, announced plans to diversify its execution clients amidst concerns over the dominance of go-Ethereum (Geth). In a Jan. 23 statement on the social media platform X (formerly Twitter), Coinbase Cloud disclosed ongoing evaluations to identify alternative qualified execution clients for its platform while acknowledging the growth being made in the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereum-validators-reliance-on-geth-sparks-client-diversity-push-by-coinbase/\">Ethereum validators&#8217; reliance on Geth sparks client diversity push by Coinbase</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T19:25:00.000Z",
-    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
-    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
-    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-23T19:24:30.000Z",
-    "title": "Swiss regulator FINMA approves Taurus for retail offering of tokenized securities",
-    "url": "https://www.cryptopolitan.com/finma-approves-taurus-tokenized-securities/",
-    "description": "Swiss cryptocurrency custody and trading firm Taurus has received approval from the Swiss financial regulator FINMA to offer blockchain-based shares in unlisted companies to retail investors. This move aims to bring tokenized securities to a broader audience and democratize access to digital assets. Taurus&#8217; TDX marketplace: Enabling wider participation Taurus, with the backing of Deutsche [&#8230;]"
+    "source": "CryptoGlobe",
+    "date": "2024-01-23T20:04:00.000Z",
+    "title": "Uncertainty Looms: Will a Trump Election Benefit the Crypto Industry?",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/uncertainty-looms-will-a-trump-election-benefit-the-crypto-industry/",
+    "description": "Former U.S. President and current presidential candidate Donald Trump has last week said he wouldn’t allow the Federal Reserve to create a central bank digital currency (CBDC), in a stance that reonates with the cryptocurrency industry, and drew skepticism on whether his potential return to the presidency would change the government’s approach to enforcement actions. […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-23T19:24:01.000Z",
-    "title": "Scammers target investors with coordinated phishing emails",
-    "url": "https://www.cryptopolitan.com/scammers-investors-cordinate-phishing-emails/",
-    "description": "In a recent cybersecurity incident, scammers targeted major Web3 companies, including Cointelegraph, WalletConnect, and Token Terminal, in a hacking and phishing attack. The attackers allegedly exploited vulnerabilities in the email service provider MailerLite, leading to the theft of over $580,000 from unsuspecting victims. Investors lose $580,000 to scammers in phishing attacks Cryptocurrency investigator ZachXBT highlighted [&#8230;]"
+    "date": "2024-01-23T20:00:16.000Z",
+    "title": "Decentralized music marketplace TRAX secures $2.9 million in funding via Internet Computer blockchain",
+    "url": "https://www.cryptopolitan.com/trax-secures-2-9-million-internet-computer/",
+    "description": "In a significant development for the blockchain and music industries, London-based startup TRAX announced on January 16 that it had a successful funding round, raising 314,000 $ICP (approximately $2.9 million) through Dfinity’s Internet Computer blockchain.  TRAX&#8217;s innovative approach combines the features of a content aggregator and a social marketplace, primarily targeting music artists and their [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-23T19:12:15.000Z",
-    "title": "GAMEE platform suffers a heavy hack attack",
-    "url": "https://www.cryptopolitan.com/gamee-platform-suffers-a-heavy-hack-attack/",
-    "description": "Gamee, a blockchain gaming project supported by Animoca Brands, recently faced a security breach on its Gamee token (GMEE) contracts hosted on the Polygon network. The unauthorized access occurred on a Tuesday, resulting in the theft of a substantial 600 million tokens around 6:31 p.m. UTC. Gamee disclosed the incident in a detailed post, outlining [&#8230;]"
+    "date": "2024-01-23T20:00:00.000Z",
+    "title": "Emerging Cryptocurrency Below $0.01 with Potential to Rival Solana (SOL) and Polygon (MATIC)",
+    "url": "https://www.cryptopolitan.com/emerging-cryptocurrency-below-0-01-with-potential-to-rival-solana-sol-and-polygon-matic/",
+    "description": "In the world of cryptocurrencies, assets starting with low values can surge unexpectedly, potentially becoming significant players in the market. Thus, keeping a close eye on these low-priced digital currencies is essential, as they may rise to prominence without warning. Our team of financial experts has thoroughly examined a variety of cryptocurrencies valued under $0.01. [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-23T19:37:41.000Z",
-    "title": "Sen. Lummis: Crypto not the problem, bad actors are",
-    "url": "https://crypto.news/sen-lummis-crypto-not-the-problem-bad-actors-are/",
-    "description": "Discord regarding Bitcoin and cryptocurrencies persists between U.S. lawmakers after a year of growth for global adoption and the coming of spot BTC ETFs."
+    "source": "Coin Edition",
+    "date": "2024-01-23T19:45:00.000Z",
+    "title": "Crypto Developers Count Fall; Experienced Developers Hit ATH: Report",
+    "url": "https://coinedition.com/crypto-developers-count-fall-experienced-developers-hit-ath-report/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Crypto Developers’ Number Continue to Fall Since 2022: Report\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Developer-Report-Live-Data-Announcement-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cryptocurrency venture firm Electric Capital’s recently published 2023 Developer Report showed the number of developers in the cryptocurrency ecosystem has declined, but long-term commitment has grown.&#160; The report, which tracks developers&#8217; activity in crypto ecosystems, revealed that the total number of developers is down by 24%. However, the number of developers with over two years [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/crypto-developers-count-fall-experienced-developers-hit-ath-report/\">Crypto Developers Count Fall; Experienced Developers Hit ATH: Report</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-23T19:23:19.000Z",
-    "title": "Polymer Labs raises $23m for blockchain interoperability network",
-    "url": "https://crypto.news/polymer-labs-raises-23m-for-blockchain-interoperability-network/",
-    "description": "Today, Polymer Labs secured $23 million in funding for its Series A round to help develop a modular layer 2 network. "
+    "source": "The Daily Hodl",
+    "date": "2024-01-23T19:45:05.000Z",
+    "title": "US Government Charges German National for Allegedly Running $150,000,000 Crypto Scam",
+    "url": "https://dailyhodl.com/2024/01/23/us-government-charges-german-national-for-allegedly-running-150000000-crypto-scam/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/charges-german-running-scam.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>US authorities are charging a German businessman for allegedly operating a crypto pyramid scheme that defrauded about $150 million from investors. In a new press release, the U.S. Attorney&#8217;s Office for the Eastern District of New York is accusing Horst Jicha of securities fraud and conspiracies to commit securities fraud, wire fraud and money laundering [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/23/us-government-charges-german-national-for-allegedly-running-150000000-crypto-scam/\">US Government Charges German National for Allegedly Running $150,000,000 Crypto Scam</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-23T19:11:43.000Z",
-    "title": "Coinbase faces headwinds as Bitcoin and ETF interest dips, says JPMorgan",
-    "url": "https://crypto.news/coinbase-faces-headwinds-as-bitcoin-and-etf-interest-dips-says-jpmorgan/",
-    "description": "Coinbase may face challenges due to decreasing Bitcoin values and declining interest in Bitcoin ETFs, as per insights from JPMorgan Chase &#038; Co."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-23T19:34:35.000Z",
-    "title": "Polygon’s DePIN Revolution: From Mobile Networks to Edge Computing",
-    "url": "https://www.crypto-news-flash.com/polygons-depin-revolution-from-mobile-networks-to-edge-computing/?utm_source=rss&utm_medium=rss&utm_campaign=polygons-depin-revolution-from-mobile-networks-to-edge-computing",
-    "description": "<img width=\"1200\" height=\"697\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon DePin projects\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network-.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network--300x174.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network--768x446.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network--150x87.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/polygon-network--450x261.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />DePIN projects on Polygon use blockchain to revolutionize internet infrastructure, from connected cars to GPS accuracy. XNET, a blockchain-powered mobile network, aims to bridge the digital divide with a revenue-sharing model. According to a tweet by Polygon, Decentralized Physical Infrastructure Networks (DePIN) driven by blockchain incentives are set to completely transform how we access and [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-23T19:21:08.000Z",
-    "title": "Innovative Competitor to Tether (USDT) and Circle’s USDC Stablecoin: Figure Technologies Seeks SEC Approval for Groundbreaking Interest-Bearing Stablecoin",
-    "url": "https://www.crypto-news-flash.com/innovative-competitor-to-tether-usdt-and-circles-usdc-stablecoin-figure-technologies-seeks-sec-approval-for-groundbreaking-interest-bearing-stablecoin/?utm_source=rss&utm_medium=rss&utm_campaign=innovative-competitor-to-tether-usdt-and-circles-usdc-stablecoin-figure-technologies-seeks-sec-approval-for-groundbreaking-interest-bearing-stablecoin",
-    "description": "<img width=\"1798\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Tether-USDT-logo-on-motherboard\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard.jpg 1798w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-1536x1025.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Tether-USDT-logo-on-motherboard-1200x801.jpg 1200w\" sizes=\"(max-width: 1798px) 100vw, 1798px\" />Figure Technologies aims to become the first to introduce an interest-bearing stablecoin in the US. Figure Markets, the digital asset arm of Figure, also plans to secure $50 million in funding for its operations, signaling the company&#8217;s strategic focus on advancing digital asset initiatives. Figure Technologies Inc., a blockchain and lending startup is actively seeking [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-23T19:14:58.000Z",
-    "title": "Avalanche Foundation Defines 2024 Memecoins Investment Strategy",
-    "url": "https://www.crypto-news-flash.com/avalanche-foundation-defines-2024-memecoins-investment-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-foundation-defines-2024-memecoins-investment-strategy",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Avalanche-AVAX-logo-background-trading-chart\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-logo-background-trading-chart-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Avalanche Foundation sets rigorous criteria for investment in memecoins, prioritizing security and fair distribution on the Avalanche blockchain. With clear quantitative thresholds, Avalanche aims for a balanced memecoins market and a responsible investment approach. The Avalanche Foundation, known for powering the Avalanche blockchain, has marked a before and after in the crypto industry by announcing [...]"
+    "source": "The Daily Hodl",
+    "date": "2024-01-23T19:41:21.000Z",
+    "title": "Tornado Cash Developer Asks for Support Ahead of Trial That Could Set ‘Major Precedent’ for Crypto",
+    "url": "https://dailyhodl.com/2024/01/23/tornado-cash-developer-asks-for-support-ahead-of-trial-that-could-set-major-precedent-for-crypto/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/10/assets-control-tank-tornado.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>One of the founders of sanctioned crypto mixer Tornado Cash (TORN) is asking for financial help ahead of his criminal trial in the United States. Roman Storm was arrested last year and charged by the U.S. Department of Justice (DOJ) for allegedly laundering $1 billion in criminal proceeds. In a new video posted on the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/23/tornado-cash-developer-asks-for-support-ahead-of-trial-that-could-set-major-precedent-for-crypto/\">Tornado Cash Developer Asks for Support Ahead of Trial That Could Set ‘Major Precedent’ for Crypto</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,79 +1,142 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-24T14:00:00.000Z",
+    "title": "Crypto Custodian BitGo Receives Investment From Iconic Cash Handling Firm Brink’s",
+    "url": "https://www.coindesk.com/business/2024/01/24/crypto-custodian-bitgo-receives-investment-from-iconic-cash-handling-firm-brinks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Brink’s says it’s excited to continue its growth in the evolving digital asset industry with the BitGo investment."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-01-24T13:27:49.000Z",
-    "title": "SEC's Hester Peirce: Bitcoin ETF 'Lesson Will Certainly Stick'",
-    "url": "https://decrypt.co/214039/secs-hester-peirce-bitcoin-etf-lesson-will-certainly-stick",
-    "description": "The SEC Commissioner doubled down on remarks criticizing the regulator's handling of spot Bitcoin ETF approvals, in a recent interview."
+    "date": "2024-01-24T14:01:02.000Z",
+    "title": "How Coinbase Earn Makes Staking Simple—and Secure",
+    "url": "https://decrypt.co/211808/how-coinbase-earn-makes-staking-simple-and-secure",
+    "description": "Coinbase's staking program aims to be a “one-stop shop” for crypto staking, the firm's staking product lead told Decrypt."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-24T13:10:00.000Z",
-    "title": " How to fight fake news with blockchain tech, according to Factland DAO ",
-    "url": "https://cointelegraph.com/news/how-to-fight-fake-news-blockchain-tech-factland-dao",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzI4ZDg1M2MtZmJjOC00YTRjLWJlOWMtMjBkMzVkMmVkYjdiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Factland DAO co-founder Evan Hansen tells The Agenda podcast that decentralization can help cut through media bias when fact-checking information.</p>\n                    <p><p>What is the “truth,” and what is a “fact”? While the question may seem silly and the answer obvious, the fact of the matter (pun intended) is that what is considered accurate or truthful can vary wildly from person to person. Much of the world lives in increasingly divided and fragmented societies where two people may not agree on much of anything at all, including what is fake news and what is real news. Add social media to the mix, and the idea of there being any one universal source of truth becomes even less believable.</p><p>Historically, fact-checkers have been seen as unbiased mediators to get to the bottom of what is fact and what is fiction. Websites like Snopes attempt to break down the truth behind current events, and newsrooms employ staff whose job is to ensure their stories are straight. But even fact-checkers themselves — and the organizations they work for — hold biases that may influence their process or help determine which issues they investigate and which they decide to leave alone.</p><p>On Episode 28 of <em>The Agenda </em>podcast, hosts Jonathan DeYoung and Ray Salmond spoke with Evan Hansen, co-founder and CEO of Factland DAO, about how blockchain technology can be an unsuspecting force multiplier and equalizer for the fact-checking process. Hansen is a media veteran who took his frustrations with the state of misinformation and turned to Web3 to launch the decentralized autonomous organization.</p><p><a href=\"https://cointelegraph.com/news/how-to-fight-fake-news-blockchain-tech-factland-dao\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-24T14:02:46.000Z",
+    "title": " Royalty-embedded blockchains can help NFT artists get paid: Here’s how ",
+    "url": "https://cointelegraph.com/news/nft-creator-royalty-payment-blockchain-web3",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMmIwM2JiYmMtNjI1NS00YjRhLTk1MmEtNGE4NGJkMGQ1NzY1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Rari Foundation’s Jana Bertram said that blockchain-embedded royalties would help creators thrive in Web3 in the long run. </p>\n                    <p><p>Blockchains with royalties embedded within their code can guarantee that creator royalties will be respected, according to professionals working in Web3. </p><p>Nonfungible token (NFT) creators losing out on royalties was one of the most important issues that the space <a href=\"https://cointelegraph.com/news/nft-recap-2023-bitcoin-ordinals-unite\">faced in 2023</a>. As marketplaces experimented with the optional royalties model last year, creators <a href=\"https://cointelegraph.com/news/web3-creators-at-higher-a-loss-for-royalties-than-anticipated-data\">lost out on millions of dollars</a> that they could have earned for their NFT collections. On July 16, royalties on Ethereum-based NFTs <a href=\"https://cointelegraph.com/news/ethereum-nft-royalties-hit-two-year-low-as-bored-ape-floor-price-falls-below-30-eth\">hit a 2-year low</a>, according to data provided by blockchain analytics firm Nansen. </p><p>While some platforms continue to hop on the optional royalty trend, others are going the other way, implementing built-in royalty enforcement tools within their blockchains. In June 2023, NFT-focused blockchain platform Enjin <a href=\"https://cointelegraph.com/news/200-million-nfts-migration-ethereum-enjin-blockchain\">released a blockchain mainnet</a> with royalty enforcement embedded in the blockchain’s foundational code. </p><p><a href=\"https://cointelegraph.com/news/nft-creator-royalty-payment-blockchain-web3\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-24T14:01:00.000Z",
+    "title": " Crypto is rife with impersonation scams, don’t let them steal your money ",
+    "url": "https://cointelegraph.com/news/crypto-impersonation-scams-steal-money",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvY2FjMGZmOGEtMjcxYy00ZjU4LWFiNGItNmI5ZjQwNmViMGU3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Scammers often impersonate well-known people or entities in the cryptocurrency industry to fool unsuspecting investors. </p>\n                    <p><p data-ct-non-breakable=\"true\">Impersonation scams and phishing emails plague the cryptocurrency industry at almost every level. </p><p>The latest is a Tuesday, Jan. 23 attack <a href=\"https://cointelegraph.com/news/how-it-all-went-down-web3-protocol-mass-phishing-campaign-timeline\">targeting the mailing lists</a> of Wallet Connect, Token Terminal, Cointelegraph and other prominent crypto-related firms via their email provider, MailerLite.</p><p>According to research conducted by crypto sleuth ZachXBT, the perpetrators of the crime enriched themselves to the tune of $580,000 in just a few short hours.</p><p><a href=\"https://cointelegraph.com/news/crypto-impersonation-scams-steal-money\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-24T14:00:00.000Z",
+    "title": " North Korean hackers stole less in 2023 despite more breaches — Chainalysis ",
+    "url": "https://cointelegraph.com/news/north-korea-dprk-hackers-2023-stolen-crypto-report-chainalysis",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOGJjNzIzZmEtNTVmZC00OTdjLTlhNmQtNDQ2MTFiODc4ZTg1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Chainalysis executive Erin Plante said that the attack vectors used by North Korean hackers in 2023 were “age-old” tactics that could have been prevented. </p>\n                    <p><p data-ct-non-breakable=\"true\">Hacking groups linked to the Democratic People’s Republic of Korea (DPRK) stole less crypto despite ramping up their efforts and diversifying their targets in 2023, according to the latest report released by blockchain analytics firm Chainalysis.</p><p>In 2022, crypto lost from North Korea-linked exploits reached $1.7 billion through 15 hacking incidents. In 2023, Chainalysis estimated that the hacking groups stole about $1 billion worth of crypto from 20 hacks. This shows that despite having more exploits, the hackers could not surpass the value of their illicit gains in the previous year despite having more exploits. </p><p data-ct-non-breakable=\"true\">Erin Plante, the vice president of investigations at Chainalysis, expects that hacks linked to North Korea will continue to become more sophisticated and diverse. With their ill-gotten gains from decentralized finance (DeFi) protocols becoming less due to security improvements, Plante explained that North Korean hackers diversified and targeted centralized services and wallets. </p><p><a href=\"https://cointelegraph.com/news/north-korea-dprk-hackers-2023-stolen-crypto-report-chainalysis\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-24T13:40:27.000Z",
+    "title": " IBM watsonx AI scores pro soccer player scouting gig ",
+    "url": "https://cointelegraph.com/news/ibm-watsonx-ai-pro-soccer-player-scouting-gig",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvM2U5YjAxMjYtYzc4NC00ODUzLWJiOWUtYWY1M2Y2Mjg0NzNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Using cues from club scouts describing the critical characteristics of players being assessed, Scout Advisor generates curated lists of candidates and summarises each player’s complete set of reports.</p>\n                    <p><p>Generative AI has proven its applicable relevance in different industries since its inception and has now added the sports industry to its list. An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI.</p><p>In an announcement <a href=\"https://newsroom.ibm.com/2024-01-23-Sevilla-FC-Transforms-the-Player-Recruitment-Process-with-the-Power-of-IBM-watsonx-Generative-AI\" target=\"_blank\" rel=\"noopener nofollow\">released</a> on IBM’s blog, the technology company revealed that Scout Adviser will analyze Sevilla FC’s database of potential recruits. Using natural language processing and foundation models, it will create a list of players it thinks Sevilla should tap based on the team’s needs. </p><p>According to IBM, Scout Adviser will look at several factors when evaluating recruits. This includes quantitative data such as height and weight, speed, number of goals or minutes played, and qualitative unstructured data such as the textual analysis in their more than 200,000 scouting reports.</p><p><a href=\"https://cointelegraph.com/news/ibm-watsonx-ai-pro-soccer-player-scouting-gig\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-24T13:48:01.000Z",
+    "title": "Bitcoin drawn back toward $40k as market capitalization recovers $30 billion",
+    "url": "https://cryptoslate.com/bitcoin-drawn-back-toward-40k-as-market-capitalization-recovers-30-billion/",
+    "description": "<p>Bitcoin&#8217;s price reclaimed the $40,000 threshold after trading below the mark during the last two days. According to CryptoSlate&#8217;s data, the top cryptocurrency spiked by around 4% during the last 24 hours, peaking at nearly $40,500 today, Jan. 24, before slightly retracing to $39,997 as of press time. Experts have attributed BTC&#8217;s poor performance during [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-drawn-back-toward-40k-as-market-capitalization-recovers-30-billion/\">Bitcoin drawn back toward $40k as market capitalization recovers $30 billion</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-24T13:26:32.000Z",
-    "title": "Cardano's (ADA) DeFi Drop and Avalanche's (AVAX) Meme Coin Masterstroke – What's the Real Impact?",
-    "url": "https://cryptodaily.co.uk/2024/01/cardanos-ada-defi-drop-and-avalanches-avax-meme-coin-masterstroke-whats-the-real-impact",
-    "description": "Dive into the latest dynamics of Cardano (ADA) and Avalanche (AVAX) in the crypto market. Explore their development triumphs, DeFi challenges, and technical outlooks amidst market uncertainties. Stay updated with key insights for informed investment decisions."
+    "date": "2024-01-24T14:00:21.000Z",
+    "title": "Borderless Capital Leads $1.5M Seed Round For Synonym Finance to Deliver Robust, Flexible Cross-Chain DeFi Lending",
+    "url": "https://cryptodaily.co.uk/2024/01/borderless-capital-leads-15m-seed-round-for-synonym-finance-to-deliver-robust-flexible-cross-chain-defi-lending",
+    "description": "Borderless Capital Leads $1.5M Seed Round For Synonym Finance to Deliver Robust, Flexible Cross-Chain DeFi Lending"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-24T13:15:56.000Z",
-    "title": "Presale opportunity making big waves in the market - Kelexo (KLXO) signs up over 1000 users in 24 hours, as Cardano (ADA) & USD Coin (USDC) investors pour in",
-    "url": "https://cryptodaily.co.uk/2024/01/presale-opportunity-making-big-waves-in-the-market-kelexo-klxo-signs-up-over-1000-users-in-24-hours-as-cardano-ada-usd-coin-usdc-investors-pour-in",
-    "description": "The cryptocurrency market is buzzing with excitement as investors closely watch the dynamic shifts in Cardano (ADA) and USD Coin (USDC) prices."
+    "date": "2024-01-24T13:45:44.000Z",
+    "title": "Top Meme Coins in 2024 Merging Meme Culture with GameFi: A New Era in Digital Gamification",
+    "url": "https://cryptodaily.co.uk/2024/01/top-meme-coins-in-2024-merging-meme-culture-with-gamefi-a-new-era-in-digital-gamification",
+    "description": "Meme coins started as cryptocurrencies inspired by internet memes or social phenomena. Dogecoin (DOGE), inspired by the popular \"Doge\" meme featuring a Shiba Inu dog, is the most notable example. These coins often begin with little to no intrinsic value or utility but can gain"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-24T14:05:32.000Z",
+    "title": "Bitcoin Technical Analysis: Deciphering BTC’s Complex Market Behavior",
+    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-deciphering-btcs-complex-market-behavior/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Deciphering BTC&#039;s Complex Market Behavior\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/hottoddy.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin&#x2019;s price dynamics on Jan. 24, 2024, present a complex picture of market fluctuations and investor sentiment. With prices oscillating between $39,878 and $40,069 in the past hour and a broader 24-hour range of $38,505 to $40,515, the cryptocurrency exhibits notable volatility. Bitcoin Bitcoin&#x2019;s market capitalization stands at $785 billion, with a 24-hour trade volume [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T13:38:17.000Z",
-    "title": "70% of Crypto Asset-Related Communications Violate Rules: FINRA Report",
-    "url": "https://www.cryptopolitan.com/70-crypto-communications-violate-rules-finra/",
-    "description": "In a recent report released by the U.S. Financial Industry Regulatory Authority (FINRA), it has been revealed that approximately 70% of crypto asset-related communications reviewed during a targeted exam failed to comply with FINRA rules. This comprehensive examination, which took place in November 2022, scrutinized over 500 retail communications distributed or made available by FINRA [&#8230;]"
+    "date": "2024-01-24T14:02:36.000Z",
+    "title": "The 4 Arenas Where 2024 Will Reshape Our World",
+    "url": "https://www.cryptopolitan.com/4-arenas-where-2024-will-reshape-our-world/",
+    "description": "Without a doubt, 2023 was the year of artificial intelligence. There were lots of breakthroughs, advances, and major headlines about AI last year. The technology permeated several industries and sparked both excitement and apprehension about the future.&#160; But as we turn the page to 2024, a new question emerges: what will define this year? While [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T13:24:52.000Z",
-    "title": "Nvidia’s Ace AI: A Creative Tool, Not a Threat, Amid Ethical Debates",
-    "url": "https://www.cryptopolitan.com/nvidias-ace-ai-a-creative-tool-not-a-threat/",
-    "description": "In a recent press briefing ahead of CES, Nvidia showcased its Ace microservice, an AI suite capable of generating fully voiced AI characters in real time. The demo sparked controversy, with concerns about the ethical implications and data usage of the technology. Purnendu Mukherjee, founder of Convai, the generative AI company behind Nvidia Ace, addressed [&#8230;]"
+    "date": "2024-01-24T14:00:26.000Z",
+    "title": "Borderless Capital Leads $1.5M Seed Round For Synonym Finance to Deliver Robust, Flexible Cross-Chain DeFi Lending",
+    "url": "https://www.cryptopolitan.com/borderless-capital-leads-1-5m-seed-round-for-synonym-finance-to-deliver-robust-flexible-cross-chain-defi-lending/",
+    "description": "Toronto, Canada, January 24th, 2024, Chainwire Oversubscribed Round With Top Blockchain VCs Included Robot Ventures, Big Brain Capital &#38; Veris Ventures Synonym Finance, a cross-chain lending platform, today announced its oversubscribed seed round funding round totalling $1.5 million. The raise was led by Borderless Capital, a leading Web3-native investment manager with focus on fostering dynamic [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T13:13:22.000Z",
-    "title": "3 tokens under $0.5 for instant 15x profits",
-    "url": "https://www.cryptopolitan.com/3-tokens-under-0-5-for-instant-15x-profits/",
-    "description": "Embark on a thrilling journey into the heart of the crypto universe, where fortunes are made in the blink of an eye. Brace for a rollercoaster ride as we unveil three tokens, each priced under $0.5, promising the elusive allure of instant 15x profits. In this high-stakes adventure, we explore Retik Finance&#8217;s revolutionary bridge between [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T13:12:26.000Z",
-    "title": "Is RETIK the new MATIC? The signal that ignited a 500% Polygon rally in 2020 replicates now in 2024",
-    "url": "https://www.cryptopolitan.com/is-retik-the-new-matic-the-signal-that-ignited-a-500-polygon-rally-in-2020-replicates-now-in-2024/",
-    "description": "As the crypto industry matures, decentralized finance (DeFi) emerges as one of the most promising sectors, driving new growth and adoption. In 2020, Polygon (MATIC) rode the DeFi wave to stardom, with price gains exceeding 500% in months. Today in 2024, rapidly rising rival Retik Finance displays striking similarities to MATIC’s historic breakout, signaling the [&#8230;]"
+    "date": "2024-01-24T13:51:03.000Z",
+    "title": "Empowering Indigenous Youth: AI Code Camp Sparks Interest in AI and Coding",
+    "url": "https://www.cryptopolitan.com/ai-code-camp-sparks-interest-ai-and-coding/",
+    "description": "In the summer of 2021, Niesha Marshall, a 13-year-old from the Rosebud Reservation, embarked on a transformative journey at the Lakota AI Code Camp. The three-week program, situated at Black Hills State University, aimed to introduce Lakota students with minimal coding experience to Python, data science, machine learning, and app development. Niesha&#8217;s initial skepticism about [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-01-24T13:37:48.000Z",
-    "title": "Injective (INJ) and Stacks (STX) Up 400% – Pullix (PLX) to Spike 100x Following Its Launch",
-    "url": "https://nulltx.com/injective-inj-and-stacks-stx-up-400-pullix-plx-to-spike-100x-following-its-launch/",
-    "description": "Stacks (STX) grew 450% year-to-date (YTD), while Injective (INJ) is up 2,228%. It&#8217;s clear that both cryptocurrencies experienced major jumps in value during the previous year and are well-positioned to see similar gains during 2024 as well. Alongside them, Pullix (PLX) is also seeing remarkable growth and can soon appeal [&#8230;]"
+    "date": "2024-01-24T13:44:34.000Z",
+    "title": "Bitcoin (BTC), Ethereum (ETH) or Pushd (PUSHD) crypto analysts back Pushd (PUSHD) for much higher ROI in 2024",
+    "url": "https://nulltx.com/bitcoin-btc-ethereum-eth-or-pushd-pushd-crypto-analysts-back-pushd-pushd-for-much-higher-roi-in-2024its-safe-to-say-that-the-bullish-sentiment-surrounding-the-bitcoin-btc-etf-appro/",
+    "description": "It’s safe to say that the bullish sentiment surrounding the Bitcoin (BTC) ETF approvals is well and truly gone. Bitcoin (BTC) is down over 20% since the announcement, while Ethereum (ETH) followed shortly with a 7% dump. The market downturn, however, was a catalyst for decentralized ecommerce marketplace Pushd (PUSHD) [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-24T13:42:25.000Z",
+    "title": "Kelexo (KLXO) hits over 2,500 sign ups in 48 hours as Solana (SOL) and Dogecoin (DOGE) drop",
+    "url": "https://nulltx.com/kelexo-klxo-hits-over-2500-sign-ups-in-48-hours-as-solana-sol-and-dogecoin-doge-drop/",
+    "description": "Altcoins faced substantial corrections across the board in the past 24 hours, including Solana (SOL) and Dogecoin (DOGE). The flash crash underlined the importance of proper diversification, with one opportunity drawing 2,500 registrants barely 48 hours into its launch. Market analysts believe that decentralized lending protocol Kelexo (KLXO) could be [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-24T14:02:53.000Z",
+    "title": "Best plays in crypto: 5 startups making waves in 2024",
+    "url": "https://crypto.news/best-crypto-startups/",
+    "description": "We analyzed some of the top cryptocurrency startups of 2024 and their achievements. In 2023, the crypto market saw a notable turnaround, with its market cap increasing by 109%. This surge was largely driven by the first and fourth quarters&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-24T14:00:55.000Z",
+    "title": "When Will Bitcoin Downtrend End? This Signal Could Be One To Watch",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-downtrend-end-signal-one-watch/",
+    "description": "An analyst has explained that a futures market signal could be one to wait for before the latest Bitcoin drawdown can finish. Bitcoin Funding Rates Are Still In The Positive Territory As pointed out by an analyst in a CryptoQuant Quicktake post, the BTC funding rate has been reducing recently, but it&#8217;s still at positive levels. The &#8220;funding rate&#8221; refers to an indicator that keeps track of the amount of periodic fee that futures contract holders are exchanging between each other currently. When the value of this metric is positive, it means that the long traders are paying a premium to the short holders right now in order to hold onto their positions. Such a trend suggests that a bullish mentality is dominant in the futures market. Related Reading: Analyst Says “Rapid Price Recovery” Is Likely For Bitcoin, Here’s Why On the other hand, the indicator being negative implies a bearish sentiment may be shared by the majority of the traders as the shorts are outweighing the longs at the moment. Now, here is a chart that shows the trend in the Bitcoin funding rate over the past year: Looks like the value of the metric has been positive in recent days &#124; Source: CryptoQuant As displayed in the above graph, the Bitcoin funding rate has been almost entirely positive since mid-October, suggesting that the longs have been the dominant force in the sector. Around the start of the year, the metric&#8217;s value had hit especially high levels, but after all the volatile price action BTC has seen since then, the indicator has considerably cooled off. The funding rates have still been at positive levels recently, however, implying that traders haven&#8217;t given up on their bullish sentiment just yet. This may not entirely be ideal for the asset to rebound. According to the quant, for the ongoing Bitcoin downtrend to end, &#8220;we need to wait for a capitulation signal from market participants.&#8221; In the chart, the analyst has highlighted the last few instances such a capitulation signal appeared for the cryptocurrency. Such negative spikes for the funding rate imply that the traders have become overly pessimistic about the market. Historically, BTC has tended to move against the expectations of the majority, so it&#8217;s not surprising that bottoms have been more likely to form when the traders have been highly bearish about the asset. Related Reading: XRP Buy Signal That Resulted In 60% Rally Has Gone Off Again Red spikes in the indicator like those shown in the chart may not always perfectly coincide with a low in the price, but they are still nonetheless a sign that tides could change for the coin. At present, the Bitcoin funding rates are still at positive levels, so some more downtrend may need to occur in the price, before these longs are liquidated and the futures balance shifts towards the other side. BTC Price Bitcoin had plunged under the $39,000 mark just yesterday, but the coin appears to have bounced back today as it&#8217;s now once again floating above $40,000. The price of the asset seems to have made some recovery over the past day &#124; Source: BTCUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, CryptoQuant.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-24T14:02:15.000Z",
+    "title": "AdEx Unveils Zero-Knowledge Targeting Engine: A New Era in Digital Advertising",
+    "url": "https://www.crypto-news-flash.com/adex-unveils-zero-knowledge-targeting-engine-a-new-era-in-digital-advertising/?utm_source=rss&utm_medium=rss&utm_campaign=adex-unveils-zero-knowledge-targeting-engine-a-new-era-in-digital-advertising",
+    "description": "<img width=\"1024\" height=\"576\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adex-450x253.jpg 450w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />AdEx introduces the Zero-Knowledge (ZK) targeting engine, prioritizing user privacy while ensuring precise ad targeting. The ZK targeting engine will be integrated into the AdEx platform, launching in Q2 2024, and features user-curated ads and incentives for ad viewing. Revolutionizing Digital Advertising: AdEx, a pioneering entity in digital advertising technology, is set to revolutionize the [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-24T14:00:19.000Z",
+    "title": "Dogecoin Price Prediction, will DOGE rebound?",
+    "url": "https://www.crypto-news-flash.com/dogecoin-price-prediction-will-doge-rebound/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-price-prediction-will-doge-rebound",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T090758.521.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T090758.521.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T090758.521-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T090758.521-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T090758.521-450x253.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />In the dynamic world of cryptocurrencies, Dogecoin, the altcoin that began as a humorous take on Bitcoin, has evolved into a serious player in the digital currency market. Originating in December 2013, Dogecoin (DOGE) was inspired by a popular meme featuring a Shiba Inu dog. This meme coin quickly transcended its joke status, building a [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-01-24T13:24:07.000Z",
-    "title": "Spot Bitcoin ETFs: Week 1 Performance Overview",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/spot-bitcoin-etfs-week-1-performance-overview/",
-    "description": "<p>Crypto users ended 2023 excited about the impending approval of spot Bitcoin ETF applications. For many, the arrival of this product marked the beginning of a new era for the market. To some, spot Bitcoin ETF approval means wider mainstream adoption of cryptocurrencies. For others, it was the final hurdle for Bitcoin to become a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/spot-bitcoin-etfs-week-1-performance-overview/\">Spot Bitcoin ETFs: Week 1 Performance Overview</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-24T13:35:55.000Z",
-    "title": "Bitget Wallet Review: Everything You Need To Know About Bitget Wallet",
-    "url": "https://coinedition.com/bitget-wallet-review/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitget-Wallet-Review\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review-.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/Bitget-Wallet-Review--355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Introduction Bitget Wallet stands out as the ultimate Web3 multi-chain decentralized wallet, offering a secure and convenient trading experience tailored for all crypto users, including beginners. With a proven five-year legacy, Bitget Wallet has earned the trust of over 12 million users across 168 countries globally. Its user-friendly features empower users to engage with decentralized [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitget-wallet-review/\">Bitget Wallet Review: Everything You Need To Know About Bitget Wallet</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-24T14:09:24.000Z",
+    "title": "Telefonica and Nova Labs Introduce Helium Mobile in Mexico",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/telefonica-and-nova-labs-introduce-helium-mobile-in-mexico/",
+    "description": "<p>This collaboration marks a significant stride towards enhancing connectivity in the region. Also, it showcases the potential for innovative solutions in the telecommunications industry. Let&#8217;s explore more about this milestone. Telefonica Customers to Access Helium Mobile Network with Movistar SIM Cards The collaboration aims to leverage the Helium Network. This is a decentralized wireless network [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/telefonica-and-nova-labs-introduce-helium-mobile-in-mexico/\">Telefonica and Nova Labs Introduce Helium Mobile in Mexico</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

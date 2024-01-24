@@ -1,184 +1,65 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-24T16:07:40.000Z",
-    "title": "Telefónica Partners With Helium to Roll Out Mobile Hotspots in Mexico",
-    "url": "https://www.coindesk.com/business/2024/01/24/telefonica-partners-with-helium-to-roll-out-mobile-hotspots-in-mexico/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Helium's native token is up by 5.71% over the past 24-hours."
+    "date": "2024-01-24T17:02:09.000Z",
+    "title": "Ripple's David Schwartz Talks 'Bottom-Up Growth' on XRP Ledger, Rebuts Critics: Q&A",
+    "url": "https://www.coindesk.com/tech/2024/01/24/ripples-david-schwartz-talks-bottom-up-growth-on-xrp-ledger-rebuts-critics-qa/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Schwartz spoke to The Protocol about the aftermath of Ripple's SEC win, his method for dealing with XRP's rabid fanbase, the XRP Ledger's controversial approach to centralization, and more."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-24T16:45:00.000Z",
+    "title": "Crypto Needs Cohesive Regulation – A Look at Europe’s MiCA",
+    "url": "https://www.coindesk.com/markets/2024/01/24/crypto-needs-cohesive-regulation-a-look-at-europes-mica/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "From the U.S. to South Asia, jurisdictions are creating a patchwork of  crypto regulatory regimes, making international business harder. Europe, with its bloc-wide Markets in Crypto-Assets Regulation (MiCA), is different."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-24T16:45:00.000Z",
+    "title": "Do Bitcoin ETFs Kill the Bull Case for Crypto Equities?",
+    "url": "https://www.coindesk.com/markets/2024/01/24/do-bitcoin-etfs-kill-the-bull-case-for-crypto-equities/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The days of rising crypto prices lifting all boats, including mining stocks, may be gone. But it still looks like being a good year for digital assets, says Alex Tapscott."
   },
   {
     "source": "Decrypt",
-    "date": "2024-01-24T16:11:08.000Z",
-    "title": "Gaming Tokens Rebound as Ronin and Beam Post Double-Digit Gains",
-    "url": "https://decrypt.co/214084/gaming-tokens-rebound-ronin-beam-post-double-digit-gains",
-    "description": "Ronin continues its recent rise amid Pixels game hype, while Beam and Immutable are bouncing back after a rough few weeks."
+    "date": "2024-01-24T16:54:13.000Z",
+    "title": "The Biggest Nintendo Games Still Coming Before the Switch 2",
+    "url": "https://decrypt.co/206987/biggest-nintendo-games-still-coming-before-switch-2",
+    "description": "UPDATED: The Nintendo Switch 2 is reportedly on the horizon, but original Switch owners will have promising games ahead."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-24T16:03:46.000Z",
-    "title": " Scientists figure out how to surpass ‘quantum advantage’ with binary computers ",
-    "url": "https://cointelegraph.com/news/scientists-surpass-quantum-advantage-binary-computers",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNmVkMWMyMzUtYjc1ZS00YzFkLWE2OWEtZmUxOGI0MWJhMjA2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Quantum computing continues to advance, but so does classical computer science.</p>\n                    <p><p>Quantum computing promises to solve problems binary computers can’t, but new research from a team in New York shows the old school isn’t ready for retirement just yet. </p><p>In June of 2023, a team of researchers at IBM demonstrated that a quantum system could outperform a binary computer at a given task. At the time, this was called “quantum utility.” </p><p>However, it appears that quantum computers suffer from the same problem as their binary counterparts often do: they’re obsolete before they even hit the market. </p><p><a href=\"https://cointelegraph.com/news/scientists-surpass-quantum-advantage-binary-computers\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-24T16:22:09.000Z",
-    "title": "Craig Wright makes settlement offer in COPA case to ‘give up’ some rights",
-    "url": "https://cryptoslate.com/craig-wright-makes-settlement-offer-in-copa-case-to-give-up-some-rights/",
-    "description": "<p>Dr. Craig Wright, the controversial Australian computer scientist, has backtracked from his impending legal battle with the Crypto Open Patent Alliance (COPA) by proposing a settlement offer for the trial. According to a Jan. 24 statement, Wright&#8217;s proposed offer includes the relinquishment of database rights and copyright claims on &#8220;Bitcoin Core (BTC), Bitcoin Cash (BCH), [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/craig-wright-makes-settlement-offer-in-copa-case-to-give-up-some-rights/\">Craig Wright makes settlement offer in COPA case to &#8216;give up&#8217; some rights</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-24T16:01:18.000Z",
-    "title": "Grayscale sends 19,236 BTC to Coinbase, moves 8,000 BTC internally",
-    "url": "https://cryptoslate.com/insights/grayscale-sends-19236-btc-to-coinbase-moves-8000-btc-internally/",
-    "description": "<p>As the Grayscale Bitcoin outflows continue, the fund today, Jan. 24, sent a further 19,236 BTC valued $754,782,168 at according to the current CF Benchmark Net York Variant Index rate of $39,238. According to Arkham Intelligence data this brings the total outflows from the fund to Coinbase Prime to 93,700 BTC ($3.68 billion) since Jan. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/grayscale-sends-19236-btc-to-coinbase-moves-8000-btc-internally/\">Grayscale sends 19,236 BTC to Coinbase, moves 8,000 BTC internally</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-01-24T16:29:59.000Z",
-    "title": "Nexo files claim for $3 billion in damages over dropped criminal investigation",
-    "url": "https://cryptobriefing.com/nexo-files-claim-3-billion-damages-over-dropped-criminal-investigation/?utm_source=feed&utm_medium=rss",
-    "description": "The suit comes after prosecutors raided Nexo's offices in early 2023 on allegations of organized criminal activity related to crypto lending."
+    "date": "2024-01-24T17:00:00.000Z",
+    "title": " Gold will outperform Bitcoin in 2024, Bloomberg analyst predicts  ",
+    "url": "https://cointelegraph.com/news/gold-outperform-bitcoin-2024-bloomberg-analyst-predicts",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYzg1NzA2YWYtODUxMC00N2YxLThiOTctODJkNzg5ZDlhMGUyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Macroeconomic factors pressure Bitcoin's price in 2024 despite the bullish narratives, says senior commodity strategist at Bloomberg Intelligence, Mike McGlone.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is likely to underperform the stock market on a risk-adjusted basis in 2024, while gold may come out ahead, says Bloomberg's senior commodity strategist Mike McGlone. </p><p>Despite the bullish narrative around the recent spot Bitcoin exchange-traded fund (ETF) approval and the upcoming Bitcoin halving, macroeconomic factors may prevent the largest cryptocurrency from reaching new all-time highs in 2024. </p><p>In particular, McGlone believes market expectations that the Fed will cut interest rates, which usually has a boosting effect on risk-on assets like Bitcoin, are largely misplaced. </p><p><a href=\"https://cointelegraph.com/news/gold-outperform-bitcoin-2024-bloomberg-analyst-predicts\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-24T16:28:02.000Z",
-    "title": "Immutable Chooses Axelar for Canonical Bridge to Ethereum, Enhancing Web3 Gaming Interoperability",
-    "url": "https://cryptodaily.co.uk/2024/01/immutable-chooses-axelar-for-canonical-bridge-to-ethereum-enhancing-web3-gaming-interoperability",
-    "description": "Immutable Chooses Axelar for Canonical Bridge to Ethereum, Enhancing Web3 Gaming Interoperability"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-24T16:21:08.000Z",
-    "title": "These 3 Cryptos Are Likely to Rise As Bitcoin Goes Down",
-    "url": "https://cryptodaily.co.uk/2024/01/these-3-cryptos-are-likely-to-rise-as-bitcoin-goes-down",
-    "description": "Don't miss out as these 3 cryptocurrencies rise while Bitcoin falls! Discover how Arbitrum (ARB), Sei (SEI), and Optimism (OP) are set to make major waves in the crypto world. With Bitcoin's dominance waning, these altcoins are primed for a rally that could reshape the market – stay ahead of the curve and find out why they're the ones to watch!"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-24T16:01:36.000Z",
-    "title": "As Bitcoin ETF Panic Looms, These Altcoins Are Ready for Rapid Growth",
-    "url": "https://cryptodaily.co.uk/2024/01/as-bitcoin-etf-panic-looms-these-altcoins-are-ready-for-rapid-growth",
-    "description": "Bitcoin ETF panic looms, but don't fret! Discover how altcoins like Cardano (ADA), Optimism (OP), Sei (SEI), Aptos (APT) and Arbitrum (ARB) are gearing up for rapid growth amidst the crypto downturn. Dive into the world of potential crypto giants and get ready to ride the wave of the next big investment opportunity!"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-24T15:44:45.000Z",
-    "title": "While the Market Is in the Red, These Cryptos Present Prime Opportunities",
-    "url": "https://cryptodaily.co.uk/2024/01/while-the-market-is-in-the-red-these-cryptos-present-prime-opportunities",
-    "description": "Discover the hidden gems in the crypto market while Bitcoin faces a downturn! Find out which emerging cryptocurrencies like Aptos (APT), Sei (SEI), and Sui (SUI) are poised for growth amidst the current market volatility. This could be your chance to capitalize on the next big altcoin wave and witness substantial returns!"
+    "date": "2024-01-24T16:57:03.000Z",
+    "title": "Multiplying Your Investment Tenfold: Can Algotech Turn $100 Into $1000 in the Crypto Market by 2025?",
+    "url": "https://cryptodaily.co.uk/2024/01/multiplying-your-investment-tenfold-can-algotech-turn-100-into-1000-in-the-crypto-market-by-2025",
+    "description": "Invest in Algotech (ALGT), one of the best cryptos to invest in for profits, growth, and dividends. A transformative crypto experience awaits!"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T16:37:22.000Z",
-    "title": "Nasdaq’s financial crime report reveals $3 trillion illicit funds flow in 2023, omits any mention of crypto",
-    "url": "https://www.cryptopolitan.com/nasdaqs-report-3-trillion-illicit-funds-flow/",
-    "description": "Nasdaq&#8217;s &#8220;Global Financial Crime Report&#8221; has shed light on the scale of illicit funds flowing through the global financial system, reaching a staggering $3 trillion in 2023. While addressing various aspects of financial crime, this comprehensive report notably omits any mention of cryptocurrencies, including Bitcoin and stablecoins, as conduits for these illicit funds. Nasdaq&#8217;s alarming [&#8230;]"
+    "date": "2024-01-24T16:54:38.000Z",
+    "title": "CRO Price Prediction 2024-2033: Is Cronos a Good Investment?",
+    "url": "https://www.cryptopolitan.com/cro-price-prediction/",
+    "description": "CRO Price Prediction 2024-2033 Cronos is the native token for the Crypto.com blockchain. First known as Crypto.com Coin, in February 2022, it was rebranded as Cronos, though it still trades under the same CRO abbreviation. Three months after going live, user adoption has surpassed expectations, with more than 350,000 unique wallet addresses performing transactions on [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T16:34:47.000Z",
-    "title": "Blockstream CEO Adam Back Addresses Mt. Gox Repayment Concerns",
-    "url": "https://www.cryptopolitan.com/adam-back-addresses-mt-gox-repayment/",
-    "description": "Blockstream CEO Adam Back recently took a firm stance to address mounting concerns within the cryptocurrency community surrounding Mt. Gox&#8217;s repayment plans and their potential implications for the Bitcoin market. Back&#8217;s direct response aimed to dispel &#8220;FUD&#8221; (fear, uncertainty, and doubt) circulating within the crypto sphere regarding this long-anticipated event. Adam Back supports repayment in [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T16:34:23.000Z",
-    "title": "Chainlink Price Prediction 2024-2033: A Strong Buy Sentiment for LINK?",
-    "url": "https://www.cryptopolitan.com/chainlink-price-prediction/",
-    "description": "Chainlink Price Predictions 2024-2033 No one could say if &#8212; and when &#8212; the crypto winter is ending. We can regard some successful strategies as &#8220;green shoots&#8221; to create hope for the crypto industry. ETH witnessed three consecutive weeks of inflows after 11 straight weeks of sell-off, according to a CoinShares report.&#160;Fear not, and let’s [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T16:26:28.000Z",
-    "title": "Dogecoin Reviving a Classic: DOOM Finds a New Home on Dogecoin",
-    "url": "https://www.cryptopolitan.com/reviving-doom-finds-a-new-home-on-dogecoin/",
-    "description": "In an unexpected fusion of nostalgia and innovation, the iconic 90s game DOOM has been revived and inscribed onto the Dogecoin blockchain. The integration, a testament to the evolving capabilities of blockchain technology, was made possible through the innovative use of the Dogecoin blockchain&#8217;s Ordinals technology.&#160; The technology has introduced a novel utility to the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T16:21:11.000Z",
-    "title": "UNDP and African leaders launch ‘Timbuktoo’ startup initiative",
-    "url": "https://www.cryptopolitan.com/undp-and-african-leaders-launch-timbuktoo/",
-    "description": "In a landmark event at the World Economic Forum in Davos, Switzerland, the United Nations Development Programme (UNDP), alongside African leaders, launched the &#8220;timbuktoo&#8221; initiative. This move celebrated at the Forum&#8217;s 24th Annual Meeting, aims to create the world&#8217;s most extensive financing facility dedicated to African startups. A Billion-Dollar Vision for Change Under the illuminating [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T16:09:32.000Z",
-    "title": "Solana’s Innovative Leap: Introduction of Token Extensions",
-    "url": "https://www.cryptopolitan.com/solanas-introduction-of-token-extensions/",
-    "description": "The Solana Foundation has officially announced the successful implementation of &#8216;token extensions&#8217; into the Solana blockchain. The innovative upgrade, which has been in development for over a year and was previously referred to as Token-2022, signifies a major shift in how token developers can operate on the blockchain platform. Solana, already known for its high-speed [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T16:00:00.000Z",
-    "title": "Emerging Cryptocurrency Poised to Rival Solana (SOL) in the Market",
-    "url": "https://www.cryptopolitan.com/emerging-cryptocurrency-poised-to-rival-solana-sol-in-the-market/",
-    "description": "Crypto experts are predicting varied outcomes for the 2024 cryptocurrency market; with some cryptocurrencies expecting to gain amid the risky environment. Solana (SOL) experienced a peak at $126 toward the end of 2023 and maintained an ascending trend for about 95 days, creating hype around the token. However, SOL has been facing a decline from [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T15:56:06.000Z",
-    "title": "Nintendo Announces Shutdown of Online Services for 3DS and Wii U on April 8",
-    "url": "https://www.cryptopolitan.com/nintendo-announces-shutdown-of-online/",
-    "description": "In a recent announcement, Nintendo confirmed the official date for the termination of online services for the Nintendo 3DS and Wii U gaming consoles. Previously set for &#8220;early April 2024,&#8221; the shutdown will now occur on April 8, 2024, at 4 pm PT / 7 pm ET / 12 am (April 9) GMT.&#160; This decision [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T15:55:32.000Z",
-    "title": "Blockchain Futurist Conference this August 15-16, 2024 to Showcase the Future of Bitcoin, Web3, and Cryptocurrency in Toronto, Canada",
-    "url": "https://www.cryptopolitan.com/blockchain-futurist-conference-this-august-15-16-2024-to-showcase-the-future-of-bitcoin-web3-and-cryptocurrency-in-toronto-canada/",
-    "description": "The 6th Annual Blockchain Futurist Conference, Canada&#8217;s largest and longest-running blockchain event, is set to make its grand return at the Rebel Entertainment Complex and Cabana in Toronto, Canada, on August 13-14, 2024. Renowned for being one of the world&#8217;s longest-running mega conferences in the Web3 sector, this year&#8217;s event promises an even more spectacular [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T15:51:31.000Z",
-    "title": "Noble Teams Up with Hashnote to Launch Tokenized Securities on Cosmos",
-    "url": "https://www.cryptopolitan.com/noble-hashnote-tokenized-securitie-on-cosmos/",
-    "description": "In a development for the blockchain industry, Noble, a prominent blockchain project, has forged a partnership with Hashnote, a distinguished asset manager. The collaboration aims to introduce a revolutionary tokenized real-world asset product on the Cosmos blockchain, marking a significant milestone for the Cosmos ecosystem and the broader blockchain space. The result of the synergy [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-24T16:29:23.000Z",
-    "title": "Flipside reports cryptocurrency users boom, defi over NFT focus in 2023",
-    "url": "https://crypto.news/flipside-reports-cryptocurrency-users-boom-defi-over-nft-focus-in-2023/",
-    "description": "The recent report by blockchain analysts Flipside unveils a comprehensive view of the fluctuating crypto world in 2023, marked by significant user growth and evolving trends. According to the report, 2023 witnessed a peak in acquired user volume in May,&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-24T16:20:21.000Z",
-    "title": "What could drive crypto bull run expected in 2024-2025",
-    "url": "https://crypto.news/what-could-drive-crypto-bull-run/",
-    "description": "Explore the anticipated next crypto bull market in 2024-2025, its key driving factors, and determine which strategy is optimal for you. The crypto market has experienced several bull and bear cycles since Bitcoin&#8217;s (BTC) inception in 2009 giving cues for&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-24T15:50:08.000Z",
-    "title": "Manta gains 30% in 24 hours",
-    "url": "https://crypto.news/manta-gains-30-in-24-hours/",
-    "description": "The price of Manta Network’s native token surged to a new all-time high on Jan. 24, changing hands for nearly $3 less than a week after an airdrop for early supporters. Manta Network (MANTA) saw double-digit gains as the cryptocurrency&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-24T16:30:13.000Z",
-    "title": "Crypto Carnage: OKB Flash Crash Wipes 25% Off Value In Minutes – Here’s What Happened",
-    "url": "https://www.newsbtc.com/news/crypto-carnage-okb-flash-crash-wipes-25-off-value-in-minutes-heres-what-happened/",
-    "description": "Yesterday, the cryptocurrency market went through a tumultuous ride, witnessing an overall dip of 5%. However, amidst the chaos, one token stood out: OKB, the native token of the OKX exchange. It experienced a dizzying flash crash followed by a remarkable recovery, leaving investors shaken yet surprisingly hopeful. In a span of 30 minutes, OKB plummeted from $51.99 to a mere $39, causing widespread alarm. The sudden drop triggered a series of liquidations, resulting in a staggering $760 million loss in market value. OKB Crash: 25% In Value Gone In Minutes Social media platforms buzzed with panic, confusion, and morbid curiosity as observers watched the token seemingly vanish into thin air. Related Reading: Lone Survivor: Ronin (RON) Rallies 20% As Top 100 Cryptos Bleed $OKB, @okx &#8216;s exchange token, fell by 25% in the past 30 minutes, with no notable outflows from major asset reserves so far.https://t.co/PQ06Wsix82 pic.twitter.com/JsNnvuoDVA — Ki Young Ju (@ki_young_ju) January 23, 2024 However, OKB staged a comeback that was just as swift as its decline. The token managed to climb back to $47.34, fueled by a surge in trading volume and the OKX exchange&#8217;s prompt response. Source: Coingecko The exchange swiftly acknowledged the crash and assured users that it would compensate for all liquidation losses. This proactive approach provided a sense of stability amidst the chaotic situation. （2/2）关于上述问题带来的损失和影响，我们深表歉意🙏并制定如下解决方案： 1/平台将对异常清算给用户带来的额外损失进行全额补偿，包括质押借贷/杠杆交易/跨币种交易，具体赔偿方案将在72小时内公布。 2/我们将进一步优化现货杠杆梯度档位与质押借贷风控规则、清算机制等，避免类似问题再次发生。 — OKX中文 (@okxchinese) January 23, 2024 While the exact cause of the flash crash remains unknown, it highlights the inherent volatility of cryptocurrencies. Thin liquidity, a common challenge in the crypto space, can magnify even minor price fluctuations, making well-established tokens like OKB susceptible to sudden and dramatic drops. Despite the unsettling nature of this event, some investors find a glimmer of hope in the situation. OKX&#8217;s rapid response and commitment to reimbursing its users could help rebuild trust in the exchange and the broader cryptocurrency ecosystem. Furthermore, OKB&#8217;s unexpected resilience showcases the potential for rapid rebounds even in the face of extreme turbulence. OKBUSD currently trading at $47.2849 on the daily chart: TradingView.com Lessons Learned This volatile episode serves as a stark reminder to investors that the crypto market is a double-edged sword, offering both thrilling highs and gut-wrenching lows. Approaching any digital asset with caution and a comprehensive understanding of the inherent risks involved is crucial. However, events like this also demonstrate the community&#8217;s remarkable ability to adapt and recover. They leave the door open for continued growth and innovation within the ever-evolving world of cryptocurrency. Related Reading: Bitcoin Evangelist Says Investors Will Be Crushed Expecting BTC At $30,000 The flash crash of OKB on the OKX exchange serves as a cautionary tale, emphasizing the importance of risk management and due diligence in the crypto market. Investors must be prepared for sudden and unpredictable price swings, which can result from various factors such as market manipulation, technical glitches, or external news events. To mitigate the impact of such incidents, exchanges should continually enhance their risk control measures and improve liquidity. OKX&#8217;s swift action in acknowledging the crash and offering compensation is commendable and helps restore faith in the platform. Featured image from Shutterstock"
+    "date": "2024-01-24T16:40:49.000Z",
+    "title": "Thirdweb and XAI: Forging a New Frontier in Gaming Infrastructure",
+    "url": "https://www.cryptopolitan.com/thirdweb-xai-in-gaming-infrastructure/",
+    "description": "In a move that&#8217;s set to redefine the landscape of the gaming industry, Thirdweb, a leading Web3 development tool platform, has announced a groundbreaking partnership with XAI. The collaboration between thirdweb and Xai is poised to elevate the gaming experience by integrating Thirdweb&#8217;s advanced technological stack into XAI&#8217;s gaming platform, promising an unparalleled gaming infrastructure. [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-24T16:37:53.000Z",
-    "title": "Geth Participation Drop: Ethereum Faces Centralization Security challenges",
-    "url": "https://www.crypto-news-flash.com/geth-participation-drop-ethereum-faces-centralization-security-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=geth-participation-drop-ethereum-faces-centralization-security-challenges",
-    "description": "<img width=\"1818\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-ETH-green-logo-with-digital-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background.jpg 1818w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-300x198.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1024x676.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-768x507.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1536x1014.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-150x99.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-450x297.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-ETH-green-logo-with-digital-background-1200x792.jpg 1200w\" sizes=\"(max-width: 1818px) 100vw, 1818px\" />Geth&#8217;s stake in Ethereum falls after warnings about centralization and risk of &#8216;black swan event&#8217; on the network. Coinbase leads shift to multi-client infrastructure, strengthening Ethereum network diversity and security against critical failures. The Ethereum ecosystem faces a crucial infrastructure challenge. The dominance of Geth, the most widely used execution client for processing transactions and [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-24T16:00:00.000Z",
-    "title": "Radiant Capital Commences Repayment Post $4.5M Exploit",
-    "url": "https://coinedition.com/radiant-capital-commences-repayment-post-4-5m-exploit/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/BLOCKCHAIN-4-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Radiant Capital has initiated repaying its debts following the $4.5 million flash loan exploit earlier this month. According to their latest announcement on January 23, the protocol has successfully repaid 1,190 ETH, which is equivalent to $2.6 million. This move leaves Radiant with approximately 720 ETH ($1.6 million) of remaining bad debt. Significantly, Radiant&#8217;s repayment [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/radiant-capital-commences-repayment-post-4-5m-exploit/\">Radiant Capital Commences Repayment Post $4.5M Exploit</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-24T17:00:11.000Z",
+    "title": "Celestia and Render Maintain Strong Positions in Altcoins; Rebel Satoshi Predicted to Surge by 100x",
+    "url": "https://www.crypto-news-flash.com/celestia-and-render-maintain-strong-positions-in-altcoins-rebel-satoshi-predicted-to-surge-by-100x/?utm_source=rss&utm_medium=rss&utm_campaign=celestia-and-render-maintain-strong-positions-in-altcoins-rebel-satoshi-predicted-to-surge-by-100x",
+    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094056.964.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094056.964.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094056.964-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094056.964-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094056.964-450x281.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Celestia (TIA) bulls predict that TIA will soar to $24.65 by the start of February. Analysts predict that Render (RNDR) will rise to $5.11. The newly introduced meme coin, Rebel Satoshi ($RBLZ), blends history and creativity in a vibrant community that has spurred a 120% surge for the $RBLZ token. Celestia and Render are some [...]"
   }
 ]

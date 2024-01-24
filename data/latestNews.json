@@ -1,72 +1,79 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-24T20:00:00.000Z",
-    "title": " OpenSea fraudster says NFT info is ‘not property:’ Nifty Newsletter ",
-    "url": "https://cointelegraph.com/news/open-sea-fraudster-nft-info-not-property-polygon-cofounder-inscriptions-spam-nifty-newsletter",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNjc3NDJlMWEtNTg2Yy00ZGExLTg3MTMtODFjYTU4MTkwOWU5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>According to Nathan Chastain’s legal team, the information he used to profit off NFTs in the marketplace was not considered “protected property.”</p>\n                    <p><p data-ct-non-breakable=\"true\">In this week’s newsletter, read about why a former OpenSea employee convicted for insider trading is attempting to get an acquittal, get the Polygon co-founder’s thoughts on solving the inscription spam issue on Ethereum Virtual Machine (EVM) blockchains, and check out Interpol’s report on how the metaverse can help law enforcement agencies. And don’t forget this week’s Nifty News, featuring Donald Trump offering free Ordinals to ramp up NFT sales.</p><p data-ct-non-breakable=\"true\">Former OpenSea employee Nathan Chastain, who was convicted of wire fraud and money laundering related to insider trading, submitted a filing to the United States Court of Appeals in an attempt to get an acquittal. According to Chastain’s legal team, the information he used to profit off NFTs in the marketplace was not considered “protected property.”</p><p>The legal team argued that the information “had no commercial value” and wrote in the appellate brief that “not all confidential information is property.”</p><p><a href=\"https://cointelegraph.com/news/open-sea-fraudster-nft-info-not-property-polygon-cofounder-inscriptions-spam-nifty-newsletter\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-01-24T20:31:44.000Z",
+    "title": "The Protocol: Ethereum Developers Warn on 'Diversity Problem'",
+    "url": "https://www.coindesk.com/tech/2024/01/24/the-protocol-ethereum-developers-warn-on-diversity-problem/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "In this week's issue, a focus on Ethereum's \"diversity problem,\" the week's biggest blockchain project upgrades and highlights from Electric Capital's annual report on developer activity. PLUS: We've got an exclusive interview with a top architect behind the XRP Ledger."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-24T20:31:57.000Z",
+    "title": "Polygon Plans 'AggLayer,' in Bid to Synthesize Modular, Monolithic Blockchains",
+    "url": "https://www.coindesk.com/tech/2024/01/24/polygon-plans-agglayer-in-bid-to-synthesize-modular-monolithic-blockchains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The new \"AggLayer,\" set for launch next month, relies on zero-knowledge proofs, a type of cryptography that Polygon Labs is betting on as a core underpinning of future blockchain architecture."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-24T20:27:00.000Z",
+    "title": "Vibe Check: The Sell-Off Continues: CoinDesk Indices' Todd Groth",
+    "url": "https://www.coindesk.com/markets/2024/01/24/vibe-check-the-sell-off-continues-coindesk-indices-todd-groth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Periodic observations and market musings from Todd Groth, Head of Research, CoinDesk Indices"
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-24T19:50:00.000Z",
-    "title": " Solana price rebounds off weekly low — Is $90 SOL possible?  ",
-    "url": "https://cointelegraph.com/news/solana-price-rebounds-off-weekly-low-is-90-sol-possible",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMWMxNmNmOGItMjMyNy00MmZjLTk5YjQtYWY1YmQyNTYwMDk3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Solana price recovers as the wider market continues to correct. Cointelegraph explains why.</p>\n                    <p><p>Solana's (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) token encountered robust resistance at $102 on Jan. 17 and was followed by a 23% correction to a 5-week low at $78.60 on Jan. 23. However, the movement reversed as SOL rebounded by 10% in less than 24 hours and put a temporary end to the bearish price action. Traders now question whether the recovery was backed by solid fundamentals and whether or not SOL can push back above $90.</p><p>Part of the movement can be attributed to the recently <a href=\"https://solana.com/news/token-extensions-on-solana\" target=\"_blank\" rel=\"noopener nofollow\">launched</a> 'token extensions' on the Solana network, which allow confidential transfers to hide balances, transfer hooks for gated access, and the ability to charge fees at the protocol level. These updates were included in the v.1.17 release of the Solana Labs validator client announced on Jan. 19. The plug-and-play functionalities are designed for enterprise applications and regulator-friendly resources.</p><p>Another source of optimism comes from Firedancer, a promising new third-party validator client currently under development. Developed by Jump Crypto, this solution aims to increase Solana’s processing capabilities toward millions of transactions per second and provide support for parallel processing (sharding).</p><p><a href=\"https://cointelegraph.com/news/solana-price-rebounds-off-weekly-low-is-90-sol-possible\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-24T20:14:28.000Z",
+    "title": " Core Scientific’s stock down 30% after bankruptcy relisting  ",
+    "url": "https://cointelegraph.com/news/core-scientific-stock-down-30-percent-after-bankruptcy-relisting",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMWMwMDgxNzEtNTM4Ni00MjNjLTkzMTktMWNhZjExY2ViYWIyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Core Scientific shares plunge 30% on Nasdaq relisting, following a 13-month restructuring process. </p>\n                    <p><p>Crypto mining firm Core Scientific is facing a turbulent trading session as it relists shares after emerging from bankruptcy. Robinhood data shows Core’s stock, CORZ, declining by over 30% at the time of writing, trading at $3.84.</p><p>After undergoing a 13-month restructuring process, the company <a href=\"https://cointelegraph.com/news/core-scientific-bankruptcy-relist-shares-chapter-11-bitcoin-miner\">relisted its shares on the Nasdaq</a> on Jan. 24. In an announcement, Core <a href=\"https://www.businesswire.com/news/home/20240123047199/en/Core-Scientific-Inc.-Emerges-from-Chapter-11-with-Strengthened-Balance-Sheet-and-Enhanced-Competitive-Position\" target=\"_blank\" rel=\"noopener nofollow\">said</a> it now has a “strengthened balance sheet” after clearing out a $400 million debt. </p><p data-ct-non-breakable=\"true\">Core's restructuring plan resulted in converting debt owed to equipment lenders and convertible note holders into equity in the company. Convertible notes are a type of debt that can be converted into stock, and by converting this debt into equity, Core Scientific reduces its financial liabilities. </p><p><a href=\"https://cointelegraph.com/news/core-scientific-stock-down-30-percent-after-bankruptcy-relisting\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-24T20:27:30.000Z",
+    "title": "Nexo demands $3 billion in damages over canceled Bulgarian investigation",
+    "url": "https://cryptoslate.com/nexo-demands-3-billion-in-damages-over-cancelled-bulgarian-investigation/",
+    "description": "<p>Nexo, a crypto lending firm, said on Jan. 24 that it aims to obtain $3 billion in damages from Bulgaria over a cancelled criminal investigation. The company said in a statement: &#8220;[Nexo has] filed an over $3 billion ICSID arbitration claim against the Republic of Bulgaria for damages and lost opportunities caused by the country’s [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/nexo-demands-3-billion-in-damages-over-cancelled-bulgarian-investigation/\">Nexo demands $3 billion in damages over canceled Bulgarian investigation</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-01-24T20:36:36.000Z",
+    "title": "SEC delays decision BlackRock’s spot Ethereum ETF to March",
+    "url": "https://cryptobriefing.com/sec-delays-blackrock-ethereum-etf/?utm_source=feed&utm_medium=rss",
+    "description": "The SEC extends its review of BlackRock's proposed iShares Ethereum Trust ETF, reflecting the regulatory body's cautious stance on crypto-based investment products."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-24T20:30:59.000Z",
+    "title": "GBTC Sees Over 80,000 Bitcoin Leave in 12 Days While Rival ETFs Amass 118,000 BTC",
+    "url": "https://news.bitcoin.com/gbtc-sees-over-80000-bitcoin-leave-in-12-days-while-rival-etfs-amass-118000-btc/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"GBTC Sees Over 80,000 Bitcoin Leave in 12 Days While Rival ETFs Amass 118,000 BTC\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/gbtc66s88.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Statistics reveal that Grayscale&#x2019;s Bitcoin Trust (GBTC) has offloaded a further quantity of bitcoin, with the fund&#x2019;s holdings decreasing from Tuesday&#x2019;s 552,681.22 bitcoin to Wednesday&#x2019;s total of 536,694.93 bitcoin. Over the last day, the fund experienced an outflow of 15,986.29 bitcoin, as per data from the official website. Grayscale&#x2019;s Bitcoin Trust Reduces Holdings by Over [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-24T20:09:01.000Z",
-    "title": "ETFs amp up Bitcoin trading, but Alameda Gap fuels volatility",
-    "url": "https://www.cryptopolitan.com/etfs-amp-up-bitcoin-trading-but-alameda-gap/",
-    "description": "As the dust settles on the introduction of the first U.S. exchange-traded funds (ETFs) holding Bitcoin, the spotlight turns to the persistent issue of market liquidity—or the lack thereof. Despite billions of dollars coursing through these ETFs since their inception, the ease of trading Bitcoin hasn&#8217;t seen the anticipated uptick. In the volatile dance of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T20:00:56.000Z",
-    "title": "Bitcoin market grapples with liquidity amid ETF surge",
-    "url": "https://www.cryptopolitan.com/bitcoin-market-grapples-with-liquidity/",
-    "description": "Despite the significant trading volumes generated by spot Bitcoin exchange-traded Funds (ETFs), the cryptocurrency market struggles with liquidity issues. The current state of Bitcoin&#8217;s market depth, a key liquidity indicator, suggests that the capacity for executing large transactions without major price impacts remains limited. A substantial number of buy and sell orders near the current [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T20:00:00.000Z",
-    "title": "3 Reasons Why Pandoshi (PAMBO) Will Replace Dogecoin (DOGE)",
-    "url": "https://www.cryptopolitan.com/3-reasons-why-pandoshi-pambo-will-replace-dogecoin-doge/",
-    "description": "Dogecoin (DOGE) came into prominence thanks to hype by billionaire Elon Musk. His tweets were enough to get the masses to pile into the coin. However, Musk has been silent on DOGE since then, and its value has dwindled. Pandoshi (PAMBO) is a better alternative to Dogecoin (DOGE) for several reasons. Here are the three [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T19:42:37.000Z",
-    "title": "HashKey Capital and FTSE Russell launch crypto indices",
-    "url": "https://www.cryptopolitan.com/hashkey-capital-ftse-russell-crypto-indices/",
-    "description": "HashKey Capital, in collaboration with FTSE Russell, a subsidiary of the London Stock Exchange, announced the launch of three new indices. These indices aim to provide investors with diverse opportunities to integrate cryptocurrency into their investment portfolios. HashKey&#8217;s strategic expansion in cryptocurrency investment HashKey Capital, a prominent player in the crypto investment sector, has taken [&#8230;]"
+    "date": "2024-01-24T20:16:18.000Z",
+    "title": "U.S. banking rules must evolve in the digital age",
+    "url": "https://www.cryptopolitan.com/us-banking-rules-must-evolve-in-digital-age/",
+    "description": "The collapse of Silicon Valley Bank nearly a year ago might seem like a distant echo, a blip on the financial radar that the U.S. banking sector swiftly overcame. With the KBW regional banks index bouncing back, some might be tempted to file away the crisis as a minor hiccup. However, that would be a [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-01-24T20:07:15.000Z",
-    "title": "Whales Target This Top Three Altcoins: $UMA, $LDO, $AAVE, Watch Out For Price Action",
-    "url": "https://nulltx.com/whales-target-this-top-three-altcoins-uma-ldo-aave-watch-out-for-price-action/",
-    "description": "Whales in the crypto realm have recently shown a keen interest in three specific tokens – UMA, LDO, and AAVE, according to on-chain reports. UMA has been a standout performer, delighting investors with an impressive surge of over 190% in the past week and a remarkable 289% increase over the [&#8230;]"
+    "date": "2024-01-24T20:24:55.000Z",
+    "title": "Notable Recent Ethereum Crypto Whale’s Movement To Monitor ",
+    "url": "https://nulltx.com/notable-recent-ethereum-crypto-whales-movement-to-monitor/",
+    "description": "Whales in the crypto sphere have made significant moves with Ethereum ($ETH), as revealed by recent on-chain reports. Celsius Network, in a notable development, released a pledge of 202,090 ETH, equivalent to $445 million, and initiated a transfer to the address 0xDb3&#8230;0998d. This address has now accumulated a total of [&#8230;]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-24T19:50:00.000Z",
-    "title": "Prosecutors Request Detention of ACE Exchange President Amid Fraud Probe",
-    "url": "https://coinedition.com/prosecutors-request-detention-of-ace-exchange-president-amid-fraud-probe/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Taiwanese Prosecutors Request Detention of ACE Exchange President\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Taiwan_financial_regulator_says_will_oversee_crypto_currencies-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Taiwanese prosecutors have taken a significant step in the ongoing investigation into alleged fraud and money laundering at ACE Exchange. They have requested the Taipei District Court detain Chenhuan Wang, the president of ACE Exchange, amid suspicions of involvement in fraudulent activities. This development follows the earlier detention of David Pan, the founder of the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/prosecutors-request-detention-of-ace-exchange-president-amid-fraud-probe/\">Prosecutors Request Detention of ACE Exchange President Amid Fraud Probe</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NullTX",
+    "date": "2024-01-24T20:15:44.000Z",
+    "title": "Bitcoin Cash $BCH Takes The Spotlight While Bitcoin Battles Selling Pressure ",
+    "url": "https://nulltx.com/bitcoin-cash-bch-takes-the-spotlight-while-bitcoin-battles-selling-pressure/",
+    "description": "Bitcoin Cash ($BCH) positions itself as a user-friendly solution for daily transactions, boasting minimal fees and swift confirmations, ideal for routine purchases and micro-transactions. Despite its designed convenience, concerns are surfacing as traders exhibit Fear, Uncertainty, and Doubt (FUD) towards assets like Bitcoin Cash and Loopring, reflected in a surge [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-01-24T19:45:33.000Z",
-    "title": "SEC Receives Application From Financial Services Company To Issue New Interest-Bearing Stablecoin",
-    "url": "https://dailyhodl.com/2024/01/24/sec-receives-application-from-financial-services-company-to-issue-new-interest-bearing-stablecoin/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/startup-to-issue-bearing.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A blockchain-focused financial services company wants to launch an interest-bearing stablecoin pegged to the penny. According to a registration statement filed with the U.S. Securities and Exchange Commission (SEC) in October, the San Francisco-based Figure wants to set up a subsidiary called Figure Certificate Company. The subsidiary hopes to issue &#8220;Figure Transferable Certificates,&#8221; which are [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/24/sec-receives-application-from-financial-services-company-to-issue-new-interest-bearing-stablecoin/\">SEC Receives Application From Financial Services Company To Issue New Interest-Bearing Stablecoin</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-24T19:41:59.000Z",
-    "title": "XRP Ledger Now Closer Than Ever To Ethereum Compatibility As Second Audit Nears Completion: Developers",
-    "url": "https://dailyhodl.com/2024/01/24/xrp-ledger-now-closer-than-ever-to-ethereum-compatibility-as-second-audit-nears-completion-developers/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/10/ethereum-compatible-sidechain-xrp.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The XRP Ledger (XRPL) is almost ready for the launch of its much anticipated Ethereum Virtual Machine (EVM) compatible sidechain, according to developers working on the project. The project aims to allow Ethereum (ETH) developers, who are used to Solidity, the main programming language for writing smart contracts on Ethereum, to access and build on [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/24/xrp-ledger-now-closer-than-ever-to-ethereum-compatibility-as-second-audit-nears-completion-developers/\">XRP Ledger Now Closer Than Ever To Ethereum Compatibility As Second Audit Nears Completion: Developers</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-24T20:37:46.000Z",
+    "title": "Nexo AG v. Bulgaria: Million-Dollar Lawsuit for Reputational Damage and Financial Hindrances",
+    "url": "https://www.crypto-news-flash.com/nexo-ag-v-bulgaria-million-dollar-lawsuit-for-reputational-damage-and-financial-hindrances/?utm_source=rss&utm_medium=rss&utm_campaign=nexo-ag-v-bulgaria-million-dollar-lawsuit-for-reputational-damage-and-financial-hindrances",
+    "description": "<img width=\"900\" height=\"500\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo.jpg 900w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-300x167.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-768x427.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-150x83.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-450x250.jpg 450w\" sizes=\"(max-width: 900px) 100vw, 900px\" />Nexo AG sues Bulgaria for $3 billion following investigation that damaged its image and expansion plans. ICSID proceeding after dismissal of case; Nexo seeks to repair reputational damage and recover financial losses. Cryptoasset lending giant Nexo AG is lashing out with a multi-million dollar lawsuit against Bulgaria, claiming $3 billion in compensation following the closure [...]"
   }
 ]

@@ -1,51 +1,16 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-01-25T06:57:32.000Z",
-    "title": "Tesla’s Bitcoin Holdings Remain Unchanged in Q4",
-    "url": "https://www.coindesk.com/markets/2024/01/25/teslas-bitcoin-holdings-remain-unchanged-in-q4/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The Elon Musk-led company holds over $387 million worth of bitcoin."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-01-25T06:43:52.000Z",
-    "title": "Swiss Crypto Bank Sygnum Inches Closer to 'Unicorn' Status With $40M Raise",
-    "url": "https://www.coindesk.com/business/2024/01/25/swiss-crypto-bank-sygnum-inches-closer-to-unicorn-status-with-40m-raise/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The company said that its initial target for the funding round was $35 million."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-25T07:02:23.000Z",
-    "title": " Blackberry warns Mexican crypto exchanges of lurking cyberthreat ",
-    "url": "https://cointelegraph.com/news/blackberry-mexican-crypto-exchanges-cyberthreat",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvODc0M2U4NjktMDM5MS00M2I3LWJjMWItOWQ2ZjU5ZTU4ZThiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The threat pattern suggests that attackers mainly target large companies in Mexico with over $100 million in gross revenues. </p>\n                    <p><p>The research and intelligence arm of Blackberry, a tech giant previously dominating the cellphone market, identified and alerted about a financially motivated attacker targetting numerous high-net-worth Mexican cryptocurrency exchanges and banks. </p><p>Blackberry’s <a href=\"https://blogs.blackberry.com/en/2024/01/mexican-banks-and-cryptocurrency-platforms-targeted-with-allakore-rat\" target=\"_blank\" rel=\"noopener nofollow\">report</a> identified an attack that attempted to steal sensitive user information from banks and crypto trading services using an open-source remote access tool named AllaKore RAT. The threat aims to install the tool in company-run computers and databases, often bypassing employees' suspicion by hiding behind official naming schemes and links. The report added:</p><p>The threat pattern suggests that attackers mainly target large companies with gross revenues over $100 million. Such companies report directly to the Mexican Social Security Institute (IMSS), Blackberry noted.</p><p><a href=\"https://cointelegraph.com/news/blackberry-mexican-crypto-exchanges-cyberthreat\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-25T07:00:59.000Z",
-    "title": "Polymer Labs Secures $23 Million to Build Ethereum’s ‘Interoperability Hub’",
-    "url": "https://news.bitcoin.com/polymer-labs-secures-23-million-to-build-ethereums-interoperability-hub/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_1998948041.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Polymer Labs, the inter-blockchain communication (IBC)-based networking layer two (L2), recently disclosed that it had raised $23 million via a Series A funding round. Polymer said only Ethereum and all chains under the IBC control will initially be compatible with its interoperability solution. &#8216;Connecting Billions of Dollars in Value Across Rollups&#8217; Polymer Labs, one of [&#8230;]"
-  },
-  {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T06:45:21.000Z",
-    "title": "Polkadot Price Prediction 2024-2033: A Bullish Pattern?",
-    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
-    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
+    "date": "2024-01-25T07:17:48.000Z",
+    "title": "Former Binance CEO’s  CZ failed attempt to pledge stake for UAE Travel",
+    "url": "https://www.cryptopolitan.com/ceos-cz-failed-pledge-stake-for-uae-travel/",
+    "description": "In a recent court development, Changpeng Zhao, the former CEO of Binance, made an unsuccessful attempt to pledge his multibillion-dollar stake in Binance.US as collateral in exchange for temporary travel permission to the United Arab Emirates (UAE).&#160; This revelation came to light through newly unsealed court documents that shed light on the legal proceedings surrounding [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-25T07:06:32.000Z",
-    "title": "Aave and VeChain trailing Pullix, PLX’s potential draws investors ",
-    "url": "https://crypto.news/aave-and-vechain-trailing-pullix-plxs-potential-draws-investors/",
-    "description": "Pullix (PLX) is outpacing established players like Aave (AAVE) and VeChain (VET). The project has raised over $4 million in its presale"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-25T07:05:56.000Z",
-    "title": "Court Denies Changpeng Zhao’s Fourth Attempt to Flee the US: Report",
-    "url": "https://coinedition.com/court-denies-changpeng-zhaos-fourth-attempt-to-flee-the-us-report/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Court Denies Changpeng Zhao’s Fourth Attempt to Flee the US: Report\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/The_way_Binance_and_CZ_handled_this_hack_should_be_‘standard_Transparent-3-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to a recent court filing, Changpeng Zhao, the former CEO of Binance, has been prohibited from traveling to his home in the United Arab Emirates. Despite guaranteeing his Binance equity of $4.5 billion as security, Zhao was not permitted to reach his home for the “hospitalization and surgery” of a close person. A recent [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/court-denies-changpeng-zhaos-fourth-attempt-to-flee-the-us-report/\">Court Denies Changpeng Zhao’s Fourth Attempt to Flee the US: Report</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-25T07:29:12.000Z",
+    "title": "CZ’s $4.5 Billion Binance Equity Offer Rejected for U.S. Return",
+    "url": "https://www.crypto-news-flash.com/czs-4-5-billion-binance-equity-offer-rejected-for-u-s-return/?utm_source=rss&utm_medium=rss&utm_campaign=czs-4-5-billion-binance-equity-offer-rejected-for-u-s-return",
+    "description": "<img width=\"1366\" height=\"768\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz.png 1366w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-24x13.png 24w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-36x20.png 36w, https://www.crypto-news-flash.com/wp-content/uploads/2021/11/cz-48x27.png 48w\" sizes=\"(max-width: 1366px) 100vw, 1366px\" />Changpeng Zhao has been denied a request to leave the U.S. despite pledging $4.5 billion for his return. Zhao pleaded with the judge on the merits of a family medical emergency, but many remain skeptical given his impending judgment. Although Changpeng Zhao, the former Binance CEO, has complied with the U.S., the exchange founder has [...]"
   }
 ]

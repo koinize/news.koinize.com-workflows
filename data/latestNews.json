@@ -1,58 +1,107 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-01-25T08:40:24.000Z",
-    "title": " Bitcoin ATM flaw could’ve given hackers ‘total control’ ",
-    "url": "https://cointelegraph.com/news/bitcoin-atm-vulnerability-ethical-hackers",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYjE4ZGJkNjYtNWM2Yi00ZmVlLWI2MTItY2E0NTMzMDJlMmNlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>IOActive chief technology officer Gunter Ollman said that through the vulnerabilities, attackers could steal users’ Bitcoin through the ATM. </p>\n                    <p><p>Bitcoin ATM provider Lamassu Industries fixed a vulnerability in its Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ATM machines after a team of ethical hackers took full control of the devices, highlighting some of its flaws. </p><p>In 2023, security researchers from IOActive attempted to hijack several ATMs issued by Lamassu. As they worked to access the machines, the research team <a href=\"https://labs.ioactive.com/2024/01/atm-security-owning-bitcoin-atm.html\" target=\"_blank\" rel=\"noopener nofollow\">identified</a> several vulnerabilities that they managed to exploit to gain access to the ATMs. </p><p>IOActive’s chief technology officer, Gunter Ollman, told Cointelegraph that through the exploit, attackers could “view and manipulate interactions with the hijacked ATM.” The security professional explained that hackers could steal BTC from the user’s wallet through the ATM using the vulnerabilities. Ollman explained: </p><p><a href=\"https://cointelegraph.com/news/bitcoin-atm-vulnerability-ethical-hackers\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-25T09:30:00.000Z",
+    "title": " Space and Time releases open-source GPU accelerator for ZK-proof protocols  ",
+    "url": "https://cointelegraph.com/news/space-and-time-open-sources-gpu-accelerator-for-zk-proofs",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZWYwN2M5OGYtZTYyMy00ZmIyLWEyMDYtM2YyNzU4MzM3ZjViLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The technology aims to optimize the performance of ZK-proof generation, which has become a key component of Ethereum layer 2 scaling platforms.  </p>\n                    <p><p>Blockchain protocols using zero-knowledge proof (ZK-proof) technology could tap into a new open-source GPU acceleration framework to optimize encryption technology.</p><p>Decentralized Web3 data service Space and Time announced that its recently developed graphics processing unit (GPU) acceleration framework is publicly available to the wider Web3 ecosystem.</p><p><a href=\"https://cointelegraph.com/explained/zero-knowledge-proofs-explained\">ZK-proofs</a> are cryptographic protocols that enable a party to prove specific information or data to another party without revealing the information itself. The technology ensures data confidentiality while validating its accuracy.</p><p><a href=\"https://cointelegraph.com/news/space-and-time-open-sources-gpu-accelerator-for-zk-proofs\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-25T08:47:08.000Z",
-    "title": "Tesla HODLs, Company Did Not Sell Any Of Its Bitcoin In Q4 2023",
-    "url": "https://cryptodaily.co.uk/2024/01/tesla-hodls-company-did-not-sell-any-of-its-bitcoin-in-q4-2023",
-    "description": "Leading automotive and clean energy company Tesla has revealed in its earnings report that it did not sell any of its Bitcoin during the fourth quarter of 2023."
+    "source": "Cointelegraph",
+    "date": "2024-01-25T09:11:04.000Z",
+    "title": " Bitwise Bitcoin ETF wallet attracts inscriptions and rare sats donations ",
+    "url": "https://cointelegraph.com/news/bitwise-bitcoin-etf-wallet-attracts-inscriptions-rare-sats-donations",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZjE0MDAyYzItMmZmYS00NTkwLWI1NTYtMjEwMzY1NWMxNjk1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitwise's public BTC address has seen thousand of donations within hours and the most popular donations have come in the form of Ordinals inscriptions.</p>\n                    <p><p>Asset management firm Bitwise made the Bitcoin address of its spot BTC exchange-traded fund (ETF) public on Jan. 24, <a href=\"https://cointelegraph.com/news/bitwise-address-bitcoin-etf-holdings\">becoming the first of the 10 spot BTC ETF issuers</a> to do so. The Bitcoin wallet address has received multiple tips and donations within hours of being public, including some Bitcoin ordinals and rare sats.</p><p>The wallet address currently holds inscriptions donations worth $6,083 and holds a total of over 16,000 <a href=\"https://www.ord.io/1CKVszDdUp4ymGceAZpGzYEFr4RPNHYqaM\" target=\"_blank\" rel=\"noopener nofollow\">inscriptions</a>. These inscriptions include two RSIC airdrops, one Bitcoin Punk, one Bitcoin Burials, one Quadkey, and several others. The account also holds thousands of BRC-20 inscriptions; however, there are no valid/active BRC-20 balances in the <a href=\"https://geniidata.com/ordinals/address/1CKVszDdUp4ymGceAZpGzYEFr4RPNHYqaM\" target=\"_blank\" rel=\"noopener nofollow\">account</a>.</p><p>Ordinals create Bitcoin-based nonfungible tokens (NFTs) by inscribing data such as images, videos, and more to an individual satoshi on the base Bitcoin blockchain. A satoshi is the smallest unit of Bitcoin, where 100,000,000 satoshis are in a single Bitcoin. Ordinals only came into existence last year but surprised the crypto community.</p><p><a href=\"https://cointelegraph.com/news/bitwise-bitcoin-etf-wallet-attracts-inscriptions-rare-sats-donations\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-01-25T08:57:43.000Z",
-    "title": "Bitget Stakes Claim as Leading Crypto Exchange In 2024",
-    "url": "https://cryptodaily.co.uk/2024/01/bitget-stakes-claim-as-leading-crypto-exchange-in-2024",
-    "description": "Competition between digital assets exchanges is notoriously intense, with dozens of platforms vying for supremacy. Truthfully, it’s not easy to tease some of them apart as the majority offer users many of the same features, trading pairs,"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-25T09:00:50.000Z",
-    "title": "Polygon Labs to unite multiple blockchains with AggLayer Protocol",
-    "url": "https://www.cryptopolitan.com/polygon-labs-blockchains-agglayer-protocol/",
-    "description": "Polygon Labs, a developer of Ethereum-scaling solutions, is set to launch its groundbreaking AggLayer protocol next month. This innovative protocol aims to bridge the gap between various blockchains, providing users with an experience that &#8220;feels like a single chain.&#8221;&#160; To address the fragmented state of the blockchain landscape, Polygon Labs aims to create a unified [&#8230;]"
+    "source": "CryptoSlate",
+    "date": "2024-01-25T09:35:17.000Z",
+    "title": "Bitcoin’s big fish: How Bitfinex whales are quietly shaping market trends",
+    "url": "https://cryptoslate.com/insights/bitcoins-big-fish-how-bitfinex-whales-are-quietly-shaping-market-trends/",
+    "description": "<p>Quick Take Recent data analysis from Datamish reveals intriguing dynamics among Bitfinex whales, especially their consistent trend in closing long positions. As highlighted by CryptoSlate, a tangible reduction of 3,500 BTC was seen in early December, pulling the total down to 76,500 BTC. Despite the tumultuous journey Bitcoin has embarked on since then &#8211; reaching [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoins-big-fish-how-bitfinex-whales-are-quietly-shaping-market-trends/\">Bitcoin&#8217;s big fish: How Bitfinex whales are quietly shaping market trends</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T09:00:00.000Z",
-    "title": "Can Solana (SOL) Hit $1,000 in 2024? New 100X Altcoin Disrupts A.I Industry",
-    "url": "https://www.cryptopolitan.com/can-solana-sol-hit-1000-in-2024-new-100x-altcoin-disrupts-a-i-industry/",
-    "description": "In this article, we will delve into the factors that could contribute to Solana’s (SOL) rise and explore the disruptive potential of the Option2Trade (O2T) presale in the A.I market. Solana (SOL), a blockchain platform known for its scalability and fast processing times, has garnered attention and speculation from crypto enthusiasts and investors alike. With [&#8230;]"
+    "date": "2024-01-25T09:35:31.000Z",
+    "title": "Sygnum closes $40M funding round, valuing the crypto banking group at $900M",
+    "url": "https://www.cryptopolitan.com/sygnum-closes-40m-funding-round-valuing/",
+    "description": "Switzerland-based crypto banking group Sygnum has successfully closed a funding round, raising $40 million and achieving a valuation of $900 million. The company&#8217;s CEO, Mathias Imbach, expressed gratitude for the trust shown by investors in the challenging macroeconomic environment and highlighted Sygnum&#8217;s commitment to building trust through regulation and good governance. Investment manager Azimut Holdings [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:53:49.000Z",
-    "title": "Sui Price Prediction 2024-2033: Is SUI A Good Investment?",
-    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
-    "description": "Sui Price Prediction 2024-2033 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a [&#8230;]"
+    "date": "2024-01-25T09:23:06.000Z",
+    "title": "Avalanche Price Prediction 2024-2033: Time to Buy AVAX?",
+    "url": "https://www.cryptopolitan.com/avalanche-price-prediction/",
+    "description": "Avalanche Price Prediction 2024-2033 A quadrant chart by TrueUp (a tech recruitment firm) collated data from the job review platform Glassdoor — mapped out how crypto firms stack up regarding growth vs employee happiness. The chart suggested the “happiest” workers in the industry came from Ava Labs, the team behind the Avalanche blockchain. Here’s a [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:42:17.000Z",
-    "title": "Is AI Set to Supercharge Global Ransomware Threats? NCSC Weighs In",
-    "url": "https://www.cryptopolitan.com/ai-supercharge-global-ransomware-threats/",
-    "description": "The National Cyber Security Centre (NCSC) has sounded the alarm on a looming surge in global ransomware threats, attributing the heightened risk to the integration of artificial intelligence (AI) by cybercriminals. As per the NCSC&#8217;s latest assessment, the utilization of AI in malicious cyber activities is anticipated to significantly amplify both the frequency and severity [&#8230;]"
+    "date": "2024-01-25T09:17:28.000Z",
+    "title": "Cosmos Price Prediction 2024-2033: Will ATOM Recover ATH?",
+    "url": "https://www.cryptopolitan.com/cosmos-price-prediction/",
+    "description": "Cosmos Price Prediction 2024-2033 Binance chief executive Changpeng Zhao likened the recent FTX collapse to the start of the 2008 financial crisis. Will its demise cause other crypto firms to fold? That&#8217;s the essential question, for now: how will this affect our Cosmos Price Prediction? How much is Cosmos worth? Today&#8217;s Cosmos price is $9.20, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:40:45.000Z",
-    "title": "Grayscale Bitcoin Trust (GBTC) outflows show signs of slowing, but uncertainty remains",
-    "url": "https://www.cryptopolitan.com/grayscale-bitcoin-trust-gbtc-outflows-slows/",
-    "description": "Daily outflows from the Grayscale Bitcoin Trust (GBTC) have reached their lowest point since launch day, sparking hope of a potential end to the exodus. However, experts remain cautious as the situation unfolds. Grayscale Bitcoin Trust outflows ease Daily outflows from the Grayscale Bitcoin Trust (GBTC) have seen a notable slowdown for two consecutive days, [&#8230;]"
+    "date": "2024-01-25T09:14:18.000Z",
+    "title": "Unauthorized phishing attempt targets Trezor users",
+    "url": "https://www.cryptopolitan.com/unauthorized-phishing-attempt-targets/",
+    "description": "Hardware wallet provider Trezor has reported an unauthorized phishing attempt aimed at its users. The attack involved malicious emails impersonating Trezor and urging users to upgrade their &#8220;network&#8221; or risk losing their funds.&#160; The company has deactivated the malicious link and advised affected users to transfer their funds to new wallets. Phishing attempt detected Trezor, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-25T09:14:17.000Z",
+    "title": "Arbitrum Price Prediction 2024 – 2033: ARB breaks key barrier",
+    "url": "https://www.cryptopolitan.com/arbitrum-price-prediction/",
+    "description": "Arbitrum Price Prediction 2024 &#8211; 2033 Scaling solutions operate on top of a blockchain’s base layer, such as Ethereum, to enhance performance. Arbitrum is a prime example of a scaling solution that has recently gained popularity among Ethereum users for executing their transactions more efficiently. Arbitrum adds to Ethereum’s numerous advantages, boosts the network’s sluggish [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-25T09:36:15.000Z",
+    "title": "More Price Drop For SAVM Following Conflict And Increased Outflow",
+    "url": "https://nulltx.com/more-price-drop-for-savm-following-conflict-and-increased-outflow/",
+    "description": "SatoshiVM (SAVM) faced a tumultuous turn of events as reports of concerning wallet activity linked to the founding team circulated, causing a swift 25% drop in the cryptocurrency&#8217;s price just two days ago. The turmoil escalated due to conflicts between Ape Terminal and Macn BTC. The price of $SAVM dropped [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-25T09:15:20.000Z",
+    "title": "Solana Price Soars By 11% – Here’s Why",
+    "url": "https://www.newsbtc.com/news/solana/solana-price-soars-by-11-heres-why/",
+    "description": "The Solana (SOL) price has witnessed an 11% increase, rebounding to $89.21, following a local low of $78 yesterday. This surge comes amidst a broader market recalibration and can be largely attributed to an announcement from the Solana Foundation. The foundation unveiled a new tokenization feature, stirring significant interest within the crypto community and prompting a bullish market response. Why The Feature Is So Important Tokenization, a concept heralded by BlackRock CEO Larry Fink as the future of digital markets, is poised to revolutionize the financial and securities landscape. In recent interviews, Fink emphasized the significance of this advancement, stating, &#8220;Tokens represent the next frontier in the evolution of digital assets and markets, offering unprecedented opportunities for innovation and streamlined payments.&#8221; Embracing this visionary perspective, the Solana Foundation unveiled via X (formerly Twitter), &#8220;The future of tokenization is now: Introducing token extensions, ready-to-use advanced token functionality on Solana.&#8221; 1/ The future of tokenization is now: Introducing token extensions, ready-to-use advanced token functionality on Solana.https://t.co/zNw9qWgvjA Token extensions empower developers to rapidly build customized token experiences &#38; designed to meet business compliance needs.🧵 pic.twitter.com/dHkKoNS28X — Solana (@solana) January 24, 2024 These token extensions are designed to provide developers with the tools to craft bespoke token experiences, ensuring compliance with business needs while leveraging Solana&#8217;s high throughput and cost-effective blockchain infrastructure. The announcement further elaborated, &#8220;Token extensions open up new possibilities for businesses and developers, enabling functionalities that were previously inconceivable on public blockchains.&#8221; Related Reading: Analysts Reveal Next Steps As Solana Corrects Hard After 1000% Rally Crypto analyst @0xjaypeg elucidated the strategic importance of Solana&#8217;s latest move, emphasizing, &#8220;Solana is coming for enterprise with token extensions.” He praised Solana&#8217;s strategic approach, noting, “It&#8217;s clear they are pushing their advantages hard to carve out a niche and moat that other blockchains can&#8217;t compete with as effectively.” He added, “The last piece here is to get a well known enterprise user (such as Shopify) to adopt token extensions and make it crystal clear how much $ they save &#8211; Solana txns are much cheaper than merchant credit card fees.” SOL Price Analysis: Bears Still In Control The 4-hour chart of SOL/USDT indicates that the price has rebounded from a low of $78.02, which serves as the immediate support level. The Fibonacci retracement levels, drawn from a swing high of $125.88 to the swing low, suggest potential resistance levels. Notably, SOL&#8217;s price got rejected at the 0.236 Fibonacci level at $89.31 &#8211; the single most important level for the bulls at the moment. Only if the Solana price reclaims this price level, there’s hope that the bulls can print a new higher high. A closer examination of the Exponential Moving Averages (EMA) reveals that SOL&#8217;s price has currently found support at the 20 EMA. The 50, 100, and 200 EMAs are positioned above the current price, indicating that SOL is still in a broader downtrend despite the recent rally. A sustained move above these EMAs could hint at a potential trend reversal. Related Reading: Solana Dominates Ethereum, Bitcoin In NFT, Activity: What’s Next For SOL? Volume analysis shows that the recent price increase was accompanied by substantial trading activity, which may validate the strength of the move. Furthermore, the Relative Strength Index (RSI), a momentum oscillator, is hovering near the 50 level, which typically represents a balance between buyers and sellers. A push above this midpoint could suggest increasing bullish momentum. Technical traders will be monitoring the $101.95 level, which corresponds to the 0.5 Fibonacci retracement level, as the most crucial resistance in the mid-term. If SOL recaptures this level, it would create a higher high, a strong bullish sign. The subsequent levels to watch are $107.59 (0.618 Fibonacci level) and $115.63 (0.786 Fibonacci level). A failure to maintain the current momentum could see SOL retracing towards the aforementioned support at $78.02 again. Featured image from Shutterstock, chart from TradingView.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-25T09:32:53.000Z",
+    "title": "Ethereum ETF Approval 70% by May: Will the SEC Give the Green Light or Hit the Brakes?",
+    "url": "https://www.crypto-news-flash.com/ethereum-etf-approval-70-by-may-will-the-sec-give-the-green-light-or-hit-the-brakes/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-etf-approval-70-by-may-will-the-sec-give-the-green-light-or-hit-the-brakes",
+    "description": "<img width=\"1380\" height=\"919\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration.jpg 1380w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/cryptocurrency-blockchain-ethereum-3d-isometric-physical-ethereum-coin-with-wireframe-chain-block-chain-concept-editable-template-stock-vector-illustration-104x69.jpg 104w\" sizes=\"(max-width: 1380px) 100vw, 1380px\" />The SEC&#8217;s stance on approving spot Ethereum ETFs is uncertain, with internal resistance and varying expert opinions. Commissioner Hester Peirce calls for a more straightforward approval process, while asset managers remain optimistic about Ethereum ETFs. The approval of spot Ethereum Exchange-Traded Funds (ETFs) in the United States has become a focal point for the crypto [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-25T09:15:59.000Z",
+    "title": "STASIS and Stellar Join Forces to Bring EURS Stablecoin to the Masses",
+    "url": "https://www.crypto-news-flash.com/stasis-and-stellar-join-forces-to-bring-eurs-stablecoin-to-the-masses/?utm_source=rss&utm_medium=rss&utm_campaign=stasis-and-stellar-join-forces-to-bring-eurs-stablecoin-to-the-masses",
+    "description": "<img width=\"2560\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stellar\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1.jpg 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/stellar-crypto-altcoin-bitcoin-shutterstock_1024356946-scaled-1-48x27.jpg 48w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />STASIS has integrated EURS with the Stellar blockchain, making euro stablecoins more accessible and reliable in crypto. EURS is a regulated and stable digital euro backed by over 6 billion euros, now available on Stellar for low-cost, fast transactions. In a blog post, STASIS, a pioneer in euro-backed stablecoin issuance, has announced its integration with [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-25T09:38:12.000Z",
+    "title": "UniswapX Offers Zero Gas Fees on Confirmed & Failed Swaps",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/uniswapx-offers-zero-gas-fees-on-confirmed-and-failed-swaps/",
+    "description": "<p>However, there&#8217;s a game-changing development in the DeFi space that is poised to revolutionize this experience: UniswapX. This is an innovative platform that guarantees zero gas fees on failed swaps, ensuring users never waste ETH again. UniswapX: End of Wasted ETH on Failed Swaps Gas fees are payments made by users to compensate for the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/uniswapx-offers-zero-gas-fees-on-confirmed-and-failed-swaps/\">UniswapX Offers Zero Gas Fees on Confirmed &#038; Failed Swaps</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-25T09:11:28.000Z",
+    "title": "Crypto Whale Tactics: Top 3 Coins Bought on Dips",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/crypto-whale-tactics-top-3-coins-bought-on-dips/",
+    "description": "<p>Once crypto markets are weakening but there are some smart investors we call whales buying this dump.  What does that mean? It means the whales are considering this dump a buying opportunity for these 3 coins before the 2024 massive bullrun. Which are these 3 coins? Let&#8217;s find out. 1) Bitcoin As you’d expect, Bitcoin [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/crypto-whale-tactics-top-3-coins-bought-on-dips/\">Crypto Whale Tactics: Top 3 Coins Bought on Dips</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-01-25T09:23:00.000Z",
+    "title": "Ripple Flags SEC’s Misstatements and Mischaracterization, Files Sur-Reply",
+    "url": "https://coinedition.com/ripple-files-sur-reply-for-secs-motion-to-compel-report/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple Flags SEC’s Misstatements and Mischaracterization, Files Sur-Reply\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/Judge_Allows_XRP_Holders_to_Assist_Court_in_SEC_vs_Ripple_Case-4-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a novel turn in the SEC-Ripple legal tussle, Ripple submitted a motion to file a Sur-Reply in connection with the SEC’s Motion to Compel. While the letter highlighted the “significant factual mischaracterization” in the regulators’ reply letter, the prominent XRP attorney, Bill Morgan, slammed the SEC for their frequent “misleading” statements. On January 11, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-files-sur-reply-for-secs-motion-to-compel-report/\">Ripple Flags SEC’s Misstatements and Mischaracterization, Files Sur-Reply</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

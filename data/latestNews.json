@@ -1,128 +1,58 @@
 [
   {
-    "source": "CryptoGlobe",
-    "date": "2024-01-25T08:19:04.000Z",
-    "title": "Unchained Capital’s Tom Hoznik Critiques Bitwise’s Spot Bitcoin ETF Security Approach, Bemoans Lack of Multisig Protection",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/unchained-capitals-tom-hoznik-critiques-bitwises-spot-bitcoin-etf-security-approach-bemoans-lack-of-multisig-protection/",
-    "description": "Unchained Capital’s Tom Hoznik seems concerned with the safety of the BTC holdings of Bitwise Asset Management’s spot Bitcoin ETF. Unchained Capital is a Bitcoin-focused financial services company. It offers services centered around Bitcoin, including secure custody, loans, and financial products that leverage Bitcoin as collateral. This approach is particularly appealing to individuals and businesses […]\n"
+    "source": "Cointelegraph",
+    "date": "2024-01-25T08:40:24.000Z",
+    "title": " Bitcoin ATM flaw could’ve given hackers ‘total control’ ",
+    "url": "https://cointelegraph.com/news/bitcoin-atm-vulnerability-ethical-hackers",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYjE4ZGJkNjYtNWM2Yi00ZmVlLWI2MTItY2E0NTMzMDJlMmNlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>IOActive chief technology officer Gunter Ollman said that through the vulnerabilities, attackers could steal users’ Bitcoin through the ATM. </p>\n                    <p><p>Bitcoin ATM provider Lamassu Industries fixed a vulnerability in its Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ATM machines after a team of ethical hackers took full control of the devices, highlighting some of its flaws. </p><p>In 2023, security researchers from IOActive attempted to hijack several ATMs issued by Lamassu. As they worked to access the machines, the research team <a href=\"https://labs.ioactive.com/2024/01/atm-security-owning-bitcoin-atm.html\" target=\"_blank\" rel=\"noopener nofollow\">identified</a> several vulnerabilities that they managed to exploit to gain access to the ATMs. </p><p>IOActive’s chief technology officer, Gunter Ollman, told Cointelegraph that through the exploit, attackers could “view and manipulate interactions with the hijacked ATM.” The security professional explained that hackers could steal BTC from the user’s wallet through the ATM using the vulnerabilities. Ollman explained: </p><p><a href=\"https://cointelegraph.com/news/bitcoin-atm-vulnerability-ethical-hackers\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-01-25T08:30:55.000Z",
-    "title": "Uma’s Latest Innovation Ova Promises Fairer Profit Distribution in Defi",
-    "url": "https://news.bitcoin.com/umas-latest-innovation-ova-promises-fairer-profit-distribution-in-defi/",
-    "description": "<img width=\"768\" height=\"439\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1-768x439.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Oval Launch by Uma Aims to Redistribute Profits Back to DeFi Protocols\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1-300x171.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1-1024x585.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1-768x439.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1-1536x878.png 1536w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/mev1.png 1792w\" sizes=\"(max-width: 768px) 100vw, 768px\" />UMA has officially introduced Oval, a novel product designed to optimize the use of oracle data by defi protocols. This tool changes how protocols manage oracle-based MEV, enhancing efficiency and fairness in Ethereum&#8217;s blockchain profits. Oval Launch by Uma Aims to Redistribute Profits Back to Defi Protocols Ethereum-based oracle protocol Uma unveiled its latest product [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-25T08:47:08.000Z",
+    "title": "Tesla HODLs, Company Did Not Sell Any Of Its Bitcoin In Q4 2023",
+    "url": "https://cryptodaily.co.uk/2024/01/tesla-hodls-company-did-not-sell-any-of-its-bitcoin-in-q4-2023",
+    "description": "Leading automotive and clean energy company Tesla has revealed in its earnings report that it did not sell any of its Bitcoin during the fourth quarter of 2023."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-25T08:21:51.000Z",
-    "title": "Shiba Inu Coin Price Prediction 2024-2033: Is SHIB Skyrocketing Soon?",
-    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
-    "description": "Shiba Inu Price Prediction 2024-2033 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-25T08:20:00.000Z",
-    "title": "IBM Watson Powers AI-Generated Content for 2024 Grammy Awards",
-    "url": "https://www.cryptopolitan.com/ibm-watson-powers-ai-generated-content/",
-    "description": "In a groundbreaking collaboration between The Recording Academy and IBM, the 2024 Grammy Awards will see the integration of generative AI technology to enhance the event&#8217;s digital experience. The initiative, named &#8220;AI Stories with IBM Watsonx,&#8221; will introduce AI-generated content across various social channels during and before the prestigious awards ceremony, including text, images, animations, [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-01-25T08:57:43.000Z",
+    "title": "Bitget Stakes Claim as Leading Crypto Exchange In 2024",
+    "url": "https://cryptodaily.co.uk/2024/01/bitget-stakes-claim-as-leading-crypto-exchange-in-2024",
+    "description": "Competition between digital assets exchanges is notoriously intense, with dozens of platforms vying for supremacy. Truthfully, it’s not easy to tease some of them apart as the majority offer users many of the same features, trading pairs,"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:19:50.000Z",
-    "title": "Nigeria’s Crypto Race Eyes Top Spot in Africa",
-    "url": "https://www.cryptopolitan.com/nigeria-eyes-top-spot-in-africas-crypto-race/",
-    "description": "In a development for Africa&#8217;s burgeoning cryptocurrency market, EMUGO Africa, a venture capital firm, predicts Nigeria&#8217;s dominance in the regional crypto space. The firm attributes this to Nigeria&#8217;s adoption of mobile-based crypto applications, a robust start-up ecosystem, and a tech-savvy youthful population. This insight comes from EMUGO Africa&#8217;s recent blog, &#8220;Inside Nigeria&#8217;s Web3 Market: Crypto [&#8230;]"
+    "date": "2024-01-25T09:00:50.000Z",
+    "title": "Polygon Labs to unite multiple blockchains with AggLayer Protocol",
+    "url": "https://www.cryptopolitan.com/polygon-labs-blockchains-agglayer-protocol/",
+    "description": "Polygon Labs, a developer of Ethereum-scaling solutions, is set to launch its groundbreaking AggLayer protocol next month. This innovative protocol aims to bridge the gap between various blockchains, providing users with an experience that &#8220;feels like a single chain.&#8221;&#160; To address the fragmented state of the blockchain landscape, Polygon Labs aims to create a unified [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:17:36.000Z",
-    "title": "Controversial launch on Ape Terminal leads to SatoshiVM token’s sharp decline",
-    "url": "https://www.cryptopolitan.com/launch-ape-terminal-satoshivm-token-decline/",
-    "description": "The cryptocurrency community has been rocked by a controversy surrounding the launch of the SatoshiVM (SAVM) token, which saw its value plummet by as much as 38%. The dispute centers on the recent Initial DEX Offering (IDO) conducted on Ape Terminal, a decentralized exchange (DEX) fundraising platform. The SAVM token launch controversy allegations of scam [&#8230;]"
+    "date": "2024-01-25T09:00:00.000Z",
+    "title": "Can Solana (SOL) Hit $1,000 in 2024? New 100X Altcoin Disrupts A.I Industry",
+    "url": "https://www.cryptopolitan.com/can-solana-sol-hit-1000-in-2024-new-100x-altcoin-disrupts-a-i-industry/",
+    "description": "In this article, we will delve into the factors that could contribute to Solana’s (SOL) rise and explore the disruptive potential of the Option2Trade (O2T) presale in the A.I market. Solana (SOL), a blockchain platform known for its scalability and fast processing times, has garnered attention and speculation from crypto enthusiasts and investors alike. With [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:16:00.000Z",
-    "title": "AMP Price Prediction 2024-2033: Is AMP a Good Investment?",
-    "url": "https://www.cryptopolitan.com/amp-price-prediction/",
-    "description": "AMP Price Prediction 2024-2033 Amp seeks to enable users to&#160;stake&#160;tokens without having to transfer them to a smart contract physically. This function seeks to make Amp suitable for any form of value exchange, including digital payments, traditional currency exchange, loan distributions, real estate transactions, and more.&#160; Staking Amp seeks to improve overall utility by increasing [&#8230;]"
+    "date": "2024-01-25T08:53:49.000Z",
+    "title": "Sui Price Prediction 2024-2033: Is SUI A Good Investment?",
+    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
+    "description": "Sui Price Prediction 2024-2033 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-25T08:11:30.000Z",
-    "title": "Blair and Hague Call for Sale of NHS Data to Drive AI Treatment",
-    "url": "https://www.cryptopolitan.com/blair-and-hague-call-for-sale-of-nhs-data/",
-    "description": "Former political rivals, Tony Blair and Lord William Hague, have joined forces to advocate for the sale of National Health Service (NHS) data to fuel advancements in artificial intelligence (AI) and biotechnology. In a recent report, the two prominent figures have outlined more than 40 recommendations aimed at ensuring the UK&#8217;s continued leadership in the [&#8230;]"
+    "date": "2024-01-25T08:42:17.000Z",
+    "title": "Is AI Set to Supercharge Global Ransomware Threats? NCSC Weighs In",
+    "url": "https://www.cryptopolitan.com/ai-supercharge-global-ransomware-threats/",
+    "description": "The National Cyber Security Centre (NCSC) has sounded the alarm on a looming surge in global ransomware threats, attributing the heightened risk to the integration of artificial intelligence (AI) by cybercriminals. As per the NCSC&#8217;s latest assessment, the utilization of AI in malicious cyber activities is anticipated to significantly amplify both the frequency and severity [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-25T08:29:39.000Z",
-    "title": "Borroe Finance presale draws XRP and Solana holders",
-    "url": "https://crypto.news/borroe-finance-presale-draws-xrp-and-solana-holders/",
-    "description": "Borroe Finance is attracting Solana and XRP investors in the ongoing ROE presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-25T08:29:13.000Z",
-    "title": "ARB buy signal emerges after a week of constant declines",
-    "url": "https://crypto.news/arb-buy-signal-emerges-after-a-week-of-constant-declines/",
-    "description": "Arbitrum (ARB) has gained momentum with a strong buy signal surfacing after recording a 13.6% decline over the past week. ARB is up by 1.5% in the past 24 hours and is trading at $1.7 at the time of writing.&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-25T08:26:54.000Z",
-    "title": "Chinese rush to invest into banned Bitcoin amid economic downturn ",
-    "url": "https://crypto.news/chinese-rush-to-invest-into-banned-bitcoin-amid-economic-downturn/",
-    "description": "Residents of China have begun actively converting their savings into cryptocurrencies, using creative ways to own Bitcoin (BTC) and other crypto assets prohibited in the country. According to Reuters, although cryptocurrency is banned in mainland China and there are strict&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-25T08:25:35.000Z",
-    "title": "Dogecoin, Shiba Inu, and PEPE holders exploring Kelexo in ongoing presale",
-    "url": "https://crypto.news/dogecoin-shiba-inu-and-pepe-holders-exploring-kelexo-in-ongoing-presale/",
-    "description": "Dogecoin (DOGE), Shiba Inu (SHIB), and Pepe Coin (PEPE) remain under pressure. Holders are considering Kelexo (KLXO), whose presale is in progress"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-25T08:25:07.000Z",
-    "title": "Helium (HT) jumps 21% following new deal with Telefónica in Mexico",
-    "url": "https://crypto.news/helium-ht-jumps-21-following-new-deal-with-telefonica-in-mexico/",
-    "description": "Telefónica and Nova Labs team up for Helium Mobile Hotspots in Mexico to extend coverage of mobile services in select locations. Nova Labs, the creator of Helium Network, has announced a partnership agreement with Telefónica, a multinational telecommunications company, to&#8230;"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-25T08:34:39.000Z",
-    "title": "Everything About the Upcoming Animalia IGO",
-    "url": "https://www.altcoinbuzz.io/finance-and-funding/idos/everything-about-the-upcoming-animalia-igo/",
-    "description": "<p>We&#8217;re just getting warmed up in 2024 for token sales! Today, we&#8217;re bringing you one hot project that&#8217;s launching on GameFi &#8211; Animalia. Check out its upcoming IGO (Initial Game Offering) below! Before we begin, let&#8217;s learn more about Animalia first. If you want to have more of these kinds of IGO reviews, subscribe to [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/finance-and-funding/idos/everything-about-the-upcoming-animalia-igo/\">Everything About the Upcoming Animalia IGO</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-25T08:25:48.000Z",
-    "title": "OKx to Compensate Users Affected by Flash Crash",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/okx-to-compensate-users-affected-by-flash-crash/",
-    "description": "<p>Okx suffered a flash crash of its native token, OKB, on Tuesday, January 23rd. The event caused the price of the OKB token to dip over 50% in value. OKB moved from an impressive price of $50.69 to a shocking low of $25.10. Let&#8217;s explore more about this terrible news. OKx Offers Compensation to Customers [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/okx-to-compensate-users-affected-by-flash-crash/\">OKx to Compensate Users Affected by Flash Crash</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-25T08:37:19.000Z",
-    "title": "New Pushd (PUSHD) presale gaining record breaking holders as Bitcoin (BTC) and Avalanche (AVAX) investors buy in",
-    "url": "https://coinedition.com/new-pushd-pushd-presale-gaining-record-breaking-holders-as-bitcoin-btc-and-avalanche-avax-investors-buy-in/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/pudhD.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/pudhD.png 730w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/01/pudhD-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Pushd (PUSHD) presale is causing ripples, attracting a record-breaking number of holders. As Bitcoin (BTC) faces challenges with a dip to $39,422 and heightened sell-side pressures, investors tread cautiously amidst concerns of potential liquidations, even as resilient Bitcoin (BTC) whales continue substantial purchases. In contrast, Avalanche (AVAX) exhibits stability, buoyed by a growing Total [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/new-pushd-pushd-presale-gaining-record-breaking-holders-as-bitcoin-btc-and-avalanche-avax-investors-buy-in/\">New Pushd (PUSHD) presale gaining record breaking holders as Bitcoin (BTC) and Avalanche (AVAX) investors buy in</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-25T08:15:39.000Z",
-    "title": "As Panic Sets in as the Markets Drop, Solana (SOL) & Ethereum (ETH) Investors Shift Big Money into Kelexo’s (KLXO) $0.022 Presale",
-    "url": "https://coinedition.com/as-panic-sets-in-as-the-markets-drop-solana-sol-ethereum-eth-investors-shift-big-money-into-kelexos-klxo-0-022-presale/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/pr-3-20-1-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>As uncertain times are striking crypto investments, investors from Solana (SOL) and Ethereum (ETH) are actively moving substantial funds into Kelexo&#8216;s (KLXO) presale. This shift to Kelexo&#8217;s (KLXO) during a time of widespread market unease highlights a strategic approach to investing – seeking out potential havens or opportunities in otherwise uncertain times. We explore the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/as-panic-sets-in-as-the-markets-drop-solana-sol-ethereum-eth-investors-shift-big-money-into-kelexos-klxo-0-022-presale/\">As Panic Sets in as the Markets Drop, Solana (SOL) &amp; Ethereum (ETH) Investors Shift Big Money into Kelexo&#8217;s (KLXO) $0.022 Presale</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-25T08:09:45.000Z",
-    "title": "Binance Coin Price Prediction 2024, will BNB make a comeback?",
-    "url": "https://coinedition.com/binance-coin-price-prediction-2024-will-bnb-make-a-comeback/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/retik-6.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/retik-6.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/retik-6-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>As we approach 2024, Binance Coin (BNB) has been on an impressive recovery journey, completing three months of a bullish run. With a remarkable 44% return over this period, BNB has bounced back from recent setbacks, including legal challenges. The price of BNB has surged beyond the $300 mark, indicating a potential breakout trend, and [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/binance-coin-price-prediction-2024-will-bnb-make-a-comeback/\">Binance Coin Price Prediction 2024, will BNB make a comeback?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-01-25T08:40:45.000Z",
+    "title": "Grayscale Bitcoin Trust (GBTC) outflows show signs of slowing, but uncertainty remains",
+    "url": "https://www.cryptopolitan.com/grayscale-bitcoin-trust-gbtc-outflows-slows/",
+    "description": "Daily outflows from the Grayscale Bitcoin Trust (GBTC) have reached their lowest point since launch day, sparking hope of a potential end to the exodus. However, experts remain cautious as the situation unfolds. Grayscale Bitcoin Trust outflows ease Daily outflows from the Grayscale Bitcoin Trust (GBTC) have seen a notable slowdown for two consecutive days, [&#8230;]"
   }
 ]

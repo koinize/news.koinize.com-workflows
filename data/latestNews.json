@@ -1,23 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-25T17:00:00.000Z",
-    "title": "Swan Bitcoin Unveils Mining Unit as Parent Company Prepares to Go Public",
-    "url": "https://www.coindesk.com/business/2024/01/25/swan-bitcoin-unveils-mining-unit-as-parent-company-prepares-to-go-public/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The mining business aims to reach 8 EH/s mining power and already has 4.5 EH/s operational after starting the unit in the summer of 2023."
+    "date": "2024-01-25T17:22:18.000Z",
+    "title": "Spot Ether ETF Applications Decisions Delayed by SEC",
+    "url": "https://www.coindesk.com/policy/2024/01/25/spot-ether-etf-applications-decisions-delayed-by-sec/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The U.S. Securities and Exchange Commission delayed an application by Grayscale Investments to convert its Ethereum trust product into an exchange-traded fund (ETF), a day after pushing back a decision on an application from BlackRock to launch an ether ETF."
   },
   {
     "source": "CoinDesk",
-    "date": "2024-01-25T17:07:18.000Z",
-    "title": "Protocol Village: Powerloom to Hold First Ever Node Mint on Polygon Network",
-    "url": "https://www.coindesk.com/tech/2024/01/25/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Jan. 25-31."
+    "date": "2024-01-25T17:17:13.000Z",
+    "title": "Grayscale's GBTC Profit Taking Likely Over, Easing Bitcoin Selling Pressure: JPMorgan",
+    "url": "https://www.coindesk.com/markets/2024/01/25/grayscales-gbtc-profit-taking-likely-over-easing-bitcoin-selling-pressure-jpmorgan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Around $1.3 billion has shifted from GBTC to new spot bitcoin ETFs, equivalent to a monthly outflow of about $3 billion per month, the bank said in a report."
   },
   {
-    "source": "Decrypt",
-    "date": "2024-01-25T17:05:32.000Z",
-    "title": "AltLayer Airdrop Puts $100 Million Into the Wallets of Ethereum Users",
-    "url": "https://decrypt.co/214245/altlayer-airdrop-puts-103-million-into-wallets-ethereum-users",
-    "description": "Another day, another airdrop. About half a million Ethereum wallets can claim the AltLayer (ALT) token now."
+    "source": "Cointelegraph",
+    "date": "2024-01-25T17:20:00.000Z",
+    "title": " SEC institutes proceedings on Grayscale spot Ether ETF, pushing deadline ",
+    "url": "https://cointelegraph.com/news/sec-grayscale-spot-ether-etf-deadline",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZDI0MWY0ZmMtNTM2Yi00MjllLTgzOTktNzBjZjIwMzdhZDI1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The U.S. Securities and Exchange Commission approved spot Bitcoin exchange-traded funds for the first time on Jan. 10.</p>\n                    <p><p>The United States Securities and Exchange Commission (SEC) has pushed its decision on whether to approve or disapprove of a spot Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) exchange-traded fund from Grayscale Investments, opening the application to public comments.</p><p>In a Jan. 25 notice, the SEC <a href=\"https://www.sec.gov/files/rules/sro/nysearca/2024/34-99428.pdf\" target=\"_blank\" rel=\"noopener nofollow\">said</a> it would institute proceedings to determine whether to approve or disapprove a proposed rule change that would allow NYSE Arca to list and trade the Grayscale Ethereum Trust shares. Opening the proposed investment vehicle to public comment will push the deadline for a decision by an additional 35 days upon publication in the Federal Register.</p><p>“Interested persons are invited to submit written data, views, and arguments regarding whether the proposed rule change should be approved or disapproved,” said the SEC.</p><p><a href=\"https://cointelegraph.com/news/sec-grayscale-spot-ether-etf-deadline\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-25T17:12:48.000Z",
+    "title": " Wallet providers remain divided on BRC-20 integration despite popularity ",
+    "url": "https://cointelegraph.com/news/wallet-providers-sentiment-remain-mixed-despite-brc20-momentum",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNWVhNjMxNjUtOTk0Yy00MjI4LTg0OTItNzdmZjg4MjRlNTliLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Some welcome the technology with open arms, other are less enthusiastic. </p>\n                    <p><p>One year ago, Bitcoin developer Casey Rodarmor <a href=\"https://www.okx.com/learn/what-are-inscriptions#:~:text=Inscriptions%20emergence%3A%20Developers%20like%20Casey,the%20blockchain%2C%20starting%20with%20Bitcoin.\" target=\"_blank\" rel=\"noopener nofollow\">pioneered</a> the Bitcoin Inscriptions process that enables users to encode metadata on Satoshis, or one hundred millionth (1/100,000,000) of a single Bitcoin. Expanding the idea in conjunction with Bitcoin Ordinals, which allows the minting of fungible tokens on the Bitcoin blockchain, fellow developer Domo <a href=\"https://twitter.com/domodata/status/1634247606262964228\" target=\"_blank\" rel=\"noopener nofollow\">created</a> the BRC-20 token standard in March 2023. </p><p>The standard became a hallmark in a nearly 15 year old blockchain as it enables the minting of assets such as nonfungible tokens directly on Bitcoin, mirroring the utility of ERC-20 Ethereum tokens. Since then, the total market cap of BRC-20 tokens has <a href=\"https://www.brc-20.io/\" target=\"_blank\" rel=\"noopener nofollow\">surpassed</a> $1.5 billion, with a trading volume of $337 million in the past 24 hours at the time of publication.</p><p><em>Cointelegraph reached out to Trust Wallet and Ledger for comments but did not receive any response by press time. </em></p><p><a href=\"https://cointelegraph.com/news/wallet-providers-sentiment-remain-mixed-despite-brc20-momentum\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-25T17:30:49.000Z",
+    "title": "Russia Mulls Cryptocurrency Mining Disconnection Proposal",
+    "url": "https://news.bitcoin.com/russia-mulls-cryptocurrency-mining-disconnection-proposal/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Cryptocurrency Mining Disconnection Proposal Rises in Russia\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/10c3d705-6902-4040-9af9-395f0968da14.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Cryptocurrency miners might be disconnected for up to 500 hours per year in Russia, according to a proposal supported by the State Duma Energy Committee to tackle the energy deficit in some regions. The initiative would be an alternative to introducing special tariffs directed to miners that would increase power expenses by up to five [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-25T17:20:44.000Z",
+    "title": "The Potential of Virtual Reality Games in Shaping the Gaming Landscape",
+    "url": "https://www.cryptopolitan.com/the-potential-of-virtual-reality-games/",
+    "description": "Virtual Reality (VR) has transcended the realm of science fiction, firmly establishing itself as an integral part of the present-day technological landscape. No longer a futuristic concept, VR has evolved into a powerful medium with a myriad of applications across various industries. As the world embraces this transformative technology, it is essential to dive into [&#8230;]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-25T17:29:48.000Z",
+    "title": "Polygon’s AggLayer: Revolutionizing Blockchain Fusion with Zero-Knowledge Proofs",
+    "url": "https://www.crypto-news-flash.com/polygons-agglayer-revolutionizing-blockchain-fusion-with-zero-knowledge-proofs/?utm_source=rss&utm_medium=rss&utm_campaign=polygons-agglayer-revolutionizing-blockchain-fusion-with-zero-knowledge-proofs",
+    "description": "<img width=\"2167\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon-MATIC-logo-with-fuccia-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background.jpg 2167w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-300x166.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-1024x567.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-768x425.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-1536x851.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-2048x1134.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-150x83.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-450x249.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-with-fuccia-background-1200x665.jpg 1200w\" sizes=\"(max-width: 2167px) 100vw, 2167px\" />Polygon has unveiled an aggregation layer (AggLayer) meant to unify the Web3 ecosystem to offset the existing challenge of scaling limitations.  This is reported to be launched next month. While this is the first version, the AggLayer V2 could support asynchronous cross-chain transactions and is expected this year.  A developer of blockchain projects Polygon Labs [...]"
   }
 ]

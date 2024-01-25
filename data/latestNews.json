@@ -1,30 +1,23 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-01-24T23:54:27.000Z",
+    "title": "Telecom Giant Telefónica Launches Solana-Powered Helium Mobile Hotspots",
+    "url": "https://decrypt.co/214160/telecom-giant-telefonica-launches-solana-powered-helium-mobile-hotspots",
+    "description": "Nova Labs has teamed with Telefónica to deploy the wireless hotspots, which are incentivized with crypto tokens on Solana, in Mexico."
+  },
+  {
     "source": "Crypto Briefing",
-    "date": "2024-01-24T23:24:03.000Z",
-    "title": "Solana’s NFT trading volume sees a 25% weekly rise",
-    "url": "https://cryptobriefing.com/solanas-nft-trading-volume-25-weekly-rise/?utm_source=feed&utm_medium=rss",
-    "description": "The $62 million in weekly trades was driven by NFT collections like Tensorians, CryptoUndeads, and Froganas."
+    "date": "2024-01-24T23:56:29.000Z",
+    "title": "Polygon unveils AggLayer protocol to unify monolithic and modular architectures",
+    "url": "https://cryptobriefing.com/polygon-agglayer-protocol-unify-monolithic-modular-architectures/?utm_source=feed&utm_medium=rss",
+    "description": "Polygon plans to launch AggLayer protocol, a novel solution to address Web3 fragmentation and scalability issues."
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2024-01-24T23:31:00.000Z",
-    "title": "Crypto Wallet Linked to Donald Trump Sees $TRUMP Token Holdings Soar to $1 Million",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/crypto-wallet-linked-to-donald-trump-sees-trump-token-holdings-soar-to-1-million/",
-    "description": "A memecoin named $TRUMP was earlier sent to a cryptocurrency wallet associated with former U.S. President and current presidential candidate Donald Trump. At the time, the tokens were worth a few thousand dollars, but have since skyrocketed to over $1 million. Although the TRUMP token’s release is not directly linked to the former U.S. President, […]\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-24T23:30:16.000Z",
-    "title": "Okx Exchange Announces Plans to Compensate Users After OKB Token Flash Crash",
-    "url": "https://news.bitcoin.com/okx-exchange-announces-plans-to-compensate-users-after-okb-token-flash-crash/",
-    "description": "<img width=\"768\" height=\"439\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash-768x439.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"OKX Exchange to Roll Out Compensation After Unexpected OKB Token Flash Crash\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash-300x171.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash-1024x585.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash-768x439.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash-1536x878.png 1536w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/okx_flash_crash.png 1792w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Following a sudden plunge in the value of its native token OKB, which fell over 50% in a matter of minutes, Okx exchange has committed to developing a compensation plan for users caught in the resultant wave of automatic liquidations. Okx Exchange to Roll Out Compensation After Unexpected OKB Token Flash Crash Okx exchange experienced [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-24T23:35:00.000Z",
-    "title": "South Africa crypto businesses close to gaining FSP license approval",
-    "url": "https://www.cryptopolitan.com/south-africa-crypto-businesses-to-gain-fsp/",
-    "description": "In a significant move for the cryptocurrency industry, South Africa is on the verge of issuing Financial Service Provider (FSP) licenses to crypto service providers. Gerhard van Deventer, the head of Divisional enforcement at the country&#8217;s Financial Sector Conduct Authority (FSCA), confirmed this development. The licenses are expected to enhance user protection against scams, a [&#8230;]"
+    "source": "NewsBTC",
+    "date": "2024-01-25T00:00:58.000Z",
+    "title": "Crypto Wallets Drained Off $600K Due To Ignored Phishing Attack",
+    "url": "https://www.newsbtc.com/news/ethereum/crypto-wallets-drained-off-600k-due-to-ignored-phishing-attack/",
+    "description": "On January 23, Wallet Connect and other web3 companies informed their users about a phishing scam using official web3 companies&#8217; email addresses to steal funds from thousands of crypto wallets. Related Reading: By The Numbers: Crypto Users Lose $300 Million To Phishing Scams In 2023 A Massive Phishing Campaign Wallet Connect took X to notify its community about an authorized email sent from a Wallet Connect-linked email address. This email prompted the receivers to open a link to claim an airdrop, however, the link led to a malicious site and, as Wallet Connect confirmed, it was not issued directly by the team or anyone affiliated. Wallet Connect contacted web3 security and privacy firm Blockaid to investigate the phishing scam further. In the following hours, crypto sleuth posted a community alert to inform unaware users that CoinTelegraph, Token Terminal, and De.Fi team emails were also compromised, signaling that a massive and more sophisticated phishing campaign was happening.  At the time of the post, around $580K had been stolen. After investigating, Blockaid later revealed that the attacker “was able to leverage a vulnerability in email service provider MailerLite to impersonate web3 companies.” Email phishing scams are common among cyber scammers, making users wary of most suspicious links or emails. At the same time, companies and entities advise against opening links that do not come from their official channels. In this case, the attacker was able to trick a vast number of users from these companies as the malicious links came from their official email addresses. The compromise allowed the attacker to send convincing emails with malicious links attached that led to wallet drainer websites. Specifically, the links led to several malicious dApps that utilize the Angel Drainer Group infrastructure. The attackers, as Bloackaid explained, took advantage of the data previously provided to Mailer Lite, as it had been given access by these companies to send emails on behalf of these sites’ domains before, specifically using pre-existing DNS records, as detailed in the thread: Specifically, they used “dangling dns” records which were created and associated with Mailer Lite (previously used by these companies). After closing their accounts these DNS records remain active, giving attackers the opportunity to claim and impersonate these accounts. pic.twitter.com/cbTpc5MXu1 &#8212; Blockaid (@blockaid_) January 23, 2024 MailerLite Explains Security Breach The explanation later came Via an email, where MailerLite explained that the investigation showed that a member of their customer support team inadvertently became the initial point of the compromise. As the email explains: The team member, responding to a customer inquiry via our support portal, clicked on an image that was deceptively linked to a fraudulent Google sign-in page. Mistakenly entering their credentials there, the perpetrator(s) gained access to their account. The intrusion was inadvertently authenticated by the team member through a mobile phone confirmation, believing it to be a legitimate access attempt. This breach enabled the perpetrators) to penetrate our internal admin panel. MailerLite further adds that the attacker reset the password for a specific user on the admin panel to consolidate the unauthorized control further. This control gave them access to 117 accounts, of which they only focused on cryptocurrency-related accounts for the phishing campaign attack. An anonymous Reddit user posted an analysis of the situation and gave a closer look at the attacker’s transactions. The user revealed: One victim wallet appears to have lost 2.64M worth of XB Tokens. I&#8217;m showing about 2.7M sitting in the phishing wallet of 0xe7D13137923142A0424771E1778865b88752B3c7, while 518.75K went to 0xef3d9A1a4Bf6E042F5aaebe620B5cF327ea05d4D. The user stated that most stolen funds were in the first phishing address. At the same time, approximately $520,000 worth of ETH were sent to privacy protocol Railgun, and he believes that they will soon be moved through another mixer or exchange. Related Reading: 4 Ways Crypto Investors Can Avoid Phishing Scams   ETH is trading at $2,232.92 in the hourly chart. Source: ETHUSDT on TradingView.com Featured image from Unsplash.com, Chart from TradingView.com"
   }
 ]

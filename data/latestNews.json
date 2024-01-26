@@ -1,100 +1,51 @@
 [
   {
     "source": "Decrypt",
-    "date": "2024-01-26T18:42:11.000Z",
-    "title": "How a Perfume DAO Brought its 'Scent of the Metaverse' to Luxury Store Harvey Nichols",
-    "url": "https://decrypt.co/214283/how-perfume-dao-brought-scent-metaverse-luxury-store-harvey-nichols",
-    "description": "Rook Perfumes formed a DAO to create a unique fragrance that conjures up the world of NFTs and the metaverse."
+    "date": "2024-01-26T19:23:24.000Z",
+    "title": "Bitcoin Soars as Selling Slows—Is the Worst Over for Grayscale?",
+    "url": "https://decrypt.co/214423/bitcoin-soars-selling-slows-worst-over-grayscale",
+    "description": "The markets are recovering after a major bearish run. Bitcoin and Ethereum have stopped the bleeding, leading a broader pump."
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-01-26T18:40:37.000Z",
-    "title": "HTX turns off proof-of-reserves as TUSD struggles to hold its peg",
-    "url": "https://cryptobriefing.com/htx-turns-off-proof-reserves-tusd-struggles-hold-peg/?utm_source=feed&utm_medium=rss",
-    "description": "HTX turned off proof of reserves while TUSD, linked to HTX stakeholder Sun, loses dollar peg raising collateralization concerns"
+    "source": "Cointelegraph",
+    "date": "2024-01-26T19:23:13.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">The United States Securities and Exchange Commission (SEC) and Binance continue to clash behind the scenes, months after the crypto exchange settled with the regulator. Meanwhile, Bitcoin miners will be unable to mine profitably post-halving if the price of Bitcoin doesn’t rally significantly, warns Cantor Fitzgerald, and the SEC has pushed its deadline for deciding whether to approve Grayscale's spot Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) exchange-traded fund (ETF).</p><p><a href=\"https://cointelegraph.com/news/court-status-report-confirms-binance-sec-odds\">Court filings have revealed</a> that the U.S. SEC and Binance continue to clash over which documents the crypto exchange has to hand over to the regulator.</p><p>Per a Jan. 25 joint status report, the SEC contents that “there are important aspects of discovery from BAM that are outstanding.” BAM Trading Services is the parent company of Binance.US.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-26T19:20:00.000Z",
+    "title": " Dogecoin hits 7-day high following XPayments creation, trader bribes way to $7M profit: Finance Redefined ",
+    "url": "https://cointelegraph.com/news/dogecoin-7-day-high-xpayments-trader-bribes-7-m-profit-finance-redefined",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMzBkMjgyYTgtMDkyMi00NTAzLTg4Y2ItYjNkOGQ2ZjU3NGY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>MailerLite revealed that hackers gained control of select Web3 email accounts, which eventually led to a widescale phishing attack across the crypto ecosystem.</p>\n                    <p><p>Welcome to Finance Redefined, your weekly dose of essential <a href=\"https://cointelegraph.com/learn/defi-a-comprehensive-guide-to-decentralized-finance\">decentralized finance (DeFi)</a> insights — a newsletter crafted to bring you the most significant developments from the past week.</p><p>A crypto trader used a Banana Gun sniping tool to make a $6.77 million profit within three hours of the launch of the SatoshiVM (SAVM) token. The tool helped the trader acquire the token before the launch, which they later sold at an inflated price after the official launch. The trading bot has remained controversial since its release, with several cases of funds mysteriously vanishing post-sniping.</p><p>While a Banana Gun spokesperson told Cointelegraph that it is not an issue with the bot, some token contracts have functions where the contract deployer can move funds out of wallets. In one case, the tokens never moved to the buyer’s wallets due to a malicious contract.</p><p><a href=\"https://cointelegraph.com/news/dogecoin-7-day-high-xpayments-trader-bribes-7-m-profit-finance-redefined\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-26T19:26:22.000Z",
+    "title": "OneCoin lawyer sentenced to 10 years in prison over laundering $400 million",
+    "url": "https://cryptoslate.com/onecoin-lawyer-sentenced-to-10-years-in-prison-over-laundering-400-million/",
+    "description": "<p>In a landmark judgment, Mark Scott, formerly a high-ranking lawyer at Locke Lord LLP, received a 10-year prison sentence on Jan. 25 for laundering $400 million derived from the infamous OneCoin Ponzi scheme. The sentencing at the Southern District of New York followed Scott&#8217;s 2019 conviction on multiple counts of bank fraud and money laundering. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/onecoin-lawyer-sentenced-to-10-years-in-prison-over-laundering-400-million/\">OneCoin lawyer sentenced to 10 years in prison over laundering $400 million</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-26T18:42:22.000Z",
-    "title": "Bitcoin pumps again - A sustainable rally?",
-    "url": "https://cryptodaily.co.uk/2024/01/bitcoin-pumps-again-a-sustainable-rally",
-    "description": "When $BTC got going on its price surge earlier on Friday the resulting short squeeze took out all the short positions. These now liquidated, the price has broken back above its bull trend line. Is $44,000 the next stop?"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-26T18:40:22.000Z",
-    "title": "ChatGPT Predicts Rise for Solana, is ScapesMania Also Bullish?",
-    "url": "https://cryptodaily.co.uk/2024/01/chatgpt-predicts-rise-for-solana-is-scapesmania-also-bullish",
-    "description": "Dive into the current state of Solana (SOL) as it navigates a bearish trend, experiencing a more than 10% price drop. Explore the impact of the recent launch of innovative token extensions, empowering developers to customize tokens for specific project needs. Discover how Solana's (SOL) strategic moves could reshape the crypto landscape and position it for substantial growth, with long-term projections hinting at a $1000 valuation by 2040."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-26T19:00:23.000Z",
-    "title": "Craig Wright Offers Settlement in Disputed Bitcoin Creator Case",
-    "url": "https://news.bitcoin.com/craig-wright-offers-settlement-in-disputed-bitcoin-creator-case/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Craig Wright Offers Settlement in Disputed Bitcoin Creator Case\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/copa_court_case.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Craig Wright, who claims to be the creator of Bitcoin, has presented a non-negotiable settlement, potentially ending the contentious legal battle over the true identity of Satoshi Nakamoto, Bitcoin&#x2019;s pseudonymous founder. Bitcoin&#x2019;s Alleged Creator Proposes Settlement Amidst Forged Document Allegations Craig Wright, the self-proclaimed inventor of Bitcoin, has made a public, non-negotiable settlement offer to [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-26T18:55:37.000Z",
-    "title": "Can Pushd (PUSHD) Keep Innovation Lead, Or Will Litecoin (LTC) and Cardano (ADA) Return?",
-    "url": "https://nulltx.com/can-pushd-pushd-keep-innovation-lead-or-will-litecoin-ltc-and-cardano-ada-return/",
-    "description": "Litecoin (LTC) and Cardano (ADA) both had a rough start to 2024, and investors are weighing up the eternal question of HODL vs. letting go. This is always a tough call, as there’s not a lot of certainty in crypto markets. Fortunately, investors looking for certainty may look at Pushd [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-26T18:52:43.000Z",
-    "title": "Excitement builds in Kelexo (KLXO) presale as Ethereum (ETH) & Solana (SOL) try and recover",
-    "url": "https://nulltx.com/excitement-builds-in-kelexo-klxo-presale-as-ethereum-eth-solana-sol-try-and-recover/",
-    "description": "Excitement is building up towards a fever pitch with the stage 1 presale launch of highly-anticipated decentralized loan marketplace protocol Kelexo (KLXO). The launch is at an opportune time as altcoin holders look to diversify their holdings with a presale investment with moon potential in 2024. Here’s why Ethereum (ETH) [&#8230;]"
+    "date": "2024-01-26T19:31:36.000Z",
+    "title": "Wooooo! Coin Announces Major Milestones with Listings on MEXC and Bitmart",
+    "url": "https://cryptodaily.co.uk/2024/01/wooooo-coin-announces-major-milestones-with-listings-on-mexc-and-bitmart",
+    "description": "Wooooo! Coin Announces Major Milestones with Listings on MEXC and Bitmart"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-26T19:06:26.000Z",
-    "title": "Analyst backs Kelexo, Solana and Litecoin sliding",
-    "url": "https://crypto.news/analyst-backs-kelexo-solana-and-litecoin-sliding/",
-    "description": "Solana (SOL) and Litecoin (LTC) holders are looking for new investment opportunities to diversify their portfolios. Some are considering Kelexo (KLXO)"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-26T18:52:27.000Z",
-    "title": "Spot Bitcoin ETFs see $80m net outflows on Thursday",
-    "url": "https://crypto.news/spot-bitcoin-etfs-see-80m-net-outflows-on-thursday/",
-    "description": "Investor interest in newly launched spot Bitcoin ETFs seems to wane, as another $80 million net outflow was recorded yesterday. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-26T18:46:24.000Z",
-    "title": "PIXL coin sees surge amidst Sappy Seals NFT collection boom",
-    "url": "https://crypto.news/pixl-coin-sees-surge-amidst-sappy-seals-nft-collection-boom/",
-    "description": "PIXL coin's value surges 18.8%, mirroring a spike in the affiliated Sappy Seals NFT collection's sales."
+    "date": "2024-01-26T19:30:16.000Z",
+    "title": "Analyst projects Ethereum potentially to $2k amid market consolidation",
+    "url": "https://crypto.news/analyst-projects-ethereum-potentially-to-2k-amid-market-consolidation/",
+    "description": "FxPro senior analyst Alex Kuptsikevicha projects Ethereum’s price could further dip towards $2,000, as the altcoin is down by over 8% weekly. "
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-26T19:00:15.000Z",
-    "title": "NuggetRush Poised for Explosive Growth, Predicted to Outshine Shiba Inu and Decentraland in Upcoming Quarter",
-    "url": "https://www.crypto-news-flash.com/nuggetrush-poised-for-explosive-growth-predicted-to-outshine-shiba-inu-and-decentraland-in-upcoming-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=nuggetrush-poised-for-explosive-growth-predicted-to-outshine-shiba-inu-and-decentraland-in-upcoming-quarter",
-    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-26T102659.510.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-26T102659.510.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-26T102659.510-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-26T102659.510-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-26T102659.510-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Shiba Inu (SHIB) records a sharp increase in whale activity. Decentraland (MANA) holders expect a recovery amid excitement around its airdrop. NuggetRush’s (NUGX) gaming adventures will offer high-value NFT rewards. Whale activity on Shiba (SHIB) Inu has soared in mid-January. Decentraland (MANA) is holding an airdrop, which has caused a significant increase in its network [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-26T19:00:00.000Z",
-    "title": "Disgraced Crypto Founder Calls Time in Prison an “Enjoyable Experience”",
-    "url": "https://coinedition.com/disgraced-crypto-founder-calls-time-in-prison-an-enjoyable-experience/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Disgraced Crypto Founder Calls Time in Prison an “Enjoyable Experience”\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities.jpg 730w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/Crypto-Investment-Opportunities-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Zhu disclosed that he has shifted attention from Three Arrows to a new project. Three Arrows Capital founder Su Zhu described his time in prison as an “enjoyable experience.” The founder said he had the best sleep of his life while in prison due to the mandatory lights-off. Following his release from prison last month, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/disgraced-crypto-founder-calls-time-in-prison-an-enjoyable-experience/\">Disgraced Crypto Founder Calls Time in Prison an “Enjoyable Experience”</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-26T19:05:59.000Z",
-    "title": "Crypto Analyst and Trader Ali Martinez Believes Bitcoin (BTC) Is Gearing Up for a Rally as One Indicator Is Suddenly Flashing Green",
-    "url": "https://dailyhodl.com/2024/01/26/bitcoin-could-surge-higher-as-one-indicator-flashes-bullish-signal-but-theres-a-catch/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/01/bitcoin-unlikely-go-under.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst and trader Ali Martinez believes Bitcoin (BTC) is gearing up for a rally as one indicator is suddenly flashing green. Martinez tells his 42,400 followers on the social media platform X that the Tom DeMark (TD) Sequential indicator is giving off a bullish reading. However, the analyst warns if Bitcoin fails to hold [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/26/bitcoin-could-surge-higher-as-one-indicator-flashes-bullish-signal-but-theres-a-catch/\">Crypto Analyst and Trader Ali Martinez Believes Bitcoin (BTC) Is Gearing Up for a Rally as One Indicator Is Suddenly Flashing Green</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-01-26T19:04:11.000Z",
-    "title": "$17,000 Stolen From Bank of America Account in ‘Stunning’ Phone Hack – Why Two-Factor Authentication ‘Hijacked Everything’",
-    "url": "https://dailyhodl.com/2024/01/26/17000-stolen-from-bank-of-america-account-in-stunning-phone-hack-why-two-factor-authentication-hijacked-everything/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/bank-wells-dollar-hq.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A Bank of America customer says she&#8217;s stunned after losing control of her phone and watching $17,000 disappear from her bank account in a matter of minutes. And to make matters worse – the bank&#8217;s two-factor authentication system (2FA) was a key element of the criminal&#8217;s success. Sharon Hussey says an impostor recently walked into [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/26/17000-stolen-from-bank-of-america-account-in-stunning-phone-hack-why-two-factor-authentication-hijacked-everything/\">$17,000 Stolen From Bank of America Account in &#8216;Stunning&#8217; Phone Hack – Why Two-Factor Authentication &#8216;Hijacked Everything&#8217;</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-01-26T19:11:20.000Z",
+    "title": "BitMEX Co-founder Arthur Hayes Predicts Bitcoin Dip to $30,000-$35,000, Reveals Altcoin Picks",
+    "url": "https://www.crypto-news-flash.com/bitmex-co-founder-arthur-hayes-predicts-bitcoin-dip-to-30000-35000-reveals-altcoin-picks/?utm_source=rss&utm_medium=rss&utm_campaign=bitmex-co-founder-arthur-hayes-predicts-bitcoin-dip-to-30000-35000-reveals-altcoin-picks",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes-.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-23-12.11.30-A-futuristic-digital-health-concept-representing-the-collaboration-between-VeChain-and-Inpersona-showcasing-the-Vyvo-Smart-Chain.-The-image-includes--450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The BitMEX co-founder believes that Bitcoin is due for a 30% correction from its year-high of $48,000, driven by the approval of Bitcoin ETFs. The founder believes prices will drop to $30,000 and has revealed his altcoin picks for the coins he will load up in the bear market. BitMEX co-founder Arthur Hayes has warned [...]"
   }
 ]

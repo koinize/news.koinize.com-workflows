@@ -1,79 +1,51 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-01-26T10:43:02.000Z",
-    "title": "Bitcoin and Ethereum Flat as Solana Meme Coin BONK Bounces 6.9%",
-    "url": "https://decrypt.co/214368/bitcoin-and-ethereum-flat-as-solana-meme-coin-bonk-bounces-6-9",
-    "description": "Bitcoin, Ethereum, and Solana are flat after a rough start to the week. But Solana meme coin BONK has bounced almost 7% since yesterday."
+    "source": "CryptoSlate",
+    "date": "2024-01-26T11:21:37.000Z",
+    "title": "Grayscale selling pressure ‘largely behind us,’ spotlight on Newborn Nine: JP Morgan",
+    "url": "https://cryptoslate.com/grayscale-selling-pressure-largely-behind-us-spotlight-on-newborn-nine-jp-morgan/",
+    "description": "<p>Analysts from banking giant JPMorgan believe that the profit-taking from the Grayscale Bitcoin Trust (GBTC) may have concluded, potentially alleviating the downward pressure on Bitcoin prices.  The analysts explained that they had estimated that GBTC could see as much as $3 billion in outflows from investors previously exposed to its discount. But with the flow [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/grayscale-selling-pressure-largely-behind-us-spotlight-on-newborn-nine-jp-morgan/\">Grayscale selling pressure &#8216;largely behind us,&#8217; spotlight on Newborn Nine: JP Morgan</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-26T11:08:40.000Z",
-    "title": " OpenAI drops price for GPT-3.5 Turbo, releases new GPT-4 update ",
-    "url": "https://cointelegraph.com/news/openai-gpt-4-update-price-drop-new-embeddings-models",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvYjQxMWI1MjYtMDIwZS00NjA5LWE5OGUtODQ1NDVhMWRlMWU4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OpenAI introduced smaller AI models known as embeddings, which aid applications in understanding the connections between various contents.</p>\n                    <p><p>OpenAI has released new models, including an updated GPT-4 Turbo preview model and dropped the price for GPT-3.5 Turbo API access. The company has also introduced new ways for developers to manage API keys and understand API usage.</p><p>In a blog <a href=\"https://openai.com/blog/new-embedding-models-and-api-updates\" target=\"_blank\" rel=\"noopener nofollow\">post</a>, OpenAI said the updated GPT-4 Turbo “completes tasks like code generation more thoroughly than the previous preview model and is intended to reduce cases of ‘laziness’ where the model doesn’t complete a task.”</p><p>OpenAI said it is also introducing a new GPT-3.5 Turbo model, gpt-3.5-turbo-0125, and for the third time in the past year, it will be decreasing prices on GPT-3.5 Turbo to help its customers scale. The input prices for the new model are reduced by 50% to $0.0005 per thousand tokens, and output prices are reduced by 25% to $0.0015 per thousand tokens.</p><p><a href=\"https://cointelegraph.com/news/openai-gpt-4-update-price-drop-new-embeddings-models\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-26T11:00:49.000Z",
-    "title": "Core DAO Launches $5 Million ‘Innovation Fund’ to Support Africa-Based Web3 Developers",
-    "url": "https://news.bitcoin.com/core-dao-launches-5-million-innovation-fund-to-support-africa-based-web3-developers/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/shutterstock_2143985729.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Core DAO, the foundation supporting Core Chain protocol, said on Jan. 24 that it has launched a fund to &#8220;provide resources and networks to support African Web3 builders.&#8221; Brendan Sedo said since much of Core DAO’s community is in Africa, it therefore made sense to launch a fund that supports the continent’s Web3 builders. More [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2024-01-26T11:15:15.000Z",
+    "title": "OKX to shut down Mining Pool operations amid ‘business adjustments’",
+    "url": "https://cryptobriefing.com/okx-to-shut-down-mining-pool-operations-amid-business-adjustments/?utm_source=feed&utm_medium=rss",
+    "description": "The shutdown comes on the heels of a major flash crash last week in which OKX's native token (OKB) experienced a 48% plunge."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-26T10:59:55.000Z",
-    "title": "Ethereum scaling solution AltLayer initiates $100M token airdrop",
-    "url": "https://www.cryptopolitan.com/ethereum-scaling-solution-altlayer-airdrop/",
-    "description": "AltLayer, a prominent Ethereum scaling solution, has marked a significant milestone by becoming the first of at least three protocols to initiate token airdrops worth over $100 million in the coming week. The AltLayer (ALT) token and its claiming process went live at 9:00 am UTC on January 25, ushering in a new era for [&#8230;]"
+    "date": "2024-01-26T11:31:22.000Z",
+    "title": "FSCA Grants Licenses, Establishing South Africa as Crypto Pioneer",
+    "url": "https://www.cryptopolitan.com/fsca-grants-licenses-establishing-south-africa-as-crypto-pioneer/",
+    "description": "TL ; DR South Africa&#8217;s Financial Sector Conduct Authority (FSCA) is gearing up to grant licenses to approximately 50 crypto asset service providers (CASPs) in the upcoming weeks. This development positions South Africa as the first country on the African continent to mandate licenses for digital asset exchanges, signifying a significant step towards embracing blockchain [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-26T10:52:08.000Z",
-    "title": "XRP greenlist removal leads to FOIA request by legal expert",
-    "url": "https://www.cryptopolitan.com/xrp-greenlist-removal-leads-to-foia-request/",
-    "description": "Attorney James Murphy, known for his expertise in the legal aspects of the digital currency world, has filed a Freedom of Information Act (FOIA) request with the New York Department of Financial Services (NYDFS). This move comes in response to the NYDFS’s unexpected decision to delist XRP from its approved tokens list, commonly called the [&#8230;]"
+    "date": "2024-01-26T11:30:34.000Z",
+    "title": "Unifying The Best of Crypto and Fintech: Q&A with Alin George Luca, CEO of enfineo",
+    "url": "https://www.cryptopolitan.com/qa-with-alin-george-luca-ceo-of-enfineo/",
+    "description": "Cryptocurrencies have largely existed in isolation from the traditional financial system. This disconnect has created a number of challenges that have held back the adoption and mainstream use of digital assets. Enfineo, with its visionary CEO Alin George Luca at the helm, aims to bridge this gap. By partnering with established financial institutions like Mastercard, [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-26T10:56:40.000Z",
-    "title": "Solana losing steam as Dogecoin and NuggetRush rally after X Payments’ early success",
-    "url": "https://crypto.news/solana-losing-steam-as-dogecoin-and-nuggetrush-rally-after-x-payments-early-success/",
-    "description": "Solana is under pressure while Dogecoin and NuggetRush edging higher on X Payments' early success"
+    "source": "Cryptopolitan",
+    "date": "2024-01-26T11:30:00.000Z",
+    "title": "Ark Invest boosts Bitcoin ETF stake amid market uncertainty",
+    "url": "https://www.cryptopolitan.com/ark-invest-boosts-bitcoin-etf-stake/",
+    "description": "Cathie Wood&#8217;s Ark Invest purchased a substantial 94,918 shares of the ARK 21 Shares Bitcoin Spot ETF on January 25, 2024, equivalent to approximately US$3.78 million. Simultaneously, the firm executed a sell-off, divesting 198,873 ProShares Bitcoin Futures ETF shares, amounting to approximately US$3.82 million. These calculated decisions highlight the dynamic nature of Ark Invest as [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-26T10:55:49.000Z",
-    "title": "OKX shuts down mining pools after five years of operation",
-    "url": "https://crypto.news/okx-shuts-down-mining-pools-after-five-years-of-operation/",
-    "description": "Cryptocurrency exchange OKX said it will discontinue mining pool and related services due to &#8220;business adjustments&#8221; as Bitcoin halving looms. In a press release on Jan. 26, crypto exchange OKX announced the shutdown of its mining pool services, effective immediately&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-01-26T11:18:34.000Z",
+    "title": "Crypto giant Canaan’s shocking $80M loss",
+    "url": "https://www.cryptopolitan.com/crypto-giant-canaans-shocking-80m-loss/",
+    "description": "The cryptocurrency mining rig manufacturer Canaan has raised over $50 million in funding by issuing preferred shares to an undisclosed institutional investor. This move aims to bolster the company&#8217;s research and development efforts and expand its production capabilities.&#160; The news comes as Canaan continues to navigate the volatile crypto industry and address challenges, including recent [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-26T10:46:58.000Z",
-    "title": "MEV bot on Solana rakes $1.7m in profit, Rebel Satoshi’s potential engages investors",
-    "url": "https://crypto.news/mev-bot-on-solana-rakes-1-7m-in-profit-rebel-satoshis-potential-engages-investors/",
-    "description": "An MEV bot on Solana raked in a $1.7 million profit from trading WIF meme coin. Rebel Satoshi presale approaches $2 million"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-26T10:46:09.000Z",
-    "title": "US CBDC debate heats up amid elections. Does the country need a digital dollar?",
-    "url": "https://crypto.news/us-cbdc-debate-heats-up-amid-elections-does-the-country-need-a-digital-dollar/",
-    "description": "During the 2024 presidential race, the discussion on a U.S. CBDC becomes more intense. Candidates&#8217; contrasting views mirror wider concerns about privacy and government control. As of Jan. 2024, the situation regarding central bank digital currencies (CBDCs) in the U.S.&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-01-26T11:00:09.000Z",
-    "title": "XRP Breakout: Analyst Forecasts Potential Price Surge To $11",
-    "url": "https://www.newsbtc.com/analysis/xrp/xrp-breakout-analyst-forecasts-potential-price-surge-to-11/",
-    "description": "Amid the general decline surrounding the entire cryptocurrency market, XRP has been observed as one of the most affected tokens, with its price falling as low as $0.51 at a swift rate. Potential Price Surge For XRP The price of XRP has been witnessing a significant bearish trend for quite some time now. This has led to several speculations from market analysts about the token&#8217;s future. However, a well-known crypto analyst, XForceGlobal, has predicted a rally for XRP that could take the asset to the pivotal $11 price mark. The analyst took to the social media platform X (formerly Twitter) to share his bold projections with the crypto community. Related Reading: Is XRP Price At $20 Possible? Crypto Analyst Predicts Stunning Move In his macro analysis, XForceGlobal identified that XRP has been forming a symmetrical triangle since 2021. He noted a triangle scenario as the main focus of his forecast. This symmetrical triangle was formed as a result of the upper descending trendline and the lower ascending trendline. According to data from the expert&#8217;s weekly chart, after XRP fell to a low of $0.1013 in March 2020, the token created the lower ascending trendline of the triangle. However, it was not until the asset&#8217;s decline from $1.96 in April 2021 that the upper descending trendline was formed. Since then, XRP has not been able to break above or below the triangle. XForceGlobal projects that as XRP approaches the triangle&#8217;s peak, it will initially plummet further to retest the lower trendline. After that, the expert predicts a significant upswing leading to an ascending breakout. Furthermore, he asserts that the larger triangles&#8217;s ability to withstand three years of data is the largest accumulation of any token. XForceGlobal stated: The larger triangle scenario now has a solid three years of data which makes it the largest accumulation of any coin without breaking any major lows at the time of writing. With his analysis, XForceGlobal has put his &#8220;conservative price&#8221; for the asset between &#8220;$9 to $11&#8221; in case the breakout happens. &#8220;I would be conservative with my targets in the coming years of around $9-$11 if the triangle scenario happens,&#8221; he stated. The Crypto Asset Has Seen A Massive Breakdown Another crypto analyst, Crypto Rover, has taken to X to share the effects of the decline that XRP has been observing. He underscored that the decline has seen a &#8220;massive breakdown&#8221; since the Q2 of 2021. Related Reading: XRP Bears Looming: Analyst Predicts Potential Drop To $0.28 Rover shared a chart of the digital asset to further emphasize his analysis. As seen by Rover, XRP fell from a peak of about $1.82 in mid-April 2021 to the present price of $0.51. Since then, the token seems to have been trading in a symmetric triangle. With the price breaking through the triangle&#8217;s base, further decline could happen if not controlled. At the time of writing, XRP was trading at $0.5125, showing a 6.10% decrease over the past week. Its market cap is up by 0.38%, while its trading volume is down by over 3%, according to CoinMarketCap. Featured image by Shutterstock, chart by Tradingview.com"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-26T11:01:54.000Z",
-    "title": "U.S. to Sell $130 Million in Bitcoin from Silk Road Case",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/u-s-to-sell-130-million-in-bitcoin-from-silk-road-case/",
-    "description": "<p>The planned sale, outlined in the notice, is divided into two distinct lots. The first and larger lot consists of approximately 2,800 bitcoins and is estimated to be worth around $129 million. Then, the second lot is smaller, comprising 58 bitcoins, with an approximate value of $3 million. Auction Includes Over 2,800 BTC in Two [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/u-s-to-sell-130-million-in-bitcoin-from-silk-road-case/\">U.S. to Sell $130 Million in Bitcoin from Silk Road Case</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-01-26T11:32:00.000Z",
+    "title": "Selling Pressure Looms as Celsius Moves $1B+ ETH to Exchanges",
+    "url": "https://coinedition.com/dumping-alert-celsius-moves-over-1-billion-eth-to-exchanges/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dumping Alert: Celsius Moves Over $1 Billion ETH to Exchanges\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/Celsius-is-closely-following-the-Ethereum-Merge-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The price of Ethereum (ETH) may face substantial selling pressure as reports circulate that bankrupt crypto lender Celsius continuously transfers billion-dollar values of ETH to centralized exchanges for potential liquidation. On-chain analytics provider Lookonchain and many online pundits have called attention to Celsius’ ETH transactions. Using data from Etherscan, Lookonchain found that Celsius has moved [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/dumping-alert-celsius-moves-over-1-billion-eth-to-exchanges/\">Selling Pressure Looms as Celsius Moves $1B+ ETH to Exchanges</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

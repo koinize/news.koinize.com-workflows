@@ -1,100 +1,128 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-29T17:00:56.000Z",
-    "title": "As Blockchains Push Toward Decentralization, These People Serve as Ultimate Guardians",
-    "url": "https://www.coindesk.com/tech/2024/01/29/as-blockchains-push-toward-decentralization-these-people-serve-as-ultimate-guardians/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The goal of these \"protocol councils,” sometimes called “security councils,” is to nudge these nascent networks toward increasing decentralization, by gradually removing them from under the control of their original developers. How are they different from boards of directors?"
+    "date": "2024-01-29T17:31:23.000Z",
+    "title": "How AI and DePIN Will Change Web3",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/01/29/how-ai-and-depin-will-change-web3/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The collision of Web3 services, distributed infrastructure (DePIN) and AI creates entirely new forms of internet experience and we're just starting to see the future, says Lex Sokolin, at Generative Ventures."
   },
   {
     "source": "CoinDesk",
-    "date": "2024-01-29T16:53:14.000Z",
-    "title": "Anthony Scaramucci Predicts Bitcoin to Hit at Least $170K Post Halving",
-    "url": "https://www.coindesk.com/markets/2024/01/29/anthony-scaramucci-predicts-bitcoin-to-hit-170k-post-halving/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Skybridge Capital founder and managing partner Anthony Scaramucci sees bitcoin {{BTC}} soaring to at least $170,000 after the halving in April, when the number of new bitcoin entering circulation shrinks again."
+    "date": "2024-01-29T17:20:06.000Z",
+    "title": "DeFi Insurer Nexus Mutual Requests $153K for 6-Month Budget",
+    "url": "https://www.coindesk.com/business/2024/01/29/defi-insurer-nexus-mutual-requests-153k-for-6-month-budget/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The crypto insurance protocol is anticipating growth stemming from a recent partnership."
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-01-29T16:43:42.000Z",
-    "title": "Crypto funds see a $500 million outflow over the last week",
-    "url": "https://cryptobriefing.com/crypto-funds-500-million-outflow/?utm_source=feed&utm_medium=rss",
-    "description": "Digital asset investment products witnessed $500 million of outflows last week, according to a report by asset manager CoinShares published today."
+    "source": "Decrypt",
+    "date": "2024-01-29T17:36:54.000Z",
+    "title": "Solana Flips Ethereum in DeFi Trading as Jupiter Airdrop Nears",
+    "url": "https://decrypt.co/214622/solana-flips-ethereum-defi-trading-jupiter-airdrop-nears",
+    "description": "Ethereum is under threat again from Solana following December’s meme coin barrage, with JUP dropping soon."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-29T17:18:53.000Z",
+    "title": " Hong Kong sets licensed crypto exchange insurance requirement to 50% ",
+    "url": "https://cointelegraph.com/news/hong-kong-sets-licensed-crypto-exchange-insurance-requirement-50-percent",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMTJjZDUyZDQtMDYxNC00Zjk0LWI3YzEtYjIxZGI4NjkzZmNmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Firms must provide insurance to protect users’ assets in addition to undergoing rigorous audits.</p>\n                    <p><p data-ct-non-breakable=\"true\">Hong Kong’s Securities and Futures Commission has set a minimum insurance requirement of 50% for licensed crypto exchanges handling customers’ assets.</p><p>As <a href=\"https://osl.com/press-release/osl-enhances-digital-asset-custody-insurance-canopius-lloyds-london-partnership/\" target=\"_blank\" rel=\"noopener nofollow\">disclosed</a> by OSL Exchange last week, the 50% insurance coverage minimum applies to all assets under custody. At the same time, OSL announced that it had signed a two-year partnership with Canopius, a syndicate of underwriter Lloyds of London, for an insurance policy covering 95% of its users’ assets.</p><p>HashKey Exchange, another licensed virtual asset trading platform in Hong Kong, also signed a crypto insurance <a href=\"https://group.hashkey.com/en/newsroom/HashKey-Exchange-OneInfinity-OneDegree\" target=\"_blank\" rel=\"noopener nofollow\">agreement</a> with OneInfinity on Nov. 16, 2023, with the potential to expand coverage into incidents related to “server downtime, data back-up, and load management” in the future. According to local news reports, the coverage <a href=\"https://hk.on.cc/hk/bkn/cnt/finance/20231116/bkn-20231116200032739-1116_00842_001.html#:~:text=%E6%A0%B9%E6%93%9A%E9%A6%99%E6%B8%AF%E8%AD%89%E7%9B%A3%E6%9C%83%E8%A6%8F%E5%AE%9A,%E7%AD%89%E5%B7%A5%E4%BD%9C%EF%BC%8C%E4%BB%A5%E5%B9%B3%E8%A1%A1%E9%A2%A8%E9%9A%AA%E3%80%82\" target=\"_blank\" rel=\"noopener nofollow\">guarantees</a> protection for up to $50 million to $400 million worth of users’ assets.</p><p><a href=\"https://cointelegraph.com/news/hong-kong-sets-licensed-crypto-exchange-insurance-requirement-50-percent\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-01-29T17:10:42.000Z",
+    "title": "Global Bitcoin ETP holdings over 900,000 BTC as Grayscale outflows ‘subside’",
+    "url": "https://cryptoslate.com/global-bitcoin-etp-holdings-over-900000-btc-as-grayscale-outflows-subside/",
+    "description": "<p>Crypto investment products saw their second consecutive week of outflow this year, with $500 million leaving the funds, according to CoinShares&#8217; latest weekly report. Bitcoin dominate Bitcoin investment products experienced significant outflows last week, with a total withdrawal of $479 million. The top cryptocurrency has faced significant headwinds since the U.S. Securities and Exchange Commission [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/global-bitcoin-etp-holdings-over-900000-btc-as-grayscale-outflows-subside/\">Global Bitcoin ETP holdings over 900,000 BTC as Grayscale outflows &#8216;subside’</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-29T16:52:43.000Z",
-    "title": "Catalyst needed to send crypto market up or down",
-    "url": "https://cryptodaily.co.uk/2024/01/catalyst-needed-to-send-crypto-market-up-or-down",
-    "description": "There seems to be as many positives as negatives for the crypto market. With the market currently vaguely bullish, but generally trending sideways, perhaps a catalyst is needed to launch the market in one particular direction."
+    "date": "2024-01-29T17:34:25.000Z",
+    "title": "AOFVerse Commences $AFG Initial  DEX Offering (IDO)",
+    "url": "https://cryptodaily.co.uk/2024/01/aofverse-commences-afg-initial-dex-offering-ido",
+    "description": "AOFVerse Commences $AFG Initial  DEX Offering (IDO)"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-01-29T16:56:01.000Z",
-    "title": "Emerging Cryptos at $0.008 Set to Surpass Dogecoin in 2024",
-    "url": "https://cryptodaily.co.uk/2024/01/emerging-cryptos-at-0008-set-to-surpass-dogecoin-in-2024",
-    "description": "Discover the potential of new cryptos set to outshine Dogecoin in 2024. This article explores the resurgence of Dogecoin driven by market trends, Elon Musk's influence, and Dogechain's Layer 2 blockchain. Amidst this, emerging cryptocurrencies priced at $0.008 show promising growth, offering an exciting opportunity for diversification and potential high returns. Stay informed about the latest market movements, technical analysis, and innovative developments in the dynamic world of cryptocurrency."
+    "date": "2024-01-29T17:17:44.000Z",
+    "title": "e-Grains Makes History as the First Company to offer Tokenized Agro Commodities in the World",
+    "url": "https://cryptodaily.co.uk/2024/01/e-grains-makes-history-as-the-first-company-to-offer-tokenized-agro-commodities-in-the-world",
+    "description": "e-Grains Makes History as the First Company to offer Tokenized Agro Commodities in the World"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-29T17:20:49.000Z",
+    "title": "Navigating the Top 10 Blockchain and Fintech Conferences: A Must-Attend Guide for 2024",
+    "url": "https://cryptodaily.co.uk/2024/01/navigating-the-top-10-blockchain-and-fintech-conferences-a-must-attend-guide-for-2024",
+    "description": "In the world of ever-changing technology, keeping up with the latest information is not just an advantage but a necessity."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-01-29T17:30:24.000Z",
+    "title": "Hong Kong to Strenghten OTC Crypto Market Regulation",
+    "url": "https://news.bitcoin.com/hong-kong-to-strenghten-otc-crypto-market-regulation/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Hong Kong to Strenghten Cryptocurrency OTC Market Regulation\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/dfb8bba5-315d-4f1f-9fcc-5f1523485765.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Hong Kong will now focus on regulating over-the-counter (OTC) cryptocurrency trading, according to local sources. Under Secretary for Financial Services and the Treasury Joseph Chan Ho-lim stated that the government will aim to mitigate the risks of virtual assets amidst the rising interest of mainland investors using the city as a bridge to invest in [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-29T16:52:31.000Z",
-    "title": "BlackRock’s iShares Bitcoin Trust (iBIT) ETF surpasses $2 billion in holdings",
-    "url": "https://www.cryptopolitan.com/blackrocks-ishares-2-billion-in-holdings/",
-    "description": "In a significant development for the cryptocurrency market, the BlackRock iShares Bitcoin Trust (iBIT) ETF has surged past $2 billion in holdings, holding more than 52,000 BTC. This news comes as outflows from the Grayscale Bitcoin Trust (GBTC) dipped by 50%, totaling $360 million on the day. These developments indicate growing interest in Bitcoin through [&#8230;]"
+    "date": "2024-01-29T17:36:55.000Z",
+    "title": "Gaming Projectors: Revealing The Top Equipment for 2024",
+    "url": "https://www.cryptopolitan.com/gaming-projectors-top-equipment/",
+    "description": "Explore the top gaming projectors of 2024, featuring Acer Predator GD711, BenQ X3100i, and Nebula Mars 3 Air."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-29T16:52:26.000Z",
-    "title": "Bitcoin mining and renewable energy: A green revolution in the making",
-    "url": "https://www.cryptopolitan.com/bitcoin-mining-and-renewable-energy-a-green/",
-    "description": "As Bitcoin&#8217;s popularity rises, concerns about its environmental impact have taken center stage. The energy-intensive nature of Bitcoin mining has led to accusations of environmental harm, given the substantial carbon footprint associated with its energy consumption.&#160; However, a closer look at recent developments reveals a promising potential for Bitcoin to become a catalyst for the [&#8230;]"
+    "date": "2024-01-29T17:32:19.000Z",
+    "title": "XRPL community pushes for democratic evolution",
+    "url": "https://www.cryptopolitan.com/xrpl-community-push-for-democratic-evolution/",
+    "description": "In a recent development within the cryptocurrency space, Ripple&#8217;s Chief Technology Officer (CTO), David Schwartz, has publicly expressed his support for a new governance proposal aimed at the XRPL Foundation.&#160; This move signals a push towards greater transparency and inclusivity within the XRPL (XRP Ledger) community, to evolve its governance structure. Community-driven evolution of XRPL [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-29T16:49:41.000Z",
-    "title": "Neo Bolsters Web3 Ambitions with New Hong Kong Office and Cyberport Collaboration",
-    "url": "https://www.cryptopolitan.com/neo-web3-hong-kong-cyberport-collaboration/",
-    "description": "Neo, the community-driven, open-source platform renowned for its Smart Economy vision, has announced the inauguration of its new office in Hong Kong. The expansion not only amplifies Neo&#8217;s operational footprint in the region but also aligns with the concerted efforts by local authorities to position Hong Kong as a pivotal Web3 hub. Neo&#8217;s expansion into [&#8230;]"
+    "date": "2024-01-29T17:18:07.000Z",
+    "title": "Darewise Entertainment and DFZ Labs Partnership,Uniting Life Beyond and Deadfellaz",
+    "url": "https://www.cryptopolitan.com/darewise-entertainmentdfz-labs-partnership/",
+    "description": "In a collaboration that underscores the burgeoning synergy within the Web3 community, Darewise Entertainment, the creative force behind Life Beyond, has announced a strategic partnership with DFZ Labs, the innovative team behind the Deadfellaz universe.&#160; The alliance represents a significant convergence of creative prowess and community engagement, aiming to foster growth, share expertise, and expand [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-29T16:48:44.000Z",
-    "title": "Bitcoin ETF-led crypto industry takes a rather unique direction in Asia – How will this affect investors?",
-    "url": "https://www.cryptopolitan.com/bitcoin-etf-takes-a-unique-direction-in-asia/",
-    "description": "In recent years, the global financial landscape has witnessed a transformative shift with the advent of cryptocurrencies, and now, a new chapter is unfolding as Bitcoin Exchange-Traded Funds (ETFs) pave the way for a distinctive direction in the Asian markets.&#160; The introduction of Bitcoin ETFs has sparked significant interest and debate, as it represents a [&#8230;]"
+    "date": "2024-01-29T17:17:47.000Z",
+    "title": "e-Grains Makes History as the First Company to offer Tokenized Agro Commodities in the World",
+    "url": "https://www.cryptopolitan.com/e-grains-makes-history-as-the-first-company-to-offer-tokenized-agro-commodities-in-the-world/",
+    "description": "San Salvador, El Salvador, January 29th, 2024, Chainwire e-Grains proudly announces a groundbreaking achievement with the recent approval as a Tokenized Digital Asset Issuer by the National Council for the Administration of Digital Assets (CNAD) in El Salvador. This milestone marks a significant chapter in the company&#8217;s journey of innovation and compliance, representing a historic [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-01-29T17:00:58.000Z",
-    "title": "Crypto Exchange Predicts 1000x Returns On XRP Price With Ambitious Rise To $594",
-    "url": "https://www.newsbtc.com/analysis/xrp/1000x-xrp-price-rise-to-594/",
-    "description": "Crypto exchange Changelly has laid out an all-encompassing price prediction for XRP. As part of this prediction, the platform stated that the crypto token would rise to as high as $594 and gave a definite timeline for when this would happen.  When Will XRP Price Rise To $594? Changelly predicts that XRP will rise to $594 in 2050, with that representing the maximum price level that the crypto token can attain by then. Meanwhile, $512 and $540 are predicted as what will be the minimum and average prices for XRP during that same timeframe.  Related Reading: Bitcoin Whales Increase Their Holdings By $3 Billion – Is A Price Surge Imminent? Changelly also gave a breakdown of what XRP’s price would be in the years leading up to 2050. Interestingly, they do not foresee XRP rising above $1 in 2024, as they put XRP’s maximum price this year at $0.85521447. A rise to above $1 is, however, expected in 2025 as the crypto exchange puts XRP’s maximum price in the year at $1.25. Interestingly, while crypto analysts like Egrag Crypto have predicted that XRP will rise to $27 in the next bull run, Changelly doesn’t see that happening anytime soon. Instead, based on their prediction, the earliest that XRP can hit that price level is sometime after the year 2033. They predict that the maximum price the crypto token can achieve in 2033 is $23.94. That price level is a far cry from Egrag’s prediction, which puts XRP’s price at $2,500 as early as 2029. Only time will tell which predictions come true as analysts continue to make bullish predictions for XRP’s price. So far, the crypto token hasn’t shown any positive sign to suggest that these bold predictions are attainable.  XRP price resumes uptrend &#124; Source: XRPUSD on Tradingview.com Update On XRP’s Price Action Crypto analyst Dark Defender recently provided an update on XRP’s current price action using the daily timeframe. He noted that XRP had moved toward the $0.52 and $0.53 price range as expected. Specifically, the crypto token is said to have closed above $0.5286, which was the target area, and had a break on the Relative Strength Index (RSI). Related Reading: Here Are The Major Drivers Behind The Bitcoin Price Recovery Above $42,000 The crypto analyst claims that this is a “great sign” for XRP as it attempts to break through the $0.60 resistance level. Dark Defender seemed optimistic about this happening soon as he expressed his joy that everything is going well for XRP on the chart at the moment.  He stated that he would be more excited if XRP broke $0.6649 and then proceeded with the “initial Fibonacci target of Wave 3 at $1.88.”  At the time of writing, XRP is trading at around $0.52, down over 1% in the last 24 hours, according to data from CoinMarketCap.  Featured image from The Cryptonomist, chart from Tradingview.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-01-29T17:08:42.000Z",
-    "title": "Jupiter prepares Airdrop in Solana Nearly One Million Wallets Qualified to Receive up to 700 JUP tokens",
-    "url": "https://www.crypto-news-flash.com/jupiter-prepares-airdrop-in-solana-nearly-one-million-wallets-qualified-to-receive-up-to-700-jup-tokens/?utm_source=rss&utm_medium=rss&utm_campaign=jupiter-prepares-airdrop-in-solana-nearly-one-million-wallets-qualified-to-receive-up-to-700-jup-tokens",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana-SOL-logo-with-white-arrow-going-up\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-white-arrow-going-up-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />WEN-Airdrop from Jupiter in Solana offers 640,000 tokens to users, requiring a minimum trade of five dollars to participate. Altlayer-Airdrop rewards EigenLayer and Celestia stakers, with a snapshot taken on January 17, 2024. Today, Airdrops remain a key strategy to drive participation and adoption. Recently, we have seen how several platforms are offering Airdrops with [...]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-29T17:10:16.000Z",
+    "title": "EU imposes stricter regulations on third-country crypto firms",
+    "url": "https://www.cryptopolitan.com/eu-imposes-on-third-country-crypto-firms/",
+    "description": "In a bid to safeguard the interests of local investors and ensure compliance with the Markets in Crypto-Assets (MiCA) framework, the European Union (EU) has announced plans to tighten its regulations on crypto companies operating outside the bloc.&#160;&#160; The European Securities and Markets Authority (ESMA) unveiled a new set of proposals aimed at crypto asset [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-29T17:00:05.000Z",
-    "title": "Market Buzz: Rebel Satoshi Gains Traction as Investors Look for Alternatives to Traditional Cryptos",
-    "url": "https://www.crypto-news-flash.com/market-buzz-rebel-satoshi-gains-traction-as-investors-look-for-alternatives-to-traditional-cryptos/?utm_source=rss&utm_medium=rss&utm_campaign=market-buzz-rebel-satoshi-gains-traction-as-investors-look-for-alternatives-to-traditional-cryptos",
-    "description": "<img width=\"512\" height=\"320\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T100020.276.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T100020.276.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T100020.276-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T100020.276-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T100020.276-450x281.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Rebel Satoshi brings a crypto revolution to meme coins, preparing to go live soon. Substrate-based NFT chain Unique Network introduces &#8216;Customizable NFTs&#8217; to Polkadot&#8217;s Subscan. BlackRock and other financial institutions are unlikely to offer an XRP ETF soon. Despite the ongoing bear market, Polkadot (DOT) and XRP (XRP) have retained their status as top crypto [...]"
+    "date": "2024-01-29T17:34:17.000Z",
+    "title": "AOFVerse Commences $AFG Initial DEX Offering (IDO)",
+    "url": "https://www.crypto-news-flash.com/aofverse-commences-afg-initial-dex-offering-ido/?utm_source=rss&utm_medium=rss&utm_campaign=aofverse-commences-afg-initial-dex-offering-ido",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/AOFVerse_2_1706549490jwRAfqv1Bv-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />London, UK, January 29th, 2024, Chainwire The AOFVerse team is thrilled to announce the commencement of its initial DEX offering (IDO) for the $AFG token. The IDO will see select investors and players receive a total of 857,143 AFG tokens on the Bybit web3 launchpad on Arbitrum, where the tokens will be listed in AFG/USDT [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-29T16:56:30.000Z",
-    "title": "Casper Joins Shark Tank of Web3 ‘Killer Whales’ as an Official Blockchain Partner.",
-    "url": "https://www.crypto-news-flash.com/casper-joins-shark-tank-of-web3-killer-whales-as-an-official-blockchain-partner/?utm_source=rss&utm_medium=rss&utm_campaign=casper-joins-shark-tank-of-web3-killer-whales-as-an-official-blockchain-partner",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/HELLO_X_Casper__1_copy_1706546467phxTZ0awsu-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Horst, Netherlands, January 29th, 2024, Chainwire Casper Association is partnering with ‘Killer Whales,’ a reality TV show from HELLO Labs and co-produced by CoinMarketCap and AltCoinDaily, billed as ‘the Shark Tank of Crypto.’ The Casper Association is a not-for-profit organization based in Switzerland that oversees the Casper Network and supports its organic evolution and continued [...]"
+    "date": "2024-01-29T17:17:22.000Z",
+    "title": "From Incubation to Independence: SkyArk Chronicles Soars After Binance Labs Support",
+    "url": "https://www.crypto-news-flash.com/from-incubation-to-independence-skyark-chronicles-soars-after-binance-labs-support/?utm_source=rss&utm_medium=rss&utm_campaign=from-incubation-to-independence-skyark-chronicles-soars-after-binance-labs-support",
+    "description": "<img width=\"1918\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BNB\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background.jpg 1918w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-1024x641.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-768x481.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-1536x961.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-450x282.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-with-black-background-1200x751.jpg 1200w\" sizes=\"(max-width: 1918px) 100vw, 1918px\" />SkyArk Chronicles has completed a $15 million funding round, elevating its status in the industry and celebrating investor interest. Controversy has risen with the project claiming that Binance Labs participated in the founding round, but the venture arm has refuted the claim. SkyArk Chronicles, a triple-A game creation system and online gaming platform that allows [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-29T16:53:43.000Z",
-    "title": "Can IOTA 2.0 and Real World Asset Tokenization Propel MIOTA Price to a New All-Time High of $6? A Deep Dive",
-    "url": "https://www.crypto-news-flash.com/can-iota-2-0-and-real-world-asset-tokenization-propel-miota-price-to-a-new-all-time-high-of-6-a-deep-dive/?utm_source=rss&utm_medium=rss&utm_campaign=can-iota-2-0-and-real-world-asset-tokenization-propel-miota-price-to-a-new-all-time-high-of-6-a-deep-dive",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"IOTA-logo-with-golden-digital-background.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />With aspirations to become the preferred ledger for tokenized assets, IOTA is enhancing its infrastructure and solutions. While some market analysts, like Shimmer Academy, suggest a potential new all-time high during the next bull run, others express skepticism, emphasizing the importance of IOTA 2.0. The IOTA Foundation has been working on some of the key [...]"
+    "source": "Coin Edition",
+    "date": "2024-01-29T17:32:00.000Z",
+    "title": "$4B Bitfinex Bitcoin Hack To Become an Amazon Movie",
+    "url": "https://coinedition.com/4b-bitfinex-bitcoin-hack-to-become-an-amazon-movie/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Amazon_MGM_Is_Reportedly_Making_A_Film_On_$4B_Bitfinex_Bitcoin_Heist\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/Amazon_MGM_Is_Reportedly_Making_A_Film_On_4B_Bitfinex_Bitcoin_Heist-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Entertainment company Amazon MGM Studio is developing a movie based on the true story of Ilya Lichtenstein and Heather Morgan, the criminals who were linked with the 2016 Bitfinex hack. The married couple were charged with conspiracy to launder money in 2022 by the U.S. Department of Justice, pleading guilty to orchestrating a $4.5 billion [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/4b-bitfinex-bitcoin-hack-to-become-an-amazon-movie/\">$4B Bitfinex Bitcoin Hack To Become an Amazon Movie</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-01-29T17:35:16.000Z",
+    "title": "Banxa Integration Brings Seamless, Low-Cost Fiat On-Ramps to Sui, Off-Ramps Coming Soon",
+    "url": "https://dailyhodl.com/2024/01/29/banxa-integration-brings-seamless-low-cost-fiat-on-ramps-to-sui-off-ramps-coming-soon/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>January 29, 2024 – Grand Cayman, Cayman Islands Users will benefit from zero percent gateway fees for accessing SUI tokens on Banxa for a limited time. (Note – fee waiver is not available for UK customers.) Banxa, the leading payments infrastructure provider for the crypto-compatible economy, has announced it will add the SUI token to [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/29/banxa-integration-brings-seamless-low-cost-fiat-on-ramps-to-sui-off-ramps-coming-soon/\">Banxa Integration Brings Seamless, Low-Cost Fiat On-Ramps to Sui, Off-Ramps Coming Soon</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

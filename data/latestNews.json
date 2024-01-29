@@ -1,79 +1,114 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-29T11:30:00.000Z",
-    "title": " How to perform smart contract testing ",
-    "url": "https://cointelegraph.com/news/smart-contract-testing-for-dummies",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yODFiYjU2YmFiZTg1MzVkODFmZTRmMDczOTZiN2YyNS5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Learn the essential steps and strategies to ensure the reliability and security of your blockchain-based applications.</p>\n                    <p><p>The process of methodically assessing and validating the performance, security and functionality of <a href=\"https://cointelegraph.com/learn/what-are-smart-contracts-a-beginners-guide-to-automated-agreements\">smart contracts</a> — self-executing agreements with the provisions of the contract embedded directly into the code on a blockchain — is known as smart contract testing. To ensure the accuracy, resilience and reliability of smart contracts, testing is an essential stage in their <a href=\"https://cointelegraph.com/explained/the-life-cycle-of-smart-contracts-in-the-blockchain-ecosystem\">development lifecycle</a>.</p><p>A group of professionals, comprising quality assurance (QA) engineers and blockchain developers, test smart contracts. Blockchain programmers are essential to the coding and preliminary unit testing processes. They are skilled in programming languages like <a href=\"https://cointelegraph.com/news/vyper-solidity-and-scrypto-how-the-smart-contract-languages-compare\">Solidity </a>for Ethereum contracts. </p><p>QA engineers conduct thorough testing, addressing factors like functionality, security and performance. They are well-versed in blockchain technology and smart contract features. Furthermore, smart contract auditors may be involved in specialized security audits due to their extensive knowledge of <a href=\"https://cointelegraph.com/news/a-new-protocol-elevates-privacy-and-security-in-blockchain-transactions\">blockchain security protocols</a> and vulnerabilities.</p><p><a href=\"https://cointelegraph.com/news/smart-contract-testing-for-dummies\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-01-29T11:10:33.000Z",
-    "title": " Stolen crypto worth $674M successfully recovered in 2023 ",
-    "url": "https://cointelegraph.com/news/2023-crypto-recovery-674-million-recovered-hacks",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMjEzNGExMDEtYjMwMi00ZmNiLTg0MDktNzI5ZTc2MGI5MmY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The funds were recovered from more than 600 large-scale hacks.</p>\n                    <p><p data-ct-non-breakable=\"true\">Blockchain security firm PeckShield has published data summarizing the losses to hacks and scams in 2023. According to the company, $2.61 billion was lost in the year, excluding multichain losses.</p><p> PeckShield noted in its report on Jan. 29 that the amount shows a 27.78% decrease compared with 2022 when total global cyber thefts totaled around $3.6 billion.</p><p data-ct-non-breakable=\"true\">PeckShield also said that collaborating with centralized exchanges, Tether and law enforcement to freeze the funds whenever they detect them can also lead to fund recovery. </p><p><a href=\"https://cointelegraph.com/news/2023-crypto-recovery-674-million-recovered-hacks\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-01-29T11:35:05.000Z",
-    "title": "Despite ETF rotation fears, mining stocks recover as Bitcoin crosses $42K",
-    "url": "https://cryptoslate.com/despite-etf-inflows-mining-stocks-recover-as-bitcoin-crosses-42k/",
-    "description": "<p>Bitcoin regained the psychologically important $40,000 level during the weekend after spending last week struggling to surpass $39,500. As of press time, it stands at just above $42,000, showing solid resilience at this level. This recovery positively affected the broader crypto market and the performance of public Bitcoin mining companies. Despite being listed and traded [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/despite-etf-inflows-mining-stocks-recover-as-bitcoin-crosses-42k/\">Despite ETF rotation fears, mining stocks recover as Bitcoin crosses $42K</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-01-29T11:19:35.000Z",
-    "title": "OpenSea considers acquisition as NFT market consolidation continues",
-    "url": "https://cryptobriefing.com/opensea-considers-acquisition-nft-market-consolidation-continues/?utm_source=feed&utm_medium=rss",
-    "description": "Finzer stated in a recentinterviewthat OpenSea has received offers and interest regarding an acquisition."
+    "source": "Crypto Daily",
+    "date": "2024-01-29T12:05:07.000Z",
+    "title": "(NEWS) As New Narratives Form for Cronos (CRO) and AAVE, Investors Reckon Algotech (ALGT) Presents the Best Presale This Year",
+    "url": "https://cryptodaily.co.uk/2024/01/news-as-new-narratives-form-for-cronos-cro-and-aave-investors-reckon-algotech-algt-presents-the-best-presale",
+    "description": "Learn what Cronos (CRO) and AAVE have to offer as Algotech (ALGT) demonstrates the prospect of high Roi after the best presale this year."
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-01-29T11:30:36.000Z",
-    "title": "Regulatory Clampdown — Alaska and Florida Order Binance US to Cease Operations",
-    "url": "https://news.bitcoin.com/regulatory-clampdown-alaska-and-florida-order-binance-us-to-cease-operations/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Regulatory Clampdown — Alaska and Florida Order Binance US to Cease Operations\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/statesbinnance.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />A recent report indicates that regulatory authorities in Alaska and Florida have prohibited Binance US from operating within their jurisdictions. This development comes in the wake of Binance, along with its previous CEO Changpeng Zhao, reaching a plea agreement with the U.S. government. Alaska and Florida Issue Cease Operations Orders to Binance US Binance US, [&#8230;]"
+    "date": "2024-01-29T12:00:32.000Z",
+    "title": "Bit.Store Elevates Crypto Payment Experience With Binance Pay Integration",
+    "url": "https://news.bitcoin.com/bit-store-elevates-crypto-payment-experience-with-binance-pay-integration/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/unnamed-4.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. Main Takeaways: Bit.Store introduces Binance Pay for efficient crypto top-ups. Seamless integration offers a quick, secure method for BitStore cardholders. Collaboration reflects Bit.Store&#8217;s commitment to user-friendly crypto solutions. The partnership underscores Bit.Store&#8217;s expanding global service outreach. In a significant development for crypto card users, Bit.Store, a front-runner in the cryptocurrency card industry, has [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-29T11:23:57.000Z",
-    "title": "How Dyor Exchange Simplifies Web3 Investing: Q&A with CEO of Dyor Exchange, Markuss Jonans",
-    "url": "https://www.cryptopolitan.com/qa-with-ceo-of-dyor-exchange-markuss-jonans/",
-    "description": "DeFi trading is fragmented across multiple platforms and protocols, requiring investors to juggle various tools for exploration, investment, and portfolio management. Dyor Exchange reimagines the future of on-chain investing by providing a one-stop shop that simplifies the process of investing in DeFi projects.&#160; In this exclusive interview, we chat with Markuss Jonans, CEO of Dyor, [&#8230;]"
+    "date": "2024-01-29T11:56:15.000Z",
+    "title": "New Hampshire Primary and AI: A New Era of Election Influence",
+    "url": "https://www.cryptopolitan.com/hampshire-primary-and-ai-era-of-election/",
+    "description": "Amid a heated Republican Primary, a novel form of electoral influence has emerged. An investigation is underway regarding a deep fake audio message, purportedly from President Biden, that discouraged voter participation in New Hampshire&#8217;s semi-closed Primary. This incident has raised serious concerns about the role of artificial intelligence in political campaigns and voter manipulation. New [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-29T11:28:45.000Z",
-    "title": "Presidential candidate Kennedy warns against CBDCs, labels them a threat to civil liberties",
-    "url": "https://crypto.news/presidential-candidate-kennedy-warns-against-cbdcs-labels-them-a-threat-to-civil-liberties/",
-    "description": "After Donald Trump, U.S. presidential candidate Robert F. Kennedy Jr has expressed his firm stance against CBDCs. Robert F. Kennedy Jr., a prominent figure in the U.S. presidential race, has expressed strong opposition to the development of a central bank&#8230;"
+    "date": "2024-01-29T11:56:07.000Z",
+    "title": "K33’s Cardano preview, analysts bullish on Solana and Rebel Satoshi ",
+    "url": "https://crypto.news/k33s-cardano-preview-analysts-bullish-on-solana-and-rebel-satoshi/",
+    "description": "Cardano may struggle to carve out market share. Analysts are upbeat about Rebel Satoshi and Solana"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-29T11:29:37.000Z",
-    "title": "Top 3 Solana’s NFT Marketplaces on 2024",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/top-3-solana-nft-marketplaces-on-2024/",
-    "description": "<p>Each platform brings unique features and significant contributions to the NFT ecosystem.  They will incentivize growth and innovation within the Solana network. Let&#8217;s discover more features of these Solana&#8217;s NFT marketplaces. 🚨JUST IN: Solana achieves $7.22 million in NFT sales in the past 24 hours &#8211; @tensor_hq maintaining a dominant market share of above 70%. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/top-3-solana-nft-marketplaces-on-2024/\">Top 3 Solana&#8217;s NFT Marketplaces on 2024</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-01-29T11:55:24.000Z",
+    "title": "Europeans stay bullish on crypto, new survey reveals",
+    "url": "https://crypto.news/europeans-stay-bullish-on-crypto-new-survey-reveals/",
+    "description": "A cryptocurrency exchange survey found that cryptocurrency adoption continues to increase in Europe. According to Binance Square, high yield, decentralization, and innovation are key motivators for Europeans entering the cryptocurrency market. In total, 10,498 people made up the sample for&#8230;"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-29T11:19:00.000Z",
-    "title": "Samson Mow’s Macro Indicators to Watch Ahead of BTC’s Next Rally",
-    "url": "https://coinedition.com/samson-mows-macro-indicators-to-watch-ahead-of-btcs-next-rally/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Macro Indicators To Watch Ahead of BTC’s Next Rally: Samson Mow\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/Bitcoin-Bulls-Have-24-HOURS-To-REVERSE-This-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Prominent Bitcoin supporter Samson Mow has outlined several macro metrics to watch while predicting Bitcoin’s behavior. Mow identified ETF inflows, Hashrate, Bitfinex whale accumulation, and the 200 WMA trend as some of the crucial indicators to watch for bullish signals. The Bitcoin product merchant Cypherpunk supported Mow’s observation, sharing a screenshot to show an ongoing [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/samson-mows-macro-indicators-to-watch-ahead-of-btcs-next-rally/\">Samson Mow’s Macro Indicators to Watch Ahead of BTC’s Next Rally</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-01-29T11:53:14.000Z",
+    "title": "Crypto investors lost nearly $2b over 600+ incidents in 2023, data shows",
+    "url": "https://crypto.news/crypto-investors-lost-nearly-2b-over-600-incidents-in-2023-data-shows/",
+    "description": "Analysts at blockchain forensic firm PeckShield say the crypto industry witnessed over 600 hack incidents over the past year. In an X post on Jan. 29, PeckShield released an infographic highlighting the extensive scale of hacker attacks targeting the crypto&#8230;"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-29T11:16:34.000Z",
-    "title": "Barbie Girl (BBG) and Manta (MANTA) Labeled as the Latest Hidden Gems of 2024",
-    "url": "https://coinedition.com/barbie-girl-bbg-and-manta-manta-labeled-as-the-latest-hidden-gems-of-2024/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Barbiegirl BBG\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/Barbiegirl-BBG-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>MANTA and Barbie Girl (BBG) created a shock in the cryptoverse with their significant surge and community engagement in the market. Despite the downtrend in the market, both of these tokens have found a way to create positive impacts with their current sale in the market. MANTA and BBG have proven to their loyal fans [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/barbie-girl-bbg-and-manta-manta-labeled-as-the-latest-hidden-gems-of-2024/\">Barbie Girl (BBG) and Manta (MANTA) Labeled as the Latest Hidden Gems of 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-01-29T11:49:33.000Z",
+    "title": "Analyst says Bitcoin can soar to $1 m; Borroe Finance may outperform Chainlink in 2024",
+    "url": "https://crypto.news/analyst-says-bitcoin-can-soar-to-1-m-borroe-finance-may-outperform-chainlink-in-2024/",
+    "description": "Bitcoin may reach $1 million but analysts are looking at Borroe Finance, whose token ROE, might outperform Chainlink's LINK in 2024"
   },
   {
-    "source": "Bitfinex Blog",
-    "date": "2024-01-29T11:34:55.000Z",
-    "title": "Bitfinex among first to list JUP, Native Token of Solana’s Jupiter ",
-    "url": "https://blog.bitfinex.com/media-releases/bitfinex-among-first-to-list-jup-native-token-of-solanas-jupiter/",
-    "description": "<p>ROAD TOWN, British Virgin Islands – January 29, 2024 – Bitfinex, a premier digital asset trading platform, announced today that it will be among the first exchanges to list JUP, the highly anticipated native token of Jupiter, a Solana-based decentralized exchange (DEX) swap aggregator that...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/media-releases/bitfinex-among-first-to-list-jup-native-token-of-solanas-jupiter/\">Bitfinex among first to list JUP, Native Token of Solana’s Jupiter </a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-01-29T11:48:48.000Z",
+    "title": "Binance Labs distances from SkyArk Chronicles’ latest funding round",
+    "url": "https://crypto.news/binance-labs-distances-from-skyark-chronicles-latest-funding-round/",
+    "description": "Binance&#8217;s venture arm said in a recent X post it did not participate in SkyArk&#8217;s latest $15 million funding round, despite the project stating the opposite. In an X post on Jan. 29, the venture arm of Binance said did&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-29T11:47:23.000Z",
+    "title": "18 US senators strongly support crypto, new report finds",
+    "url": "https://crypto.news/18-us-senators-strongly-support-crypto-new-report-finds/",
+    "description": "18 U.S. senators, including Cynthia Lummis and Ted Cruz, actively support the cryptocurrency sector. According to the advocacy group Stand with Crypto Alliance, created with the support of the Coinbase exchange, the leader among legislators in the number of initiatives&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-29T11:45:21.000Z",
+    "title": "M&A expectations drive Chiliz and Klaytn, whales accumulating Chainlink and InQubeta ",
+    "url": "https://crypto.news/ma-expectations-drive-chiliz-and-klaytn-whales-accumulating-chainlink-and-inqubeta/",
+    "description": "Chiliz, Klaytn, InQubeta, and Chainlink are among the altcoins that have seen significant price gains in recent weeks"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-29T11:44:15.000Z",
+    "title": "Spot Bitcoin ETFs’ net outflow: what investors need to know",
+    "url": "https://crypto.news/spot-bitcoin-etfs-net-outflow-what-investors-need-to-know/",
+    "description": "The BTC ETF market saw its first net total outflow of $158 million on Jan. 24, with GBTC experiencing a significant dip in investor interest. What&#8217;s next? The recent launch of U.S.-listed Bitcoin (BTC) exchange-traded funds (ETFs) represents a big&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-29T11:41:07.000Z",
+    "title": "Ripple’s technology chief shows support for proposed XRPL governance changes",
+    "url": "https://crypto.news/ripples-technology-chief-shows-support-for-proposed-xrpl-governance-changes/",
+    "description": "Ripple&#8217;s chief technology officer, David Schwartz, has recently expressed his views on a new governance proposal for the XRPL Foundation. In an X post on Jan. 29, Schwartz highlighted the significance of community involvement in shaping the proposal, which he&#8230;"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-29T12:06:43.000Z",
+    "title": "Tools For Success: TU Analysts Review Top Forex Trading Simulators for 2024",
+    "url": "https://www.crypto-news-flash.com/tools-for-success-tu-analysts-review-top-forex-trading-simulators-for-2024/?utm_source=rss&utm_medium=rss&utm_campaign=tools-for-success-tu-analysts-review-top-forex-trading-simulators-for-2024",
+    "description": "<img width=\"1200\" height=\"800\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"carta-trading-dark-blue\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/adam-smigielski-K5mPtONmpHM-unsplash-1-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />A detailed strategy can help novice traders and investors easily venture into the day trading world. However, a daunting question may break their composure, “will the strategy work?” With the evolving technology in the market world, a new tool has been developed to help with such concerns: a day trading simulator. Traders Union has devised [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-29T12:00:55.000Z",
+    "title": "Breaking Down Sui’s Surge to All-Time High; Borroe Finance Leads AI Altcoins",
+    "url": "https://www.crypto-news-flash.com/breaking-down-suis-surge-to-all-time-high-borroe-finance-leads-ai-altcoins/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-suis-surge-to-all-time-high-borroe-finance-leads-ai-altcoins",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T094516.858.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T094516.858.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T094516.858-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T094516.858-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-29T094516.858-450x253.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />According to Bloomberg, the generative AI market is exploding – from only $40 billion in 2022, it’s predicted to expand at a CAGR of 42% over the next decade. Hence, it’s no wonder that AI has become the focus in many industries, including crypto news and investments. Borroe Finance stands out as a prime example [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-29T11:52:24.000Z",
+    "title": "Bitcoin Price Holds Steady at $42,183 as Market Prepares for Potential Rate Cuts",
+    "url": "https://www.crypto-news-flash.com/bitcoin-price-holds-steady-at-42183-as-market-prepares-for-potential-rate-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-price-holds-steady-at-42183-as-market-prepares-for-potential-rate-cuts",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the-.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the-.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-25-08.32.57-An-abstract-digital-artwork-illustrating-the-concept-of-Bitcoin-absorbing-selling-pressure-from-GBTC-with-a-backdrop-indicating-BTC-stability-at-the--450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Bitcoin (BTC) has found stability above $42,000 after an unstable couple of weeks that saw the crypto king plunge below the $40,000 psychological support. Key economic data scheduled for release by the U.S. government could influence the direction BTC takes in February. After a volatile couple of weeks, Bitcoin (BTC) has seemingly found stability at [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-29T11:45:13.000Z",
+    "title": "Hedera Council Welcomes Hitachi and Australian Payments Plus to Accelerate Real-World Industrial Solutions",
+    "url": "https://www.crypto-news-flash.com/hedera-council-welcomes-hitachi-and-australian-payments-plus-to-accelerate-real-world-industrial-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-council-welcomes-hitachi-and-australian-payments-plus-to-accelerate-real-world-industrial-solutions",
+    "description": "<img width=\"1908\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Hedera-HBAR-logos-with-green-digital-planet-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background.jpg 1908w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-300x189.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-1024x644.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-768x483.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-1536x966.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-450x283.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Hedera-HBAR-logos-with-green-digital-planet-background-1200x755.jpg 1200w\" sizes=\"(max-width: 1908px) 100vw, 1908px\" />Australian Payments Plus joins Hedera&#8217;s Governing Council, processing 3.9 billion transactions by 2022. AP expands its payments ecosystem with Hedera&#8217;s technology, seeking to innovate in security and transactional efficiency. In the distributed ledger technology (DLT) sector, Australian Payments Plus (AP ), a prominent entity in Australia&#8217;s payments sector, has established a pivotal point by joining [...]"
   }
 ]

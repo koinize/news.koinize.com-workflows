@@ -1,72 +1,37 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-01-29T09:08:47.000Z",
-    "title": " BTC price at yearly open into FOMC — 5 things to know in Bitcoin this week ",
-    "url": "https://cointelegraph.com/news/btc-price-yearly-open-fomc-5-things-bitcoin-this-week",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvZGI1NzFlNGEtOTI0Ni00Y2U1LTg5YzMtZjA2OTVmYjliZGU1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>BTC price has seen $49,000 and $38,000 this month, but with a deluge of diary dates in the coming days, the stage is set for classic Bitcoin volatility.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) heads into the first monthly close of 2024 with a round trip to its yearly starting point — what’s next?</p><p>In a key week for United States macroeconomic policy, BTC price action continues to hover around $42,000.</p><p>This sets the stage for a new volatility chapter to come — the past month has seen highs of $49,000, which were followed by snap losses of 20%.</p><p><a href=\"https://cointelegraph.com/news/btc-price-yearly-open-fomc-5-things-bitcoin-this-week\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-01-29T08:55:30.000Z",
-    "title": "FT’s Jemima Kelly Still Questioning Crypto’s Legitimacy as an Asset Class Despite U.S. SEC’s Approval of Spot Bitcoin ETFs From Multiple TradFi Giants",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/fts-jemima-kelly-still-questioning-cryptos-legitimacy-as-an-asset-class-despite-u-s-secs-approval-of-spot-bitcoin-etfs-from-multiple-tradfi-giants/",
-    "description": "In her latest anti-crypto opinion piece for the Financial Times, columnist Jemima Kelly provides a critical analysis of the recent developments in the Bitcoin landscape, particularly focusing on its market recovery, the approval of spot Bitcoin ETFs by the U.S. SEC, and the broader implications for the cryptocurrency’s legitimacy. Here are the key points from […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-29T08:41:23.000Z",
-    "title": "YieldMax Files Application For Bitcoin Option Income Strategy ETF",
-    "url": "https://cryptodaily.co.uk/2024/01/yieldmax-files-application-for-bitcoin-option-income-strategy-etf",
-    "description": "Financial firm YieldMax has submitted an application to the United States Securities and Exchange Commission (SEC) to launch a Bitcoin Options Income strategy ETF (YBIT)."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-29T09:08:11.000Z",
-    "title": "18 US senators rally in support of cryptocurrency",
-    "url": "https://www.cryptopolitan.com/18-us-senators-support-cryptocurrency/",
-    "description": "In a significant development in the United States political landscape, data from Coinbase&#8217;s nonprofit advocacy group, Stand with Crypto, indicates that 18 senators currently support cryptocurrency. This support is predominantly seen within the Republican Party, with high-profile figures such as Cynthia Lumnis and Ted Burr leading the charge. Pro-crypto senators lead legislative efforts Senators Cynthia [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-29T09:08:02.000Z",
-    "title": "AI Girlfriends and Explicit Bots Plague GPT Store",
-    "url": "https://www.cryptopolitan.com/ai-girlfriends-and-explicit-bots-plague/",
-    "description": "In the wake of OpenAI&#8217;s recent launch of the GPT Store, the company is grappling with a growing challenge as developers continue to publish chatbots that violate the platform&#8217;s policies. While OpenAI has implemented measures to identify and remove policy-violating bots, a significant number of them have managed to find their way into the store.&#160; [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-29T08:56:03.000Z",
-    "title": "AI-Generated Tik Tok Stars Under Fire for Promoting Unrealistic Body Standards",
-    "url": "https://www.cryptopolitan.com/ai-tiktok-influencer-raise-concern/",
-    "description": "In a recent development, ParentsTogether, a prominent parent and family nonprofit organization advocating for a safer internet for children, has taken a bold step by sending an open letter to TikTok&#8217;s CEO, Shou Zi Chew.&#160; The letter, signed by more than 12,000 parents, requests TikTok to take immediate action in clearly labeling AI-generated influencers that [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2024-01-29T09:27:45.000Z",
+    "title": "Stellar Development Foundation delays Protocol 20 upgrade following bug discovery",
+    "url": "https://cryptobriefing.com/stellar-development-foundation-delays-protocol-20-upgrade-following-bug-discovery/?utm_source=feed&utm_medium=rss",
+    "description": "The bug, discovered on January 25th, relates to fee-bump transactions for Soroban smart contracts on the Stellar blockchain."
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-29T09:02:26.000Z",
-    "title": "Tron and Solana investors monitoring DeeStream’s presale",
-    "url": "https://crypto.news/tron-and-solana-investors-monitoring-deestreams-presale/",
-    "description": "DeeStream (DST), a decentralized video streaming protocol, has a growing number of Tron and Solana holders"
+    "date": "2024-01-29T09:30:16.000Z",
+    "title": "Birdeye refutes airdrop plans in latest announcement",
+    "url": "https://crypto.news/birdeye-refutes-airdrop-plans-in-latest-announcement/",
+    "description": "Crypto trading aggregator Birdeye has unveiled a new feature to customize the data pool, while also addressing speculations surrounding a potential airdrop. In an X post on Jan. 27, Birdeye unveiled a tool called &#8220;Terminal,&#8221; designed to empower users to&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-29T09:02:05.000Z",
-    "title": "‘Chinese Ethereum’ Conflux jumps 13% following strategic deal with venture firm",
-    "url": "https://crypto.news/chinese-ethereum-conflux-jumps-13-following-strategic-deal-with-venture-firm/",
-    "description": "Conflux Network&#8217;s CFX token gained over 13% amid a &#8216;strategic partnership&#8217; agreement with Asia-based venture studio BlockBooster. In an X thread, Conflux Network said the latest deal with the Asia-based venture studio will focus on identifying &#8220;web3 incubation opportunities within&#8230;"
+    "source": "NewsBTC",
+    "date": "2024-01-29T09:20:01.000Z",
+    "title": "Bitcoin Eyes $45,000 Amid Anticipation Of FOMC Decision",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-eyes-45000-amid-anticipation-of-fomc-decision/",
+    "description": "After a challenging two weeks resulting in a 21% drop, the Bitcoin (BTC) price rebounded emphatically, closing last week on a strong note. The premier cryptocurrency witnessed a surge that saw it end with a Doji Hammer candle on its weekly chart, signaling a potential bullish reversal. Notably, this uptick has propelled Bitcoin&#8217;s value back into its previous range of $41,300 to $45,000. Keith Alan, the co-founder of Material Indicators, highlighted the significance of this pattern, stating, “Looks like we have a Doji Hammer candle forming on the BTC Weekly chart. That typically indicates a bullish reversal is coming. [&#8230;] If we do indeed print a Hammer, Bitcoin bulls will need to overcome resistance at the bottom range of the Golden Pocket to have a chance at a meaningful move to retest the $44k &#8211; $45k range.” Bitcoin has also reclaimed its position above the 20- and 50-day Exponential Moving Averages (EMAs), hinting at the potential for further gains. However, the anticipation surrounding the first Federal Open Market Committee (FOMC) meeting of 2024 adds a layer of complexity to Bitcoin&#8217;s trajectory. FOMC Preview The upcoming Federal Open Market Committee (FOMC) meeting, is anticipated to be a major determinant in the short-term movement of Bitcoin&#8217;s price, as it could signal significant shifts in the United States Federal Reserve&#8217;s monetary policy approach. Macro analyst @tedtalksmacro provided an in-depth perspective: “This week&#8217;s FOMC meeting is pivotal.” Currently, the market is expecting the Fed to maintain the status quo, with a 97% probability against any policy change. Related Reading: Bitcoin Whales Increase Their Holdings By $3 Billion – Is A Price Surge Imminent? “However, there&#8217;s a 46% chance of a rate cut by the March meeting. Investors should closely monitor for signs of the Fed moving towards a data-dependent approach, any recognition of inflation nearing their 2% target, and potential adjustments to Quantitative Tightening (QT) policies,” Ted remarked. After this week, the Committee will meet again on March 19-20. Thus, this week’s FOMC meeting could lay the foundation for the critical decisions in March, which could have immediate and pronounced effects on market dynamics. The Federal Reserve has forecasted that it will reduce interest rates three times this year. The market anticipates a possibility of five or more cuts. There is a general agreement that the initial reduction in rates might occur in the second quarter, though there is substantial support for the possibility of it happening at the March meeting. Goldman Sachs has been consistently predicting a rate cut by the Fed in March. Their analysis is grounded in the significant progress observed in inflation control. Related Reading: Analyst Predicts Bitcoin Consolidation, Eyes Long-Term Price Target Of $500,000 The post-FOMC meeting press conference will be a focal point, as investors seek clarity on the collective view of the FOMC members, including the newly rotated regional Fed bank presidents. These officials, known for their cautious approach towards rate cuts, will play a significant role in shaping the committee&#8217;s decision-making process. December&#8217;s inflation report indicated a 3.4% year-on-year increase, with core prices rising more rapidly than many economists had projected. However, the Department of Commerce’s personal consumption expenditures (PCE) index, the Fed&#8217;s preferred inflation measure, showed more promising signs of inflation cooling down to 2.9%, aligning closer to the Fed&#8217;s target. Implications For The Bitcoin Price Renowned crypto analyst @ColdBloodShill drew attention to the historical inverse correlation between the DXY (Dollar Index) and Bitcoin. He shared the following chart and stated: “Heard you needed some hopium. The last two FOMC events have marked the pico top of the DXY. Next one on Wednesday.” A potential drop in the DXY following the FOMC meeting could act as a catalyst for Bitcoin to rise towards the $45,000 mark. In addition, there are possible changes in QT policy that could indicate an increase in the supply of money. Such developments could serve as a major catalyst for the Bitcoin price as the hardest asset of the world. Featured image created with DALL·E, chart from TradingView.com"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-01-29T09:00:10.000Z",
-    "title": "Bybit exchange to list Solana DEX Jupiter’s JUP token",
-    "url": "https://crypto.news/bybit-exchange-to-list-solana-dex-jupiters-jup-token/",
-    "description": "Major crypto exchange Bybit has recently announced its plans to list JUP, the native token of Jupiter, a leading liquidity aggregator on the Solana network. As per the Jan. 26 announcement, the token is set to launch on Bybit&#8217;s spot&#8230;"
+    "source": "Altcoin Buzz",
+    "date": "2024-01-29T09:19:50.000Z",
+    "title": "Over 600K Claims for $WEN with Hours to Deadline",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/over-600k-claims-for-wen-with-hours-to-deadline/",
+    "description": "<p>With less than 7 hours remaining before the claim window closes, this unprecedented rush highlights the growing interest in WEN. WEN has captured the attention of both seasoned investors and newcomers to the crypto world. WEN&#8217;s Popularity Soars as Claim Window Nears Closure WEN is a very early coin with $149M in marketcap in just [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/over-600k-claims-for-wen-with-hours-to-deadline/\">Over 600K Claims for $WEN with Hours to Deadline</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-01-29T08:54:37.000Z",
-    "title": "$200,000,000,000 Chinese Asset Manager Applies for Bitcoin Spot ETF in Hong Kong – Can it Drive Price to $50,000?",
-    "url": "https://www.crypto-news-flash.com/200000000000-chinese-asset-manager-applies-for-bitcoin-spot-etf-in-hong-kong-can-it-drive-price-to-50000/?utm_source=rss&utm_medium=rss&utm_campaign=200000000000-chinese-asset-manager-applies-for-bitcoin-spot-etf-in-hong-kong-can-it-drive-price-to-50000",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-09.23.19-A-futuristic-financial-skyline-of-Hong-Kong-with-towering-skyscrapers-under-the-night-sky-lit-up-by-digital-screens-and-billboards.-One-skyscraper-pr-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Harvest Hong Kong, a leading Chinese asset manager, has applied for the first-ever Bitcoin Spot ETF in Hong Kong, signaling a significant move in cryptocurrency adoption. This application follows the U.S. SEC&#8217;s approval of Bitcoin Spot ETFs, indicating a global trend towards integrating cryptocurrencies into regulated financial markets. Earlier this year, the SEC approved 11 [...]"
+    "source": "Coin Edition",
+    "date": "2024-01-29T09:18:00.000Z",
+    "title": "Breaking: Hong Kong Will Launch Its Spot Bitcoin ETF Post Spring Festival",
+    "url": "https://coinedition.com/breaking-hong-kong-will-launch-its-spot-bitcoin-etf-post-spring-festival/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Harvest Hong’s SFC Promotes ETFs; Harvest Applies for BTC ETF\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-1-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bitcoin ETFs have been largely garnering attention since their launch on January 11, with more and more ETF issuers stepping forward. Recent reports unearthed that one of China’s largest fund companies, Harvest Hong Kong, applied for a Spot Bitcoin ETF launch on January 26. According to the report, Harvest Hong Kong, the first company to [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/breaking-hong-kong-will-launch-its-spot-bitcoin-etf-post-spring-festival/\">Breaking: Hong Kong Will Launch Its Spot Bitcoin ETF Post Spring Festival</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

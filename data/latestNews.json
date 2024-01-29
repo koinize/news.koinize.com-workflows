@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "source": "Cointelegraph",
+    "date": "2024-01-29T00:34:59.000Z",
+    "title": " Stellar foundation urges delay of Protocol 20 upgrade after bug discovery ",
+    "url": "https://cointelegraph.com/news/stellar-foundation-urges-delay-protocol-20-upgrade-after-bug",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvODRmNGYyZWItY2U5OC00NWE0LTljODUtNWNjMTNjZDk3YWU3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Stellar Development Foundation acknowledged the bug poses “little risk” but said it could potentially impact applications once the smart contract platform is rolled out.</p>\n                    <p><p>The Stellar Development Foundation (SDF)  smart contract upgrade on the Stellar blockchain set for the end of the month after finding a bug in Stellar Core v20.1.0.</p><p>“We’ve decided to disarm our validators in support of postponing the Protocol 20 vote on Jan. 30 until after a bug fix,” the SDF <a href=\"https://stellar.org/blog/developers/our-decision-to-disarm-validators-and-vote-to-postpone-the-protocol-20-upgrade\" target=\"_blank\" rel=\"noopener nofollow\">explained</a> in a Jan. 27 blog post.</p><p>Stellar is one of the oldest blockchain projects and is mostly focused on payments and asset tokenization. <a href=\"https://cointelegraph.com/stellar-price-index\">XLM,</a> the token powering the Stellar blockchain, currently boasts a market cap of $3.2 billion.</p><p><a href=\"https://cointelegraph.com/news/stellar-foundation-urges-delay-protocol-20-upgrade-after-bug\">Read more</a></p></p>\n                \n            "
+  }
+]

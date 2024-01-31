@@ -1,107 +1,114 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-31T13:11:38.000Z",
-    "title": "First Mover Americas: BTC Loses $43K as Crypto Prices Slip",
-    "url": "https://www.coindesk.com/markets/2024/01/31/first-mover-americas-btc-loses-43k-as-crypto-prices-slip/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Jan. 31, 2024. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+    "date": "2024-01-31T14:00:00.000Z",
+    "title": "Vibe Check: The Bullish Bounce Back: CoinDesk Indices' Todd Groth",
+    "url": "https://www.coindesk.com/markets/2024/01/31/vibe-check-the-bullish-bounce-back-coindesk-indices-todd-groth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Periodic observations and market musings from Todd Groth, Head of Research, CoinDesk Indices."
   },
   {
-    "source": "CoinDesk",
-    "date": "2024-01-31T13:11:21.000Z",
-    "title": "Ethereum's 'Dencun' Upgrade Goes Live on Second Testnet, With Just One Remaining",
-    "url": "https://www.coindesk.com/tech/2024/01/30/ethereums-dencun-upgrade-goes-live-on-second-testnet-with-just-one-remaining/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Next week, on Feb. 7, Dencun will go live on its final Ethereum testnet, Holesky. After that, developers will ink in a date to activate Dencun on the main blockchain."
+    "source": "Decrypt",
+    "date": "2024-01-31T14:06:50.000Z",
+    "title": "You Can Earn Bitcoin for Playing a Fun Mobile Word Game—Here's How Much",
+    "url": "https://decrypt.co/214992/earn-bitcoin-playing-mobile-word-game",
+    "description": "Word Breeze on iOS and Android presents a familiar premise, but it’s entertaining and pays out Bitcoin rewards. Should you play it?"
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-01-31T13:44:02.000Z",
+    "title": "Global X Withdraws Spot Bitcoin ETF Application",
+    "url": "https://decrypt.co/214991/global-x-withdraws-spot-bitcoin-etf-application",
+    "description": "The ETF provider becomes the first to withdraw its application for a U.S. spot Bitcoin ETF since multiple funds were approved in January."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-31T13:17:33.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Web3 ecosystem lost $38.9 million due to various security incidents in the first month of 2024. Terraform Labs says its bankruptcy could help it appeal the suit it faces from the SEC. Meanwhile, German authorities seized 50,000 Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) as part of an investigation into pirated materials .</p><p data-ct-non-breakable=\"true\">Decentralized finance (DeFi) security startup Quantstamp found that various attacks on Web3 projects like smart contract hacks, key compromises and scams, resulted in total losses of $38.9 million in January 2024.</p><p data-ct-non-breakable=\"true\">Germany isn’t the only government to seize Bitcoin. According to data from Glassnode, the United States has seized <a href=\"https://cointelegraph.com/news/us-gov-missed-bitcoin-gains-total-6b\">a total of 210,429 BTC</a> connected to various crimes.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-31T14:01:00.000Z",
+    "title": " How Move found new purpose after the collapse of Facebook’s stablecoin Diem ",
+    "url": "https://cointelegraph.com/news/move-langauge-facebook-s-stablecoin-diem-defi",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTNhZGIyMzUtOTRiYy00OTcxLWIwZmItMjliN2FhMWRkYTkxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Sam Blackshear, the creator of Move, spoke with Cointelegraph to give the inside story on the language of Aptos, Sei and Sui. </p>\n                    <p><p data-ct-non-breakable=\"true\">At Facebook, Sam Blackshear created Move, a programming language tailored specifically for blockchain applications, but Diem, the cryptocurrency powered by Move, never launched.</p><p>When lawmakers in the United States quashed Facebook’s cryptocurrency ambitions, Blackshear and others searched for new applications for the language they created. It didn’t take long to find them. Today, several successful blockchains use Move, including Aptos, Sei and Sui, the latter of which Blackshear continues to work on as chief technology officer of Mysten Labs.</p><p>Cointelegraph spoke with Blackshear to discover why the end of Diem was just the beginning for Move and why it is a better choice for building blockchains than Solidity, Rust or other preexisting languages:</p><p><a href=\"https://cointelegraph.com/news/move-langauge-facebook-s-stablecoin-diem-defi\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoGlobe",
-    "date": "2024-01-31T13:32:14.000Z",
-    "title": "Spot Bitcoin ETFs’ U.S. Launch and Their Ripple Effect on Gold and Other Precious Metals",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/spot-bitcoin-etfs-u-s-launch-and-their-ripple-effect-on-gold-and-other-precious-metals/",
-    "description": "The launch of the first spot Bitcoin (BTC) exchange-traded funds (ETFs) in the U.S. on January 11 marked a significant milestone for digital assets, drawing parallels to the debut of the first spot gold ETF in 2004. According to a report by Jordan Finneseth for Kitco News, this development has not only legitimized Bitcoin as […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-01-31T13:14:35.000Z",
-    "title": "Lending expert tips Kelexo (KLXO) presale as over 5,000 Ethereum (ETH) and Polygon (MATIC) sign ups in just days",
-    "url": "https://cryptodaily.co.uk/2024/01/lending-expert-tips-kelexo-klxo-presale-as-over-5000-ethereum-eth-and-polygon-matic-sign-ups-in-just-days",
-    "description": "Experts in lending are now focusing on Kelexo (KLXO), a significant player in decentralized finance (DeFi) that simplifies lending processes"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-01-31T13:15:05.000Z",
-    "title": "Bitcoin Technical Analysis: A Collision of Signals and Macro Decisions Ahead of Fed Ruling",
-    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-a-collision-of-signals-and-macro-decisions-ahead-of-fed-ruling/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: A Collision of Signals and Macro Decisions Ahead of Fed Ruling\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/bi8999.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Over the past 60 minutes, bitcoin&#x2019;s trading value has fluctuated between $42,525 and $42,715, demonstrating a dynamic price range. Its 24-hour price swing extends from a low of $42,340 to a high of $43,853. Currently, bitcoin boasts a market capitalization of $834 billion, coupled with a relatively modest 24-hour trading volume of $18.33 billion. In [&#8230;]"
+    "date": "2024-01-31T13:50:59.000Z",
+    "title": "Morgan Creek Capital CEO Mark Yusko Foresees Bitcoin’s Explosive Rally to $100,000 by 2024 End",
+    "url": "https://www.cryptoglobe.com/latest/2024/01/morgan-creek-capital-ceo-mark-yusko-foresees-bitcoins-explosive-rally-to-100000-by-2024-end/",
+    "description": "In a recent interview on the Thinking Crypto channel, Mark Yusko, the founder and CEO of Morgan Creek Capital, shared his optimistic forecast for Bitcoin (BTC), predicting a substantial rally for the cryptocurrency in the near future. Yusko believes that Bitcoin could reach or even surpass a value of $100,000 by the end of 2024, […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:36:49.000Z",
-    "title": "2024 Ethereum Forecast, Will These Alternatives Outperform ETH?",
-    "url": "https://www.cryptopolitan.com/2024-ethereum-forecast-will-these-alternatives-outperform-eth/",
-    "description": "In 2024, the cryptocurrency market is dynamic, with Ethereum (ETH) playing a crucial role in decentralized finance (DeFi). Currently trading above $2,250, Ethereum (ETH) is considered a solid long-term investment.&#160; Despite minimal immediate impact from Ethereum&#8217;s Merge, it underscores the importance of distinguishing short-term trading from long-term investments. The strong foundation of Ethereum (ETH) and [&#8230;]"
+    "date": "2024-01-31T14:08:21.000Z",
+    "title": "UK government addresses privacy concerns in digital pound consultation",
+    "url": "https://www.cryptopolitan.com/uk-government-addresses-privacy-concerns/",
+    "description": "The United Kingdom&#8217;s efforts to address privacy concerns surrounding the proposed digital pound have garnered positive responses from experts in the crypto industry. The results of the highly anticipated UK consultation on the digital pound were released by the Bank of England (BoE) and the Treasury, revealing that while many respondents welcomed the proposed design, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:28:55.000Z",
-    "title": "Household Chores Transformation is Now a Reality Thanks to AI",
-    "url": "https://www.cryptopolitan.com/household-chores-transformation-ai/",
-    "description": "Explore the latest breakthroughs in AI technology transforming household chores, featuring the R1 Rabbit, Tesla's Optimus robot, and the Mercedes-Benz VISION AVTR. "
+    "date": "2024-01-31T14:04:45.000Z",
+    "title": "Marketing Giant Embraces AI for Future Growth in 2024",
+    "url": "https://www.cryptopolitan.com/marketing-giant-embraces-ai/",
+    "description": "Discover the transformative AI-driven growth strategy for the marketing giant WPP, focusing on creativity and technology. "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:24:53.000Z",
-    "title": "Microsoft and OpenAI Lead $500 Million Funding Round for Figure AI Inc.",
-    "url": "https://www.cryptopolitan.com/500-million-funding-round-for-figure-ai/",
-    "description": "Figure AI Inc., a pioneering AI-powered robotics startup, is reportedly negotiating to secure up to $500 million in funding. According to insider sources familiar with the matter, the funding round that is said to be spearheaded by tech giants Microsoft Corp. and OpenAI has the potential to catapult Figure AI&#8217;s pre-money valuation to an impressive [&#8230;]"
+    "date": "2024-01-31T14:00:28.000Z",
+    "title": "Deepfake Fraud Among Emerging Risks for Insurance Industry, Says Kennedys Report",
+    "url": "https://www.cryptopolitan.com/deepfake-fraud-for-insurance-industry/",
+    "description": "Global law firm Kennedys has shed light on the potential benefits and risks that artificial intelligence (AI) brings to the insurance sector in its Global Forecast 2024: Evolving Insurance Risks report. While AI offers advantages such as improved risk assessment and streamlined claims processing, it also presents novel challenges. One of the highlighted risks is [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:20:10.000Z",
-    "title": "Faker’s Net Worth: The eSports Titan’s Journey",
-    "url": "https://www.cryptopolitan.com/fakers-net-worth-the-esports-titans-journey/",
-    "description": "In the dynamic world of eSports, Lee Sang-hyeok, known as Faker, stands as a colossal figure. Born on May 7, 1996, in Seoul, South Korea, Faker&#8217;s early life was steeped in gaming, with a particular affinity for titles like Tekken and Warcraft III. His foray into competitive gaming began with the release of League of [&#8230;]"
+    "date": "2024-01-31T14:00:00.000Z",
+    "title": "Bitcoin Targets $48K, Analyst Cautions Pre-Halving; Chainlink and Borroe Finance Eye Major Growth",
+    "url": "https://www.cryptopolitan.com/bitcoin-targets-48k-analyst-cautions-pre-halving-chainlink-and-borroe-finance-eye-major-growth/",
+    "description": "In the dynamic and often unpredictable world of cryptocurrencies, Bitcoin&#8217;s latest buzz is a projected rally to $48,000 by April 2024, as per a Crypto Twitter analyst. Meanwhile, platforms like Chainlink and Borroe Finance, built on the Polygon blockchain, are eyeing significant growth in this shifting landscape. &#62;&#62;BUY $ROE TOKENS NOW&#60;&#60; Bitcoin&#8217;s Halving Horoscope The [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:19:45.000Z",
-    "title": "$FORWARD Token Continues Its Historic Sales Run with Epic Launch on Launchblocks!",
-    "url": "https://www.cryptopolitan.com/forward-token-continues-its-historic-sales-run-with-epic-launch-on-launchblocks/",
-    "description": "The Forward team is thrilled to share the exciting news about our imminent token sale on Launchblock’s cutting-edge launchpad platform. Our token sale on Launchblock is a pivotal step in the coordinated launch of our highly awaited $FORWARD token.&#160; $FORWARD is the token that serves as the interoperable utility token within the Forward community. The [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-31T13:14:02.000Z",
-    "title": "Nightingale Accessibility Options Enhance Gameplay Experience",
-    "url": "https://www.cryptopolitan.com/nightingale-accessibility-options/",
-    "description": "Inflexion Games has announced a range of accessibility options for their upcoming Victorian &#8220;gaslamp fantasy&#8221; survival game, Nightingale. These features aim to make the game more inclusive for a wider audience and enhance the overall gaming experience. Nightingale transports players to the Fae Realms, where they navigate through a unique world filled with challenges and [&#8230;]"
+    "date": "2024-01-31T13:41:33.000Z",
+    "title": "Composable Options Protocol Ithaca Finance Announces $2.5M in Pre-Seed Funding",
+    "url": "https://www.cryptopolitan.com/composable-options-protocol-ithaca-finance-announces-2-5m-in-pre-seed-funding/",
+    "description": "Ithaca Finance, a new project focused on decentralized options trading, has emerged from stealth mode with the announcement of pre-seed funding and an invite-only mainnet launch on Arbitrum. $2.5 million will be used to develop the Ithaca Protocol for composable, non-custodial trading of on-chain options on Arbitrum. Ithaca’s funding news comes as VC interest in [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-01-31T13:38:24.000Z",
-    "title": "OKB (OKB) vs. THORChain (RUNE): Investors at Crossroads As the Pullix (PLX) Presale Advances To Stage 7",
-    "url": "https://nulltx.com/okb-okb-vs-thorchain-rune-investors-at-crossroads-as-the-pullix-plx-presale-advances-to-stage-7/",
-    "description": "Investors have questions about OKB (OKB) and THORChain (RUNE) as the crypto landscape shifts. Meanwhile, the new rise of Pullix (PLX) adds a little spark to the conversation. This DeFi project recently entered Stage 7 of its presale, having sold over 80 million tokens so far. Hype is so intense [&#8230;]"
+    "date": "2024-01-31T13:57:47.000Z",
+    "title": "Why the Experts Say Revolutionary Pushd (PUSHD) Will Hit 20x and Why Investors Move from Ethereum (ETH) and Ripple (XRP) into Presale",
+    "url": "https://nulltx.com/why-the-experts-say-revolutionary-pushd-pushd-will-hit-20x-and-why-investors-move-from-ethereum-eth-and-ripple-xrp-into-presale/",
+    "description": "The Pushd (PUSHD) presale has not only hit over 24,0000 registrations but also garnered a strong community. Pushd (PUSHD) is just about the best investment for investors in 2024 and any investor hungry for profits must key into the presale. Despite being new, experts believe Pushd (PUSHD) is the solution [&#8230;]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-31T13:27:01.000Z",
-    "title": "Imaginary Ones, an Introduction",
-    "url": "https://www.altcoinbuzz.io/product-release/imaginary-ones-an-introduction/",
-    "description": "<p>How about selling your first NFT collection out in 4 minutes? That&#8217;s precisely what Imaginary Ones did three years ago. Fast-forward three years, and we see a successful partnership with Hugo Boss. Only a few days ago, we saw a new partnership with ImmutableX. This appears to be only the beginning for the Imaginary Ones. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/imaginary-ones-an-introduction/\">Imaginary Ones, an Introduction</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "NullTX",
+    "date": "2024-01-31T13:55:56.000Z",
+    "title": "Why are investors rushing into Kelexo (KLXO)? Analyst predicts Tron (TRX) and Ripple (XRP) to be overtaken",
+    "url": "https://nulltx.com/why-are-investors-rushing-into-kelexo-klxo-analyst-predicts-tron-trx-and-ripple-xrp-to-be-overtaken/",
+    "description": "Imagine having millions in the bank, yet you have no access to it and then you begin to watch it dwindle down in value. This is the dilemma of Tron (TRX) and Ripple (XRP) holders and after a loss like that of 2023, Investors are looking for a rising star [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-01-31T13:51:41.000Z",
+    "title": "Meme Moguls Presale Advances To Stage 5, Analyst Michaël Van De Poppe Bullish for Arbitrum, Celestia Trades in the Green",
+    "url": "https://nulltx.com/meme-moguls-presale-advances-to-stage-5-analyst-michael-van-de-poppe-bullish-for-arbitrum-celestia-trades-in-the-green/",
+    "description": "Meme Moguls (MGLS) has recently made headlines as it entered Stage 5 of its presale. With close to $2M raised and 3,700 holders, it is clear that interest in this DeFi project is rising. Some analysts have even pegged it as the next 100x meme coin in 2024. Meanwhile, Arbitrum [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-31T13:45:00.000Z",
+    "title": "XRP and Cardano struggling, Borroe Finance rallying in presale",
+    "url": "https://crypto.news/xrp-and-cardano-struggling-borroe-finance-rallying-in-presale/",
+    "description": "XRP and Cardano prices are still under pressure. Meanwhile, Borroe Finance is trending higher in the ongoing presale"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-01-31T14:00:14.000Z",
+    "title": "Bitcoin Miner Selloff Poses “Negligible Impact”, Quant Argues",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-miner-selloff-negligible-impact-quant/",
+    "description": "On-chain data shows the Bitcoin miners have been selling recently, but this quant has argued that this selloff shouldn&#8217;t have much impact on the market. Bitcoin Miner Reserve Has Registered A Decline Recently In a CryptoQuant Quicktake post, an analyst discussed the latest selling pressure that the miners have been putting on the market. The indicator of interest here is the &#8220;miner reserve,&#8221; which keeps track of the total amount of Bitcoin that the miners combined hold in their wallets right now. This metric can naturally provide information about the collective behavior of these chain validators. Generally, the miners withdraw their coins from their reserve when they want to sell, so a decline in the indicator can potentially have bearish consequences for the asset. Related Reading: These Crypto Asset Classes Could Be Future Market Drivers: Santiment A rise in the metric, on the other hand, may be bullish for the cryptocurrency&#8217;s price as it suggests the miners as a whole are in accumulation mode at the moment. Now, here is a chart that shows the trend in the Bitcoin miner reserve over the past year: The value of the metric seems to have been heading down in recent days &#124; Source: CryptoQuant As displayed in the above graph, the Bitcoin miner reserve has been on its way down since October, implying that this cohort has withdrawn a net amount of BTC from their wallets during this period. This latest selloff from the miners has recently been a topic in the community, with many speculating about the possible bearish impact arising from it. The quant has a different opinion on the matter, however. &#8220;The sell-off of Bitcoin reserves by miners, as discussed on X and various portals, is unfounded,&#8221; explains the analyst. To back this claim, the quant has pointed out the exact numbers involved here. Before this selling started, the miner reserve had a value of around 1,84,997 BTC. Following the decline that the indicator has witnessed since then, the miners now hold about 1,833,222 BTC. This represents a decrease of 12,755 BTC, which, although substantial on its own, doesn&#8217;t seem too large in the grand scheme of things, especially considering the size of the miner reserve itself. &#8220;The minimal amount of bitcoin sold has negligible impact on the market,&#8221; notes the analyst. The trend in the miner inflows and outflows over the past couple of months &#124; Source: CryptoQuant The above chart shows the data for the Bitcoin inflows and outflows being made by the miners. There have indeed been outflows taking place recently, which is why there has been talk of a selloff. Related Reading: Bitcoin Rally Still Has Some Legs Left, Santiment Explains Why At the same time, the inflow transaction volume has also been at significant levels, making up for these outflows. This is the reason for the relatively small net decrease in the total miner reserve. BTC Price Bitcoin had recovered beyond the $43,000 mark earlier, but the asset has seen a setback during the past day as it has slipped back towards $42,500. Looks like the price of the coin has retraced some of its recent recovery &#124; Source: BTCUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, CryptoQuant.com"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-31T13:31:50.000Z",
-    "title": "Ethereum Classic (ETC) Price Prediction 2024-2030: Will ETC Hit $50 Soon?",
-    "url": "https://coinedition.com/ethereum-classic-etc-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-Classic-(ETC)-Price-Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Ethereum-Classic-ETC-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>What is Ethereum Classic (ETC)? Ethereum Classic (ETC) is a cryptocurrency that was created in 2016 as a result of a hard fork of the original Ethereum blockchain. The fork was initiated due to a disagreement among members of the Ethereum community over how to handle a security breach on the network. As a result, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereum-classic-etc-price-prediction/\">Ethereum Classic (ETC) Price Prediction 2024-2030: Will ETC Hit $50 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-31T14:00:00.000Z",
+    "title": "Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit",
+    "url": "https://coinedition.com/terraform-says-bankruptcy-case-vital-in-appealing-secs-fraud-lawsuit/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Terraforms said bankruptcy proceedings will help appeal the SEC’s lawsuit. Terraforms filed for bankruptcy last week and will have its first day of hearing today. The company can avoid costs by relying on protections offered under the Chapter 11 proceedings. Ahead of the commencement of its Chapter 11 proceedings, troubled cryptocurrency firm Terraform Labs revealed [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/terraform-says-bankruptcy-case-vital-in-appealing-secs-fraud-lawsuit/\">Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

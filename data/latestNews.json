@@ -1,58 +1,79 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-01-31T09:43:01.000Z",
-    "title": " Bitcoin needs to address scaling as ETFs drive momentum ",
-    "url": "https://cointelegraph.com/news/bitcoin-scaling-etfs-momentum",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvMjU4M2Q5MTItODYyMS00MThkLWFkZGUtMGZmM2IxYTJhNWZkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The approval of Bitcoin ETFs serves as a form of mainstream validation, but longtime Bitcoiner Paul Sztorc says the ecosystem still needs to think carefully about scaling.</p>\n                    <p><p data-ct-non-breakable=\"true\">Bitcoin Drivechain proponent Paul Sztorc believes the growing mainstream acceptance of BTC will drive a need for greater scalability and functionality of its infrastructure.</p><p>In a wide-ranging interview with Cointelegraph, Sztorc touched on the advantages and drawbacks of the high-profile approval of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETF) in the United States and the long-term implications of institutional money flooding into the ecosystem.</p><p>“It’s a sign of health, a sign of validation. Bitcoin is certainly more recognizable, and its name is getting out there. It’s also a result of certain types of money that must flow through ETFs,” Sztorc said.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-scaling-etfs-momentum\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-31T10:28:45.000Z",
+    "title": " Belarus is building CBDC platform on Hyperledger Fabric ",
+    "url": "https://cointelegraph.com/news/belarus-cbdc-platform-hyperledger-fabric",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvNWNkYmNmNDAtZTdlNC00N2Q1LTkwN2MtNDEzMGE2YWFkZjExLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The state-owned Center of Bank Technologies began building the CBDC platform in January and is now actively hiring developers.</p>\n                    <p><p>Belarus proceeds to develop a blockchain platform for its <a href=\"https://cointelegraph.com/learn/what-is-a-cbdc-why-central-banks-want-to-get-into-digital-currencies\">central bank digital currency (CBDC)</a>. The country is under international sanctions, but Belarus hopes to use its digital ruble (Belarusian ruble) for cross-border transactions. </p><p>According to the Ekonomicheskaya Gazeta, a local newspaper, the state-owned Center of Bank Technologies <a href=\"https://neg.by/novosti/otkrytj/v-belarusi-nachalas-razrabotka-platformy-dlya-tsifrovogo-rublya/\" target=\"_blank\" rel=\"noopener nofollow\">began</a> building the CBDC platform in January and is now actively hiring developers. The platform will be built on the open-source Hyperledger Fabric blockchain. </p><p>The official website of the Center of Bank Technologies <a href=\"https://www.cbt.by/karera/\" target=\"_blank\" rel=\"noopener nofollow\">contains</a> a job opening for backend developers with knowledge of Hyperledger Fabric and Linux and experience in creating smart contracts. </p><p><a href=\"https://cointelegraph.com/news/belarus-cbdc-platform-hyperledger-fabric\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-01-31T10:03:53.000Z",
-    "title": "Terraform Labs filed for bankruptcy to protect against potential SEC money judgment",
-    "url": "https://cryptoslate.com/terraform-labs-filed-for-bankruptcy-to-protect-against-potential-sec-money-judgment/",
-    "description": "<p>Terraform Labs, the brains behind the Terra blockchain network, opted for bankruptcy protection as a strategic move against any &#8220;potential money judgment&#8221; that could be enforced by the U.S. Securities and Exchange Commission (SEC). In a Jan. 30 court filing, Terraform Labs CEO Chris Amani explained that the company might need to close its business [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/terraform-labs-filed-for-bankruptcy-to-protect-against-potential-sec-money-judgment/\">Terraform Labs filed for bankruptcy to protect against potential SEC money judgment</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-01-31T10:23:01.000Z",
+    "title": "Bitcoin heads for fifth consecutive monthly green candle amid rollercoaster market conditions",
+    "url": "https://cryptoslate.com/insights/bitcoin-heads-for-fifth-consecutive-monthly-green-candle-amid-rollercoaster-market-conditions/",
+    "description": "<p>Quick Take In an environment marked by tumultuous swings, Bitcoin is marching toward its fifth consecutive higher monthly close, resting roughly 1% higher than the Jan. 2024 opening value of $42,278. This month was a rollercoaster ride for the digital asset, with peaks touching $49,000 and troughs sinking to roughly $38,500. The volatility was stoked [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-heads-for-fifth-consecutive-monthly-green-candle-amid-rollercoaster-market-conditions/\">Bitcoin heads for fifth consecutive monthly green candle amid rollercoaster market conditions</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-31T10:10:18.000Z",
+    "title": "Worldcoin Developer Tools For Humanity Teams Up With Web3 SuperApp Kresus",
+    "url": "https://cryptodaily.co.uk/2024/01/worldcoin-developer-tools-for-humanity-teams-up-with-web3-superapp-kresus",
+    "description": "Tools For Humanity – the developer behind Worldcoin – and web3 “SuperApp” Kresus have announced a strategic partnership. The arrangement will see both parties collaborate on initiatives that should enhance their respective projects,"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T10:08:41.000Z",
-    "title": "Meloni Unveils Bold Plan for Italy-Africa Economic Partnership",
-    "url": "https://www.cryptopolitan.com/meloni-unveils-bold-plan-for-italy-africa-economic-partnership/",
-    "description": "TL ; DR In a move aimed at promoting economic ties, creating an energy hub for Europe, and addressing immigration challenges, Italian Prime Minister Giorgia Meloni unveiled a long-anticipated plan during a one-day summit attended by over two dozen African leaders and European Union officials. Economic Boost and Energy Hub Initiative Meloni presented a set [&#8230;]"
+    "date": "2024-01-31T10:34:36.000Z",
+    "title": "CBN Injects $500M to Tackle Forex Backlog and Boost Naira",
+    "url": "https://www.cryptopolitan.com/cbn-injects-500m-to-tackle-forex-backlog/",
+    "description": "Nigeria&#8217;s Central Bank (CBN) announced a significant injection of $500 million into the foreign exchange market. This decision aims to alleviate the persistent backlog of foreign exchange demand, signaling a robust approach to boosting the national currency, the Naira, which has been facing a downward trend. Strategic Financial Maneuvers to Revitalize the Naira As the [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-31T10:05:01.000Z",
-    "title": "Crypto Investment Guide: Trading Tactics, Top Cryptocurrencies, and Platform Recommendations",
-    "url": "https://nulltx.com/crypto-investment-guide-trading-tactics-top-cryptocurrencies-and-platform-recommendations/",
-    "description": "The crypto market has solidified itself as a great investment and trading space long ago. In the beginning, only a few early adopters saw the potential and started trading crypto and learning how it works as it progressed. Now, however, more and more people want to enter the market, but [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T10:34:24.000Z",
+    "title": "Shiba Inu Coin Price Prediction 2024-2033: Is SHIB Skyrocketing Soon?",
+    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
+    "description": "Shiba Inu Price Prediction 2024-2033 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T10:31:09.000Z",
+    "title": "John Deaton slams SEC over DEBT Box case withdrawal",
+    "url": "https://www.cryptopolitan.com/john-deaton-slams-sec-over-debt-box-case/",
+    "description": "The United States Securities and Exchange Commission (SEC) has withdrawn its high-profile lawsuit against cryptocurrency firm DEBT Box. This decision, announced on Tuesday, January 30, marks a significant retreat for the SEC in its ongoing legal challenges within the crypto industry. The case, which initially accused DEBT Box of defrauding investors of nearly $50 million [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T10:16:55.000Z",
+    "title": "SEC Commissioner Hester Peirce challenges “Gag rule” in enforcement actions",
+    "url": "https://www.cryptopolitan.com/sec-commissioner-hester-peirce-challenges/",
+    "description": "In a recent statement, SEC Commissioner Hester Peirce criticized a long-standing rule within the United States Securities and Exchange Commission (SEC) that prevents defendants from publicly criticizing the agency&#8217;s claims following a settlement.&#160; This rule, often called the &#8220;gag rule,&#8221; has been in place since 1972 and is a mandatory term in SEC settlements, the [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-31T10:23:11.000Z",
+    "title": "FTX-backed charity returns $27m following Bankman-Fried’s fraud revelation",
+    "url": "https://crypto.news/ftx-backed-charity-returns-27m-following-bankman-frieds-fraud-revelation/",
+    "description": "A British charity has agreed to repay millions of dollars it received from FTX, condemning fraud underlying Sam Bankman-Fried&#8217;s conviction. Effective Ventures, a British charity, has entered an agreement to reimburse $26.8 million to the FTX bankruptcy estate, condemning the&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-31T10:00:18.000Z",
-    "title": "Market Uncertainty Post-Bitcoin ETF Launch; Robust Growth in Prices for InQubeta and Avalanche",
-    "url": "https://www.crypto-news-flash.com/market-uncertainty-post-bitcoin-etf-launch-robust-growth-in-prices-for-inqubeta-and-avalanche/?utm_source=rss&utm_medium=rss&utm_campaign=market-uncertainty-post-bitcoin-etf-launch-robust-growth-in-prices-for-inqubeta-and-avalanche",
-    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T114531.141-450x253.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The introduction of a Bitcoin (BTC) ETF has long been anticipated as a medium for mainstream adoption of cryptocurrencies. Despite the anticipation, the aftermath of the launch has brought about a level of market uncertainty. Since the recent launch of the Bitcoin ETF, investing in BTC ETFs has become challenging, as identifying BTC price trends [...]"
+    "date": "2024-01-31T10:32:27.000Z",
+    "title": "Avalanche Validators Surge to All-Time High: Bullish Sign for AVAX",
+    "url": "https://www.crypto-news-flash.com/avalanche-validators-surge-to-all-time-high-bullish-sign-for-avax/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-validators-surge-to-all-time-high-bullish-sign-for-avax",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Avalanche-AVAX-background-blue-edition\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Validators on Avalanche hit a new all-time high at 1,729 on January 29 in a push towards making the network more decentralized and handing a boost to AVAX. The total stake hit a new record at 232 AVAX tokens, a staking ratio of 53%, signaling high confidence by investors in Avalanche as the price spiked [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-01-31T10:05:13.000Z",
-    "title": "Tectum Brings Real World Utility",
-    "url": "https://www.altcoinbuzz.io/product-release/tectum-brings-real-world-utility/",
-    "description": "<p>Tectum presents one of the most interesting Bitcoin Layer 2 use cases with its Softnotes. It’s almost like bringing back paper wallets but with the potential anonymity of using physical cash. And recently, Tectum and its $TET token have been busy. Let’s see what Tectum has been up to. Bringing Real-World Utility to $TET Token [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/tectum-brings-real-world-utility/\">Tectum Brings Real World Utility</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-01-31T10:29:11.000Z",
+    "title": "DONT MISS These Altcoin Public Sales | Huge Potential",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/dont-miss-these-altcoin-public-sales-huge-potential/",
+    "description": "<p>This week’s Altcoin Buzz Alpha highlights all come under the same theme. Getting in early to high potential protocols. This week we have 2 public sales. Hard to get earlier than that. Also, we have 2 restaking altcoins. This new important trend is just starting and a new Bitcoin Layer 2 with tons of airdrop [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/dont-miss-these-altcoin-public-sales-huge-potential/\">DONT MISS These Altcoin Public Sales | Huge Potential</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-01-31T09:52:17.000Z",
-    "title": "Jupiter’s (JUP) DeFi Dominance: Key Updates and Milestones",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/jupiters-jup-defi-dominance-key-updates-and-milestones/",
-    "description": "<p>The platform&#8217;s recent updates have been turning heads in the industry, showcasing its significant growth and widespread adoption. Here&#8217;s a closer look at Jupiter&#8217;s (JUP) latest achievements: 1) Most Used Trading Platform in DeFi Jupiter has emerged as the most utilized trading platform in the DeFi landscape. This achievement is a testament to the platform&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/jupiters-jup-defi-dominance-key-updates-and-milestones/\">Jupiter&#8217;s (JUP) DeFi Dominance: Key Updates and Milestones</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-01-31T10:00:18.000Z",
-    "title": "Ripple v. SEC: Settlement Talks Heat Up as Remedies Deadline Nears",
-    "url": "https://coinedition.com/ripple-v-sec-settlement-talks-heat-up-as-remedies-deadline-nears/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple v. SEC: Settlement Talks Heat Up as Remedies Deadline Nears\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/SEC_vs_Ripple_verdict_could_come_at_pivotal_time_for_crypto_industry-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cardano&#8217;s founder opposes the idea of a settlement between Ripple and SEC. Pundits argued Ripple might be compelled to burn $20 billion worth of XRP in its escrow. Speculation rises on a potential Ripple-SEC settlement as crucial case hearing dates approach. Speculations about a potential settlement in the drawn-out legal battle between Ripple and the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-v-sec-settlement-talks-heat-up-as-remedies-deadline-nears/\">Ripple v. SEC: Settlement Talks Heat Up as Remedies Deadline Nears</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-01-31T10:15:58.000Z",
+    "title": "Higher Prices Incoming for Crypto As Markets See Institutional Adoption and New User Onboarding, Says Ari Paul",
+    "url": "https://dailyhodl.com/2024/01/31/higher-prices-incoming-for-crypto-as-markets-see-institutional-adoption-and-new-user-onboarding-says-ari-paul/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Markets-See-Institutional-Adoption.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The co-founder and chief investment officer of digital asset investment firm BlockTower Capital says conditions look ripe for crypto to keep trending higher in the medium term. Ari Paul says on the media platform X that while he&#8217;s not certain about how the macro side will play out in the next three months, he notes [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/01/31/higher-prices-incoming-for-crypto-as-markets-see-institutional-adoption-and-new-user-onboarding-says-ari-paul/\">Higher Prices Incoming for Crypto As Markets See Institutional Adoption and New User Onboarding, Says Ari Paul</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

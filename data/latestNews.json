@@ -1,30 +1,100 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-01-31T08:55:52.000Z",
+    "title": "UK's Digital Pound Approach Should Help Manage Privacy Concerns, Experts Say",
+    "url": "https://www.coindesk.com/policy/2024/01/31/uks-digital-pound-approach-should-help-manage-privacy-concerns-experts-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The U.K.'s approach to handling privacy concerns posed by a digital pound should help quench concerns, according to interviews with a wide range of crypto industry legal and technical insiders."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-01-31T08:47:37.000Z",
+    "title": "NFTs Outpaced Ether's Gains in January",
+    "url": "https://www.coindesk.com/markets/2024/01/31/nfts-outpaced-ethers-gains-in-january/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Ether prices are set to close the month just over 2% higher, while major NFT indices have gained almost 10%."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-01-31T09:03:45.000Z",
+    "title": "Terraform Labs Says Bankruptcy Will Help Appeal SEC Lawsuit",
+    "url": "https://cryptodaily.co.uk/2024/01/terraform-labs-says-bankruptcy-will-help-appeal-sec-lawsuit",
+    "description": "Chris Amani, the CEO of Terraform Labs, has said that the company’s decision to file for bankruptcy will help it appeal its lawsuit from the United States Securities and Exchange Commission."
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T08:32:46.000Z",
-    "title": "Microsoft’s Stellar Q2 Results Inspire AI-Driven Innovation Alert",
-    "url": "https://www.cryptopolitan.com/microsofts-q2-results-inspire-ai-innovation/",
-    "description": "Microsoft has once again demonstrated its prowess in the tech industry by delivering impressive financial results for the second quarter of fiscal year 2024.&#160; The software giant&#8217;s performance prompted Wedbush analyst Daniel Ives to shower praise on the company, likening CEO Satya Nadella&#8217;s guidance to a masterpiece worthy of the Louvre. Microsoft masterpiece quarter and [&#8230;]"
+    "date": "2024-01-31T09:04:16.000Z",
+    "title": "Rollbit Price Prediction 2024-2033:  Is It Time To Buy RLB?",
+    "url": "https://www.cryptopolitan.com/rollbit-price-prediction/",
+    "description": "Rollbit coin price prediction 2024-2033 Rollbit has quickly become one of the most popular crypto casinos and trading platforms. Launched in 2019, Rollbit offers a wide range of gaming, sports betting, futures trading, and NFT options for users. With no KYC requirements and support for numerous cryptocurrencies, Rollbit provides an easy entry into the world [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T09:02:42.000Z",
+    "title": "Ethereum advances with dencun upgrade on sepolia testnet",
+    "url": "https://www.cryptopolitan.com/ethereum-advances-with-dencun-upgrade/",
+    "description": "The decentralized blockchain platform Ethereum has marked a significant milestone by successfully deploying its Dencun upgrade on the Sepolia test network. This development, which took place at 22:51 UTC on Tuesday, is a critical step forward in Ethereum&#8217;s ongoing efforts to enhance its network. Ethereum&#8217;s scalability boosted by dencun upgrade The Dencun upgrade, a major [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T08:42:32.000Z",
+    "title": "Tezos Price Prediction 2024-2033: How High can XTZ Rise?",
+    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
+    "description": "Tezos Price Prediction 2024-2033 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-01-31T08:26:07.000Z",
-    "title": "British police seized over $1.7b in Bitcoin linked to China’s investment fraud",
-    "url": "https://crypto.news/british-police-seized-over-1-7b-in-bitcoin-linked-to-chinas-investment-fraud/",
-    "description": "The Metropolitan Police revealed the seizure of over 60,000 BTC from a significant Chinese investment scam scheme. A seizure that occurred back in 2018 was disclosed for the first time during a court hearing in London on Jan. 30, according&#8230;"
+    "date": "2024-01-31T08:54:02.000Z",
+    "title": "Coinbase challenges SEC’s rejection of digital asset rulemaking petition",
+    "url": "https://crypto.news/coinbase-challenges-secs-rejection-of-digital-asset-rulemaking-petition/",
+    "description": "Coinbase&#8217;s chief legal officer, Paul Grewal, has criticized the U.S. Securities and Exchange Commission (SEC) for its minimalistic legal response regarding the exchange&#8217;s request for clearer cryptocurrency regulations. In a Jan. 30 X post, Grewal highlighted the inadequacy of the&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-31T08:49:41.000Z",
+    "title": "Avalanche and Ethereum Classic holders tracking Kelexo presale",
+    "url": "https://crypto.news/avalanche-and-ethereum-classic-holders-tracking-kelexo-presale/",
+    "description": "In recent days, Avalanche (AVAX) and Ethereum Classic (ETC) holders have been exploring Kelexo (KLXO) and its presale, which has attracted over 5,000 investors"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-01-31T08:49:18.000Z",
+    "title": "Jack Dorsey’s Block lays off 10% of staff",
+    "url": "https://crypto.news/jack-dorseys-block-lays-off-10-of-staff/",
+    "description": "Block, owned by Twitter founder Jack Dorsey, has laid off large-scale layoffs of more than 1,000 employees. Block is reportedly terminating 10% of staff in a move meant to purge “a large number of teammates” to streamline operations, according to&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-01-31T08:18:19.000Z",
-    "title": "USDC Goes Native: Circle’s Stablecoin to Fuel Celo Blockchain",
-    "url": "https://www.crypto-news-flash.com/usdc-goes-native-circles-stablecoin-to-fuel-celo-blockchain/?utm_source=rss&utm_medium=rss&utm_campaign=usdc-goes-native-circles-stablecoin-to-fuel-celo-blockchain",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Blockchain-Chain-with-blue-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Blockchain-Chain-with-blue-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Circle&#8217;s USD coin, USDC, will debut on the Celo blockchain, with the community set to vote on a proposal to make USDC the gas currency for the ecosystem. The integration will help increase activity on the blockchain as it seeks to boost use cases for real-world assets. Circle and the Celo blockchain are celebrating a [...]"
+    "date": "2024-01-31T09:07:54.000Z",
+    "title": "Bitget Exchange Faces Apple Store Delisting, Awaits Resumption in Two Weeks",
+    "url": "https://www.crypto-news-flash.com/bitget-exchange-faces-apple-store-delisting-awaits-resumption-in-two-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=bitget-exchange-faces-apple-store-delisting-awaits-resumption-in-two-weeks",
+    "description": "<img width=\"1920\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Elon Musk is once again advocating for modifications to Apple&#039;s App Store policies. He\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-1024x768.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-768x576.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-1536x1152.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-24x18.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-36x27.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/06/apple-inc-g4b25f70de_1920-48x36.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Reports reveal that Bitget Exchange has been delisted from the Apple Store, but the exchange wallet remains available. Bitget has revealed that it expects to resume in two weeks, and with iPhone users affected by the halt, this could affect the exchange&#8217;s market share. Bitget has confirmed that the official exchange application has been delisted [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-31T09:03:45.000Z",
+    "title": "SEC May Approve Ethereum ETF by May 23, Potentially Propelling ETH Price to $4,000, Says Billion-Dollar Giant Standard Chartered",
+    "url": "https://www.crypto-news-flash.com/sec-may-approve-ethereum-etf-by-may-23-potentially-propelling-eth-price-to-4000-says-billion-dollar-giant-standard-chartered/?utm_source=rss&utm_medium=rss&utm_campaign=sec-may-approve-ethereum-etf-by-may-23-potentially-propelling-eth-price-to-4000-says-billion-dollar-giant-standard-chartered",
+    "description": "<img width=\"1746\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Faded-logos-of-Ethereum-ETH-coins\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins.jpg 1746w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-300x206.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-1024x704.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-768x528.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-1536x1056.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-150x103.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-450x309.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Faded-logos-of-Ethereum-ETH-coins-1200x825.jpg 1200w\" sizes=\"(max-width: 1746px) 100vw, 1746px\" />Standard Chartered projects a potential SEC approval for an Ethereum ETF by May 23, potentially driving ETH prices to $4,000. The approval could mirror the path of Bitcoin ETFs, with significant market inflows expected, reinforcing Ethereum&#8217;s strong market position. The SEC might greenlight an Ethereum ETF by May 23, potentially boosting ETH prices to $4,000, [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-31T09:00:19.000Z",
+    "title": "Celestia (TIA), Stacks (STX), or NugetRush (NUGX)? Savvy Investors Go All in On NUGX",
+    "url": "https://www.crypto-news-flash.com/celestia-tia-stacks-stx-or-nugetrush-nugx-savvy-investors-go-all-in-on-nugx/?utm_source=rss&utm_medium=rss&utm_campaign=celestia-tia-stacks-stx-or-nugetrush-nugx-savvy-investors-go-all-in-on-nugx",
+    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T110417.263-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Stacks and Celestia—although top altcoins—are probably not as compelling as investing in NuggetRush. According to analysts, NuggetRush will experience a 75x rally after its launch. It is primed for a strong surge thanks to its blend of gaming and memes. If asked to pick between Celestia (TIA), NuggetRush (NUGX), and Stacks (STX), NuggetRush will be [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-01-31T08:49:54.000Z",
+    "title": "Binance to List $JUP Token on Jan 31 at 15:30 UTC",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/binance-to-list-jup-token-on-jan-31-at-1530-utc/",
+    "description": "<p>The listing is scheduled to take place today at 15:30 UTC. Marking a crucial milestone for the $JUP token and its community. $JUP, the native token of Jupiter, has been gaining attention in the cryptocurrency space for its potential applications. Binance Expands Portfolio with Jupiter&#8217;s $JUP Inclusion The announcement by Binance is expected to significantly [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/binance-to-list-jup-token-on-jan-31-at-1530-utc/\">Binance to List $JUP Token on Jan 31 at 15:30 UTC</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-01-31T08:15:55.000Z",
-    "title": "Why have so many Polygon (MATIC) and Tron (TRX) Investors Registered with DeeStream’s (DST) Presale?",
-    "url": "https://coinedition.com/why-have-so-many-polygon-matic-and-tron-trx-investors-registered-with-deestreams-dst-presale/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/pr-7-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/pr-7-1.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/pr-7-1-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Discover why a wave of Polygon (MATIC) and Tron (TRX) investors is flocking to the DeeStream (DST) presale. With a tantalizingly low price of just $0.035, DeeStream (DST) offers a decentralized streaming platform with unique incentives, setting it apart in the crypto space. Uncover the allure that draws investors seeking innovation and value. MATIC Magic: [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/why-have-so-many-polygon-matic-and-tron-trx-investors-registered-with-deestreams-dst-presale/\">Why have so many Polygon (MATIC) and Tron (TRX) Investors Registered with DeeStream’s (DST) Presale?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-01-31T08:43:54.000Z",
+    "title": "Mark Cuban Confirms Dallas Mavericks Still Accept Dogecoin for Payment",
+    "url": "https://coinedition.com/mark-cuban-confirms-dallas-mavericks-still-accept-dogecoin-for-payment/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Mark Cuban Says Dallas Mavericks Still Accept DOGE for Payment\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Dogecoin_Holder_Revives_2_Million_DOGE_Wallet_After_5_Dormant_Years-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>American businessman and shark investor Mark Cuban sparked excitement in the crypto community after he disclosed that the Dallas Mavericks still accept Dogecoin as a payment method.&#160; Cuban made the statement during a spontaneous Ask Me Anything (AMA) session on January 29 with his 8.8 million followers on X. During the session, a user asked, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/mark-cuban-confirms-dallas-mavericks-still-accept-dogecoin-for-payment/\">Mark Cuban Confirms Dallas Mavericks Still Accept Dogecoin for Payment</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

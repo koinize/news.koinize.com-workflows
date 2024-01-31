@@ -1,114 +1,100 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-01-31T14:00:00.000Z",
-    "title": "Vibe Check: The Bullish Bounce Back: CoinDesk Indices' Todd Groth",
-    "url": "https://www.coindesk.com/markets/2024/01/31/vibe-check-the-bullish-bounce-back-coindesk-indices-todd-groth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Periodic observations and market musings from Todd Groth, Head of Research, CoinDesk Indices."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-31T14:06:50.000Z",
-    "title": "You Can Earn Bitcoin for Playing a Fun Mobile Word Game—Here's How Much",
-    "url": "https://decrypt.co/214992/earn-bitcoin-playing-mobile-word-game",
-    "description": "Word Breeze on iOS and Android presents a familiar premise, but it’s entertaining and pays out Bitcoin rewards. Should you play it?"
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-01-31T13:44:02.000Z",
-    "title": "Global X Withdraws Spot Bitcoin ETF Application",
-    "url": "https://decrypt.co/214991/global-x-withdraws-spot-bitcoin-etf-application",
-    "description": "The ETF provider becomes the first to withdraw its application for a U.S. spot Bitcoin ETF since multiple funds were approved in January."
+    "date": "2024-01-31T14:24:56.000Z",
+    "title": "Ripple's XRP Drops 5% Amid Report of Potential $112M Hack",
+    "url": "https://www.coindesk.com/business/2024/01/31/ripples-xrp-drops-5-amid-report-of-potential-112m-hack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Blockchain analyst ZachXBT claims 213 million XRP tokens were stolen before being laundered across multiple exchanges."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-01-31T14:01:00.000Z",
-    "title": " How Move found new purpose after the collapse of Facebook’s stablecoin Diem ",
-    "url": "https://cointelegraph.com/news/move-langauge-facebook-s-stablecoin-diem-defi",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDEvOTNhZGIyMzUtOTRiYy00OTcxLWIwZmItMjliN2FhMWRkYTkxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Sam Blackshear, the creator of Move, spoke with Cointelegraph to give the inside story on the language of Aptos, Sei and Sui. </p>\n                    <p><p data-ct-non-breakable=\"true\">At Facebook, Sam Blackshear created Move, a programming language tailored specifically for blockchain applications, but Diem, the cryptocurrency powered by Move, never launched.</p><p>When lawmakers in the United States quashed Facebook’s cryptocurrency ambitions, Blackshear and others searched for new applications for the language they created. It didn’t take long to find them. Today, several successful blockchains use Move, including Aptos, Sei and Sui, the latter of which Blackshear continues to work on as chief technology officer of Mysten Labs.</p><p>Cointelegraph spoke with Blackshear to discover why the end of Diem was just the beginning for Move and why it is a better choice for building blockchains than Solidity, Rust or other preexisting languages:</p><p><a href=\"https://cointelegraph.com/news/move-langauge-facebook-s-stablecoin-diem-defi\">Read more</a></p></p>\n                \n            "
+    "date": "2024-01-31T14:30:00.000Z",
+    "title": " Mystery of Polygon’s missing MATIC: Everyone’s doing it, says ChainArgos ",
+    "url": "https://cointelegraph.com/magazine/mystery-polygon-missing-matic-everyone-doing-it-chainargos/",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-Polygons-400M-missing-MATIC-mystery-Everyones-doing-it-claims-ChainArgos-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Polygon faces questions about 400M MATIC allegedly missing from its staking address but ChainArgos says no project allocates tokens correctly</p>\n                    <p><p><strong>Polygon is facing questions over 400 million MATIC allegedly missing from its staking allocation  but most other projects have also not accurately followed their publicized token distribution strategies, says blockchain data firm ChainArgos.</strong></p><p>Jonathan Reiter, CEO of the Singapore-based company, tells Cointelegraph that it has not yet encountered a single company that has fully honored the token distribution plans initially presented to investors.</p><p>Youve certainly seen questions about a very wide range of projects and whether or not the token allocations made any sense, said Reiter.</p><p><a href=\"https://cointelegraph.com/magazine/mystery-polygon-missing-matic-everyone-doing-it-chainargos/\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2024-01-31T13:50:59.000Z",
-    "title": "Morgan Creek Capital CEO Mark Yusko Foresees Bitcoin’s Explosive Rally to $100,000 by 2024 End",
-    "url": "https://www.cryptoglobe.com/latest/2024/01/morgan-creek-capital-ceo-mark-yusko-foresees-bitcoins-explosive-rally-to-100000-by-2024-end/",
-    "description": "In a recent interview on the Thinking Crypto channel, Mark Yusko, the founder and CEO of Morgan Creek Capital, shared his optimistic forecast for Bitcoin (BTC), predicting a substantial rally for the cryptocurrency in the near future. Yusko believes that Bitcoin could reach or even surpass a value of $100,000 by the end of 2024, […]\n"
+    "source": "CryptoSlate",
+    "date": "2024-01-31T14:12:24.000Z",
+    "title": "Sui ends January with new ATH and soaring DeFi metrics",
+    "url": "https://cryptoslate.com/sui-ends-january-with-new-ath-and-soaring-defi-metrics/",
+    "description": "<p>Layer1 blockchain network Sui is ending the month as one of the best-performing digital assets, according to CryptoSlate&#8217;s top gainers list. According to the list, SUI gained around 75% during the past 30 days to post a new all-time high of $1.64 on Jan. 30, surpassing its previous high of $1.43. However, its value has [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/sui-ends-january-with-new-ath-and-soaring-defi-metrics/\">Sui ends January with new ATH and soaring DeFi metrics</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-31T14:08:21.000Z",
-    "title": "UK government addresses privacy concerns in digital pound consultation",
-    "url": "https://www.cryptopolitan.com/uk-government-addresses-privacy-concerns/",
-    "description": "The United Kingdom&#8217;s efforts to address privacy concerns surrounding the proposed digital pound have garnered positive responses from experts in the crypto industry. The results of the highly anticipated UK consultation on the digital pound were released by the Bank of England (BoE) and the Treasury, revealing that while many respondents welcomed the proposed design, [&#8230;]"
+    "source": "Coin Telegraph India",
+    "date": "2024-01-31T14:30:00.000Z",
+    "title": " Mystery of Polygon’s missing MATIC: Everyone’s doing it, says ChainArgos ",
+    "url": "https://cointelegraph.com/magazine/mystery-polygon-missing-matic-everyone-doing-it-chainargos/",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-Polygons-400M-missing-MATIC-mystery-Everyones-doing-it-claims-ChainArgos-scaled.jpg\"></p><p>Polygon faces questions about 400M MATIC allegedly missing from its staking address but ChainArgos says no project allocates tokens correctly</p>\n            "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-31T14:04:45.000Z",
-    "title": "Marketing Giant Embraces AI for Future Growth in 2024",
-    "url": "https://www.cryptopolitan.com/marketing-giant-embraces-ai/",
-    "description": "Discover the transformative AI-driven growth strategy for the marketing giant WPP, focusing on creativity and technology. "
+    "source": "Crypto Daily",
+    "date": "2024-01-31T14:22:16.000Z",
+    "title": "Could Soaring TVL and Active User Growth Propel Solana (SOL) to a $150 Breakthrough?",
+    "url": "https://cryptodaily.co.uk/2024/01/could-soaring-tvl-and-active-user-growth-propel-solana-sol-to-a-150-breakthrough",
+    "description": "Explore the possibility of Solana (SOL) achieving a $150 price target as we dissect its soaring Total Value Locked and active addresses. Dive into our comprehensive analysis, where we balance the bullish optimism with cautious scrutiny, providing you with the insights you need on SOL's future in the volatile crypto market."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-01-31T14:00:28.000Z",
-    "title": "Deepfake Fraud Among Emerging Risks for Insurance Industry, Says Kennedys Report",
-    "url": "https://www.cryptopolitan.com/deepfake-fraud-for-insurance-industry/",
-    "description": "Global law firm Kennedys has shed light on the potential benefits and risks that artificial intelligence (AI) brings to the insurance sector in its Global Forecast 2024: Evolving Insurance Risks report. While AI offers advantages such as improved risk assessment and streamlined claims processing, it also presents novel challenges. One of the highlighted risks is [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-01-31T14:00:00.000Z",
-    "title": "Bitcoin Targets $48K, Analyst Cautions Pre-Halving; Chainlink and Borroe Finance Eye Major Growth",
-    "url": "https://www.cryptopolitan.com/bitcoin-targets-48k-analyst-cautions-pre-halving-chainlink-and-borroe-finance-eye-major-growth/",
-    "description": "In the dynamic and often unpredictable world of cryptocurrencies, Bitcoin&#8217;s latest buzz is a projected rally to $48,000 by April 2024, as per a Crypto Twitter analyst. Meanwhile, platforms like Chainlink and Borroe Finance, built on the Polygon blockchain, are eyeing significant growth in this shifting landscape. &#62;&#62;BUY $ROE TOKENS NOW&#60;&#60; Bitcoin&#8217;s Halving Horoscope The [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-01-31T14:30:53.000Z",
+    "title": "Stablecoin Market Cap Climbs $4.85 Billion in 30 Days; USDT, USDC, FDUSD Spearhead Growth",
+    "url": "https://news.bitcoin.com/stablecoin-market-cap-climbs-4-85-billion-in-30-days-usdt-usdc-fdusd-spearhead-growth/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Stablecoin Market Cap Climbs $4.85 Billion in 30 Days; USDT, USDC, FDUSD Spearhead Growth\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/01/stablesss.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In the past month, data reveals a significant increase in the combined market capitalization of leading stablecoins, rising from $131.71 billion to $136.56 billion. The top two stablecoins, tether and usd coin, experienced notable expansions in their supplies, with increases of 4.8% and 7.2% respectively. Stablecoin Economy on the Rise Over the last 30 days, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-01-31T13:41:33.000Z",
-    "title": "Composable Options Protocol Ithaca Finance Announces $2.5M in Pre-Seed Funding",
-    "url": "https://www.cryptopolitan.com/composable-options-protocol-ithaca-finance-announces-2-5m-in-pre-seed-funding/",
-    "description": "Ithaca Finance, a new project focused on decentralized options trading, has emerged from stealth mode with the announcement of pre-seed funding and an invite-only mainnet launch on Arbitrum. $2.5 million will be used to develop the Ithaca Protocol for composable, non-custodial trading of on-chain options on Arbitrum. Ithaca’s funding news comes as VC interest in [&#8230;]"
+    "date": "2024-01-31T14:32:12.000Z",
+    "title": "Bitcoin ETF approval indicates mainstream validation, but scalability remains a key concern",
+    "url": "https://www.cryptopolitan.com/bitcoin-etf-approval-indicates-mainstream/",
+    "description": "In a recent interview with Cointelegraph, Paul Sztorc, a prominent figure in the Bitcoin community, shared his thoughts on approving Bitcoin exchange-traded funds (ETFs) in the United States and the implications for the cryptocurrency ecosystem.&#160; While he acknowledged the significance of ETFs in mainstream acceptance, Sztorc emphasized the need for enhanced scalability and functionality within [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-31T13:57:47.000Z",
-    "title": "Why the Experts Say Revolutionary Pushd (PUSHD) Will Hit 20x and Why Investors Move from Ethereum (ETH) and Ripple (XRP) into Presale",
-    "url": "https://nulltx.com/why-the-experts-say-revolutionary-pushd-pushd-will-hit-20x-and-why-investors-move-from-ethereum-eth-and-ripple-xrp-into-presale/",
-    "description": "The Pushd (PUSHD) presale has not only hit over 24,0000 registrations but also garnered a strong community. Pushd (PUSHD) is just about the best investment for investors in 2024 and any investor hungry for profits must key into the presale. Despite being new, experts believe Pushd (PUSHD) is the solution [&#8230;]"
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T14:25:42.000Z",
+    "title": "AI Advances Medical Diagnosis, With Potential to Revolutionize Healthcare",
+    "url": "https://www.cryptopolitan.com/ai-advances-medical-diagnosis/",
+    "description": "Researchers at the University of Waterloo and collaborating institutions have achieved a significant breakthrough in medical diagnostics by harnessing the power of artificial intelligence (AI). Led by engineering professor Alexander Wong, the team has pioneered a novel AI-based approach that promises to elevate the accuracy and reliability of disease diagnosis, encompassing conditions such as COVID-19, [&#8230;]"
   },
   {
-    "source": "NullTX",
-    "date": "2024-01-31T13:55:56.000Z",
-    "title": "Why are investors rushing into Kelexo (KLXO)? Analyst predicts Tron (TRX) and Ripple (XRP) to be overtaken",
-    "url": "https://nulltx.com/why-are-investors-rushing-into-kelexo-klxo-analyst-predicts-tron-trx-and-ripple-xrp-to-be-overtaken/",
-    "description": "Imagine having millions in the bank, yet you have no access to it and then you begin to watch it dwindle down in value. This is the dilemma of Tron (TRX) and Ripple (XRP) holders and after a loss like that of 2023, Investors are looking for a rising star [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-01-31T13:51:41.000Z",
-    "title": "Meme Moguls Presale Advances To Stage 5, Analyst Michaël Van De Poppe Bullish for Arbitrum, Celestia Trades in the Green",
-    "url": "https://nulltx.com/meme-moguls-presale-advances-to-stage-5-analyst-michael-van-de-poppe-bullish-for-arbitrum-celestia-trades-in-the-green/",
-    "description": "Meme Moguls (MGLS) has recently made headlines as it entered Stage 5 of its presale. With close to $2M raised and 3,700 holders, it is clear that interest in this DeFi project is rising. Some analysts have even pegged it as the next 100x meme coin in 2024. Meanwhile, Arbitrum [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-01-31T13:45:00.000Z",
-    "title": "XRP and Cardano struggling, Borroe Finance rallying in presale",
-    "url": "https://crypto.news/xrp-and-cardano-struggling-borroe-finance-rallying-in-presale/",
-    "description": "XRP and Cardano prices are still under pressure. Meanwhile, Borroe Finance is trending higher in the ongoing presale"
+    "source": "Cryptopolitan",
+    "date": "2024-01-31T14:16:42.000Z",
+    "title": "Investors abandon ship on Bitcoin Futures – ETFs dominate the crypto scene",
+    "url": "https://www.cryptopolitan.com/investors-abandon-ship-on-bitcoin-futures/",
+    "description": "The landscape of Bitcoin investment is undergoing a significant shift as demand for Bitcoin futures appears to be cooling off while investors increasingly turn their attention to Exchange-Traded Funds (ETFs). This transition follows the recent debut of US-listed ETFs that directly hold Bitcoin, marking a notable development in the crypto market. These developments mark a [&#8230;]"
   },
   {
     "source": "NewsBTC",
-    "date": "2024-01-31T14:00:14.000Z",
-    "title": "Bitcoin Miner Selloff Poses “Negligible Impact”, Quant Argues",
-    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-miner-selloff-negligible-impact-quant/",
-    "description": "On-chain data shows the Bitcoin miners have been selling recently, but this quant has argued that this selloff shouldn&#8217;t have much impact on the market. Bitcoin Miner Reserve Has Registered A Decline Recently In a CryptoQuant Quicktake post, an analyst discussed the latest selling pressure that the miners have been putting on the market. The indicator of interest here is the &#8220;miner reserve,&#8221; which keeps track of the total amount of Bitcoin that the miners combined hold in their wallets right now. This metric can naturally provide information about the collective behavior of these chain validators. Generally, the miners withdraw their coins from their reserve when they want to sell, so a decline in the indicator can potentially have bearish consequences for the asset. Related Reading: These Crypto Asset Classes Could Be Future Market Drivers: Santiment A rise in the metric, on the other hand, may be bullish for the cryptocurrency&#8217;s price as it suggests the miners as a whole are in accumulation mode at the moment. Now, here is a chart that shows the trend in the Bitcoin miner reserve over the past year: The value of the metric seems to have been heading down in recent days &#124; Source: CryptoQuant As displayed in the above graph, the Bitcoin miner reserve has been on its way down since October, implying that this cohort has withdrawn a net amount of BTC from their wallets during this period. This latest selloff from the miners has recently been a topic in the community, with many speculating about the possible bearish impact arising from it. The quant has a different opinion on the matter, however. &#8220;The sell-off of Bitcoin reserves by miners, as discussed on X and various portals, is unfounded,&#8221; explains the analyst. To back this claim, the quant has pointed out the exact numbers involved here. Before this selling started, the miner reserve had a value of around 1,84,997 BTC. Following the decline that the indicator has witnessed since then, the miners now hold about 1,833,222 BTC. This represents a decrease of 12,755 BTC, which, although substantial on its own, doesn&#8217;t seem too large in the grand scheme of things, especially considering the size of the miner reserve itself. &#8220;The minimal amount of bitcoin sold has negligible impact on the market,&#8221; notes the analyst. The trend in the miner inflows and outflows over the past couple of months &#124; Source: CryptoQuant The above chart shows the data for the Bitcoin inflows and outflows being made by the miners. There have indeed been outflows taking place recently, which is why there has been talk of a selloff. Related Reading: Bitcoin Rally Still Has Some Legs Left, Santiment Explains Why At the same time, the inflow transaction volume has also been at significant levels, making up for these outflows. This is the reason for the relatively small net decrease in the total miner reserve. BTC Price Bitcoin had recovered beyond the $43,000 mark earlier, but the asset has seen a setback during the past day as it has slipped back towards $42,500. Looks like the price of the coin has retraced some of its recent recovery &#124; Source: BTCUSD on TradingView Featured image from Shutterstock.com, charts from TradingView.com, CryptoQuant.com"
+    "date": "2024-01-31T14:33:42.000Z",
+    "title": "Why “Overbought” Bitcoin Could Trigger A 107% Rally",
+    "url": "https://www.newsbtc.com/bitcoin-news/why-overbought-bitcoin-could-trigger-a-107-rally/",
+    "description": "Bitcoin price had previously been showing extreme strength leading up until the debut of the first spot ETFs. That strength has since subsided, leading to a 20% correction in BTCUSD. A popular technical indicator that measures momentum, however, could point to powerful continuation to the upside, but only if a certain level is breached. Keep reading to learn more about the Relative Strength Index and how the top cryptocurrency behaves once the market reaches an “overbought” level. Bitcoin Approaches &#8220;Overbought&#8221; And Why This Isn&#8217;t A Bad Thing The Relative Strength Index is a momentum-measuring tool that signals when a market is “overbought” or “oversold”. When a financial asset reaches such conditions, it often means the trend is about to change. In Bitcoin and other cryptocurrencies, the weekly RSI is often a signal that the asset is moving into its most powerful phase. For example, Bitcoin made it above a reading of 70 in October 2023, and only weeks later saw an over 60% rally to local 2024 highs. Now 1W BTCUSD charts are showing an RSI reading of just below 70, pointing to a possible close back above the overbought level. If bulls can keep the top cryptocurrency by market cap above $43,650, the weekly RSI should close above the threshold. The average move is 107% &#124; BTCUSD on TradingView.com BTCUSD Historical 1W Relative Strength Data Historical data could possibly shed some light on what might happen if the weekly Relative Strength Index gets the close above 70 as anticipated. Over the last ten years, Bitcoin saw a 1W RSI close above 70 a total of 13 times. This happened 8 times in 2016 and 2017, twice in 2019, and once each in 2020 and 2021. One additional instance occurred in 2023. Related Reading: Bearish Sell Signal Triggers As Bitcoin Falls Below $39,000 Of the 13 times, the average gain after the RSI closed above 70 to the peak of the movement was 107%. The largest rally was in 2020, bringing over 400% returns. The smallest rally was in 2016 and saw only a 20% gain. After removing the largest and smallest outliers, the average drops down to around 61%. This could mean that Bitcoin could produce on average a move between 61 and 107%. A 61% gain takes BTCUSD back to just under $68,000 and shy of a new all-time high, while a 107% move sets a new record closer to $90,000 per coin. The cryptocurrency is also potentially working on a bull flag pattern, with a target of around $77,000. The 75% target is within historical averages &#124; BTCUSD on TradingView.com Tony is the author of the CoinChartist (VIP) newsletter. Sign up for free. Follow @TonyTheBullBTC &#38; @coinchartist_io on Twitter. Or join the TonyTradesBTC Telegram for daily market insights and technical analysis education. Please note: Content is educational and should not be considered investment advice. Featured image from Shutterstock, Charts from TradingView.com"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-01-31T14:00:00.000Z",
-    "title": "Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit",
-    "url": "https://coinedition.com/terraform-says-bankruptcy-case-vital-in-appealing-secs-fraud-lawsuit/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/Terra_CEO_Do_Kwon_faces_lawsuit_in_Singapore_next_hearing_on_Wednesday-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Terraforms said bankruptcy proceedings will help appeal the SEC’s lawsuit. Terraforms filed for bankruptcy last week and will have its first day of hearing today. The company can avoid costs by relying on protections offered under the Chapter 11 proceedings. Ahead of the commencement of its Chapter 11 proceedings, troubled cryptocurrency firm Terraform Labs revealed [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/terraform-says-bankruptcy-case-vital-in-appealing-secs-fraud-lawsuit/\">Terraform Says Bankruptcy Case Vital in Appealing SEC’s Fraud Lawsuit</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-01-31T14:30:10.000Z",
+    "title": "VortexAI: Transforms the industry using AI",
+    "url": "https://www.crypto-news-flash.com/vortexai-transforms-the-industry-using-ai/?utm_source=rss&utm_medium=rss&utm_campaign=vortexai-transforms-the-industry-using-ai",
+    "description": "<img width=\"1200\" height=\"274\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970-300x69.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970-768x175.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970-150x34.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-31T165111.970-450x103.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />In today’s ever-evolving cryptocurrency trading landscape, having an edge is essential. That’s where VortexAI comes in. VortexAI is a cutting-edge trading bot that’s revolutionizing the industry with its cutting-edge AI technology. Let’s take a look at how VortexAI is revolutionizing trading, making it easier, more profitable, and better for everyone. The Rise of VortexAI VortexAI [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-01-31T14:21:16.000Z",
+    "title": "Argentina Amends Omnibus Law to Accelerate Bitcoin, Ripple (XRP) and Crypto Legislation",
+    "url": "https://www.crypto-news-flash.com/argentina-amends-omnibus-law-to-accelerate-bitcoin-ripple-xrp-and-crypto-legislation/?utm_source=rss&utm_medium=rss&utm_campaign=argentina-amends-omnibus-law-to-accelerate-bitcoin-ripple-xrp-and-crypto-legislation",
+    "description": "<img width=\"1280\" height=\"960\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Worldcoin en Argentina\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-1024x768.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-768x576.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-150x113.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-450x338.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/international-2690834_1280-1200x900.jpg 1200w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Argentina removes cryptocurrency laundering clause from the Omnibus bill to speed up its legislative approval. Legislative modification in Argentina creates uncertainty in the cryptocurrency market, affecting investors and users of cryptoassets. The recent change in the Omnibus bill by the Argentine government, led by President Javier Milei, has provoked an intense debate in financial and [...]"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2024-01-31T14:32:24.000Z",
+    "title": "What is Jupiter (JUP)?",
+    "url": "https://blog.bitfinex.com/education/what-is-jupiter-jup/",
+    "description": "<p>Jupiter is one of the most popular platforms in the Decentralised Finance (DeFi) sector, on the Solana blockchain, and recently became the most popular DEX aggregator in the world. It has established itself as a significant liquidity aggregator, a role that involves pooling resources to...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/education/what-is-jupiter-jup/\">What is Jupiter (JUP)?</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2024-01-31T14:15:23.000Z",
+    "title": "Bitfinex Securities Launches in El Salvador, Offering New Opportunities in Digital Asset Services",
+    "url": "https://blog.bitfinex.com/announcements/bitfinex-securities-opens-for-business-in-el-salvador/",
+    "description": "<p>SAN SALVADOR, EL SALVADOR – January 31,2024 – Bitfinex Securities El Salvador S.A. de C.V., the leading securities token platform, is pleased to announce the official launch of its operations in El Salvador. As El Salvador&#8217;s first registered and licensed digital assets service provider, Bitfinex...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/announcements/bitfinex-securities-opens-for-business-in-el-salvador/\">Bitfinex Securities Launches in El Salvador, Offering New Opportunities in Digital Asset Services</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

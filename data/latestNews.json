@@ -1,114 +1,86 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-02T13:01:00.000Z",
-    "title": "First Mover Americas: Bitcoin Holds $43K",
-    "url": "https://www.coindesk.com/markets/2024/02/02/first-mover-americas-bitcoin-holds-43k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin [BTC] and crypto markets in context for Feb. 2, 2024. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-02-02T12:41:12.000Z",
-    "title": "BlackRock and ProShares' Bitcoin ETFs Surpassed GBTC's Daily Volumes",
-    "url": "https://www.coindesk.com/markets/2024/02/02/blackrock-and-proshares-bitcoin-etfs-surpassed-gbtcs-daily-volumes/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "GBTC has led bitcoin ETF volumes, mostly in outflows, since the products started trading in early January."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-02T12:54:00.000Z",
-    "title": " Hong Kong regulator says unlicensed VASPs must cease operations by May ",
-    "url": "https://cointelegraph.com/news/hong-kong-vasp-licensing-deadline-may-shutdown",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNjkzZTc0MTktMTRhMS00Y2UyLWI1YjctNjQ5MzgxNWY2ZjM3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Secretary for Financial Services and the Treasury, Christopher Hui, wrote in a blog that unlicensed service providers must submit an application for licensing by Feb. 29.</p>\n                    <p><p>The Hong Kong government’s financial services department highlighted the Feb. 29 deadline for unlicensed virtual asset service providers (VASP) applications and said those not approved must cease operations by May 31. </p><p>In an official blog post, Christopher Hui, Hong Kong’s Secretary for Financial Services and the Treasury, <a href=\"https://www.fstb.gov.hk/en/blog/blog020224.htm\" target=\"_blank\" rel=\"noopener nofollow\">wrote</a> that since some VASPs were operating in Hong Kong before the Securities and Futures Commission (SFC) established a licensing system, there will be a transitional period, allowing the VASPs to apply for a license. </p><p>“If these service providers would like to continue their operations in Hong Kong, they have to submit their license applications by 29 February this year,” Hui added. </p><p><a href=\"https://cointelegraph.com/news/hong-kong-vasp-licensing-deadline-may-shutdown\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-02T13:09:50.000Z",
+    "title": " Meta unveils Artemis chip to boost AI, cut Nvidia ties - Report ",
+    "url": "https://cointelegraph.com/news/meta-artemis-chip-ai-development-2024",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYmY4YmU0OTgtY2E5Mi00MTdiLWI0NjQtNmQ0MmU4MGIxNDM2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Meta confirmed plans to deploy a new custom semiconductor chip, dubbed \"Artemis,\" in its data centers to enhance AI capabilities, reducing dependency on Nvidia.</p>\n                    <p><p>Meta, the Facebook and Instagram parent company, is preparing to deploy a new version of a custom semiconductor chip in its data centers to support artificial intelligence (AI) development. </p><p>According to a report by <a href=\"https://www.reuters.com/technology/meta-deploy-in-house-custom-chips-this-year-power-ai-drive-memo-2024-02-01/\" target=\"_blank\" rel=\"noopener nofollow\">Reuters</a>, an internal document revealed plans for a second generation of an in-house chip, known internally as “Artemis,” as Meta tries to boost its computing capabilities to handle more powerful generative AI products. </p><p>The Artemis chip is similar to the previous one and is only capable of “interference,” through which models use their algorithm to create judgments and generate responses to user prompts. </p><p><a href=\"https://cointelegraph.com/news/meta-artemis-chip-ai-development-2024\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-02T12:51:05.000Z",
-    "title": "Alternative to Solana (SOL) primed to hit $27 in 2024, is currently available for a mere $0.1",
-    "url": "https://cryptodaily.co.uk/2024/02/alternative-to-solana-sol-primed-to-hit-27-in-2024-is-currently-available-for-a-mere-01",
-    "description": "As the crypto markets mature, investors are looking beyond early leaders like Solana (SOL) for the next wave of innovative blockchain projects."
+    "date": "2024-02-02T13:30:17.000Z",
+    "title": "Bonk (BONK) Causing mayhem again as investors pour into Kelexo (KLXO) presale, as mass exodus in Polygon (MATIC)",
+    "url": "https://cryptodaily.co.uk/2024/02/bonk-bonk-causing-mayhem-again-as-investors-pour-into-kelexo-klxo-presale-as-mass-exodus-in-polygon-matic",
+    "description": "In the middle of the commotion caused by Bonk (BONK) and Polygon (MATIC), Kelexo (KLXO) appears as an innovator with its significant presale."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-02T13:11:09.000Z",
+    "title": "Bitcoin Technical Analysis: BTC’s Price Resilience Holds Steady Amidst Market Fluctuations",
+    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-btcs-price-resilience-holds-steady-amidst-market-fluctuations/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: BTC&#039;s Price Resilience Holds Steady Amidst Market Fluctuations\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Friday, the price of bitcoin fluctuated within a daily span from $41,937 to $43,347, with its market value reaching $846 billion. The trading activity for the day tallied up to $17.35 billion, showcasing a spike in investor involvement and market liquidity, which tends to diminish as the weekend approaches. Bitcoin The current sentiment towards [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-02T13:00:00.000Z",
-    "title": "Pandoshi (PAMBO) Anticipated to Soar Similar to Solana (SOL) in 2024",
-    "url": "https://www.cryptopolitan.com/pandoshi-pambo-anticipated-to-soar-similar-to-solana-sol-in-2024/",
-    "description": "2023 was marked by remarkable achievements and significant surges. Solana&#8217;s native cryptocurrency, SOL, emerged as one of the standout performers, surpassing the $100 mark and gaining widespread attention.&#160; As SOL continues to ride the wave of success, another cryptocurrency is poised to follow a similar trajectory in 2024 – Pandoshi (PAMBO). Solana&#8217;s Meteoric Year-to-Date Gains [&#8230;]"
+    "date": "2024-02-02T13:15:59.000Z",
+    "title": "Europcar’s Alleged Data Breach Wasn’t Done Using AI, Experts Argue",
+    "url": "https://www.cryptopolitan.com/europcars-alleged-data-breach-wasnt-done-using-ai-experts-argue/",
+    "description": "French car rental company Europcar made headlines earlier this week following reports of an alleged data breach affecting nearly 50 million customers.&#160; Cyber security platform HackManac reported the incident on January 30th, noting that the stolen database containing usernames, passwords, full names, addresses, and several other user-identifying information had been listed for sale on a [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-02T12:58:48.000Z",
-    "title": "Crypto weekend watch – Bitcoin surges past $43,000",
-    "url": "https://www.cryptopolitan.com/crypto-weekend-watch-btc-at-43k/",
-    "description": "Crypto enthusiasts and investors are closely monitoring the weekend developments as Bitcoin experiences a significant surge, reclaiming a value above $43,000. The recent market dynamics showcase Bitcoin&#8217;s resilience after a recent dip to $38,500, marking a local bottom.&#160; In the last 24 hours, Bitcoin skyrocketed by 2%, demonstrating its ability to recover swiftly. This surge [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-02-02T13:26:47.000Z",
+    "title": "Why Crypto Whales Are Accumulating Cosmos (ATOM), Meme Moguls (MGLS), and UniSwap (UNI)",
+    "url": "https://nulltx.com/why-crypto-whales-are-accumulating-cosmos-atom-meme-moguls-mgls-and-uniswap-uni/",
+    "description": "During the current bear market, finding profitable cryptocurrencies can be difficult. However, crypto whales are accumulating Cosmos, Meme Moguls, and Uniswap, creating a bullish sentiment around these projects. Now, crypto experts believe that each project could rally over the next quarter, here’s why.  Cosmos Remains Stable Amid Market Turbulence Cosmos [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-02T12:54:09.000Z",
-    "title": "AI Gender Balance Efforts Target Data Bias and Inclusivity",
-    "url": "https://www.cryptopolitan.com/ai-gender-balance-efforts-target/",
-    "description": "In the fast-evolving field of artificial intelligence (AI), the underrepresentation of women is a pressing concern that has the potential to impede diversity, perpetuate biases, and hinder progress toward gender equality.&#160; AI&#8217;s gender gap risks bias, hindering inclusion efforts. In the tech and AI sectors, women remain significantly underrepresented, raising concerns about the lack of [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-02-02T13:25:15.000Z",
+    "title": "Avalanche (AVAX) and Luna Classic (LUNC) Biggest Holders Load Up On Pullix (PLX)",
+    "url": "https://nulltx.com/avalanche-avax-and-luna-classic-lunc-biggest-holders-load-up-on-pullix-plx/",
+    "description": "Avalanche (AVAX) has also showcased a rapid upswing with its value, which can result in even further gains during the upcoming trading sessions as the overall market turns in a bullish direction. In the meantime, Luna Classic (LUNC) is also green on the charts. Despite this performance, many holders are [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-02T12:41:26.000Z",
-    "title": "Apple iPhone 16 Launch Set to Redefine Mobile AI",
-    "url": "https://www.cryptopolitan.com/apple-iphone-16-launch-set-to-mobile-ai/",
-    "description": "Apple CEO Tim Cook recently confirmed during an earnings call with investors that the company is actively developing generative AI features for its platforms.&#160; While Cook did not delve into specific details, it is anticipated that these features will be unveiled later this year, most likely in conjunction with the release of iOS 18.&#160; Apple [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-02-02T13:16:00.000Z",
+    "title": "OKB (OKB) Investors love new Pushd (PUSHD) revolution as more Avalanche (AVAX) holders buy in early",
+    "url": "https://nulltx.com/okb-okb-investors-love-new-pushd-pushd-revolution-as-more-avalanche-avax-holders-buy-in-early/",
+    "description": "In the dynamic landscape of cryptocurrency, investors are navigating strategic shifts, showcasing resilience and seeking promising opportunities. Meanwhile, Pushd (PUSHD) enters the spotlight as a revolutionary force in e-commerce drawing attention from both OKB (OKB) investors and Avalanche (AVAX) holders.  OKB (OKB) Resilience Amidst Strategic Shift The live price of [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-02-02T13:13:50.000Z",
+    "title": "Kelexo (KLXO) Bull Run – 5,000 Sign ups in just days – Ethereum (ETH) & Solana (SOL) investors alike choose Kelexo (KLXO) $0.022 Presale",
+    "url": "https://nulltx.com/kelexo-klxo-bull-run-5000-sign-ups-in-just-days-ethereum-eth-solana-sol-investors-alike-choose-kelexo-klxo-0-022-presale/",
+    "description": "Ethereum (ETH) is seeking approval for a possible ETF and Solana (SOL) is experiencing notable whale transactions. Meanwhile, Kelexo (KLXO) has garnered attention by attracting 5,000 registrations for its $0.022 presale. This web3 marketplace is changing the landscape of peer-to-peer lending, putting a focus on transparency and simplicity. With distinctive [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-02T13:08:46.000Z",
-    "title": "US DoJ brings charges in BTC-e exchange case",
-    "url": "https://crypto.news/us-doj-brings-charges-in-btc-e-exchange-case/",
-    "description": "The U.S. Department of Justice has published an indictment in the case of the Russian-rooted crypto exchange BTC-e. According to the official statement, the main defendant is Belarusian Aliaksandr Klimenka, who managed the collapse of the cryptocurrency exchange from 2011&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-02T13:00:00.000Z",
-    "title": "Internet Computer holders examine Pushd presale while Ethereum recovers",
-    "url": "https://crypto.news/internet-computer-holders-examine-pushd-presale-while-ethereum-recovers/",
-    "description": "Internet Computer (ICP) and Ethereum (ETH) investors are exploring Pushd in the ongoing presale"
+    "date": "2024-02-02T13:31:00.000Z",
+    "title": "Do fast blockchains have to sacrifice security? The blockchain trilemma",
+    "url": "https://crypto.news/do-fast-blockchains-have-to-sacrifice-security-the-blockchain-trilemma/",
+    "description": "While tradeoffs are unavoidable, experts interviewed by crypto.news believe that the blockchain trilemma sheds light on the challenges developers face and ways to navigate them. The blockchain trilemma, coined by Ethereum co-founder Vitalik Buterin in 2017, highlights the challenges developers&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-02T13:02:15.000Z",
-    "title": "Chainlink (LINK) Surges 17% in Altcoin Rally, Sets Sights on $25",
-    "url": "https://www.crypto-news-flash.com/chainlink-link-surges-17-in-altcoin-rally-sets-sights-on-25/?utm_source=rss&utm_medium=rss&utm_campaign=chainlink-link-surges-17-in-altcoin-rally-sets-sights-on-25",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink-LINK-logo-in-digital-style-with-black-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Chainlink (LINK) has made a whopping 17 percent surge in the last 24 hours, targeting the $25 price point.  An analyst predicts a massive dominance by the altcoin market and expects a valuation of $1.25 trillion. Chainlink (LINK) makes a sharp move from its bearish state to an upsurge of 17% in just 24 hours. [...]"
+    "date": "2024-02-02T13:26:26.000Z",
+    "title": "Dogecoin’s Address Boom: 890,000 New Users Join in Record Surge",
+    "url": "https://www.crypto-news-flash.com/dogecoins-address-boom-890000-new-users-join-in-record-surge/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoins-address-boom-890000-new-users-join-in-record-surge",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-02-13.46.11-Visualize-a-dynamic-and-vibrant-scene-depicting-Dogecoins-significant-growth-and-user-engagement.-Imagine-a-large-bustling-digital-cityscape-at-dusk-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Dogecoin witnesses a record surge with over 890,000 new addresses in just a week, indicating significant network growth and user engagement. The DRC-20 token standard introduction and the potential price breakout at the $0.08 level underscore Dogecoin&#8217;s dynamic market presence. Dogecoin (DOGE), the widely recognized dog-themed cryptocurrency, has experienced an unprecedented surge in network growth, [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-02T12:50:21.000Z",
-    "title": "Ethereum’s Dencun Upgrade Gets Green Light: ETH Devs Set Hard Fork Date",
-    "url": "https://www.crypto-news-flash.com/ethereums-dencun-upgrade-gets-green-light-eth-devs-set-hard-fork-date/?utm_source=rss&utm_medium=rss&utm_campaign=ethereums-dencun-upgrade-gets-green-light-eth-devs-set-hard-fork-date",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-Classic-ETC-coin-with-red-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ethereum-Classic-ETC-coin-with-red-background-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Recent successful testing and positive outcomes from the Sepolia fork suggest progress toward Ethereum Dencun mainnet activation. The Ethereum price is showing resilience above key levels, and positive sentiments, coupled with the forthcoming upgrade, are boosting expectations. On Thursday, Feb. 8, Ethereum developers are likely to announce the mainnet launch date for the Dencun upgrade. [...]"
+    "date": "2024-02-02T13:18:30.000Z",
+    "title": "Stellar (XLM) Project ‘Refugee’ Receives International Association for Trusted Blockchain Applications Award",
+    "url": "https://www.crypto-news-flash.com/stellar-xlm-project-refugee-receives-international-association-for-trusted-blockchain-applications-award/?utm_source=rss&utm_medium=rss&utm_campaign=stellar-xlm-project-refugee-receives-international-association-for-trusted-blockchain-applications-award",
+    "description": "<img width=\"1920\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Stellar-XLM-logo-with-dynamic-purple-digital-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-1024x640.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-1536x960.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-450x281.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Stellar-XLM-logo-with-dynamic-purple-digital-background-1200x750.jpg 1200w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Stellar has gained recognition for its technology application in humanitarian efforts. The XLM token remains a big beneficiary of innovations ongoing in the Stellar ecosystem. In an exciting development, the Stellar (XLM) blockchain project, &#8216;Refugee,&#8217; has been recognized by the International Association for Trusted Blockchain Applications Award for its exceptional contributions to humanitarian efforts. Stellar [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-02-02T12:42:42.000Z",
-    "title": "ShimmerNet Ecosystem Erupts with IOTA: 2 Million Requests and Growing",
-    "url": "https://www.crypto-news-flash.com/shimmernet-ecosystem-erupts-with-iota-2-million-requests-and-growing/?utm_source=rss&utm_medium=rss&utm_campaign=shimmernet-ecosystem-erupts-with-iota-2-million-requests-and-growing",
-    "description": "<img width=\"1728\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"IOTA-hand-held-logo\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo.jpg 1728w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-300x208.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-1024x711.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-768x533.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-1536x1067.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-150x104.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-450x313.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-hand-held-logo-1200x833.jpg 1200w\" sizes=\"(max-width: 1728px) 100vw, 1728px\" />The Shimmer Growth Committee introduced a groundbreaking initiative by announcing a $1 million airdrop injection into Shimmer within the ShimmerEVM ecosystem. The SPYCE.5 platform has demonstrated significant success, handling over 2 million requests for ShimmerEVM projects within the past 24 hours. The Shimmer Growth Committee of the Tangle Ecosystem Association has introduced a groundbreaking initiative [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-02-02T13:05:27.000Z",
-    "title": "OPNX to Shut Down on February 14th.",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/opnx-to-shut-down-on-february-14th/",
-    "description": "<p>The Open Exchange (OPNX) has informed its users via email that it is shutting down operations on February 14th. The company touted itself as &#8220;a solution and home for those harmed by crypto crises&#8221; and was launched by the co-founders of the collapsed Three Arrows Capital. End of the Line for OPNX: Closure Scheduled for [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/opnx-to-shut-down-on-february-14th/\">OPNX to Shut Down on February 14th.</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-02-02T12:46:38.000Z",
-    "title": "US Authorities Charge 3 People Linked With $400m FTX Attack",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/us-authorities-charge-3-people-linked-with-400m-ftx-attack/",
-    "description": "<p>Three were charged by the US Justice Department for attempting a SIM-swap theft of $400 million from FTX, per last week&#8217;s court indictment. The indictment filed with the US District Court for the Northern District of Illinois states that from March 2021 to April 2023, three people—Carter Rohn, Emily Hernandez, and Robert Powell—performed SIM-swapping frauds [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/us-authorities-charge-3-people-linked-with-400m-ftx-attack/\">US Authorities Charge 3 People Linked With $400m FTX Attack</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-02T12:45:59.000Z",
-    "title": "Analyst Says Bitcoin Indicator Flashing Bullish Signal, Updates Outlook on Dogecoin",
-    "url": "https://dailyhodl.com/2024/02/02/analyst-says-bitcoin-indicator-flashing-bullish-signal-updates-outlook-on-dogecoin/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Says-One-Bitcoin-Indicator.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Analyst Ali Martinez says a key Bitcoin (BTC) indicator is now flashing green. Martinez tells his 42,900 followers on the social media platform X that Bitcoin’s Market Value to Realized Value (MVRV) indicator shows the price of the flagship crypto asset is likely to go up, if past is prologue. MVRV is the ratio of [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/02/analyst-says-bitcoin-indicator-flashing-bullish-signal-updates-outlook-on-dogecoin/\">Analyst Says Bitcoin Indicator Flashing Bullish Signal, Updates Outlook on Dogecoin</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-02-02T13:34:00.000Z",
+    "title": "Can SUI’s Token Unlock Bring Respite; Will AXS Follow?",
+    "url": "https://coinedition.com/can-suis-token-unlock-bring-respite-will-axs-follow/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Can-SUI’s-Token-Unlock-Bring-Respite;-Will-AXS-Follow\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Can-SUIs-Token-Unlock-Bring-Respite-Will-AXS-Follow-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>On the same day that Sui (SUI)&#160; is set to release 3.31% of its total supply into circulation, Axie Infinity (AXS) might experience a significant sell-off, recent reports showed. According to data from Token Unlocks, SUI’s upcoming unlock would be worth $60 million. This value represents 3.31% of its total supply. Token unlocks refer to [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/can-suis-token-unlock-bring-respite-will-axs-follow/\">Can SUI’s Token Unlock Bring Respite; Will AXS Follow?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

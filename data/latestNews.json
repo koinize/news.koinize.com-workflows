@@ -1,100 +1,58 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-02-06T09:43:23.000Z",
+    "title": "Monero Drops 17% as Binance Delists XMR",
+    "url": "https://decrypt.co/215981/monero-binance-delists-xmr",
+    "description": "Monero dropped 17% on news that Binance, the largest crypto exchange in the world, will delist it on February 20."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-06T09:51:00.000Z",
+    "title": " Bitcoin ETFs lead to record miner reserve BTC outflows ",
+    "url": "https://cointelegraph.com/news/bitcoin-etf-miner-reserve-btc-outflows",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMjZlNWNkNzItMjFhYS00ZmNkLTlkNDEtY2NmMmQ1YjQ5Y2UzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A report from Bitfinex suggests that miners are either selling Bitcoin holdings or leveraging coins to raise capital.</p>\n                    <p><p data-ct-non-breakable=\"true\">The launch of Bitcoin exchange-traded funds (ETFs) in the United States has directly influenced miners’ BTC reserves, with more than $1 billion of BTC flowing from miner wallets to exchanges in the first 48 hours of trading.</p><p>According to the latest Bitfinex Alpha market report reflecting on-chain data, the second day of trading of Bitcoin ETFs on Jan. 12 saw a significant increase in Bitcoin miners’ outflow to exchanges. Citing data from Glassnode, the report highlights over $1 billion of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) being sent to exchanges from miner-associated wallets on the same day, marking a six-year high in miner outflow.</p><p>Feb. 1 also saw another significant amount of BTC moving out of miner wallets, with 13,500 BTC being sent to exchanges. The report also notes that around 10,000 BTC was sent back to miner wallets on Feb. 2, suggesting that activity could also be attributed to specific mining companies rebalancing wallets.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etf-miner-reserve-btc-outflows\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2024-02-06T09:18:31.000Z",
-    "title": "HaruInvest executives arrested in Korea after algo trading promised ‘zero’ drawdown",
-    "url": "https://cryptoslate.com/haruinvest-executives-arrested-in-korea-after-algo-trading-promised-zero-drawdown/",
-    "description": "<p>Prosecutors in South Korea have reportedly arrested three top executives of HaruInvest, a crypto deposit platform, for allegedly defrauding customers and embezzling over 1 trillion won in coins, according to Yonhap News. Just a day after a statement promising stricter screening of crypto executives was issued, the Seoul Southern District Prosecutors&#8217; Office&#8217;s Joint Investigation Team [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/haruinvest-executives-arrested-in-korea-after-algo-trading-promised-zero-drawdown/\">HaruInvest executives arrested in Korea after algo trading promised &#8216;zero&#8217; drawdown</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-06T09:45:48.000Z",
+    "title": "BlackRock reaches $3.2 billion as Bitcoin ETFs continue to draw investor interest",
+    "url": "https://cryptoslate.com/insights/blackrock-reaches-3-2-billion-as-bitcoin-etfs-continue-to-draw-investor-interest/",
+    "description": "<p>Quick Take Net inflows into Bitcoin ETFs are seeing a slight uptick for the seventh straight trading day, emphasizing their growing appeal among investors. BlackRock IBIT is leading the pack, with an additional $137 million net inflow, taking its aggregate to an impressive $3.2 billion, according to BitMEX Research. However, seven of the ten ETFs [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/blackrock-reaches-3-2-billion-as-bitcoin-etfs-continue-to-draw-investor-interest/\">BlackRock reaches $3.2 billion as Bitcoin ETFs continue to draw investor interest</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-06T10:00:57.000Z",
+    "title": "Egypt Aims to Ease Pressure on Forex Reserves via $1 Billion Treasury Bill Auction",
+    "url": "https://news.bitcoin.com/egypt-aims-to-ease-pressure-on-forex-reserves-via-1-billion-treasury-bill-auction/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_2381526981.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Barely a month after raising $850 million from an auction of dollar-denominated treasury bills, the CBE was reportedly poised to raise $1 billion via similar instruments. The decision to hike overnight interest is said to be part of the central bank&#8217;s ongoing efforts to stabilize Egypt’s teetering economy. Easing Pressure on the Egyptian Pound On [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-06T09:37:30.000Z",
-    "title": "Crypto exchange Binance launches $5M bounty to root out corruption among staff",
-    "url": "https://www.cryptopolitan.com/binance-l5m-bounty-for-staff-token-listing/",
-    "description": "Cryptocurrency exchange Binance has initiated a substantial $5 million bounty program to uncover potential corrupt staff members following allegations of misconduct related to its token listing process. This move comes in response to recent accusations that suggested leaks and insider trading might be impacting the fairness of token listings on the platform. Binance Co-Founder addresses [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:34:16.000Z",
-    "title": "Bitcoin bears desperately trying to pull prices down below $30k",
-    "url": "https://www.cryptopolitan.com/bitcoin-bears-to-pull-prices-down-below-30k/",
-    "description": "The digital currency landscape is currently witnessing a tug of war, with Bitcoin bears making a bold attempt to drag the price beneath the $30,000 mark. Amidst a backdrop of global financial jitters, partly stoked by the upheaval in Chinese markets, Bitcoin has become a battleground for contrasting market sentiments. Bitcoin&#8217;s Reactions to Global Uncertainties [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:28:14.000Z",
-    "title": "Amazon’s New AI Tool Raises Questions About Benefits",
-    "url": "https://www.cryptopolitan.com/amazons-new-ai-tool-raises-questions/",
-    "description": "Amazon has recently introduced a new artificial intelligence assistant named Rufus, designed to assist shoppers with product inquiries. While Amazon claims that Rufus will help users find products that best suit their needs, concerns arise over the potential for bias and advertising-driven results, given Amazon&#8217;s history of favoring its own products and advertisers. FTC&#8217;s antitrust [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:23:12.000Z",
-    "title": "Rethinking the blame game: Unraveling the U.S. economy myth",
-    "url": "https://www.cryptopolitan.com/unraveling-the-us-economy-myth/",
-    "description": "As the dust settles on the latest economic forecasts and job reports, a narrative unfolds that challenges the doom and gloom often associated with the U.S. economy. Words like &#8220;stunning&#8221; and &#8220;speechless&#8221; have been bandied about by analysts and economists alike, reflecting their astonishment at January’s job report. The U.S. saw an addition of 353,000 [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:16:10.000Z",
-    "title": "OECD predicts rate cuts as U.S. inflation takes a downward turn",
-    "url": "https://www.cryptopolitan.com/oecd-predicts-rate-cuts-as-us-inflation/",
-    "description": "As we vault into the heart of 2024, the economic landscape is undergoing a seismic shift, with the United States at the epicenter of a potentially game-changing development. According to the latest forecasts by the Organisation for Economic Co-operation and Development (OECD), the U.S. is on the brink of experiencing interest rate cuts within mere [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:11:17.000Z",
-    "title": "Artificial Intelligence Enhances Medical Plasma Treatments",
-    "url": "https://www.cryptopolitan.com/ai-enhances-medical-plasma-treatments/",
-    "description": "Artificially intelligent software has been developed to advance medical treatments utilizing cold atmospheric plasma (CAP), a jet of electrified gas. The software, developed by researchers at the Princeton Collaborative Low-Temperature Plasma Research Facility (PCRF), combines machine learning and physics to predict the chemical composition of CAP emissions. This breakthrough has significant implications for treating cancer, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T09:10:10.000Z",
-    "title": "Binance to Delist Tokens: ANT, MULTI, VAI, and XMR on February 20",
-    "url": "https://www.cryptopolitan.com/binance-to-delist-ant-multi-vai-and-xmr/",
-    "description": "Binance, one of the world&#8217;s leading cryptocurrency exchanges, has announced the delisting of four tokens: Aragon (ANT), Multichain (MULTI), Vai (VAI), and Monero (XMR). The decision comes as part of Binance&#8217;s routine review process, ensuring that listed digital assets meet stringent standards. Delisting date set On February 20, 2024, at 03:00 (UTC), Binance will delist [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-06T09:15:51.000Z",
-    "title": "Ethereum Classic holders doubling down on Kelexo, mass exodus in Sui",
-    "url": "https://crypto.news/ethereum-classic-holders-doubling-down-on-kelexo-mass-exodus-in-sui/",
-    "description": "Ethereum Classic (ETC) and Sui (SUI) are bullish. Specifically, ETC holders are looking at Kelexo (KLXO) in the ongoing presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-06T09:15:25.000Z",
-    "title": "Fuvo.io shows signs of phishing scam targeting valuable crypto and NFTS",
-    "url": "https://crypto.news/fuvo-io-shows-signs-of-phishing-scam-targeting-valuable-crypto-and-nfts/",
-    "description": "A new website claiming to offer free non-fungible tokens (NFTs), fuvo.io, appears to point towards phishing links. According to Web3 Antivirus, a browser extension that detects scams in web3, fuvo.io appears to be a phishing website that drains users of&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-06T09:14:18.000Z",
-    "title": "Kelexo presale draws Arbitrum and Sei investors",
-    "url": "https://crypto.news/kelexo-presale-draws-arbitrum-and-sei-investors/",
-    "description": "Arbitrum and Sei are falling as Kelexo floats higher. KLXO is trading for $0.022 in its presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-06T09:13:42.000Z",
-    "title": "EigenLayer’s TVL reaches $1b after staking restrictions removed",
-    "url": "https://crypto.news/eigenlayers-tvl-reaches-1b-after-staking-restrictions-removed/",
-    "description": "The EigenLayer (TVL) protocol&#8217;s total locked value exceeded $1 billion after staking restrictions were removed to create more “organic demand” on the network. According to EigenLayer, the protocol team has decided to raise the staking limit to 200,000 Ethereum (ETH)&#8230;"
+    "date": "2024-02-06T09:47:41.000Z",
+    "title": "Vast Bank withdraws from cryptocurrency amid regulatory hurdles",
+    "url": "https://www.cryptopolitan.com/vast-bank-withdraws-from-cryptocurrency/",
+    "description": "Vast Bank, recognized for being the pioneering United States banking institution to integrate cryptocurrency transactions with traditional checking accounts, has announced the closure of its mobile crypto banking application. This move marks the bank&#8217;s exit from the cryptocurrency sector, a significant shift from its initial embrace of digital currencies. The bank has declared that it [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-06T09:24:41.000Z",
-    "title": "VeChain’s VOT3 and B3TR Trademarks Signal a Financial Revolution in Digital Currency",
-    "url": "https://www.crypto-news-flash.com/vechains-vot3-and-b3tr-trademarks-signal-a-financial-revolution-in-digital-currency/?utm_source=rss&utm_medium=rss&utm_campaign=vechains-vot3-and-b3tr-trademarks-signal-a-financial-revolution-in-digital-currency",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-09.54.12-Create-a-more-focused-illustration-on-VeChain-specifically-highlighting-its-VOT3-and-B3TR-trademarks.-The-central-theme-should-be-a-vivid-and-intrica-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />VeChain introduces &#8220;VOT3&#8221; and &#8220;B3TR&#8221; trademarks, setting the stage for transformative financial services through blockchain technology. These innovations aim to enhance digital currency exchanges and broaden cryptocurrency services, indicating a significant leap in blockchain financial solutions. VeChain is showcased as a pioneering force in blockchain innovation with the unveiling of two pivotal trademarks, VOT3 and [...]"
+    "date": "2024-02-06T09:45:13.000Z",
+    "title": "Breaking Barriers: Chainlink’s CCIP Paves the Way for Atomic Settlements in Real-Word Assets Tokenization",
+    "url": "https://www.crypto-news-flash.com/breaking-barriers-chainlinks-ccip-paves-the-way-for-atomic-settlements-in-real-word-assets-tokenization/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-barriers-chainlinks-ccip-paves-the-way-for-atomic-settlements-in-real-word-assets-tokenization",
+    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink-LINK-logo-in-digital-style-with-black-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />The future of Real-world asset tokenization could be revolutionized by Chainlink’s CCIP. Using Chainlink’s Cross-Chain Interoperability Protocol (CCIP), atomic settlement of tokenized RWAs can be managed seamlessly. Chainlink’s Cross-Chain Interoperability Protocol (CCIP) is a promising protocol that is designed to solve existing problems in the tokenization industry. According to a recent finding from Chainlink, CCIP [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-02-06T09:25:59.000Z",
-    "title": "Victoria VR Launches First Web3 Metaverse on Apple Vision Pro",
-    "url": "https://www.altcoinbuzz.io/product-release/victoria-vr-launches-first-web3-metaverse-on-apple-vision-pro/",
-    "description": "<p>Apple recently launched its Apple Vision Pro Headset. This is a massive boost for the metaverse narrative. Following this launch, another lesser-known company took a spot in the headlights as well. Victoria VR is about to introduce its metaverse on this headset. So, let&#8217;s take a look at what this Apple release can do for the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/victoria-vr-launches-first-web3-metaverse-on-apple-vision-pro/\">Victoria VR Launches First Web3 Metaverse on Apple Vision Pro</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-02-06T10:02:36.000Z",
+    "title": "Staked ETH and the BIG Risk Threatening Ethereum",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/staked-eth-and-the-big-risk-threatening-ethereum/",
+    "description": "<p>Is Ethereum at risk? And if so, why? Ethereum seems to be everyone&#8217;s darling. There&#8217;s a potential ETH spot ETF coming up. Their Cancun-Deneb or Dencun network upgrade is imminent. This should increase the chains&#8217; scalability. It should also reduce gas fees.  So, all that is good news. Nonetheless, anything about gas fees on Ethereum, files [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/staked-eth-and-the-big-risk-threatening-ethereum/\">Staked ETH and the BIG Risk Threatening Ethereum</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-06T10:00:00.000Z",
+    "title": "KuCoin Welcomes Mavia (MAVIA) Listing, Gaming Crypto Project Enters Spotlight",
+    "url": "https://coinedition.com/kucoin-welcomes-mavia-mavia-listing-gaming-crypto-project-enters-spotlight/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/KuCoin-Welcomes-Mavia-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>KuCoin, ranked among the top 5 centralized cryptocurrency exchanges globally, has announced the listing of Mavia (MAVIA), a crypto project centered around gaming. The disclosure was made through KuCoin&#8217;s official X handle, revealing that MAVIA trading will be facilitated on its spot trading platform. As stated in the blog post, KuCoin has demonstrated full-blown support [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kucoin-welcomes-mavia-mavia-listing-gaming-crypto-project-enters-spotlight/\">KuCoin Welcomes Mavia (MAVIA) Listing, Gaming Crypto Project Enters Spotlight</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,30 +1,72 @@
 [
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-06T07:00:30.000Z",
-    "title": "Brazilian Tax Authority Reports Bitcoin Irregularities in Over 25,000 Statements",
-    "url": "https://news.bitcoin.com/brazilian-tax-authority-reports-bitcoin-irregularities-in-over-25000-statements/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Brazilian Tax Authority Reports Bitcoin Irregularities in Over 25,000 Statements\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/52aa799d-5121-4982-9cfc-e6c216569974.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Brazilian tax authority has reported identifying cryptocurrency irregularities in more than 25,000 tax statements. After a country-wide investigation, the institution detected that 25,126 individuals who possessed at least 0.05 BTC failed to include these holdings in its income tax statements, opening the doors for receiving fines or being charged for crimes against the tax [&#8230;]"
-  },
-  {
     "source": "Cryptopolitan",
-    "date": "2024-02-06T07:00:00.000Z",
-    "title": "The Next Solana? Pandoshi (PAMBO) Is Currently Priced At $0.01",
-    "url": "https://www.cryptopolitan.com/the-next-solana-pandoshi-pambo-is-currently-priced-at-0-01/",
-    "description": "Pandoshi (PAMBO) is emerging as a strong contender in the cryptocurrency market, drawing comparisons to giants like Solana for its innovative approach and potential for high returns. Currently priced at just $0.01 in its final presale phase, Pandoshi offers a unique opportunity for early investors to get in on the ground floor. With a robust [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-06T06:54:48.000Z",
-    "title": "Central Bank of Nigeria Asserts Naira’s Undervaluation Amid Citizen Panic",
-    "url": "https://www.cryptopolitan.com/central-bank-of-nigeria-asserts-nairas-undervaluation-amid-citizen-panic/",
-    "description": "In a recent interview with Arise News TV, Dr. Oluyemi Cardoso, the Governor of the Central Bank of Nigeria, pinpointed some Nigerians&#8217; undue panic and irrational decisions as the primary culprits behind the Naira&#8217;s depreciation. This conversation unfolds against heightened scrutiny over the nation&#8217;s economic direction and the currency&#8217;s performance in the foreign exchange market. [&#8230;]"
+    "date": "2024-02-06T07:25:27.000Z",
+    "title": "Meta’s Content Policy Critiqued – Oversight Board Slams Company Approach",
+    "url": "https://www.cryptopolitan.com/metas-content-policy-board-slams-company/",
+    "description": "In a scathing rebuke to Meta&#8217;s content policy, its quasi-independent Oversight Board has condemned the social media giant for its selective approach to addressing manipulated media. The board&#8217;s ruling, released on Monday, underscores significant concerns ahead of the forthcoming global elections in 2024. &#160;While acknowledging Meta&#8217;s decision to leave up a video falsely depicting President [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-06T07:08:37.000Z",
-    "title": "Avalanche and Cardano volatile, Pullix launching in 30 days ",
-    "url": "https://crypto.news/avalanche-and-cardano-volatile-pullix-launching-in-30-days/",
-    "description": "Avalanche (AVAX) and Cardano (ADA) are volatile and falling. Pullix is resilient and planning to launch in 30 days"
+    "date": "2024-02-06T07:20:27.000Z",
+    "title": "First US bank to let customers keep crypto leaves crypto industry",
+    "url": "https://crypto.news/first-us-bank-to-let-customers-keep-crypto-leaves-crypto-industry/",
+    "description": "The American Vast Bank, the first in the United States to offer its clients tools for working with cryptocurrencies, has decided to leave the crypto industry. Information about this appeared on the credit institution’s website. Due to the refusal to&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-06T07:18:31.000Z",
+    "title": "Celestia and Injective bullish, KangaMoon community-driven meme coin soaring",
+    "url": "https://crypto.news/celestia-and-injective-bullish-kangamoon-community-driven-meme-coin-soaring/",
+    "description": "Celestia (TIA) and Injective (INJ) are firm.  Meanwhile, a new community-driven meme coin, KangaMoon (KANG), aims to provide a rewarding experience"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-06T07:17:59.000Z",
+    "title": "ENS emerges as top gainer following GoDaddy partnership",
+    "url": "https://crypto.news/ens-emerges-as-top-gainer-following-godaddy-partnership/",
+    "description": "The native token of the Ethereum Name Service platform, ENS, has emerged as the top gainer among the leading 100 cryptocurrencies after teaming up with the popular domain name registrar GoDaddy.&#160; ENS is up by 19.3% in the past 24&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-06T07:10:01.000Z",
+    "title": "Crypto exchange OKX accepts fake IDs for registering, report says",
+    "url": "https://crypto.news/crypto-exchange-okx-accepts-fake-ids-for-registering-report-says/",
+    "description": "OKX, a cryptocurrency exchange, is under scrutiny as reports suggest it might be accepting fake IDs for its Know-Your-Customer (KYC) verification process. Journalists from 404 Media have uncovered that OKX appears to be potentially failing to detect false information during&#8230;"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-06T07:39:01.000Z",
+    "title": "Ripple vs. SEC: District Court Delivers Game-Changing XRP Ruling",
+    "url": "https://www.crypto-news-flash.com/ripple-vs-sec-district-court-delivers-game-changing-xrp-ruling/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-vs-sec-district-court-delivers-game-changing-xrp-ruling",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The District Court ruled in favor of the SEC, compelling Ripple to disclose extensive financial and sales information. This ruling marks a significant development in the SEC&#8217;s ongoing legal battle against Ripple over XRP sales. In a landmark decision, the United States District Court for the Southern District of New York has ruled in favor [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-06T07:30:05.000Z",
+    "title": "Which 3 tokens in 2024 will perform like Shiba Inu and Dogecoin did in 2021?",
+    "url": "https://www.crypto-news-flash.com/which-3-tokens-in-2024-will-perform-like-shiba-inu-and-dogecoin-did-in-2021/?utm_source=rss&utm_medium=rss&utm_campaign=which-3-tokens-in-2024-will-perform-like-shiba-inu-and-dogecoin-did-in-2021",
+    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-06T100116.995-450x253.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />In 2021, Dogecoin and Shiba Inu took the cryptocurrency market by storm, defying conventional expectations and securing spots in the top ten cryptocurrencies by market cap. The surge in their value was driven by factors such as celebrity endorsements, listings on major platforms, approachability, and the viral power of memes.  Investors around the world, including [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-06T07:38:09.000Z",
+    "title": "Ripple CTO Boasts He’s “Too Smart” to Fall For Phishing Scams",
+    "url": "https://coinedition.com/ripple-cto-boasts-hes-too-smart-to-fall-for-phishing-scams/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/SCAM-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/SCAM-4.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/SCAM-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/SCAM-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/11/SCAM-4-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/SCAM-4-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/SCAM-4-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ripple CTO David Schwartz recently boasted in an X post that he doesn’t fall victim to phishing scams. Scams have become ubiquitous on social media and increasingly sophisticated, but Schwartz says he is “too smart to fall for this kind of thing.” Schwartz’s tweet came in response to an X user, Cory Doctorow, who described [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-cto-boasts-hes-too-smart-to-fall-for-phishing-scams/\">Ripple CTO Boasts He’s “Too Smart” to Fall For Phishing Scams</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-06T07:19:18.000Z",
+    "title": "South Korea Gains Custody of Han Chang-joon in Terra Crypto Collapse",
+    "url": "https://coinedition.com/south-korea-gains-custody-of-han-chang-joon-in-terra-crypto-collapse/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Promote_Chain_Utility_via_Establishment_of_the_Terra_Classic_Grants-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Promote_Chain_Utility_via_Establishment_of_the_Terra_Classic_Grants-4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Promote_Chain_Utility_via_Establishment_of_the_Terra_Classic_Grants-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Promote_Chain_Utility_via_Establishment_of_the_Terra_Classic_Grants-4-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Terraform Labs&#8217; financial officer Han Chang-joon has been extradited to South Korea after being arrested in Montenegro. Han, along with the co-founder of the company, Do Kwon, was detained in South Korea after an unsuccessful escape attempt on a private jet in March 2023, thus ending an international six-month search. According to official police reports, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/south-korea-gains-custody-of-han-chang-joon-in-terra-crypto-collapse/\">South Korea Gains Custody of Han Chang-joon in Terra Crypto Collapse</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-06T07:14:51.000Z",
+    "title": "HugeWin Casino is Redefining Crypto Gambling with a Rich Gaming Ecosystem",
+    "url": "https://coinedition.com/hugewin-casino-is-redefining-crypto-gambling-with-a-rich-gaming-ecosystem/",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/02/2024-01-29_103824_1706510316A91UgsKINm-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Curacao, Curacao, January 29th, 2024, Chainwire HugeWin Casino, a newly established platform as of January 2024, has quickly garnered attention in the cryptocurrency gambling landscape. Its user-centric approach, coupled with an extensive array of gaming options, underscores its emerging status within the industry. Extensive Gaming Portfolio The platform boasts an impressive selection of over 7,000 [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/hugewin-casino-is-redefining-crypto-gambling-with-a-rich-gaming-ecosystem/\">HugeWin Casino is Redefining Crypto Gambling with a Rich Gaming Ecosystem</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

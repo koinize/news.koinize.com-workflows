@@ -1,44 +1,16 @@
 [
   {
     "source": "Decrypt",
-    "date": "2024-02-07T22:01:14.000Z",
-    "title": "What's Next for Farcaster? Frames Are Just the Start, Says Co-Founder",
-    "url": "https://decrypt.co/216378/whats-next-farcaster-frames-dan-romero-interview",
-    "description": "Dan Romero reflects on Farcaster’s explosive week, and how it’s changed the social media protocol’s long-term strategy."
+    "date": "2024-02-07T22:33:42.000Z",
+    "title": "LFG: Jupiter Reveals Which Tokens It Could Launch Next on Solana",
+    "url": "https://decrypt.co/216403/jupiter-reveals-next-tokens-solana",
+    "description": "Three projects will have the chance to debut tokens via the Jupiter LFG launchpad—but only if community members approve."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-07T22:00:00.000Z",
-    "title": " Hacken links Ripple chairman’s hack to XRP official wallet  ",
-    "url": "https://cointelegraph.com/news/ripple-chairman-hacker-linked-to-official-xrp-wallet",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZmEzZWU5NjUtZjU3My00YWJiLWI1YmYtODU5YjhlNDAzNjNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Blockchain auditing firm Hacken claims to have found an XRP-affiliated wallet predating the recent $112.5 million exploit on Ripple co-founder and chairman Chris Larsen’s personal wallets. </p>\n                    <p><p data-ct-non-breakable=\"true\">A key executive of Ripple, the company behind the XRP ledger, may have had his personal crypto wallets compromised via an inside job. </p><p>According to a Feb. 7 report from blockchain analytics platform Hacken, the hacker who exploited Ripple co-founder and chairman Chris Larsen’s <a href=\"https://cointelegraph.com/news/ripple-s-chairman-larsen-reportedly-hacked-for-213-m-xrp\">personal wallets for $112.5 million</a> worth of XRP (<a href=\"https://cointelegraph.com/xrp-price-index\">XRP</a>) on Jan. 31 also had links to a wallet account that Ripple may have controlled. </p><p>However, the blockchain auditing firm stopped short of claiming that the attack was carried out by a Ripple employee, stating that it was “[too] early for conclusions.” Nevertheless, the firm claimed that “two wallets connected to XRP’s authorized wallet played key roles” in the attack.</p><p><a href=\"https://cointelegraph.com/news/ripple-chairman-hacker-linked-to-official-xrp-wallet\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-07T21:50:31.000Z",
-    "title": " Prometheum claims Ether is a ‘digital asset security’ with launch of custody services ",
-    "url": "https://cointelegraph.com/news/prometheum-ether-digital-asset-security",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZDE3MmZjNDYtZmVhNi00ZDNiLWJiNDEtMTFlYzBiYzFkN2I2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>SEC chair Gary Gensler has avoided answering whether the commission definitively considers Ether as a security under its purview.</p>\n                    <p><p>Prometheum, one of the few crypto companies to have approval from United States financial regulators as a special purpose broker-dealer (SPBD) for digital asset securities, has announced it will be offering institutional custody services for Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>).</p><p>In a Feb. 7 post on X, Prometheum <a href=\"https://twitter.com/PrometheumInc/status/1755278007478993294\" target=\"_blank\" rel=\"noopener nofollow\">suggested</a> that Ether would be treated as a security for custodial services on its platform. The firm <a href=\"https://cointelegraph.com/news/prometheum-subsidiary-receives-finra-approval-for-digital-asset-qualified-custody\">received approval from the U.S. Financial Industry Regulatory Authority</a> in May 2023, seemingly meeting many of the guidelines set by the U.S. Securities and Exchange Commission (SEC) on dealing with crypto asset securities.</p><p>“Prometheum ATS supports the trading of certain digital asset securities that currently only trade on crypto exchanges,” said the firm’s website. “Diversify your portfolio mix by investing in the ‘crypto asset’ class with guardrails and investor protections afforded by securities laws.”</p><p><a href=\"https://cointelegraph.com/news/prometheum-ether-digital-asset-security\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-02-07T21:59:43.000Z",
-    "title": "Jack Dorsey’s Bluesky attracts over 800,000 new users within 24 hours of public launch",
-    "url": "https://cryptobriefing.com/jack-dorseys-bluesky-attracts-800000-new-users-24-hours-public-launch/?utm_source=feed&utm_medium=rss",
-    "description": "Bluesky, Jack Dorsey's open-source network, gains 800,000 new users in one day, moving towards 4 million total users."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-07T21:54:41.000Z",
-    "title": "Investors sue NBA over ties with Voyager following $4.2b loss",
-    "url": "https://crypto.news/investors-sue-nba-over-ties-with-voyager-following-4-2b-loss/",
-    "description": "The NBA faces a lawsuit due to its promotional associations with the now-defunct cryptocurrency exchange Voyager Digital Holdings Inc."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-07T22:02:12.000Z",
-    "title": "PayPal USD joins the Blockchain with Paxos and Chainlink",
-    "url": "https://www.crypto-news-flash.com/paypal-usd-joins-the-blockchain-with-paxos-and-chainlink/?utm_source=rss&utm_medium=rss&utm_campaign=paypal-usd-joins-the-blockchain-with-paxos-and-chainlink",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-digital-style-with-black-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Paxos and Chainlink team up to integrate PayPal USD into blockchain, promising to transform digital transactions with accurate data. The collaboration drives asset tokenization and the expansion of blockchain finance, setting a new standard in digital payments. In a strategic move that will redefine digital transactions, Paxos, a leader in the creation of stable currencies, [...]"
+    "source": "Bitcoin.com",
+    "date": "2024-02-07T22:30:01.000Z",
+    "title": "Leading Privacy Crypto Monero Bounces Back: XMR Surges 25%, Defying Delisting Woes",
+    "url": "https://news.bitcoin.com/leading-privacy-crypto-monero-bounces-back-xmr-surges-25-defying-delisting-woes/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Leading Privacy Crypto Monero Bounces Back: XMR Surges 25%, Defying Delisting Woes\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/monerocombackkks.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />After the leading privacy crypto token monero experienced a substantial 32% price decline on Tuesday, the coin&#x2019;s value swiftly saw recovery the next day, surging by 25% within the last 24 hours. Binance, Kraken, and Kucoin are witnessing significant activity in monero&#x2019;s daily trading volume, amounting to $256.91 million over the past 24 hours. Monero&#x2019;s [&#8230;]"
   }
 ]

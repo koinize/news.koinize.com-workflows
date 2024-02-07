@@ -1,72 +1,93 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-02-07T17:58:50.000Z",
+    "title": "Crypto Trading Hits Busiest Pace Since June 2022",
+    "url": "https://www.coindesk.com/markets/2024/02/07/crypto-trading-hits-busiest-pace-since-june-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "January saw higher spot trading volume on centralized exchanges amid the approval of spot bitcoin ETFs in the U.S."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-07T17:47:29.000Z",
+    "title": "Ethereum Upgrade Dencun Edges Closer With Final Test Run",
+    "url": "https://decrypt.co/216297/ethereum-upgrade-dencun-edges-closer",
+    "description": "The upgrade, which promises to solve scalability issues, will hit the mainnet in the next few weeks."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-02-07T17:30:00.000Z",
-    "title": " UBS Hong Kong tokenizes warrants on Ethereum with OSL ",
-    "url": "https://cointelegraph.com/news/ubs-hong-kong-tokenizes-warrants-ethereum-osl",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNzU4ZGI0NTQtMjAzZS00YmY2LTg3ZTAtOTNhNzgwNWIxNDRhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The underlying tokenized asset is a call warrant option on shares of Chinese smartphone giant Xiaomi. </p>\n                    <p><p>Swiss multinational bank UBS' Hong Kong subsidiary, has tokenized an investment warrant on the Ethereum blockchain together with cryptocurrency exchange OSL.</p><p>According to the Feb. 7 <a href=\"https://www.ubs.com/global/en/media/display-page-ndp/en-20240207-tokenized-warrant.html?caasID=CAAS-ActivityStream\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, the tokenized product is an options call warrant with Chinese smartphone giant Xiaomi Corporation as the underlying stock. After tokenization, the digital asset was then sold to the OSL Exchange. </p><p>\"We are simulating the whole product life cycle of an equity-linked structured product token, from token mint, through simulated secondary market transactions, and finally to token burn at maturity,\" commented OSL CEO Patrick Pan. Meanwhile, Winni Cheuk, head of sales at UBS Global Markets, said that the novel product \"enhances transparency, reduces transaction fees, streamlines settlement processes, and allows for more flexible trading hours.\"</p><p><a href=\"https://cointelegraph.com/news/ubs-hong-kong-tokenizes-warrants-ethereum-osl\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-07T17:50:05.000Z",
+    "title": " South Korean authorities probe OKX over alleged unregistered services: Report ",
+    "url": "https://cointelegraph.com/news/south-korea-authorities-probe-okx",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOTU4Mjg1NTQtOGQyNy00M2UyLTgxOGMtZTViZTZkNjMzNmMzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The exchange reportedly used Telegram influencers to promote its crypto services to South Korean users.</p>\n                    <p><p>Authorities with South Korea’s Financial Intelligence Unit (FIU) are reportedly investigating OKX following allegations the firm was operating as an unregistered cryptocurrency exchange.</p><p>According to a Feb. 7 report from South Korean news outlet News1, the Digital Asset Exchange Association (DAXA) <a href=\"https://www.news1.kr/articles/5315298\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> OKX’s activities to the FIU, prompting an investigation into the exchange. In December 2023, DAXA and the FIU <a href=\"https://cointelegraph.com/news/south-korean-financial-authorities-solicit-reports-on-unlicensed-crypto-exchanges\">solicited requests from South Korean crypto users</a>, asking for any information on unlicensed crypto exchanges in the country. </p><p>OKX — formerly OKEx — allegedly promoted its ‘Jumpstart’ token sales platform to South Korea-based investors without proper registration, though the firm does not have a Korean-language website. News1 reported that the exchange allegedly used South Korean influencers on Telegramto promote its services. Cointelegraph reached out to OKX for comment but did not receive a response at the time of publication.</p><p><a href=\"https://cointelegraph.com/news/south-korea-authorities-probe-okx\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-02-07T17:12:48.000Z",
-    "title": "Australian Bitcoin miner Iris sets 20 EH/s hash rate target as US mining falters",
-    "url": "https://cryptoslate.com/australian-bitcoin-miner-iris-sets-20-eh-s-hash-rate-target-as-us-mining-falters/",
-    "description": "<p>Australian Bitcoin mining company Iris Energy has outlined ambitious plans to ramp up its hash rate to 20 exahashes per second (EH/s) by the latter part of this year, as detailed in a Feb. 7 update. To achieve this significant milestone, Iris agreed with Bitmain to secure 10 EH/s of new T21 miners at a [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/australian-bitcoin-miner-iris-sets-20-eh-s-hash-rate-target-as-us-mining-falters/\">Australian Bitcoin miner Iris sets 20 EH/s hash rate target as US mining falters</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cointelegraph",
+    "date": "2024-02-07T17:46:04.000Z",
+    "title": " Price analysis 2/7: BTC, ETH, BNB, SOL, XRP, ADA, AVAX, DOGE, DOT, LINK  ",
+    "url": "https://cointelegraph.com/news/price-analysis-2-7-btc-eth-bnb-sol-xrp-ada-avax-doge-dot-link",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNTA3ZTM0NGMtYmY1Yy00MDE5LTkxYjYtZmMzZWEzZDBkZDBjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin’s price-bound price action could reach a breaking point if the sharp drop in U.S. regional bank stocks intensifies. How might altcoins react? </p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) has not displayed any fireworks since the launch of spot Bitcoin exchange-traded funds (ETFs), but that has not stopped investors from piling into select ETFs. According to senior Bloomberg ETF analyst Eric Balchunas, BlackRock’s iShares Bitcoin Trust ETF has <a href=\"https://cointelegraph.com/news/blackrock-bitcoin-now-fifth-largest-etf-flows-this-year\">catapulted into the top 5 ETFs</a> in year-to-date flows.</p><p>The launch of the spot Bitcoin ETFs has resulted in investors <a href=\"https://cointelegraph.com/news/substitution-gold-for-bitcoin-now-underway-cathie-wood\">shifting from gold to Bitcoin</a>, according to ARK Invest CEO Cathie Woods. While speaking in a YouTube chat with chief futurist Brett Winton, Woods said that Bitcoin is likely to behave as a “risk off asset” during the next banking crisis. </p><p>The more than <a href=\"https://cointelegraph.com/news/btc-price-1m-bitcoin-bulls-dream-nycb\">60% fall in New York Community Bancorp</a> (NYCB) stock since Jan. 30 brings back memories of the banking crisis seen a year ago. The fall is of particular interest to the crypto community because NYCB had acquired the failed crypto-focused Signature Bank in 2023. </p><p><a href=\"https://cointelegraph.com/news/price-analysis-2-7-btc-eth-bnb-sol-xrp-ada-avax-doge-dot-link\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-02-07T17:19:04.000Z",
-    "title": "Neon EVM enables native Solana-EVM swaps through partnership with deBridge",
-    "url": "https://cryptobriefing.com/neon-evm-native-solana-evm-swaps/?utm_source=feed&utm_medium=rss",
-    "description": "Seamless native swap are now offered for Solana to EVM network through aNeon EVM and deBridge collaboration."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-02-07T17:30:19.000Z",
-    "title": "Crypto Titan Digital Currency Group Opposes Genesis’ Restructuring Plan for Favoring Select Creditors",
-    "url": "https://news.bitcoin.com/crypto-titan-digital-currency-group-opposes-genesis-restructuring-plan-for-favoring-select-creditors/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Crypto Titan Digital Currency Group Opposes Genesis&#039; Restructuring Plan for Favoring Select Creditors\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a legal document filed on Feb. 6, 2024, the crypto juggernaut, Digital Currency Group (DCG), voiced opposition to Genesis&#8217; revised bankruptcy strategy for multiple concerns. DCG argues that the plan favors certain creditors over others unjustly, and the company&#8217;s legal team charges Genesis with violating their fiduciary responsibilities and presenting the proposal in bad [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-02-07T17:45:00.000Z",
+    "title": " Former Google news boss predicts chatty AI models like ‘ChatGPT’ will replace journalists ",
+    "url": "https://cointelegraph.com/news/former-google-news-boss-predicts-chatty-ai-models-like-chatgpt-artificial-intelligence-replace-journalists",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNmMxNmVjYmEtNDEyNC00MTJlLWJjNTMtYTkzZjQ2MmZkN2I3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>According to Jim Albrecht, large language models pose an existential threat to journalists and the global news industry.</p>\n                    <p><p>What if, every time you read an interesting news article, you were given immediate access to the journalist who wrote it so you could ask follow-up questions and discuss the material? </p><p>That’s the future former senior director of Google News Jim Albrecht <a href=\"https://www.washingtonpost.com/opinions/2024/02/06/ai-news-business-links-google-chatgpt/\" target=\"_blank\" rel=\"noopener nofollow\">laid out</a> in a recent op-ed for the Washington Post.</p><p>Per the article, Albrecht believes modern large language models (LLMs) such as ChatGPT will radically change the news industry much like the advent of the world wide web did so in the early 2000s.</p><p><a href=\"https://cointelegraph.com/news/former-google-news-boss-predicts-chatty-ai-models-like-chatgpt-artificial-intelligence-replace-journalists\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-07T17:29:31.000Z",
-    "title": "ICP Price Prediction 2024-2033: Is Internet Computer Resurgence Possible?",
-    "url": "https://www.cryptopolitan.com/icp-price-prediction/",
-    "description": "Internet Computer ICP Price Prediction 2024-2033 Internet Computer is the first cryptocurrency backed by a protocol. So many crypto experts believe ICP is a good investment and could grow further and, with new developments, could get better. ICP, the native token of the Internet Computer network, is mainly used for processing the network&#8217;s power. Will [&#8230;]"
+    "date": "2024-02-07T18:02:53.000Z",
+    "title": "Alchemy Pay Price Prediction 2024-2033: Is ACH Crypto a Good Investment?",
+    "url": "https://www.cryptopolitan.com/alchemy-pay-price-prediction/",
+    "description": "Alchemy Pay Price Predictions 2024-2033 The platform claims to make “Ethereum&#160;development easy.” Previously, the platform was only available to teams close to the project’s developers. By launching it publicly, the firm provides every developer with the tools and platform they need to build blockchain solutions. At this time, we can only make educated guesses about [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-07T17:23:25.000Z",
-    "title": "Intel Pursuing Xbox Contract Amidst Rumors of Microsoft’s Console Business",
-    "url": "https://www.cryptopolitan.com/xbox-contract-amidst-rumors-of-microsofts/",
-    "description": "Amidst a flurry of speculation surrounding Microsoft&#8217;s future in the console market, Intel emerges as a potential contender for providing chips for the next iteration of Xbox.&#160; The gaming community finds itself uncertain, with rumors circulating about Microsoft&#8217;s potential exit from the console arena and the prospect of exclusive titles crossing over to rival platforms.  [&#8230;]"
+    "date": "2024-02-07T17:53:06.000Z",
+    "title": "Palworld Faces Allegations of Intellectual Property Infringement",
+    "url": "https://www.cryptopolitan.com/palworld-faces-allegations-of-intellectual/",
+    "description": "Palworld, the survival game developed by Pocketpair, has recently garnered significant attention following its explosive success in early access on PC and Xbox.&#160; Despite achieving remarkable sales figures and amassing a substantial player base, the game has found itself embroiled in controversy over allegations of intellectual property infringement related to its character designs, which resemble [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-07T17:23:11.000Z",
-    "title": "Polkadot Price Prediction 2024-2033: A Bullish Pattern?",
-    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
-    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-07T17:18:20.000Z",
-    "title": "Flow Coin Price Prediction 2024-2033: Is FLOW a Good Investment?",
-    "url": "https://www.cryptopolitan.com/flow-coin-price-prediction/",
-    "description": "Flow Coin Price Prediction 2024-2034 The advice provided by seasoned traders, often referred to as the 50-35-15 rule, suggests allocating 50% of a crypto portfolio to Bitcoin (BTC), 35% to a selection of large-cap coins, and the remaining 15% to smaller projects with high growth potential. This strategy is grounded in the perceived stability of [&#8230;]"
+    "date": "2024-02-07T17:49:32.000Z",
+    "title": "Japan’s Financial Services Agency proposes amendment favoring DAO operations",
+    "url": "https://www.cryptopolitan.com/japan-financial-service-agency-amendment-dao/",
+    "description": "The Japan Financial Services Agency (FSA) has announced a draft for a regulatory amendment. This change aims to align the legal treatment of Decentralized Autonomous Organization (DAO) member rights tokens with those of traditional limited liability company (LLC) employee rights. It is also geared at integrating innovative blockchain technologies within the legal framework, offering a [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-07T17:30:04.000Z",
-    "title": "Dymension sees 55% surge within hours of mainnet debut",
-    "url": "https://crypto.news/dymension-sees-55-surge-within-hours-of-mainnet-debut/",
-    "description": "The newly launched modular blockchain token Dymension (DYM) saw a 55% spike shortly after the platform's mainnet was initiated today."
+    "date": "2024-02-07T18:08:26.000Z",
+    "title": "Sui and XRP traders examining trending Kelexo presale",
+    "url": "https://crypto.news/sui-and-xrp-traders-examining-trending-kelexo-presale/",
+    "description": "Sui (SUI) and XRP holders are in the red in early February. They are now exploring Kelexo"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-07T17:30:00.000Z",
-    "title": "BNB and Polygon investors exploring Kelexo presale ",
-    "url": "https://crypto.news/bnb-and-polygon-investors-exploring-kelexo-presale/",
-    "description": "Kelexo (KLXO) is currently conducting its presale, attracting Binance Coin (BNB) and Polygon (MATIC) holders "
+    "date": "2024-02-07T17:42:35.000Z",
+    "title": "Friendzone, Polygon partner to innovate social media via blockchain",
+    "url": "https://crypto.news/friendzone-polygon-partner-to-innovate-social-media-via-blockchain/",
+    "description": "Friendzone aims to foster influencer communities using real-time adaptive pricing and reward distribution, allowing developers to create new apps for their audience."
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-07T18:00:32.000Z",
+    "title": "Cardano (ADA) Investors Move To Option2Trade (O2T) As They Edge Closer To $170 Million Valuation",
+    "url": "https://www.crypto-news-flash.com/cardano-ada-investors-move-to-option2trade-o2t-as-they-edge-closer-to-170-million-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-investors-move-to-option2trade-o2t-as-they-edge-closer-to-170-million-valuation",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51-1200x675.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-07_10-21-51-450x253.jpg 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />The crypto market is witnessing a significant shift in investor preferences, with Cardano (ADA) being favored by investors moving from Cardano (ADA) to Option2Trade (O2T). O2T&#8217;s $170 million valuation indicates a growing interest in innovative technology, diverse investment opportunities, and high returns. This shift affects Cardano’s (ADA) position and signals a broader shift towards platform [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-07T18:00:00.000Z",
+    "title": "Crypto Lawyer Condemns the SEC’s New Liquidity Provision Regulation",
+    "url": "https://coinedition.com/crypto-lawyer-condemns-the-secs-new-liquidity-provision-regulation/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/SEC-12.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Crypto Lawyer Condemns the SEC’s New Liquidity Provision Regulation\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/SEC-12.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/SEC-12-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Morgan questions as to why the SEC is so concerned about liquidity provision. Bill Morgan disapproves of the SEC’s recently published rules affecting the crypto industry. According to Morgan, with the current rule, the XRPL DEX would need to register as an exchange. Renowned crypto lawyer Bill Morgan has joined the growing list of crypto [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/crypto-lawyer-condemns-the-secs-new-liquidity-provision-regulation/\">Crypto Lawyer Condemns the SEC’s New Liquidity Provision Regulation</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-07T17:55:32.000Z",
+    "title": "Binance Co-Founder Says up to $5,000,000 Rewards Available for Information on Pre-Listing Insider Trading",
+    "url": "https://dailyhodl.com/2024/02/07/binance-co-founder-says-up-to-5000000-rewards-available-for-information-on-pre-listing-insider-trading/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/02/says-up-rewards-pre.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Binance will pay up to $5 million to anyone who can unearth corruption in the exchange&#8217;s crypto asset listing process, according to the company&#8217;s co-founder. On Monday, the top global crypto exchange announced it would list Ronin (RON), a gaming-focused Ethereum (ETH) sidechain. The asset, however, had already surged 100% in price over the past [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/07/binance-co-founder-says-up-to-5000000-rewards-available-for-information-on-pre-listing-insider-trading/\">Binance Co-Founder Says up to $5,000,000 Rewards Available for Information on Pre-Listing Insider Trading</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

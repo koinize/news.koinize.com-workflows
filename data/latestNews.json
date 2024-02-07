@@ -1,100 +1,72 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-02-07T17:03:02.000Z",
-    "title": "For Content Creators Who Use AI, Experts Say Disclosure Is Key",
-    "url": "https://decrypt.co/216186/as-content-creators-embrace-ai-experts-say-disclosure-is-key",
-    "description": "As with most conferences, SEG3 Los Angeles was buzzing with talk of artificial intelligence and its impact on media makers."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-07T17:01:02.000Z",
-    "title": "'Shardbound' NFT Game Reveals Next Playtest—Here's How to Get Access",
-    "url": "https://decrypt.co/216294/shardbound-nft-game-playtest-immutable-zkevm",
-    "description": "Immutable zkEVM game Shardbound is launching a limited playtest this month, and you can be one of the 2,000 players given access."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-07T17:00:07.000Z",
-    "title": "What Is Bluesky? The Decentralized Twitter Alternative That's Now Open to the Public",
-    "url": "https://decrypt.co/resources/what-is-bluesky-the-twitter-alternative-with-promising-networking-technology",
-    "description": "While Bluesky seems like Twitter on the surface, the AT protocol architecture it is run on has the potential to be revolutionary."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-07T17:00:00.000Z",
-    "title": " ETH could reach $27K this bull cycle, expert predicts   ",
-    "url": "https://cointelegraph.com/news/eth-could-reach-27k-bull-cycle-expert-predicts",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYTBkNWQ3YjItMmUxMi00MzY5LWJlMTMtMjhlYTA1ZTVkNDRkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The lack of selling pressure from miners will be one of the main catalysts boosting ETH's price to unprecedented highs in the current bull cycle. </p>\n                    <p><p>Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) could reach $27,000 at the top of the current bull cycle, predicts Ethereum community member and investor Ryan Berckmans. </p><p>“My personal prediction is $12,000 to $27,000 per Ethereum within 18 to 30 months,\" he said in a recent interview with Cointelegraph. </p><p>As one of the main catalysts for ETH's appreciation, Berckmans points at the lack of selling pressure from miners, which disappeared after Ethereum switched from a proof-of-work to a proof-of-stake consensus mechanism in September 2022 with the Merge upgrade. </p><p><a href=\"https://cointelegraph.com/news/eth-could-reach-27k-bull-cycle-expert-predicts\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-07T17:30:00.000Z",
+    "title": " UBS Hong Kong tokenizes warrants on Ethereum with OSL ",
+    "url": "https://cointelegraph.com/news/ubs-hong-kong-tokenizes-warrants-ethereum-osl",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNzU4ZGI0NTQtMjAzZS00YmY2LTg3ZTAtOTNhNzgwNWIxNDRhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The underlying tokenized asset is a call warrant option on shares of Chinese smartphone giant Xiaomi. </p>\n                    <p><p>Swiss multinational bank UBS' Hong Kong subsidiary, has tokenized an investment warrant on the Ethereum blockchain together with cryptocurrency exchange OSL.</p><p>According to the Feb. 7 <a href=\"https://www.ubs.com/global/en/media/display-page-ndp/en-20240207-tokenized-warrant.html?caasID=CAAS-ActivityStream\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, the tokenized product is an options call warrant with Chinese smartphone giant Xiaomi Corporation as the underlying stock. After tokenization, the digital asset was then sold to the OSL Exchange. </p><p>\"We are simulating the whole product life cycle of an equity-linked structured product token, from token mint, through simulated secondary market transactions, and finally to token burn at maturity,\" commented OSL CEO Patrick Pan. Meanwhile, Winni Cheuk, head of sales at UBS Global Markets, said that the novel product \"enhances transparency, reduces transaction fees, streamlines settlement processes, and allows for more flexible trading hours.\"</p><p><a href=\"https://cointelegraph.com/news/ubs-hong-kong-tokenizes-warrants-ethereum-osl\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-02-07T17:12:48.000Z",
+    "title": "Australian Bitcoin miner Iris sets 20 EH/s hash rate target as US mining falters",
+    "url": "https://cryptoslate.com/australian-bitcoin-miner-iris-sets-20-eh-s-hash-rate-target-as-us-mining-falters/",
+    "description": "<p>Australian Bitcoin mining company Iris Energy has outlined ambitious plans to ramp up its hash rate to 20 exahashes per second (EH/s) by the latter part of this year, as detailed in a Feb. 7 update. To achieve this significant milestone, Iris agreed with Bitmain to secure 10 EH/s of new T21 miners at a [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/australian-bitcoin-miner-iris-sets-20-eh-s-hash-rate-target-as-us-mining-falters/\">Australian Bitcoin miner Iris sets 20 EH/s hash rate target as US mining falters</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-02-07T16:55:35.000Z",
-    "title": "SEC-registered Prometheum to offer Ethereum custodial service for institutional investors",
-    "url": "https://cryptobriefing.com/sec-registered-prometheum-offer-ethereum-custodial-service-institutional-investors/?utm_source=feed&utm_medium=rss",
-    "description": "SEC-approved crypto broker Prometheum opens Ethereum custody to institutions, with a rigorous compliance framework."
+    "date": "2024-02-07T17:19:04.000Z",
+    "title": "Neon EVM enables native Solana-EVM swaps through partnership with deBridge",
+    "url": "https://cryptobriefing.com/neon-evm-native-solana-evm-swaps/?utm_source=feed&utm_medium=rss",
+    "description": "Seamless native swap are now offered for Solana to EVM network through aNeon EVM and deBridge collaboration."
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-02-07T16:53:38.000Z",
-    "title": "MicroStrategy’s Bitcoin holdings unrealized profits soar to $2.2 billion",
-    "url": "https://cryptobriefing.com/microstrategy-bitcoin-profits-21-billion/?utm_source=feed&utm_medium=rss",
-    "description": "With a Bitcoin averaging price of $31,225, the leap from a $5.9 billion spend to $8.1 billion is real for MicroStrategy"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-07T17:00:00.000Z",
-    "title": "Pandoshi (PAMBO) Gains Massive Investment From Solana (SOL) and Dogecoin (DOGE) Holders",
-    "url": "https://www.cryptopolitan.com/pandoshi-pambo-gains-massive-investment-from-solana-sol-and-dogecoin-doge-holders/",
-    "description": "Pandoshi (PAMBO) is quickly becoming the new favorite among cryptocurrency enthusiasts, particularly attracting significant investment from Solana (SOL) and Dogecoin (DOGE) holders. As it enters its fifth and final presale phase, the rush among investors to secure PAMBO tokens is palpable. This stage offers a last chance to invest at presale prices before Pandoshi makes [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-02-07T17:30:19.000Z",
+    "title": "Crypto Titan Digital Currency Group Opposes Genesis’ Restructuring Plan for Favoring Select Creditors",
+    "url": "https://news.bitcoin.com/crypto-titan-digital-currency-group-opposes-genesis-restructuring-plan-for-favoring-select-creditors/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Crypto Titan Digital Currency Group Opposes Genesis&#039; Restructuring Plan for Favoring Select Creditors\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dcg.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a legal document filed on Feb. 6, 2024, the crypto juggernaut, Digital Currency Group (DCG), voiced opposition to Genesis&#8217; revised bankruptcy strategy for multiple concerns. DCG argues that the plan favors certain creditors over others unjustly, and the company&#8217;s legal team charges Genesis with violating their fiduciary responsibilities and presenting the proposal in bad [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-07T16:56:50.000Z",
-    "title": "Palworld Update Fixes Major Bug, Enhances Gameplay Experience",
-    "url": "https://www.cryptopolitan.com/palworld-update-fixes-major-bug-enhances/",
-    "description": "Pocketpair has released a highly anticipated update for Palworld, the popular game on Xbox and Steam. This update, marked as versions 1.4.1 for Steam and 1.1.4 for Xbox, addresses significant issues within the game, marking another stride in the developer&#8217;s commitment to enhancing the player experience.&#160; While not all problems have been resolved, the community [&#8230;]"
+    "date": "2024-02-07T17:29:31.000Z",
+    "title": "ICP Price Prediction 2024-2033: Is Internet Computer Resurgence Possible?",
+    "url": "https://www.cryptopolitan.com/icp-price-prediction/",
+    "description": "Internet Computer ICP Price Prediction 2024-2033 Internet Computer is the first cryptocurrency backed by a protocol. So many crypto experts believe ICP is a good investment and could grow further and, with new developments, could get better. ICP, the native token of the Internet Computer network, is mainly used for processing the network&#8217;s power. Will [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-07T17:23:25.000Z",
+    "title": "Intel Pursuing Xbox Contract Amidst Rumors of Microsoft’s Console Business",
+    "url": "https://www.cryptopolitan.com/xbox-contract-amidst-rumors-of-microsofts/",
+    "description": "Amidst a flurry of speculation surrounding Microsoft&#8217;s future in the console market, Intel emerges as a potential contender for providing chips for the next iteration of Xbox.&#160; The gaming community finds itself uncertain, with rumors circulating about Microsoft&#8217;s potential exit from the console arena and the prospect of exclusive titles crossing over to rival platforms.  [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-07T17:23:11.000Z",
+    "title": "Polkadot Price Prediction 2024-2033: A Bullish Pattern?",
+    "url": "https://www.cryptopolitan.com/polkadot-price-prediction/",
+    "description": "Gavin Wood, the founder of Polkadot, the blockchain interoperability platform, has come under fire for&#160;putting a condition on a possible $5M donation&#160;to help the Ukrainian govt with the crisis caused by the Russian invasion.&#160;Some respondents felt this was less of a humanitarian gesture and more of a marketing punt. Will this affect our Polkadot Price [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-07T17:18:20.000Z",
+    "title": "Flow Coin Price Prediction 2024-2033: Is FLOW a Good Investment?",
+    "url": "https://www.cryptopolitan.com/flow-coin-price-prediction/",
+    "description": "Flow Coin Price Prediction 2024-2034 The advice provided by seasoned traders, often referred to as the 50-35-15 rule, suggests allocating 50% of a crypto portfolio to Bitcoin (BTC), 35% to a selection of large-cap coins, and the remaining 15% to smaller projects with high growth potential. This strategy is grounded in the perceived stability of [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-07T17:03:18.000Z",
-    "title": "Avalanche price prediction for 2024: a comprehensive forecast",
-    "url": "https://crypto.news/avalanche-avax-price-prediction/",
-    "description": "Explore our Avalanche price prediction analysis as we try to determine the trajectory the coin might take in 2024. Currently positioned at #10 in terms of market capitalization, Avalanche (AVAX) has recently experienced significant market value fluctuations. The coin peaked&#8230;"
+    "date": "2024-02-07T17:30:04.000Z",
+    "title": "Dymension sees 55% surge within hours of mainnet debut",
+    "url": "https://crypto.news/dymension-sees-55-surge-within-hours-of-mainnet-debut/",
+    "description": "The newly launched modular blockchain token Dymension (DYM) saw a 55% spike shortly after the platform's mainnet was initiated today."
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-02-07T17:00:21.000Z",
-    "title": "Cardano Activity Sees New Life That Could Send ADA Price Soaring, Here Are The Targets",
-    "url": "https://www.newsbtc.com/news/cardano/cardano-activity-ada-price-soaring/",
-    "description": "Cardano (ADA) has been stuck in a price rut recently, but behind the scenes, activity on the Cardano blockchain is exploding. Transaction volumes and wallet addresses are all growing, showing that interest and adoption of the network are growing rapidly. All this activity has prompted analysis of how far the crypto can spike in the near future. Cardano On-Chain Activity Points To Future Price Growth Cardano&#8217;s growth in development activity in recent months has rivaled other cryptocurrencies, putting it on the map among developers. Metrics show that there are currently 1,322 projects under development. Similarly, Plutus V2 scripts recently reached 18,821, and Plutus V1 scripts also stand at 6,536 to make a total of 25,357, indicating the growth of smart contracts. Related Reading: Massive $29.3 Million Whale Transfer Threatens XRP Price With More Sell Pressure These scripts are essential for deploying smart contracts on the Cardano chain and have seen a 76% growth from 14,379 scripts recorded on January 1. At the same time, Cardano&#8217;s transaction count in the past two months has been something to boast about. The Cardano ADA network recently successfully completed 255,000 payments in 24 hours. Particularly, December and January saw Cardano process over 4 million transactions each month, showing the increasing network usage.  Active daily addresses have steadied above 30,000 since the beginning of the year, recently reaching 57,304 active addresses on February 4th. The total transaction count is now at 83.58 million. These metrics reflect the network&#8217;s ability to process a high number of transactions and its appeal to developers looking to build innovative crypto projects.  Price Targets Suggest ADA Could Reach $4 To $6 Long Term Despite the gloomy price action in the past month, these metrics point to Cardano price sentiment changing to a more favorable one. As a result, analysts predict a bullish turnaround, with one even putting a $4 to $6 price target by 2026. This represents a 730% and 1140% growth from the current price level. Related Reading: PEPE Ready To Make A Comeback? On-chain Indicators Have The Answer In a similar vein, crypto analyst Ali Martinez predicted a more bullish surge to $8 by January 2025, representing a 1558% surge from the current price level. Nevertheless, ADA has a lot of room to grow if Cardano can continue to attract developer and investor interest. At the time of writing, Cardano is trading at $0.4825, with 44% of addresses still making a profit and 51% of addresses currently at a loss. While short-term volatility is likely and the road ahead still has obstacles, the long-term price outlook for ADA looks bright, and Cardano appears well positioned for future success in a wider crypto market bull run.  ADA price falls to $0.48 &#124; Source: ADAUSD on Tradingview.com Featured image from Crypto Daily, chart from Tradingview.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-07T17:02:57.000Z",
-    "title": "Bitcoin ETFs Spark Record Miner Outflows: Over $1 Billion Moved in 48 Hours",
-    "url": "https://www.crypto-news-flash.com/bitcoin-etfs-spark-record-miner-outflows-over-1-billion-moved-in-48-hours/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etfs-spark-record-miner-outflows-over-1-billion-moved-in-48-hours",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-10.22.49-Illustrate-a-dynamic-and-engaging-financial-scene-that-depicts-the-concept-of-BlackRocks-Bitcoin-ETF-becoming-a-major-player-in-the-global-ETF-market-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Data shows that the launch of Bitcoin ETFs has sparked record inflows into crypto exchanges, signaling a strenuous relationship between holders. This development could help explain the price corrections experienced soon after the market rally sparked by the approval. The highly anticipated arrival of Bitcoin ETFs in the US has sparked a major sell-off of [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-07T17:00:45.000Z",
-    "title": "Amidst Bitcoin Cash and FTX Token Market Struggles, Rebel Satoshi Sees a Surge of Investment Despite Overall Market Challenges",
-    "url": "https://www.crypto-news-flash.com/amidst-bitcoin-cash-and-ftx-token-market-struggles-rebel-satoshi-sees-a-surge-of-investment-despite-overall-market-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=amidst-bitcoin-cash-and-ftx-token-market-struggles-rebel-satoshi-sees-a-surge-of-investment-despite-overall-market-challenges",
-    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T173003.970-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Bitcoin Cash sheds 2% in a week, and experts believe the downtrend will persist. FTX Token plummets 33% in a week, but experts believe an upside is coming soon. Rebel Satoshi steals the limelight after surging 120% and raising over $1.5 million thus far. Top crypto coins like Bitcoin Cash (BCH) and FTX Token (FTT) [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-07T17:00:00.000Z",
-    "title": "KuCoin Lists Dymension’s Token DYM, Securing Modular Blockchain Ecosystem",
-    "url": "https://coinedition.com/kucoin-lists-dymensions-token-dym-securing-modular-blockchain-ecosystem/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Dymension_DYM_Gets_Listed_on_KuCoin_World_Premiere-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>KuCoin, a prominent centralized cryptocurrency exchange, has formally declared its backing for Dymension (DYM), a rapidly expanding modular blockchain designed to secure and interconnect rollups. In an official blog post and communication via its X handle, KuCoin revealed its decision to include Dymension’s token, DYM, in the list of tradable assets on its platform. In [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kucoin-lists-dymensions-token-dym-securing-modular-blockchain-ecosystem/\">KuCoin Lists Dymension&#8217;s Token DYM, Securing Modular Blockchain Ecosystem</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Bitfinex Blog",
-    "date": "2024-02-07T16:54:19.000Z",
-    "title": "What is Dymension (DYM)?",
-    "url": "https://blog.bitfinex.com/education/what-is-dymension-dym/",
-    "description": "<p>Dymension (DYM) is pioneering a breakthrough in Web3 technology, by establishing a network of high-speed, modular blockchains termed RollApps. These RollApps are designed to be easily deployable, offering a streamlined approach for creating diverse blockchain applications. The heart of Dymension&#8217;s innovation lies in its RollApp...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/education/what-is-dymension-dym/\">What is Dymension (DYM)?</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-02-07T17:30:00.000Z",
+    "title": "BNB and Polygon investors exploring Kelexo presale ",
+    "url": "https://crypto.news/bnb-and-polygon-investors-exploring-kelexo-presale/",
+    "description": "Kelexo (KLXO) is currently conducting its presale, attracting Binance Coin (BNB) and Polygon (MATIC) holders "
   }
 ]

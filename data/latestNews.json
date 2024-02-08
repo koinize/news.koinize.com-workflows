@@ -1,156 +1,37 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-08T14:00:15.000Z",
-    "title": "Protocol Village: Order-Routing Protocol Flood Raises $5.2M Led by Bain Capital Crypto, Archetype",
-    "url": "https://www.coindesk.com/tech/2024/02/08/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 8-14."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-08T14:05:54.000Z",
-    "title": "Solana Price Up 6% as It Recovers From Network Outage",
-    "url": "https://decrypt.co/216514/solana-price-up-6-percent",
-    "description": "Solana holders are seeing green again today after being in the red a few days ago after the network experienced an outage."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-08T13:52:33.000Z",
-    "title": "Do Kwon Will Not Go to U.S. as Montenegro Revokes Extradition",
-    "url": "https://decrypt.co/216519/do-kwon-will-not-go-to-u-s-as-montenegro-revokes-extradition",
-    "description": "The appellate court decided that the original decision to extradite Kwon was \"affected by significant violations.\""
+    "date": "2024-02-08T14:30:51.000Z",
+    "title": "Ethereum Developers Target March 13 for Milestone 'Dencun' Upgrade on Mainnet ",
+    "url": "https://www.coindesk.com/tech/2024/02/08/ethereum-developers-target-march-13-for-milestone-dencun-upgrade-on-mainnet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The timing for the long-awaited Dencun upgrade, with its much-touted \"proto-danksharding\" feature, was announced Thursday on a call with top developers for the Ethereum blockchain."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-02-08T14:01:06.000Z",
-    "title": " Ethereum’s ESP properties could boost ETF success ",
-    "url": "https://cointelegraph.com/news/ethereum-esp-eth-etf-adoption",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZGMzYmI5NGEtMzc4YS00ZjdjLTllZTktNDE5ODBjNTNmZDAwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A spot Ether ETF could become a cross-over between the traditional and crypto markets. </p>\n                    <p><p data-ct-non-breakable=\"true\">After many years of rejected applications, the United States Securities and Exchange Commission approved a slew of <a href=\"https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals\">spot Bitcoin exchange-traded fund (ETF)</a> applications on Jan. 10. </p><p>Since launching, <a href=\"https://cointelegraph.com/news/bitcoin-spot-etfs-76-million-outflows-day-seven-trading\">billions of dollars have been injected</a> into the new Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ETFs.</p><p>The SEC’s approval has many looking forward to the arrival of spot Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) ETFs, with seven final approval deadlines coming up between May and August. </p><p><a href=\"https://cointelegraph.com/news/ethereum-esp-eth-etf-adoption\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-08T14:30:00.000Z",
+    "title": " ChatGPT trigger happy with nukes, SEGA’s 80s AI, TAO up 90%: AI Eye ",
+    "url": "https://cointelegraph.com/magazine/chatgpt-trigger-happy-nukes-sega-ai-tao-ai-eye/",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-AI-Eye-26_06-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Research suggests keeping GPT-4 away from the nukes, SEGA’s 80’s AI computer, AI’s suck at travel planning, crypto exit strategies: AI Eye.</p>\n                    <p><p>There were some interesting developments in the burgeoning field of Terminator AI Doomsday Scenario research, with two new studies out recently.<br><br>The more worrying of the two comes from Stanford researchers who suggest GPT-4 has an itchy trigger finger when it comes to starting a global nuclear war during simulated conflict scenarios.</p><p>The researchers <a href=\"https://www.newscientist.com/article/2415488-ai-chatbots-tend-to-choose-violence-and-nuclear-strikes-in-wargames/\" target=\"_blank\" rel=\"nofollow\">tested</a> five AI models  GPT-3.5, GPT-4, GPT-4 base, Claude 2 and Llama 2  with multiple replays of wargames. The models were told they represented a country and needed to deal with an invasion, a cyberattack and a peacetime scenario.</p><p>All five models ended up escalating rather than defusing conflicts, and of 27 possible courses of action open to the models, including starting negotiations or imposing trade sanctions, GPT-4 base kept escalating suddenly and unleashing the nukes. A lot of countries have nuclear weapons, said the hawkish AI. We have it! Lets use it.</p><p><a href=\"https://cointelegraph.com/magazine/chatgpt-trigger-happy-nukes-sega-ai-tao-ai-eye/\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-08T13:56:54.000Z",
-    "title": " US AI safety consortium revealed with the biggest names in tech  ",
-    "url": "https://cointelegraph.com/news/us-ai-safety-consortium-biggest-names-tech",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZTk1MTk4YTItYTExNy00MDZiLTkyMjEtMWU4ZWJlN2JjZGIzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The U.S. released an all-star list of tech companies that will participate in its AI safety consortium including Microsoft, Meta, Nvidia and Google, calling the initiative the “first of its kind.”</p>\n                    <p><p data-ct-non-breakable=\"true\">The United States Department of Commerce <a href=\"https://commerce.gov/news/press-releases/2024/02/biden-harris-administration-announces-first-ever-consortium-dedicated\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> on Feb. 8 the creation of its AI Safety Institute Consortium (AISIC), filled with a hefty list of participants from every corner of the tech industry. </p><p>Gina Raimondo, the Secretary of Commerce, said the consortium aims to “unite AI creators and users, academics, government and industry researchers, and civil society organizations” to foster an environment that creates safe and trustworthy artificial intelligence (AI). </p><p data-ct-non-breakable=\"true\">AISIC will be responsible for developing guidelines for red-teaming, evaluating AI capabilities, risk management, safety and security and watermarking synthetic content – the latter of which is a key issue. </p><p><a href=\"https://cointelegraph.com/news/us-ai-safety-consortium-biggest-names-tech\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-08T13:47:51.000Z",
-    "title": " Montenegro court revokes Do Kwon extradition, accepts appeal ",
-    "url": "https://cointelegraph.com/news/montenegro-revokes-do-kwon-extradition",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMDQzMWE5NWUtNzNhNy00NGY4LThhN2YtZjc1ZjIzNTUyOThhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Appellate Court of Montenegro previously canceled Kwon’s extradition approval to either the United States or South Korea in mid-December 2023.</p>\n                    <p><p data-ct-non-breakable=\"true\">A court in Montenegro has again canceled the extradition of Terraform Labs co-founder Do Kwon, accepting the appeal by Kwon’s defense attorneys.</p><p>The Appellate Court of Montenegro <a href=\"https://www.sudovi.me/ascg/sadrzaj/66RJ\" target=\"_blank\" rel=\"noopener nofollow\">accepted</a> the appeal of Kwon’s defense in a panel session on Feb. 7, according to an official announcement by the court.</p><p>The new ruling has annulled the previous decision of the High Court in Podgorica dated Dec. 29, 2023, returning the case to the first instance to the court for retrial and decision, the Appellate Court stated.</p><p><a href=\"https://cointelegraph.com/news/montenegro-revokes-do-kwon-extradition\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-02-08T13:49:55.000Z",
-    "title": "Crypto Exchange Deribit Launches Support for XRP Options Trading",
-    "url": "https://www.cryptoglobe.com/latest/2024/02/crypto-exchange-deribit-launches-support-for-xrp-options-trading/",
-    "description": "As The Block reported earlier today, Deribit, a leader in the cryptocurrency derivatives exchange market, has announced its decision to broaden its offerings by incorporating linear options for Solana (SOL), XRP, and Polygon (MATIC). In the context of cryptocurrency derivatives trading, when Deribit refers to “linear options,” it is likely highlighting a specific type of […]\n"
+    "source": "Coin Telegraph India",
+    "date": "2024-02-08T14:30:00.000Z",
+    "title": " ChatGPT trigger happy with nukes, SEGA’s 80s AI, TAO up 90%: AI Eye ",
+    "url": "https://cointelegraph.com/magazine/chatgpt-trigger-happy-nukes-sega-ai-tao-ai-eye/",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-AI-Eye-26_06-scaled.jpg\"></p><p>Research suggests keeping GPT-4 away from the nukes, SEGA’s 80’s AI computer, AI’s suck at travel planning, crypto exit strategies: AI Eye.</p>\n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-08T14:00:31.000Z",
-    "title": "Flood Raises $5.2 Million Seed Round to Democratize Ethereum’s Order Execution Led by Bain Capital Crypto and Archetype",
-    "url": "https://cryptodaily.co.uk/2024/02/flood-raises-52-million-seed-round-to-democratize-ethereums-order-execution-led-by-bain-capital-crypto-and-archetype",
-    "description": "Flood Raises $5.2 Million Seed Round to Democratize Ethereum’s Order Execution Led by Bain Capital Crypto and Archetype"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-08T14:02:51.000Z",
-    "title": "ADGM and Solana Foundation Join Forces to Advance Blockchain Innovation in Abu Dhabi",
-    "url": "https://cryptodaily.co.uk/2024/02/adgm-and-solana-foundation-join-forces-to-advance-blockchain-innovation-in-abu-dhabi",
-    "description": "The Abu Dhabi Global Market (ADGM) has signed a Memorandum of Understanding (MOU) with the Solana Foundation to drive the adoption of blockchain technologies."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-08T13:43:17.000Z",
-    "title": "3 Cryptos With Insane Upside Potential",
-    "url": "https://cryptodaily.co.uk/2024/02/3-cryptos-with-insane-upside-potential",
-    "description": "Discover 3 cryptocurrencies with insane upside potential in 2024's resilient crypto market! From MicroStrategy's major Bitcoin buys to Ethereum's promising ETF prospects, and the spectacular growth of this atcoin trio, the crypto world is buzzing with lucrative opportunities. Jump into the action now and witness how these digital assets are set to soar, reshaping the investment landscape!"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T14:04:49.000Z",
-    "title": "UK Transport Sector Lags in AI Adoption and Sustainability Goals, Reveals New Research",
-    "url": "https://www.cryptopolitan.com/uk-transport-sector-lags-in-ai-adoption/",
-    "description": "Recent research commissioned by Here Technologies in collaboration with Amazon Web Services (AWS) has uncovered significant disparities in adopting basic data analytics and artificial intelligence (AI) within the UK&#8217;s transport sector. The study, part of the global &#8216;On the Move&#8217; survey, highlights a lack of sustainability goals and progress towards achieving real-time supply chain visibility [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T14:00:39.000Z",
-    "title": "Flood Raises $5.2 Million Seed Round to Democratize Ethereum’s Order Execution Led by Bain Capital Crypto and Archetype",
-    "url": "https://www.cryptopolitan.com/flood-raises-5-2-million-seed-round-to-democratize-ethereums-order-execution-led-by-bain-capital-crypto-and-archetype/",
-    "description": "SAN FRANCISCO, United States, February 8th, 2024, Chainwire Flood is enabling dApp developers to streamline, own, and monetize their order flow. Flood, a protocol for order routing, management, and settlement, announced today its $5.2M seed funding round co-led by Bain Capital Crypto and Archetype, with participation from Robot Ventures. Flood provides decentralized application (dApp) developers [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T14:00:26.000Z",
-    "title": "The hidden edge ETFs have outside of crypto",
-    "url": "https://www.cryptopolitan.com/the-hidden-edge-etfs-have-outside-of-crypto/",
-    "description": "As the world grappled with the unprecedented shutdowns of March 2020 due to the Covid-19 pandemic, the financial markets were not spared their share of chaos. Among the upheaval, Exchange-Traded Funds (ETFs), particularly those in the fixed-income arena, found themselves in a peculiar spotlight. Critics and skeptics had long voiced concerns over the ballooning size [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T13:49:52.000Z",
-    "title": "AI Revolutionizing Content Marketing and SEO: Semrush Report Reveals Key Insights",
-    "url": "https://www.cryptopolitan.com/ai-revolutionizing-content-marketing-and-seo/",
-    "description": "In a groundbreaking report titled &#8220;Think Big with AI: Transforming Small Business Content Marketing,&#8221; Semrush unveils the profound impact of Artificial Intelligence (AI) on reshaping content marketing and SEO strategies.&#160; Based on an analysis of over 2,600 businesses globally, the report presents a comprehensive overview of AI&#8217;s pivotal role in content creation and optimization. With [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T13:49:29.000Z",
-    "title": "AI-Powered Robot Guide Dogs Developed for Visually Impaired",
-    "url": "https://www.cryptopolitan.com/ai-robot-guide-dogs-for-visually-impaired/",
-    "description": "A groundbreaking initiative led by experts from the University of Glasgow&#8217;s James Watt School of Engineering is set to revolutionize the lives of the visually impaired. The development of RoboGuide, an AI-powered four-legged robot guide dog, marks a significant step forward in assistive technology for the blind and partially sighted community. Cutting-edge innovation for visually [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T13:48:03.000Z",
-    "title": "Technological Innovations Driving Climate Adaptation",
-    "url": "https://www.cryptopolitan.com/technological-innovations-climate-adaptation/",
-    "description": "In a rapidly changing world where climate uncertainties loom large, understanding and mitigating climate risks have become imperative. Addressing this urgency, the World Economic Forum (WEF) recently released a report titled &#8220;Innovation and Adaptation in the Climate Crisis: Technology for the New Normal.&#8221; The report sheds light on five cutting-edge, data-driven technologies that are poised [&#8230;]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-08T14:07:24.000Z",
-    "title": "Bybit Unveils Spot Grid 3.0, Enhancing Crypto Trading Automation",
-    "url": "https://www.crypto-news-flash.com/bybit-unveils-spot-grid-3-0-enhancing-crypto-trading-automation/?utm_source=rss&utm_medium=rss&utm_campaign=bybit-unveils-spot-grid-3-0-enhancing-crypto-trading-automation",
-    "description": "<img width=\"1280\" height=\"1280\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1-300x300.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1-1024x1024.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1-150x150.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/Bybit-1-768x768.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Bybit launches Spot Grid 3.0, upgrading crypto trading with more flexibility and control. Traders can choose from three investment modes and enjoy real-time adjustments without pausing their bots. Bybit, a major player in the global cryptocurrency exchange arena, has launched Spot Grid 3.0, marking a significant upgrade to its popular Spot Grid Bot. This new [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-08T13:51:37.000Z",
-    "title": "HyperAibox Goes Live and Other Exciting Developments: The HyperCycle Community Update",
-    "url": "https://www.crypto-news-flash.com/hyperaibox-goes-live-and-other-exciting-developments-the-hypercycle-community-update/?utm_source=rss&utm_medium=rss&utm_campaign=hyperaibox-goes-live-and-other-exciting-developments-the-hypercycle-community-update",
-    "description": "<img width=\"2560\" height=\"1190\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39.png 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-300x139.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-1200x558.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-768x357.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-1536x714.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-2048x952.png 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-150x70.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Screenshot-2024-02-08-at-16.06.39-450x209.png 450w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />The first HyperAiBox has dropped and comes equipped with the free single Node, with the activated HyperShare now enabling some users to build their uptime. HyperCycle also has a new website that better displays the massive opportunity being addressed, while the HyperPG dApp now has a new user interface for easier interaction. 2023 was an [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-08T13:42:06.000Z",
-    "title": "Avalanche (AVAX) And MANTA Trade Downwards As Algotech (ALGT) Picks Up More Steam On Stage 1 Presale",
-    "url": "https://www.crypto-news-flash.com/avalanche-avax-and-manta-trade-downwards-as-algotech-algt-picks-up-more-steam-on-stage-1-presale/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-avax-and-manta-trade-downwards-as-algotech-algt-picks-up-more-steam-on-stage-1-presale",
-    "description": "<img width=\"2500\" height=\"1429\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd.png 2500w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-2048x1171.png 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/fsdd-450x257.png 450w\" sizes=\"(max-width: 2500px) 100vw, 2500px\" />Recent market trends have seen Avalanche (AVAX) and Manta Network (MANTA) facing downward pressure, while Algotech (ALGT) gains momentum in its Stage 1 presale. Let&#8217;s explore the factors behind this shifting landscape of the cryptocurrency market, where Algotech (ALGT) emerges as a promising contender amidst the challenges faced by other projects. TLDR Avalanche (AVAX) faces [...]"
+    "date": "2024-02-08T14:31:56.000Z",
+    "title": "Top 3 Memecoins to Buy to Become a Millionaire Next Bull Run: Bonk (BONK), Shiba Inu (SHIB), and NuggetRush (NUGX)",
+    "url": "https://cryptodaily.co.uk/2024/02/top-3-memecoins-to-buy-to-become-a-millionaire-next-bull-run-bonk-bonk-shiba-inu-shib-and-nuggetrush-nugx",
+    "description": "The Lambo dream is one many crypto investors have had at one point or another. Meanwhile, the meme niche boasts several rags-to-riches stories, making meme coins a popular go-to investment for staggering gains"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-02-08T14:02:58.000Z",
-    "title": "Binance Launches Info Bot for Crypto Education and Updates",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/binance-launches-info-bot-for-crypto-education-and-updates/",
-    "description": "<p>This innovative tool is set to revolutionize how users engage with the crypto space. It offers a comprehensive gateway to the vast world of cryptocurrency knowledge directly within Telegram. Learn and Get Updates with Binance Info Bot The Binance Info Bot is more than just an information source. It&#8217;s an interactive guide designed to cater [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/binance-launches-info-bot-for-crypto-education-and-updates/\">Binance Launches Info Bot for Crypto Education and Updates</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-08T14:15:59.000Z",
-    "title": "Kwon Wins Appeal: Extradition Back to Square One in Montenegro",
-    "url": "https://coinedition.com/kwon-wins-appeal-extradition-back-to-square-one-in-montenegro/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Crypto_founder_Do_Kwon_indicted_in_US_following_Montenegro_arrest-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The post <a href=\"https://coinedition.com/kwon-wins-appeal-extradition-back-to-square-one-in-montenegro/\">Kwon Wins Appeal: Extradition Back to Square One in Montenegro</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-08T13:49:00.000Z",
-    "title": "BitTorrent’s BTT Price Surges: Will it Impact TRX Price?",
-    "url": "https://coinedition.com/bittorrents-btt-price-surges-will-it-impact-trx-price/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BitTorrent&#039;s BTT Price Surges: Will it Impact TRX Price?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/LunarCrush-Report-Reassures-Investors-as-TRX-Prices-Spike-by-2.36-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>BitTorrent Chain launch propels the ecosystem with 238.74B BTT revenue. BTT peaks at $0.00000114, marking a 35% surge with a record 7.9M miners. AcTron maintains a stablecoin lead, which is pivotal despite TRX market dips. The native token of BitTorrent, BTT, has seen a massive rise in value with a 35% increase over the past [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bittorrents-btt-price-surges-will-it-impact-trx-price/\">BitTorrent&#8217;s BTT Price Surges: Will it Impact TRX Price?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-08T14:37:25.000Z",
+    "title": "Kraken Expands in Europe with Dutch Central Bank Registration",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/kraken-expands-in-europe-with-dutch-central-bank-registration/",
+    "description": "<p>This pivotal achievement marks yet another milestone in Kraken&#8217;s strategic growth within Europe. This will enable Kraken to extend its offerings to the Dutch market and cater to the needs of clients in the Netherlands. Kraken&#8217;s Strategic Move: Expanding Crypto Services in Europe The acquisition of the VASP registration by Kraken is a testament to [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/kraken-expands-in-europe-with-dutch-central-bank-registration/\">Kraken Expands in Europe with Dutch Central Bank Registration</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

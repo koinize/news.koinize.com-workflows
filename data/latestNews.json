@@ -1,93 +1,72 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-02-08T16:45:00.000Z",
+    "title": "Crypto for Advisors: Bitcoin as a Building Block for Portfolios",
+    "url": "https://www.coindesk.com/business/2024/02/08/crypto-for-advisors-bitcoin-as-a-building-block-for-portfolios/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A practical, unbiased, and proven approach could classify bitcoin as another building block in institutional investors' portfolios."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-02-08T16:30:53.000Z",
-    "title": " Kraken secures VASP registration in the Netherlands ",
-    "url": "https://cointelegraph.com/news/kraken-secures-vasp-registration-netherlands",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMDM4ZjFiOGQtNzk2Zi00MDU0LWFiYTctNjc2NzkzYTVjZWY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Crypto exchange Kraken was granted a VASP registration with the Dutch Central Bank, enabling it to offer exchange, transfer, custody, and wallet services for virtual assets in the country. </p>\n                    <p><p>Crypto exchange Kraken has secured its fourth license in Europe, making its compliant services now available in the Netherlands.</p><p>According to an announcement on Feb. 8, the exchange was <a href=\"https://blog.kraken.com/news/kraken-secures-vasp-registration-from-dutch-central-bank\" target=\"_blank\" rel=\"noopener nofollow\">granted</a> a virtual asset service provider (VASP) registration from the Dutch Central Bank (DNB), giving it the ability to offer exchange and transfer services of virtual assets, as well as custody and wallet services. </p><p>A VASP license is a regulatory framework designed to oversee businesses that provide services related to digital assets. Under the Regulation on Markets in Crypto-Assets (MiCA), entities providing services related to digital assets within the European Union must comply with a range of requirements, including preventing money laundering, terrorist financing, and ensuring client information is disclosed and transparent.</p><p><a href=\"https://cointelegraph.com/news/kraken-secures-vasp-registration-netherlands\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-08T17:06:47.000Z",
+    "title": " Thai SEC files charges against former Zipmex CEO for ‘corruption and deception’ ",
+    "url": "https://cointelegraph.com/news/thai-sec-charges-former-zipmex-ceo-fraud",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYTRmMDY2YzktZjBkYi00OTdhLTkxZGEtNDM2ZTdhYzA0Y2E4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The information provided by Zipmex Thailand under the former CEO regarding assets in user Z Wallets was inconsistent with the Thai SEC’s investigation.</p>\n                    <p><p>Thailand’s Securities and Exchange Commission (SEC) has charged former Zipmex CEO Akalarp Yimwilai with fraud for misleading customers with information related to the use of their digital assets.</p><p>In a Feb. 8 statement, the Thai SEC <a href=\"https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=10537\" target=\"_blank\" rel=\"noopener nofollow\">said</a> during his time as CEO of Zipmex Thailand, Akalarp presented false statements regarding assets in user Z Wallets being transferred to crypto wallets abroad. According to the SEC, this discrepancy with Zipmex’s terms and conditions amounted to “corruption and deception” by concealing information from customers. </p><p>The regulator referred a complaint on Akalarp’s alleged actions to Thailand’s Office of the Provincial Crime Suppression Division for possible legal action. Zipmex Thailand was implicated for similar allegations of fraud over reports of customer assets inconsistent with the SEC’s investigation.</p><p><a href=\"https://cointelegraph.com/news/thai-sec-charges-former-zipmex-ceo-fraud\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-08T16:30:34.000Z",
-    "title": "Ethereum’s Dencun Upgrade Goes Live on Holesky Testnet, Eyes Mainnet Launch",
-    "url": "https://news.bitcoin.com/ethereums-dencun-upgrade-goes-live-on-holesky-testnet-eyes-mainnet-launch/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum&#039;s Dencun Upgrade Triumphs in Holesky Testnet, Sets Sights on Mainnet\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Ethereum&#8217;s Dencun upgrade has successfully navigated the final testing phase on the Holesky testnet, introducing proto-danksharding to dramatically lower transaction fees on its layer-two solutions, with eyes now firmly set on a mainnet launch. Ethereum&#8217;s Dencun Upgrade Triumphs in Holesky Testnet, Sets Sights on Mainnet The Dencun upgrade has successfully completed its final testing phase [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-02-08T16:53:29.000Z",
+    "title": " Bitcoin price nears $45.5K as altcoins tease &#039;historic breakout&#039; ",
+    "url": "https://cointelegraph.com/news/bitcoin-price-nears-45-5-k-altcoins-historic-breakout",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNTQ0Mzc0NTEtMTQ3OS00YTdiLTk3ZTktZDcyMzk5NWFkOTEzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin bulls are trying hard to break loose from a stubborn BTC price trading range.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) neared $45,500 after the Feb. 8 Wall Street open as bullish continuation brought the highest BTC price levels in a month.</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCUSD/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> tracked ongoing strength in BTC/USD, which built on the previous day’s gains.</p><p>The pair was up 2.5% on the day at the time of writing, setting a precedent for strong moves on major altcoins.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-price-nears-45-5-k-altcoins-historic-breakout\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-08T16:15:36.000Z",
+    "source": "CryptoSlate",
+    "date": "2024-02-08T17:00:55.000Z",
+    "title": "Major institutions signal growing interest in Bitcoin ETFs",
+    "url": "https://cryptoslate.com/insights/major-institutions-signal-growing-interest-in-bitcoin-etfs/",
+    "description": "<p>Quick Take The market for Bitcoin ETFs is witnessing an uptick in interest from institutional investors. BlackRock recently noticed an expansion in the holder list of its ETF, IBIT. The new entrants include Redwood Asset Management Inc. and Advisorshares Investments LLC, according to ETF Bloomberg analyst Eric Balchunas. This could potentially serve as a precursor for [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/major-institutions-signal-growing-interest-in-bitcoin-etfs/\">Major institutions signal growing interest in Bitcoin ETFs</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-02-08T16:57:03.000Z",
     "title": "Common Wealth Announces the Launch of the World’s First Free VC Fund",
-    "url": "https://news.bitcoin.com/common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. 8 February 2024 [Lisbon, Portugal]: Common Wealth, the powerful, all-in-one platform for early-stage Web3 investments, today announces the launch of a world-first initiative: a Free “earn-to-own&#8221; VC Fund. This launch represents a completely novel fusion of community-driven Web3 principles with the sophistication of venture capital investment. The initiative will see Common Wealth’s first [&#8230;]"
+    "url": "https://www.cryptoglobe.com/latest/2024/02/common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund/",
+    "description": "8 February 2024 [Lisbon, Portugal]: Common Wealth, the powerful, all-in-one platform for early-stage Web3 investments, today announces the launch of a world-first initiative: a Free “earn-to-own” VC Fund. This launch represents a completely novel fusion of community-driven Web3 principles with the sophistication of venture capital investment. The initiative will see Common Wealth’s first fund opening […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-08T16:51:48.000Z",
+    "title": "Shiba Inu (SHIB) Surges Overnight – Is Dogecoin (DOGE) Poised for an Even Bigger Short-Term Leap?",
+    "url": "https://cryptodaily.co.uk/2024/02/shiba-inu-shib-surges-overnight-is-dogecoin-doge-poised-for-an-even-bigger-short-term-leap",
+    "description": "Embark on the latest developments in Dogecoin (DOGE) and Shiba Inu (SHIB) as they navigate the dynamic crypto market. From DOGE's adoption surge to SHIB's dramatic recovery and technical outlooks, get insights into the potential future trends of these popular meme coins."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-08T16:37:12.000Z",
-    "title": "The Graph Price Prediction 2024-2033: Is GRT a Good Investment?",
-    "url": "https://www.cryptopolitan.com/the-graph-price-prediction/",
-    "description": "The Graph Price Prediction 2024-2033 Have you ever heard of Uniswap, Aave, Compound, Balancer, USDC, Synthetix, Sushiswap, MakerDAO, Yearn, Curve, or any popular dApps? They all functionally rely upon The Graph, which is like a combination of decentralized versions of Google, banking, social media, other service providers, and other industries. The Graph price prediction could [&#8230;]"
+    "date": "2024-02-08T17:00:00.000Z",
+    "title": "New Cryptocurrency Costing Cents Set To Grow 100x in 2024",
+    "url": "https://www.cryptopolitan.com/new-cryptocurrency-costing-cents-set-to-grow-100x-in-2024/",
+    "description": "In the dynamic cryptocurrency market, where fortunes can be made overnight, a new digital currency priced just at cents captured the attention of investors and crypto enthusiasts alike. Predicted to skyrocket by an astonishing 100x in 2024, this promising token, Pandoshi (PAMBO), stands at the brink of becoming one of the year&#8217;s most spectacular success [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-08T16:36:40.000Z",
-    "title": "MagnumHoldings Performs Well, Making Strides in Digital Finance",
-    "url": "https://www.cryptopolitan.com/magnumholdings-performs-well-making-strides/",
-    "description": "MagnumHoldings a prominent player in the online finance industry, with its headquarters in Oslo, Norway is known for its high standards and contribution to the evolution of digital finance. Its commitment to continuous innovation and excellence has helped the company establish a new standard in the digital finance sector, surpassing expectations. The company&#8217;s focus on [&#8230;]"
+    "date": "2024-02-08T17:00:00.000Z",
+    "title": "3 Hidden Gem Cryptos Under $0.50 Ready to Explode with 5-Fold Returns in The Upcoming Period",
+    "url": "https://www.cryptopolitan.com/3-hidden-gem-cryptos-under-0-50-ready-to-explode-with-5-fold-returns-in-the-upcoming-period/",
+    "description": "TLDR Top altcoins like Chiliz (CHZ) and Stellar (XLM) have performed variably thus far in 2024. As a result, investors are confused about which crypto to buy for five-fold returns in the long term. Meanwhile, Rebel Satoshi ($RBLZ), an upcoming meme coin, has emerged as 2024’s crypto gem after securing over $1.5 million in funding [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-08T16:34:36.000Z",
-    "title": "Legal concerns for former crypto CEO Sam Bankman-Fried",
-    "url": "https://www.cryptopolitan.com/legal-concerns-for-former-crypto-ceo-sam-bankman-fried/",
-    "description": "Former FTX CEO Sam Bankman-Fried, convicted of seven felony counts in November, is set to return to court amidst concerns over potential conflicts of interest in his legal representation.&#160; The United States District Court for the Southern District of New York has scheduled a Curcio hearing for February 21, following a filing by Judge Lewis [&#8230;]"
+    "date": "2024-02-08T16:48:20.000Z",
+    "title": "Solana Price Prediction 2024-2033: Is SOL a Good Investment?",
+    "url": "https://www.cryptopolitan.com/solana-price-prediction/",
+    "description": "Solana Price Prediction 2024-2033 How much is SOL worth? The live&#160;Solana price today&#160;is $96.26 USD with a 24-hour trading volume of $1,429,767,001 USD.&#160;We update our SOL to USD price in real-time.&#160;Solana is down 0.20% in the last 24 hours.&#160;The current CoinMarketCap ranking is #5, with a live market cap of $41,977,739,045 USD.&#160;It has a circulating [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T16:30:13.000Z",
-    "title": "SEGA Leaker ‘Midori’ Reveals Exciting Details About Upcoming Switch 2 Titles",
-    "url": "https://www.cryptopolitan.com/sega-leaker-midori-reveals-exciting-details/",
-    "description": "In a recent development, renowned SEGA/Atlus leaker &#8216;Midori&#8217; has disclosed intriguing information regarding SEGA&#8217;s forthcoming game releases, which are purportedly slated for Nintendo&#8217;s much-anticipated Switch 2 platform.&#160; The revelations shed light on several beloved franchises, promising exciting prospects for casual and hardcore gamers. SEGA&#8217;s reimagined classics and fresh ventures on Switch 2 &#8216;Midori&#8217;s disclosures hint [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T16:16:23.000Z",
-    "title": "Palworld Cheat Table: Enhance Your Gaming Experience with New Features",
-    "url": "https://www.cryptopolitan.com/palworld-cheat-table-enhance-your-gaming/",
-    "description": "Palworld players rejoice as a new cheat table emerges to elevate your gaming experience. Developed by Zanzer and ctl3d32, this cheat table offers many features aimed at streamlining gameplay and reducing the hassle of certain mechanics.&#160; Whether playing on Steam or Xbox Game Pass, these cheats are designed to make your journey through Palworld more [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T16:11:43.000Z",
-    "title": "How AI Diagnosis and Treatment Applications Boost the Quality of Healthcare – Report",
-    "url": "https://www.cryptopolitan.com/ai-diagnosis-treatment-healthcare/",
-    "description": "In recent years, the intersection of artificial intelligence (AI) and healthcare has become an area of intense research and transformative potential. AI diagnosis, which uses a wide range of technologies capable of performing tasks that typically require human intelligence, is pivotal in reshaping various treatment methods. This article aims to explore the multifaceted applications of [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-08T16:37:39.000Z",
-    "title": "Terra founder Do Kwon wins second extradition appeal in Montenegro",
-    "url": "https://crypto.news/terra-do-kwon-extradition-appeal-montenegro/",
-    "description": "The Montenegro Court of Appeals revoked Do Kwon's extradition to his native South Korea or the U.S. for a second time. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-08T16:14:10.000Z",
-    "title": "DeeStream’s growth potential attracts Toncoin and Dogecoin investors",
-    "url": "https://crypto.news/deestreams-growth-potential-attracts-toncoin-and-dogecoin-investors/",
-    "description": "Toncoin (TON) and Dogecoin (DOGE) holders appear interested in DeeStream (DST)"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-08T16:13:15.000Z",
-    "title": "Bitcoin returns to $45k amid increased trading volume, positive market sentiment",
-    "url": "https://crypto.news/bitcoin-returns-to-45000-market-sentiment-trading/",
-    "description": "Bitcoin surged to $45,435, marking a 5.3% increase in a day and a 6.3% rise over the week, as per CoinMarketCap data."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-08T16:30:22.000Z",
-    "title": "Common Wealth Announces the Launch of the World’s First Free VC Fund",
-    "url": "https://www.crypto-news-flash.com/common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund/?utm_source=rss&utm_medium=rss&utm_campaign=common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund",
-    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-1200x675.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-450x253.png 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />8 February 2024 [Lisbon, Portugal]: Common Wealth, the powerful, all-in-one platform for early-stage Web3 investments, today announces the launch of a world-first initiative: a Free “earn-to-own&#8221; VC Fund. This launch represents a completely novel fusion of community-driven Web3 principles with the sophistication of venture capital investment. The initiative will see Common Wealth’s first fund opening [...]"
+    "source": "NewsBTC",
+    "date": "2024-02-08T17:00:34.000Z",
+    "title": "Ethereum Breaks Above $2,400: This Metric Points To Further Upside",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-breaks-2400-metric-points-further-upside/",
+    "description": "On-chain data shows an Ethereum metric is giving a bullish signal as the cryptocurrency&#8217;s price has broken past the $2,400 barrier during the past day. Ethereum Has Continued To Leave Exchanges Recently In a CryptoQuant Quicktake post, an analyst explained the recent relationship between the Ethereum price and data of the exchange netflow indicator. The &#8220;exchange netflow&#8221; here refers to a metric that keeps track of the net amount of the asset entering or exiting out of the wallets of all centralized exchanges. The indicator&#8217;s value is calculated by subtracting the outflows from the inflows. Related Reading: Analyst Reveals Potential Trigger For A 32% Cardano (ADA) Rally When the flow has a positive value, the inflows are overwhelming the outflows right now, and a net number of coins is moving into the custody of these platforms. One of the main reasons investors might deposit their tokens on the exchanges is for selling-related purposes. This trend can potentially have bearish implications for the asset&#8217;s price. On the other hand, the negative indicator implies the holders are making net withdrawals from these platforms. Such a trend suggests the investors may be accumulating for the long-term, which would naturally be bullish for the cryptocurrency&#8217;s value. Now, here is a chart that shows the trend in the Ethereum exchange netflow, as well as its 14-day exponential moving average (EMA), over the last few months: The value of the metric seems to have been quite red in recent days &#124; Source: CryptoQuant As highlighted by the quant in the above graph, the Ethereum price has observed an overall bullish trend in the last few months as the 14-day EMA exchange netflow has mostly been inside the negative territory. There have been some spikes in the positive region. With these net deposits, the cryptocurrency has usually encountered some degree of resistance, implying that these transfers added to the selling pressure in the market. Recently, the indicator has assumed red values for more than a week straight, suggesting that investors have been constantly making net withdrawals. The scale of the negative spikes has also been quite significant this time, meaning that some whales are involved. Off the back of this potential accumulation from the investors, Ethereum has observed its recovery below the $2,400 level. Since the netflow has continued to be quite negative recently, it&#8217;s possible that this rally isn&#8217;t all the coin would see; there may still be potential for further upside. Related Reading: Bitcoin Coinbase Premium Is Negative: What It Means For Price Recovery Spikes back into positive territory may be to watch for; however, if the pattern followed in the past few months is to be believed, they may cause the cryptocurrency to hit at least a local top. ETH Price At the time of writing, Ethereum is trading at around $2,420, up more than 6% over the past week. Looks like the price of the asset has shot up over the last few days &#124; Source: ETHUSD on TradingView Featured image from DrawKit Illustrations on Unsplash.com, charts from TradingView.com, CryptoQuant.com"
   }
 ]

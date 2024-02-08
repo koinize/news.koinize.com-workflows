@@ -1,65 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-08T18:00:00.000Z",
-    "title": "Polygon Releases 'Type 1 Prover,' Claiming Milestone Set by Ethereum's Vitalik Buterin",
-    "url": "https://www.coindesk.com/tech/2024/02/08/polygon-releases-type-1-prover-claiming-milestone-set-by-ethereums-vitalik-buterin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The announcement means that existing EVM chains or optimistic rollups can connect to the prover without modification, then plug into Polygon’s newly released Aggregation layer, providing access to \"all of the liquidity and value on Ethereum itself,” Polygon said."
+    "date": "2024-02-08T18:24:26.000Z",
+    "title": "Bitcoin Mining and the Politicization of a Once Reputable Federal Agency",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/02/08/bitcoin-mining-and-the-politicization-of-a-once-reputable-federal-agency/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Department of Energy's statistics wing is feigning an \"emergency\" to attack legitimate U.S. businesses and score political points, Texas Blockchain Council President Lee Bratcher and Chamber of Digital Commerce CEO Perianne Boring write."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-08T18:02:04.000Z",
-    "title": " Polygon develops open-source prover, allowing Ethereum chains to become ZK layer-2s ",
-    "url": "https://cointelegraph.com/news/polygon-develops-open-source-ethereum-zk-prover",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvN2Q5NzlmNGMtNThjNy00YmQ4LThkN2UtY2ZhZmVlYzQ0ZDQwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A newly developed zkEVM prover is set to allow EVM chains to become zero-knowledge proof-powered layers-2s in the Ethereum ecosystem. </p>\n                    <p><p>Ethereum scaling protocol Polygon has developed a new type 1 prover allowing ecosystem chains like optimistic rollups to unlock zero-knowledge proof (ZK-proofs) layer-2 functionality.</p><p>Polygon co-founder Brendan Farmer spoke exclusively to Cointelegraph after Polygon announced that its next-generation Polygon zkEVM type-1 prover will be available as open source to Ethereum ecosystem participants.</p><p>Farmer said the development of the technology, which was built with the help of Toposware, was a year in the making and unlocks the ability to generate ZK-proofs for mainnet Ethereum blocks at an average cost of $0.002-$0.003 per transaction. The Type 1 prover is dual licensed under MIT and Apache 2.0, and will be available on GitHub. </p><p><a href=\"https://cointelegraph.com/news/polygon-develops-open-source-ethereum-zk-prover\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2024-02-08T18:10:30.000Z",
+    "title": "‘Shrapnel’ Early Access Preview: The Long-Awaited Crypto Shooter Already Shines",
+    "url": "https://decrypt.co/216578/shrapnel-preview-early-access-preview-avalanche-shooter",
+    "description": "Avalanche extraction shooter Shrapnel is kicking off a $100,000 competition Thursday. We went hands-on via the Epic Games Store."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-08T18:22:24.000Z",
+    "title": "dYdX challenges Uniswap’s dominance in January: Binance Research",
+    "url": "https://cryptobriefing.com/dydx-challenges-uniswap-january-binance/?utm_source=feed&utm_medium=rss",
+    "description": "dYdX's strategic shift from Ethereum to Cosmos results in surging trading volumes in January, data gathered by Binance Research shows."
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-02-08T18:20:05.000Z",
+    "title": "China’s 10-Ton Gold Purchase Shows That It Is Just as Hungry As Ever for This Time-Tested Reserve Asset",
+    "url": "https://www.cryptoglobe.com/latest/2024/02/chinas-10-ton-gold-purchase-shows-that-it-is-just-as-hungry-as-ever-for-this-time-tested-reserve-asset/",
+    "description": "Despite moderating its pace slightly in January 2024, the People’s Bank of China (PBOC) remains a significant player in the global gold market. As Neils Christensen reported for Kitco News earlier today, the Chinese central bank purchased another 10 tonnes of gold in January. This purchase represents the 15th consecutive month of increasing official gold […]\n"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-02-08T18:00:42.000Z",
-    "title": "CMC’s Strategic Incubation of Galaxis Unveiled: A New Era for Blockchain-Powered Communities",
-    "url": "https://news.bitcoin.com/cmcs-strategic-incubation-of-galaxis-unveiled-a-new-era-for-blockchain-powered-communities/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/afe034cb-565a-44e2-8026-6d8a8e14ea8a.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. Zurich, Switzerland, February 8th 2024, Chainwire. CoinMarketCap&#8217;s incubation thrusts Galaxis into the spotlight, merging unmatched crypto intelligence, broad market reach, and a massive global user base to prime Galaxis for an impactful launch. In an innovative leap forward, CMC (Coin Market Cap) has announced the incubation of Galaxis.xyz, a frontrunner in the domain [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T18:00:00.000Z",
-    "title": "5 Rising Cryptocurrencies to add to Your 2024 Watchlist",
-    "url": "https://www.cryptopolitan.com/5-rising-cryptocurrencies-to-add-to-your-2024-watchlist/",
-    "description": "For experienced investors, staying up-to-date with the latest trends is key, because the market grows and shifts constantly. Take note of five cryptocurrencies on the rise &#8211; NuggetRush (NUGX), Bitcoin Minetrix (BTCMTX), Meme Kombat (MK), Solana (SOL), and BTC ETF Token (BTCETF). These coins are making waves and earning spots on 2024 watchlists. They all [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T17:44:54.000Z",
-    "title": "Study Reveals AI’s Tendency Towards Conflict Escalation in Military Decision-Making",
-    "url": "https://www.cryptopolitan.com/study-ai-tendency-toward-conflict-escalation/",
-    "description": "Artificial intelligence (AI) is increasingly permeating various sectors, including the military, where its potential for revolutionizing warfare is both promising and concerning. A recent study conducted by researchers from the Georgia Institute of Technology, Stanford University, Northeastern University, and the Hoover Wargaming and Crisis Simulation Initiative sheds light on the implications of AI utilization in [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-08T17:43:21.000Z",
-    "title": "Final Fantasy 7 Rebirth to Feature Expansive World Exploration",
-    "url": "https://www.cryptopolitan.com/final-fantasy-7-rebirth-to-feature-expansive/",
-    "description": "In the upcoming installment of the iconic Final Fantasy series, Final Fantasy 7 Rebirth, players can anticipate a significant departure from the linear structure of its predecessor, Final Fantasy 7 Remake. While not embracing a traditional open-world format, the game promises a wealth of exploration opportunities across its richly detailed environments. One of the most [&#8230;]"
+    "date": "2024-02-08T18:09:56.000Z",
+    "title": "Bitcoin Soars Above $45K, Reaching 4-Week High Post Spot ETF Launch",
+    "url": "https://news.bitcoin.com/bitcoin-soars-above-45k-reaching-4-week-high-post-spot-etf-launch/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Soars Above $45K, Reaching 4-Week High Post Spot ETF Launch\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/45kyeahdd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin&#x2019;s USD value surged to its peak in nearly four weeks, marking the highest point since the launch of spot bitcoin exchange-traded funds (ETFs) on Jan. 11, 2024. On Thursday, bitcoin&#x2019;s price climbed over 4% against the U.S. dollar, and hit a peak of $45,522 per unit. Bitcoin Breaks $45K Barrier with $50.47M in Shorts [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-08T17:43:51.000Z",
-    "title": "Ethereum schedules Dencun upgrade for network efficiency, Layer-2 support",
-    "url": "https://crypto.news/ethereum-schedules-dencun-upgrade-for-network-efficiency-layer-2-support/",
-    "description": "The Ethereum network is set to undergo the Dencun upgrade on Mar. 13, introducing key scalability enhancements."
+    "date": "2024-02-08T18:30:00.000Z",
+    "title": "Smog meme coin launches on Solana, surges by over 1,300%",
+    "url": "https://crypto.news/smog-meme-coin-launches-on-solana-surges-by-over-1300/",
+    "description": "A meme coin, Smog, rose 1,339 % in 24 hours after launching on Solana’s Jupiter decentralized exchange (DEX)"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-02-08T18:00:57.000Z",
-    "title": "Crypto Analyst Predicts Bitcoin To $100,000 But Says Cardano Is Dead, Here’s Why",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-100000-cardano-dead/",
-    "description": "Tom Dunleavy, Partner and Chief Investment Officer (CIO) at MV Capital, recently elaborated on the reason for his price predictions for Bitcoin and Cardano. As part of his predictions, the crypto analyst had, at the beginning of the year, stated that Bitcoin was going to hit $100,000 soon enough.  Why Bitcoin Will Rise To $100,000 In an interview with Scott Melker, Dunleavy alluded to the Bitcoin Halving as the reason why he believes Bitcoin will hit $100,000. Interestingly, he stated that this prediction was a “bit light” if the past post-halving numbers are to be considered. He noted how Bitcoin’s price usually sees at least a 4x increase once the Halving event takes place.  Related Reading: XRP Price On The Brink: This 10-Year Trendline Could Lead To A 4000% Surge Bitcoin Halving continues to be predicted as the event that will spark the next bull run, ushering in these price increases for Bitcoin. Skybridge Capital CEO Anthony Scaramucci also referred to this event as the reason for his prediction that Bitcoin will rise to $170,000. Like Dunleavy, he also noted how Bitcoin usually sees at least a 4x increase after miners’ rewards are cut in half.  Indeed, Bitcoin is known to have experienced a big rally after the Havling took place. Historically, Bitcoin’s price has seen an 8,000%, 284%, and 559% gain one year after the Halving in 2012, 2016, and 2020 respectively. Furthermore, Bitcoin’s price has hit a new all-time high (ATH) in each of these instances, making the $100,000 price prediction very feasible.  Source :MilkRoad Dunleavy also highlighted the Spot Bitcoin ETFs and macroeconomic factors like the expected interest rate cuts as other reasons why he thinks a 2x increase in Bitcoin’s price is a “solid base case.” These ETFs are expected to keep contributing to an increased demand for the flagship crypto token, while a rate cut is usually bullish for Bitcoin.  Why Cardano Is Dead In his predictions for 2024, Dunleavy boldly claimed that Cardano would lose its relevance and a new chain would take its place. Elaborating on the reason for this assertion, he alluded to the network’s lack of a stablecoin and that DeFi (Decentralized Finance) was basically “non-existent” on it.  Related Reading: Bitcoin Miner Reserves Drop To June 2021 Levels, What This Means For Price The crypto analyst went on to call Cardano’s founder, Charles Hoskinson, a “megalomaniac” who is “unwilling to change or adapt to the ecosystem.” He suggested that this was the reason why projects on the network are looking to migrate to other networks, a move which he believes is going to cause Cardano to fade off in the long run.  Dunleavy also noted how Cardano&#8217;s lack of Venture Capital (VC) has handicapped the network, considering the recognition and users these VCs bring “directly through their capital.” This was another reason why the crypto analyst wasn’t so hopeful about the network’s future.  BTC bulls reclaim control &#124; Source: BTCUSD on Tradingview.com Featured image from Forkast News, chart from Tradingview.com"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-08T17:55:27.000Z",
-    "title": "MicroStrategy’s Bitcoin Stash Grows to 190,000 BTC After Adding $37,200,000 Worth in January",
-    "url": "https://dailyhodl.com/2024/02/08/microstrategys-bitcoin-stash-grows-to-190000-btc-after-adding-37200000-worth-in-january/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-stash-grows-adding.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Business intelligence firm MicroStrategy continues to solidify its status as the world’s largest corporate holder of Bitcoin (BTC) with its most recent purchase of the flagship digital asset. In a new thread, MicroStrategy founder Michael Saylor says that the company bought an additional 850 BTC for a price of about $37 million in January. The [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/08/microstrategys-bitcoin-stash-grows-to-190000-btc-after-adding-37200000-worth-in-january/\">MicroStrategy’s Bitcoin Stash Grows to 190,000 BTC After Adding $37,200,000 Worth in January</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-02-08T18:38:20.000Z",
+    "title": "Explosive Partnership: B² Network and Polygon CDK Transform Bitcoin Rollups",
+    "url": "https://www.crypto-news-flash.com/explosive-partnership-b%c2%b2-network-and-polygon-cdk-transform-bitcoin-rollups/?utm_source=rss&utm_medium=rss&utm_campaign=explosive-partnership-b%25c2%25b2-network-and-polygon-cdk-transform-bitcoin-rollups",
+    "description": "<img width=\"2073\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon-MATIC-logos-with-dark-purple-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background.jpg 2073w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-300x174.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-1024x593.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-768x445.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-1536x889.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-2048x1186.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-150x87.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-450x260.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logos-with-dark-purple-background-1200x695.jpg 1200w\" sizes=\"(max-width: 2073px) 100vw, 2073px\" />B² Network is integrating with Polygon Chain Development Kit (CDK) in a mission to build a reliable and advanced Bitcoin zk-rollup. Developers will be able to choose the “Polygon CDK + B² Hub” combo to initiate their own BTC rollups. A game-changing partnership has been inked between the B² Network and Polygon CDK. The B² [...]"
   }
 ]

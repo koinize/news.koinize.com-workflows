@@ -1,72 +1,93 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-08T16:00:56.000Z",
-    "title": "Protocol Village: Web3 Security Firm FuzzLand Raises $3M Led by 1kx",
-    "url": "https://www.coindesk.com/tech/2024/02/08/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 8-14."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-08T15:42:18.000Z",
-    "title": "'Pixels' Token Launch Date Set as Binance Reveals PIXEL Staking Rewards",
-    "url": "https://decrypt.co/216550/pixel-token-launch-binance-staking-rewards",
-    "description": "Binance Launchpool will offer up 350 million PIXEL as staking rewards before the Ronin gaming token goes live this month."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-08T15:45:30.000Z",
-    "title": "Bitcoin above $44k spurs market confidence with spike in unrealized profits",
-    "url": "https://cryptoslate.com/bitcoin-above-44k-spurs-market-confidence-with-spike-in-unrealized-profits/",
-    "description": "<p>As Bitcoin&#8217;s price breached the $44,000 mark on Feb. 7, a significant milestone was achieved, signaling a robust recovery to levels seen before the launch of spot Bitcoin ETFs. This price recovery marks a notable comeback and brings a renewed sense of confidence among investors, as evidenced by the accompanying spike in unrealized profits across [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-above-44k-spurs-market-confidence-with-spike-in-unrealized-profits/\">Bitcoin above $44k spurs market confidence with spike in unrealized profits</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cointelegraph",
+    "date": "2024-02-08T16:30:53.000Z",
+    "title": " Kraken secures VASP registration in the Netherlands ",
+    "url": "https://cointelegraph.com/news/kraken-secures-vasp-registration-netherlands",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMDM4ZjFiOGQtNzk2Zi00MDU0LWFiYTctNjc2NzkzYTVjZWY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Crypto exchange Kraken was granted a VASP registration with the Dutch Central Bank, enabling it to offer exchange, transfer, custody, and wallet services for virtual assets in the country. </p>\n                    <p><p>Crypto exchange Kraken has secured its fourth license in Europe, making its compliant services now available in the Netherlands.</p><p>According to an announcement on Feb. 8, the exchange was <a href=\"https://blog.kraken.com/news/kraken-secures-vasp-registration-from-dutch-central-bank\" target=\"_blank\" rel=\"noopener nofollow\">granted</a> a virtual asset service provider (VASP) registration from the Dutch Central Bank (DNB), giving it the ability to offer exchange and transfer services of virtual assets, as well as custody and wallet services. </p><p>A VASP license is a regulatory framework designed to oversee businesses that provide services related to digital assets. Under the Regulation on Markets in Crypto-Assets (MiCA), entities providing services related to digital assets within the European Union must comply with a range of requirements, including preventing money laundering, terrorist financing, and ensuring client information is disclosed and transparent.</p><p><a href=\"https://cointelegraph.com/news/kraken-secures-vasp-registration-netherlands\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-02-08T15:43:12.000Z",
-    "title": "Legal Twist Keeps Terraform Labs’ Co-Founder Do Kwon in Montenegro, Appeals Court Questions Extradition Grounds",
-    "url": "https://news.bitcoin.com/legal-twist-keeps-terraform-labs-co-founder-do-kwon-in-montenegro-appeals-court-questions-extradition-grounds/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Legal Twist Keeps Terraform Labs&#039; Co-Founder Do Kwon in Montenegro, Appeals Court Questions Extradition Grounds\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/bonkkwon.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Following the Montenegro Appeals Court&#8217;s decision to reject the extradition requests for Terraform Labs co-founder Do Kwon, the panel from the Appeals Court has nullified the latest decision by Podgorica&#8217;s High Court to extradite Kwon to either South Korea or the United States. This ruling implies that Kwon will remain in Montenegro, as the matter [&#8230;]"
+    "date": "2024-02-08T16:30:34.000Z",
+    "title": "Ethereum’s Dencun Upgrade Goes Live on Holesky Testnet, Eyes Mainnet Launch",
+    "url": "https://news.bitcoin.com/ethereums-dencun-upgrade-goes-live-on-holesky-testnet-eyes-mainnet-launch/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum&#039;s Dencun Upgrade Triumphs in Holesky Testnet, Sets Sights on Mainnet\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/dencun_holesky.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Ethereum&#8217;s Dencun upgrade has successfully navigated the final testing phase on the Holesky testnet, introducing proto-danksharding to dramatically lower transaction fees on its layer-two solutions, with eyes now firmly set on a mainnet launch. Ethereum&#8217;s Dencun Upgrade Triumphs in Holesky Testnet, Sets Sights on Mainnet The Dencun upgrade has successfully completed its final testing phase [&#8230;]"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-08T16:15:36.000Z",
+    "title": "Common Wealth Announces the Launch of the World’s First Free VC Fund",
+    "url": "https://news.bitcoin.com/common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/243ad7af-b570-471c-ad02-7ba9457bf8e1.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. 8 February 2024 [Lisbon, Portugal]: Common Wealth, the powerful, all-in-one platform for early-stage Web3 investments, today announces the launch of a world-first initiative: a Free “earn-to-own&#8221; VC Fund. This launch represents a completely novel fusion of community-driven Web3 principles with the sophistication of venture capital investment. The initiative will see Common Wealth’s first [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-08T15:49:00.000Z",
-    "title": "Uniswap Price Prediction 2024-2033: Will UNI Keep Steady?",
-    "url": "https://www.cryptopolitan.com/uniswap-price-prediction/",
-    "description": "Uniswap Price Prediction 2024-2033 For anyone considering the switch from centralized finance (CeFi) to decentralized finance (DeFi), here&#8217;s a thought: Why do we constantly update the Uniswap Price Prediction? The fight is on for the survival of the fittest crypto project, and we need to keep you informed despite social media maneuvers by certain quarters! [&#8230;]"
+    "date": "2024-02-08T16:37:12.000Z",
+    "title": "The Graph Price Prediction 2024-2033: Is GRT a Good Investment?",
+    "url": "https://www.cryptopolitan.com/the-graph-price-prediction/",
+    "description": "The Graph Price Prediction 2024-2033 Have you ever heard of Uniswap, Aave, Compound, Balancer, USDC, Synthetix, Sushiswap, MakerDAO, Yearn, Curve, or any popular dApps? They all functionally rely upon The Graph, which is like a combination of decentralized versions of Google, banking, social media, other service providers, and other industries. The Graph price prediction could [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-08T15:46:30.000Z",
-    "title": "Stash House Map in Modern Warfare 3 Season 2 Update Gains “Instant Classic” Status",
-    "url": "https://www.cryptopolitan.com/stash-house-map-in-modern-warfare-3-season-2/",
-    "description": "The recent release of Season 2 by Sledgehammer Games for Modern Warfare 3 brought a trio of fresh battlegrounds alongside a diverse battle pass featuring iconic characters like The Walking Dead&#8217;s Rick Grimes and the influential RAM-9 SMG. Among these additions, one map has emerged as a focal point of player discussion, earning the title [&#8230;]"
+    "date": "2024-02-08T16:36:40.000Z",
+    "title": "MagnumHoldings Performs Well, Making Strides in Digital Finance",
+    "url": "https://www.cryptopolitan.com/magnumholdings-performs-well-making-strides/",
+    "description": "MagnumHoldings a prominent player in the online finance industry, with its headquarters in Oslo, Norway is known for its high standards and contribution to the evolution of digital finance. Its commitment to continuous innovation and excellence has helped the company establish a new standard in the digital finance sector, surpassing expectations. The company&#8217;s focus on [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-08T16:34:36.000Z",
+    "title": "Legal concerns for former crypto CEO Sam Bankman-Fried",
+    "url": "https://www.cryptopolitan.com/legal-concerns-for-former-crypto-ceo-sam-bankman-fried/",
+    "description": "Former FTX CEO Sam Bankman-Fried, convicted of seven felony counts in November, is set to return to court amidst concerns over potential conflicts of interest in his legal representation.&#160; The United States District Court for the Southern District of New York has scheduled a Curcio hearing for February 21, following a filing by Judge Lewis [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-08T16:30:13.000Z",
+    "title": "SEGA Leaker ‘Midori’ Reveals Exciting Details About Upcoming Switch 2 Titles",
+    "url": "https://www.cryptopolitan.com/sega-leaker-midori-reveals-exciting-details/",
+    "description": "In a recent development, renowned SEGA/Atlus leaker &#8216;Midori&#8217; has disclosed intriguing information regarding SEGA&#8217;s forthcoming game releases, which are purportedly slated for Nintendo&#8217;s much-anticipated Switch 2 platform.&#160; The revelations shed light on several beloved franchises, promising exciting prospects for casual and hardcore gamers. SEGA&#8217;s reimagined classics and fresh ventures on Switch 2 &#8216;Midori&#8217;s disclosures hint [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-08T16:16:23.000Z",
+    "title": "Palworld Cheat Table: Enhance Your Gaming Experience with New Features",
+    "url": "https://www.cryptopolitan.com/palworld-cheat-table-enhance-your-gaming/",
+    "description": "Palworld players rejoice as a new cheat table emerges to elevate your gaming experience. Developed by Zanzer and ctl3d32, this cheat table offers many features aimed at streamlining gameplay and reducing the hassle of certain mechanics.&#160; Whether playing on Steam or Xbox Game Pass, these cheats are designed to make your journey through Palworld more [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-08T16:11:43.000Z",
+    "title": "How AI Diagnosis and Treatment Applications Boost the Quality of Healthcare – Report",
+    "url": "https://www.cryptopolitan.com/ai-diagnosis-treatment-healthcare/",
+    "description": "In recent years, the intersection of artificial intelligence (AI) and healthcare has become an area of intense research and transformative potential. AI diagnosis, which uses a wide range of technologies capable of performing tasks that typically require human intelligence, is pivotal in reshaping various treatment methods. This article aims to explore the multifaceted applications of [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-08T16:07:53.000Z",
-    "title": "Crypto startups shifting from airdrops to loyalty points ",
-    "url": "https://crypto.news/crypto-startups-shifting-from-airdrops-to-loyalty-points/",
-    "description": "Many crypto startups are introducing loyalty point systems to foster user engagement."
+    "date": "2024-02-08T16:37:39.000Z",
+    "title": "Terra founder Do Kwon wins second extradition appeal in Montenegro",
+    "url": "https://crypto.news/terra-do-kwon-extradition-appeal-montenegro/",
+    "description": "The Montenegro Court of Appeals revoked Do Kwon's extradition to his native South Korea or the U.S. for a second time. "
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-02-08T16:00:28.000Z",
-    "title": "Shiba Inu Price Breaks 2-Month Downtrend, Eyes New Peaks",
-    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-price-breaks-2-month-downtrend/",
-    "description": "The Shiba Inu (SHIB) price has emerged from a persistent downtrend that dominated the past two months. A detailed analysis of the daily and weekly (SHIB/USD) charts indicates a series of critical technical factors that are currently influencing SHIB’s price movements. Shiba Inu Bulls Take Over On the daily chart, SHIB has broken through the upper boundary of the descending channel pattern that had been in place since the high at $0.00001193 reached in mid-December last year. This channel, characterized by lower highs and lower lows, had been containing the price action, but a recent surge in volume and buying pressure has allowed SHIB to breach this confinement. The breakout was confirmed by a close above the 200-day Exponential Moving Average (EMA, blue line), which is now acting as a support level. However, with the 20-day, 50-day, and 100-day EMAs converging just above current price levels (between $0.00000912 and $0.00000932), the bulls still have some work to do. Related Reading: Meme Coin Blues: Nearly 70% Of Shiba Inu Investors Underwater As Price Flops Notably, the Fibonacci retracement levels, drawn from the peak to the trough of the recent major move, reveal the following key price levels: the 0.236 level at $0.00000878 is still the most important support, followed by the 0.382 level at $0.00001050, the 0.5 level at $0.00001189, and the 0.618 level at $0.00001328 as the next crucial price targets. These levels often act as resistance during recoveries and, as such, are important targets for traders to watch. The Relative Strength Index (RSI) on the daily chart is hovering around the 51 mark, indicating a neutral momentum with a slight bias towards buying pressure. This leaves room for the RSI to climb before reaching overbought conditions, which are typically considered to be above the 70 level. Related Reading: Timeline For All Shiba Inu Projects Revealed As SHIB Price Readies To Soar End Of The Consolidation Phase? On the weekly time frame, a larger trend line, which is providing support derived from an ascending triangle pattern, suggests a longer-term bullish sentiment underlying the recent bearish phase. This support line is critical as it has been respected numerous times in the past, making it a significant level for long-term holders. A decisive weekly close above the 20-week EMA at $0.00000904 this Sunday could pave the way for significant momentum. Subsequently, attention shifts to the 50-week EMA at $0.00000970, signaling potential further advances. The volume profile on both time frames has been relatively high during the breakout, providing further confirmation of the move. However, traders should be cautious as high volume can also precede volatility and potential price retracements. In summary, SHIB has exhibited a clear breakout from a two-month downtrend with immediate support and resistance levels identifiable through EMAs and Fibonacci retracements. Traders and investors should be closely monitoring these levels to gauge the sustainability of the breakout and the potential for a trend reversal. Featured image from Shutterstock, chart from TradingView.com"
+    "source": "BTCManager",
+    "date": "2024-02-08T16:14:10.000Z",
+    "title": "DeeStream’s growth potential attracts Toncoin and Dogecoin investors",
+    "url": "https://crypto.news/deestreams-growth-potential-attracts-toncoin-and-dogecoin-investors/",
+    "description": "Toncoin (TON) and Dogecoin (DOGE) holders appear interested in DeeStream (DST)"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-08T16:13:15.000Z",
+    "title": "Bitcoin returns to $45k amid increased trading volume, positive market sentiment",
+    "url": "https://crypto.news/bitcoin-returns-to-45000-market-sentiment-trading/",
+    "description": "Bitcoin surged to $45,435, marking a 5.3% increase in a day and a 6.3% rise over the week, as per CoinMarketCap data."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-08T16:00:48.000Z",
-    "title": "Surge in Whale Activity Detected for Rebel Satoshi: What Does This Mean for Dogecoin and PEPE’s Future?",
-    "url": "https://www.crypto-news-flash.com/surge-in-whale-activity-detected-for-rebel-satoshi-what-does-this-mean-for-dogecoin-and-pepes-future/?utm_source=rss&utm_medium=rss&utm_campaign=surge-in-whale-activity-detected-for-rebel-satoshi-what-does-this-mean-for-dogecoin-and-pepes-future",
-    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-08T111300.819-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Dogecoin plunges 1% in a week, and experts foresee more losses in February. PEPE plummets 18% in a week, and analysts believe bears will persist. Rebel Satoshi becomes the best meme coin to buy after jumping 120% thus far. The meme coin niche is battling with bears as top players like Dogecoin (DOGE) and Pepe [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-08T16:00:00.000Z",
-    "title": "Cardano (ADA) to $0.68? Is the Price Increase Possible?",
-    "url": "https://coinedition.com/cardano-ada-to-0-68-is-the-price-increase-possible/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/ADA-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano (ADA) to $0.68? Is the Price Increase Possible?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/ADA-3.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/ADA-3-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Aroon indicator signaled a possible rise to $0.60 in the short term. ADA formed a descending triangle, indicating a possible stop to the lower highs. ADA’s price pulled back from $0.53 but the bullish bias has not been invalidated. According to crypto analyst Ali Martinez, Cardano (ADA) could be ready to make a 32% [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-ada-to-0-68-is-the-price-increase-possible/\">Cardano (ADA) to $0.68? Is the Price Increase Possible?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-08T16:30:22.000Z",
+    "title": "Common Wealth Announces the Launch of the World’s First Free VC Fund",
+    "url": "https://www.crypto-news-flash.com/common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund/?utm_source=rss&utm_medium=rss&utm_campaign=common-wealth-announces-the-launch-of-the-worlds-first-free-vc-fund",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389.png 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-1200x675.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/IMG_9389-450x253.png 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />8 February 2024 [Lisbon, Portugal]: Common Wealth, the powerful, all-in-one platform for early-stage Web3 investments, today announces the launch of a world-first initiative: a Free “earn-to-own&#8221; VC Fund. This launch represents a completely novel fusion of community-driven Web3 principles with the sophistication of venture capital investment. The initiative will see Common Wealth’s first fund opening [...]"
   }
 ]

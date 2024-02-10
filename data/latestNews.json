@@ -1,51 +1,37 @@
 [
   {
-    "source": "CryptoGlobe",
-    "date": "2024-02-10T16:29:27.000Z",
-    "title": "Unveiling The Dragons: The World’s First Token Amulets",
-    "url": "https://www.cryptoglobe.com/latest/2024/02/unveiling-the-dragons-the-worlds-first-token-amulets/",
-    "description": "Kuala Lumpur, Malaysia, February 10th, 2024, Chainwire Today, dragonsworld introduces The Dragons project: the pioneering token talisman crafted by a team of crypto enthusiasts, dedicated to infusing the ancient energy of this revered symbol into the digital realm. As the Chinese New Year of the Dragon is ushered in, users are invited to join in celebrating this auspicious occasion […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-10T16:37:15.000Z",
-    "title": "February's Top Picks: Low-Priced Cryptos with the Potential to Boost $1K to $100K",
-    "url": "https://cryptodaily.co.uk/2024/02/februarys-top-picks-low-priced-cryptos-with-the-potential-to-boost-1k-to-100k",
-    "description": "Explore February's standout low-priced cryptocurrencies with the potential to significantly amplify your $1K. This guide delves into the crypto market's bullish signs, driven by stablecoin growth and investor optimism, highlighting projects like Izumi Finance, Magic Square, TitanX, and Port3 Network as key players."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-10T16:12:02.000Z",
-    "title": "⁠Starting Your Crypto Journey in 2024 with $1000: A Beginner's Strategy Guide",
-    "url": "https://cryptodaily.co.uk/2024/02/starting-your-crypto-journey-in-2024-with-1000-a-beginners-strategy-guide",
-    "description": "Embark on your crypto journey in 2024 with $1000 and navigate through a market ripe with opportunity. This strategy guide highlights emerging cryptocurrencies like Solana, Aptos, Immutable X, and Mantle, showcasing their innovative technologies and potential for rewarding outcomes amidst a recovering stablecoin market signaling a bullish trend."
+    "source": "Cointelegraph",
+    "date": "2024-02-10T16:45:46.000Z",
+    "title": " Scam-as-a-service: New Solana drainers identified ",
+    "url": "https://cointelegraph.com/news/scam-as-a-service-new-solana-drainers-identified",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNjg2NzRmZTMtM2EzNS00ZTBjLTkxNTctZDlhNmVjNGEyY2NjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The drainers, available on scam-as-a-service marketplaces, can flip a conditional within an on-chain transaction.</p>\n                    <p><p>Web3 security firm Blowfish has detected two new Solana drainers that can perform bit-flip attacks, according to a Feb. 9 analysis shared on X (formerly Twitter). </p><p>The drainers, known as ‘Aqua’ and ‘Vanish,’ were flagged modifying a conditional within on-chain data, even after a user’s private key was used to sign a transaction. According to Blowfish, the drainers’ script is available for a fee in marketplaces offering scam-as-a-service tools. </p><p>The Blowfish team broke down the drainers’ method to flip data and steal funds. “On Solana, a dApp can be given authority to submit a transaction. If the dApp’s onchain program includes a conditional that allows it to send the user SOL or drain their account, a drainer could flip that conditional at any time,” reads the analysis.</p><p><a href=\"https://cointelegraph.com/news/scam-as-a-service-new-solana-drainers-identified\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-10T16:39:01.000Z",
-    "title": "Floki Inu Price Prediction 2024-2033: Can FLOKI Surpass Previous ATH?",
-    "url": "https://www.cryptopolitan.com/floki-inu-price-prediction/",
-    "description": "Floki Inu Price Prediction 2024-2033 In case you&#8217;re wondering, here&#8217;s a bit of trivia: &#8220;Floki&#8221; means &#8220;heroic Viking,&#8221; and is said to be the name of the Viking who discovered, and named Iceland. In June 2021, Elon Musk tweeted that he would be naming his pet Shiba Inu “Floki.” This led to the birth of [&#8230;]"
+    "date": "2024-02-10T17:00:00.000Z",
+    "title": "Top Growth Crypto to Buy Before It Soars 1000% According to Analysts",
+    "url": "https://www.cryptopolitan.com/top-growth-crypto-to-buy-before-it-soars-1000-according-to-analysts/",
+    "description": "The crypto market is full of excitement over Pandoshi (PAMBO), a new token that analysts predict could surge over 1000%. This unique project aims to champion decentralization and privacy through an ecosystem of DeFi products.&#160; Pandoshi&#8217;s Presale Soaring as Launch Date Nears Pandoshi is currently in its final presale stage, having raised over $5 million [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-10T16:30:36.000Z",
-    "title": "Chips Manufactures Join Forces to Develop Unique AI Memory",
-    "url": "https://www.cryptopolitan.com/chips-manufacturing-advanced-ai-memory/",
-    "description": "Discover groundbreaking news about TSMC and SK hynix's collaboration in developing AI memory chips."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-10T16:22:45.000Z",
-    "title": "Rocket Pool Price Prediction 2024-2033: Is RPL A Good Investment?",
-    "url": "https://www.cryptopolitan.com/rocket-pool-price-prediction-2024-2033/",
-    "description": "Rocket Pool Price Prediction 2024-2033 Rocket Pool (RPL) is making waves in the cryptocurrency world, and this is the ideal place to understand its future potential. It&#8217;s crucial to keep a close eye on RPL&#8217;s price trends and predictions because it&#8217;s a prominent name in decentralized finance. In this ever-evolving landscape, staying informed about RPL&#8217;s [&#8230;]"
+    "date": "2024-02-10T17:00:00.000Z",
+    "title": "Ethereum and TRON See Modest Gains, but NuggetRush’s Explosive Presale Steals the Spotlight Among Crypto Investors",
+    "url": "https://www.cryptopolitan.com/ethereum-and-tron-see-modest-gains-but-nuggetrushs-explosive-presale-steals-the-spotlight-among-crypto-investors/",
+    "description": "TLDR In the dynamic landscape of cryptocurrency, Ethereum (ETH), TRON (TRX), and NuggetRush (NUGX) have emerged as noteworthy players, each presenting unique developments and opportunities. Let&#8217;s explore these crypto ecosystems to understand their current standing and potential. Keep reading to learn why Ethereum and TRON investors are turning to NuggetRush. &#62;&#62;Buy NuggetRush Now&#60;&#60; Ethereum (ETH) [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-10T16:10:00.000Z",
-    "title": "KangaMoon building active meme community; Optimism and XRP are altcoins to watch",
-    "url": "https://crypto.news/kangamoon-building-active-meme-community-optimism-and-xrp-are-altcoins-to-watch/",
-    "description": "KangaMoon (KANG) is building an active and engaging meme community. Investors are also watching Optimism (OP) and XRP"
+    "date": "2024-02-10T16:54:55.000Z",
+    "title": "Crypto, cyber unit at SEC braces for ‘exodus,’ Gasparino says",
+    "url": "https://crypto.news/crypto-cyber-sec-unit-braces-exodus-gasparino-says/",
+    "description": " Fox Business correspondent Charles Gasparino says law firms noticed an increased circulation of resumes from current SEC staff — a sign that many of them were looking to jump ship."
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-10T17:00:19.000Z",
+    "title": "Render (RNDR) And Celestia (TIA) Pose Strong Profit Potential But Investors Go For Low-Risk Opportunities In Rebel Satoshi Presale",
+    "url": "https://www.crypto-news-flash.com/render-rndr-and-celestia-tia-pose-strong-profit-potential-but-investors-go-for-low-risk-opportunities-in-rebel-satoshi-presale/?utm_source=rss&utm_medium=rss&utm_campaign=render-rndr-and-celestia-tia-pose-strong-profit-potential-but-investors-go-for-low-risk-opportunities-in-rebel-satoshi-presale",
+    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-10T100735.114-1-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Render (RNDR) gains in value after forging a new partnership.  Celestia (TIA) soars after a crucial announcement from Starknet.  Investors prefer the new coin, Rebel Satoshi (RBLZ), as it promises high returns.  In the latest news from the crypto world, Render (RNDR) has improved in value after entering into an important partnership. Meanwhile, one of [...]"
   }
 ]

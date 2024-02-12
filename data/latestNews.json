@@ -1,86 +1,51 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-12T08:23:00.000Z",
-    "title": " What is a one-cancels-the-other (OCO) order, explained ",
-    "url": "https://cointelegraph.com/explained/what-is-a-one-cancels-the-other-oco-order-explained",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYWMyMjZmODU3MTUyYWIyZGFiOWQxYzE1Y2NlZTg2Ny5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>                        A one-cancels-the-other (OCO) order is a trading instruction where the execution of one order automatically cancels a second order.                    </p>\n                    <p><p data-ct-widget=\"explained-block-content\">                </p><p><em>A one-cancels-the-other (OCO) order combines a pair of different trading order types, such as a limit order and a stop order, allowing simultaneous placement of stop loss and profit objectives for positions.</em></p><p>OCO orders are conditional orders in trading used by traders to simultaneously place two orders: a primary order and a secondary order. They operate so that if one order is fulfilled, the other is automatically canceled. </p><p><a href=\"https://cointelegraph.com/explained/what-is-a-one-cancels-the-other-oco-order-explained\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-12T08:38:54.000Z",
-    "title": "Bitcoin ETFs witness explosive $542 million inflow in a single day",
-    "url": "https://cryptoslate.com/insights/bitcoin-etfs-witness-explosive-542-million-inflow-in-a-single-day/",
-    "description": "<p>Quick Take Data compiled by Farside Investors shows that on Feb. 9, the net inflow surged to reach $542 million. BlackRock IBIT accounted for approximately just under half of these net inflows with a staggering $251 million, pushing their total net inflow to a hefty $3.8 billion and increasing their Bitcoin holdings to 87,779, according [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-etfs-witness-explosive-542-million-inflow-in-a-single-day/\">Bitcoin ETFs witness explosive $542 million inflow in a single day</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-02-12T08:30:07.000Z",
-    "title": "Latam Insights: Bukele Wins Presidential Ballot by Landslide, Brazil Strengthens Crypto Tax Oversight",
-    "url": "https://news.bitcoin.com/latam-insights-bukele-wins-presidential-ballot-by-landslide-brazil-strengthens-crypto-tax-oversight/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Latam Insights: Bukele Wins Presidential Ballot by Landslide, Brazil Strengthens Crypto Tax Oversight\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/latam2-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Welcome to Latam Insights, a compendium of Latin America&#x2019;s most relevant crypto and economic news during the last week. In this issue: Nayib Bukele wins the presidential elections in El Salvador, the Brazilian tax authority finds over 25,000 irregularities in crypto tax statements, and Argentine President Javier Milei warns there will be no dollarization this [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-02-12T08:55:22.000Z",
+    "title": "New Zealand Central Bank Governor Adrian Orr Slams Stablecoins",
+    "url": "https://cryptodaily.co.uk/2024/02/new-zealand-central-bank-governor-adrian-orr-slams-stablecoins",
+    "description": "New Zealand central bank governor Adrian Orr has come down heavily on stablecoins, calling them an oxymoron and only as stable as their issuer’s balance sheet."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-12T08:33:26.000Z",
-    "title": "teledisko DAO: One $BERLIN is All You Need to Tokenize a Piece of Subculture",
-    "url": "https://www.cryptopolitan.com/teledisko-dao-one-berlin-tokenize-subculture/",
-    "description": "After becoming UNESCO’s &#8220;City of Design&#8221; in 2005, Berlin has continued to enhance its reputation as a global cultural and creative hub, building on its diverse heritage of monuments and institutions. The city is renowned as a prominent European center for nightlife and entertainment, and it continues to attract a constant influx of young talents [&#8230;]"
+    "date": "2024-02-12T09:03:54.000Z",
+    "title": "New ChatGPT-like Model Identifies Promising Drug Candidates for Cancer & More",
+    "url": "https://www.cryptopolitan.com/new-chatgpt-like-model-identifies-drug-candidates/",
+    "description": "The use of large language models and GenAI applications like ChatGPT has gone past the initial functionalities, like text writing and researching. Not that those particular use cases are any less helpful, but scientists are beginning to deploy the same GenAI models to solve more complex problems. Scientists Create AI Model to Speed up Drug [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-12T08:36:31.000Z",
-    "title": "XRP bulls target new all-time high in 2024",
-    "url": "https://crypto.news/xrp-bulls-target-new-all-time-high-in-2024/",
-    "description": "In 2023, XRP rallied despite regulatory challenges. The NuggetRush (NUGX) presale has drawn investors due to its performance"
+    "source": "Cryptopolitan",
+    "date": "2024-02-12T08:59:42.000Z",
+    "title": "Crypto expert Krueger forecasts Bitcoin price surge to $10 million in 10-20 years",
+    "url": "https://www.cryptopolitan.com/crypto-expert-krueger-forecasts-bitcoin-price-surge-to-10-million-in-10-20-years/",
+    "description": "Renowned crypto analyst Fred Krueger has made a bold prediction regarding the future of Bitcoin, suggesting that the cryptocurrency could soar to $10 million within the next two decades.&#160; Krueger, a former founder and chairman of Traffic Marketplace, outlined his projections in an in-depth analysis shared on social media platform X. Krueger’s insights and analysis [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-12T08:36:14.000Z",
-    "title": "Trader turns 1 ETH to $59k in hours with new ERC-404 token",
-    "url": "https://crypto.news/trader-turns-1-eth-to-59k-in-hours-with-new-erc-404-token/",
-    "description": "An unknown trader turned 1 Ethereum (ETH) into almost $60,000 in hours. According to Lookonchain analysts, an unknown trader earned $59,000 from 1 ETH in 11 hours thanks to the ERC-404 MINER token. &#8220;His secret to making money is buying&#8230;"
+    "source": "Altcoin Buzz",
+    "date": "2024-02-12T09:05:05.000Z",
+    "title": "zkSync Airdrop Guide",
+    "url": "https://www.altcoinbuzz.io/top-article/zksync-airdrop-guide/",
+    "description": "<p>The zkSync airdrop is currently one of the most anticipated airdrops. It could be a big airdrop as well. The platform recently released new guidelines on how to qualify. We also show you some other tasks you can perform, to increase your share of the airdrop. So, let&#8217;s dive straight into these zkSync airdrop options. If [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/top-article/zksync-airdrop-guide/\">zkSync Airdrop Guide</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-12T08:31:57.000Z",
-    "title": "New Zealand’s Central Bank chief casts doubt on stablecoin stability",
-    "url": "https://crypto.news/new-zealands-central-bank-chief-casts-doubt-on-stablecoin-stability/",
-    "description": "Adrian Orr, the governor of the Central Bank of New Zealand, has criticized stablecoins, stating they cannot replace traditional currency and &#8220;are not stable.&#8221; During a parliamentary finance committee meeting on Feb. 12, Orr described stablecoins, which aim to offer&#8230;"
+    "source": "Altcoin Buzz",
+    "date": "2024-02-12T08:52:51.000Z",
+    "title": "Blockchain Beats: Piano Music Meets Bitcoin",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-beats-piano-music-meets-bitcoin/",
+    "description": "<p>This approach introduces a new artistic medium on Bitcoin, using recursion to release songs. Ordinals involve inscribing digital artifacts like images, texts, and now sounds, directly onto individual satoshis, the smallest unit of Bitcoin. Revolutionizing Music with Bitcoin Recursion This method essentially turns each satoshi into a unique digital canvas, capable of carrying a piece [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-beats-piano-music-meets-bitcoin/\">Blockchain Beats: Piano Music Meets Bitcoin</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-12T08:28:43.000Z",
-    "title": "Solana overtakes Ethereum; analysts expect this meme coin to rally in 2024",
-    "url": "https://crypto.news/solana-overtakes-ethereum-analysts-expect-this-meme-coin-to-rally-in-2024/",
-    "description": "Rebel Satoshi and Solana are trending. Solana has outperformed Ethereum in some critical on-chain metrics"
+    "source": "Coin Edition",
+    "date": "2024-02-12T08:49:33.000Z",
+    "title": "Bitcoin’s “Mega Move” and Cardano’s Consolidation Mimic Crypto Bull Run Behaviors",
+    "url": "https://coinedition.com/bitcoins-mega-move-and-cardanos-consolidation-mimic-crypto-bull-run-behaviors/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BTC-Price-Analysis-vs-ADA-Price-Analysis\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis.jpg 730w, https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/09/BTC-Price-Analysis-vs-ADA-Price-Analysis-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto Analyst Dan Gambardello has spotted a “mega move” in Bitcoin’s price. In a recently uploaded video, Gambardello analyzed the recent Bitcoin rally, explaining its importance to the current market situation. He also identified a critical development in Cardano’s price, projecting how the altcoin’s price would unfold in the short term. According to Gambardello, the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoins-mega-move-and-cardanos-consolidation-mimic-crypto-bull-run-behaviors/\">Bitcoin’s “Mega Move” and Cardano’s Consolidation Mimic Crypto Bull Run Behaviors</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-12T08:28:19.000Z",
-    "title": "Nearly 90% of California crypto owners favor pro-crypto political candidate, Coinbase reveals",
-    "url": "https://crypto.news/nearly-90-of-california-crypto-owners-favor-pro-crypto-political-candidate-coinbase-reveals/",
-    "description": "A Toluna study for Coinbase reveals that 4 in 5 California crypto owners would support a pro-crypto political candidate. A recent study conducted by Toluna on behalf of crypto exchange Coinbase has shed light on the widespread adoption of crypto&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-12T08:37:17.000Z",
-    "title": "Dive into Digital Wealth: An Insider’s Look at the Top Ten Play to Earn Cryptocurrencies",
-    "url": "https://www.crypto-news-flash.com/dive-into-digital-wealth-an-insiders-look-at-the-top-ten-play-to-earn-cryptocurrencies/?utm_source=rss&utm_medium=rss&utm_campaign=dive-into-digital-wealth-an-insiders-look-at-the-top-ten-play-to-earn-cryptocurrencies",
-    "description": "<img width=\"640\" height=\"360\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/mo-eJymAZsXupQ-unsplash-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/mo-eJymAZsXupQ-unsplash-1.jpg 640w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/mo-eJymAZsXupQ-unsplash-1-300x169.jpg 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" />Introduction to Play to Earn Cryptocurrencies In the age of digital revolution, the concept of Play to Earn Cryptocurrencies has emerged as a popular phenomenon. This novel approach empowers individuals to earn digital assets by participating in online games. It has turned the gaming industry on its head, providing not just entertainment, but also a [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-12T08:23:23.000Z",
-    "title": "Revolutionizing Finance: Navigating the World of Crypto Lending and Investment",
-    "url": "https://www.crypto-news-flash.com/revolutionizing-finance-navigating-the-world-of-crypto-lending-and-investment/?utm_source=rss&utm_medium=rss&utm_campaign=revolutionizing-finance-navigating-the-world-of-crypto-lending-and-investment",
-    "description": "<img width=\"512\" height=\"249\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Versana\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27-300x146.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27-24x12.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27-36x18.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/09/unnamed-27-48x23.jpg 48w\" sizes=\"(max-width: 512px) 100vw, 512px\" />The realm of cryptocurrency is continuously evolving, carving out new avenues for investment and financial services. Among these, cryptocurrency lending has emerged as a significant player, reshaping the landscape of digital finance. The rise of decentralized finance (DeFi) has been pivotal, introducing innovative lending services that challenge traditional banking models. This article delves into the [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-12T08:18:48.000Z",
-    "title": "Breaking Boundaries: XRP Set to Revolutionize with Ripple’s Partner, Flare Networks Integration – Can it Propel Price to $1?",
-    "url": "https://www.crypto-news-flash.com/breaking-boundaries-xrp-set-to-revolutionize-with-ripples-partner-flare-networks-integration-can-it-propel-price-to-1/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-boundaries-xrp-set-to-revolutionize-with-ripples-partner-flare-networks-integration-can-it-propel-price-to-1",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />XRP could finally come to the Flare Network and other protocols following a partnership that would unveil the FXRP asset. According to Co-founder and CEO of Flare Network Hugo Philion, the partnership would enable developers to build DApps that can interact with multiple cross-chain assets.   Flare Network has always maintained close ties with Ripple [...]"
+    "source": "Coin Edition",
+    "date": "2024-02-12T08:46:26.000Z",
+    "title": "Hover is Ready to Launch Its Public Sale on the DAO Maker",
+    "url": "https://coinedition.com/hover-is-ready-to-launch-its-public-sale-on-the-dao-maker/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/PR-2-99.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/PR-2-99.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/PR-2-99-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Hover, the non-custodial lending and borrowing protocol from the Kava ecosystem, will launch its public sale on DAO Maker on February 14th. The launch and the public sale follow the success of Hover’s increasing APY Genesis Pools sprint that runs from November 2023 through February 2024 and generated over 15.3M USD total value locked across [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/hover-is-ready-to-launch-its-public-sale-on-the-dao-maker/\">Hover is Ready to Launch Its Public Sale on the DAO Maker</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

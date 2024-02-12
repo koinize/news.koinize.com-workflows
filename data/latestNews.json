@@ -1,72 +1,23 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-12T06:52:19.000Z",
-    "title": "Australian Judge Hands Split Decision in Market’s Regulator vs Block Earner",
-    "url": "https://www.coindesk.com/policy/2024/02/12/australian-judge-hands-split-decision-in-markets-regulator-vs-block-earner/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "An Australian court has given a split decision in a case brought by Australia's markets regulator against Sydney-based crypto start-up Block Earner."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-12T07:04:22.000Z",
-    "title": " Ethereum gas fees hit 8-month high amid ERC-404 craze ",
-    "url": "https://cointelegraph.com/news/ethereum-gas-fees-hit-8-month-high-erc-404-craze",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMTZmY2EyODEtOGMzMS00NjUyLThkOTktZTdhNDM0ZjU4OGMwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Gas fees on the Ethereum network reached levels not seen since March last year as traders rushed to capitalize on the early stages of the ERC-404 trend.</p>\n                    <p><p>Ethereum network gas fees reached an eight-month high amid a frenzy of interest for a new, unofficial, experimental token standard dubbed ERC-404. </p><p>Ethereum network gas prices reached an average peak of 70 gwei ($60 for a standard transaction) on Feb. 9, with peak gas costs surging as high as 377 gwei — a level not since May 12, 2023. </p><p>While the causes of the gas price surge can be attributed to various factors, the spike arrived around the same time as the hype around the ERC-404 token standard began to pick up steam throughout the crypto sector. </p><p><a href=\"https://cointelegraph.com/news/ethereum-gas-fees-hit-8-month-high-erc-404-craze\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-12T06:40:32.000Z",
-    "title": " Weekend Wrap: Ordinals to boost BTC miners, Yuga NFT mint goes wrong and more ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-on-the-weekend",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvNDljZTRmMTMtNTA1My00MTk3LTg0MmYtNTMwMTIyYTZiODYwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Grayscale says Bitcoin Ordinals could be a boon for miners after rewards halve and Yuga Labs stumbled its way through reimbursing those who lost out on NFTs due to high gas fees.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) Ordinals inscriptions could provide a much-needed revenue boost for Bitcoin <a href=\"https://www.coingecko.com/en/coins/bitcoin\" target=\"_blank\" rel=\"noopener nofollow\">(BTC)</a> mining firms after <a href=\"https://cointelegraph.com/learn/bitcoin-halving-how-does-the-halving-cycle-work-and-why-does-it-matter\">April’s slated halving event</a> takes place, says digital asset management firm Grayscale.</p><p>“Since the advent of Ordinals, there have been multiple times when miners have derived over 20% of their transaction fees from inscription fees themselves,” Grayscale researcher Michael Zhao <a href=\"https://www.grayscale.com/research/reports/2024-halving-this-time-its-actually-different\" target=\"_blank\" rel=\"noopener nofollow\">said</a> in a Feb. 9 report.</p><p>Miners have pocketed $200 million from approximately 59 million nonfungible token-like collectibles on Bitcoin since <a href=\"https://cointelegraph.com/explained/what-are-bitcoin-ordinals\">the Ordinals protocol</a> launched in January 2023, Zhao noted.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-on-the-weekend\">Read more</a></p></p>\n                \n            "
-  },
-  {
     "source": "Cryptopolitan",
-    "date": "2024-02-12T07:00:00.000Z",
-    "title": "Experts Consider Pandoshi (PAMBO) A Better Investment Than Dogecoin (DOGE)",
-    "url": "https://www.cryptopolitan.com/experts-consider-pandoshi-pambo-a-better-investment-than-dogecoin-doge/",
-    "description": "In the ever-diversifying world of cryptocurrency, experts are turning their attention towards Pandoshi (PAMBO) as a potentially superior investment compared to the well-known Dogecoin (DOGE). With its innovative approach to decentralized finance (DeFi) and a solid foundation built on community engagement and advanced technology, Pandoshi is quickly gaining traction among crypto investors.&#160; Dogecoin (DOGE) Is [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-12T06:46:13.000Z",
-    "title": "New Jersey Takes Action Against Deepfakes and Social Media Harm",
-    "url": "https://www.cryptopolitan.com/new-jersey-takes-action-against-deepfakes/",
-    "description": "In response to the growing concerns surrounding deepfake pornography and the detrimental effects of social media, New Jersey is stepping up its efforts to combat these issues. Through legislative initiatives, public awareness campaigns, and proposed restrictions on social media usage, the state aims to address the negative impacts of artificial intelligence and online platforms on [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-12T06:45:00.000Z",
-    "title": "Top 25 crypto CEO’s $50,000 bet on new Solana (SOL) competitor attracts attention",
-    "url": "https://www.cryptopolitan.com/top-25-crypto-ceos-50000-bet-on-new-solana-sol-competitor-attracts-attention/",
-    "description": "In the dynamic and ever-evolving world of cryptocurrencies, where innovations and breakthroughs are the norms, a new challenger emerges, promising to redefine the landscape and challenge the dominance of established giants like Solana. Retik Finance (RETIK) has swiftly captured the attention of investors, enthusiasts, and industry veterans with its groundbreaking approach and unique offerings. Among [&#8230;]"
+    "date": "2024-02-12T07:21:51.000Z",
+    "title": "Key Trends Shaping Cloud Network Evolution in 2024",
+    "url": "https://www.cryptopolitan.com/key-trends-cloud-network-evolution-in-2024/",
+    "description": "The future of network evolution is being dramatically reshaped in 2024, with &#8220;Cloud Network Evolution&#8221; at the forefront of this transformation. This era marks a significant pivot from traditional network management to innovative strategies that incorporate multi-cloud connections, AI, and machine learning. These advancements are designed to create networks that are not only more resilient [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-12T07:04:12.000Z",
-    "title": "Chainlink, Mina Protocol, and Pullix rallying in February",
-    "url": "https://crypto.news/chainlink-mina-protocol-and-pullix-rallying-in-february/",
-    "description": "Chainlink, Mina Protocol, and Pullix are steady, posting impressive gains in February"
+    "date": "2024-02-12T07:18:35.000Z",
+    "title": "Less than 8% of institutional traders believe in blockchain, JPMorgan says",
+    "url": "https://crypto.news/less-than-8-of-institutional-traders-believe-in-blockchain-jpmorgan-says/",
+    "description": "Blockchain appears to be losing momentum as more and more institutional traders lose their belief in the technology, a recent survey by JPMorgan shows. According to a recent survey conducted by JPMorgan among more than 4,000 institutional traders, an alarming&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-12T06:53:48.000Z",
-    "title": "ERC-404 sector collapses by 33% after rapid surge",
-    "url": "https://crypto.news/erc-404-sector-collapses-by-33-after-rapid-surge/",
-    "description": "The ERC-404 token sector is recording a significant decline after a week of rapid growth. According to Coingecko, the ERC-404 sector has significantly declined in the last 24 hours, with total market capitalization falling 33% to $163 million. Key tokens&#8230;"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-12T07:00:25.000Z",
-    "title": "Why does USDC (USDC) & Ripple (XRP) love the gap in market DeeStream (DST) platform and why is 40x being taken seriously?",
-    "url": "https://coinedition.com/why-does-usdc-usdc-ripple-xrp-love-the-gap-in-market-deestream-dst-platform-and-why-is-40x-being-taken-seriously/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/pr-2-9.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/pr-2-9.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/pr-2-9-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>USDC (USDC), Ripple (XRP), and DeeStream (DST) show different aspects of the changing crypto scene. USDC&#8217;s connection with Zeitgeist adds stability to prediction markets. Ripple&#8217;s increased market cap suggests strength in the face of challenges. DeeStream&#8217;s innovative decentralized streaming approach, along with a presale model and potential 40x gain, makes it a notable player in [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/why-does-usdc-usdc-ripple-xrp-love-the-gap-in-market-deestream-dst-platform-and-why-is-40x-being-taken-seriously/\">Why does USDC (USDC) &amp; Ripple (XRP) love the gap in market DeeStream (DST) platform and why is 40x being taken seriously?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-12T06:45:53.000Z",
-    "title": "Online videos are big business, but combined with crypto: DeeStream (DST) presale takes huge investment from Bitcoin (BTC) & Cardano (ADA) holders",
-    "url": "https://coinedition.com/online-videos-are-big-business-but-combined-with-crypto-deestream-dst-presale/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/pr-3-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/pr-3-3.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/pr-3-3-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>DeeStream (DST) is getting a lot of attention and investment from fans of Bitcoin (BTC) and Cardano (ADA) as online video streaming and crypto investment come together. With Bitcoin (BTC) reaching $48,000 in the Year of the Dragon and Cardano (ADA) showing potential for growth, DeeStream&#8217;s presale at $0.035 per DST token is gaining popularity. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/online-videos-are-big-business-but-combined-with-crypto-deestream-dst-presale/\">Online videos are big business, but combined with crypto: DeeStream (DST) presale takes huge investment from Bitcoin (BTC) &amp; Cardano (ADA) holders</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-12T07:16:16.000Z",
+    "title": "Bitcoin declines following crypto’s ominous sidelining during Super Bowl LVIII",
+    "url": "https://crypto.news/bitcoin-declines-following-cryptos-ominous-sidelining-during-super-bowl-lviii/",
+    "description": "Bitcoin (BTC) has slightly declined after the annual league championship game of the National Football League, known as the Super Bowl features no crypto ads. BTC is down by 0.7% in the past 24 hours and is trading at the&#8230;"
   }
 ]

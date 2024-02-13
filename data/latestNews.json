@@ -1,100 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-13T16:56:24.000Z",
-    "title": "Chainalysis, Fireblocks, Gauntlet Make Forbes' Fintech List",
-    "url": "https://www.coindesk.com/business/2024/02/13/chainalysis-fireblocks-gauntlet-make-forbes-fintech-list/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The three crypto companies have together raised a total of $2 billion."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-13T16:57:47.000Z",
-    "title": "You Can Now Earn Crypto by Playing Solana Game 'Aurory' on Epic Games Store",
-    "url": "https://decrypt.co/217217/you-can-now-earn-crypto-by-playing-solana-game-aurory-on-epic-games-store",
-    "description": "Aurory’s Seekers of Tokane game is now open to the public on the Epic Games Store, but only for a limited time."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-13T16:40:38.000Z",
-    "title": "Bitcoin Back Below $50,000 After Inflation Data Spooks Investors",
-    "url": "https://decrypt.co/217212/bitcoin-below-50000-inflation-data-spooks-investors",
-    "description": "The higher-than-expected inflation in January dashes hopes that the Federal Reserve will lower interest rates any time soon."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-13T16:58:58.000Z",
-    "title": " Blockchain Association calls out Elizabeth Warren’s legislation on digital assets ",
-    "url": "https://cointelegraph.com/news/blockchain-association-elizabeth-warren-crypto-bill",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNjY2NDQzMmItYTc3Zi00YmI3LWFjOGQtNjY3OGEyYThkM2VhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Eighty individuals signed onto a Blockchain Association letter to U.S. lawmakers saying digital assets were “pivotal” to the country’s strategic advantage.</p>\n                    <p><p>Former officials with the United States government and military have warned lawmakers against supporting an Anti-Money Laundering bill proposed by Massachusetts Senator Elizabeth Warren, citing national security concerns.</p><p>In a Feb. 13 letter, 80 individuals — many of whom had been involved with the U.S. military or government — <a href=\"https://theblockchainassociation.org/wp-content/uploads/2024/02/NatSecLettertoCongress_2_13_24-1.pd\" target=\"_blank\" rel=\"noopener nofollow\">signed</a> their names with the Blockchain Association’s (BA’s) opposition to Senator Warren’s Digital Asset Anti-Money Laundering Act (DAAMLA). According to the letter, the legislation hindered law enforcement and presented national security concerns by “driving the majority of the digital asset industry overseas.”</p><p>“This shift could also lead to increased liquidity in unregulated offshore exchanges and a loss of valuable expertise and visibility for the U.S. in the blockchain realm,” said the letter. “Further, this legislation, if implemented, will have no meaningful effect on the foreign illicit actors it targets.”</p><p><a href=\"https://cointelegraph.com/news/blockchain-association-elizabeth-warren-crypto-bill\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-13T17:21:38.000Z",
+    "title": " How much longer can indebted Americans keep buying crypto? ",
+    "url": "https://cointelegraph.com/news/america-debt-burden-throws-sunny-economic-forecasts-into-question",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZmIwMTk2MDAtNzdhYy00YjEyLTkxOWUtZGY0MWZhZmQ1YjRjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Debt is on the rise — both among consumers and for the government — as well as delinquencies. How much money do you really have to keep buying crypto?</p>\n                    <p><p>Despite many seemingly positive reports about retail spending or the unemployment rate in the United States, the nation continues to battle several structural challenges that have only grown more severe, with a historic $34 trillion in public debt and a similar high of $1.13 trillion in consumer credit card debt. Alexander Hamilton is famous for remarking that the \"national debt, if it is not excessive, will be to us a national blessing,\" but the scale of current debt raises questions about the sustainability of fiscal policies and their long-term economic impact.</p><p>Concerns about the public debt used to be more of a fringe topic that conservatives and libertarians argued about. However, recent remarks by leading figures in the banking sector underscore the gravity of the situation. JPMorgan Chase CEO Jamie Dimon's warning of a global market \"rebellion,\" Bank of America CEO Brian Moynihan's call for decisive action, “The Black Swan” author Nassim Taleb's \"death spiral\" prognosis, and former House Speaker Paul Ryan's description of the debt crisis as \"the most predictable crisis we’ve ever had\" highlight the urgent need for a reassessment of the United States' fiscal trajectory.</p><p>The public's growing anxiety over government debt, with 57% of Americans surveyed by the Pew Research Center advocating for its reduction, reflects a shift in societal priorities towards fiscal responsibility. This concern gains further significance in light of its real-world implications, notably on housing affordability and the broader economic landscape. The precarious state of the housing market, exacerbated by rising interest rates, epitomizes the link between fiscal policy and individual economic prospects: as public debt grows, so too do interest rates.</p><p><a href=\"https://cointelegraph.com/news/america-debt-burden-throws-sunny-economic-forecasts-into-question\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-02-13T17:25:02.000Z",
+    "title": "Crypto Market Sheds $60 Billion as Inflation Data Deals Blow to Fed Rate Cut Hopes",
+    "url": "https://www.cryptoglobe.com/latest/2024/02/crypto-market-sheds-60-billion-as-inflation-data-deals-blow-to-fed-rate-cut-hopes/",
+    "description": "The cryptocurrency market has seen its total market capitalization drop by more than $60 billion shortly after hotter-than-expected inflation data in the United States poured cold water on hopes the Federal Reserve would cut interest rates in March. The core consumer price index (CPI) in the U.S., which leaves out food and energy prices, rose […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-13T17:07:12.000Z",
-    "title": "3 Key Altcoins That Can Help You Transform $100 into $5,000",
-    "url": "https://cryptodaily.co.uk/2024/02/3-key-altcoins-that-can-help-you-transform-100-into-5000",
-    "description": "Turn $100 into $5,000 with these three game-changing altcoins! Discover how they could be your golden ticket in the booming crypto world. Don't miss out on this explosive opportunity to multiply your investment as these tokens are set to skyrocket in the ever-dynamic cryptocurrency market."
+    "date": "2024-02-13T17:37:54.000Z",
+    "title": "Borrowing Innovation Kelexo (KLXO) secures huge Bitcoin (BTC) & Ethereum (ETH) investment in just weeks",
+    "url": "https://cryptodaily.co.uk/2024/02/borrowing-innovation-kelexo-klxo-secures-huge-bitcoin-btc-ethereum-eth-investment-in-just-weeks",
+    "description": "Bitcoin (BTC) and Ethereum (ETH) are the main drivers of the crypto market as the first and second-largest cryptocurrencies by market capitalization."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-13T17:26:49.000Z",
+    "title": "Tipped to be the loan empire in crypto: Kelexo (KLXO) presale gains huge BNB (BNB) & Bitcoin (BTC) investment as 20x seen as very possible",
+    "url": "https://cryptodaily.co.uk/2024/02/tipped-to-be-the-loan-empire-in-crypto-kelexo-klxo-presale-gains-huge-bnb-bnb-bitcoin-btc-investment-as-20x-seen-as-very-possible",
+    "description": "Decentralized lending protocols are going to play a major role in DeFi’s renaissance in 2024, especially when it comes to the multibillion-dollar lending sector"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T17:01:28.000Z",
-    "title": "ERC-404 token standard sparks debate among Ethereum enthusiasts",
-    "url": "https://www.cryptopolitan.com/erc-404-token-standard-sparks-debate/",
-    "description": "The blockchain community finds itself divided over the introduction of the ERC-404 token standard, with opinions ranging from excitement to skepticism. This novel standard, which blends aspects of ERC-20 and ERC-721 protocols, has stirred both praise and criticism among industry experts. ERC-404 revolutionizes tokenization ERC-404, conceived by pseudonymous developers behind the Pandora project, merges the [&#8230;]"
+    "date": "2024-02-13T17:38:46.000Z",
+    "title": "NOWNodes releases integration guide for Shibarium-based tokens",
+    "url": "https://www.cryptopolitan.com/nownodes-releases-integration-guide/",
+    "description": "NOWNodes, a leading provider of blockchain nodes, has unveiled an integration guide tailored for tokens built on Shibarium, the blockchain network associated with Shiba Inu. This initiative comes amidst a surge in confirmed Shibarium integrations and the emergence of numerous promising tokens within the ecosystem. Shibarium-based tokens, according to the guide, share similarities with traditional [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T17:00:00.000Z",
-    "title": "Altcoin Season 2024: Here Are 4 Altcoins With Huge Gaining Potential For The Year",
-    "url": "https://www.cryptopolitan.com/altcoin-season-2024-here-are-4-altcoins-with-huge-gaining-potential-for-the-year/",
-    "description": "TLDR&#160; Rebel Satoshi has surfaced as the best ICO in the crypto space, showcasing impressive presale results. Similarly, investors are looking into Sei, Render, and Dymension because of their promising start to 2024. Let&#8217;s examine the recent updates regarding $RBLZ, SEI, RNDR, and DYM to determine the best coins to invest in! Sei Price Prediction: [&#8230;]"
+    "date": "2024-02-13T17:30:33.000Z",
+    "title": "Ledger and Coinbase collaborate to simplify crypto purchases and transfers",
+    "url": "https://www.cryptopolitan.com/ledger-and-coinbase-collaborate-to-simplify/",
+    "description": "Hardware wallet provider Ledger and leading cryptocurrency exchange Coinbase have joined forces to streamline the process of purchasing and transferring digital assets. This collaboration aims to enhance user experience and bolster security by allowing direct transfers of purchased crypto to Ledger devices. Integration of Coinbase pay into ledger live The collaboration entails the integration of [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T16:58:18.000Z",
-    "title": "Bitcoin ETFs break records, dwarfing miner output in institutional rush",
-    "url": "https://www.cryptopolitan.com/bitcoin-etfs-break-records-dwarfing-miner/",
-    "description": "In recent trading days, spot Bitcoin exchange-traded funds (ETFs) have demonstrated a remarkable surge in inflows, overshadowing the production of Bitcoin by miners by over tenfold. This unprecedented trend highlights the increasing demand for Bitcoin among institutional investors and underscores the evolving dynamics within the cryptocurrency market. ETF inflows dwarf miner production Preliminary data indicates [&#8230;]"
+    "date": "2024-02-13T17:24:45.000Z",
+    "title": "BlockDAG’s presale sets the stage for massive returns",
+    "url": "https://www.cryptopolitan.com/blockdags-presale-sets-the-stage/",
+    "description": "BlockDAG, a rising star in the crypto landscape, has unveiled its groundbreaking presale, promising investors unparalleled opportunities for profit. Unlike conventional projects, BlockDAG isn&#8217;t just offering presale perks; it&#8217;s revolutionizing the decentralized network by introducing four income streams.&#160; These streams ensure that every participant has a chance to thrive in the crypto race, making BlockDAG [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T16:50:42.000Z",
-    "title": "Microsoft Unveils AI-Powered Features in Windows 11 Version 24H2",
-    "url": "https://www.cryptopolitan.com/microsoft-unveils-ai-powered-features/",
-    "description": "In its latest move to enhance user experience and productivity, Microsoft is gearing up to introduce a host of artificial intelligence (AI)-powered features in the upcoming version 24H2 of Windows 11. From advanced Copilot integration to innovative gaming enhancements, the tech giant is poised to revolutionize the Windows experience for its users. AI-powered Copilot integration [&#8230;]"
+    "date": "2024-02-13T17:20:00.000Z",
+    "title": "Blockchain community divided over ERC-404 token standard: Details",
+    "url": "https://www.cryptopolitan.com/blockchain-division-erc-404-token-standard/",
+    "description": "A new development has stirred significant debate among industry professionals and enthusiasts. The introduction of the ERC-404 token standard, a novel experiment combining the characteristics of ERC-20 tokens and ERC-721 tokens (NFTs), has generated both excitement and skepticism within the blockchain community. Introduction of ERC-404 and DN-404 The ERC-404 token standard was launched on February [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T16:44:47.000Z",
-    "title": "Samsung Unveils Enhanced Galaxy AI Features",
-    "url": "https://www.cryptopolitan.com/samsung-unveils-enhanced-galaxy-ai-features/",
-    "description": "Samsung has made waves in the tech world with its latest announcement regarding integrating select Galaxy AI features for its Galaxy S24 smartphones. This groundbreaking move lets users leverage advanced functionalities such as Live Translate directly through supported Galaxy Buds. Live translate feature revolutionizes communication One of the most significant highlights of this announcement is [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-13T17:04:22.000Z",
-    "title": "Ripple acquires Standard Custody & Trust Co. to broaden US crypto services",
-    "url": "https://crypto.news/ripple-acquires-standard-custody-trust-co-to-broaden-us-crypto-services/",
-    "description": "Ripple plans to buy Standard Custody and Trust Company, a New York-based firm specializing in digital asset services, to boost its regulatory licenses."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-13T17:00:00.000Z",
-    "title": "Polkadot holders accumulating Pushd, Bitcoin to break above $50k",
-    "url": "https://crypto.news/polkadot-holders-accumulating-pushd-bitcoin-to-break-above-50k/",
-    "description": "Polkadot holders are exploring the Pushd presale as analysts maintain that Bitcoin will stay above $50k in the sessions ahead"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-13T16:58:33.000Z",
-    "title": "Experimental Ethereum ERC-404 standard spurs competitor",
-    "url": "https://crypto.news/experimental-ethereum-erc-404-standard-spurs-competitor/",
-    "description": "DN-404 developers aim to solve gas complications inherent in ERC-404 but still regard the effort as a “gimmick” with user demand."
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-13T17:05:00.000Z",
-    "title": "BTC Breaks Above $50K, On-Chain Data Suggests Massive Correction Looming",
-    "url": "https://coinedition.com/btc-massive-sell-off-looms-after-hitting-50k-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/BTC-3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"BTC Massive Sell-Off Looms After Hitting $50K: Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/BTC-3.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/BTC-3-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the last 24 hours, Bitcoin (BTC) hit a significant milestone for the crypto market, reclaiming the $50,000 mark. This return to the $50K level marks the first instance of BTC re-entering the range after losing it in 2021.  Moreover, the surge represents a noteworthy recovery from its recent low point of approximately $38,700 recorded [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btc-massive-sell-off-looms-after-hitting-50k-analyst/\">BTC Breaks Above $50K, On-Chain Data Suggests Massive Correction Looming</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-13T17:17:00.000Z",
+    "title": "Banxa’s U.K. affiliate joins FCA’s crypto register",
+    "url": "https://www.cryptopolitan.com/banxas-u-k-affiliate-joins-fcas-crypto/",
+    "description": "In a groundbreaking move, Banxa&#8217;s U.K. affiliate, Banxa UK VASP, has become the inaugural company to join the Financial Conduct Authority&#8217;s (FCA) crypto register in 2024. This regulatory milestone grants Banxa UK VASP the authority to offer crypto-related services to clients within the United Kingdom. The first company on FCA&#8217;s crypto register in 2024 Banxa [&#8230;]"
   }
 ]

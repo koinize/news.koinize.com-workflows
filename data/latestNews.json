@@ -1,86 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-13T05:58:36.000Z",
-    "title": "Solana Leads Gains in Crypto Majors, Bitcoin Metric Suggests Low Retail Growth",
-    "url": "https://www.coindesk.com/markets/2024/02/13/solana-leads-gains-in-crypto-majors-bitcoin-metric-suggests-low-retail-growth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The CoinDesk 20, a liquid index of the top twenty cryptocurrencies, rose 4% in the past 24 hours."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-02-13T05:44:22.000Z",
-    "title": "Michael Saylor Believes Demand for Bitcoin Products Is 10x the Supply",
-    "url": "https://www.coindesk.com/markets/2024/02/13/michael-saylor-believes-demand-for-bitcoin-products-is-10x-the-supply/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "MicroStrategy co-founder and executive chairman says his company is re-branding as a bitcoin development company during CNBC interview."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-13T05:50:03.000Z",
-    "title": "Gaming Blockchain Oasys Links With Korean Firm, Driving OAS To All-Time High",
-    "url": "https://decrypt.co/217129/gaming-blockchain-oasis-links-with-korean-firm-driving-oas-to-all-time-high",
-    "description": "Action and strategy RPGs \"The Walking Dead: All-Stars\" and \"Summoners War: Chronicles\" will move to the layer-2 chain."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-13T06:05:15.000Z",
-    "title": " Bitcoin ETFs are sucking up 10X more BTC than miners can produce ",
-    "url": "https://cointelegraph.com/news/bitcoin-etfs-scoop-10-x-more-btc-than-mined",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMWYwYmNmYjUtOTY0Yi00Njg2LThjYWItZjY3ZjUyMGVmNTdhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Spot Bitcoin ETF inflows have outpaced the amount of production from miners by over ten times over the past two trading days. </p>\n                    <p><p>Spot Bitcoin exchange-traded funds (ETFs) scooped up ten times more Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) than what miners were able to produce on Monday. </p><p>According to preliminary figures, at least $493.4 million or roughly 10,280 BTC net <a href=\"https://farside.co.uk/?p=997\" target=\"_blank\" rel=\"noopener nofollow\">inflowed</a> into spot Bitcoin ETFs as of Feb. 12. </p><p>BlackRock’s IBIT saw the lion’s share with a huge $374.7 million inflow. Meanwhile, Fidelity’s FBTC fund saw a $151.9 million inflow, and there was $40 million for Ark 21Shares’ ARKB fund. This was slightly offset by Grayscale outflows of $95 million and $20.8 million from Invesco’s BTCO, though net inflow was almost half a billion dollars.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etfs-scoop-10-x-more-btc-than-mined\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-13T06:15:00.000Z",
+    "title": " SafeMoon CEO is out on bail but could lose his lawyers ",
+    "url": "https://cointelegraph.com/news/safemoon-ceo-bail-but-could-lose-lawyers",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYjZhNGRkMWQtNDRmNC00Zjk0LWFhZDItZmMxNmNlOTg5NTE5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>SafeMoon CEO Braden John Karony is out on a $3 million bond but his lawyers want to exit, claiming he hasn’t paid his legal bills.</p>\n                    <p><p>The CEO of bankrupt crypto firm SafeMoon, Braden John Karony, has been released on bail but could be left in the hands of a public defender due to a “lack of funds to pay for private counsel.”</p><p>John Karony has been embroiled in an alleged “multimillion-dollar international fraud scheme,” with the Justice Department charging Karony and his colleagues with securities, wire fraud and money laundering conspiracy in November. </p><p>However, his lawyers — Petrillo Klein + Boxer — have been looking to withdraw as John Karony’s counsel as early as Jan. 22, citing the SafeMoon CEO has an “apparent lack of funds” to pay for private counsel. </p><p><a href=\"https://cointelegraph.com/news/safemoon-ceo-bail-but-could-lose-lawyers\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-13T06:30:10.000Z",
+    "title": "Report: Spot Bitcoin ETFs Lead Crypto Investment Surge With Record Inflows",
+    "url": "https://news.bitcoin.com/report-spot-bitcoin-etfs-lead-crypto-investment-surge-with-record-inflows/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Report: Spot Bitcoin ETFs Lead Crypto Investment Surge With Record Inflows\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btcflows.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a recent turn of events, spot bitcoin exchange-traded funds (ETFs) emerged as the market leaders in the realm of cryptocurrency investment products last week. According to a recent report by Coinshares, these funds attracted $1.1 billion in inflows, marking the highest assets under management (AUM) since the early days of 2022. Coinshares Report Shows [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T05:56:27.000Z",
-    "title": "The trader who turned $88,000 into $800,000 with Solana (SOL) is buying this rival token at $0.11",
-    "url": "https://www.cryptopolitan.com/the-trader-who-turned-88000-into-800000-with-solana-sol-is-buying-this-rival-token-at-0-11/",
-    "description": "Success stories in the dynamic realm of cryptocurrency trading frequently come from individuals who aren&#8217;t afraid to go into uncharted territory and take advantage of new projects&#8217; prospects. One trader, who used Solana (SOL) to turn a $88,000 original investment into an astounding $800,000 in the last bull run, has now turned their attention to [&#8230;]"
+    "date": "2024-02-13T06:37:28.000Z",
+    "title": "Revolutionizing the Workforce: OpenAI-Backed Humanoids Show Remarkable Progress",
+    "url": "https://www.cryptopolitan.com/revolutionizing-openai-backed-humanoids/",
+    "description": "In a significant advancement for the robotics industry, 1X, a Norwegian humanoid robot manufacturer, has made headlines with its latest development in autonomous robotic workers. With a substantial investment from OpenAI, amounting to a $25 million Series A funding round followed by a $100 million Series B, 1X&#8217;s humanoid robots, particularly the Eve model, have [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-13T05:56:12.000Z",
-    "title": "Avalanche (AVAX) Sees Drop In Network Activity; Ex Ripple (XRP) Official Hints About Major Developments; Algotech (ALGT) Raises $1.1 Million In Two Days",
-    "url": "https://www.cryptopolitan.com/avalanche-avax-sees-drop-in-network-activity-ex-ripple-xrp-official-hints-about-major-developments-algotech-algt-raises-1-1-million-in-two-days/",
-    "description": "In the crypto world, timing matters the most. If you invest in a growth-bound project during its early phase, you can get significant returns. One such investment opportunity currently available is Algotech (ALGT). Investors are actively investing in this new project’s ongoing presale. They are confident that it will give them mammoth returns in the [&#8230;]"
+    "date": "2024-02-13T06:12:00.000Z",
+    "title": "Cost-Efficient AI – Nvidia CEO’s Vision for Affordable Innovation",
+    "url": "https://www.cryptopolitan.com/cost-efficient-ai-nvidia-ceo-affordable/",
+    "description": "In a recent revelation at the World Government Summit in Dubai, Nvidia&#8217;s CEO Jensen Huang made a bold proclamation regarding the future of artificial intelligence (AI) development, emphasizing the potential for cost-efficient AI innovations. Contrary to Sam Altman&#8217;s ambitious quest for a $7 trillion investment in AI chips, Huang foresees a different trajectory for the [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-13T05:45:17.000Z",
-    "title": "Bitcoin Price Prediction 2024-2033: Will Bitcoin Bulls Rally?",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
-    "description": "BTC Price Predictions 2024-2033 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $49,948, with a trading volume over the past 24 hours reaching $24 billion. Its market capitalization is $887 billion, and it currently commands 54% of the market share. Over the last 24 hours, the BTC price has experienced [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-13T05:42:33.000Z",
-    "title": "Binance founder CZ’s sentencing date postponed to late April",
-    "url": "https://www.cryptopolitan.com/binance-founder-czs-sentencing-postponed/",
-    "description": "The sentencing for Binance founder, Changpeng Zhao, also known as CZ, has been rescheduled to April 30, as per a notice filed in a Seattle Federal Court on February 12. Originally set for February 23, CZ faces charges related to money laundering and could potentially be sentenced to up to 18 months in prison. Despite [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-13T05:42:00.000Z",
-    "title": "Investors Bet Big on UK AI Chip Designer as Shares Soar",
-    "url": "https://www.cryptopolitan.com/investors-uk-ai-chip-designer-shares-soar/",
-    "description": "In a remarkable turn of events, UK AI chip designer Arm Holdings has emerged as a frontrunner in the semiconductor market, with its stock market value nearly doubling within a span of just a week. The surge in Arm&#8217;s shares comes amidst a fervent bet by investors on the escalating artificial intelligence (AI) boom. As [&#8230;]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-13T05:59:48.000Z",
-    "title": "Litecoin (LTC) Partnerships: Bridging Traditional and Crypto Industries",
-    "url": "https://www.crypto-news-flash.com/litecoin-ltc-partnerships-bridging-traditional-and-crypto-industries/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-ltc-partnerships-bridging-traditional-and-crypto-industries",
-    "description": "<img width=\"2501\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Litecoin-LTC-gold-coin-on-a-black-keyboard\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard.jpg 2501w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-300x144.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1024x491.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-768x368.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1536x737.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-2048x983.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-150x72.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-450x216.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Litecoin-LTC-gold-coin-on-a-black-keyboard-1200x576.jpg 1200w\" sizes=\"(max-width: 2501px) 100vw, 2501px\" />The Litecoin blockchain network continues to boost network relevance through partnerships. Litecoin (LTC) bulls are leading the altcoin rally. The Litecoin Blockchain, like many of its peers, is strengthening its position, along with the entire Litecoin ecosystem with external partnerships. Over the years, blockchain networks have tapped multiple organizations to kickstart a long-term partnership poised [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-13T05:53:12.000Z",
-    "title": "Hedera and EQTY Lab: Revolutionizing Responsible AI for Fortune 100 Giants",
-    "url": "https://www.crypto-news-flash.com/hedera-and-eqty-lab-revolutionizing-responsible-ai-for-fortune-100-giants/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-and-eqty-lab-revolutionizing-responsible-ai-for-fortune-100-giants",
-    "description": "<img width=\"1920\" height=\"1280\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-104x69.jpg 104w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-24x16.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-36x24.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/artificial-intelligence-6921404_1920-48x32.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />EQTY is building—on the Hedera blockchain—a solution for AI companies that allows them to track the characteristics of LLMs and provide transparency on how they are trained and function. Accenture is testing the solution and if found viable, it will be implemented for the consulting giant&#8217;s global clientele, which includes dozens of Fortune 100 companies. [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-13T05:42:53.000Z",
-    "title": "Crypto Analyst Bullish on Solana and SEI: Predicts Rallies to New Heights",
-    "url": "https://www.crypto-news-flash.com/crypto-analyst-bullish-on-solana-and-sei-predicts-rallies-to-new-heights/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-analyst-bullish-on-solana-and-sei-predicts-rallies-to-new-heights",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana vs SUI\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/solana-cover-768x461.jpg 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Crypto analyst Bluntz predicts a significant price surge for Solana (SOL) and Sei (SEI) based on the Elliott Wave theory. Despite a year-to-date price drop, Sei shows strong growth potential with development activities and market cap growth. Notable crypto strategist, known by the pseudonym Bluntz, has made a bullish prediction for Solana (SOL) and Sei [...]"
+    "source": "Coin Edition",
+    "date": "2024-02-13T06:15:09.000Z",
+    "title": "Ethereum (ETH) Price Prediction 2024-2030: Will ETH Price Hit $3,500 Soon?",
+    "url": "https://coinedition.com/ethereum-eth-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum-ETH-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Ethereum-ETH-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>What is Ethereum (ETH)? Ethereum is a decentralized open-source blockchain ecosystem that has its own cryptocurrency Ether.&#160; ETH is a versatile platform that supports numerous other cryptocurrencies, it could be used for the execution of decentralized smart contracts.&#160; Ethereum (ETH) was launched in July 2015 by co-founders Vitalik Buterin, Gavin Wood, Charles Hoskinson, and others. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereum-eth-price-prediction/\">Ethereum (ETH) Price Prediction 2024-2030: Will ETH Price Hit $3,500 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,86 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-14T18:11:03.000Z",
-    "title": "The Protocol: Bitcoin's OP_CAT, Fake Ethereum Tokens, Starknet's Airdrop",
-    "url": "https://www.coindesk.com/tech/2024/02/14/the-protocol-bitcoins-op-cat-fake-ethereum-tokens-starknets-airdrop/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "CoinDesk's Jamie Crawley takes a look at the suddenly-high-profile proposal to revive Bitcoin's historic \"OP_CAT\" function as a way of enabling more development on the oldest blockchain. PLUS: the unofficial \"ERC-404\" tokens driving up fees on Ethereum and highlights from our Protocol Village column over the past week."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-14T18:27:24.000Z",
-    "title": "Bitcoin Ordinals IRL: Superchief Opens Art Gallery in San Francisco",
-    "url": "https://decrypt.co/217495/bitcoin-ordinals-superchief-gallery-san-francisco",
-    "description": "Superchief Gallery is launching its latest outpost in San Francisco, hailed as the world's first gallery dedicated to Bitcoin Ordinals art."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-14T18:16:29.000Z",
-    "title": "Bitcoin ETFs ‘Not in Any Way an Approval of Bitcoin’: SEC Chair Gensler",
-    "url": "https://decrypt.co/217496/bitcoin-etfs-not-in-any-way-an-approval-of-bitcoin-sec-chair-gensler",
-    "description": "SEC Chair Gary Gensler asserted established regulations have removed much of the risk from the stock market."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-14T18:36:36.000Z",
-    "title": " White hat crypto hackers unite to create crime fighting collective ",
-    "url": "https://cointelegraph.com/news/white-hat-crypto-hackers-unite-crime-fighting-collective",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNGFhMTRiMmEtYWViOS00YzU1LWJjYTUtNmVmOWE4YmE1OGYyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Security Alliance was spearheaded by the head of Paradigm security and offers good hackers the chance to work with companies according to preset rules.</p>\n                    <p><p>The crypto community is applauding the launch of Security Alliance, a nonprofit registered in the United States intended to provide support for “white hat” hackers capable of recovering funds from exploiters. The initiative unites a team of blockchain security specialists headed by samczsun, head of security at crypto venture capital firm Paradigm.</p><p>The new organization was made public on Feb. 14. According to its website, Security Alliance has three projects underway. There is a hotline to request help with a security response and a war games component to help prepare developers for security risks. </p><p>The group claimed to have over 50 donors and partners. Among those named were the Ethereum Foundation, Vitalik Buterin, a16zcrypto, Paradigm, Electric Capital and Coinbase. A Bloomberg report <a href=\"https://www.bloomberg.com/news/articles/2024-02-14/paradigm-s-famed-white-hat-hacker-unites-peers-against-crypto-attacks?utm_medium=social&amp;utm_source=twitter&amp;utm_content=crypto&amp;utm_campaign=socialflow-organic\" target=\"_blank\" rel=\"noopener nofollow\">stated</a>  that the group had raised over $1 million, with Buterin alone contributing $500,000. </p><p><a href=\"https://cointelegraph.com/news/white-hat-crypto-hackers-unite-crime-fighting-collective\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-14T18:11:46.000Z",
-    "title": " Pro-crypto candidate wins VP slot in Indonesia’s presidential race ",
-    "url": "https://cointelegraph.com/news/crypto-candidate-indonesia-presidency",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOGYxOTZmZWUtY2Y1OS00MjI0LWJhZmYtMDJlZGNiNmUzNWUwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>An unofficial tally reportedly showed Prabowo Subianto and Gibran Rakabuming Raka winning Indonesia’s presidential ticket with roughly 58% of the vote.</p>\n                    <p><p>Gibran Rakabuming Raka, the vice presidential candidate running on the ticket with presidential candidate Prabowo Subianto, has reportedly won the race in Indonesia’s election.</p><p>According to a Feb. 14 Reuters report, an unofficial tally of votes <a href=\"https://www.reuters.com/world/asia-pacific/indonesia-votes-new-president-under-shadow-influential-incumbent-2024-02-13/\" target=\"_blank\" rel=\"noopener nofollow\">showed</a> Prabowo and Gibran winning Indonesia’s presidency with roughly 58% of the vote. Gibran, the mayor of Surakarta, reportedly said in December 2023 that his political party <a href=\"https://cointelegraph.com/news/indonesia-elections-vice-presidential-candidate-crypto-blockchain-report\">planned to focus on providing</a> Indonesia’s younger population with opportunities in the crypto and blockchain space. </p><p>“We are grateful for the quick count results. All the calculation, all pollsters including those on our rivals’ side, the figures showed a Prabowo-Gibran win in one round,” said Prabowo. “We will assemble a government consisting of the best sons and daughters of Indonesia.”</p><p><a href=\"https://cointelegraph.com/news/crypto-candidate-indonesia-presidency\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-02-14T18:25:15.000Z",
-    "title": "Curve Finance devs warn of fake app on Apple App Store",
-    "url": "https://cryptobriefing.com/curve-finance-devs-warn-fake-app-apple-app-store/?utm_source=feed&utm_medium=rss",
-    "description": "Copying Curve Finance's branding and posing as the decentralized finance protocol, it's possible that the app is a wallet-draining scam."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-02-14T18:19:06.000Z",
-    "title": "Aptos now lets users sign transactions with passkeys",
-    "url": "https://cryptobriefing.com/aptos-lets-users-sign-transactions-passkeys/?utm_source=feed&utm_medium=rss",
-    "description": "Aptos introduces passkeys - a secure, hassle-free authentication method that aims to simplify Web3 interactions."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-14T18:10:49.000Z",
-    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
-    "url": "https://cryptodaily.co.uk/2024/02/after-crossing-100000-active-users-hypelootcom-announces-the-launch-of-its-utility-token-hplt",
-    "description": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT"
+    "source": "CryptoSlate",
+    "date": "2024-02-14T18:55:36.000Z",
+    "title": "CNBC host Joe Kernen defends Bitcoin after Gensler claims its ‘not that decentralized’",
+    "url": "https://cryptoslate.com/cnbc-host-joe-kernen-defends-bitcoin-after-gensler-claims-its-not-that-decentralized/",
+    "description": "<p>News anchor Joe Kernen defended Bitcoin in a spirited exchange with SEC Chair Gary Gensler during an interview on CNBC&#8217;s &#8220;Squawk Box&#8221; on Feb. 14 after the regulator questioned the flagship crypto&#8217;s decentralized nature. The conversation, which veered into a wide-ranging discussion about crypto, investor protection, and the recent approval of spot Bitcoin ETFs, highlighted [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/cnbc-host-joe-kernen-defends-bitcoin-after-gensler-claims-its-not-that-decentralized/\">CNBC host Joe Kernen defends Bitcoin after Gensler claims its &#8216;not that decentralized&#8217;</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-14T18:10:58.000Z",
-    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
-    "url": "https://www.cryptopolitan.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/",
-    "description": "Nicosia, Cyprus, February 14th, 2024, Chainwire Hypeloot is proud to announce that it has processed over 50 million bets for over 100,000 Users worldwide, since it&#8217;s established in 2022. Being one of the fastest growing Cryptocurrency casinos, Hypeloot releases new game modes almost every week and has experienced a recent surge in growth which is likely [&#8230;]"
+    "date": "2024-02-14T18:44:00.000Z",
+    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
+    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
+    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-14T18:38:57.000Z",
-    "title": "Shiba Inu-backed devs launch first defi bridge linking 3 major blockchains",
-    "url": "https://crypto.news/blockchain-defi-bridge-arbitrum-ethereum-shibarium/",
-    "description": "The team behind the Shiba Inu-powered token Sharbi announced a new bridge to ferry liquidity and cryptocurrencies between Shibarium and major blockchains."
+    "date": "2024-02-14T19:00:47.000Z",
+    "title": "Jerome Powell urges for stablecoin regulatory framework",
+    "url": "https://crypto.news/jerome-powell-stablecoin-regulatory-framework/",
+    "description": "Federal Reserve Chairman Jerome Powell addressed House Democrats regarding the necessity of a legislative framework for stablecoins."
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-14T18:10:54.000Z",
-    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
-    "url": "https://coinedition.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Nicosia, Cyprus, February 14th, 2024, Chainwire Hypeloot is proud to announce that it has processed over 50 million bets for over 100,000 Users worldwide, since it&#8217;s established in 2022. Being one of the fastest growing Cryptocurrency casinos, Hypeloot releases new game modes almost every week and has experienced a recent surge in growth which is likely [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/\">After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-02-14T19:00:51.000Z",
+    "title": "Robinhood Cash Surge: Sees $4 Billion Monthly Inflow From Users",
+    "url": "https://www.newsbtc.com/robinhood/robinhood-cash-surge-sees-4-billion-monthly-inflow-from-users/",
+    "description": "Robinhood, a significant player in the United States financial technology sector, has recorded major growth. The platform has seen a notable rise in monthly user inflow. Robinhood Monthly Deposits Surges To New Height A correspondent at CNBC, Kate Rooney, recently shared the development with the crypto community on the X (formerly Twitter) platform. The CNBC reporter said Robinhood recorded increased profits in its most recent quarterly results. Rooney pointed out that the platform is making some headway in its attempt to overtake established &#8220;brokerage companies&#8221; for market dominance. Additionally, Robinhood aims to expand beyond its &#8220;original base of inexperienced and younger traders&#8221; in the crypto market. Related Reading: Robinhood (HOOD) Extends Trading Services To The UK She further highlighted that over $100 billion of the firm&#8217;s assets are currently &#8220;under custody.&#8221; In addition, a &#8220;net positive transfer from every major brokerage competitor&#8221; drove the Q4 deposits to approximately $4.6 billion. Consequently, this suggests its increasing popularity among investors looking to include digital assets in their portfolios for diversification. It also indicates the growing confidence and inclination toward the trading firm among crypto investors.  The CNBC correspondent asserted that the numbers above consist of an &#8220;average customer transfer balance&#8221; of $100,000. As per Rooney&#8217;s X post, Robinhood saw a substantial rise in monthly deposits valued at $4 billion in January. So far, the recent uptick signifies the online trading platform&#8217;s strongest month since early 2021. During the same quarter last year, the trading platform lost $166 million, or $0.19 per share. However, this year, it made a profit of $30 million, or $0.3 per share. As was revealed, Robinhood&#8217;s income rose due to increased net interest and transaction-based and other revenue streams. Over the three months, its net interest income grew by 4% to $236 million. Taking Over The Active Trader Market Vlad Tenev, Robinhood&#8217;s Chief Executive Officer (CEO), has revealed Robinhood&#8217;s intentions to take over the active trader market. Tenev recently disclosed this objective during a quarterly earnings call. Related Reading: Altcoins Market Share Versus Bitcoin At A 4 Month High: What’s The Trigger? He stated that the firm&#8217;s user base and revenue have grown &#8220;nearly seven times&#8221; in the past four years. &#8220;looking at what is in front of us, we are excited by the opportunity to continue growing significantly from here,&#8221; he added. Robinhood has gained market share and attracted net asset inflows from its major rivals. According to Tenev, the company will continuously invest in its &#8220;user experience on mobile&#8221; to achieve its goal. Currently, the crypto enterprise stands out as the dominant player in market share. Tenev has confirmed the addition of futures and index options to the platform in the coming months of this year. Featured image from Shutterstock, chart from Tradingview.com"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-02-14T18:18:17.000Z",
-    "title": "Morpher Introduces AI-Driven Market Insights for Effortless Trading",
-    "url": "https://dailyhodl.com/2024/02/14/morpher-introduces-ai-driven-market-insights-for-effortless-trading/",
-    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>In 2018, Morpher embarked on a journey to democratize the traditional world of finance, creating a trading platform that will break down financial barriers and make global financial markets accessible to everyone. Once again, Morpher is at the forefront of industry innovation – the company has introduced Morpher AI, a feature that will allow users [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/morpher-introduces-ai-driven-market-insights-for-effortless-trading/\">Morpher Introduces AI-Driven Market Insights for Effortless Trading</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-02-14T19:05:51.000Z",
+    "title": "BlackRock Accumulates $518,000,000 in Bitcoin in One Day As BTC Tags $52,000: On-Chain Analysis",
+    "url": "https://dailyhodl.com/2024/02/14/blackrock-accumulates-518000000-in-bitcoin-in-one-day-as-btc-tags-52000-on-chain-analysis/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/10/Bullish-Turnaround-for-Bitcoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Financial titan BlackRock just accumulated an additional $518 million in Bitcoin (BTC) as the crypto king moves higher. On Wednesday, BlackRock added 10,003 BTC into its new iShares Bitcoin Trust (IBIT), a spot exchange-traded fund (ETF), according to the on-chain analytics tracker Lookonchain. That brings BlackRock&#8217;s total holdings to 105,280 BTC. &#8220;iShares(BlackRock) added 10,003 BTC ($518M) [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/blackrock-accumulates-518000000-in-bitcoin-in-one-day-as-btc-tags-52000-on-chain-analysis/\">BlackRock Accumulates $518,000,000 in Bitcoin in One Day As BTC Tags $52,000: On-Chain Analysis</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

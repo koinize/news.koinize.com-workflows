@@ -1,58 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-14T17:54:23.000Z",
-    "title": "Craig Wright Cross Examination Ends as COPA Trial Closes for Day",
-    "url": "https://www.coindesk.com/policy/2024/02/14/craig-wright-cross-examination-ends-as-copa-trial-closes-for-day/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Wright who has been battling it out against COPA counsel in a trial for the past couple of days is trying to prove he is Satoshi Nakamoto."
+    "date": "2024-02-14T18:11:03.000Z",
+    "title": "The Protocol: Bitcoin's OP_CAT, Fake Ethereum Tokens, Starknet's Airdrop",
+    "url": "https://www.coindesk.com/tech/2024/02/14/the-protocol-bitcoins-op-cat-fake-ethereum-tokens-starknets-airdrop/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "CoinDesk's Jamie Crawley takes a look at the suddenly-high-profile proposal to revive Bitcoin's historic \"OP_CAT\" function as a way of enabling more development on the oldest blockchain. PLUS: the unofficial \"ERC-404\" tokens driving up fees on Ethereum and highlights from our Protocol Village column over the past week."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-14T18:27:24.000Z",
+    "title": "Bitcoin Ordinals IRL: Superchief Opens Art Gallery in San Francisco",
+    "url": "https://decrypt.co/217495/bitcoin-ordinals-superchief-gallery-san-francisco",
+    "description": "Superchief Gallery is launching its latest outpost in San Francisco, hailed as the world's first gallery dedicated to Bitcoin Ordinals art."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-14T18:16:29.000Z",
+    "title": "Bitcoin ETFs ‘Not in Any Way an Approval of Bitcoin’: SEC Chair Gensler",
+    "url": "https://decrypt.co/217496/bitcoin-etfs-not-in-any-way-an-approval-of-bitcoin-sec-chair-gensler",
+    "description": "SEC Chair Gary Gensler asserted established regulations have removed much of the risk from the stock market."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-14T18:36:36.000Z",
+    "title": " White hat crypto hackers unite to create crime fighting collective ",
+    "url": "https://cointelegraph.com/news/white-hat-crypto-hackers-unite-crime-fighting-collective",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNGFhMTRiMmEtYWViOS00YzU1LWJjYTUtNmVmOWE4YmE1OGYyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Security Alliance was spearheaded by the head of Paradigm security and offers good hackers the chance to work with companies according to preset rules.</p>\n                    <p><p>The crypto community is applauding the launch of Security Alliance, a nonprofit registered in the United States intended to provide support for “white hat” hackers capable of recovering funds from exploiters. The initiative unites a team of blockchain security specialists headed by samczsun, head of security at crypto venture capital firm Paradigm.</p><p>The new organization was made public on Feb. 14. According to its website, Security Alliance has three projects underway. There is a hotline to request help with a security response and a war games component to help prepare developers for security risks. </p><p>The group claimed to have over 50 donors and partners. Among those named were the Ethereum Foundation, Vitalik Buterin, a16zcrypto, Paradigm, Electric Capital and Coinbase. A Bloomberg report <a href=\"https://www.bloomberg.com/news/articles/2024-02-14/paradigm-s-famed-white-hat-hacker-unites-peers-against-crypto-attacks?utm_medium=social&amp;utm_source=twitter&amp;utm_content=crypto&amp;utm_campaign=socialflow-organic\" target=\"_blank\" rel=\"noopener nofollow\">stated</a>  that the group had raised over $1 million, with Buterin alone contributing $500,000. </p><p><a href=\"https://cointelegraph.com/news/white-hat-crypto-hackers-unite-crime-fighting-collective\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-14T18:11:46.000Z",
+    "title": " Pro-crypto candidate wins VP slot in Indonesia’s presidential race ",
+    "url": "https://cointelegraph.com/news/crypto-candidate-indonesia-presidency",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOGYxOTZmZWUtY2Y1OS00MjI0LWJhZmYtMDJlZGNiNmUzNWUwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>An unofficial tally reportedly showed Prabowo Subianto and Gibran Rakabuming Raka winning Indonesia’s presidential ticket with roughly 58% of the vote.</p>\n                    <p><p>Gibran Rakabuming Raka, the vice presidential candidate running on the ticket with presidential candidate Prabowo Subianto, has reportedly won the race in Indonesia’s election.</p><p>According to a Feb. 14 Reuters report, an unofficial tally of votes <a href=\"https://www.reuters.com/world/asia-pacific/indonesia-votes-new-president-under-shadow-influential-incumbent-2024-02-13/\" target=\"_blank\" rel=\"noopener nofollow\">showed</a> Prabowo and Gibran winning Indonesia’s presidency with roughly 58% of the vote. Gibran, the mayor of Surakarta, reportedly said in December 2023 that his political party <a href=\"https://cointelegraph.com/news/indonesia-elections-vice-presidential-candidate-crypto-blockchain-report\">planned to focus on providing</a> Indonesia’s younger population with opportunities in the crypto and blockchain space. </p><p>“We are grateful for the quick count results. All the calculation, all pollsters including those on our rivals’ side, the figures showed a Prabowo-Gibran win in one round,” said Prabowo. “We will assemble a government consisting of the best sons and daughters of Indonesia.”</p><p><a href=\"https://cointelegraph.com/news/crypto-candidate-indonesia-presidency\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-14T18:25:15.000Z",
+    "title": "Curve Finance devs warn of fake app on Apple App Store",
+    "url": "https://cryptobriefing.com/curve-finance-devs-warn-fake-app-apple-app-store/?utm_source=feed&utm_medium=rss",
+    "description": "Copying Curve Finance's branding and posing as the decentralized finance protocol, it's possible that the app is a wallet-draining scam."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-14T18:19:06.000Z",
+    "title": "Aptos now lets users sign transactions with passkeys",
+    "url": "https://cryptobriefing.com/aptos-lets-users-sign-transactions-passkeys/?utm_source=feed&utm_medium=rss",
+    "description": "Aptos introduces passkeys - a secure, hassle-free authentication method that aims to simplify Web3 interactions."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-14T18:10:49.000Z",
+    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
+    "url": "https://cryptodaily.co.uk/2024/02/after-crossing-100000-active-users-hypelootcom-announces-the-launch-of-its-utility-token-hplt",
+    "description": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-14T17:55:27.000Z",
-    "title": "HBAR Price Prediction 2024-2033: Hedera Hashgraph Soon to Retest its ATH?",
-    "url": "https://www.cryptopolitan.com/hbar-price-prediction/",
-    "description": "HBAR Price Prediction 2024-2033 Hedera Hashgraph (HBAR) cryptocurrency is one of the altcoins that enjoyed a bullish trend from the beginning of 2021 to the end of March 2022. As a result, many crypto traders have taken an interest in the digital coin since its blockchain technology shows many prospects of becoming a force to [&#8230;]"
+    "date": "2024-02-14T18:10:58.000Z",
+    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
+    "url": "https://www.cryptopolitan.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/",
+    "description": "Nicosia, Cyprus, February 14th, 2024, Chainwire Hypeloot is proud to announce that it has processed over 50 million bets for over 100,000 Users worldwide, since it&#8217;s established in 2022. Being one of the fastest growing Cryptocurrency casinos, Hypeloot releases new game modes almost every week and has experienced a recent surge in growth which is likely [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-14T18:02:33.000Z",
-    "title": "Citigroup succeeds in blockchain equity tokenization trial",
-    "url": "https://crypto.news/citigroup-succeeds-in-blockchain-equity-tokenization-trial/",
-    "description": "Citigroup has successfully completed a trial testing the potential for tokenizing a private equity fund using blockchain."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-14T18:00:00.000Z",
-    "title": "Kelexo presale draws Solana and BNB holders",
-    "url": "https://crypto.news/kelexo-presale-draws-solana-and-bnb-holders/",
-    "description": "Solana (SOL) and Binance Coin (BNB) appear to be gravitating towards Kelexo. The KLXO presale is ongoing"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-14T17:41:46.000Z",
-    "title": "Taurus, Lido partner to allow stETH client access",
-    "url": "https://crypto.news/taurus-lido-partner-staked-ethereum/",
-    "description": "Swiss-based crypto custody firm Taurus and Lido, a company specializing in staked Ethereum, collaborate to allow customers to earn income from holding and staking ETH."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-14T18:08:59.000Z",
-    "title": "XRP Price Eyes $0.56 Target Amidst Optimism Over SEC v. Ripple Lawsuit Settlement",
-    "url": "https://www.crypto-news-flash.com/xrp-price-eyes-0-56-target-amidst-optimism-over-sec-v-ripple-lawsuit-settlement/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-price-eyes-0-56-target-amidst-optimism-over-sec-v-ripple-lawsuit-settlement",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-12.53.02-Visualize-an-artistic-representation-of-Ripples-XRP-Army-Badge-NFTs-as-a-symbol-of-gratitude-from-Uphold-to-its-enthusiastic-supporters.-The-image-fe-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Amidst speculation that Ripple Labs could go into a settlement with the U.S. SEC, XRP investors are eyeing the $0.56 price target. Legal experts have suggested that a settlement under $20 million could be viewed as a win for Ripple and could see the SEC save face. XRP investors are hugely bullish about the coming [...]"
+    "date": "2024-02-14T18:38:57.000Z",
+    "title": "Shiba Inu-backed devs launch first defi bridge linking 3 major blockchains",
+    "url": "https://crypto.news/blockchain-defi-bridge-arbitrum-ethereum-shibarium/",
+    "description": "The team behind the Shiba Inu-powered token Sharbi announced a new bridge to ferry liquidity and cryptocurrencies between Shibarium and major blockchains."
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-14T17:46:00.000Z",
-    "title": "Did Ripple Make Progress in Settlement with the SEC? Experts Explain!",
-    "url": "https://coinedition.com/did-ripple-make-progress-in-settlement-with-the-sec-experts-explain/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Legal Experts Reject Settlement Rumors in Ripple Case\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Ripple-Opposed-Letter-Motion-in-SEC-Lawsuit-XRP-Market-Positive-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The lawsuit between Ripple and the SEC, which has been contentious since December 2020, has yet to see a definitive outcome. However, recent speculation has sparked debates within the crypto community. In a recent development, the possibility of Ripple settling soon was rejected by legal experts. Legal professionals decisively dismissed community participants evaluating the settlement [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/did-ripple-make-progress-in-settlement-with-the-sec-experts-explain/\">Did Ripple Make Progress in Settlement with the SEC? Experts Explain!</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-14T18:10:54.000Z",
+    "title": "After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT",
+    "url": "https://coinedition.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/02/9afcfb_4da83f28a8144ece91cff79d455ed5b9mv2_1707869718CjG2tp1FLs-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Nicosia, Cyprus, February 14th, 2024, Chainwire Hypeloot is proud to announce that it has processed over 50 million bets for over 100,000 Users worldwide, since it&#8217;s established in 2022. Being one of the fastest growing Cryptocurrency casinos, Hypeloot releases new game modes almost every week and has experienced a recent surge in growth which is likely [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/after-crossing-100000-active-users-hypeloot-com-announces-the-launch-of-its-utility-token-hplt/\">After Crossing 100,000 Active Users, Hypeloot.com Announces The Launch of Its Utility Token $HPLT</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-02-14T17:55:46.000Z",
-    "title": "$1,600,000,000,000 Asset Manager Submits Application for Spot Market Ethereum Exchange-Traded Fund (ETF)",
-    "url": "https://dailyhodl.com/2024/02/14/1600000000000-asset-manager-submits-application-for-spot-market-ethereum-exchange-traded-fund-etf/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/02/manager-spot-exchange-eth.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Global investment giant Franklin Templeton has submitted an application to the U.S. Securities and Exchange Commission (SEC) for a spot market Ethereum (ETH) exchange-traded fund (ETF). The investment firm, which currently reports $1.6 trillion in assets under management (AUM), was one of 11 applicants who received approval from the SEC last month to launch a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/1600000000000-asset-manager-submits-application-for-spot-market-ethereum-exchange-traded-fund-etf/\">$1,600,000,000,000 Asset Manager Submits Application for Spot Market Ethereum Exchange-Traded Fund (ETF)</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-02-14T18:18:17.000Z",
+    "title": "Morpher Introduces AI-Driven Market Insights for Effortless Trading",
+    "url": "https://dailyhodl.com/2024/02/14/morpher-introduces-ai-driven-market-insights-for-effortless-trading/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Morpher-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>In 2018, Morpher embarked on a journey to democratize the traditional world of finance, creating a trading platform that will break down financial barriers and make global financial markets accessible to everyone. Once again, Morpher is at the forefront of industry innovation – the company has introduced Morpher AI, a feature that will allow users [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/morpher-introduces-ai-driven-market-insights-for-effortless-trading/\">Morpher Introduces AI-Driven Market Insights for Effortless Trading</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,79 +1,37 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-14T20:56:34.000Z",
-    "title": "U.S. Treasury Backs Down Narrative That Hamas Relied on Crypto to Fund Terrorism",
-    "url": "https://www.coindesk.com/policy/2024/02/14/us-treasury-backs-down-narrative-that-hamas-relied-on-crypto-to-fund-terrorism/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Just after Hamas' terrorist attacks in Israel last year, crypto took blame for helping fund such brutal killing. While the prominent media reports were later bashed by cryptocurrency experts, the U.S. Department of the Treasury's top official on terrorism financing confirmed to lawmakers on Wednesday the situation was blown out of proportion."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-14T20:40:38.000Z",
-    "title": " Joe Biden’s pick for OECD ambassador could give up Coinbase advisory council: Report ",
-    "url": "https://cointelegraph.com/news/oecd-ambassador-coinbase-advisory-council",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMzgyNmEyZDYtYTRjYy00Mzc0LTgzODUtMTcyNDIxOWJiZTczLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Former Representative Sean Patrick Maloney reportedly sent a letter to Senator Elizabeth Warren claiming he would recuse himself from crypto-related policy decisions at the OECD.</p>\n                    <p><p>Sean Patrick Maloney, a former United States House of Representatives member, reportedly plans to stop working on crypto-related issues if confirmed as a U.S. representative to the Organization for Economic Cooperation and Development (OECD).</p><p>According to a Feb. 14 Politico report, Maloney <a href=\"https://www.politico.com/news/2024/02/14/elizabeth-warren-wins-crypto-recusals-from-biden-nominee-00141390\" target=\"_blank\" rel=\"noopener nofollow\">sent</a> a letter to Massachusetts Senator Elizabeth Warren on Feb. 9 pledging to resign from private-sector advisory work and recuse himself from decisions impacting crypto policy at the OECD if confirmed. U.S. President Joe Biden <a href=\"https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/12/president-biden-announces-key-nominees-46/\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> Maloney was his pick to be an OECD ambassador in May 2023.</p><p>Maloney, who previously represented New York’s 18th congressional district in the House, <a href=\"https://cointelegraph.com/news/coinbase-establishes-advisory-council-with-former-us-lawmakers\">joined Coinbase’s Global Advisory Council</a> roughly the same time as President Biden’s announcement. In December 2023, Senator Warren c<a href=\"https://cointelegraph.com/news/warren-crypto-industry-washington-insiders\">alled out crypto advocacy groups</a> like the Coinbase council for its “revolving door” policy of onboarding former government officials, including Maloney. </p><p><a href=\"https://cointelegraph.com/news/oecd-ambassador-coinbase-advisory-council\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-14T20:53:36.000Z",
-    "title": "Genesis secures court approval to sell GBTC shares worth $1.3 billion",
-    "url": "https://cryptoslate.com/genesis-secures-court-approval-to-sell-gbtc-shares-worth-1-3-billion/",
-    "description": "<p>Genesis Global has secured approval from a bankruptcy court to sell approximately 35 million shares of the Grayscale Bitcoin Trust (GBTC), valued at over $1.3 billion, Bloomberg News reported Feb. 14. The decision, delivered by Judge Sean Lane, allows Genesis to liquidate its GBTC shares into Bitcoin or cash. The sale is poised to inject [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/genesis-secures-court-approval-to-sell-gbtc-shares-worth-1-3-billion/\">Genesis secures court approval to sell GBTC shares worth $1.3 billion</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-02-14T20:47:00.000Z",
-    "title": "Spot Bitcoin ETFs See Explosive Growth, Amassing $10 Billion in Just 20 Days",
-    "url": "https://www.cryptoglobe.com/latest/2024/02/spot-bitcoin-etfs-see-explosive-growth-amassing-10-billion-in-just-20-days/",
-    "description": "Last month, on January 10, the U.S. Securities and Exchange Commission (SEC) approved nine Bitcoin exchange-traded funds (ETFs), and since then these have seen their holdings grow to surpass 693,374 BTC worth over $34 billion. Inflows to these spot Bitcoin ETFs surged in February, with over 12,000 BTC being added to the assets under management […]\n"
+    "date": "2024-02-14T21:27:49.000Z",
+    "title": " Citi proof-of-concept tokenizes private equity funds on Avalanche ",
+    "url": "https://cointelegraph.com/news/citi-proof-of-concept-tokenizes-private-equity-funds-avalanche",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZWJiMjZlNTUtMWE0Mi00MGZlLWE2MjUtOTkxZmU2YzUxYTEwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Citi partnered with other traditional financial institutions to simulate operations. More development is needed.</p>\n                    <p><p>Citigroup has teamed up with Ava Labs, other traditional financial institutions and digital asset companies to complete a proof-of-concept for tokenizing private equity funds. Despite outstanding legal and technical issues, Citi is convinced that blockchain technology could transform the private equity industry.</p><p>The project used simulated workflows in a Wellington Management-issued private equity fund with ABN AMRO acting as the investor and WisdomTree simulating the platform on the permissioned Avalanche Evergreen Spruce Subnet. </p><p>The partners tested smart contracts to enforce distribution rules for a simulated fund. They used a variety of methods to verify identities provided by WisdomTree and partnered with DTCC Digital Assets to use a private fund token as collateral in an automated lending contract. Then the resulting loan was “subject to a haircut and collateralization ratio set based on the pool parameters.” The Citi report on the project <a href=\"https://www.citigroup.com/rcs/citigpa/storage/public/Fund-Tokenization-Summary-Report.pdf\" target=\"_blank\" rel=\"noopener nofollow\">stated</a>:</p><p><a href=\"https://cointelegraph.com/news/citi-proof-of-concept-tokenizes-private-equity-funds-avalanche\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-14T20:48:50.000Z",
-    "title": "GameFI's Rising Star: Why Are Crypto Enthusiasts Buzzing About This Potential Solana Challenger",
-    "url": "https://cryptodaily.co.uk/2024/02/gamefis-rising-star-why-are-crypto-enthusiasts-buzzing-about-this-potential-solana-challenger",
-    "description": "Solana's (SOL) astounding rebound to over $100 has the crypto world buzzing! Discover how this major player is overcoming challenges and innovating to remain a top contender in the dynamic cryptocurrency market. Don't miss out on the action as SOL showcases its resilience and potential for future growth in the exciting world of digital currencies."
+    "date": "2024-02-14T21:12:08.000Z",
+    "title": "Why Polkadot (DOT) and Avalanche (AVAX) Are the Altcoins to Watch in a Pre-Halving Market",
+    "url": "https://cryptodaily.co.uk/2024/02/why-polkadot-dot-and-avalanche-avax-are-the-altcoins-to-watch-in-a-pre-halving-market",
+    "description": "Discover the latest trends in crypto: Polkadot (DOT) and Avalanche (AVAX) lead the charge! Uncover how DOT and AVAX are shaping the future of digital assets amidst a fluctuating market. Stay ahead of the game in the fast-paced world of cryptocurrency – Read now!"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T21:07:33.000Z",
-    "title": "Ethical hackers launch initiative to tackle crypto theft",
-    "url": "https://www.cryptopolitan.com/ethical-hackers-tackle-crypto-theft/",
-    "description": "A nonprofit organization named Security Alliance has been established in the United States, aiming to bolster support for ethical hackers engaged in the recovery of stolen funds. Launched on February 14, Security Alliance brings together a formidable team of blockchain security experts led by Samczsun, renowned for their role as head of security at the [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-02-14T21:30:58.000Z",
+    "title": "Bitcoin Mining Company Phoenix Group Reports 50% Net Income Increase and 20% Sales Growth",
+    "url": "https://news.bitcoin.com/bitcoin-mining-company-phoenix-group-reports-50-net-income-increase-and-20-sales-growth/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Mining Company Phoenix Group Reports 50% Net Income Increase and 20% Sales\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gggsjjsjjdjj.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />After its oversubscribed initial public offering (IPO), Phoenix Group, a Dubai-based company specializing in bitcoin mining and blockchain infrastructure, has announced a significant 50% increase in net income. The firm further revealed a 20% increase in its annual sales compared to the previous year. Dubai Bitcoin Miner Phoenix Group Records Substantial Increase in Year-on-Year Sales [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T21:02:18.000Z",
-    "title": "UK inflation stays at 4% amid economic flux",
-    "url": "https://www.cryptopolitan.com/uk-inflation-stays-at-4-amid-economic-flux/",
-    "description": "As the financial world keeps its eyes peeled on the economic pulse of nations, the UK stands out this January with its inflation rate steadfast at 4%. While analysts had their bets on a slight uptick, the economy decided to play it cool, much to the chagrin of those expecting a drama. The Bank of [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-14T21:34:55.000Z",
+    "title": "Bitcoin price sets Valentine’s Day winning record: Can it reach $55k?",
+    "url": "https://crypto.news/bitcoin-price-sets-valentines-day-winning-record-can-it-reach-55k/",
+    "description": "Bitcoin's historical data shows that BTC price set a bullish record on Valentines day 2024. Here's how rising ETF inflows could spark another rally towards $55,000"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T21:00:00.000Z",
-    "title": "Purchasing Pandoshi (PAMBO) for $0.01 Is Like Buying Solana (SOL) at $5",
-    "url": "https://www.cryptopolitan.com/purchasing-pandoshi-pambo-for-0-01-is-like-buying-solana-sol-at-5/",
-    "description": "In the dynamic landscape of cryptocurrency, finding an investment opportunity akin to buying Solana (SOL) at its nascent price of $5 is a rare gem. Enter Pandoshi (PAMBO), a burgeoning cryptocurrency currently priced at just $0.01, presenting an unparalleled investment opportunity. This comparison isn&#8217;t just about the low entry price; it&#8217;s about recognizing the potential [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T20:50:06.000Z",
-    "title": "Nigeria set to ditch dollar for local currency in oil trade",
-    "url": "https://www.cryptopolitan.com/nigeria-set-to-ditch-dollar-in-oil-trade/",
-    "description": "Nigeria is taking a risk that might change its economic trajectory in an international context where the US dollar is generally considered the de facto dominant currency. Despite suffering a defeat at the 15th BRICS conference in Johannesburg, the African giant is still looking to strengthen its own currency, the Naira, and increase its financial [&#8230;]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-14T21:00:31.000Z",
-    "title": "Bitcoin (BTC) ‘Quite Likely’ To Hit $60,000 in Coming Weeks, Says Crypto Strategist – But There’s a Catch",
-    "url": "https://dailyhodl.com/2024/02/14/bitcoin-btc-quite-likely-to-hit-60000-in-coming-weeks-says-crypto-strategist-but-theres-a-catch/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/02/bitcoin-quitely-hit.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Crypto analyst Kevin Svenson believes Bitcoin (BTC) could rally to a key resistance level ahead of the halving event. In a new strategy session, the trader tells his 72,000 YouTube subscribers that the flagship digital asset&#8217;s upward momentum could take it to $60,000 before the April halving event, when miners’ rewards are cut in half. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/bitcoin-btc-quite-likely-to-hit-60000-in-coming-weeks-says-crypto-strategist-but-theres-a-catch/\">Bitcoin (BTC) ‘Quite Likely’ To Hit $60,000 in Coming Weeks, Says Crypto Strategist – But There’s a Catch</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-14T20:55:50.000Z",
-    "title": "Here’s How Ethereum (ETH) Could ‘Speed Up’ From Recent Underperformance, According to Economist Alex Krüger",
-    "url": "https://dailyhodl.com/2024/02/14/heres-how-ethereum-eth-could-speed-up-from-recent-underperformance-according-to-economist-alex-kruger/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/03/Nearly-200-in-Ethereum.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Macroeconomist Alex Krüger is detailing his outlook on how Ethereum (ETH) could pick up the pace from it&#8217;s slower than expected performance. In a new interview on the Bitcoin Suisse podcast, Krüger says Ethereum is currently the “slow horse” of the digital assets market, largely due to its size and its already-established presence in the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/14/heres-how-ethereum-eth-could-speed-up-from-recent-underperformance-according-to-economist-alex-kruger/\">Here’s How Ethereum (ETH) Could ‘Speed Up’ From Recent Underperformance, According to Economist Alex Krüger</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-02-14T21:24:39.000Z",
+    "title": "SEC Chair Gary Gensler criticizes Bitcoin, calls out its role in ransomware",
+    "url": "https://crypto.news/sec-chair-gary-gensler-criticizes-bitcoin-calls-out-its-role-in-ransomware/",
+    "description": "SEC Chair Gary Gensler scrutinizes Bitcoin and questions its use cases despite the agency approving Bitcoin ETFs earlier this year."
   }
 ]

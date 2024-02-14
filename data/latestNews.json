@@ -1,79 +1,58 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-02-14T17:00:00.000Z",
+    "title": "How Bitcoin Benefits From Global Stresses",
+    "url": "https://www.coindesk.com/business/2024/02/14/how-bitcoin-benefits-from-global-stresses/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "An asset that gains from disorder is surely worth having in one’s portfolio, says Jennifer Murphy, CEO of Rune Digital Assets."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-02-14T17:00:00.000Z",
+    "title": "How the ‘Halving’ Could Impact Bitcoin",
+    "url": "https://www.coindesk.com/markets/2024/02/14/how-the-halving-could-impact-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitcoin halvings have generally been good for the network. But price increases have decreased over time, says Todd Groth, head of research at CoinDesk Indices."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-14T17:05:45.000Z",
+    "title": "Bitcoin Price Continues to Rally as $147 Million in Shorts Are Liquidated",
+    "url": "https://decrypt.co/217462/bitcoin-price-rallies-147-million-shorts-liquidated",
+    "description": "Those betting that Bitcoin's price is going down are losers Wednesday, according to CoinGlass data, as BTC continues to rise above $51,000."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-02-14T16:22:51.000Z",
-    "title": " Meta’s AI boss says LLMs not enough: ‘Human level AI is not just around the corner’ ",
-    "url": "https://cointelegraph.com/news/meta-artificial-intelligence-ai-boss-says-llms-not-enough-human-level-ai-is-not-just-around-the-corner",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYmQyMjlkNWQtY2JiNi00NWNiLWI1NDQtNjMzNmI1YzRhZDdmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>According to Turing Award winner Yann LeCun, cats are still smarter than GPTs.</p>\n                    <p><p>Large language models (LLMs) such as ChatGPT and Claude aren’t going to lead to human-level artificial intelligence (AI) any time soon. At least not according to Yann LeCun, Meta’s chief AI scientist.</p><p>LeCun recently <a href=\"https://time.com/6694432/yann-lecun-meta-ai-interview/\" target=\"_blank\" rel=\"noopener nofollow\">spoke</a> with Time Magazine to discuss artificial general intelligence (AGI), a nebulous term used to describe a theoretical AI system that is capable of performing any task given the right resources. </p><p>While there’s no scientific consensus as to what an AI system would need to be capable of in order to be considered an AGI, LeCun’s boss, Meta CEO and founder Mark Zuckerberg, recently made waves when he announced that Meta was pivoting to the development of AGI.</p><p><a href=\"https://cointelegraph.com/news/meta-artificial-intelligence-ai-boss-says-llms-not-enough-human-level-ai-is-not-just-around-the-corner\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-14T16:21:56.000Z",
-    "title": "Tap Protocol overtakes BRC20 in 24 hour Bitcoin Ordinals transaction activity",
-    "url": "https://cryptoslate.com/tap-protocol-overtakes-brc20-in-24-hour-ordinals-transaction-activity/",
-    "description": "<p>Tap Protocol, designed to support DeFi applications on Bitcoin Ordinals, has become the most active protocol on Bitcoin&#8217;s Ordinals network over the past 24 hours. Genii Data indicates Tap Protocol handled nearly double the transactions of BRC-20 or OrdDefi. While Genii tracks BRC20 activity separately from other protocols, the total activity of all tokens over [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tap-protocol-overtakes-brc20-in-24-hour-ordinals-transaction-activity/\">Tap Protocol overtakes BRC20 in 24 hour Bitcoin Ordinals transaction activity</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-14T16:40:00.000Z",
+    "title": " Fake Curve Finance app listed on Apple Store ",
+    "url": "https://cointelegraph.com/news/fake-curve-finance-app-listed-apple-store",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMDc4ODk5MTgtMmQ1Yy00ZmI4LWE4NTItNWE2NDVkMjU4OTBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Several unauthorized crypto apps that drain users’ assets when downloaded have been listed by tech giants over the years.</p>\n                    <p><p data-ct-non-breakable=\"true\">A fake app impersonating decentralized finance protocol Curve has been listed on Apple’s App Store.</p><p>According to a Feb. 14 warning <a href=\"https://twitter.com/CurveFinance/status/1757736512626495723\" target=\"_blank\" rel=\"noopener nofollow\">issued</a> by developers, there is currently no official DeFi Curve app. “Beware of scams,” Curve staff wrote. “A fake with our logo was spotted! Stay safe.”</p><p>The unauthorized Curve app lists MK Technology Co. Ltd as its creator. On its official website, which is hosted by Google Sites, a single proton mail contact address is provided along with a “Curve Finance” descriptor. There are no further apps created by MK Technology on the App Store.</p><p><a href=\"https://cointelegraph.com/news/fake-curve-finance-app-listed-apple-store\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-14T16:38:20.000Z",
-    "title": "Solana (SOL) and Ethereum (ETH) Investors Rally Behind Pushd's (PUSHD) Presale: The Latest Crypto Buzz",
-    "url": "https://cryptodaily.co.uk/2024/02/solana-sol-and-ethereum-eth-investors-rally-behind-pushds-pushd-presale-the-latest-crypto-buzz",
-    "description": "Solana (SOL) is a peer-to-peer cryptocurrency that launched in 2022. The pandemic did not slow down its growth, some can even argue that it gave Solana (SOL) a boost."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-14T16:28:39.000Z",
-    "title": "Expert Insights: Pushd’s (PUSHD) Rise to Dominate Ripple (XRP) and TRON (TRX)",
-    "url": "https://cryptodaily.co.uk/2024/02/expert-insights-pushds-pushd-rise-to-dominate-ripple-xrp-and-tron-trx",
-    "description": "Expert market analysis has been on Pushd (PUSHD) and the future market performance since it launched in its presale"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-14T16:23:48.000Z",
-    "title": "Analysts Top Pick for 2024: Pushd (PUSHD) Dominates Over Polkadot (DOT) and Internet Computer (ICP)",
-    "url": "https://cryptodaily.co.uk/2024/02/analysts-top-pick-for-2024-pushd-pushd-dominates-over-polkadot-dot-and-internet-computer-icp",
-    "description": "When Pushd (PUSHD) whitepaper dropped, market traders were excited by the way Pushd (PUSHD) outlined market problems and their solutions."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-14T16:15:23.000Z",
-    "title": "ChatGPT’s Price Predictions for the Best New Cryptocurrencies 2024",
-    "url": "https://cryptodaily.co.uk/2024/02/chatgpts-price-predictions-for-the-best-new-cryptocurrencies-2024",
-    "description": "Many people believe that AI will take over the world; asking it for a price prediction is the obvious step for anyone interested in trading cryptocurrency"
+    "date": "2024-02-14T16:46:29.000Z",
+    "title": "Solana (SOL) and Cardano (ADA) investors scramble to buy Stage 1 Kelexo (KLXO) Presale as over 7k join",
+    "url": "https://cryptodaily.co.uk/2024/02/solana-sol-and-cardano-ada-investors-scramble-to-buy-stage-1-kelexo-klxo-presale-as-over-7k-join",
+    "description": "The yet-to-launch crypto loaning protocol is creating excitement in the crypto space. Kelexo (KLXO) promises to give loan access to all users in the space."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-14T16:36:59.000Z",
-    "title": "Bounce Brand Ushers in Weave6 Token on Its Launchpad: A Leap in Decentralized Auctions",
-    "url": "https://www.cryptopolitan.com/bounce-ushers-in-weave6-token-launchpad/",
-    "description": "In a significant stride towards enhancing cross-chain asset trading, Bounce Brand, a leading decentralized auction platform, has unveiled its upcoming Launchpad project, spotlighting the Weave6 token (WX). This initiative marks a pivotal moment in the decentralized finance (DeFi) sector, promising to unlock new trading efficiencies and opportunities for cryptocurrency enthusiasts.&#160; By leveraging the unique capabilities [&#8230;]"
+    "date": "2024-02-14T17:00:00.000Z",
+    "title": "New Crypto Priced at $0.01 Captures the Attention of Solana (SOL) and Ethereum (ETH) Whales in February 2024",
+    "url": "https://www.cryptopolitan.com/new-crypto-priced-at-0-01-captures-the-attention-of-solana-sol-and-ethereum-eth-whales-in-february-2024/",
+    "description": "In the rapidly evolving world of cryptocurrency, a new contender has emerged, quickly drawing the gaze of major investors previously aligned with giants like Solana (SOL) and Ethereum (ETH). Priced at an enticing $0.01, this newcomer, Pandoshi (PAMBO), has sparked significant interest in February 2024. With its innovative approach and promising potential for growth, Pandoshi [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-14T16:28:06.000Z",
-    "title": "15 Best Disney Games on PC in 2024",
-    "url": "https://www.cryptopolitan.com/15-best-disney-games-on-pc-in-2024/",
-    "description": "Disney games have long captured the imaginations of players worldwide, offering a diverse range of experiences from beloved film adaptations to immersive sandbox adventures. In 2024, the selection of Disney games available on PC continues to impress, catering to fans of all ages. From classic platformers to modern RPGs, here are the top 15 Disney [&#8230;]"
+    "date": "2024-02-14T16:42:04.000Z",
+    "title": "Uniswap Founder Alerts Crypto Community to New Impersonation Scam",
+    "url": "https://www.cryptopolitan.com/uniswap-founder-alerts-impersonation-scam/",
+    "description": "In a significant cautionary alert issued to the cryptocurrency community, Hayden Adams, the pioneering founder of the decentralized exchange (DEX) Uniswap, has shed light on a burgeoning scam involving the impersonation of wallet addresses through the Ethereum Name Service (ENS) domains.&#160; The sophisticated scheme aims to deceive individuals into mistakenly sending digital assets to fraudulent [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T16:17:12.000Z",
-    "title": "Federal Charges Brought Against Digitex Futures Exchange CEO for Compliance Failures",
-    "url": "https://www.cryptopolitan.com/charge-digitex-future-ceo-compliance-failure/",
-    "description": "In a significant legal development, Adam Todd, the CEO and founder of Digitex Futures Exchange, faces federal charges for violating the Bank Secrecy Act (BSA). This act mandates the establishment of comprehensive Anti-Money Laundering (AML) programs by financial institutions to combat financial crimes effectively.&#160; Todd&#8217;s indictment marks a pivotal moment in regulatory efforts to ensure [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-14T16:12:10.000Z",
-    "title": "Fantom Price Prediction 2024-2033: Will FTM Investors Waver in Crypto Winter?",
-    "url": "https://www.cryptopolitan.com/fantom-price-prediction/",
-    "description": "Fantom Price Prediction 2024-2033 Fantom (FTM) was created to overcome Ethereum&#8217;s limitations and create a new generation of blockchain, solving the trilemma of scalability, security, and decentralization. However, with Fantom&#8217;s outstanding 2,108% growth and additional 2,000% unique addresses, FTM continues to struggle, losing 93% of its value from its ATH in Jan 2022. A better [&#8230;]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-14T16:34:00.000Z",
-    "title": "Aptos Partners With STAN To Improve Scalability and Performance in Esports",
-    "url": "https://coinedition.com/aptos-partners-with-stan-to-improve-scalability-and-performance-in-esports/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Aptos_Partners_With_STAN_To_Improve_Scalability_and_Performance-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The layer-1 blockchain project Aptos has partnered with STAN, a pioneering gaming force in India, to improve scalability and performance in the esports community. In a recent post on X (formerly Twitter), Aptos noted that the partnership aims to take online gaming to the next level. In an earlier report, STAN claimed that the partnership [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/aptos-partners-with-stan-to-improve-scalability-and-performance-in-esports/\">Aptos Partners With STAN To Improve Scalability and Performance in Esports</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-02-14T17:00:02.000Z",
+    "title": "Injective (INJ) Price Stabilizes as Bittensor (TAO) Climbs – Investors Get in on Final Rebel Satoshi Presale Round for a Shot at 30x",
+    "url": "https://www.crypto-news-flash.com/injective-inj-price-stabilizes-as-bittensor-tao-climbs-investors-get-in-on-final-rebel-satoshi-presale-round-for-a-shot-at-30x/?utm_source=rss&utm_medium=rss&utm_campaign=injective-inj-price-stabilizes-as-bittensor-tao-climbs-investors-get-in-on-final-rebel-satoshi-presale-round-for-a-shot-at-30x",
+    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-14T092845.390-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Injective (INJ) is expected to continue consolidating and even rise above $36.  Experts predict Bittensor (TAO) will rise above $600 again after minor corrections.  Rebel Satoshi ($RBLZ) investors anticipate a 30x surge after the ongoing presale round concludes.  As the market recovers from volatility, one of the best altcoins, Injective (INJ), has stabilized. Bittensor (TAO), [...]"
   }
 ]

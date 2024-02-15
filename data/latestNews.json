@@ -1,72 +1,44 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-02-15T08:30:00.000Z",
+    "title": "Telefónica Teams Up With Chainlink to Provide Security Against 'SIM Swap' Hacks",
+    "url": "https://www.coindesk.com/tech/2024/02/15/telefonica-teams-up-with-chainlink-to-provide-security-against-sim-swap-hacks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The partnership will be a \"significant step\" in integrating telecom capabilities into the blockchain technology, the firms said."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-02-15T07:53:56.000Z",
-    "title": " US investigates Binance Trust Wallet iOS app for vulnerability ",
-    "url": "https://cointelegraph.com/news/us-binance-trust-wallet-ios-vulnerability",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOWU4ZDA1ZWMtNWNhNC00Y2VlLThmNzAtYjQ4MDZjNDNhOGViLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The National Institute of Standards and Technology is analyzing the iOS version of the Binance Trust Wallet app for a vulnerability that could potentially be used to steal funds from crypto wallets. </p>\n                    <p><p data-ct-non-breakable=\"true\">An agency of the United States Department of Commerce (DOC) is analyzing the Binance Trust Wallet app for a vulnerability that could potentially allow an attacker to steal funds from crypto wallets.</p><p><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-23660\" target=\"_blank\" rel=\"noopener nofollow\">According</a> to the National Institute of Standards and Technology (NIST), the DOC agency tasked with promoting American innovation and industrial competitiveness, a specific version of the Binance Trust Wallet app “misuses the trezor-crypto library” to generate mnemonic words that can be verified only at the entropy source. </p><p>An entropy source is a physical location from where data is generated. NIST noted that a similar vulnerability was exploited in July 2023, leading to economic losses. It explained:</p><p><a href=\"https://cointelegraph.com/news/us-binance-trust-wallet-ios-vulnerability\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-15T08:12:45.000Z",
+    "title": " UK regulator issued 450 alerts for illegal crypto ads in 2023 ",
+    "url": "https://cointelegraph.com/news/uk-illegal-crypto-ads-regulator-fca",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMDZjM2M1NmMtNDdiMy00ZjA2LWI5NDItOWQxMzZjMzcxNWJhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Financial Conduct Authority in the United Kingdom ordered the withdrawal or amendment of over 10,000 finance-related promotions in 2023. </p>\n                    <p><p data-ct-non-breakable=\"true\">The Financial Conduct Authority (FCA) — an independent financial regulatory body in the United Kingdom — has published a report detailing its actions against financial promotions, including its findings and actions against crypto-related advertisements.</p><p>On Feb. 14, the FCA <a href=\"https://www.fca.org.uk/data/financial-promotions-data-2023\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> that it found “significant levels of non-compliance” on crypto promotion rules that <a href=\"https://www.fca.org.uk/publication/policy/ps23-6.pdf\" target=\"_blank\" rel=\"noopener nofollow\">came</a> into effect on Oct. 8, 2023. According to the regulator, i reviewed both registered and unregistered crypto firms and identified common issues. </p><p>This includes the use of generic risk summaries without any amendments for product-specific risks, such as stablecoins or asset-backed coins, and using the regulated status in a promotional manner. Furthermore, the FCA also said that firms are making claims about the safety, security and ease of use of crypto services without supporting evidence or highlighting risks. </p><p><a href=\"https://cointelegraph.com/news/uk-illegal-crypto-ads-regulator-fca\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-15T08:09:22.000Z",
-    "title": "10 Best Crypto Gambling Sites: Reviewed and Ranked",
-    "url": "https://www.cryptopolitan.com/10-best-crypto-gambling-sites-reviewed-and-ranked/",
-    "description": "Venturing into the huge universe of online casinos can be more challenging than it seems, with the rising number of crypto gambling platforms growing each day. Thus, that’s why we conducted an exhaustive analysis to select the top 10 best crypto gambling sites. Ready to find out? Let’s jump in! Top 10 Gambling Sites in [&#8230;]"
+    "date": "2024-02-15T08:22:17.000Z",
+    "title": "Biden’s ambassador choice for OECD to step back from crypto advisory",
+    "url": "https://www.cryptopolitan.com/bidens-ambassador-choice-for-oecd-to-step-back-from-crypto-advisory/",
+    "description": "Sean Patrick Maloney, a former member of the United States House of Representatives, has made a clear stance on his involvement with crypto-related issues upon his potential confirmation as a U.S. representative to the Organization for Economic Cooperation and Development (OECD). This move comes amid growing concerns over the influence of private sector interests in [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-15T08:06:58.000Z",
-    "title": "Major banks embrace tokenization: Citigroup explores blockchain implementation",
-    "url": "https://www.cryptopolitan.com/major-banks-embrace-tokenization-citigroup/",
-    "description": "Major banks worldwide are venturing into tokenizing real-world assets in a significant move within the crypto industry. Citigroup Inc., a prominent player in the financial sector, has undertaken a simulation to explore the potential of tokenizing private equity funds on the Avalanche blockchain network. Citigroup&#8217;s exploration of tokenization Citigroup&#8217;s simulation demonstrates how blockchain technology can [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-15T08:00:00.000Z",
-    "title": "Bitcoin Defies ETF Lows With Pre-Halving Rally; Cardano and Dogecoin Competitor See Surge in Investments",
-    "url": "https://www.cryptopolitan.com/bitcoin-defies-etf-lows-with-pre-halving-rally-cardano-and-dogecoin-competitor-see-surge-in-investments/",
-    "description": "The crypto market&#8217;s a rollercoaster; that much is certain. But buckle up because things are getting exciting again. After a post-ETF slump, Bitcoin, the OG of top crypto coins, is defying gravity with a pre-halving rally. But the action doesn&#8217;t stop there. A new contender, Rebel Satoshi, is making waves with its successful presale, shaking [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-15T07:52:05.000Z",
-    "title": "Shiba Inu community anticipates Sheboshis debut: A milestone in the SHIB ecosystem",
-    "url": "https://www.cryptopolitan.com/shiba-inu-community-anticipates-sheboshis/",
-    "description": "The Shiba Inu community, affectionately known as the SHIB army, has been enthusiastic following a cryptic teaser from lead developer Shytoshi Kusama earlier this week. The reveal: the long-awaited &#8220;Sheboshis&#8221; has finally been unveiled, marking a significant milestone in the Shiba Inu ecosystem&#8217;s expansion. Unveiling the Sheboshis: A new chapter for SHIB On February 12th, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-15T07:50:42.000Z",
-    "title": "Ripple (XRP) Sees Surge In Trade Volume; Cardano’s (ADA) Growth Activity Shoots Up; Algotech (ALGT) Sparks Bull Rally With 275% Presale Boom",
-    "url": "https://www.cryptopolitan.com/ripple-xrp-sees-surge-in-trade-volume-cardanos-ada-growth-activity-shoots-up-algotech-algt-sparks-bull-rally-with-275-presale-boom/",
-    "description": "Investing in the presale of a growth-oriented project is considered the best investment option in the crypto market. Currently, the presale of Algotech (ALGT) is a favorite among crypto investors. The project is expected to grow by 275% during the presale. Even holders of long-standing cryptos like Ripple (XRP) and Cardano (ADA) want to invest [&#8230;]"
+    "date": "2024-02-15T08:13:13.000Z",
+    "title": "Blockchain Life 2024: The world’s leading crypto forum is back in Dubai",
+    "url": "https://www.cryptopolitan.com/blockchain-life-2024-the-worlds-leading-crypto-forum-is-back-in-dubai/",
+    "description": "The main event in the world of cryptocurrencies, mining, and web3 &#8211; Blockchain Life 2024 will take place in Dubai on October 22-23. It is expected that more than 8000 people from 140 countries will attend the forum &#8211; founders of the largest companies, industry leaders, and hundreds of young projects. Attendees will have the [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-15T07:44:23.000Z",
-    "title": "Meme Moguls presale hits $2.3m as Dogecoin and Shiba Inu struggle",
-    "url": "https://crypto.news/meme-moguls-presale-hits-2-3m-as-dogecoin-and-shiba-inu-struggle/",
-    "description": "Dogecoin (DOGE) and Shiba Inu (SHIB) are struggling. Meanwhile, the Meme Moguls presale has raised over $2.3 million"
+    "date": "2024-02-15T08:36:30.000Z",
+    "title": "OFAC sanctions entities behind Iran’s digital currency program",
+    "url": "https://crypto.news/ofac-sanctions-entities-behind-irans-digital-currency-program/",
+    "description": "The U.S. Treasury sanctioned entities for illegally exporting technology to Iran, including one that developed Iran&#8217;s central bank digital currency platform. The Department of the Treasury&#8217;s Office of Foreign Assets Control (OFAC) said in a press release that on Feb.&#8230;"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-15T07:41:31.000Z",
-    "title": "Solana’s memecoin Bonk sees 13% surge ahead of potential Revolut listing",
-    "url": "https://crypto.news/solanas-memecoin-bonk-sees-13-surge-ahead-of-potential-revolut-listing/",
-    "description": "Bonk (BONK), a memecoin rooted in the Solana blockchain, saw its price soar by 13% amid reports of an upcoming listing on Revolut&#8217;s trading platform. Revolut, a leading European fintech firm, is contemplating a partnership with Bonk, encompassing a &#8220;Learn&#8230;"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-15T08:01:00.000Z",
-    "title": "Cardano Ecosystem Flourishes with Growing TVL and DeFi Activity",
-    "url": "https://coinedition.com/cardano-ecosystem-flourishes-with-growing-tvl-and-defi-activity/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano_ADA_Is_Priced_“More_Aggressively,”_Report_Shows\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A report from Messari show Cardano&#8217;s ecosystem has witnessed significant growth in the last quarter, marked by a surge in total value locked (TVL) and stablecoin value locked, alongside advancements in DeFi projects and technologies. As the network evolves, let&#8217;s delve into the recent developments and the factors driving Cardano&#8217;s flourishing ecosystem. In the DeFi [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-ecosystem-flourishes-with-growing-tvl-and-defi-activity/\">Cardano Ecosystem Flourishes with Growing TVL and DeFi Activity</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-15T08:04:06.000Z",
-    "title": "‘That’s a Huge Sign’ – Trader Michaël van de Poppe Predicts This Factor Will Trigger Bitcoin (BTC) Price Acceleration",
-    "url": "https://dailyhodl.com/2024/02/15/thats-a-huge-sign-trader-michael-van-de-poppe-predicts-this-factor-will-trigger-bitcoin-btc-price-acceleration/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Cryptocurrency analyst and trader Michaël van de Poppe is expressing bullish sentiment on Bitcoin (BTC) amid the flagship digital asset recording a double-digit gain over the past seven days. Van de Poppe tells his 693,200 followers on the social media platform X that net inflows into the spot Bitcoin exchange-traded funds (ETFs) are a bullish [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/15/thats-a-huge-sign-trader-michael-van-de-poppe-predicts-this-factor-will-trigger-bitcoin-btc-price-acceleration/\">‘That’s a Huge Sign’ – Trader Michaël van de Poppe Predicts This Factor Will Trigger Bitcoin (BTC) Price Acceleration</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-02-15T08:21:34.000Z",
+    "title": "Bitcoin Price Rally To $75,000 Imminent Due To Massive Cup And Handle Pattern",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-rally-75000-cup-handle-breakout/",
+    "description": "Matt Dines, the Chief Investment Officer at Build Asset Management, has identified a classical &#8216;Cup and Handle&#8217; pattern in the Bitcoin (BTC) price chart, which he believes could signal an impending rally to $75,000. This technical formation is often considered a strong bullish signal and is closely watched by market analysts and traders. Bitcoin Price Validates Cup And Handle Pattern The &#8216;Cup&#8217; part of the pattern, resembling a bowl or rounding bottom, began forming in March 2022 when the price plunged below $48,000 and entered one of the longest Bitcoin bear markets. The pattern reached its lowest point at approximately $17,600, signifying a strong support level for Bitcoin. The left side of the pattern shows a rounded bottom resembling a &#8220;cup.” It forms when the price initially declines, then consolidates, and finally starts to rise again. Since hitting this bottom, Bitcoin&#8217;s price has made a steady recovery, mimicking the right side of the cup, indicating a bullish reversal of the previous downtrend. Related Reading: Bitcoin Price Breaks Past $51,500: 4 Key Reasons &#8220;The saucer or the &#8216;cup&#8217; signifies a consolidation period, a pause in the downward trend, before the price begins to rise back up to the test resistance levels,&#8221; Dines explained. The recovery to the initial resistance line completes the &#8216;cup&#8217; portion of the pattern. The Bitcoin price completed this step in early January this year. The subsequent &#8216;Handle&#8217; is represented by a moderate retracement following the recovery, which forms a small dip or pullback from the peak. This handle is identified by a slight downward trajectory and is considered the final consolidation before a breakout. BTC’s price drop to $38,600 at the end of January marked the bottom of the pullback. With the breakout above $48,000, the Bitcoin price validated the cup and handle pattern. Setting A BTC Price Target Dines also addressed the placement of the vertical projection from the bottom of the handle, clarifying its basis: &#8220;It’s totally arbitrary and in the eye of the beholder. But longer answer, traders are eyeing charts for formations.&#8221; The vertical target line, or the &#8216;stick&#8217; on the right, is projected from the bottom of the handle. The height of the cup — from the low at around $17,600 to the resistance line at $48,000— sets the stage for the price target. Related Reading: Bitcoin Open Interest Surges To A 2-Year High, BTC Breaks Above $51,000 Dines added, “A lot of traders will use the height of the bowl (from the low of the bowl to the top at the resistance line) to set their price target. Just add that height to the bottom of the handle … that’s a decent guesstimate for where we’d see the longs who entered on the breakthrough to set their price target.&#8221; Based on the chart, the height from the cup&#8217;s low to the resistance level is roughly $31,973, marking the increase in Bitcoin’s price from its lowest point to the current level when the chart was produced. Projecting this height from the handle&#8217;s formation suggests a target in the vicinity of $75,000. Dines further adds that the collective behavior of market participants will indeed guide the price movement: &#8221; A lot of those longs would set a retrace at ~$75k as they close out their W. If enough participants put this trade on it will set the dominant price action … they win out and it will turn the chart into reality. I know it sounds ridiculous, but in the real world this is how markets actually discover price.” At press time, BTC traded at $51,821. Featured image created with DALLE, chart from TradingView.com"
   }
 ]

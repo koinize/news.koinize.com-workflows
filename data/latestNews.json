@@ -1,51 +1,72 @@
 [
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-15T07:30:19.000Z",
-    "title": "South Korea to Expel Crypto Exchanges Failing to Meet Its Stringent Conditions",
-    "url": "https://news.bitcoin.com/south-korea-to-expel-crypto-exchanges-failing-to-meet-its-stringent-conditions/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/shutterstock_767913643.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Cryptocurrency exchanges that fail to meet South Korea&#8217;s stringent operating standards will be expelled from the crypto market, the country&#8217;s financial intelligence agency has said. The Financial Intelligence Unit said its annual work plan incorporates the insights of cryptocurrency experts serving on its advisory committees. South Korea to Deploy System for Identifying Suspicious Transactions South [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-02-15T07:53:56.000Z",
+    "title": " US investigates Binance Trust Wallet iOS app for vulnerability ",
+    "url": "https://cointelegraph.com/news/us-binance-trust-wallet-ios-vulnerability",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOWU4ZDA1ZWMtNWNhNC00Y2VlLThmNzAtYjQ4MDZjNDNhOGViLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The National Institute of Standards and Technology is analyzing the iOS version of the Binance Trust Wallet app for a vulnerability that could potentially be used to steal funds from crypto wallets. </p>\n                    <p><p data-ct-non-breakable=\"true\">An agency of the United States Department of Commerce (DOC) is analyzing the Binance Trust Wallet app for a vulnerability that could potentially allow an attacker to steal funds from crypto wallets.</p><p><a href=\"https://nvd.nist.gov/vuln/detail/CVE-2024-23660\" target=\"_blank\" rel=\"noopener nofollow\">According</a> to the National Institute of Standards and Technology (NIST), the DOC agency tasked with promoting American innovation and industrial competitiveness, a specific version of the Binance Trust Wallet app “misuses the trezor-crypto library” to generate mnemonic words that can be verified only at the entropy source. </p><p>An entropy source is a physical location from where data is generated. NIST noted that a similar vulnerability was exploited in July 2023, leading to economic losses. It explained:</p><p><a href=\"https://cointelegraph.com/news/us-binance-trust-wallet-ios-vulnerability\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-15T08:09:22.000Z",
+    "title": "10 Best Crypto Gambling Sites: Reviewed and Ranked",
+    "url": "https://www.cryptopolitan.com/10-best-crypto-gambling-sites-reviewed-and-ranked/",
+    "description": "Venturing into the huge universe of online casinos can be more challenging than it seems, with the rising number of crypto gambling platforms growing each day. Thus, that’s why we conducted an exhaustive analysis to select the top 10 best crypto gambling sites. Ready to find out? Let’s jump in! Top 10 Gambling Sites in [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-15T08:06:58.000Z",
+    "title": "Major banks embrace tokenization: Citigroup explores blockchain implementation",
+    "url": "https://www.cryptopolitan.com/major-banks-embrace-tokenization-citigroup/",
+    "description": "Major banks worldwide are venturing into tokenizing real-world assets in a significant move within the crypto industry. Citigroup Inc., a prominent player in the financial sector, has undertaken a simulation to explore the potential of tokenizing private equity funds on the Avalanche blockchain network. Citigroup&#8217;s exploration of tokenization Citigroup&#8217;s simulation demonstrates how blockchain technology can [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-15T08:00:00.000Z",
+    "title": "Bitcoin Defies ETF Lows With Pre-Halving Rally; Cardano and Dogecoin Competitor See Surge in Investments",
+    "url": "https://www.cryptopolitan.com/bitcoin-defies-etf-lows-with-pre-halving-rally-cardano-and-dogecoin-competitor-see-surge-in-investments/",
+    "description": "The crypto market&#8217;s a rollercoaster; that much is certain. But buckle up because things are getting exciting again. After a post-ETF slump, Bitcoin, the OG of top crypto coins, is defying gravity with a pre-halving rally. But the action doesn&#8217;t stop there. A new contender, Rebel Satoshi, is making waves with its successful presale, shaking [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-15T07:52:05.000Z",
+    "title": "Shiba Inu community anticipates Sheboshis debut: A milestone in the SHIB ecosystem",
+    "url": "https://www.cryptopolitan.com/shiba-inu-community-anticipates-sheboshis/",
+    "description": "The Shiba Inu community, affectionately known as the SHIB army, has been enthusiastic following a cryptic teaser from lead developer Shytoshi Kusama earlier this week. The reveal: the long-awaited &#8220;Sheboshis&#8221; has finally been unveiled, marking a significant milestone in the Shiba Inu ecosystem&#8217;s expansion. Unveiling the Sheboshis: A new chapter for SHIB On February 12th, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-15T07:50:42.000Z",
+    "title": "Ripple (XRP) Sees Surge In Trade Volume; Cardano’s (ADA) Growth Activity Shoots Up; Algotech (ALGT) Sparks Bull Rally With 275% Presale Boom",
+    "url": "https://www.cryptopolitan.com/ripple-xrp-sees-surge-in-trade-volume-cardanos-ada-growth-activity-shoots-up-algotech-algt-sparks-bull-rally-with-275-presale-boom/",
+    "description": "Investing in the presale of a growth-oriented project is considered the best investment option in the crypto market. Currently, the presale of Algotech (ALGT) is a favorite among crypto investors. The project is expected to grow by 275% during the presale. Even holders of long-standing cryptos like Ripple (XRP) and Cardano (ADA) want to invest [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-15T07:32:53.000Z",
-    "title": "Solana surging; emerging meme coin can surpass Polkadot",
-    "url": "https://crypto.news/solana-surging-emerging-meme-coin-can-surpass-polkadot/",
-    "description": "Solana (SOL) is performing well even after the outage. On the other hand, Rebel Satoshi (RBLZ) aims to become a top project and surpass Polkadot (DOT)"
+    "date": "2024-02-15T07:44:23.000Z",
+    "title": "Meme Moguls presale hits $2.3m as Dogecoin and Shiba Inu struggle",
+    "url": "https://crypto.news/meme-moguls-presale-hits-2-3m-as-dogecoin-and-shiba-inu-struggle/",
+    "description": "Dogecoin (DOGE) and Shiba Inu (SHIB) are struggling. Meanwhile, the Meme Moguls presale has raised over $2.3 million"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-15T07:32:30.000Z",
-    "title": "STX reaches 26-month highs as global market cap surpasses $2 trillion",
-    "url": "https://crypto.news/stx-reaches-26-month-highs-as-global-market-cap-surpasses-2-trillion/",
-    "description": "Stacks (STX) emerges as the top gainer among the leading 100 cryptocurrencies. The price surge comes as the global crypto market capitalization reaches 22-month highs. STX is up by 27% in the past 24 hours and is trading at $2.67&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-15T07:26:33.000Z",
-    "title": "Bakkt receives green light to raise $150m through its securities sale",
-    "url": "https://crypto.news/bakkt-receives-green-light-to-raise-150m-through-its-securities-sale/",
-    "description": "Cash-strapped cryptocurrency company Bakkt has been permitted to raise additional funds. According to a Feb. 14 statement from Bakkt, the company has received permission to raise $150 million by selling its securities in one or more offerings over three years.&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-15T07:20:36.000Z",
-    "title": "ApeCoin DAO to develop its own ApeChain network on Arbitrum",
-    "url": "https://crypto.news/apecoin-dao-to-develop-its-own-apechain-network-on-arbitrum/",
-    "description": "The decentralized community of ApeCoin has voted for developing the ApeChain network on Arbitrum with support from Horizen Labs. According to the results of snapshot #19,095,282, approximately 25 million APE tokens have been cast in favor of advancing the ApeChain&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-15T07:25:48.000Z",
-    "title": "Ripple and Metaco Forge Trillion-Dollar Tokenization Alliance Amid XRP Market Challenges",
-    "url": "https://www.crypto-news-flash.com/ripple-and-metaco-forge-trillion-dollar-tokenization-alliance-amid-xrp-market-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-and-metaco-forge-trillion-dollar-tokenization-alliance-amid-xrp-market-challenges",
-    "description": "<img width=\"1200\" height=\"628\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple-300x157.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple-768x402.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple-150x79.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Ripple-450x236.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Ripple is deepening its foothold in the tokenization ecosystem. The firm is pivoting into tokenization to help revolutionize different industries, particularly finance. Ripple Labs Inc., a leading provider of enterprise blockchain solutions for global payments, and Metaco, a renowned provider of digital asset infrastructure, have recently joined forces to establish a tokenization alliance, amidst challenges [...]"
+    "date": "2024-02-15T07:41:31.000Z",
+    "title": "Solana’s memecoin Bonk sees 13% surge ahead of potential Revolut listing",
+    "url": "https://crypto.news/solanas-memecoin-bonk-sees-13-surge-ahead-of-potential-revolut-listing/",
+    "description": "Bonk (BONK), a memecoin rooted in the Solana blockchain, saw its price soar by 13% amid reports of an upcoming listing on Revolut&#8217;s trading platform. Revolut, a leading European fintech firm, is contemplating a partnership with Bonk, encompassing a &#8220;Learn&#8230;"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-15T07:35:10.000Z",
-    "title": "Winklevoss Sees Demand for BTC Skyrocketing Post 2024 Halving",
-    "url": "https://coinedition.com/winklevoss-sees-demand-for-btc-skyrocketing-post-2024-halving/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Feds-Just-Gave-300-Billion-More-Reasons-to-Buy-BTC-Says-Winklevoss-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Cameron Winklevoss, an American cryptocurrency investor and founder of crypto exchange Gemini, has stated that the demand for Bitcoin will witness a significant surge after the 2024 Bitcoin halving, which is expected to take place on April 17.&#160; In an X post on February 15, Winklevoss noted that the recently approved spot Bitcoin exchange-traded funds [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/winklevoss-sees-demand-for-btc-skyrocketing-post-2024-halving/\">Winklevoss Sees Demand for BTC Skyrocketing Post 2024 Halving</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-15T08:01:00.000Z",
+    "title": "Cardano Ecosystem Flourishes with Growing TVL and DeFi Activity",
+    "url": "https://coinedition.com/cardano-ecosystem-flourishes-with-growing-tvl-and-defi-activity/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano_ADA_Is_Priced_“More_Aggressively,”_Report_Shows\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Cardano_ADA_Is_Priced_More_Aggressively_Report_Shows-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A report from Messari show Cardano&#8217;s ecosystem has witnessed significant growth in the last quarter, marked by a surge in total value locked (TVL) and stablecoin value locked, alongside advancements in DeFi projects and technologies. As the network evolves, let&#8217;s delve into the recent developments and the factors driving Cardano&#8217;s flourishing ecosystem. In the DeFi [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-ecosystem-flourishes-with-growing-tvl-and-defi-activity/\">Cardano Ecosystem Flourishes with Growing TVL and DeFi Activity</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-15T08:04:06.000Z",
+    "title": "‘That’s a Huge Sign’ – Trader Michaël van de Poppe Predicts This Factor Will Trigger Bitcoin (BTC) Price Acceleration",
+    "url": "https://dailyhodl.com/2024/02/15/thats-a-huge-sign-trader-michael-van-de-poppe-predicts-this-factor-will-trigger-bitcoin-btc-price-acceleration/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Thats-a-Huge-Sign.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Cryptocurrency analyst and trader Michaël van de Poppe is expressing bullish sentiment on Bitcoin (BTC) amid the flagship digital asset recording a double-digit gain over the past seven days. Van de Poppe tells his 693,200 followers on the social media platform X that net inflows into the spot Bitcoin exchange-traded funds (ETFs) are a bullish [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/15/thats-a-huge-sign-trader-michael-van-de-poppe-predicts-this-factor-will-trigger-bitcoin-btc-price-acceleration/\">‘That’s a Huge Sign’ – Trader Michaël van de Poppe Predicts This Factor Will Trigger Bitcoin (BTC) Price Acceleration</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

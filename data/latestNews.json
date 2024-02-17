@@ -1,23 +1,86 @@
 [
   {
-    "source": "BTCManager",
-    "date": "2024-02-17T10:00:00.000Z",
-    "title": "Algotech presale leads Dogecoin and Solana whales to jump in",
-    "url": "https://crypto.news/algotech-presale-leads-dogecoin-and-solana-whales-to-jump-in/",
-    "description": "Just 42% of DOGE holders profit as SOL dips 70% from the peak. Whales now eye Algotech (ALGT) for portfolio rebalance. According to statistics from Cryptorank, only 42% of Dogecoin (DOGE) owners are in profit, and the figure gets worse&#8230;"
+    "source": "Cointelegraph",
+    "date": "2024-02-17T10:22:18.000Z",
+    "title": " Tech giants pledge to curb AI election influence amid concerns ",
+    "url": "https://cointelegraph.com/news/tech-giants-pledge-to-curb-ai-election-influence-amid-concerns",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNDQ1NzQ2MTgtMDNmYy00NjkxLWJlMzUtZTQwNDRkYTZmZjZkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The agreement is voluntary and doesn’t go as far as a complete ban on AI content in elections.</p>\n                    <p><p>Twenty tech companies developing artificial intelligence (AI) on Friday, Feb. 16, announced their commitment to prevent their software from influencing elections, including those in the United States.</p><p>The <a href=\"https://www.aielectionsaccord.com/uploads/2024/02/Press-Release-AI-Elections-Accord-16-Feb-2024.pdf\" target=\"_blank\" rel=\"noopener nofollow\">agreement</a> acknowledges that the companies’ products pose a significant risk, especially in a year when around 4 billion people worldwide are expected to participate in elections. The document highlights concerns about deceptive AI election content and its potential to mislead the public, posing a threat to the integrity of electoral processes.</p><p>The agreement also acknowledges that global lawmakers have been slow to respond to the rapid progress in generative AI, leading the tech industry to explore self-regulation. Brad Smith, vice chair and president of Microsoft, supported this in a statement:</p><p><a href=\"https://cointelegraph.com/news/tech-giants-pledge-to-curb-ai-election-influence-amid-concerns\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-17T10:11:00.000Z",
+    "title": " What is a blockchain validator? ",
+    "url": "https://cointelegraph.com/explained/what-is-a-blockchain-validator",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hZDYzOTg1ZDUyMjkyY2ViN2RjMzIwNjNmOTU3YmZlOS5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>                        A blockchain validator verifies transactions in the proposed blocks and helps build new blocks. In return, they receive cryptocurrency.                    </p>\n                    <p><p data-ct-widget=\"explained-block-content\">                </p><p><em>Validators are responsible for adding new blocks and verifying transactions in proposed blocks, thus playing a vital role in the functioning of the blockchain.</em></p><p>A validator is crucial in validating transactions in blockchain consensus mechanisms like <a href=\"https://cointelegraph.com/learn/proof-of-authority-vs-proof-of-stake-key-differences-explained\">proof-of-stake (PoS) and proof-of-authority (PoA)</a>. They check whether new transactions align with the network’s rules and ensure that the sender has adequate funds to complete the transaction.</p><p><a href=\"https://cointelegraph.com/explained/what-is-a-blockchain-validator\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:37:39.000Z",
+    "title": "Don’t panic, but… Bitcoin’s $52K plateau hints at potential plunge",
+    "url": "https://www.cryptopolitan.com/bitcoins-52k-plateau-hints-at-potential-fall/",
+    "description": "Bitcoin&#8217;s recent stall in momentum at the $52,000 mark has sparked speculation within the crypto community about the possibility of an imminent pullback. Crypto analysts suggest that it could precede a temporary downturn before resuming its upward trajectory toward higher prices. This observation comes amidst a backdrop of Bitcoin&#8217;s ongoing uptrend, supported by robust trading [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:35:03.000Z",
+    "title": "Crypto laundering trends shift as criminals utilize cross-chain bridges and DeFi protocols",
+    "url": "https://www.cryptopolitan.com/crypto-laundering-trends-shift/",
+    "description": "Cryptocurrency laundering activities are evolving, with a recent report from Chainalysis highlighting significant shifts in tactics employed by criminals. Despite a decrease in the total value of funds sent to laundering services, there&#8217;s a notable surge in the use of cross-chain bridges and decentralized finance (DeFi) protocols for obfuscating illicit funds. Rise of cross-chain bridges [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:32:07.000Z",
+    "title": "Is EIP-4844 the game-changer Ethereum Rollups have been waiting for?",
+    "url": "https://www.cryptopolitan.com/eip-4844-the-ethereum-rollups-game-changer/",
+    "description": "Ethereum Improvement Proposal (EIP-4844) introduces significant enhancements for Ethereum rollups, marking a pivotal advancement in Ethereum&#8217;s scalability and efficiency. Rollups, a layer 2 scaling solution, leverage Ethereum&#8217;s security while processing transactions off-chain, thereby alleviating network congestion and reducing gas fees.&#160; EIP-4844 introduces a novel transaction type that enables the storage of &#8220;blobs&#8221; of data in [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:27:27.000Z",
+    "title": "Ether’s bullish momentum pushes towards $3,000 amidst ETF speculation",
+    "url": "https://www.cryptopolitan.com/ethers-bullish-momentum-pushes-towards-3000/",
+    "description": "Ether, the second-largest cryptocurrency by market capitalization, has been on a remarkable upward trajectory over the past 10 days, surging by 21.5% and edging closer to the coveted $3,000 mark. This surge in price is primarily attributed to the positive sentiment surrounding the recent launch of a spot Bitcoin exchange-traded fund (ETF) in the United [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:25:56.000Z",
+    "title": "BlackRock’s Bitcoin bet pays Off – $2 billion and counting",
+    "url": "https://www.cryptopolitan.com/blackrocks-bitcoin-bet-pays-off-2b-profit/",
+    "description": "Bitcoin Exchange-Traded Funds (ETFs) have experienced a significant surge in inflows, reaching a notable milestone of $2 billion. This surge is indicative of growing investor interest and confidence in the crypto market, particularly in Bitcoin.&#160; Notably, BlackRock, the world&#8217;s largest asset manager, has played a pivotal role in leading this influx of investment into BTC [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:17:51.000Z",
+    "title": "Kraken flooded with data demands from US Law enforcement – Here’s why",
+    "url": "https://www.cryptopolitan.com/kraken-data-demands-from-us-law-enforcement/",
+    "description": "In 2023, US law enforcement agencies played a significant role in data requests, constituting almost 30% of the total requests made. This statistic sheds light on law enforcement&#8217;s substantial reliance on investigative and regulatory data.&#160; Kraken, a prominent crypto exchange platform, has reported this notable trend, emphasizing the considerable involvement of law enforcement in seeking [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:17:09.000Z",
+    "title": "Circle and Coinbase call for stricter oversight of Tether amid allegations",
+    "url": "https://www.cryptopolitan.com/circle-coinbase-stricter-oversight-tether/",
+    "description": "The cryptocurrency industry has seen increased scrutiny from regulatory bodies and competitors, with Tether, a leading stablecoin issuer, finding itself at the center of controversy. As discussions on regulatory compliance and anti-money laundering (AML) efforts intensify, representatives from Coinbase and Circle have highlighted the need for stricter oversight of international digital asset firms, including Tether, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T10:10:22.000Z",
+    "title": "Ever wondered how much a hacker needs to execute a 51% attack on Bitcoin and Ethereum?",
+    "url": "https://www.cryptopolitan.com/51-attack-on-bitcoin-and-ethereum/",
+    "description": "Crypto networks like Bitcoin and Ethereum rely on decentralization and consensus mechanisms to maintain security and integrity. However, the threat of a 51% attack looms over these networks, where a group of miners controls more than half of the network&#8217;s mining hash rate, potentially allowing them to manipulate transactions. Understanding the cost implications of such [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-17T10:00:24.000Z",
-    "title": "Shiba Inu (SHIB) Poised for Price Surge After Burn; This Emerging Al Crypto Is Seen As A Lucrative Investment by Top Whales",
-    "url": "https://www.crypto-news-flash.com/shiba-inu-shib-poised-for-price-surge-after-burn-this-emerging-al-crypto-is-seen-as-a-lucrative-investment-by-top-whales/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inu-shib-poised-for-price-surge-after-burn-this-emerging-al-crypto-is-seen-as-a-lucrative-investment-by-top-whales",
-    "description": "<img width=\"1200\" height=\"914\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817-300x229.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817-768x585.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817-150x114.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-16T122320.817-450x343.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />According to data from Shibburn, the platform that tracks Shiba Inu&#8217;s (SHIB) burn, the burn rate rose by almost 200% on Friday. This dramatic increase is reflected in a noticeable reduction in the token&#8217;s overall supply, fueling speculations of potential price increases shortly. Also, prominent crypto whales, renowned for their strategic and significant investments, are [...]"
+    "date": "2024-02-17T10:38:23.000Z",
+    "title": "Cardano (ADA) Price Forecast: Analyst Eyes Massive 1,233% Rally by 2025",
+    "url": "https://www.crypto-news-flash.com/cardano-ada-price-forecast-analyst-eyes-massive-1233-rally-by-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-price-forecast-analyst-eyes-massive-1233-rally-by-2025",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Analyst Predicts that Cardano (ADA) could stage its bullish run earlier than expected.  Ali Martinez had earlier predicted that ADA would continue its consolidation phase till April 2024.  The 8th largest crypto by market cap, Cardano (ADA), had a busy week, moving to-and-fro on the price curve in an attempt to convert its close resistance [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-17T09:48:00.000Z",
-    "title": "Bitcoin (BTC) Whales Splash $12 Billion In Accumulation Spree",
-    "url": "https://coinedition.com/bitcoin-btc-whales-splash-12-billion-in-accumulation-spree/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin (BTC) Whales Splash $12 Billion In Accumulation Spree\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/06/The_popularity_of_Inscription_Transactions_on_the_Bitcoin_network-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>According to Santiment, Bitcoin (BTC) addresses that hold between 1,000 to 10,000 coins played significant roles in driving the price up. In most corners, Bitcoin’s climb to $52,000 has been attributed only to institutional demand. This was because of the increasing Bitcoin ETF inflows registered by several issuers. However, a recent post by the crypto [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoin-btc-whales-splash-12-billion-in-accumulation-spree/\">Bitcoin (BTC) Whales Splash $12 Billion In Accumulation Spree</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-02-17T10:15:56.000Z",
+    "title": "Ethereum Rival That’s Exploded 350% in Four Months Could Skyrocket by up to 7x, Says Coin Bureau’s Guy Turner",
+    "url": "https://dailyhodl.com/2024/02/17/ethereum-rival-thats-exploded-350-in-four-months-could-skyrocket-by-up-to-7x-says-coin-bureaus-guy-turner/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Four-Months-Could-Skyrocket.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The host of the Coin Bureau YouTube channel, Guy Turner, is expressing bullish sentiment on one blue-chip Ethereum (ETH) competitor. In a new video, Turner tells the 2.41 million subscribers of the Coin Bureau YouTube channel that one of the major narratives that will drive the next bull market is the tokenization of real-world assets. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/17/ethereum-rival-thats-exploded-350-in-four-months-could-skyrocket-by-up-to-7x-says-coin-bureaus-guy-turner/\">Ethereum Rival That’s Exploded 350% in Four Months Could Skyrocket by up to 7x, Says Coin Bureau’s Guy Turner</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

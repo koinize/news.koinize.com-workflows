@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-17T02:55:34.000Z",
+    "title": " Celsius distributes $2B of crypto to 172K creditors ",
+    "url": "https://cointelegraph.com/news/celsius-distribution-crypto-creditors-bitcoin-ethereum",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvY2Q4ZDUzZmQtN2Y5MC00YzVkLWFiMzAtM2IyN2VlN2M3NThmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>According to the court filing, around 20,500 Bitcoins and 301,000 Ether tokens have been distributed among eligible creditors, without any security or operational issues.</p>\n                    <p><p>Bankrupt crypto lender Celsius has announced that most eligible creditors have now collected their liquid cryptocurrency distributions from its two distribution agents, payments giant PayPal, and cryptocurrency exchange Coinbase.</p><p>In a recent court <a href=\"https://cases.stretto.com/public/x191/11749/PLEADINGS/1174902162480000000009.pdf\" target=\"_blank\" rel=\"noopener nofollow\">filing</a>, Kirkland &amp; Ellis, the legal team representing Celsius, provided an update on the creditor distributions as outlined in the restructuring plan. This follows Celsius' announcement last week that it successfully emerged from bankruptcy, <a href=\"https://cointelegraph.com/news/celsius-files-intent-claw-back-pre-bankruptcy-withdrawals-creditors\">which was filed in July 2022</a>.</p><p>According to Kirkland &amp; Ellis, crypto distributions to holders in the U.S. are facilitated through PayPal, while overseas holders are managed by Coinbase as the distribution agent. The lawyers declared that $2 billion worth of crypto has been claimed, including 20,255.66 Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) and 301,338.77 Ethereum (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>).</p><p><a href=\"https://cointelegraph.com/news/celsius-distribution-crypto-creditors-bitcoin-ethereum\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-17T03:00:47.000Z",
+    "title": "Citi Completes Private Market Tokenization Test Using Avalanche",
+    "url": "https://news.bitcoin.com/citi-completes-private-market-tokenization-test-using-avalanche/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Citi Completes Private Market Tokenization Test Using Avalanche\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/9f587cc0-2265-4b54-9087-77a631101644.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Citi, in alliance with Wellington Management, Wisdomtree, and ABN AMRO, completed a proof of concept for the tokenization of a private fund on top of the Avalanche blockchain. The test used Spruce, an Avalanche subnet, to tokenize the fund and transact the tokenized assets, which were programmed to &#8220;automate operations, settle faster, and enable new [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-17T03:07:53.000Z",
+    "title": "Analyzing ChatGPT’s Traffic Decline and Its Implications for OpenAI",
+    "url": "https://www.cryptopolitan.com/analyzing-chatgpts-traffic-decline/",
+    "description": "In a surprising turn of events, the once unstoppable momentum of ChatGPT, the leading chatbot developed by OpenAI, appears to be faltering. Recent data reveals a decline in web traffic over several consecutive months, indicating a significant shift in the trajectory of its growth. With questions looming about the future of OpenAI&#8217;s flagship product, analysts [&#8230;]"
+  }
+]

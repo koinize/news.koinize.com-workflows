@@ -1,93 +1,58 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-19T10:29:11.000Z",
-    "title": "Ether's Fundamental Supply Outlook Better Than Bitcoin's, Analyst Says as ETH Tops $2.9K",
-    "url": "https://www.coindesk.com/markets/2024/02/19/ethers-fundamental-supply-outlook-better-than-bitcoins-analyst-says-as-eth-tops-29k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Ether has rallied 16% in seven days, outperforming bitcoin's 8.5% rise."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-19T10:33:17.000Z",
-    "title": "Vitalik Buterin: Ethereum Could Benefit From Using AI to Find Bugs in Code",
-    "url": "https://decrypt.co/218022/vitalik-buterin-ethereum-ai-to-find-bugs-in-code",
-    "description": "Ethereum co-founder Vitalik Buterin said AI could help Ethereum developers address some of the network's \"biggest technical risk.\""
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-19T10:31:49.000Z",
-    "title": "Sam Altman's Worldcoin Has Surged 40% Since OpenAI Launched Sora",
-    "url": "https://decrypt.co/218032/sam-altman-worldcoin-surges-40-openai-sora",
-    "description": "Although Worldcoin is entirely unrelated to OpenAI, crypto investors appear to want exposure to Sam Altman's success through WLD."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-19T10:14:18.000Z",
-    "title": " Japan opens up Web3 investments for local VCs ",
-    "url": "https://cointelegraph.com/news/japan-web3-investments-partnership",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZDc4YmE5MGItM2I5Mi00NzQyLWIzNDktZGUyZTcwYjUyM2ZmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Japan’s Ministry of Economy, Trade and Industry (METI) aims to promote the creation of new businesses and industries via increased domestic investments from limited partnership firms.</p>\n                    <p><p data-ct-non-breakable=\"true\">Japan aims to increase strategic domestic investments into Web3 startups by allowing limited partnership (LP) firms to acquire and hold crypto assets. </p><p>The Ministry of Economy, Trade and Industry (METI) in Japan approved a bill to promote the creation of new businesses and industries via increased domestic investments by amending four key acts, including the Act on Investment Limited Partnership Agreements. A rough translation of the revision reads as follows:</p><p data-ct-non-breakable=\"true\">The amendment allows LPs in Japan to invest in medium-sized companies and startups dealing with cryptocurrencies in exchange for a proportionate share of the venture’s profits. Consequently, the Web3 community in the region expects a rise in the emergence of crypto and blockchain startups originating in Japan. </p><p><a href=\"https://cointelegraph.com/news/japan-web3-investments-partnership\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-19T10:20:48.000Z",
-    "title": "Coinbase sees major Bitcoin withdrawal, holds lowest confirmed supply since 2015",
-    "url": "https://cryptoslate.com/insights/coinbase-sees-major-bitcoin-withdrawal-holds-lowest-confirmed-supply-since-2015/",
-    "description": "<p>Quick Take Data unveiled during Asia hours from Coinbase revealed a sizable withdrawal of over 18,000 Bitcoin, as confirmed by Arkham Intelligence, Glassnode, and Coinglass.  This substantial outflow of nearly $1 billion has significantly influenced Coinbase&#8217;s exchange balance. The funds have been sent to several different addresses with the Bitcoin split across new wallets. Balances [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/coinbase-sees-major-bitcoin-withdrawal-holds-lowest-confirmed-supply-since-2015/\">Coinbase sees major Bitcoin withdrawal, holds lowest confirmed supply since 2015</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-02-19T11:08:17.000Z",
+    "title": "Fake Rabby Wallet App drains users’ funds despite reports to Apple",
+    "url": "https://www.cryptopolitan.com/fake-rabby-wallet-app-drains-users-fund/",
+    "description": "A fraudulent version of the Rabby Wallet app has caused distress among users of the Apple App Store, with several individuals reporting significant financial losses.&#160; Despite multiple complaints and alerts, the malicious app remains available for download, highlighting concerns regarding Apple&#8217;s app vetting process. Users Sound Alarm Over Fake Rabby Wallet App The imposter app, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-19T10:35:33.000Z",
-    "title": "OpenAI Unveils Sora: AI Model Sparks Debate Among Experts",
-    "url": "https://www.cryptopolitan.com/openai-unveils-sora-ai-model-sparks-debate/",
-    "description": "OpenAI recently made headlines by introducing Sora, a groundbreaking AI model designed to generate video content from text prompts. While the technology has wowed many with its stunning demonstrations, it has also sparked a lively debate among AI experts regarding its capabilities and underlying mechanisms. Sora&#8217;s advanced capabilities OpenAI touts Sora as capable of generating [&#8230;]"
+    "date": "2024-02-19T10:57:10.000Z",
+    "title": "FTX and Alameda sued over Tether profit scheme",
+    "url": "https://www.cryptopolitan.com/ftx-and-alameda-sued-of-tether-profit-scheme/",
+    "description": "FTX Trading Ltd. and its affiliate Alameda Research are at the center of a lawsuit alleging involvement in a complex scheme to generate profits by creating and selling Tether (USDT) stablecoins. The case, filed in a Florida federal court on February 16, accuses the cryptocurrency trading platform and its sister firm of leveraging an unofficial [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-19T10:33:28.000Z",
-    "title": "Bitcoin price hits fresh two-year record, eyes further upside",
-    "url": "https://www.cryptopolitan.com/bitcoin-price-hits-fresh-two-year-record/",
-    "description": "Bitcoin (BTC) has kicked off the last full week of February on a bullish note, surpassing the $52,000 mark and marking a fresh two-year record for the weekly close. The cryptocurrency&#8217;s resilience and upward momentum have left traders and market observers speculating about the road ahead, with many predicting further upside potential despite conflicting opinions. [&#8230;]"
+    "date": "2024-02-19T10:53:19.000Z",
+    "title": "Backpack exchange partners with Banxa to enhance crypto on-ramp solution",
+    "url": "https://www.cryptopolitan.com/backpack-exchange-partners-with-banxa/",
+    "description": "Backpack Exchange, the brainchild of the creators behind Solana&#8217;s Mad Lads NFT collection, has recently forged a significant partnership with Banxa, a global crypto on-ramp provider.&#160; This collaboration aims to revolutionize digital asset transactions by offering users a seamless on- and off-ramp solution. With Banxa&#8217;s expertise, Backpack users in more than 130 countries can now [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-19T10:28:50.000Z",
-    "title": "Ex-Ripple leader now CEO of crystal blockchain firm",
-    "url": "https://www.cryptopolitan.com/ex-ripple-leader-now-ceo-of-crystal-blockchain/",
-    "description": "Crystal Blockchain, a leading provider of transaction tracking software for the crypto industry, has announced the appointment of Navin Gupta, a former Ripple executive, as its new Chief Executive Officer (CEO). This transition sees Marina Khaustova, the company&#8217;s guiding force for the past five years, stepping into the Chief Operating Officer (COO) role. Gupta&#8217;s Ripple [&#8230;]"
+    "source": "Crypto News Flash",
+    "date": "2024-02-19T11:08:45.000Z",
+    "title": "Worldcoin’s WLD Token Rockets 141% with 1M Daily Users Milestone",
+    "url": "https://www.crypto-news-flash.com/worldcoins-wld-token-rockets-141-with-1m-daily-users-milestone/?utm_source=rss&utm_medium=rss&utm_campaign=worldcoins-wld-token-rockets-141-with-1m-daily-users-milestone",
+    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Worldcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/nexo-1-1-450x253.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Worldcoin&#8217;s native token surged over 140% as its user base surpassed one million, driven by its goal to introduce Universal Basic Income through iris scans. Despite privacy concerns leading to regulatory scrutiny in several countries, the token&#8217;s value continues to rise, buoyed by a broader crypto market rally. The native token of Worldcoin, WLD, has [...]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-19T10:17:31.000Z",
-    "title": "Resurgence in AI Investments Spurs Crypto Market Surge",
-    "url": "https://www.cryptopolitan.com/resurgence-in-ai-investments-spurs-crypto/",
-    "description": "The artificial intelligence (AI) sector is experiencing a remarkable resurgence in speculative investments, catalyzing unprecedented highs in related crypto tokens. This resurgence is intimately linked with the soaring performance of major AI stocks, notably Nvidia (NVDA), which has emerged as a beacon of optimism within the stock market&#8217;s AI landscape. AI sector stimulates crypto market [&#8230;]"
+    "source": "Crypto News Flash",
+    "date": "2024-02-19T11:00:17.000Z",
+    "title": "Neon EVM and deBridge Enable Solana-EVM Native Swaps; Bright Prospects for Arbitrum & Low Cap AI Gem",
+    "url": "https://www.crypto-news-flash.com/neon-evm-and-debridge-enable-solana-evm-native-swaps-bright-prospects-for-arbitrum-low-cap-ai-gem/?utm_source=rss&utm_medium=rss&utm_campaign=neon-evm-and-debridge-enable-solana-evm-native-swaps-bright-prospects-for-arbitrum-low-cap-ai-gem",
+    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-19T084856.013-450x253.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The drive to knit together different blockchain networks and smooth out user experiences has sparked some truly exciting partnerships and breakthroughs in the blockchain world. Take, for example, the buzz around Neon EVM&#8217;s recent announcement about teaming up with deBridge. This move is a big deal because it bridges the gap between Solana&#8217;s mainnet, Ethereum, [...]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-19T10:14:46.000Z",
-    "title": "Aston University Expands Scholarships to Boost Diversity in AI Sector",
-    "url": "https://www.cryptopolitan.com/aston-university-scholarships-ai-sector/",
-    "description": "Aston University has unveiled an initiative aimed at fostering greater diversity within the artificial intelligence (AI) sector.&#160; This move comes in response to a growing demand for skilled professionals in AI and data science, coupled with a need to address the underrepresentation of certain groups within the industry. Aston University&#8217;s AI&#160; scholarship initiative In an [&#8230;]"
+    "source": "Crypto News Flash",
+    "date": "2024-02-19T10:56:34.000Z",
+    "title": "Bitcoin’s Fate Hangs in Balance: Will it Surge to $65,000 or Plunge to $41,000? Expert Analysis Reveals",
+    "url": "https://www.crypto-news-flash.com/bitcoins-fate-hangs-in-balance-will-it-surge-to-65000-or-plunge-to-41000-expert-analysis-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoins-fate-hangs-in-balance-will-it-surge-to-65000-or-plunge-to-41000-expert-analysis-reveals",
+    "description": "<img width=\"512\" height=\"228\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-17T102729.624.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-17T102729.624.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-17T102729.624-300x134.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-17T102729.624-150x67.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-17T102729.624-450x200.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />An analyst predicts that Bitcoin is set to hit $65k, however, the asset could fall considerably when bears reject the move.  Another analyst predicts that Bitcoin could pull back to $46k as it looks very vulnerable at the $52,000 and $53,800 price range. Bitcoin (BTC) extends its explosive run as it retests the $52,428.53 price [...]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-19T10:37:49.000Z",
-    "title": "ARK Invest offloads nearly $100m in Coinbase shares despite reassuring that platform ‘executing brilliantly’",
-    "url": "https://crypto.news/ark-invest-offloads-nearly-100m-in-coinbase-shares-despite-reassuring-that-platform-executing-brilliantly/",
-    "description": "Cathie Wood&#8217;s ARK Invest has offloaded more than $97 million in Coinbase (COIN) shares in February alone, according to trading history. Despite Coinbase&#8216;s impressive Q4 earnings report, which revealed a revenue of $953.8 million, surpassing analysts&#8217; projections, ARK Invest appears&#8230;"
+    "source": "Crypto News Flash",
+    "date": "2024-02-19T10:48:23.000Z",
+    "title": "Ethiopia Embraces Bitcoin: $250 Million Mining Project Sparks Global Interest",
+    "url": "https://www.crypto-news-flash.com/ethiopia-embraces-bitcoin-250-million-mining-project-sparks-global-interest/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-embraces-bitcoin-250-million-mining-project-sparks-global-interest",
+    "description": "<img width=\"1200\" height=\"801\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-13T085924.953-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Ethiopia gears up to kickstart its $250 million data mining project. Following the approval of mining activities, Ethiopia is spearheading Bitcoin mining on a continental scale. The Ethiopian government is opening its arms to cryptocurrency mining as it attempts to keep up with the rising adoption of digital currencies on a global scale. The North-Eastern [...]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-19T10:35:59.000Z",
-    "title": "WLD skyrockets by 180% in week, surpassing 1m daily active users",
-    "url": "https://crypto.news/wld-skyrockets-by-180-in-week-surpassing-1m-daily-active-users/",
-    "description": "Over the past two weeks, Worldcoin (WLD) has seen impressive growth. On Feb. 19, 2024, the asset hit a new all-time-high and is now trading at $7.27. Over the past 24 hours, the price of the Worldcoin token has increased by more&#8230;"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-19T10:15:59.000Z",
-    "title": "Mysterious Institution Accumulates Over $216,000,000 Chainlink (LINK) in Two Weeks: Lookonchain",
-    "url": "https://dailyhodl.com/2024/02/19/mysterious-institution-accumulates-over-216000000-chainlink-link-in-two-weeks-lookonchain/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/09/Ultimate-Goal-of-Chainlink.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>An unknown entity, likely an institution, has accumulated nearly a quarter of a billion dollars worth of oracle provider Chainlink (LINK), according to on-chain data. Blockchain tracking firm Lookonchain initially reported earlier this month that a series of fresh wallets belonging to a mysterious institution had started withdrawing large amounts of LINK from crypto exchange [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/19/mysterious-institution-accumulates-over-216000000-chainlink-link-in-two-weeks-lookonchain/\">Mysterious Institution Accumulates Over $216,000,000 Chainlink (LINK) in Two Weeks: Lookonchain</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-02-19T10:44:35.000Z",
+    "title": "Will Stablecoins Be the Trojan Horse for Crypto’s Mass Adoption?",
+    "url": "https://coinedition.com/will-stablecoins-be-the-trojan-horse-for-cryptos-mass-adoption/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Is TrueUSD the Next USTC? Stablecoin Depeg Events Investigated\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/Despite_the_bear_market_in_2022_stablecoins_on_several_Layer_1s-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>While the recovery process in the Bitcoin market continues, a post shared by former NFL player Russell Okung sparked debates in the cryptocurrency market. Speaking about allegations related to Tether, Okung brings up the analogy of &#8220;Trojan Horse&#8221; for stablecoins. In a post shared on X, Okung emphasized that claims suggesting stablecoins serve as a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/will-stablecoins-be-the-trojan-horse-for-cryptos-mass-adoption/\">Will Stablecoins Be the Trojan Horse for Crypto’s Mass Adoption?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

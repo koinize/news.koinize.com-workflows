@@ -1,135 +1,58 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-20T15:00:00.000Z",
-    "title": " DeFi Devs get real-time Bitcoin ETF data with Pyth Network ",
-    "url": "https://cointelegraph.com/news/pyth-network-bitcoin-etf-price-feeds-defi-developers",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYjA5MTA1YzItMzZkYi00NGIwLWI2MGMtYWZkM2MwOGFmMTYzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Pyth Network introduces Bitcoin ETF price feeds to allow DeFi developers access to real-time market data, bridging the gap between traditional finance and decentralized finance. </p>\n                    <p><p>Pyth Network, a provider of real-time market data for blockchain applications, announced on Feb. 20 the launch of price feeds for 13 Bitcoin exchange-traded funds (ETFs), making accurate price data of Bitcoin ETFs readily available to developers building decentralized finance (DeFi) protocols.</p><p>The <a href=\"https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals\">approval of Bitcoin ETFs</a> in the United States in Jan. 2024 was a landmark event for the crypto industry, which opened up regulated exposure to Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) for mainstream investors still hesitant to take the plunge into the space via direct ownership. </p><p>This latest initiative from the Pyth Network aims to bridge the gap between traditional financial (TradFi) and DeFi, though from the DeFi side allowing its developers access to real-time data on the ETFs. Pyth said this could also help DeFi platforme expand portfolio options, improve risk mitigation strategies and help enhance liquidity by potentially attracting institutional capital on-chain. </p><p><a href=\"https://cointelegraph.com/news/pyth-network-bitcoin-etf-price-feeds-defi-developers\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-02-20T15:29:22.000Z",
+    "title": "Mastercard’s Latest Crypto Loyalty Scheme Aims to Plug Google Pay Gaps",
+    "url": "https://www.coindesk.com/business/2024/02/20/mastercards-latest-crypto-loyalty-scheme-aims-to-plug-google-pay-gaps/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Mastercard is working with emerging markets-focused mobile payments app Swoo Pay to offer loyalty rewards in cryptocurrency."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-20T15:34:49.000Z",
+    "title": "Binance Finalizes Monero Delisting Amid Surprising Market Response",
+    "url": "https://decrypt.co/218194/binance-finalizes-monero-delisting",
+    "description": "Monero says goodbye to Binance, but traders appear to be buying the coin’s dip. XMR has recovered 6.4% and almost erased yesterday’s losses."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-20T15:06:45.000Z",
-    "title": "Why does Chainlink (LINK) & Kelexo (KLXO) have such positive swings, but Ripple (XRP) future look in doubt",
-    "url": "https://cryptodaily.co.uk/2024/02/why-does-chainlink-link-kelexo-klxo-have-such-positive-swings-but-ripple-xrp-future-look-in-doubt",
-    "description": "In the dynamic world of cryptocurrency, investors closely monitor the performance of various digital assets, seeking insights into their market behavior and future prospects. Among the notable cryptocurrencies under scrutiny are Chainlink (LINK), Ripple (XRP) and the emerging financial platform Kelexo (KLXO)."
+    "date": "2024-02-20T15:35:18.000Z",
+    "title": "Key Cryptocurrencies to Buy for Maximizing Gains During the Bull Run",
+    "url": "https://cryptodaily.co.uk/2024/02/key-cryptocurrencies-to-buy-for-maximizing-gains-during-the-bull-run",
+    "description": "Get ready for the crypto bull run of 2024! Dive into the market's potential growth with key cryptocurrencies that are poised for explosive gains. Don't miss your chance to maximize returns during this exciting phase of evolution in the crypto world."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-20T14:56:06.000Z",
-    "title": "Bitcoin Fear & Greed Index Peaks; Memecoin on the Brink of an Impressive Achievement",
-    "url": "https://cryptodaily.co.uk/2024/02/bitcoin-fear-greed-index-peaks-memecoin-on-the-brink-of-an-impressive-achievement",
-    "description": "In the ever-evolving landscape of cryptocurrency, market sentiment plays a crucial role in shaping investor behavior and influencing asset prices. Recently, the Fear & Greed Index for Bitcoin has peaked, reflecting extreme market enthusiasm and signaling potential shifts in investor sentiment. Amidst this backdrop, Rebel Satoshi ($RBLZ) stands on the brink of an impressive achievement, garnering attention for its unique features and promising trajectory in the cryptocurrency market."
+    "date": "2024-02-20T15:31:40.000Z",
+    "title": "Ripple (XRP)'s Disappointing YTD Sees Investors Diversify into DeeStream (DST) as Traders Mimic Binance Coin (BNB) Whale",
+    "url": "https://cryptodaily.co.uk/2024/02/ripple-xrps-disappointing-ytd-sees-investors-diversify-into-deestream-dst-as-traders-mimic-binance-coin-bnb-whale",
+    "description": "Cryptocurrencies offer a high-risk, high-reward investment landscape, where fortunes can be made or lost in the blink of an eye."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-20T14:48:40.000Z",
-    "title": "The 7 Must-Have DeFi Coins Set for Massive Gains in 2024",
-    "url": "https://cryptodaily.co.uk/2024/02/the-7-must-have-defi-coins-set-for-massive-gains-in-2024",
-    "description": "The Decentralized Finance (DeFi) market has steadily grown over the past few years, as it continues to provide solutions to traditional finance (TradFi problems). Key crypto industry figures have forecasted that the DeFi market will make even bigger strides in 2024."
+    "date": "2024-02-20T15:24:08.000Z",
+    "title": "Bitcoin Cash (BCH) holders sell profits for Kelexo (KLXO) presale, while Dai (DAI) continues to achieve solid gains",
+    "url": "https://cryptodaily.co.uk/2024/02/bitcoin-cash-bch-holders-sell-profits-for-kelexo-klxo-presale-while-dai-dai-continues-to-achieve-solid-gains",
+    "description": "In the ever-evolving landscape of cryptocurrency markets, investors are constantly seeking opportunities to maximize their gains while minimizing risks. Recent trends have seen Bitcoin Cash (BCH) holders strategically selling profits to participate in the presale of Kelexo (KLXO), drawn by the platform's innovative features and potential for solid returns."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-02-20T14:41:55.000Z",
-    "title": "Filecoin Gains Momentum with Solana Partnership, But This Crypto Has Even Bigger Upside Potential",
-    "url": "https://cryptodaily.co.uk/2024/02/filecoin-gains-momentum-with-solana-partnership-but-this-crypto-has-even-bigger-upside-potential",
-    "description": "Filecoin's (FIL) groundbreaking partnership with Solana is shaking up the crypto market, setting the stage for a decentralized storage revolution! Discover how this alliance is boosting FIL's market value and why it could be a game-changer in the blockchain world. Dive into the potential of this dynamic duo to reshape the future of decentralized data storage."
+    "source": "NullTX",
+    "date": "2024-02-20T15:32:27.000Z",
+    "title": "ETHEREUM PRICE ANALYSIS & PREDICTION (February 20) – ETH Targets $3k, Can It Breakthrough This Psychological Level? ",
+    "url": "https://nulltx.com/ethereum-price-analysis-prediction-february-20-eth-targets-3k-can-it-breakthrough-this-psychological-level/",
+    "description": "Since Ethereum bounced off a key support level last month, the price increased steadily and broke through several key resistance levels to near a two-year high today. Its dominance stands at 17.6% with no sign of weakness at the time of writing.  As much anticipated, Ethereum advanced bullishly and increased [&#8230;]"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-20T15:05:46.000Z",
-    "title": "Ethereum Taps $3,000 Barrier Amid ETF Speculation and Upcoming Dencun Upgrade",
-    "url": "https://news.bitcoin.com/ethereum-taps-3000-barrier-amid-etf-speculation-and-upcoming-dencun-upgrade/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum Taps $3,000 Barrier Amid ETF Speculation and Upcoming Dencun Upgrade\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The value of ethereum, the crypto market&#x2019;s second-largest asset by market cap, eclipsed the $3,000 milestone on Tuesday, peaking at $3,014 per unit in the morning trading hours. Over the last week, ether has seen a 13.1% climb against the U.S. dollar, and over the preceding two weeks, it has surged 28%. Ether Hits Two-Year [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-02-20T15:25:22.000Z",
+    "title": "BITCOIN PRICE ANALYSIS & PREDICTION (February 20) – BTC Sets For More Surge After Weekend’s Drop, Up 25% Gains Monthly",
+    "url": "https://nulltx.com/bitcoin-price-analysis-prediction-february-20-btc-sets-for-more-surge-after-weekends-drop-up-25-gains-monthly/",
+    "description": "Bitcoin is slowly building up for another leg up after losing heat last Weekend. It may reach a new milestone this week as it continues to gain dominance. Although, a pullback lies ahead as the market becomes greedy. After trading as low as $38,500 last month, Bitcoin bounced and increased [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T15:06:43.000Z",
-    "title": "Ethana shakes up DeFi with $300m inflows and 27% annualized yield",
-    "url": "https://www.cryptopolitan.com/ethena-shakes-up-defi-inflows-yield/",
-    "description": "Amid the burgeoning world of decentralized finance (DeFi), Ethena, a newly launched platform, has quickly captured attention and investment, boasting an enticing annualized yield of 27% for holders of its USDe stablecoins.&#160; The platform, which had been in beta testing among a limited group, recently opened its doors to the public, leading to a surge [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T15:05:59.000Z",
-    "title": "The Transformative Impact of Generative AI on Work Productivity",
-    "url": "https://www.cryptopolitan.com/impact-of-generative-ai-on-work-productivity/",
-    "description": "In an era where digital transformation shapes every facet of the business world, generative AI emerges as a pivotal force in augmenting work productivity. This advanced subset of AI technologies, capable of producing new content from existing data patterns, is redefining the landscape of professional tasks and creative endeavors. By automating routine activities, enhancing human [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T15:00:00.000Z",
-    "title": "Crucial Victory for Polygon Against Solana: What’s Next? Polkadot and Promising Memecoin Ready for Ambitious Upticks",
-    "url": "https://www.cryptopolitan.com/crucial-victory-for-polygon-against-solana-whats-next-polkadot-and-promising-memecoin-ready-for-ambitious-upticks/",
-    "description": "In the ever-evolving landscape of cryptocurrencies, recent developments have highlighted significant shifts in market dynamics. Polygon&#8217;s recent triumph over Solana, coupled with the anticipated growth of Polkadot and the upcoming launch of Rebel Satoshi ($RBLZ), has sparked widespread interest among investors. In this article, we delve into the implications of Polygon&#8217;s victory, the potential for [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T14:49:56.000Z",
-    "title": "Is ChatGPT Spying on You? Hackers Caught, Privacy Concerns Raised",
-    "url": "https://www.cryptopolitan.com/is-chatgpt-spying-on-you/",
-    "description": "The recent news of Microsoft and OpenAI catching state-sponsored hackers has reawakened concerns among ChatGPT users regarding how much the company spies on their chats. Last week, Microsoft, which is the largest investor in OpenAI with a 49% stake, released a report saying they caught Chinese, Russian, and Iranian hackers using LLMs to augment cyber [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T14:43:39.000Z",
-    "title": "Nottingham Building Society Accelerates Mortgage Process with MQube’s AI Technology",
-    "url": "https://www.cryptopolitan.com/nottingham-accelerate-mortgage-with-mqube-ai/",
-    "description": "In a significant move to enhance the efficiency and speed of mortgage application and underwriting processes, Nottingham Building Society has announced its collaboration with MQube. This partnership aims to leverage artificial intelligence through MQube&#8217;s advanced Origo platform, promising a revolution in the mortgage industry by offering rapid, cost-effective, and stress-free mortgage solutions. Transforming mortgage underwriting [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T14:41:00.000Z",
-    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
-    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
-    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-20T14:55:57.000Z",
-    "title": "Choosing the best cryptocurrency for mining: essential factors to consider",
-    "url": "https://crypto.news/best-crypto-for-mining/",
-    "description": "Which are the best cryptos for mining with ASICs in 2024, and how much can miners expect to earn? The global crypto mining market, which reached nearly $2.93 billion in 2023, is projected to grow at a compound annual growth&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-02-20T15:00:39.000Z",
-    "title": "Solana, Chainlink Among Coins With Overheating Open Interest: Data",
-    "url": "https://www.newsbtc.com/news/solana/solana-chainlink-coins-overheating-open-interest/",
-    "description": "Data shows Solana and Chainlink are among the top cryptocurrencies that have observed growth in Open Interest to relatively high levels. Solana &#38; Chainlink Have Their Open Interest At Notable Values Currently According to data from the on-chain analytics firm Santiment, there has been a dramatic increase in interest in the derivative market for cryptocurrencies recently. The indicator of relevance here is the &#8220;Open Interest,&#8221; which keeps track of the total amount of derivative contracts for any given asset that is currently open on all centralized exchanges. Related Reading: Ethereum Breaks $2,900, But Watch Out For Futures Overheating When the value of this metric goes up, it means that the investors are increasing positions on the derivative side of the market. Such a trend may be a predictor for higher volatility, as the total leverage in the sector tends to go up when new futures positions pop up. On the other hand, a decrease in the indicator implies the holders are closing up their positions or are getting forcefully liquidated by their platform, thus leading to the leverage potentially coming down. As such, this kind of trend can result in the asset&#8217;s price becoming more stable. Now, here is a chart that shows the trend in the Open Interest for various top assets in the cryptocurrency sector over the past year: Looks like the value of the metric has been sharply going up for some of these assets &#124; Source: Santiment on X As displayed in the above graph, the Open Interest has exploded for Bitcoin and Ethereum recently as the latest surge in prices has occurred. Generally, such sharp price action attracts a large amount of speculators to the assets, so the indicator&#8217;s upward trajectory isn&#8217;t surprising. The scale of the increase, though, may be a bit concerning. From the chart, it&#8217;s visible that the BTC Open Interest is currently around $9.85 billion, while for ETH, it&#8217;s about $5.59 billion. Among the altcoins, Solana and Chainlink have particularly stood out, as the indicator has touched $1.62 billion and $549 million for them, respectively. These are much smaller values than Bitcoin and Ethereum, of course, but their market caps are also much smaller than these two titans. &#8220;With Bitcoin, in particular, crossing over $10B in open interest for the first time since July, 2022, this does signal crowd euphoria is alive and well,&#8221; notes the analytics firm. &#8220;Sometimes rising too quickly can be indicative of some caution flags.&#8221; Related Reading: 16,000 Bitcoin Dormant Since 5+ Years Suddenly Moves, What’s Going On? The reason that a high Open Interest has historically been a cause for concern is that mass liquidation events become more probable to occur in such market conditions, due to an abundance of leverage. Such events, where liquidations can cascade together, are usually chaotic and result in some sharp price action. As Solana, Chainlink, and other top assets have a potentially overheated Open Interest right now, they may be ones to watch in the coming days, as any further increases might serve as a warning. SOL Price At the time of writing, Solana is trading around the $110 level, down over 3% in the last seven days. The price of Solana appears to have been moving sideways recently &#124; Source: SOLUSD on TradingView Featured image from iStock.com, charts from TradingView.com, Santiment.net"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-20T14:56:20.000Z",
-    "title": "Confidence Soars in Meme Moguls (MGLS) Presale as Ripple (XRP) and Solana (SOL) Investors Show Support",
-    "url": "https://www.crypto-news-flash.com/confidence-soars-in-meme-moguls-mgls-presale-as-ripple-xrp-and-solana-sol-investors-show-support/?utm_source=rss&utm_medium=rss&utm_campaign=confidence-soars-in-meme-moguls-mgls-presale-as-ripple-xrp-and-solana-sol-investors-show-support",
-    "description": "<img width=\"1200\" height=\"630\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-300x158.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-768x403.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-150x79.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-450x236.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The community around Meme Moguls is now getting hyped up as each round of the presale is selling out quickly, Investors in long-standing projects like Ripple and Solana are jumping in to make sure they don’t miss out on what is predicted to be a 30-50x opportunity. Where is the Meme Moguls presale at now? [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-20T14:52:03.000Z",
-    "title": "Sui Blockchain Takes the Lead: $310M Inflow, Outshining Cardano & Aptos – What’s Next?",
-    "url": "https://www.crypto-news-flash.com/sui-blockchain-takes-the-lead-310m-inflow-outshining-cardano-aptos-whats-next/?utm_source=rss&utm_medium=rss&utm_campaign=sui-blockchain-takes-the-lead-310m-inflow-outshining-cardano-aptos-whats-next",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SUI\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Sui network sees rapid growth driven by demand for Web3 smart contracts, with SUI price surging over 62% in the past month to around $1.8. Sui network stands out with impressive Total Value Locked (TVL) growth, reaching approximately $584 million and attracting over $310 million from Ethereum&#8217;s Web3 protocols. This month has seen a notable [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-02-20T14:49:49.000Z",
-    "title": "Best On-Ramp + Off-Ramp Solutions for USDC in the U.S.",
-    "url": "https://www.altcoinbuzz.io/reviews/best-on-ramp-off-ramp-solutions-for-usdc-in-the-u-s/",
-    "description": "<p>For US citizens, trading crypto in the US is not without challenges. Unfortunately, limited options are available. On top of that, you also have the on-ramp and off-ramp issues to deal with. That&#8217;s why, we will take a look at USDC on-ramp and off-ramp options in the US. What Is On-Ramping and Off-Ramping Crypto? On-ramping [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/reviews/best-on-ramp-off-ramp-solutions-for-usdc-in-the-u-s/\">Best On-Ramp + Off-Ramp Solutions for USDC in the U.S.</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-02-20T14:41:09.000Z",
-    "title": "Top Strategy to Maximize Staking Rewards in EigenLayer",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/top-strategy-to-maximize-staking-rewards-in-eigenlayer/",
-    "description": "<p>Ethereum Restaking and Maximizing Staking Rewards in EigenLayer. Ethereum restaking has been gaining massive traction recently, with EigenLayer leading the charge in this narrative, offering lucrative avenues for users. In this article, we&#8217;ll delve into the concept of Ethereum restaking and uncover strategies for maximizing staking rewards. What is Ethereum Restaking? Staking entails locking a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/top-strategy-to-maximize-staking-rewards-in-eigenlayer/\">Top Strategy to Maximize Staking Rewards in EigenLayer</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Bitfinex Blog",
-    "date": "2024-02-20T14:53:36.000Z",
-    "title": "Bitfinex Alpha | Đà tăng Bitcoin vẫn còn hiệu lực",
-    "url": "https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-da-tang-bitcoin-van-con-hieu-luc/",
-    "description": "<p>Bitcoin chứng tỏ khả năng phục hồi mạnh mẽ trong tuần này, đạt đỉnh cao mới trong năm, bất chấp &#8211; hoặc có lẽ vì &#8211; dữ liệu CPI và PPI cao hơn dự kiến, kéo theo dòng tiền liên tục chảy vào các ETF...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-da-tang-bitcoin-van-con-hieu-luc/\">&lt;strong&gt;Bitfinex Alpha | Đà tăng Bitcoin vẫn còn hiệu lực&lt;/strong&gt;</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-02-20T15:30:57.000Z",
+    "title": "Whale Accumulates Over $178,900,000 in Ethereum (ETH) in Less Than Two Weeks: Lookonchain",
+    "url": "https://dailyhodl.com/2024/02/20/whale-accumulates-over-178900000-in-ethereum-eth-in-less-than-two-weeks-lookonchain/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Whale-Accumulates-Over-178.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>An unknown cryptocurrency whale has amassed over 64,000 Ethereum (ETH) in just 11 days, according to on-chain data. Blockchain-tracking service Lookonchain notes that since February 8th, an anonymous whale has acquired 64,346 ETH worth $178.9 million from both centralized and decentralized crypto exchanges. Blockchain explorer Etherscan shows that the whale initially accumulated 1,100 ETH on [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/20/whale-accumulates-over-178900000-in-ethereum-eth-in-less-than-two-weeks-lookonchain/\">Whale Accumulates Over $178,900,000 in Ethereum (ETH) in Less Than Two Weeks: Lookonchain</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

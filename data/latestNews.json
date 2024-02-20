@@ -1,79 +1,142 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-20T13:27:36.000Z",
-    "title": "Protocol Village: Humanity Protocol Emerges From Stealth, Backed by Animoca, Polygon",
-    "url": "https://www.coindesk.com/tech/2024/02/17/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 15-21."
+    "date": "2024-02-20T13:49:06.000Z",
+    "title": "Ether Hits $3K for First Time in Nearly 2 Years Amid Rising ETH ETF Excitement",
+    "url": "https://www.coindesk.com/markets/2024/02/20/ether-hits-3k-for-first-time-in-nearly-2-years-amid-rising-eth-etf-excitement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The price of ether, the native token to the Ethereum network, rose past $3,000 for the first time since April 2022 on Monday, continuing a recent hot streak."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-20T14:04:30.000Z",
+    "title": "Rug Radio &#038; Decrypt Path to Establishing a Decentralized Media Ecosystem",
+    "url": "https://decrypt.co/218027/rug-radio-decrypt-path-to-establishing-a-decentralized-media-ecosystem",
+    "description": "Our mission is to craft an ecosystem that equitably benefits content creators and consumers alike, ensuring that every interaction enhances the collective value of our network."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-20T14:01:00.000Z",
+    "title": " AI-generated fake IDs confound crypto exchange KYC measures ",
+    "url": "https://cointelegraph.com/news/ai-fake-ids-crypto-exchange-kyc",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNDU1N2Y5MTgtMmFlMy00NWE4LThjODMtNDFlMGE5YzFmMDNiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>AI is escalating the challenge of deepfake frauds in digital identity verification, potentially reshaping cybersecurity. </p>\n                    <p><p data-ct-non-breakable=\"true\">The field of artificial intelligence (AI) has witnessed remarkable growth in recent years, with <a href=\"https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html\" target=\"_blank\" rel=\"noopener nofollow\">projections indicating</a> that, by 2030, the industry could add as much as $15.7 trillion to the global economy — a figure that far surpasses the current economic outputs of major players, including China and India combined. </p><p>A particular development in this regard emanating from this space and garnering a lot of traction recently is that of “deepfakes” — i.e., highly realistic video and/or audio recordings created with AI that can mimic real human appearances or voices, often indistinguishable from their genuine counterparts. </p><p>To this point, a recent <a href=\"https://twitter.com/0xMidnight/status/1743329641882947837?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1743329641882947837%7Ctwgr%5E0289a07d2fdd6d69a71bb887ca06f133e9759dbf%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Ftechcrunch.com%2F2024%2F01%2F08%2Fgen-ai-could-make-kyc-effectively-useless%2F\" target=\"_blank\" rel=\"noopener nofollow\">viral post</a> on X demonstrated how some are exploiting readily available open-source and commercial software to alter a person’s selfie with generative AI tools, creating counterfeit ID images that can potentially deceive many of today’s security checks.</p><p><a href=\"https://cointelegraph.com/news/ai-fake-ids-crypto-exchange-kyc\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-20T13:59:49.000Z",
+    "title": " Starknet’s STRK hits $7 on Binance as millions of tokens claimed on airdrop day  ",
+    "url": "https://cointelegraph.com/news/starknet-7-binance-millions-tokens-claimed",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOTQxNjdiYmUtMTY1Mi00MmM2LThjOGYtZjc0Y2JkNjRjNjE1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Eligible Starknet token recipients claimed million of tokens as the Ethereum layer-2 opened its provisions portal to distribute its native token. </p>\n                    <p><p data-ct-non-breakable=\"true\">Ethereum layer-2 scaling protocol Starknet began distributing its native network token on Feb. 20, with millions of tokens claimed upon the launch of the provisions portal.</p><p>Real-time data tracking the claims reflected that eligible users had secured more than 45 million STRK tokens in the first 90 minutes of the allocation. The token also began trading across a number of major exchanges.</p><p>STRK traded at over $7 following its listing on Binance and surpassed $5 on KuCoin as the tokens entered the wider cryptocurrency ecosystem. Data from CoinMarketCap showed STRK trading between $3 and $4, with its market capitalization valued at over $2.1 billion.</p><p><a href=\"https://cointelegraph.com/news/starknet-7-binance-millions-tokens-claimed\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-20T13:58:17.000Z",
+    "title": " Ethereum (ETH) price hits $3K for the first time since 2022 ",
+    "url": "https://cointelegraph.com/news/ethereum-eth-price-hits-3k-for-the-first-time-since-2022",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZTdhYTJiYmQtOGM3ZS00ZWFmLTliMDAtYjliZmE0NTViZjA3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ethereum price topped $3,000, a level not seen in more than 22 months.</p>\n                    <p><p data-ct-non-breakable=\"true\">Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) price topped the $3,000 level on for the first time since April 2022.</p><p>Ether climbed from a price of $2,881 on Feb. 19, surging more than 4% in the last 24 hours and 74% over the last 12 months, to hit a year-to-date high at on Binance at 13:45 UTC, according to data from CoinMarketCap.</p><p data-ct-non-breakable=\"true\">Ether’s price performance comes as the market awaits the possible approval of spot Ethereum exchange-traded fund (ETF) by the U.S. Securities and Exchange Commission (SEC) and the implementation of the EIP-4844 through the Dencun upgrade.</p><p><a href=\"https://cointelegraph.com/news/ethereum-eth-price-hits-3k-for-the-first-time-since-2022\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-20T13:47:28.000Z",
+    "title": " OpenAI’s GPT-4 Turbo receives stealth update for 2023 ",
+    "url": "https://cointelegraph.com/news/openai-gpt-4-turbo-update-december-2023",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMTc3ZDhiMzQtMGNmMC00MGJhLWFmMGMtYmViMDViMDc2Y2YxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OpenAI’s most advanced commercial AI model, GTP-4 Turbo, has been quietly updated to a data training set as recently as December 2023 without any public announcement from the company. </p>\n                    <p><p data-ct-non-breakable=\"true\">The artificial intelligence (AI) developer OpenAI has quietly updated the training data set for its most advanced model, GPT-4 Turbo, to be relevant from December 2023, according to <a href=\"https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo\" target=\"_blank\" rel=\"noopener nofollow\">documentation</a> on its website. </p><p>Turbo’s latest update, which was not widely announced by the developer, means that it is now equipped with data relevant up until December 2023, making it the most up-to-date model offered by OpenAI. By comparison, its free model, GPT 3.5, is only equipped with data relevant up until January 2022. </p><p>According to the site, the update was implemented with the intention of reducing what developers call “laziness” in a model, in which it doesn’t complete tasks asked of it. </p><p><a href=\"https://cointelegraph.com/news/openai-gpt-4-turbo-update-december-2023\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-02-20T13:37:40.000Z",
-    "title": "Nearly 450,000 BTC acquired by short-term holders since December",
-    "url": "https://cryptoslate.com/insights/nearly-450000-btc-acquired-by-short-term-holders-since-december/",
-    "description": "<p>Quick Take Short-term holders (STHs), defined by Glassnode as investors who&#8217;ve held Bitcoin for less than 155 days, have significantly bulked up their holdings since Dec. 3, moving from 2,236,571 to 2,682,061 Bitcoin, marking a substantial increase of 445,490 BTC, roughly a 20% increase. Conversely, long-term holders (LTHs)—investors holding Bitcoin for more than 155 days—have [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/nearly-450000-btc-acquired-by-short-term-holders-since-december/\">Nearly 450,000 BTC acquired by short-term holders since December</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-20T14:01:58.000Z",
+    "title": "Gaunt photos of FTX founder Sam Bankman-Fried in prison emerge online",
+    "url": "https://cryptoslate.com/first-photos-of-ftx-founder-sam-bankman-fried-in-prison-emerge-online/",
+    "description": "<p>The first photos of Sam Bankman-Fried, the convicted founder of the bankrupt FTX exchange, at New York&#8217;s Metropolitan Detention Centre, have emerged online from crypto influencer Tiffany Fong. Fong shared the exclusive images of SBF on Feb. 20 via the social media platform X (formerly Twitter), describing it as the &#8220;first and only&#8221; photos of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/first-photos-of-ftx-founder-sam-bankman-fried-in-prison-emerge-online/\">Gaunt photos of FTX founder Sam Bankman-Fried in prison emerge online</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-20T13:39:11.000Z",
-    "title": "Trader Makes 1280X Investing Only $137 - Explore New Crypto with Same Potential",
-    "url": "https://cryptodaily.co.uk/2024/02/trader-makes-1280x-investing-only-137-explore-new-crypto-with-same-potential",
-    "description": "Explore the world of crypto investments with incredible success stories. Uncover the potential of a new project in its early presale stage with a solid technological foundation and compelling vision. Learn about BlastUP, setting new standards in DApp development and community growth."
+    "date": "2024-02-20T14:07:00.000Z",
+    "title": "The new gaming web3 gem supported by Ubisoft, aiming for 100 million players to protect the environment",
+    "url": "https://cryptodaily.co.uk/2024/02/the-new-gaming-web3-gem-supported-by-ubisoft-aiming-for-100-million-players-to-protect-the-environment",
+    "description": "The new gaming web3 gem supported by Ubisoft, aiming for 100 million players to protect the environment"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-20T13:30:46.000Z",
-    "title": "Deltec Bank Accused of Secretly Extending a $2 Billion Credit Line to Alameda Research",
-    "url": "https://news.bitcoin.com/deltec-bank-accused-of-secretly-extending-a-2-billion-credit-line-to-alameda-research/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Deltec Bank Accused of Secretly Extending a $2 Billion Credit Line to Alameda Research\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/lasswuit.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Deltec Bank and Trust Ltd, based in The Bahamas, stands accused of covertly extending a $2 billion line of credit to Alameda Research. A lawsuit, filed by those who claim to be victims of Sam Bankman-Fried, accused Deltec of granting a three-day grace period to Alameda Research for the settlement of purchased stablecoins. Misappropriation of [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-02-20T14:04:18.000Z",
+    "title": "Will Cardano (ADA) And ApeCoin (APE) Rise? New Altcoin Set To Rival Pepe, Onboards Over 2,000 New Users",
+    "url": "https://cryptodaily.co.uk/2024/02/will-cardano-ada-and-apecoin-ape-rise-new-altcoin-set-to-rival-pepe-onboards-over-2000-new-users",
+    "description": "Crypto investors keep looking for the best investment options to maximize their earnings. A new project, Kangamoon, has become the hottest presale asset for its features and growth potential."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T13:58:26.000Z",
+    "title": "Cosmos (ATOM) & Shiba Inu (SHIB) holders add DeeStream (DST) presale after expert tips phenomenon to hit 30x by September",
+    "url": "https://cryptodaily.co.uk/2024/02/cosmos-atom-shiba-inu-shib-holders-add-deestream-dst-presale-after-expert-tips-phenomenon-to-hit-30x-by-september",
+    "description": "Cosmos (ATOM) looks like it has finally overcome its bearish trend as of February 2024, posting double-digit gains in the past week. On the other hand, while Shiba Inu (SHIB) hadn’t exactly been at the races this year, the dog-themed meme token has managed to turn in a solid, if unspectacular gain since Bitcoin (BTC) hit $52,000."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T13:50:24.000Z",
+    "title": "Solana early adopter who bought at $8, diversifies with $100,000 bet on new coin—could this be the next SOL?",
+    "url": "https://cryptodaily.co.uk/2024/02/solana-early-adopter-who-bought-at-8-diversifies-with-100000-bet-on-new-coin-could-this-be-the-next-sol",
+    "description": "The cryptocurrency market is known for its volatility and potential for substantial gains, and early adopters often find themselves in enviable positions as pioneers in emerging technologies."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T13:46:11.000Z",
+    "title": "Market Analysts See BlastUP (BLP) at $0.03 Offering Potential Mirroring Early Ethereum (ETH) at $50",
+    "url": "https://cryptodaily.co.uk/2024/02/market-analysts-see-blastup-blp-at-003-offering-potential-mirroring-early-ethereum-eth-at-50",
+    "description": "Dive into the world of cryptocurrency investment with BlastUP (BLP), a hidden gem with the potential to echo the success stories of Ethereum's early days. This article explores the foundational strengths and visionary aspirations that position BlastUP as a cornerstone investment in the crypto space."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-20T13:36:21.000Z",
-    "title": "Wipro and IBM Amplify Partnership to Propel AI Adoption with New Services",
-    "url": "https://www.cryptopolitan.com/wipro-and-ibm-partner-to-propel-ai/",
-    "description": "Wipro Limited has unveiled the Wipro Enterprise AI-Ready Platform in a strategic move to accelerate the adoption of Artificial Intelligence (AI) across enterprises. This Wipro and IBM collaboration aims to equip clients with the tools necessary to build bespoke, fully integrated AI ecosystems. By leveraging IBM&#8217;s watsonx AI and data platform, the initiative marks a [&#8230;]"
+    "date": "2024-02-20T13:56:00.000Z",
+    "title": "Sam Bankman-Fried’s prison photo reveals the transformation",
+    "url": "https://www.cryptopolitan.com/sam-bankman-photo-reveals-transformation/",
+    "description": "A newly surfaced photo allegedly taken at New York’s Metropolitan Detention Centre reveals former FTX CEO Sam Bankman-Fried with a noticeably slimmer physique and a rugged beard, indicative of his time spent behind bars.&#160; The image, shared by independent crypto reporter Tiffany Fong in an interview with a former MDC inmate known as &#8220;G Lock,&#8221; [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-20T13:29:19.000Z",
-    "title": "Transparently.AI Secures Investment from Franklin Templeton for AI Accounting Fraud Detection Software",
-    "url": "https://www.cryptopolitan.com/transparently-ai-secures-investment/",
-    "description": "Singapore-based Transparently.AI has successfully secured an investment from Franklin Templeton as part of its entry into the asset manager’s esteemed FinTech Incubator program. The company, specializing in artificial intelligence software designed to detect accounting fraud, aims to bolster its market presence and accelerate its growth trajectory, particularly in North America. Empowering financial vigilance through AI [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T13:17:24.000Z",
-    "title": "Baird Raises Price Target for NVIDIA Corporation (NASDAQ: NVDA) on Upbeat AI Demand",
-    "url": "https://www.cryptopolitan.com/baird-raises-price-target-for-nvidia/",
-    "description": "In a recent development, Baird, a prominent financial services firm, has reinforced its positive outlook on NVIDIA Corporation (NASDAQ: NVDA), adjusting its price target upward to $1,050 from the previous $750.&#160; While maintaining an Outperform rating on the stock, the firm cited robust demand for NVIDIA&#8217;s artificial intelligence (AI) solutions as a primary driver behind [&#8230;]"
+    "date": "2024-02-20T13:40:58.000Z",
+    "title": "Groundbreaking AI Interoperability Prototype Developed by Qualcomm and Nokia",
+    "url": "https://www.cryptopolitan.com/groundbreaking-ai-interoperability-prototype/",
+    "description": "In a pioneering collaboration, Qualcomm Technologies and Nokia have unveiled a groundbreaking prototype technology poised to tackle the intricate challenge of interoperability in AI-driven wireless systems.&#160; This innovation marks a significant milestone in leveraging the power of artificial intelligence (AI) to enhance the performance and efficiency of wireless networks and devices. Advancing wireless systems with [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-20T13:14:56.000Z",
-    "title": "What is the ERC-404 token standard: revolution or failure?",
-    "url": "https://crypto.news/what-is-the-erc-404-token-standard/",
-    "description": "The new ERC-404 token standard presents promises and uncertainties for traders and digital art enthusiasts. But is it a reliable solution? The experimental ERC-404 standard aims to solve the liquidity problem of NFT collections. It merges the characteristics of ERC-20&#8230;"
+    "date": "2024-02-20T13:44:53.000Z",
+    "title": "eTukTuk raises $1.2m in presale, analysts expect more gains",
+    "url": "https://crypto.news/etuktuk-raises-1-2m-in-presale-analysts-expect-more-gains/",
+    "description": "eTukTuk has raised over $1.2 million, pointing to rising investor interest in sustainable transportation solutions"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-20T13:13:19.000Z",
-    "title": "Mumbai launches metaverse to showcase infrastructure innovations in India",
-    "url": "https://crypto.news/mumbai-launches-metaverse-to-showcase-infrastructure-innovations-in-india/",
-    "description": "Mumbai, the financial capital of India, has launched a metaverse initiative aimed at previewing and showcasing the city&#8217;s infrastructure developments.  A new initiative called the Mumbai Metropolis Metaverse has launched offering 3D and virtual reality experiences of ongoing and future&#8230;"
+    "source": "NewsBTC",
+    "date": "2024-02-20T14:00:26.000Z",
+    "title": "Ethereum Receives Nod Of Approval From Berstein: ETH Price Will Reach $10,000",
+    "url": "https://www.newsbtc.com/news/ethereum/ethereum-berstein-eth-price-10000/",
+    "description": "Global asset management firm, Bernstein has expressed confidence, foreseeing a fairly strong chance of the United States Securities and Exchange Commission (SEC) approving an Ethereum Spot ETF.   SEC Ethereum Spot ETF Approval Imminent In a February 19 research report, Bernstein analysts Gautam Chhugani and Mahika Sapra disclosed that Ethereum, the world’s second-largest cryptocurrency, may be the only digital asset after Bitcoin, to win an ETF approval from the US SEC.  Related Reading: Bitcoin Open Interest Reaches $69,000 ATH Levels, What This Means For Price Following the approval of Spot Bitcoin ETF, many crypto enthusiasts anticipated Ethereum as the next in line for an ETF. However, given the SEC’s current stance on cryptocurrencies and its previous reluctant acceptance of Spot Bitcoin ETFs, the prospects of an Ethereum ETF have become uncertain.  In the research report, Bernstein analysts predicted the approval timeline for an Ethereum Spot ETF. They emphasized that the presence of notable traditional financial firms, including Grayscale and Franklin Templeton, competing for a Spot Ethereum ETF, strengthens the outlook for its approval.  “We think there is a roughly 50% chance of spot Ethereum ETF approval by May, with an almost certain chance of approval within the next 12 months,” the Bernstein report read.   Ethereum’s Roadmap To $10,000 With the potential approval of Ethereum Spot ETFs, Ethereum may witness a significant price increase to levels as high as $10,000.  Prior to the SEC’s approval of Spot Bitcoin ETFs on January 10, the anticipation surrounding the ETF had sparked a massive price rally for the cryptocurrency. Following the approval and ETF launch, Bitcoin surged to over $45,000 before witnessing a subsequent price correction that pushed it back below $40,000.  Related Reading: Crypto Analyst Reveals Why Shiba Inu Price Will Not Reach $1 Despite the short correction, Bitcoin has been gaining back its momentum, and at the time of writing, the cryptocurrency is trading at $51,998, according to CoinMarketCap. This substantial price increase is largely attributed to the success of its ETF, providing investors with greater accessibility to Bitcoin, and contributing to the cryptocurrency’s increased adoption. A similar narrative could unfold for Ethereum following the approval of its ETF. With rising interest from institutional investors and the ETF driving global adoption, the cryptocurrency could potentially attain new all-time highs above $10,000.  In the research report, Bernstein analysts also confirmed Ethereum’s strong positioning for mainstream institutional adoption. The analysts emphasized the need for the cryptocurrency market to shift its attention to Ethereum, as the cryptocurrency is poised to witness gains following the approval and launch of its ETF. ETH price reclaims $2,900 &#124; Source: ETHUSD on Tradingview.com Featured image from Crypto Briefing, chart from Tradingview.com"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-20T13:11:23.000Z",
-    "title": "Analyst backs Worldcoin price to hit $26 in 2024, new altcoin poised for more gains",
-    "url": "https://crypto.news/analyst-backs-worldcoin-price-to-hit-26-in-2024-new-altcoin-poised-for-more-gains/",
-    "description": "Worldcoin is rallying but analysts expect Bitcoin Minetrix to follow suit at the end of its BTCMTX presale"
+    "source": "Crypto News Flash",
+    "date": "2024-02-20T14:00:46.000Z",
+    "title": "Early Buyers Are Hyped For Rebel Satoshi ($RBLZ) Launch Amid Price Gains On Polkadot (DOT) And Immutable X",
+    "url": "https://www.crypto-news-flash.com/early-buyers-are-hyped-for-rebel-satoshi-rblz-launch-amid-price-gains-on-polkadot-dot-and-immutable-x/?utm_source=rss&utm_medium=rss&utm_campaign=early-buyers-are-hyped-for-rebel-satoshi-rblz-launch-amid-price-gains-on-polkadot-dot-and-immutable-x",
+    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T091038.869-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Rebel Satoshi ($RBLZ) is poised for a massive rally after the end of its last round of presale.  Polkadot (DOT) is predicted to continue rising and trade above $8.50 going forward. Immutable (IMX) price is foreseen by experts to continue growing and rise above $3.70.  Two of the best altcoins in the market, Polkadot (DOT) [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-20T13:30:39.000Z",
-    "title": "Pixels (PIXEL) Price Prediction 2024-2030: Will PIXEL Price Hit $2 Soon?",
-    "url": "https://coinedition.com/pixels-pixel-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Pixels-PIXEL-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Pixels-PIXEL-Price-Prediction-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Aside from Bitcoin (BTC) and Ethereum (ETH), there are other digital currencies worth considering for people looking to diversify their portfolios and get experience with new cryptocurrencies, Pixels (PIXEL) is one of them. If you are interested in the future of PIXEL and want to know its predicted value for 2024, 2025, and 2030, keep [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/pixels-pixel-price-prediction/\">Pixels (PIXEL) Price Prediction 2024-2030: Will PIXEL Price Hit $2 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-20T14:04:10.000Z",
+    "title": "Filecoin’s Price Surges with Solana Partnership News, But Watch This Cryptocurrency for Bigger Gains",
+    "url": "https://coinedition.com/filecoins-price-surges-with-solana-partnership-news-but-watch-this-cryptocurrency-for-bigger-gains/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/PR-83.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/PR-83.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/PR-83-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Filecoin (FIL), a decentralized file storage network, has recently entered into a major partnership with Solana (SOL) to boost blockchain storage functions. This alliance aims to fortify the Solana (SOL) framework, making it a strong contender against Ethereum by enhancing its decentralized storage offerings. Since early February, the price of Filecoin (FIL) has surged by [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/filecoins-price-surges-with-solana-partnership-news-but-watch-this-cryptocurrency-for-bigger-gains/\">Filecoin&#8217;s Price Surges with Solana Partnership News, But Watch This Cryptocurrency for Bigger Gains</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-20T13:59:55.000Z",
+    "title": "With the Rise of the Crypto Market, Whales Set Their Sights on Secretly Valuable Cryptos",
+    "url": "https://coinedition.com/with-the-rise-of-the-crypto-market-whales-set-their-sights-on-secretly-valuable-cryptos/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/PR-1-188.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/PR-1-188.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/PR-1-188-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Within the ever-evolving cryptocurrency market of 2024, a prominent trend has surfaced, showcasing the strategic maneuvers of the biggest Bitcoin whales. These influential entities have notably increased their Bitcoin holdings, amassing close to $13 billion in Bitcoin. This represents a significant shift in asset distribution across various wallet sizes. Wallets holding 100 to 1,000 BTC [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/with-the-rise-of-the-crypto-market-whales-set-their-sights-on-secretly-valuable-cryptos/\">With the Rise of the Crypto Market, Whales Set Their Sights on Secretly Valuable Cryptos</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-20T13:55:00.000Z",
+    "title": "Breaking: SBF’s Shocking Jail Photo Revealed – Crypto Empire in Turmoil",
+    "url": "https://coinedition.com/breaking-sbfs-shocking-jail-photo-revealed-crypto-empire-in-turmoil/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SBF&#039;s Jail Photo Sparks Legal Firestorm and Market Turmoil\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life.jpg 730w, https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/01/Pharma-Bro-Martin-Shkreli-Weighs-in-on-SBFs-Trial-and-Prison-Life-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The first photo of Sam Bankman-Fried (SBF) behind bars at the Metropolitan Detention Center in Brooklyn has recently been made public as per Lookonchain, an on-chain analytics provider. This showcases a stark departure from his previous stature as a crypto mogul. Alongside this revealing photo, the current assets held by FTX/Alameda have been disclosed, amounting [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/breaking-sbfs-shocking-jail-photo-revealed-crypto-empire-in-turmoil/\">Breaking: SBF&#8217;s Shocking Jail Photo Revealed &#8211; Crypto Empire in Turmoil</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

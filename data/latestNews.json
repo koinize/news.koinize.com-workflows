@@ -1,100 +1,135 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-02-20T14:14:24.000Z",
-    "title": "Ethereum Hits $3,000 For First Time Since April 2022",
-    "url": "https://decrypt.co/218088/ethereum-hits-3000-first-time-since-april-2022",
-    "description": "ETH hasn't been this high since the month before Terra collapsed."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-02-20T14:31:00.000Z",
-    "title": " Foreign crypto exchanges in India face uncertain future ",
-    "url": "https://cointelegraph.com/news/foreign-crypto-exchanges-india-regulation",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNmRlMWYwYTEtYWJiMy00NDQzLWJkMTgtMzI1NzBlZmQ2ZDA3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>India banned crypto exchanges that didn’t comply with FIU guidelines, but market experts point to a lack of regulatory clarity and high taxation, forcing crypto traders to rush to foreign exchanges. </p>\n                    <p><p data-ct-non-breakable=\"true\">The Financial Intelligence Unit (FIU) — an agency of India’s Ministry of Finance that gathers financial intelligence about offenses under the country’s Prevention of Money Laundering Act — issued a notice of noncompliance to Binance, HTX, Kraken, Gate.io, KuCoin, Bitstamp, MEXC Global, Bittrex and Bitfinex for illegally operating in India on Dec. 28, 2023. </p><p>The notice gave the firms 12 days to comply with Indian Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations.</p><p>Two weeks after the FIU notice, on Jan. 10, Apple’s App Store in India <a href=\"https://cointelegraph.com/news/apple-india-binance-kraken-crypto-exchanges-delist-fiu-notice\">blocked the foreign crypto exchanges</a> that received the FIU notice. Within a week, the crypto exchanges were unavailable on Google’s Play store, followed by a ban on the URLs and alternate URLs of the crypto platforms.</p><p><a href=\"https://cointelegraph.com/news/foreign-crypto-exchanges-india-regulation\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-20T14:30:00.000Z",
-    "title": " Web3 Gamer: Sweatcoin says shaking is faking, MotoDEX review, Gods Unchained 2024 ",
-    "url": "https://cointelegraph.com/magazine/web3-gamer-sweatcoin-founder-motodex-review-gods-unchained/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-Web3-Gamer-20_11_23-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Shaking your Sweatcoin fitness app won’t lead to millions, MotoDEX review, Gods Unchained 2024 roadmap, WAX on Web2 gaming studios, and more.</p>\n                    <p><p>Sweatcoin (SWEAT) is the token of the Sweat Economy, a move-to-earn (M2E) crypto application with 155 million users. The app pays out SWEAT for simply getting off your butt and moving. </p><p>And all you gotta do to earn the token is let the phone in your pocket track your steps.</p><p>Seems like everyone has had the same idea… What if I stay on the couch and just shake the phone for hours?</p><p><a href=\"https://cointelegraph.com/magazine/web3-gamer-sweatcoin-founder-motodex-review-gods-unchained/\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-02-20T14:12:21.000Z",
-    "title": "Forbes buys virtual land in The Sandbox metaverse",
-    "url": "https://cryptobriefing.com/forbes-buys-virtual-land-the-sandbox-metaverse/?utm_source=feed&utm_medium=rss",
-    "description": "Forbes' virtual space is set to encourage exploration, interaction, and collaboration through interactive experiences, workshops, and events."
-  },
-  {
-    "source": "Coin Telegraph India",
-    "date": "2024-02-20T14:31:00.000Z",
-    "title": " Foreign crypto exchanges in India face uncertain future ",
-    "url": "https://cointelegraph.com/news/foreign-crypto-exchanges-india-regulation",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNmRlMWYwYTEtYWJiMy00NDQzLWJkMTgtMzI1NzBlZmQ2ZDA3LmpwZw==.jpg\"></p><p>India banned crypto exchanges that didn’t comply with FIU guidelines, but market experts point to a lack of regulatory clarity and high taxation, forcing crypto traders to rush to foreign exchanges. </p>\n            "
-  },
-  {
-    "source": "Coin Telegraph India",
-    "date": "2024-02-20T14:30:00.000Z",
-    "title": " Web3 Gamer: Sweatcoin says shaking is faking, MotoDEX review, Gods Unchained 2024 ",
-    "url": "https://cointelegraph.com/magazine/web3-gamer-sweatcoin-founder-motodex-review-gods-unchained/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-Web3-Gamer-20_11_23-scaled.jpg\"></p><p>Shaking your Sweatcoin fitness app won’t lead to millions, MotoDEX review, Gods Unchained 2024 roadmap, WAX on Web2 gaming studios, and more.</p>\n            "
+    "date": "2024-02-20T15:00:00.000Z",
+    "title": " DeFi Devs get real-time Bitcoin ETF data with Pyth Network ",
+    "url": "https://cointelegraph.com/news/pyth-network-bitcoin-etf-price-feeds-defi-developers",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYjA5MTA1YzItMzZkYi00NGIwLWI2MGMtYWZkM2MwOGFmMTYzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Pyth Network introduces Bitcoin ETF price feeds to allow DeFi developers access to real-time market data, bridging the gap between traditional finance and decentralized finance. </p>\n                    <p><p>Pyth Network, a provider of real-time market data for blockchain applications, announced on Feb. 20 the launch of price feeds for 13 Bitcoin exchange-traded funds (ETFs), making accurate price data of Bitcoin ETFs readily available to developers building decentralized finance (DeFi) protocols.</p><p>The <a href=\"https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals\">approval of Bitcoin ETFs</a> in the United States in Jan. 2024 was a landmark event for the crypto industry, which opened up regulated exposure to Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) for mainstream investors still hesitant to take the plunge into the space via direct ownership. </p><p>This latest initiative from the Pyth Network aims to bridge the gap between traditional financial (TradFi) and DeFi, though from the DeFi side allowing its developers access to real-time data on the ETFs. Pyth said this could also help DeFi platforme expand portfolio options, improve risk mitigation strategies and help enhance liquidity by potentially attracting institutional capital on-chain. </p><p><a href=\"https://cointelegraph.com/news/pyth-network-bitcoin-etf-price-feeds-defi-developers\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-20T14:39:06.000Z",
+    "date": "2024-02-20T15:06:45.000Z",
+    "title": "Why does Chainlink (LINK) & Kelexo (KLXO) have such positive swings, but Ripple (XRP) future look in doubt",
+    "url": "https://cryptodaily.co.uk/2024/02/why-does-chainlink-link-kelexo-klxo-have-such-positive-swings-but-ripple-xrp-future-look-in-doubt",
+    "description": "In the dynamic world of cryptocurrency, investors closely monitor the performance of various digital assets, seeking insights into their market behavior and future prospects. Among the notable cryptocurrencies under scrutiny are Chainlink (LINK), Ripple (XRP) and the emerging financial platform Kelexo (KLXO)."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T14:56:06.000Z",
+    "title": "Bitcoin Fear & Greed Index Peaks; Memecoin on the Brink of an Impressive Achievement",
+    "url": "https://cryptodaily.co.uk/2024/02/bitcoin-fear-greed-index-peaks-memecoin-on-the-brink-of-an-impressive-achievement",
+    "description": "In the ever-evolving landscape of cryptocurrency, market sentiment plays a crucial role in shaping investor behavior and influencing asset prices. Recently, the Fear & Greed Index for Bitcoin has peaked, reflecting extreme market enthusiasm and signaling potential shifts in investor sentiment. Amidst this backdrop, Rebel Satoshi ($RBLZ) stands on the brink of an impressive achievement, garnering attention for its unique features and promising trajectory in the cryptocurrency market."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T14:48:40.000Z",
+    "title": "The 7 Must-Have DeFi Coins Set for Massive Gains in 2024",
+    "url": "https://cryptodaily.co.uk/2024/02/the-7-must-have-defi-coins-set-for-massive-gains-in-2024",
+    "description": "The Decentralized Finance (DeFi) market has steadily grown over the past few years, as it continues to provide solutions to traditional finance (TradFi problems). Key crypto industry figures have forecasted that the DeFi market will make even bigger strides in 2024."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-20T14:41:55.000Z",
     "title": "Filecoin Gains Momentum with Solana Partnership, But This Crypto Has Even Bigger Upside Potential",
     "url": "https://cryptodaily.co.uk/2024/02/filecoin-gains-momentum-with-solana-partnership-but-this-crypto-has-even-bigger-upside-potential",
     "description": "Filecoin's (FIL) groundbreaking partnership with Solana is shaking up the crypto market, setting the stage for a decentralized storage revolution! Discover how this alliance is boosting FIL's market value and why it could be a game-changer in the blockchain world. Dive into the potential of this dynamic duo to reshape the future of decentralized data storage."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-20T14:26:14.000Z",
-    "title": "Tyr Capital’s legal battle reveals crypto industry risks from FTX exposure",
-    "url": "https://www.cryptopolitan.com/tyr-capitals-battle-reveals-ftx-exposure/",
-    "description": "Swiss-based crypto hedge fund Tyr Capital finds itself embroiled in a legal dispute with one of its clients, TGT, over its exposure to the now-defunct digital assets exchange, FTX. According to reports from the Financial Times, Tyr Capital stands accused of neglecting warnings regarding its ties with FTX, which filed for bankruptcy amidst allegations of [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-02-20T15:05:46.000Z",
+    "title": "Ethereum Taps $3,000 Barrier Amid ETF Speculation and Upcoming Dencun Upgrade",
+    "url": "https://news.bitcoin.com/ethereum-taps-3000-barrier-amid-etf-speculation-and-upcoming-dencun-upgrade/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ethereum Taps $3,000 Barrier Amid ETF Speculation and Upcoming Dencun Upgrade\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ethersss665.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The value of ethereum, the crypto market&#x2019;s second-largest asset by market cap, eclipsed the $3,000 milestone on Tuesday, peaking at $3,014 per unit in the morning trading hours. Over the last week, ether has seen a 13.1% climb against the U.S. dollar, and over the preceding two weeks, it has surged 28%. Ether Hits Two-Year [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-20T14:15:37.000Z",
-    "title": "Worldcoin Price Prediction 2024 – 2033: How High Will WLD Go?",
-    "url": "https://www.cryptopolitan.com/worldcoin-price-prediction/",
-    "description": "Worldcoin Price Prediction 2024-2033 Worldcoin, spearheaded by OpenAI chief Sam Altman,&#160;launched&#160;on Monday, 24 July 2023, after years in development, promising to verify users’ identity by iris-scanning and potentially solving one of the more pressing problems posed by recent advances in artificial intelligence. When it surged in price as an opening salvo, there was a flurry [&#8230;]"
+    "date": "2024-02-20T15:06:43.000Z",
+    "title": "Ethana shakes up DeFi with $300m inflows and 27% annualized yield",
+    "url": "https://www.cryptopolitan.com/ethena-shakes-up-defi-inflows-yield/",
+    "description": "Amid the burgeoning world of decentralized finance (DeFi), Ethena, a newly launched platform, has quickly captured attention and investment, boasting an enticing annualized yield of 27% for holders of its USDe stablecoins.&#160; The platform, which had been in beta testing among a limited group, recently opened its doors to the public, leading to a surge [&#8230;]"
   },
   {
-    "source": "Kraken Blog",
-    "date": "2024-02-20T14:19:46.000Z",
-    "title": "Trading for Starknet Token (STRK) starts now + Starknet Provisions Program",
-    "url": "https://blog.kraken.com/product/asset-listings/trading-for-starknet-token-strk-starts-now-starknet-provisions-program",
-    "description": "<p> <img width=\"300\" height=\"137\" src=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?fit=300%2C137&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?w=1536&amp;ssl=1 1536w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?resize=1024%2C467&amp;ssl=1 1024w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?resize=768%2C350&amp;ssl=1 768w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?resize=1200%2C547&amp;ssl=1 1200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?resize=200%2C91&amp;ssl=1 200w\" sizes=\"(max-width: 300px) 100vw, 300px\" data-attachment-id=\"24517\" data-permalink=\"https://blog.kraken.com/product/asset-listings/trading-for-starknet-token-strk-starts-now-starknet-provisions-program/attachment/strk_bloginner\" data-orig-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?fit=1536%2C700&amp;ssl=1\" data-orig-size=\"1536,700\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"STRK_BlogInner\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?fit=300%2C137&amp;ssl=1\" data-large-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/02/STRK_BlogInner.png?fit=1024%2C467&amp;ssl=1\" /> We’re thrilled to announce that Starknet Token (STRK) is now available on Kraken! Funding and trading STRK funding and trading are live. Add STRK to your Kraken account by navigating to Funding, selecting the asset, and hitting Deposit.  Only deposit STRK on Starknet. Deposits using other networks will be lost. Got STRK and a Kraken [&#8230;]</p>\n<p>The post <a href=\"https://blog.kraken.com/product/asset-listings/trading-for-starknet-token-strk-starts-now-starknet-provisions-program\">Trading for Starknet Token (STRK) starts now + Starknet Provisions Program</a> appeared first on <a href=\"https://blog.kraken.com\">Kraken Blog</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-02-20T15:05:59.000Z",
+    "title": "The Transformative Impact of Generative AI on Work Productivity",
+    "url": "https://www.cryptopolitan.com/impact-of-generative-ai-on-work-productivity/",
+    "description": "In an era where digital transformation shapes every facet of the business world, generative AI emerges as a pivotal force in augmenting work productivity. This advanced subset of AI technologies, capable of producing new content from existing data patterns, is redefining the landscape of professional tasks and creative endeavors. By automating routine activities, enhancing human [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-20T15:00:00.000Z",
+    "title": "Crucial Victory for Polygon Against Solana: What’s Next? Polkadot and Promising Memecoin Ready for Ambitious Upticks",
+    "url": "https://www.cryptopolitan.com/crucial-victory-for-polygon-against-solana-whats-next-polkadot-and-promising-memecoin-ready-for-ambitious-upticks/",
+    "description": "In the ever-evolving landscape of cryptocurrencies, recent developments have highlighted significant shifts in market dynamics. Polygon&#8217;s recent triumph over Solana, coupled with the anticipated growth of Polkadot and the upcoming launch of Rebel Satoshi ($RBLZ), has sparked widespread interest among investors. In this article, we delve into the implications of Polygon&#8217;s victory, the potential for [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-20T14:49:56.000Z",
+    "title": "Is ChatGPT Spying on You? Hackers Caught, Privacy Concerns Raised",
+    "url": "https://www.cryptopolitan.com/is-chatgpt-spying-on-you/",
+    "description": "The recent news of Microsoft and OpenAI catching state-sponsored hackers has reawakened concerns among ChatGPT users regarding how much the company spies on their chats. Last week, Microsoft, which is the largest investor in OpenAI with a 49% stake, released a report saying they caught Chinese, Russian, and Iranian hackers using LLMs to augment cyber [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-20T14:43:39.000Z",
+    "title": "Nottingham Building Society Accelerates Mortgage Process with MQube’s AI Technology",
+    "url": "https://www.cryptopolitan.com/nottingham-accelerate-mortgage-with-mqube-ai/",
+    "description": "In a significant move to enhance the efficiency and speed of mortgage application and underwriting processes, Nottingham Building Society has announced its collaboration with MQube. This partnership aims to leverage artificial intelligence through MQube&#8217;s advanced Origo platform, promising a revolution in the mortgage industry by offering rapid, cost-effective, and stress-free mortgage solutions. Transforming mortgage underwriting [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-20T14:41:00.000Z",
+    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
+    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
+    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-20T14:55:57.000Z",
+    "title": "Choosing the best cryptocurrency for mining: essential factors to consider",
+    "url": "https://crypto.news/best-crypto-for-mining/",
+    "description": "Which are the best cryptos for mining with ASICs in 2024, and how much can miners expect to earn? The global crypto mining market, which reached nearly $2.93 billion in 2023, is projected to grow at a compound annual growth&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-02-20T15:00:39.000Z",
+    "title": "Solana, Chainlink Among Coins With Overheating Open Interest: Data",
+    "url": "https://www.newsbtc.com/news/solana/solana-chainlink-coins-overheating-open-interest/",
+    "description": "Data shows Solana and Chainlink are among the top cryptocurrencies that have observed growth in Open Interest to relatively high levels. Solana &#38; Chainlink Have Their Open Interest At Notable Values Currently According to data from the on-chain analytics firm Santiment, there has been a dramatic increase in interest in the derivative market for cryptocurrencies recently. The indicator of relevance here is the &#8220;Open Interest,&#8221; which keeps track of the total amount of derivative contracts for any given asset that is currently open on all centralized exchanges. Related Reading: Ethereum Breaks $2,900, But Watch Out For Futures Overheating When the value of this metric goes up, it means that the investors are increasing positions on the derivative side of the market. Such a trend may be a predictor for higher volatility, as the total leverage in the sector tends to go up when new futures positions pop up. On the other hand, a decrease in the indicator implies the holders are closing up their positions or are getting forcefully liquidated by their platform, thus leading to the leverage potentially coming down. As such, this kind of trend can result in the asset&#8217;s price becoming more stable. Now, here is a chart that shows the trend in the Open Interest for various top assets in the cryptocurrency sector over the past year: Looks like the value of the metric has been sharply going up for some of these assets &#124; Source: Santiment on X As displayed in the above graph, the Open Interest has exploded for Bitcoin and Ethereum recently as the latest surge in prices has occurred. Generally, such sharp price action attracts a large amount of speculators to the assets, so the indicator&#8217;s upward trajectory isn&#8217;t surprising. The scale of the increase, though, may be a bit concerning. From the chart, it&#8217;s visible that the BTC Open Interest is currently around $9.85 billion, while for ETH, it&#8217;s about $5.59 billion. Among the altcoins, Solana and Chainlink have particularly stood out, as the indicator has touched $1.62 billion and $549 million for them, respectively. These are much smaller values than Bitcoin and Ethereum, of course, but their market caps are also much smaller than these two titans. &#8220;With Bitcoin, in particular, crossing over $10B in open interest for the first time since July, 2022, this does signal crowd euphoria is alive and well,&#8221; notes the analytics firm. &#8220;Sometimes rising too quickly can be indicative of some caution flags.&#8221; Related Reading: 16,000 Bitcoin Dormant Since 5+ Years Suddenly Moves, What’s Going On? The reason that a high Open Interest has historically been a cause for concern is that mass liquidation events become more probable to occur in such market conditions, due to an abundance of leverage. Such events, where liquidations can cascade together, are usually chaotic and result in some sharp price action. As Solana, Chainlink, and other top assets have a potentially overheated Open Interest right now, they may be ones to watch in the coming days, as any further increases might serve as a warning. SOL Price At the time of writing, Solana is trading around the $110 level, down over 3% in the last seven days. The price of Solana appears to have been moving sideways recently &#124; Source: SOLUSD on TradingView Featured image from iStock.com, charts from TradingView.com, Santiment.net"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-20T14:38:27.000Z",
-    "title": "XRP Price Rockets to $0.56 as SEC v. Ripple Lawsuit Heats Up",
-    "url": "https://www.crypto-news-flash.com/xrp-price-rockets-to-0-56-as-sec-v-ripple-lawsuit-heats-up/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-price-rockets-to-0-56-as-sec-v-ripple-lawsuit-heats-up",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-08.52.12-A-conceptual-artwork-representing-the-headline-XRP-News_-Ripple-Gains-Momentum-as-Judge-Torres-Grants-Sur-Reply-Letter-in-SEC-Case.-The-image-featur-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />February 20th is a momentous day in the ongoing Ripple lawsuit as the remedies-related discovery phase comes to an end. XRP has shown great stability at the $0.56 level as on-chain data reveals consistent token accumulation by whales. The ongoing Ripple lawsuit continues to influence XRP prices, and Feb 20th marks a significant event for [...]"
+    "date": "2024-02-20T14:56:20.000Z",
+    "title": "Confidence Soars in Meme Moguls (MGLS) Presale as Ripple (XRP) and Solana (SOL) Investors Show Support",
+    "url": "https://www.crypto-news-flash.com/confidence-soars-in-meme-moguls-mgls-presale-as-ripple-xrp-and-solana-sol-investors-show-support/?utm_source=rss&utm_medium=rss&utm_campaign=confidence-soars-in-meme-moguls-mgls-presale-as-ripple-xrp-and-solana-sol-investors-show-support",
+    "description": "<img width=\"1200\" height=\"630\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-300x158.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-768x403.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-150x79.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-20T145316.028-450x236.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The community around Meme Moguls is now getting hyped up as each round of the presale is selling out quickly, Investors in long-standing projects like Ripple and Solana are jumping in to make sure they don’t miss out on what is predicted to be a 30-50x opportunity. Where is the Meme Moguls presale at now? [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-20T14:37:06.000Z",
-    "title": "Could the US Government Enforce a Bitcoin Ban Under the 6102 Law Used for Gold Confiscation?",
-    "url": "https://www.crypto-news-flash.com/could-the-us-government-enforce-a-bitcoin-ban-under-the-6102-law-used-for-gold-confiscation/?utm_source=rss&utm_medium=rss&utm_campaign=could-the-us-government-enforce-a-bitcoin-ban-under-the-6102-law-used-for-gold-confiscation",
-    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"bitcoin-btc-arena-mineria\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271-300x175.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271-768x448.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271-150x88.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/pexels-david-peterson-4592271-450x263.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Bitcoin&#8217;s potential to achieve parity with gold could lead to a U.S. government crackdown, akin to the 1933 gold confiscation. Such measures could centralize Bitcoin, challenging its decentralized nature and redefining cryptocurrency ownership and regulation. The Bitcoin community is currently embroiled in a heated debate over a potentially unprecedented move by the U.S. government that [...]"
+    "date": "2024-02-20T14:52:03.000Z",
+    "title": "Sui Blockchain Takes the Lead: $310M Inflow, Outshining Cardano & Aptos – What’s Next?",
+    "url": "https://www.crypto-news-flash.com/sui-blockchain-takes-the-lead-310m-inflow-outshining-cardano-aptos-whats-next/?utm_source=rss&utm_medium=rss&utm_campaign=sui-blockchain-takes-the-lead-310m-inflow-outshining-cardano-aptos-whats-next",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SUI\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/Sui_logo_sea_1200x720_1705946671zSLPXgx87z-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Sui network sees rapid growth driven by demand for Web3 smart contracts, with SUI price surging over 62% in the past month to around $1.8. Sui network stands out with impressive Total Value Locked (TVL) growth, reaching approximately $584 million and attracting over $310 million from Ethereum&#8217;s Web3 protocols. This month has seen a notable [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-02-20T14:30:31.000Z",
-    "title": "Wanchain Brings Cardano and EVM Together",
-    "url": "https://www.altcoinbuzz.io/product-release/wanchain-brings-cardano-and-evm-together/",
-    "description": "<p>Wanchain and Maestro, a Cardano-based dApp developer platform, submitted a proposal to the Cardano governance community in November 2023. The proposal sought to support compatibility between Cardano-based apps and Cardano assets with EVM wallets such as Metamask.  Thankfully, the Cardano governance community approved the proposal. This approval will simply expose Cardano dApps and native assets [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/wanchain-brings-cardano-and-evm-together/\">Wanchain Brings Cardano and EVM Together</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-02-20T14:49:49.000Z",
+    "title": "Best On-Ramp + Off-Ramp Solutions for USDC in the U.S.",
+    "url": "https://www.altcoinbuzz.io/reviews/best-on-ramp-off-ramp-solutions-for-usdc-in-the-u-s/",
+    "description": "<p>For US citizens, trading crypto in the US is not without challenges. Unfortunately, limited options are available. On top of that, you also have the on-ramp and off-ramp issues to deal with. That&#8217;s why, we will take a look at USDC on-ramp and off-ramp options in the US. What Is On-Ramping and Off-Ramping Crypto? On-ramping [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/reviews/best-on-ramp-off-ramp-solutions-for-usdc-in-the-u-s/\">Best On-Ramp + Off-Ramp Solutions for USDC in the U.S.</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-20T14:30:00.000Z",
-    "title": "ADA, ETH Signal Potential Altcoin Season: What Investors Need to Know",
-    "url": "https://coinedition.com/ada-eth-signal-potential-altcoin-season-what-investors-need-to-know/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ADA, ETH Signal Potential Altcoin Season: What Investors Need to Know\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Analyst-Forecasts-Altcoin-Rally-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>If Bitcoin’s dominance drops, bulls might push ETH’s price above $3,000. ADA could head toward $0.90 if bulls successfully break the $0.63 resistance. The analyst noted that the recent ADA and ETH rallies are only a little of what could come. Dan Gambardello, a crypto analyst, has revealed that Cardano (ADA) and Ethereum (ETH) would [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ada-eth-signal-potential-altcoin-season-what-investors-need-to-know/\">ADA, ETH Signal Potential Altcoin Season: What Investors Need to Know</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Altcoin Buzz",
+    "date": "2024-02-20T14:41:09.000Z",
+    "title": "Top Strategy to Maximize Staking Rewards in EigenLayer",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/top-strategy-to-maximize-staking-rewards-in-eigenlayer/",
+    "description": "<p>Ethereum Restaking and Maximizing Staking Rewards in EigenLayer. Ethereum restaking has been gaining massive traction recently, with EigenLayer leading the charge in this narrative, offering lucrative avenues for users. In this article, we&#8217;ll delve into the concept of Ethereum restaking and uncover strategies for maximizing staking rewards. What is Ethereum Restaking? Staking entails locking a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/top-strategy-to-maximize-staking-rewards-in-eigenlayer/\">Top Strategy to Maximize Staking Rewards in EigenLayer</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2024-02-20T14:53:36.000Z",
+    "title": "Bitfinex Alpha | Đà tăng Bitcoin vẫn còn hiệu lực",
+    "url": "https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-da-tang-bitcoin-van-con-hieu-luc/",
+    "description": "<p>Bitcoin chứng tỏ khả năng phục hồi mạnh mẽ trong tuần này, đạt đỉnh cao mới trong năm, bất chấp &#8211; hoặc có lẽ vì &#8211; dữ liệu CPI và PPI cao hơn dự kiến, kéo theo dòng tiền liên tục chảy vào các ETF...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/bitfinex-alpha/bitfinex-alpha-da-tang-bitcoin-van-con-hieu-luc/\">&lt;strong&gt;Bitfinex Alpha | Đà tăng Bitcoin vẫn còn hiệu lực&lt;/strong&gt;</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

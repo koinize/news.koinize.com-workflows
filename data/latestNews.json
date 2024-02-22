@@ -1,37 +1,58 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-22T06:50:59.000Z",
-    "title": "Bitcoin Back Over $51K, Crypto Market Recovers as Nvidia Earnings Rejuvenates AI-Tokens",
-    "url": "https://www.coindesk.com/markets/2024/02/22/bitcoin-back-over-51k-crypto-market-recovers-as-nvidia-earnings-rejuvenates-ai-tokens/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The haphazard price action caused over $200 million in liquidations of crypto-tracked futures, of which $150 million were longs, or bets, against higher prices."
+    "source": "Crypto Briefing",
+    "date": "2024-02-22T07:13:11.000Z",
+    "title": "Samsung and UOB invest $3.5 million in Astar’s core developer to accelerate Web3 adoption",
+    "url": "https://cryptobriefing.com/samsung-uob-invest-astar-core-developer-accelerate-web3-adoption/",
+    "description": "Startale Labs secures $3.5M from tech giant Samsung and banking leader UOB to expand its Web3 suite and bring in top-tier global talent."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-22T07:30:11.000Z",
+    "title": "Stablecoin Issuer Circle Announces Discontinuation of USDC Support on Tron Blockchain",
+    "url": "https://news.bitcoin.com/stablecoin-issuer-circle-announces-discontinuation-of-usdc-support-on-tron-blockchain/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Stablecoin Issuer Circle Announces Discontinuation of USDC Support on Tron Blockchain\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/fedserssa.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The U.S. financial technology firm Circle said on Feb. 21 that it will discontinue support for USDC on Tron blockchain. The move comes just a few months after Circle refuted allegations that it was Tron blockchain founder Justin Sun&#8217;s bank. Despite discontinuing support for USDC on Tron, Circle said it is still committed to growing [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-22T07:29:26.000Z",
+    "title": "Navigating GenAI Integration in Software Development",
+    "url": "https://www.cryptopolitan.com/genai-integration-in-software-development/",
+    "description": "In the rapidly evolving landscape of technology, generative AI (GenAI) models like ChatGPT are revolutionizing software development processes. With the potential to automate, analyze, and enhance digital tasks, these tools offer significant advantages. However, their deployment in large-scale companies comes with a set of ethical, legal, and social challenges. Addressing ethical and regulatory challenges The [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-22T07:01:56.000Z",
-    "title": "Texas Bitcoin mining firm sues SEC for overreach on crypto",
-    "url": "https://crypto.news/texas-bitcoin-mining-firm-sues-sec-for-overreach-on-crypto/",
-    "description": "A Texas crypto firm and industry group sued the SEC, disputing its authority over exchange-traded crypto, aiming to classify them as non-securities. In a legal maneuver against the U.S. Securities and Exchange Commission (SEC), a Texas-based crypto mining firm called&#8230;"
+    "date": "2024-02-22T07:37:13.000Z",
+    "title": "Stellar and XRP post gains as NuggetRush presale progresses",
+    "url": "https://crypto.news/stellar-and-xrp-post-gains-as-nuggetrush-presale-progresses/",
+    "description": "NuggetRush is making good progress in its presale as Stellar upgrades and expands. Meanwhile, analysts are bullish on XRP"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-22T06:58:13.000Z",
-    "title": "Coinbase calls on SEC to approve Grayscale’s spot Ethereum ETF",
-    "url": "https://crypto.news/coinbase-calls-on-sec-to-approve-grayscales-spot-ethereum-etf/",
-    "description": "The Coinbase team has called on the U.S. Securities and Exchange Commission (SEC) to approve Grayscale&#8217;s application to launch a spot Ethereum (ETH) ETF. The company&#8217;s chief lawyer, Paul Grewal, believes that approval of Grayscale&#8217;s application is necessary through the&#8230;"
+    "date": "2024-02-22T07:36:52.000Z",
+    "title": "Citrea secures $2.7m seed investment to develop ZK-rollup for Bitcoin",
+    "url": "https://crypto.news/citrea-secures-2-7m-seed-investment-to-develop-zk-rollup-for-bitcoin/",
+    "description": "Citrea, a project focused on integrating zero-knowledge rollups with Bitcoin, has raised $2.7 million in a seed round led by Galaxy Ventures, part of Galaxy Digital. The investment marks a significant step towards enhancing Bitcoin&#8217;s capability to support a wider&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-22T06:55:25.000Z",
-    "title": "Solana loses over 12% in a week as active addresses decline ",
-    "url": "https://crypto.news/solana-loses-over-12-in-a-week-as-active-addresses-decline/",
-    "description": "Solana saw a double-digit decline this week despite its competitors BNB and Ethereum experiencing gains of over 11% and 5%, respectively.  Solana and Avalanche stand out as the only two altcoins among the top 15 cryptocurrencies to suffer over 12%&#8230;"
+    "date": "2024-02-22T07:24:19.000Z",
+    "title": "Solana NFT sales volume drop, NuggetRush crosses $2.3m in presale",
+    "url": "https://crypto.news/solana-nft-sales-volume-drop-nuggetrush-crosses-2-3m-in-presale/",
+    "description": "NuggetRush has raised over $2.5 million in the ongoing presale amid a general drop in NFT trading in Solana"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-22T07:30:26.000Z",
+    "title": "2024 Top Crypto Marketing Agencies You Need to Know",
+    "url": "https://www.crypto-news-flash.com/2024-top-crypto-marketing-agencies-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=2024-top-crypto-marketing-agencies-you-need-to-know",
+    "description": "<img width=\"1257\" height=\"705\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4.jpg 1257w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4-300x168.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4-1200x673.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4-768x431.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Unbenannt-4-450x252.jpg 450w\" sizes=\"(max-width: 1257px) 100vw, 1257px\" />In the rapidly evolving world of cryptocurrencies, the need of professional marketing agencies are more crucial than ever. These cryptocurrency agencies are essential because they understand blockchain technology and how to create compelling narratives using innovative approaches and strategies. They play a big part in making sure people see crypto projects in a good light. [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-22T06:48:06.000Z",
-    "title": "Vitalik Buterin Not a Fan of Simplifying L1s at the Expense of L2s",
-    "url": "https://coinedition.com/vitalik-buterin-not-a-fan-of-simplifying-l1s-at-the-expense-of-l2s/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Vitalik_Buterin_Not_a_Fan_of_Simplifying_L1s_at_the_Expense_of_L2s-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Vitalik Buterin, the co-founder of the blockchain network Ethereum, has stated that he is not confident in the concept of simplifying &#8220;L1 even at the expense of more complicated L2s&#8221; because it is currently not clear if L2 blockchain networks are better than L1s. In a post on social media platform X (formerly known as [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/vitalik-buterin-not-a-fan-of-simplifying-l1s-at-the-expense-of-l2s/\">Vitalik Buterin Not a Fan of Simplifying L1s at the Expense of L2s</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-22T07:24:12.000Z",
+    "title": "Future of Crypto Streaming DeeStream (DST) Accelerates as Ripple (XRP) and Dogecoin (DOGE) Gains Weaken",
+    "url": "https://coinedition.com/future-of-crypto-streaming-deestream-dst-accelerates-as-ripple-xrp-and-dogecoin-doge-gains-weaken/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/PR5-5.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/PR5-5.png 730w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/02/PR5-5-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the rapidly evolving crypto landscape, the intersection of blockchain technology and streaming services is becoming a focal point for innovation and investment. DeeStream (DST) is emerging as a leader in this new frontier, captivating interest with its groundbreaking approach to decentralized streaming. Meanwhile, established cryptocurrencies like Ripple (XRP) and Dogecoin (DOGE) are experiencing a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/future-of-crypto-streaming-deestream-dst-accelerates-as-ripple-xrp-and-dogecoin-doge-gains-weaken/\">Future of Crypto Streaming DeeStream (DST) Accelerates as Ripple (XRP) and Dogecoin (DOGE) Gains Weaken</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

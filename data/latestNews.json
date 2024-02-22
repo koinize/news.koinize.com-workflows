@@ -1,72 +1,79 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-02-22T13:35:22.000Z",
-    "title": " a16z invests $100 million in EigenLayer — report  ",
-    "url": "https://cointelegraph.com/news/a16z-invests-100-million-eigenlayer",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOThjOTg0OTEtMjkyNi00N2QyLTg3NGQtNGQ0MWY5ODYyM2M5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The investment comes as crypto-related venture capital funding started increasing following the approval of spot Bitcoin ETFs.</p>\n                    <p><p data-ct-non-breakable=\"true\">Venture capital firm Andreessen Horowitz (a16z) announced a $100 million funding round in EigenLayer, Ethereum’s largest restaking protocol by total value locked (TVL).</p><p>The venture firm was reportedly the only investor in the funding round, according to a Feb. 22 Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2024-02-22/andreessen-invests-100-million-in-crypto-startup-eigenlayer?sref=IIP4JEyu\" target=\"_blank\" rel=\"noopener nofollow\">report</a>. The EigenLayer protocol completed a $50 million funding round in March, led by Blockchain Capital.</p><p><a href=\"https://cointelegraph.com/news/vc-blockchain-and-crypto-funding-rises-in-q4-2023-report\">Venture capital (VC) funding </a>for crypto-related firms rose 2.5% in the fourth quarter of 2023 to $1.9 billion, according to a report from PitchBook. This represents the first increase in VC crypto investments since March 2022. The rise in crypto venture investments could be attributed to the launch of the first spot Bitcoin exchange-traded funds (ETFs) in January, according to PitchBook.</p><p><a href=\"https://cointelegraph.com/news/a16z-invests-100-million-eigenlayer\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-22T14:00:00.000Z",
+    "title": " Aave deploys DeFi protocol on BNB Chain ",
+    "url": "https://cointelegraph.com/news/aave-deploys-defi-protocol-bnb-chain",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZmU5NDE2MGMtNjZkOS00MGJmLTk3OWEtZDlhNGM5NmFjYTFiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The BNB Chain team said that Aave’s deployment on the network provides their community access to increased liquidity and new lending and borrowing options. </p>\n                    <p><p data-ct-non-breakable=\"true\">Decentralized finance (DeFi) platform Aave has deployed its money market protocol on the BNB Chain network as the blockchain expands its DeFi ecosystem.</p><p>In an announcement sent to Cointelegraph, the BNB Chain team said that Aave is joining the growing list of DeFi protocols on BNB Chain. The lending protocol is joining the likes of Uniswap and PancakeSwap to boost the DeFi ecosystem on the blockchain network. </p><p>With Aave’s deployment on BNB Chain, the network will have several DeFi lending protocols, including Ambit Finance and Venus. Apart from this, BNB Chain currently has liquid staking protocols, LP tooling, perpetuals and decentralized exchanges (DEXs). According to the team, it may also add restaking protocols to its DeFi ecosystem soon. </p><p><a href=\"https://cointelegraph.com/news/aave-deploys-defi-protocol-bnb-chain\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-02-22T13:46:32.000Z",
+    "title": "‘Dead cat bouncing’ – ECB officials attack Bitcoin with call of ‘practically forbidding it’",
+    "url": "https://cryptoslate.com/dead-cat-bouncing-ecbs-stark-warning-on-bitcoins-future-despite-etf-boosts/",
+    "description": "<p>European Central Bank (ECB) officials stand firm on their assessment that Bitcoin holds no inherent value, despite its recent surge beyond $50,000 propelled by the introduction of multiple exchange-traded funds (ETFs) in the United States. In a blog post dated Feb. 22, Ulrich Bindseil and Jürgen Schaaf emphasized that approving ETFs does not alter Bitcoin&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/dead-cat-bouncing-ecbs-stark-warning-on-bitcoins-future-despite-etf-boosts/\">&#8216;Dead cat bouncing&#8217; &#8211; ECB officials attack Bitcoin with call of &#8216;practically forbidding it&#8217;</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-22T13:27:14.000Z",
-    "title": "Forbes Launches Permanent Presence in Sandbox (SAND) Metaverse, Flare (FLR) Introduced Flare Base as Pullix (PLX) Reach Another Milestone With BitMart",
-    "url": "https://cryptodaily.co.uk/2024/02/forbes-launches-permanent-presence-in-sandbox-sand-metaverse-flare-flr-introduced-flare-base-as-pullix-plx-reach-another-milestone-with-bitmart",
-    "description": "Although the exact date of the next Bitcoin halving is still sketchy, the excitement that it would happen in April this year has lifted the mood of many top crypto coins"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-22T13:24:49.000Z",
-    "title": "Will Sei (SEI) and Sui (SUI) Withstand Bearish Trends to Keep Shattering Records in DeFi?",
-    "url": "https://cryptodaily.co.uk/2024/02/will-sei-sei-and-sui-sui-withstand-bearish-trends-to-keep-shattering-records-in-defi",
-    "description": "Discover why the crypto world is buzzing about Sei (SEI) and Sui (SUI). From rollercoaster market movements to exciting upgrades and surprising surges, find out the secrets behind their latest performances. Don't miss out on the critical insights that could shape your investment decisions!"
+    "date": "2024-02-22T14:00:24.000Z",
+    "title": "Testnet Launch for dWallet Network - Composable Modular Signature Network",
+    "url": "https://cryptodaily.co.uk/2024/02/testnet-launch-for-dwallet-network-composable-modular-signature-network",
+    "description": "Testnet Launch for dWallet Network - Composable Modular Signature Network"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T13:38:22.000Z",
-    "title": "Law commission considers draft legislation labeling crypto as property",
-    "url": "https://www.cryptopolitan.com/law-commission-considers-draft-legislation/",
-    "description": "The Law Commission, responsible for scrutinizing and suggesting legal reforms in England and Wales, has initiated a significant consultation process regarding classifying cryptocurrencies as property. This move is part of its broader examination of digital assets and electronic trade documents in private international law. Consultation on draft legislation In its recent publication, the Law Commission [&#8230;]"
+    "date": "2024-02-22T14:02:35.000Z",
+    "title": "Bluzelle announces Curium, a Miner Pool app to allow anyone to earn BLZ",
+    "url": "https://www.cryptopolitan.com/bluzelle-announces-curium-a-miner-pool-app-to-allow-anyone-to-earn-blz/",
+    "description": "Singapore, Singapore, February 22nd, 2024, Chainwire Bluzelle announced today its developing an easy to implement storage node technology that will allow anyone to earn BLZ on their computers or mobile devices. People will be contributing space and security to Bluzelle’s layer 1 chain and be compensated for it.  Running nodes for blockchain projects is not [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T13:29:13.000Z",
-    "title": "Bitcoin takes a dip: What’s behind the slump?",
-    "url": "https://www.cryptopolitan.com/bitcoin-takes-a-dip-whats-behind-the-slump/",
-    "description": "Yesterday, the crypto market saw a big drop, with its total value falling by 2.75% to $1.90 trillion. During this dip, Bitcoin&#8217;s share of the market slightly grew by 0.25%, reaching 50.77%. This increase in Bitcoin&#8217;s share during a market downturn suggests deeper issues that need a closer look. When we examine why Bitcoin&#8217;s price [&#8230;]"
+    "date": "2024-02-22T14:00:26.000Z",
+    "title": "Testnet Launch for dWallet Network – Composable Modular Signature Network",
+    "url": "https://www.cryptopolitan.com/testnet-launch-for-dwallet-network-composable-modular-signature-network/",
+    "description": "Tel Aviv, Israel, February 22nd, 2024, Chainwire dWallet Labs today announced the Testnet launch of dWallet Network &#8211; a first-of-its-kind composable modular signature network. The dWallet Network introduces a new primitive for multi-chain collaboration in web3 — dWallets — a noncollusive and massively decentralized signing mechanism that can be used as a building block on [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T13:27:12.000Z",
-    "title": "BNB’s bullish trend persists, buoyed by Binance’s strategy",
-    "url": "https://www.cryptopolitan.com/bnb-bullish-trend-persist-binance-burn-cause/",
-    "description": "Binance Coin (BNB), the native token of the Binance cryptocurrency exchange, has experienced a remarkable surge of over 7% within the past 24 hours. This surge in price comes in the wake of an announcement made by Binance regarding the burning of significant amounts of BUSD and TUSD B-tokens, with corresponding releases of tokens used [&#8230;]"
+    "date": "2024-02-22T13:47:17.000Z",
+    "title": "3 Altcoins Set to Surpass Solana’s Surge in 2024",
+    "url": "https://www.cryptopolitan.com/3-altcoins-set-to-surpass-solanas-surge-in-2024/",
+    "description": "As cryptocurrency funds garner record weekly inflows amid increasing interest in spot Bitcoin ETFs, market participants eye tokens with higher growth potential. Specifically, a few emerging assets are projected to outperform Solana&#8217;s impressive spurt by 2024. Speculation on these tokens has been fueled by the shifting dynamics of the digital asset landscape, exemplified by events [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-22T13:16:29.000Z",
-    "title": "AI tokens and stocks surge following Nvidia’s strong earnings report",
-    "url": "https://www.cryptopolitan.com/ai-tokens-and-stocks-surge-following-nvidias/",
-    "description": "The artificial intelligence (AI) market experienced a significant surge in crypto tokens and traditional stocks, buoyed by Nvidia&#8217;s impressive earnings report and a broader market correction. This surge, evident over the past month, saw several AI-based tokens and stocks record substantial gains despite market volatility. AI tokens rally AI-based crypto tokens witnessed notable gains on [&#8230;]"
+    "source": "NewsBTC",
+    "date": "2024-02-22T14:00:24.000Z",
+    "title": "Is Ripple Dumping Millions Of XRP? CTO Addresses Reasons Behind $34 Million Transaction",
+    "url": "https://www.newsbtc.com/analysis/xrp/ripple-dumping-millions-xrp-cto/",
+    "description": "Ripple has always been subjected to claims of manipulating the price of XRP and its natural growth by selling coins. As the cryptocurrency&#8217;s largest holder, Ripple has faced constant criticism about the amount of XRP it holds, with detractors arguing it gives them too much control and influence over the price.  Particularly, there&#8217;s been some drama swirling around the altcoin lately and claims that Ripple has been manipulating the market and systematically dumping its large holdings. This has come in light of a large transfer of 60 million XRP tokens from Ripple to an unknown wallet address.  Ripple Accused Of Dumping XRP And Manipulating Market Whale transaction tracker Whale Alerts recently posted on social media a transfer of 60 million XRP worth $34 million from a Ripple-controlled wallet address into a private address. A further look shows that the private recipient wallet currently holds over 138 million XRP worth $75.5 million, with this same address receiving 80 million XRP from Ripple on February 11. Related Reading: Is Altcoin Season Upon Us? Here’s What Bitcoin’s Performance Shows 🚨 🚨 60,000,000 #XRP (34,088,291 USD) transferred from #Ripple to unknown wallethttps://t.co/zfHG8o0Bbo — Whale Alert (@whale_alert) February 20, 2024 At the time of writing, Ripple controls about 6% of the current circulating supply. Therefore, it is only natural that large transactions like this from Ripple would generate waves in the market and lead to speculations. Consequently, the large transfers have reignited claims of Ripple selling its holdings amidst ongoing consolidation in the price of XRP. In addition, debates regarding XRP&#8217;s programmatic sales have resurfaced, as history shows this isn&#8217;t new to Ripple. According to details shared by a social media user, Jim_Knox, Ripple allegedly delivered XRP to three market makers in 2017 for the purpose of market sales, which resulted in a price suppression of the cryptocurrency during that particular period. Furthermore, recent accusations have taken root of Ripple using what it called the 4t and 6t bots to execute programmatic sales to exchanges.   Ripple CTO Addresses Concerns Ripple CTO David Schwartz took to a social media thread to address the rumors of price manipulation. An XRP community member had shared a meme suggesting that Ripple&#8217;s 4t and 6t bots have always prevented the price of XRP from increasing, keeping it at the $0.50 level.  Related Reading: Bitcoin Holds Above $50,000 Despite Nasty Drop, Crypto Expert Says Local Top Not In However, Schwartz pointed out that Ripple has discontinued the programmatic sales of XRP, with the company only selling its holdings through ODL transactions. The ODL transaction method is Ripple&#8217;s unique payment solution that offers instantaneous cross-border transactions. On the other hand, concerns regarding the recent large transactions from Ripple to unknown wallets are yet to be addressed, and it all remains speculative at this point. XRP is trading at $0.5463 at the time of writing, down by 0.50% in the past 24 hours but still maintaining a meager 2% gain in a 30-day timeframe. Recent transaction alerts from Whale Alerts have shown large amounts of XRP leaving private wallets to crypto exchanges, hinting at potential selloffs.   Token price stalls at $0.54 &#124; Source: XRPUSD on Tradingview.com Featured image from U.Today, chart from Tradingview.com"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-22T13:14:56.000Z",
-    "title": "Here’s What You Know About Google’s New Gemma Model",
-    "url": "https://www.cryptopolitan.com/heres-what-you-know-about-googles-new-gemma-model/",
-    "description": "The AI competition between Google and OpenAI has intensified with just two months into 2024. On February 15th, OpenAI announced Sora, which is unarguably the best AI video generator ever developed. On Wednesday, Google came out with a new groundbreaking product called Gemma.&#160; Gemma is actually not a single product but rather a family of [&#8230;]"
+    "source": "Crypto News Flash",
+    "date": "2024-02-22T14:00:30.000Z",
+    "title": "Traders Chase Pumps On SEI And Stacks (STX) While Rebel Satoshi (RBLZ) Makes Big Move Ahead Of Launch",
+    "url": "https://www.crypto-news-flash.com/traders-chase-pumps-on-sei-and-stacks-stx-while-rebel-satoshi-rblz-makes-big-move-ahead-of-launch/?utm_source=rss&utm_medium=rss&utm_campaign=traders-chase-pumps-on-sei-and-stacks-stx-while-rebel-satoshi-rblz-makes-big-move-ahead-of-launch",
+    "description": "<img width=\"1200\" height=\"752\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629-768x481.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T100017.629-450x282.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />In the 5th round of its presale, Rebel Satoshi&#8217;s ($RBLZ) token has surged to $0.024, with plans for an upcoming listing on major exchanges. Following the new collaboration with Travala, analysts expect Sei (SEI) to rise to $1.231. Top Experts predict that Stacks (STX) will reach $3.124 in a few weeks. As investors seek out [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-02-22T13:56:45.000Z",
+    "title": "Nigerian Presidential Aide Calls for Ban on Binance",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/nigerian-presidential-aide-calls-for-ban-on-binance/",
+    "description": "<p>A presidential aide to Nigeria&#8217;s Bola Ahmed Tinubu has called for a ban on Binance and KuCoin to protect the nation&#8217;s weakening currency.  Bayo Onanuga serves as an adviser to the President on information and strategy. He claimed these crypto exchanges were partly responsible for the naira’s continued depreciation and its downfall in the forex [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/nigerian-presidential-aide-calls-for-ban-on-binance/\">Nigerian Presidential Aide Calls for Ban on Binance</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-02-22T13:42:46.000Z",
+    "title": "Sui Blockchain Achieves First Offline Transaction",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/sui-blockchain-achieves-first-offline-transaction/",
+    "description": "<p>The first Sui blockchain transaction was completed without internet for both sender and receiver, in a groundbreaking event. This milestone represents a major advance in blockchain evolution, challenging traditional views on connectivity and access. Sui&#8217;s Revolutionary Offline Transaction The Sui blockchain, noted for its DeFi innovation, consistently advances in scalability, security, and user experience. However, [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/sui-blockchain-achieves-first-offline-transaction/\">Sui Blockchain Achieves First Offline Transaction</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-22T13:24:00.000Z",
-    "title": "Ripple CTO Defends GSR Trading Bots as Ripple’s XRP Sales Come Under Fire",
-    "url": "https://coinedition.com/ripple-cto-defends-gsr-trading-bots-as-ripples-xrp-sales-come-under-fire/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple Reaches Confidential Agreement to Settle $15M Suit with UK Firm\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent exchange on X, David Schwartz, Ripple&#8217;s Chief Technology Officer, explained the rationale behind the company&#8217;s utilization of trading bots from GSR for its XRP sales program. This revelation emerges amid heightened scrutiny sparked by documents from the Ripple vs. SEC lawsuit, which shed light on Ripple&#8217;s programmatic sales practices. In particular, the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-cto-defends-gsr-trading-bots-as-ripples-xrp-sales-come-under-fire/\">Ripple CTO Defends GSR Trading Bots as Ripple&#8217;s XRP Sales Come Under Fire</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-22T13:22:16.000Z",
-    "title": "Altseason Awakens? Select Coins Surge, Defying Market Gloom",
-    "url": "https://coinedition.com/altseason-awakens-select-coins-surge-defying-market-gloom/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the last 24 hours, several altcoins have been making significant moves, indicating that the altseason could be approaching. Interestingly, most have been AI-themed tokens, which have a good chance of both pumping first and highest when the season comes to play. Worldcoin (WLD) Worldcoin’s (WLD) price has been increasing for the last seven days. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/altseason-awakens-select-coins-surge-defying-market-gloom/\">Altseason Awakens? Select Coins Surge, Defying Market Gloom</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-02-22T13:45:09.000Z",
+    "title": "JasmyCoin (JASMY) Price Prediction 2024-2030: Will JASMY Hit $0.025 Soon?",
+    "url": "https://coinedition.com/jasmycoin-jasmy-price-prediction/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/JasmyCoin-JASMY-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Apart from Bitcoin (BTC) and Ethereum (ETH), there are other digital currencies worth considering for people looking to diversify their portfolios and gain experience with new cryptocurrencies. JasmyCoin (JASMY) is one of them. Jasmy’s blockchain platform is intended to restore and safeguard individual data sovereignty. It combines traditional IoT and blockchain technology, allowing people to [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/jasmycoin-jasmy-price-prediction/\">JasmyCoin (JASMY) Price Prediction 2024-2030: Will JASMY Hit $0.025 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

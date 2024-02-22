@@ -1,121 +1,72 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-02-22T13:08:35.000Z",
-    "title": " KuCoin responds to claims of user funds being locked ",
-    "url": "https://cointelegraph.com/news/kucoin-exchange-response-redditors",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNTcwOTg4N2YtYWM4OS00OGJhLTk5MDAtMDQ1ZmM0ZTI5ZmMxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A KuCoin representative team told Cointelegraph that they are already communicating with users to resolve the cases reported on Reddit. </p>\n                    <p><p data-ct-non-breakable=\"true\">Crypto exchange KuCoin has responded to claims on the social media platform Reddit of users being unable to withdraw their funds from the exchange. </p><p>On Feb. 21, Reddit users started posting claims in the KuCoin subreddit that they were unable to withdraw their funds from the exchange. One Redditor <a href=\"https://np.reddit.com/r/kucoin/comments/1aw60x1/kucoin_have_stolen_us4800_from_me/\" target=\"_blank\" rel=\"noopener nofollow\">posted</a> that they have already been locked out of their funds for four months. The user claimed they had already provided all the information that KuCoin asked for but still did not receive any action from the exchange. </p><p data-ct-non-breakable=\"true\">Another Redditor <a href=\"https://np.reddit.com/r/kucoin/comments/1awcge8/after_two_months_funds_still_seized/\" target=\"_blank\" rel=\"noopener nofollow\">shared</a> that their account has been blocked for two months. The user claims that KuCoin responded to them with some “serious allegations,” saying that it received a report that the account was involved in certain crimes like fraud, stealing of tokens or hacker attacks, with sufficient evidence. However, the Reddit user claims they have not received any details from the exchange. </p><p><a href=\"https://cointelegraph.com/news/kucoin-exchange-response-redditors\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-22T13:03:08.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p>The European Central Bank is still cold on Bitcoin, despite recent exchange-traded fund (ETF) approvals in the U.S. The firm behind Tether was silent on whether it would consider junking Tron after competitor Circle ceased minting on the blockchain on Tuesday. Meanwhile, Terraform Labs co-founder Do Kwon will reportedly be extradited to the United States, where he faces fraud charges and Ripple’s boss has given his views on ETFs.</p><p>Despite generating excitement on the other side of the pond, the European Central Bank still has a downer on Bitcoin and the latest slew of U.S. ETF approvals</p><p>In a <a href=\"https://www.ecb.europa.eu/press/blog/date/2024/html/ecb.blog20240222~0929f86e23.en.html\" target=\"_blank\" rel=\"noopener nofollow\">blog post</a>, Ulrich Bindseil, the Director General of the ECB’s Market Infrastructure and Payments division, and Jürgen Schaaf, an adviser to the same division, disagree with the claim that the approval of spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) ETFs in the U.S. confirms that BTC investments are safe and the preceding rally was “proof of an unstoppable triumph.” </p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-22T13:03:32.000Z",
-    "title": "Bitcoin’s market cap holds strong at 7.4% against gold, marking its status in the ETF market",
-    "url": "https://cryptoslate.com/insights/bitcoins-market-cap-holds-strong-at-7-4-against-golds-marking-its-status-in-the-etf-market/",
-    "description": "<p>Quick Take Bitcoin, often called &#8216;digital gold,&#8217; continues to make significant strides in the Exchange Traded Funds (ETF) market, as highlighted by CryptoSlate analysis. Currently, Bitcoin&#8217;s price, pegged against gold, is 25.5 ounces, a decrease from the 2021 high of 37 ounces. Despite this, Bitcoin&#8217;s market cap is a significant 7.37% compared to gold&#8217;s. At [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoins-market-cap-holds-strong-at-7-4-against-golds-marking-its-status-in-the-etf-market/\">Bitcoin&#8217;s market cap holds strong at 7.4% against gold, marking its status in the ETF market</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-22T13:35:22.000Z",
+    "title": " a16z invests $100 million in EigenLayer — report  ",
+    "url": "https://cointelegraph.com/news/a16z-invests-100-million-eigenlayer",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOThjOTg0OTEtMjkyNi00N2QyLTg3NGQtNGQ0MWY5ODYyM2M5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The investment comes as crypto-related venture capital funding started increasing following the approval of spot Bitcoin ETFs.</p>\n                    <p><p data-ct-non-breakable=\"true\">Venture capital firm Andreessen Horowitz (a16z) announced a $100 million funding round in EigenLayer, Ethereum’s largest restaking protocol by total value locked (TVL).</p><p>The venture firm was reportedly the only investor in the funding round, according to a Feb. 22 Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2024-02-22/andreessen-invests-100-million-in-crypto-startup-eigenlayer?sref=IIP4JEyu\" target=\"_blank\" rel=\"noopener nofollow\">report</a>. The EigenLayer protocol completed a $50 million funding round in March, led by Blockchain Capital.</p><p><a href=\"https://cointelegraph.com/news/vc-blockchain-and-crypto-funding-rises-in-q4-2023-report\">Venture capital (VC) funding </a>for crypto-related firms rose 2.5% in the fourth quarter of 2023 to $1.9 billion, according to a report from PitchBook. This represents the first increase in VC crypto investments since March 2022. The rise in crypto venture investments could be attributed to the launch of the first spot Bitcoin exchange-traded funds (ETFs) in January, according to PitchBook.</p><p><a href=\"https://cointelegraph.com/news/a16z-invests-100-million-eigenlayer\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-22T13:01:00.000Z",
-    "title": "Level Up Your Earnings: The Top 5 Play-to-Earn (P2E) Cryptocurrencies Set to Dominate 2024",
-    "url": "https://cryptodaily.co.uk/2024/02/level-up-your-earnings-the-top-5-play-to-earn-p2e-cryptocurrencies-set-to-dominate-2024",
-    "description": "At this very moment, Play-to-Earn (P2E) games are transforming the cryptocurrency sector. They’re going to change how people use these coins soon. Today, we have lined up five P2E coins that’ll take over 2024. This opens up an opportunity for gamers worldwide."
+    "date": "2024-02-22T13:27:14.000Z",
+    "title": "Forbes Launches Permanent Presence in Sandbox (SAND) Metaverse, Flare (FLR) Introduced Flare Base as Pullix (PLX) Reach Another Milestone With BitMart",
+    "url": "https://cryptodaily.co.uk/2024/02/forbes-launches-permanent-presence-in-sandbox-sand-metaverse-flare-flr-introduced-flare-base-as-pullix-plx-reach-another-milestone-with-bitmart",
+    "description": "Although the exact date of the next Bitcoin halving is still sketchy, the excitement that it would happen in April this year has lifted the mood of many top crypto coins"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-22T13:00:04.000Z",
-    "title": "As it surpasses 0.5bn in volume settled, Bebop unveils a major uplift to its API suite and trading app, expands to BNB Chain with more to follow",
-    "url": "https://cryptodaily.co.uk/2024/02/as-it-surpasses-05bn-in-volume-settled-bebop-unveils-a-major-uplift-to-its-api-suite-and-trading-app-expands-to-bnb-chain-with-more-to-follow",
-    "description": "As it surpasses 0.5bn in volume settled, Bebop unveils a major uplift to its API suite and trading app, expands to BNB Chain with more..."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-22T12:46:43.000Z",
-    "title": "New Crypto Priced at $0.04 Becomes Magnet for Chainlink and Polygon (MATIC)",
-    "url": "https://cryptodaily.co.uk/2024/02/new-crypto-priced-at-004-becomes-magnet-for-chainlink-and-polygon-matic",
-    "description": "Bitcoin, now famously known for its rise back to $50,000, started from humble beginnings, as it was modestly priced at $0.2 in 2010, its impressive returns,"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-22T12:40:47.000Z",
-    "title": "DeeStream (DST): Huge Streaming Revolution, Catches Eye of Solana (SOL) and TRON (TRX) Holders",
-    "url": "https://cryptodaily.co.uk/2024/02/deestream-dst-huge-streaming-revolution-catches-eye-of-solana-sol-and-tron-trx-holders",
-    "description": "As the digital age continues to evolve, the streaming industry is undergoing a significant transformation, thanks to blockchain technology."
+    "date": "2024-02-22T13:24:49.000Z",
+    "title": "Will Sei (SEI) and Sui (SUI) Withstand Bearish Trends to Keep Shattering Records in DeFi?",
+    "url": "https://cryptodaily.co.uk/2024/02/will-sei-sei-and-sui-sui-withstand-bearish-trends-to-keep-shattering-records-in-defi",
+    "description": "Discover why the crypto world is buzzing about Sei (SEI) and Sui (SUI). From rollercoaster market movements to exciting upgrades and surprising surges, find out the secrets behind their latest performances. Don't miss out on the critical insights that could shape your investment decisions!"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T13:00:07.000Z",
-    "title": "As it surpasses 0.5bn in volume settled, Bebop unveils a major uplift to its API suite and trading app, expands to BNB Chain with more to follow",
-    "url": "https://www.cryptopolitan.com/as-it-surpasses-0-5bn-in-volume-settled-bebop-unveils-a-major-uplift-to-its-api-suite-and-trading-app-expands-to-bnb-chain-with-more-to-follow/",
-    "description": "BVI, British Virgin Islands, February 22nd, 2024, Chainwire Bebop, a leading spot trading platform in DeFi, has released major updates to its web app and API suite, expanded to BNB Chain, and is rapidly expanding across other L1 and L2 ecosystems. Bebop Router: Unparalleled Quality of Execution The API suite now offers the Bebop Router [&#8230;]"
+    "date": "2024-02-22T13:38:22.000Z",
+    "title": "Law commission considers draft legislation labeling crypto as property",
+    "url": "https://www.cryptopolitan.com/law-commission-considers-draft-legislation/",
+    "description": "The Law Commission, responsible for scrutinizing and suggesting legal reforms in England and Wales, has initiated a significant consultation process regarding classifying cryptocurrencies as property. This move is part of its broader examination of digital assets and electronic trade documents in private international law. Consultation on draft legislation In its recent publication, the Law Commission [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T12:53:47.000Z",
-    "title": "Market analysis: Shiba Inu, Bitcoin, and XRP witnessing volatility amidst shifting sentiment",
-    "url": "https://www.cryptopolitan.com/market-analysis-shiba-inu-bitcoin-and-xrp/",
-    "description": "The recent downturn in Shiba Inu (SHIB) has sparked concern among investors, indicating a potential bearish trend in the coming weeks. The market is experiencing a surge in selling pressure, attributed to various factors, including high whale activity.&#160; This volatility underscores a fragile market sentiment with local resistances impeding upward price movement. Immediate support for [&#8230;]"
+    "date": "2024-02-22T13:29:13.000Z",
+    "title": "Bitcoin takes a dip: What’s behind the slump?",
+    "url": "https://www.cryptopolitan.com/bitcoin-takes-a-dip-whats-behind-the-slump/",
+    "description": "Yesterday, the crypto market saw a big drop, with its total value falling by 2.75% to $1.90 trillion. During this dip, Bitcoin&#8217;s share of the market slightly grew by 0.25%, reaching 50.77%. This increase in Bitcoin&#8217;s share during a market downturn suggests deeper issues that need a closer look. When we examine why Bitcoin&#8217;s price [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T12:52:07.000Z",
-    "title": "South Africa advances with stablecoins and blockchain for digital payments",
-    "url": "https://www.cryptopolitan.com/south-africa-advances-with-stablecoins/",
-    "description": "South Africa&#8217;s National Treasury outlined its strategy to promote the adoption of digital payments within its 2024 budget review. The announcement highlights the government&#8217;s commitment to leveraging technology to enhance economic participation among marginalized groups, with a particular focus on the integration of stablecoins and blockchain technology. Fostering financial inclusion through digital payments The treasury&#8217;s [&#8230;]"
+    "date": "2024-02-22T13:27:12.000Z",
+    "title": "BNB’s bullish trend persists, buoyed by Binance’s strategy",
+    "url": "https://www.cryptopolitan.com/bnb-bullish-trend-persist-binance-burn-cause/",
+    "description": "Binance Coin (BNB), the native token of the Binance cryptocurrency exchange, has experienced a remarkable surge of over 7% within the past 24 hours. This surge in price comes in the wake of an announcement made by Binance regarding the burning of significant amounts of BUSD and TUSD B-tokens, with corresponding releases of tokens used [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T12:48:44.000Z",
-    "title": "European Central Bank (ECB) reaffirms Bitcoin’s unsuitability despite ETF approval",
-    "url": "https://www.cryptopolitan.com/ecb-reaffirms-bitcoins-unsuitability/",
-    "description": "The European Central Bank (ECB) reiterated its stance on Bitcoin (BTC), emphasizing that the approval of spot Exchange-Traded Funds (ETFs) for the cryptocurrency does not alter its view of BTC as unsuitable for both investment and as a means of payment. ECB&#8217;s stance on Bitcoin The ECB, represented by Ulrich Bindseil and Jürgen Schaaf, asserted [&#8230;]"
+    "date": "2024-02-22T13:16:29.000Z",
+    "title": "AI tokens and stocks surge following Nvidia’s strong earnings report",
+    "url": "https://www.cryptopolitan.com/ai-tokens-and-stocks-surge-following-nvidias/",
+    "description": "The artificial intelligence (AI) market experienced a significant surge in crypto tokens and traditional stocks, buoyed by Nvidia&#8217;s impressive earnings report and a broader market correction. This surge, evident over the past month, saw several AI-based tokens and stocks record substantial gains despite market volatility. AI tokens rally AI-based crypto tokens witnessed notable gains on [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-22T12:48:28.000Z",
-    "title": "Polygon and Chainlink ride on DeeStream’s wave",
-    "url": "https://crypto.news/polygon-and-chainlink-ride-on-deestreams-wave/",
-    "description": "Polygon and Chainlink are key platforms, while DeeStream plans to reshape streaming. The DST presale is ongoing"
+    "source": "Cryptopolitan",
+    "date": "2024-02-22T13:14:56.000Z",
+    "title": "Here’s What You Know About Google’s New Gemma Model",
+    "url": "https://www.cryptopolitan.com/heres-what-you-know-about-googles-new-gemma-model/",
+    "description": "The AI competition between Google and OpenAI has intensified with just two months into 2024. On February 15th, OpenAI announced Sora, which is unarguably the best AI video generator ever developed. On Wednesday, Google came out with a new groundbreaking product called Gemma.&#160; Gemma is actually not a single product but rather a family of [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-02-22T12:48:01.000Z",
-    "title": "South Africa plans to use stablecoins and blockchain as a way to promote equality",
-    "url": "https://crypto.news/south-africa-plans-to-use-stablecoins-and-blockchain-as-a-way-to-promote-equality/",
-    "description": "South African authorities have revealed the treasury&#8217;s plan to promote the adoption of digital payments for marginalized groups. According to a treasury document published on Feb. 21, South Africa is considering stablecoins and blockchain as a way to improve the&#8230;"
+    "source": "Coin Edition",
+    "date": "2024-02-22T13:24:00.000Z",
+    "title": "Ripple CTO Defends GSR Trading Bots as Ripple’s XRP Sales Come Under Fire",
+    "url": "https://coinedition.com/ripple-cto-defends-gsr-trading-bots-as-ripples-xrp-sales-come-under-fire/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple Reaches Confidential Agreement to Settle $15M Suit with UK Firm\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/Ripple-Recruit-Litigation-Counsel-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent exchange on X, David Schwartz, Ripple&#8217;s Chief Technology Officer, explained the rationale behind the company&#8217;s utilization of trading bots from GSR for its XRP sales program. This revelation emerges amid heightened scrutiny sparked by documents from the Ripple vs. SEC lawsuit, which shed light on Ripple&#8217;s programmatic sales practices. In particular, the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-cto-defends-gsr-trading-bots-as-ripples-xrp-sales-come-under-fire/\">Ripple CTO Defends GSR Trading Bots as Ripple&#8217;s XRP Sales Come Under Fire</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-02-22T13:00:32.000Z",
-    "title": "Galaxy CEO Cautions Bitcoin May Fall To $42,000 Ahead Of Major Rally",
-    "url": "https://www.newsbtc.com/news/bitcoin/galaxy-ceo-bitcoin-fall-42000-ahead-major-rally/",
-    "description": "In an exclusive interview with CNBC’s &#8216;Squawk Box&#8217;, Mike Novogratz, CEO of Galaxy Digital, provided an in-depth analysis of the current state and future trajectory of Bitcoin amidst a rapidly evolving financial landscape. The conversation spanned a variety of topics, including the recent surge in Bitcoin prices following the approval of spot Bitcoin ETFs and the impact of the Federal Reserve&#8217;s monetary policy on cryptocurrency markets. Bitcoin Amid Market Consolidation And Institutional Adoption Opening the discussion, Novogratz touched on the remarkable rally Bitcoin has experienced, while also suggesting a potential consolidation phase. &#8220;We&#8217;ve come a long way fast, both in US stocks and in crypto&#8230; It wouldn&#8217;t surprise me if there&#8217;s some consolidation,&#8221; he stated. Despite this, he emphasized the significant milestone achieved with the opening of the institutional and Retail Investment Advisor (RIA) channels to Bitcoin, particularly through ETFs. &#8220;We&#8217;ve got baby boomers who own most of the wealth in America, and they&#8217;re getting their first easy access to Bitcoin&#8230; And I don&#8217;t think that&#8217;s going to stop,&#8221; Novogratz elaborated, underlining the transformative impact of ETFs on Bitcoin accessibility. Related Reading: Bitcoin Fisher Transform Reaches Critical Level Not Seen Since 2021, What This Means When probed about the pace at which financial advisors could start recommending Bitcoin, Novogratz offered an optimistic forecast: &#8220;I would tell you at least double in six months.&#8221; He attributed this to both demand from clients and the inevitable adaptation of large platforms. &#8220;Their customers are calling and bitching at them and saying, we want to buy Bitcoin with you,&#8221; he quoted, highlighting the grassroots demand driving institutional platforms towards crypto adoption. Addressing potential short-term price movements, Novogratz candidly acknowledged the possibility of a downturn. &#8220;It could be some regulatory kerfuffle, it could just be the market got a little long and you get people scared,&#8221; he speculated, pinpointing a price range of &#8220;$45,000&#8230; $42,000&#8221; as the potential downside. This acknowledgment of volatility underscores his realistic view of the crypto market&#8217;s susceptibility to external pressures and internal dynamics. BTC Price Targets Looking ahead, Novogratz responded to Tom Lee&#8217;s prediction of Bitcoin reaching $150,000 by year&#8217;s end with cautious optimism. While hesitant to commit to a specific number, he concurred that Bitcoin is likely to retest its all-time highs, emphasizing the market&#8217;s momentum when it attracts new buyers. Related Reading: Bitcoin FOMO Hasn’t Spiked Yet: Green Signal For Rally To Continue? &#8220;You know, when markets get new buyers and start breaking out, it&#8217;s hard to have a price prediction,&#8221; he remarked, suggesting that surpassing the $69,000 mark could open the door to unprecedented price levels like $125,000 to $150,000, contingent on broader economic conditions such as the Federal Reserve&#8217;s interest rate policies. Delving into Bitcoin&#8217;s correlation with the macroeconomic environment, Novogratz presented a nuanced perspective. He acknowledged Bitcoin&#8217;s dual identity as both a macro asset and a nascent technology in an adoption cycle. On the topic of Bitcoin&#8217;s correlation with broader economic indicators, Novogratz highlighted the dual narrative that has come to define Bitcoin&#8217;s market behavior. &#8220;It&#8217;s a macro asset&#8230;And the second, we&#8217;re early on in the life cycle, so there&#8217;s an adoption cycle,&#8221; he pointed out. Thus, he emphasized the unique position of Bitcoin at the intersection of a burgeoning asset class and a macroeconomic hedge. He added, &#8220;Right now, this is all adoption. This is new buyers coming in and being told the big-picture story that you need to have this in your portfolio.&#8221; Featured image created with DALL·E, chart from tradingView.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-22T13:00:26.000Z",
-    "title": "As it surpasses 0.5bn in volume settled, Bebop unveils a major uplift to its API suite and trading app, expands to BNB Chain with more to follow",
-    "url": "https://www.crypto-news-flash.com/as-it-surpasses-0-5bn-in-volume-settled-bebop-unveils-a-major-uplift-to-its-api-suite-and-trading-app-expands-to-bnb-chain-with-more-to-follow/?utm_source=rss&utm_medium=rss&utm_campaign=as-it-surpasses-0-5bn-in-volume-settled-bebop-unveils-a-major-uplift-to-its-api-suite-and-trading-app-expands-to-bnb-chain-with-more-to-follow",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/photo_2024-02-21_15-41-50_1708548118Vsz4G3bEST-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />BVI, British Virgin Islands, February 22nd, 2024, Chainwire Bebop, a leading spot trading platform in DeFi, has released major updates to its web app and API suite, expanded to BNB Chain, and is rapidly expanding across other L1 and L2 ecosystems. Bebop Router: Unparalleled Quality of Execution The API suite now offers the Bebop Router [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-02-22T13:00:16.000Z",
-    "title": "These 4 Coins Are the Key to Wealth in the Next 6 Months: $ETH, $DYM, $WLD, $GFOX",
-    "url": "https://www.crypto-news-flash.com/these-4-coins-are-the-key-to-wealth-in-the-next-6-months-eth-dym-wld-gfox/?utm_source=rss&utm_medium=rss&utm_campaign=these-4-coins-are-the-key-to-wealth-in-the-next-6-months-eth-dym-wld-gfox",
-    "description": "<img width=\"1200\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-300x300.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-1024x1024.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-150x150.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-768x768.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-450x450.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-24x24.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-48x48.jpg 48w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-22T095458.424-96x96.jpg 96w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />In February 2024, top crypto experts selected  $ETH, $DYM, $WYD, and $GFOX as the top crypto coins with the potential to generate significant profits over the next six months. Out of these four tokens, $GFOX, a full-utility memecoin, is expected to yield the highest returns for investors both in its ongoing presale and after its [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-22T12:45:20.000Z",
-    "title": "This Top-50 Altcoin Backed by Bitcoin Billionaires Could Explode 100% in Coming Months, According to Trader",
-    "url": "https://dailyhodl.com/2024/02/22/this-top-50-altcoin-backed-by-bitcoin-billionaires-could-explode-100-in-coming-months-according-to-trader/",
-    "description": "<img width=\"1024\" height=\"574\" src=\"https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg 1456w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?resize=300,168 300w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?resize=768,430 768w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?resize=1024,574 1024w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?resize=750,420 750w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-on-Cusp-of-.jpg?resize=1140,639 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A popular crypto analyst is turning bullish on one peer-to-peer storage altcoin project that is backed by billionaires. The pseudonymous trader known as Altcoin Sherpa tells his 207,700 followers on the social media platform X that decentralized storage network Filecoin (FIL) could increase more than 125% from its current value within months. &#8220;FIL: This doubles [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/22/this-top-50-altcoin-backed-by-bitcoin-billionaires-could-explode-100-in-coming-months-according-to-trader/\">This Top-50 Altcoin Backed by Bitcoin Billionaires Could Explode 100% in Coming Months, According to Trader</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-02-22T13:22:16.000Z",
+    "title": "Altseason Awakens? Select Coins Surge, Defying Market Gloom",
+    "url": "https://coinedition.com/altseason-awakens-select-coins-surge-defying-market-gloom/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/Price-analysis-4-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the last 24 hours, several altcoins have been making significant moves, indicating that the altseason could be approaching. Interestingly, most have been AI-themed tokens, which have a good chance of both pumping first and highest when the season comes to play. Worldcoin (WLD) Worldcoin’s (WLD) price has been increasing for the last seven days. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/altseason-awakens-select-coins-surge-defying-market-gloom/\">Altseason Awakens? Select Coins Surge, Defying Market Gloom</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

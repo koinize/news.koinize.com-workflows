@@ -1,58 +1,79 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-22T18:42:52.000Z",
-    "title": "Retail Investors Were Likely Behind The Crypto Market Rally in February, JPMorgan Says",
-    "url": "https://www.coindesk.com/business/2024/02/22/retail-investors-were-likely-behind-the-crypto-market-rally-in-february-jpmorgan-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Increased retail activity comes ahead of the three main catalysts in the coming months: the bitcoin halving, the Dencun upgrade of the Ethereum blockchain and the potential approval of spot ether ETFs, the report said."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-02-22T18:40:47.000Z",
-    "title": "Protocol Village: Research Paper Details 'Snarktor' Protocol With 'Recursive Proof Aggregation'",
-    "url": "https://www.coindesk.com/tech/2024/02/21/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 22-28."
+    "date": "2024-02-22T19:26:58.000Z",
+    "title": "The European Central Bank Is Either Lying About Bitcoin or Lying to Itself",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/02/22/the-european-central-bank-is-either-lying-about-bitcoin-or-lying-to-itself/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "ECB Director General Ulrich Bindseil and advisor Jürgen Schaaf are definitely against bitcoin, but their reasons don’t make a lot of sense."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-02-22T18:54:43.000Z",
-    "title": " Stacks (STX) price outperforms the market as interest in layer-2 Bitcoin grows  ",
-    "url": "https://cointelegraph.com/news/stacks-stx-price-outperforms-the-market-as-interest-in-layer-2-bitcoin-grows",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvOGQwZTdhYmItNWI5OC00YmRkLWI5MDQtYWJmOWY1NTdkOWIwLmpwZWc=.jpeg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>STX emerges as a top performer as market participants’ interest in layer-2 Bitcoin continues to grow.</p>\n                    <p><p>STX, the native token of the Bitcoin-focused Stacks layer 1 smart contract platform, is making waves in the crypto market after posting a 400% rally since October 2023. </p><p>STX trading volume has jumped a staggering 2,600% over the same period to $437.6 million on Feb. 22. STX’s performance surpasses Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) 90% increase since Oct. 15, 2023, and according to Messari, STX outperformed Bitcoin in 2023 with a 600% increase year-on-year.</p><p>This year has seen a growing interest in Bitcoin layer-2 projects not only because of spot Bitcoin ETFs, which now have more than <a href=\"https://cointelegraph.com/news/bitcoin-etfs-hit-10b-milestone-just-month-after-approval\">$10 billion in assets under management</a> (AuM), but also because of their focus on Bitcoin Ordinals, which already have a $2.5 billion market cap.</p><p><a href=\"https://cointelegraph.com/news/stacks-stx-price-outperforms-the-market-as-interest-in-layer-2-bitcoin-grows\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-22T19:34:57.000Z",
+    "title": " Marathon Digital Holdings launches direct Bitcoin transaction submission service ",
+    "url": "https://cointelegraph.com/news/marathon-digital-holdings-launches-direct-bitcoin-btc-transaction-submission-service",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZTg0YTA2ZTAtZjM1Yi00OTc5LTk0ODMtZjc0NmUwMWUzZDQwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The new service should speed things up for large and/or non-standard Bitcoin transactions.</p>\n                    <p><p data-ct-non-breakable=\"true\">Marathon Digital Holdings, a Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) mining and digital asset technology company headquartered in Las Vegas, Nevada, recently unveiled a new direct Bitcoin transaction submission service called “Slipstream.”</p><p>The new service was designed and implemented to facilitate and speed up large and/or non-standard Bitcoin transactions.</p><p>Typically, Bitcoin transactions that are too large to fit on the blockchain or too complex to complete normally get delayed while simpler transactions get processed. This can be frustrating for groups or individuals who trade often and in large amounts. </p><p><a href=\"https://cointelegraph.com/news/marathon-digital-holdings-launches-direct-bitcoin-btc-transaction-submission-service\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-02-22T19:08:33.000Z",
-    "title": "EigenLayer secures $100 million investment from Andreessen Horowitz",
-    "url": "https://cryptobriefing.com/eigenlayer-secures-100-million-investment-andreessen-horowitz/",
-    "description": "Andreessen Horowitz has announced a $100 million investment in restaking protocol EigenLayer, as reported by Bloomberg this Thursday."
+    "source": "Cointelegraph",
+    "date": "2024-02-22T19:27:37.000Z",
+    "title": " ERC20 wallet drainer receives UK business registration ",
+    "url": "https://cointelegraph.com/news/erc20-wallet-drainer-receives-uk-business-registration",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZTkwOTRlNDMtNjk4Yi00YjdiLWJmNTQtNzMzYzI4YTE3YjRjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>A developer of the Nova Drainer phishing protocol has officially registered as a business in the UK.</p>\n                    <p><p>A development team that produces a scam-as-a-service wallet drainer has taken the unusual step of registering as a business in the UK. </p><p>According to blockchain security firm CertiK, the phishing software developer, Crypto Grab, produces the “Nova Drainer” application as a “drainer” or “phishing” product. The company has become listed on the official website of Companies House, the UK Government agency that oversees business registrations.</p><p>CryptoGrab has argued that this business registration will allow it to be seen as legitimate, helping it to obtain EV SSL certificates (Extended Validation Certificates). </p><p><a href=\"https://cointelegraph.com/news/erc20-wallet-drainer-receives-uk-business-registration\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-22T19:17:20.000Z",
+    "title": " Empirical analysis identifies blockchain as highest performing information security startup investment ",
+    "url": "https://cointelegraph.com/news/empirical-analysis-identifies-blockchain-highest-performing-information-security-startup-investment",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNmI3MGUwNGEtNzg1Yy00ZmVjLTlhZWUtMTgzOTUzNmVmZWNmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Blockchain outperformed artificial intelligence, machine learning, private cloud, and cloud security.</p>\n                    <p><p>A team of Swiss researchers, under grant from Switzerland’s Cyber-Defence Campus, recently published an empirical study showing blockchain as the top performer among information security startup investments. </p><p>The study, <a href=\"https://arxiv.org/pdf/2402.04765.pdf\" target=\"_blank\" rel=\"noopener nofollow\">titled</a> “Measuring the performance of investments in information security startups: An empirical analysis by cybersecurity sectors using Crunchbase data,” identifies and ranks 19 information security startup sectors ranging from artificial intelligence to spam filtering. </p><p>According to the researchers:</p><p><a href=\"https://cointelegraph.com/news/empirical-analysis-identifies-blockchain-highest-performing-information-security-startup-investment\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-02-22T19:11:08.000Z",
+    "title": "Memeonomics: Exploring the Impact of Memecoins in Crypto Culture",
+    "url": "https://cryptodaily.co.uk/2024/02/memeonomics-exploring-the-impact-of-memecoins-in-crypto-culture",
+    "description": "All eyes have been on the Bitcoin ETFs and what it means for mainstream adoption, but in the shadows of large institutions stepping in, lies the true foundation of cryptocurrencies and one of the pillars of decentralization - communities."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T18:58:29.000Z",
-    "title": "Aptos Price Prediction for 2024 – 2033: Will APT Token Hold Bullish Hopes?",
-    "url": "https://www.cryptopolitan.com/aptos-price-prediction/",
-    "description": "Aptos Price Prediction 2024-2033 As we venture into 2024 to 2033, the period is critical for Aptos as it strives to establish itself as a significant blockchain platform. The rapidly changing market dynamics, technological advancements, and evolving adoption trends will undoubtedly shape Aptos’s path. Against this backdrop, investors and stakeholders are keen to gain insights [&#8230;]"
+    "date": "2024-02-22T19:31:12.000Z",
+    "title": "Aave deploys its money market protocol on BNB Chain",
+    "url": "https://www.cryptopolitan.com/aave-money-market-protocol-on-bnb-chain/",
+    "description": "Aave, a prominent decentralized finance (DeFi) platform, has broadened its reach by deploying its money market protocol on the BNB Chain network. This strategic move represents a significant advancement in the expansion of BNB Chain’s DeFi ecosystem. The platform’s integration into the network joins other leading DeFi protocols like Uniswap and PancakeSwap, further enriching the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-22T18:42:17.000Z",
-    "title": "ApeCoin Price Prediction 2024-2033: Will APE Break $2 Resistance?",
-    "url": "https://www.cryptopolitan.com/apecoin-price-prediction/",
-    "description": "ApeCoin Price Prediction 2024-2033 The NFT industry has been booming for the past few years and is not stopping anytime soon. The NFT project Bored Ape Yacht Club has been one of the most successful in the blockchain industry. However, recent statistics indicate that the project is losing its momentum. Various APE price highlights unfold [&#8230;]"
+    "date": "2024-02-22T19:11:09.000Z",
+    "title": "Nigeria imposes access restrictions on major crypto exchanges, including Kraken, Binance, and Coinbase",
+    "url": "https://www.cryptopolitan.com/nigeria-restrictions-kraken-binance-coinbase/",
+    "description": "The Nigerian government has initiated a crackdown on access to prominent cryptocurrency exchanges to curb currency speculation and stabilize its faltering currency. However, this development comes as the Nigerian naira continues to hit record lows against the dollar, prompting authorities to block consumer access to leading crypto platforms such as Binance, Coinbase, and Kraken. The [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-22T19:11:00.000Z",
+    "title": "Tron Price Prediction 2024-2033: Is it a Good Time to buy TRX?",
+    "url": "https://www.cryptopolitan.com/tron-price-prediction/",
+    "description": "Tron Price Prediction 2024-2033 TRX, or rather Tronix, is the native&#160;crypto asset of the TRON Network. TRON is a Blockchain-based decentralized network targeting an unchained, worldwide digital content entertainment structure using distributed ledger technology and enabling straightforward and cheap data sharing. How is Tron Price Prediction making out in this turbulent crypto weather as major [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-22T18:43:29.000Z",
-    "title": "Helius secures $9.5m to boost Solana developer platform",
-    "url": "https://crypto.news/helius-funding-solana-developer-platform/",
-    "description": "Helius aims to enhance the developer experience on the Solana blockchain by using the $9.5 million to grow its team and improve its tech stack."
+    "date": "2024-02-22T19:33:05.000Z",
+    "title": "US crypto hedge fund backs MetaClip drawing Ethereum and Solana investors",
+    "url": "https://crypto.news/us-crypto-hedge-fund-backs-metaclip-drawing-ethereum-and-solana-investors/",
+    "description": "The MetaClip presale is ongoing, drawing Ethereum (ETH) and Solana (SOL) investors"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-02-22T19:05:44.000Z",
-    "title": "Two Catalysts Will Trigger Bitcoin Explosion to ‘Unfathomable Heights,’ Says BitMEX Founder Arthur Hayes",
-    "url": "https://dailyhodl.com/2024/02/22/two-catalysts-will-trigger-bitcoin-explosion-to-unfathomable-heights-says-bitmex-founder-arthur-hayes/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/04/Coiling-Up-btc-eth.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>BitMEX co-founder Arthur Hayes believes two catalysts could send Bitcoin (BTC) soaring to a massive all-time high. In a new analysis, Hayes says that the recently launched spot Bitcoin exchange-traded funds (ETFs) are accumulating the crypto king at a significant enough rate to cause bullish momentum. He also believes that the ETF accumulation plus possible [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/22/two-catalysts-will-trigger-bitcoin-explosion-to-unfathomable-heights-says-bitmex-founder-arthur-hayes/\">Two Catalysts Will Trigger Bitcoin Explosion to ‘Unfathomable Heights,’ Says BitMEX Founder Arthur Hayes</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-02-22T19:30:50.000Z",
+    "title": "Elliot Wave Theory Predicts Bitcoin Bottom And Top, Here Are The Targets",
+    "url": "https://www.newsbtc.com/news/bitcoin/elliot-wave-theory-bitcoin-top/",
+    "description": "Bitcoin looks to be stuck in a consolidation zone between $50,000 and $52,000, with neither the bulls nor the bears succeeding in completely taking control of the trend. This performance has sparked a number of speculations on whether the BTC price has finally found a local top. One of those who have speculated on the price direction is crypto analyst Alan Santana, who has used the Elliot Wave Theory to predict where the price of the cryptocurrency might be headed next. Elliot Wave Points To Correction To $31,800 In the analysis shared by Alan Santana on TradingView, the Elliot Wave theory could point out the direction that the Bitcoin price could be headed next. The theory, which consists of five waves, has so far completed three waves, with the fourth wave expected to happen soon. Related Reading: Billionaire Tim Draper Bullish On Bitcoin As It Will Surpass Traditional Currencies, Here’s Why Given that the third wave is very bullish and the price has risen so fast, the fourth wave is expected to be more bearish. As Santana explains, this fourth wave points toward an upcoming correction. They also reveal that their analysis included Elliot’s Law of Alternation, and applying it to this scenario, the fourth wave is bearish, but would not go as low as the second wave. Source: TradingView.com Once this fourth wave moves into action, the Bitcoin price is expected to see a sharp correction. At the low end of this correction, though, is the $31,800 level, the analyst believes. So, in this scenario, there will be a return to the $20,000s before Bitcoin resumes its next leg up. “This wave four of a higher degree cannot enter the territory of wave two, which puts the lowest price possible for the upcoming correction at $31,805 based on Elliot Wave Theory,” Santana said. He further added that: “Just as wave three would lead to a correction (wave four), wave four invariable leads to another impulse; the final and fifth wave of the higher degree.” Bitcoin Top At $138,000 Not only does the Elliot Wave theory points toward a possible bottom, it also gives an idea for where the Bitcoin top might lie in the fifth wave. The crypto analyst uses one of the two Wave Principle methods to forecast this price, which takes into account the peak of the third wave and then uses that to give the peak of the fifth wave. Related Reading: Bitcoin Holds Above $50,000 Despite Nasty Drop, Crypto Expert Says Local Top Not In So far, the local top of this third wave looks to be $52,985, where Bitcoin peaked earlier this week. Since the Wave Principle says that the peak of Wave 5 would be three times higher than that of Wave 3, the analyst multiples $59,985 by 3, which gives a cycle top of $138,714. As for when this peak will roll around, Santana explains that the whole thing could play out by 2025, which is when the peak would take place. “So the potential for the final impulse or fifth wave based on the Elliot Wave Theory system, amounts to $138,714. This can happen sometime in 2025,” the analyst stated. BTC price at $51,700 &#124; Source: BTCUSD on Tradingview.com Featured image from Investopedia, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-22T19:25:22.000Z",
+    "title": "SEC’s Top Lawyer Exits Amid Ripple, Coinbase Lawsuits: Is XRP Price and Coinbase Stock Set for Big Win and Surge?",
+    "url": "https://www.crypto-news-flash.com/secs-top-lawyer-exits-amid-ripple-coinbase-lawsuits-is-xrp-price-and-coinbase-stock-set-for-big-win-and-surge/?utm_source=rss&utm_medium=rss&utm_campaign=secs-top-lawyer-exits-amid-ripple-coinbase-lawsuits-is-xrp-price-and-coinbase-stock-set-for-big-win-and-surge",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await.png 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-1200x686.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-768x439.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-1536x878.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-12.25.28-A-digital-art-composition-representing-the-delay-of-decisions-by-the-SEC-on-Spot-Ether-ETFs-until-March-with-a-focus-on-Grayscale-and-BlackRock-await-450x257.png 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The US Securities and Exchange Commission (SEC) is reported to have lost a top lawyer to a renowned law firm White &#38; Case. Ladan Stewart had been working in SEC&#8217;s crypto and cyber litigation unit since 2022 and was involved in the Coinbase and the Ripple lawsuits.  One of the top lawyers in the US [...]"
   }
 ]

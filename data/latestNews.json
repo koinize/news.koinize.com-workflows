@@ -1,44 +1,51 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-23T07:00:00.000Z",
-    "title": " New crypto scam drains users&#039; wallets without transaction approval ",
-    "url": "https://cointelegraph.com/news/new-scam-drains-wallets-without-user-approving-transaction",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNWUwMTUzYjMtYzk0Zi00MTdiLTg5NTUtMDE3YzJjNWM4MTRkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>ERC-2612 tokens contain a \"gas-less transfer\" feature that allows attackers to drain them using just the owner’s signature.</p>\n                    <p><p>A new scam circulating on Telegram allows the attacker to drain a victim’s crypto wallet without the victim needing to confirm a transaction, according to user reports and blockchain data. </p><p>The scam only works on tokens that comply with the ERC-2612 token standard, which allows for “gas-less” transfers or transfers by a wallet that does not hold Ether (ETH). While the method does not require users to approve a transaction, it appears to require tricking the user into signing a message. </p><p>As more tokens implement the ERC-2612 standard, this particular type of attack may become more prevalent.</p><p><a href=\"https://cointelegraph.com/news/new-scam-drains-wallets-without-user-approving-transaction\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-23T07:00:23.000Z",
-    "title": "Optimizing customer onboarding and KYC processes with Checkin.com’s AI and data-driven UX modules",
-    "url": "https://cryptoslate.com/optimizing-customer-onboarding-and-kyc-processes-with-checkin-coms-ai-and-data-driven-ux-modules/",
-    "description": "<p>In virtually any industry, from traditional retail to cutting-edge technology, the significance of customer onboarding remains a constant and critical factor in shaping the trajectory of a business. It&#8217;s the handshake, the warm welcome, and the guiding light that ushers new customers into a world of products or services. This initial experience defines a company&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/optimizing-customer-onboarding-and-kyc-processes-with-checkin-coms-ai-and-data-driven-ux-modules/\">Optimizing customer onboarding and KYC processes with Checkin.com&#8217;s AI and data-driven UX modules</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-02-23T07:31:02.000Z",
+    "title": "Tyler Perry Halts $800 Million Studio Expansion Due to AI Advancements",
+    "url": "https://www.cryptopolitan.com/tyler-perry-halts-million-studio-due-to-ai/",
+    "description": "In a significant move that underscores the burgeoning impact of artificial intelligence (AI) on traditional industries, renowned media mogul Tyler Perry has announced an indefinite pause on his studio&#8217;s planned $800 million expansion. Citing the potential of AI, particularly OpenAI&#8217;s Sora model, to revolutionize content creation, Perry&#8217;s decision reflects a broader industry reckoning with the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-23T06:55:03.000Z",
-    "title": "AI to the Rescue: Reviving Australia’s Giant Kelp Forests",
-    "url": "https://www.cryptopolitan.com/ai-to-the-rescue-reviving-kelp-forests/",
-    "description": "Google, Australian researchers, the Nature Conservancy, and other environmental organizations have joined together to unveil a ground-breaking initiative aimed at mitigating the consequences of climate change on marine ecosystems. The project aims to utilize artificial intelligence (AI) to revive the dwindling giant kelp forests off the coast of Tasmania, crucial for both ocean health and [&#8230;]"
+    "date": "2024-02-23T07:25:13.000Z",
+    "title": "Bitcoin Price Prediction 2024-2033: Will Bitcoin Bulls Rally?",
+    "url": "https://www.cryptopolitan.com/bitcoin-price-forecast/",
+    "description": "BTC Price Predictions 2024-2033 How much is Bitcoin (BTC) worth? Today, the price of Bitcoin stands at $51,243, with a trading volume over the past 24 hours reaching $24 billion. Its market capitalization is $1 trillion, and it currently commands 54% of the market share. Over the last 24 hours, the BTC price has experienced [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-23T06:51:14.000Z",
-    "title": "Siri, Step Aside? Apple AI “Ask” Tool Tested for AppleCare Support",
-    "url": "https://www.cryptopolitan.com/apple-ai-ask-tool-tested-applecare-support/",
-    "description": "Apple&#8217;s CEO, Tim Cook, has publicly expressed his enthusiasm for upcoming AI developments in 2024. Apple, long known for its sleek hardware and intuitive software, is quietly making waves in the realm of artificial intelligence (AI). While details about their specific plans remain undisclosed, recent leaks like the internal tool for Apple AI &#8220;Ask&#8221; offer [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-23T07:27:26.000Z",
+    "title": "Kelexo presale rising, Litecoin and Chainlink facing headwinds",
+    "url": "https://crypto.news/kelexo-presale-rising-litecoin-and-chainlink-facing-headwinds/",
+    "description": "While it becomes harder to predict Chainlink and Litecoin trajectory, the Kelexo presale continues to be a success"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-23T06:40:00.000Z",
-    "title": "Asian stock Markets – A Mixed Bag After Wall Street’s Record Highs",
-    "url": "https://www.cryptopolitan.com/asian-stock-markets-a-mixed-bag/",
-    "description": "Asian stock markets are presenting a mixed picture on Friday, mirroring the cautious sentiment despite the broadly positive cues from global markets the previous day. While some indexes are seeing gains, others remain subdued due to concerns about China&#8217;s slowing housing market. Australian Tech Surges, New Zealand and China Wait The Australian stock market, the [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-23T07:27:02.000Z",
+    "title": "Blueberry protocol pauses lending amid $1.35m drain",
+    "url": "https://crypto.news/blueberry-protocol-pauses-lending-amid-1-35m-drain/",
+    "description": "Fraudsters hacked the Blueberry DeFi protocol and advised users to withdraw money. The Blueberry project team shared in their post X on Feb. 23 that they had to stop work due to the exploit. Details of the exploit are being&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-23T07:22:16.000Z",
+    "title": "StarkWare changes lockup period for early contributors amid community concerns",
+    "url": "https://crypto.news/starkware-changes-lockup-period-for-early-contributors-amid-community-concerns/",
+    "description": "Responding to community concerns, StarkWare has revised the token lockup schedule for early contributors and investors, opting for a more gradual release of STRK tokens. StarkWare, the company behind the Ethereum scaling solution s (STRK), has announced a revision to&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-23T06:59:37.000Z",
-    "title": "Tokenization Wave: Chainlink Partners with Banking Giants Goldman Sachs, Citigroup, and HSBC for Real Asset Transformation – Can LINK Hit $25?",
-    "url": "https://www.crypto-news-flash.com/tokenization-wave-chainlink-partners-with-banking-giants-goldman-sachs-citigroup-and-hsbc-for-real-asset-transformation-can-link-hit-25/?utm_source=rss&utm_medium=rss&utm_campaign=tokenization-wave-chainlink-partners-with-banking-giants-goldman-sachs-citigroup-and-hsbc-for-real-asset-transformation-can-link-hit-25",
-    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink-logo-with-trading-charts-in-the-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-logo-with-trading-charts-in-the-background-1-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Chainlink&#8217;s Niki Ariyasinghe says that asset tokenization will be the biggest factor behind blockchain adoption and utilization, with major companies moving beyond testing to rollouts. He noted that global giants like Citibank, HSBC and Goldman Sachs are leading the tokenization movement, which some reports estimate will hit $10 trillion by 2030. Blockchain has been utilized [...]"
+    "date": "2024-02-23T07:24:10.000Z",
+    "title": "10 Best Chainlink Wallets of 2024: Exploring Hardware, Desktop, Exchange, Hot, and Paper Options for Secure Asset Management",
+    "url": "https://www.crypto-news-flash.com/10-best-chainlink-wallets/?utm_source=rss&utm_medium=rss&utm_campaign=10-best-chainlink-wallets",
+    "description": "<img width=\"2400\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"LINK-Chart.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart.jpg 2400w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-1024x512.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-768x384.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-1536x768.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-2048x1024.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-150x75.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-450x225.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/LINK-Chart-1200x600.jpg 1200w\" sizes=\"(max-width: 2400px) 100vw, 2400px\" />Exploring the extensive world of cryptocurrency wallets can be overwhelming, particularly when engaging with an oracle blockchain platform such as Chainlink (LINK). This guide is designed to ease your path, offering an in-depth overview of the leading Chainlink wallets in three distinct categories: hardware, desktop, and wallets based on exchanges. Each variety provides distinct benefits [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-23T07:19:00.000Z",
+    "title": "Kraken Challenges SEC: Crypto Exchange Fights Allegations in Legal Battle",
+    "url": "https://coinedition.com/kraken-challenges-sec-crypto-exchange-fights-allegations-in-legal-battle/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC Out for Blood: Kraken to Shut Down US Crypto-Staking Service\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1.jpg 730w, https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/02/SEC-Out-for-Blood-Kraken-to-Shut-Down-US-Crypto-Staking-Service-1-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Fox Business reporter Eleanor Terret took to X to address that Kraken, the second-largest cryptocurrency exchange in the United States, has taken legal action, filing a motion in a Northern California court to dismiss allegations put forward by the Securities and Exchange Commission (SEC). The SEC alleges that Kraken is operating as an unregistered securities [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kraken-challenges-sec-crypto-exchange-fights-allegations-in-legal-battle/\">Kraken Challenges SEC: Crypto Exchange Fights Allegations in Legal Battle</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

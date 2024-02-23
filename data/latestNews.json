@@ -1,100 +1,23 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-23T07:46:19.000Z",
-    "title": "Ether ETFs Unlikely to Cause a 'Bubble,' Traders Say",
-    "url": "https://www.coindesk.com/markets/2024/02/23/ether-etfs-unlikely-to-cause-a-bubble-traders-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Interest in ether bets rose significantly after the approval of spot bitcoin ETFs in January sparked optimism among ETH traders."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-02-23T07:41:37.000Z",
-    "title": "Layer 1 Injective Introduces ‘CW-404’ to Capitalize on the ERC-404 Hype",
-    "url": "https://www.coindesk.com/business/2024/02/23/layer-1-injective-introduces-cw-404-to-capitalize-on-the-erc-404-hype/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Injective has partenred with DEX DojoSwap to introduce the CW-404 standard."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-23T07:54:06.000Z",
-    "title": "Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi",
-    "url": "https://cryptodaily.co.uk/2024/02/polkaswap-unveils-fully-decentralised-on-chain-order-book-setting-new-standards-in-defi",
-    "description": "Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-02-23T08:00:50.000Z",
-    "title": "Digital Yuan Now Used to Complete Car Prepurchase Payments",
-    "url": "https://news.bitcoin.com/digital-yuan-now-used-to-complete-car-prepurchase-payments/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Digital Yuan Now Used to Complete Car Prepurchase Payments\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/c215b12e-4bbf-404b-a718-a62fe58374e5.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The digital yuan, China&#8217;s central bank digital currency (CBDC), is being used as a security element in car prepurchase payment settlements. According to local media reports, a pilot test that allows customers to pay for their cars with digital yuan was established in early February in Shenzhen, and several customers are already purchasing their vehicles [&#8230;]"
-  },
-  {
     "source": "Cryptopolitan",
-    "date": "2024-02-23T07:54:42.000Z",
-    "title": "Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi",
-    "url": "https://www.cryptopolitan.com/polkaswap-unveils-fully-decentralised-on-chain-order-book-setting-new-standards-in-defi-2/",
-    "description": "BVI, British Virgin Islands, February 23rd, 2024, Chainwire Polkaswap upgrades to a hybrid exchange by launching a fully decentralised on-chain order book that will function alongside the established AMM swap. This sets a new standard in decentralised finance by offering a comprehensive view of market liquidity, real-time updates, and advanced trading strategies. The decentralised, on-chain [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-23T07:54:42.000Z",
-    "title": "Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi",
-    "url": "https://www.cryptopolitan.com/polkaswap-unveils-fully-decentralised-on-chain-order-book-setting-new-standards-in-defi/",
-    "description": "BVI, British Virgin Islands, February 23rd, 2024, Chainwire Polkaswap upgrades to a hybrid exchange by launching a fully decentralised on-chain order book that will function alongside the established AMM swap. This sets a new standard in decentralised finance by offering a comprehensive view of market liquidity, real-time updates, and advanced trading strategies. The decentralised, on-chain [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-23T07:40:12.000Z",
-    "title": "AI Emerges as 2024’s Prime Business Opportunity, Say Top Tech CEOs",
-    "url": "https://www.cryptopolitan.com/ai-emerges-as-2024s-business-top-tech-ceos/",
-    "description": "In a significant turn of events marking the evolution of artificial intelligence (AI), the CEOs of the world’s leading technology companies have identified AI as the most substantial opportunity for growth and innovation in 2024. According to insights gathered from CRN US’s CEO Outlook 2024, executives from tech giants such as AMD, Intel, Cisco Systems, [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-23T07:55:54.000Z",
-    "title": "Binance strikes new deal, Celestia and Borroe Finance can rally in 2024",
-    "url": "https://crypto.news/binance-strikes-new-deal-celestia-and-borroe-finance-can-rally-in-2024/",
-    "description": "Binance is partnering with Celestia to enhance Chainlink's features. Borroe Finance is gaining more prominence in defi"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-23T07:55:10.000Z",
-    "title": "Bitcoin could reach $63k in March 2024, Matrixport says",
-    "url": "https://crypto.news/bitcoin-could-reach-63k-in-march-2024-matrixport-says/",
-    "description": "Matrixport analysts have published a new report with an updated Bitcoin (BTC) price forecast for the near future. According to a new Matrixport document, experts believe BTC&#8217;s goal of reaching $63,000 in March 2024 is achievable. In their opinion, there&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-02-23T07:49:16.000Z",
-    "title": "Trump warms up to Bitcoin, signals openness to regulation",
-    "url": "https://crypto.news/trump-warms-up-to-bitcoin-signals-openness-to-regulation/",
-    "description": "Former President Donald Trump has recently showcased a notable shift in his stance toward Bitcoin, diverging from his historically critical view of cryptocurrencies. The change was particularly evident during his appearance on Fox News&#8217; &#8220;The Ingraham Angle,&#8221; where he acknowledged&#8230;"
+    "date": "2024-02-23T08:26:34.000Z",
+    "title": "Ethereum Price Prediction 2024-2033: Will ETH reach $8000 soon?",
+    "url": "https://www.cryptopolitan.com/ethereum-price-prediction/",
+    "description": "Ethereum Price Prediction 2024-2033 &#8220;The Merge did not change anything for holders/users.&#8221; Is that a fact? Crypto prices are unlikely to see a major recovery without new or returning investors bringing cash back into the market.&#160;Unless the retail people enter the market, Ethereum won&#8217;t strongly blast above ATH. Maybe something sparks retail, though, like Coinbase, [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-23T07:57:24.000Z",
-    "title": "Litecoin Languishes: Frustration Mounts as LTC Price Stalls – What’s Next?",
-    "url": "https://www.crypto-news-flash.com/litecoin-languishes-frustration-mounts-as-ltc-price-stalls-whats-next/?utm_source=rss&utm_medium=rss&utm_campaign=litecoin-languishes-frustration-mounts-as-ltc-price-stalls-whats-next",
-    "description": "<img width=\"1280\" height=\"853\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/litecoin-3344894_1280.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Popular crypto trader, Litecoin (LTC), Cosmos (ATOM), and the Sandbox (SAND) is showing signs of preparing for upward movements.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/02/litecoin-3344894_1280.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/litecoin-3344894_1280-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/litecoin-3344894_1280-1024x682.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/02/litecoin-3344894_1280-104x69.jpg 104w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />Community members express disappointment over Litecoin’s inability to scale the ecosystem.  In response, Litecoin’s Managing Director is highlighting the ongoing issues and proposing possible solutions. One of the long-standing blockchains, Litecoin, is attempting to tackle some of its biggest network challenges as community members speak about long-standing obstacles. While a handful of blockchain networks have [...]"
+    "date": "2024-02-23T08:20:43.000Z",
+    "title": "$52K Bitcoin Sends Total Market Cap To $1 Trillion As Borroe Finance Presale Gain Investor’s Interest",
+    "url": "https://www.crypto-news-flash.com/52k-bitcoin-sends-total-market-cap-to-1-trillion-as-borroe-finance-presale-gain-investors-interest/?utm_source=rss&utm_medium=rss&utm_campaign=52k-bitcoin-sends-total-market-cap-to-1-trillion-as-borroe-finance-presale-gain-investors-interest",
+    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-23T091632.763-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />As Bitcoin (BTC) surpassed the $52,000 mark, its market cap surged to $1 trillion. BTC’s uptrend momentum has caught the eyes of many investors. However, savvy investors prefer one of the new DeFi projects, Borroe Finance ($ROE), for its ongoing performance in the presale stages. Moreover, $ROE’s surge in demand has increased investors&#8217; confidence. Let’s [...]"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-02-23T07:54:27.000Z",
-    "title": "Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi",
-    "url": "https://coinedition.com/polkaswap-unveils-fully-decentralised-on-chain-order-book-setting-new-standards-in-defi/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/02/polkaswap_order_book_launch_1708669393rjvx5mBGip-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>BVI, British Virgin Islands, February 23rd, 2024, Chainwire Polkaswap upgrades to a hybrid exchange by launching a fully decentralised on-chain order book that will function alongside the established AMM swap. This sets a new standard in decentralised finance by offering a comprehensive view of market liquidity, real-time updates, and advanced trading strategies. The decentralised, on-chain [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/polkaswap-unveils-fully-decentralised-on-chain-order-book-setting-new-standards-in-defi/\">Polkaswap Unveils Fully Decentralised On-Chain Order Book, Setting New Standards in DeFi</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-02-23T07:50:12.000Z",
-    "title": "ZetaChain (ZETA) Price Prediction 2024-2030: Will ZETA Price Hit $5 Soon?",
-    "url": "https://coinedition.com/zetachain-zeta-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ZetaChain-(ZETA)-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/ZetaChain-ZETA-Price-Prediction-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>What is ZetaChain (ZETA)? ZetaChain is a blockchain with generic omnichain smart contract support that connects both smart contract blockchains such as Ethereum, Ethereum L2 rollups, Solana, Terra, and Algorand, and even non-smart contract blockchains such as Bitcoin and Dogecoin. ZetaChain’s mainnet went live on February 1, 2024.&#160; ZetaChain is constructed around a proof-of-stake blockchain, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/zetachain-zeta-price-prediction/\">ZetaChain (ZETA) Price Prediction 2024-2030: Will ZETA Price Hit $5 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-23T08:04:25.000Z",
-    "title": "‘Time To Load Up Is Coming’ – Analyst Justin Bennett Outlines Bitcoin Pattern That Could Kick Off Altcoin Rally",
-    "url": "https://dailyhodl.com/2024/02/23/time-to-load-up-is-coming-analyst-justin-bennett-outlines-bitcoin-pattern-that-could-kick-off-altcoin-rally/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Load-Up-Is-Coming.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed crypto strategist says Bitcoin (BTC) may repeat a historic pattern that could send altcoins soaring. Analyst Justin Bennett tells his 111,500 followers on the social media platform X that Ethereum (ETH) and other alts could outperform Bitcoin similar to 2021 when people suddenly sold their coins over a two-month period. “If Bitcoin [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/23/time-to-load-up-is-coming-analyst-justin-bennett-outlines-bitcoin-pattern-that-could-kick-off-altcoin-rally/\">‘Time To Load Up Is Coming’ – Analyst Justin Bennett Outlines Bitcoin Pattern That Could Kick Off Altcoin Rally</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-02-23T08:27:00.000Z",
+    "title": "The Naked Emperor’s New Clothes’: ECB on BTC ETF Approval",
+    "url": "https://coinedition.com/the-naked-emperors-new-clothes-ecb-on-btc-etf-approval/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Grayscale Holds 490K+ Bitcoins, BTC Sell-Off Slows Down\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13.jpg 730w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/01/BTC-ETF-13-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The European Central Bank’s (ECB) stark criticism and disregard for Bitcoin as a financial asset has recently created headlines, with the community condemning the post. Cardano Founder Charles Hoskinson wrote in his latest X post, “Community Notes just murdered the ECB.” In a blog post on Thursday, ECB Director General Ulrich Bindseil and advisor Jürgen [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/the-naked-emperors-new-clothes-ecb-on-btc-etf-approval/\">The Naked Emperor’s New Clothes’: ECB on BTC ETF Approval</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

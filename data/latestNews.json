@@ -1,51 +1,65 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-25T13:54:32.000Z",
-    "title": " Privacy-focused Aleo users concerned after KYC documents leak ",
-    "url": "https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNWU5NjI1ZGItZDFmOC00NmE2LTg2ODYtMzlhZmJiYjYwZjJiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>To claim a reward on Aleo, users must complete KYC/AML and pass the Office of Foreign Assets Control (OFAC) screening in accordance with Aleo’s internal policies.</p>\n                    <p><p>Aleo, a blockchain platform focusing on zero-knowledge (zk) applications, has revealed its users’ information. Users raised concerns on the X social platform and informed the layer-1 (L-1) platform about the issue.</p><p>A user named @0xemirsoyturk <a href=\"https://twitter.com/inversebrah/status/1761646440097726851\" target=\"_blank\" rel=\"noopener nofollow\">claims</a> that Aleo mistakenly sent Know Your Customer (KYC) documents to his email. These documents included selfies and ID card photos of another user, making him concerned about the security of his information. </p><p>Zero-knowledge layer-1 blockchain platforms focus on providing enhanced privacy and security for users. They employ zero-knowledge proof cryptographic techniques to enable transactions without revealing specific details, ensuring confidentiality. </p><p><a href=\"https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-25T14:00:30.000Z",
-    "title": "The economic implications of the Fed’s reverse repo (RRP) facility",
-    "url": "https://cryptoslate.com/market-reports/the-economic-implications-of-the-feds-reverse-repo-rrp-facility/",
-    "description": "<p>The post <a href=\"https://cryptoslate.com/market-reports/the-economic-implications-of-the-feds-reverse-repo-rrp-facility/\">The economic implications of the Fed’s reverse repo (RRP) facility</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Crypto Briefing",
+    "date": "2024-02-25T14:34:58.000Z",
+    "title": "Zero-knowledge chain Aleo faces privacy leak issues",
+    "url": "https://cryptobriefing.com/zero-knowledge-chain-aleo-privacy-leak/",
+    "description": "Aleo, a zero-knowledge blockchain, accidentally exposes user data, sparking privacy concerns in an ironic development for the protocol."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-25T14:05:04.000Z",
-    "title": "DeeStream (DST) triumphs in presale, while Ethereum (ETH) & Cardano (ADA) struggle to surpass expectations",
-    "url": "https://cryptodaily.co.uk/2024/02/deestream-dst-triumphs-in-presale-while-ethereum-eth-cardano-ada-struggle-to-surpass-expectations",
-    "description": "In the fast-paced world of digital currencies, DeeStream (DST) recently gained attention with a successful presale, positioning itself as a noteworthy player in video streaming."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-25T13:49:36.000Z",
-    "title": "XRP's Growth Slows Down: Discover Altcoins That Rise Faster",
-    "url": "https://cryptodaily.co.uk/2024/02/xrps-growth-slows-down-discover-altcoins-that-rise-faster",
-    "description": "Uncover the rapidly emerging altcoins poised to skyrocket beyond XRP! Don't miss out on the chance to be part of the crypto revolution - these tokens could be your ticket to unparalleled growth!"
+    "date": "2024-02-25T14:16:45.000Z",
+    "title": "Missed Solana’s Rally? Discover the Next Big Altcoin",
+    "url": "https://cryptodaily.co.uk/2024/02/missed-solanas-rally-discover-the-next-big-altcoin",
+    "description": "Missed the Solana (SOL) spike? Uncover the next digital currency sensation that could eclipse SOL's explosive growth. Stay ahead in the crypto race and find your next big investment today!"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-25T13:55:15.000Z",
-    "title": "AI in Education: Transforming Learning and Teaching",
-    "url": "https://www.cryptopolitan.com/ai-in-education/",
-    "description": "Artificial intelligence (AI) continues to make significant strides in reshaping various sectors, and its impact on education is no exception. With its ability to personalize learning experiences, automate administrative tasks, and provide valuable insights, AI is revolutionizing how students learn and teachers teach.&#160; Personalized learning with AI One of the most significant benefits of AI [&#8230;]"
+    "date": "2024-02-25T14:36:47.000Z",
+    "title": "Malicious code found in Tornado Cash governance proposal",
+    "url": "https://www.cryptopolitan.com/malicious-code-tornado-cash-governance/",
+    "description": "Tornado Cash, a name that stood for privacy, security, and controversy in the crypto community, has just been hit by a concerning revelation. A developer, known among the community as Butterfly Effects, allegedly smuggled malicious JavaScript into a governance proposal, catching everyone off guard. Since the beginning of the year, it appears that anyone who [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-25T13:42:12.000Z",
-    "title": "New York Times Puzzle Master Joel Fagliano Redefines Digital Puzzle Experience",
-    "url": "https://www.cryptopolitan.com/new-york-times-puzzle-master-joel-fagliano/",
-    "description": "Joel Fagliano, renowned for his adeptness in puzzle crafting, has solidified his status as a mastermind in word puzzles. Beginning his journey as a teenager, Joel&#8217;s passion for puzzles flourished under the mentorship of Will Shortz, the esteemed crossword editor at The New York Times (NYT).&#160; Through diligent practice and guidance, Joel honed his skills, [&#8230;]"
+    "date": "2024-02-25T14:36:31.000Z",
+    "title": "Qatar Unveils Groundbreaking AI Platform to Transform Business Operations",
+    "url": "https://www.cryptopolitan.com/qatar-unveils-groundbreaking-ai-platform/",
+    "description": "\nDiscover how the innovative Qatari AI platform, MEEZA.AI, is setting new standards for business efficiency across various sectors."
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-25T13:46:00.000Z",
-    "title": "Optimism Chains Primed for EIP 4844 Upgrade: Why It Matters",
-    "url": "https://coinedition.com/optimism-chains-primed-for-eip-4844-upgrade-why-it-matters/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/10/OP-17.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"The Optimism network prepares for a revolutionary &quot;Ecotone&quot; upgrade, integrating EIP-4844&#039;s &quot;blobs&quot; for lower fees and enhanced scalability.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/10/OP-17.jpg 730w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/10/OP-17-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Optimism network preps for the Ecotone upgrade on March 14. Ecotone integrates EIP-4844 &#8220;blobs&#8221; for cheaper, faster transactions. Optimism node operators need to update for a smooth transition. OP Labs has disclosed an imminent upgrade to revolutionize the Optimism (OP) network dubbed “Ecotone.” The team communicated this move in a recent post on X, noting [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/optimism-chains-primed-for-eip-4844-upgrade-why-it-matters/\">Optimism Chains Primed for EIP 4844 Upgrade: Why It Matters</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-02-25T14:32:23.000Z",
+    "title": "Judge Slashes Cuddy Law Firm’s Fees After Questionable Use of AI in Billing",
+    "url": "https://www.cryptopolitan.com/judge-on-use-of-ai-in-billing/",
+    "description": "In a recent legal ruling, federal district judge Paul Engelmayer has slashed the fees requested by the Cuddy Law Firm, following skepticism over the firm&#8217;s use of an AI tool in determining its billing for a special education case. The decision highlights growing concerns over the reliability and transparency of AI-generated content in legal proceedings. [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-25T14:23:36.000Z",
+    "title": "ICP.Hub Sahara: Pioneering Blockchain Adoption in West Africa",
+    "url": "https://www.cryptopolitan.com/icp-hub-sahara-pioneering-blockchain-adoption-in-west-africa/",
+    "description": "In West African technology, one name shines brightly as a symbol of innovation and teamwork: ICP.Hub Sahara. Led by its Co-founder, Adedayo, this dynamic hub is at the forefront of promoting Internet Computer Protocol (ICP) adoption, igniting enthusiasm across the region. Through a series of events and active involvement in various tech communities, ICP.Hub Sahara [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-25T14:16:00.000Z",
+    "title": "Tron Price Prediction 2024-2033: Is it a Good Time to buy TRX?",
+    "url": "https://www.cryptopolitan.com/tron-price-prediction/",
+    "description": "Tron Price Prediction 2024-2033 TRX, or rather Tronix, is the native&#160;crypto asset of the TRON Network. TRON is a Blockchain-based decentralized network targeting an unchained, worldwide digital content entertainment structure using distributed ledger technology and enabling straightforward and cheap data sharing. How is Tron Price Prediction making out in this turbulent crypto weather as major [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-25T14:30:00.000Z",
+    "title": "DeeStream presale sees inflow from XRP and TRX investors",
+    "url": "https://crypto.news/deestream-presale-sees-inflow-from-xrp-and-trx-investors/",
+    "description": "XRP and Tron (TRX) holders are the top prospective investors in DeeStream (DST) this week"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-25T14:29:16.000Z",
+    "title": "Hedera (HBAR), Stellar (XLM), and Cardano (ADA) Lead the Charge as ISO 20022-Compliant Cryptos That Could Partner With Central Banks",
+    "url": "https://www.crypto-news-flash.com/hedera-hbar-stellar-xlm-and-cardano-ada-lead-the-charge-as-iso-20022-compliant-cryptos-that-could-partner-with-central-banks/?utm_source=rss&utm_medium=rss&utm_campaign=hedera-hbar-stellar-xlm-and-cardano-ada-lead-the-charge-as-iso-20022-compliant-cryptos-that-could-partner-with-central-banks",
+    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-300x175.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-768x448.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-150x88.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-450x263.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />ISO 20022 is set to go live on March 20, ushering the world into a new era of financial technology, and Hedera, Cardano, Stellar, and IOTA are among the projects leading the charge in the crypto world. Becoming ISO 20022-compliant entitles a crypto project to be part of the new financial order and partnering with [...]"
   }
 ]

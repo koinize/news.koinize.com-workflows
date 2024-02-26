@@ -1,16 +1,9 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-26T01:35:55.000Z",
-    "title": "Protocol Village: Research Paper Details 'Snarktor,' Featuring 'Recursive Proof Aggregation' ",
-    "url": "https://www.coindesk.com/tech/2024/02/21/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 22-28."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-02-26T01:30:07.000Z",
-    "title": "Grayscale Research Identifies Dencun Upgrade as ‘Coming of Age’ Event for Ethereum",
-    "url": "https://news.bitcoin.com/grayscale-research-identifies-dencun-upgrade-as-coming-of-age-event-for-ethereum/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Grayscale Research Signals Dencun Upgrade As &quot;Coming of Age&quot; Event for Ethereum\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/34865857-ef2b-4f8d-847a-655f01848ebc.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Grayscale Research&#8217;s latest report explains that Ethereum is poised to take advantage of several tailwinds with its upcoming Dencun upgrade. Grayscale analyst Will Ogden states that, while Ethereum is facing increased competition from other chains like Solana, Dencun&#8217;s modularity focus will help it &#8220;come of age,&#8221; lowering transaction fees for rollups and opening the doors [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-02-26T01:48:43.000Z",
+    "title": " MicroStrategy’s X account hacked, shilling Ethereum token phishing scam ",
+    "url": "https://cointelegraph.com/news/microstrategy-x-account-hacked-phishing-scam",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZDZlZDYzNjQtMmJlMi00ODY5LWE0MjMtYjhjMWYwYzAxNmI0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Attackers have taken over the official X account for MicroStrategy account, posting a series of malicious links to a fake airdrop for a nefarious $MSTR token. </p>\n                    <p><p>Business intelligence firm MicroStrategy’s X account has been hacked, posting several malicious links to claim a fake airdrop of a nefarious $MSTR token to its nearly 200,000 followers.</p><p>Once a user clicks on the link they are directed to a copycat MicroStrategy webpage which directs them to connect a wallet and claim the fake $MSTR airdrop. Once users accept a series of permissions in their Web3 wallet, the attackers can automatically drain the tokens out of the user's wallet. </p><p>According to independent blockchain sleuth ZachXBT and anti-scam platform Scam Sniffer, losses incurred from the scam have already tallied over $440,000. </p><p><a href=\"https://cointelegraph.com/news/microstrategy-x-account-hacked-phishing-scam\">Read more</a></p></p>\n                \n            "
   }
 ]

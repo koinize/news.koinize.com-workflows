@@ -1,65 +1,121 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-26T17:29:51.000Z",
-    "title": "Ether's Bitcoin Beating Rally Not Just Because of Potential ETF Approval: Bernstein",
-    "url": "https://www.coindesk.com/business/2024/02/26/ethers-bitcoin-beating-rally-not-just-because-of-potential-etf-approval-bernstein/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The amount of ether held on exchanges is at an all-time low of 11%, a sign that more of the cryptocurrency is being locked up for DeFi, the report said."
+    "source": "Decrypt",
+    "date": "2024-02-26T18:01:02.000Z",
+    "title": "Xai Launching Staking Rewards for Ethereum Gaming Network—Here's How It Works",
+    "url": "https://decrypt.co/219036/xai-ethereum-gaming-network-arbitrum-staking-rewards",
+    "description": "Arbitrum layer-3 gaming network Xai is set to launch staking rewards this week, with an expansion set for March. Here are the first details."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-26T17:56:51.000Z",
+    "title": "MicroStrategy Bitcoin Stash Swells to $10.28 Billion as Firm Buys More BTC",
+    "url": "https://decrypt.co/219027/microstrategy-bitcoin-stash-193000-bitcoin-10-billion-4-billion-profit",
+    "description": "Post-ETF boosts and pre-halving anticipation have rocketed the company’s BTC position over $4 billion into the black."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-26T18:08:14.000Z",
+    "title": " Crypto users could ‘make a difference in a close election’ in the US — CoinFlip CEO ",
+    "url": "https://cointelegraph.com/news/crypto-united-states-close-election-coinflip-ceo",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMGFhOWM4YTItYjRkYi00N2QwLWJkMzItYjQ2Mzc0Y2JjZWE1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>U.S. presidential candidates have won or lost key states by as little as 11,000 votes, giving crypto users the chance to “move the needle one or two points,” according to Ben Weiss.</p>\n                    <p><p>Voters supporting the adoption of cryptocurrency and blockchain in the United States could swing an election under the right circumstances, according to CoinFlip co-founder and CEO Ben Weiss.</p><p>Speaking to Cointelegraph on Feb. 23, Weiss said that this was the first time in a major U.S. election that digital assets could flip a race for candidates of either party. Major Republican Party candidates for president, including Vivek Ramaswamy and Ron DeSantis — before they dropped out of the race — mentioned central bank digital currencies (CBDCs) as a campaign issue, and frontrunner Donald Trump <a href=\"https://cointelegraph.com/news/trump-no-longer-anti-bitcoin\">suggested in February</a> he could live with Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) “one way or the other.”</p><p>“There’s no political reason for him to be against it,” said Weiss on Trump’s support of crypto. “He doesn’t gain anything from being against it, but if he’s for it, he could pick up a couple points here and there [...] Bitcoin can kind of appeal to both sides of the political spectrum.”</p><p><a href=\"https://cointelegraph.com/news/crypto-united-states-close-election-coinflip-ceo\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-26T18:01:42.000Z",
+    "title": " Bitcoin hits 2-year high as crypto fund inflow nears $600M  ",
+    "url": "https://cointelegraph.com/news/bitcoin-hits-2-year-high-as-institutional-investors-inflow-nears-600m",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNDMxODdhN2ItNGQ1MC00NWE5LWFiMGQtYjU1MTBiZmJiNWQ3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Inflows to crypto investment products nearly topped $600 million and reflect traders’ growing interest in Bitcoin and altcoins.</p>\n                    <p><p>Crypto investment products saw inflows totaling $598 million from institutional Bitcoin investment products over the past seven days, according to the latest report by CoinShares. Crypto exchange-traded products (ETPs) have now witnessed their fourth consecutive week of inflows.</p><p>Brazil and Switzerland registered minor inflows of $8.2 million and $2.1 million, respectively, while the Canadian market witnessed the largest outflows from digital asset investment products, shedding $17.8 million, followed by Sweden with $8 million in outflows.</p><p><strong><em>Related: </em></strong><a href=\"https://cointelegraph.com/news/microstrategy-adds-3k-btc-etfs-surpass-gold\"><strong><em>MicroStrategy adds 3K BTC as Bitcoin ETFs are poised to surpass gold ETFs</em></strong></a></p><p><a href=\"https://cointelegraph.com/news/bitcoin-hits-2-year-high-as-institutional-investors-inflow-nears-600m\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-02-26T18:02:31.000Z",
+    "title": "Saturn secures $800,000 for Bitcoin-based decentralized exchange development",
+    "url": "https://cryptoslate.com/saturn-secures-800000-for-bitcoin-based-decentralized-exchange-development/",
+    "description": "<p>Saturn, a peer-to-peer order book built on the Bitcoin network, secured $800,000 for its seed funding round led by Sora Ventures, according to a Feb. 26 statement shared with CryptoSlate. With this capital, Saturn intends to expedite its vision for Bitcoin-based fungibility. The funds will fuel further advancements in its technical infrastructure, team expansion, and [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/saturn-secures-800000-for-bitcoin-based-decentralized-exchange-development/\">Saturn secures $800,000 for Bitcoin-based decentralized exchange development</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-26T18:04:57.000Z",
+    "title": "Solana’s Parcl reveals its token and up to 8% allocation for its airdrop",
+    "url": "https://cryptobriefing.com/solana-parcel-reveals-token-8-allocation-airdrop/",
+    "description": "Users allocated $87 million locked in the RWA-based perpetual contract platform, with a rise of almost 87% in the last 30 days."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-26T18:00:13.000Z",
+    "title": "Bitcoin ETFs could surpass Gold ETFs in AUM in less than 2 years: Bloomberg analysts",
+    "url": "https://cryptobriefing.com/bitcoin-etfs-could-surpass-gold-etfs-aum-less-than-2-years/",
+    "description": "Spot Bitcoin ETFs have ignited hopes of mass adoption."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-26T17:26:56.000Z",
-    "title": "Solana and Ethereum: Analyzing Potential Price Catalysts",
-    "url": "https://cryptodaily.co.uk/2024/02/solana-and-ethereum-analyzing-potential-price-catalysts",
-    "description": "Amidst the whirlwind of economic uncertainties, Solana (SOL) and Ethereum (ETH) stand as beacons of resilience and growth in the crypto market. Dive into the dynamic world of SOL and ETH, where innovation meets opportunity in the face of fluctuating economic conditions."
+    "date": "2024-02-26T18:01:15.000Z",
+    "title": "Top Altcoins for March Poised to Outperform Solana",
+    "url": "https://cryptodaily.co.uk/2024/02/top-altcoins-for-march-poised-to-outperform-solana",
+    "description": "Explore how emerging altcoins are set to revolutionize the market, potentially outshining giants like Solana. With groundbreaking features and rapid growth, these are the coins you can't afford to miss in 2024 – your gateway to untapped potential and lucrative opportunities in the ever-evolving world of cryptocurrency!"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-02-26T17:30:50.000Z",
-    "title": "FLR and UNI Spearhead This Week’s Crypto Gains as Token Economy Holds Above $2 Trillion",
-    "url": "https://news.bitcoin.com/flr-and-uni-spearhead-this-weeks-crypto-gains-as-token-economy-holds-above-2-trillion/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"FLR and UNI Spearhead This Week&#039;s Crypto Gains as Token Economy Holds Above $2 Trillion\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gainersss.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In the last week, 23 cryptocurrencies experienced notable gains against the U.S. dollar, with flare (FLR) and uniswap (UNI) leading the charge. Concurrently, dymension (DYM) and helium (HNT) saw significant declines over the same period. FLR and UNI Lead Gains in a Diverse Week for Cryptos, Despite DYM and HNT Setbacks As of now, the [&#8230;]"
+    "date": "2024-02-26T18:00:37.000Z",
+    "title": "Introducing Collective Forecast: Revolutionizing Market Predictions with Community-Driven Insights",
+    "url": "https://news.bitcoin.com/introducing-collective-forecast-revolutionizing-market-predictions-with-community-driven-insights/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/img_20240223_174148_322.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. February 26th, 2024. Collective Forecast is proud to announce the launch of its innovative platform, which is set to transform market predictions by harnessing the collective wisdom of traders and influencers. At the core of Collective Forecast lies a diverse group of experienced traders hailing from various corners of the globe, each boasting [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-26T17:37:34.000Z",
-    "title": "Solana Price Prediction 2024-2033: Is SOL a Good Investment?",
-    "url": "https://www.cryptopolitan.com/solana-price-prediction/",
-    "description": "Solana Price Prediction 2024-2033 How much is SOL worth? The live&#160;Solana price today&#160;is $102.74 USD with a 24-hour trading volume of $2,080,775,160 USD.&#160;We update our SOL to USD price in real-time.&#160;Solana is down 2.64% in the last 24 hours.&#160;The current CoinMarketCap ranking is #5, with a live market cap of $47,849,392,016 USD.&#160;It has a circulating [&#8230;]"
+    "date": "2024-02-26T17:55:25.000Z",
+    "title": "OANDA expands its crypto trading services to the United Kingdom",
+    "url": "https://www.cryptopolitan.com/oanda-expands-its-services-united-kingdom/",
+    "description": "OANDA, a leading United States-based crypto brokerage firm, has announced its expansion into the United Kingdom market with the launch of its crypto trading services through its subsidiary, OANDA Crypto. This strategic move follows OANDA’s acquisition of a majority stake in Coinpass, a Financial Conduct Authority (FCA)-registered company, which led to the establishment of the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-26T17:30:28.000Z",
-    "title": "SK Telecom and Perplexity Partner to Offer AI-Powered Search Engine",
-    "url": "https://www.cryptopolitan.com/sk-telecom-perplexity-partner/",
-    "description": "SK Telecom, South Korea&#8217;s leading telecommunications company, has announced a groundbreaking partnership with the U.S.-based artificial intelligence startup Perplexity AI. This collaboration aims to introduce an innovative AI-based search engine as a viable alternative to dominant players like Google and Naver. By leveraging Perplexity&#8217;s cutting-edge technology, SK Telecom plans to enrich its subscribers&#8217; experience with [&#8230;]"
+    "date": "2024-02-26T17:47:18.000Z",
+    "title": "Blockchain game Shrapnel cautions its users against manipulation",
+    "url": "https://www.cryptopolitan.com/shrapnel-cautions-users-manipulation/",
+    "description": "Shrapnel, an innovative blockchain-based extraction shooter game, has recently taken steps to address issues of unfair advantage among its user base. The company uncovered instances of users employing illegal strategies such as teaming and account sharing to manipulate their standings on the leaderboard during early access gameplay events. Shrapnel issues warnings to its players According [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-26T17:29:37.000Z",
-    "title": "Exosuit Brings New Hope to Mobility-Impaired People",
-    "url": "https://www.cryptopolitan.com/exosuit-helps-mobility-impaired-people/",
-    "description": "In a time when tech is making dreams possible, an awesome new exosuit called the Wyss Synapsuit is here to change the game for people who have trouble moving around. This cool exosuit uses artificial intelligence, or AI, to help people with spinal cord injuries or those who have had strokes move again. It&#8217;s like [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-26T17:27:48.000Z",
-    "title": "Coinbase reveals the influence of crypto in the Texas elections",
-    "url": "https://www.cryptopolitan.com/coinbase-influence-crypto-texas-elections/",
-    "description": "In recent findings unveiled by Coinbase, a prominent U.S.-based cryptocurrency exchange, Texas emerges as a pivotal ground where political inclinations could be swayed by presidential candidates’ stances on the crypto domain. According to Coinbase’s analysis, Texas boasts a significant concentration of cryptocurrency owners, with over 21% of its adult population, comprising approximately 4.7 million individuals [&#8230;]"
+    "date": "2024-02-26T17:39:54.000Z",
+    "title": "Bitboy’s recent fight causes a swing in their memecoin’s prices",
+    "url": "https://www.cryptopolitan.com/bitboys-fight-cause-a-swing-memecoins-prices/",
+    "description": "In an unforeseen turn of events, the crypto world witnessed an unconventional clash between two prominent figures: crypto influencer Ben “BitBoy” Armstrong and memecoin developer “More Light.” Their showdown, which took place at a crypto influencer fight night hosted by Karate Combat in Mexico on February 24, captured the attention of both enthusiasts and onlookers. [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-26T17:30:28.000Z",
-    "title": "Web3 protocol DeChat reimburses users after honeypot token launch",
-    "url": "https://crypto.news/dechat-web3-honeypot-token-launch/",
-    "description": "DeChat users buying the project’s token on Pancakeswap were directed to a malicious address, but the team resolved the matter after ZachXBT flagged concerns on X. "
+    "date": "2024-02-26T17:59:57.000Z",
+    "title": "OpenSea faces backlash after delisting NFT Pass from Fractional Uprising",
+    "url": "https://crypto.news/opensea-nft-pass-fractional-uprising/",
+    "description": "OpenSea, the leading NFT marketplace, recently removed the Ethereum NFT pass associated with the Fractional Uprising project, citing a violation of its policies against securities and options. "
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-02-26T17:33:29.000Z",
-    "title": "Shiba Inu Community Pushes for Grayscale ETF Amid Crypto Market Volatility",
-    "url": "https://www.crypto-news-flash.com/shiba-inu-community-pushes-for-grayscale-etf-amid-crypto-market-volatility/?utm_source=rss&utm_medium=rss&utm_campaign=shiba-inu-community-pushes-for-grayscale-etf-amid-crypto-market-volatility",
-    "description": "<img width=\"1764\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background.jpg 1764w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-300x204.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1024x697.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-768x522.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1536x1045.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-150x102.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-450x306.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1200x816.jpg 1200w\" sizes=\"(max-width: 1764px) 100vw, 1764px\" />Shib Army has submitted a petition on change.org, calling on Grayscale Investments to launch a Shiba Inu ETF.  This petition has been shared by the Shiba Inu team&#8217;s marketing lead Lucie, asking for more people to sign.  Following the growing interest surrounding Exchange-Traded Funds (ETFs) within the crypto ecosystem, the Shiba Inu community has filed [...]"
+    "source": "NewsBTC",
+    "date": "2024-02-26T18:00:25.000Z",
+    "title": "Crypto Analyst Unveils Ultimate Altcoin Buying Guide",
+    "url": "https://www.newsbtc.com/news/crypto-analyst-unveils-ultimate-altcoin-buying-guide/",
+    "description": "Michaël van de Poppe, a renowned crypto analyst and the CEO of MN Trading Consultancy, recently took to X (formerly Twitter) to share his insights on a perennial challenge in the cryptocurrency market: how to strategically enter the altcoin market without falling prey to the pitfalls of FOMO and market hype. His guide, dubbed &#8220;The Ultimate Strategy to Step into Altcoins,&#8221; aims to arm investors with the knowledge to make informed decisions. Crypto Guide: When To Buy Altcoins Van de Poppe opens his discussion by framing the issue as a &#8220;Million Dollar question,&#8221; emphasizing the difficulty many face when trying to navigate the highly volatile altcoin market. &#8220;How do you position yourself into an Altcoin running upwards? How do you avoid chasing FOMO and hype?&#8221; he queries, setting the stage for a deep dive into the complexities of market timing and investment strategies. Related Reading: Crypto Platform Which Predicted Bitcoin To Reach $50,000 Has Released A New Target He starkly highlights a common misstep among investors, pointing out, &#8220;Between 80-90% of buyers who purchase an asset do that in the last 10% of the price movements.&#8221; This statistic underlines the herd mentality prevalent in the investment world, where many are drawn to an asset only after witnessing significant gains, often too late to realize similar returns. A crucial piece of advice from van de Poppe centers around the deceptive nature of market hype, especially as it manifests on social media platforms. &#8220;Once you start to see the hype increase on social media, it means that you&#8217;re probably still relatively late to the party,&#8221; he states, cautioning investors against making decisions based on the heightened visibility of an asset, which often signals it is nearing its peak. Van de Poppe argues for a contrarian approach to investing, suggesting that the greatest opportunities lie in moments of widespread doubt or negativity. He offers a compelling comparison, &#8220;After the collapse of FTX, Bitcoin&#8217;s price was swimming around a value of $15,500 per Bitcoin. Related Reading: Bitcoin Bulls On The Charge: Crypto Platform Forecasts $63K Surge By March During this period, almost no one was interested in getting into a position.&#8221; He contrasts this with the period leading up to the ETF approval when Bitcoin was trading at significantly higher prices, to illustrate the heightened risks associated with entering the market during periods of optimism. One of the most emphatic pieces of advice from van de Poppe is to avoid the temptation of chasing rallies. &#8220;The risks are just not worth it to chase a rally. It&#8217;s always better to wait for a correction,&#8221; he advises. He elaborates on this point by recommending that investors wait for an altcoin to correct by 25-60% from its recent peak before considering an entry. &#8220;This means buyers are likely to take over and the risk/reward is more positive,&#8221; van de Poppe explains, highlighting the strategic benefit of patience and timing in maximizing investment returns. Another option is to examine the total market capitalization of the altcoins, either with Ethereum (&#8220;TOTAL2&#8221;) or without ETH (&#8220;TOTAL3&#8221;) on TradingView.com. The two metrics can give an indication of what stage the market is currently in &#8211; a Bitcoin dominance phase or an emerging altcoin season. At press time, TOTAL3 stood at $546 billion after surpassing the crucial resistance at the 0.236 Fibonacci retracement level. Featured image from iStock, chart from TradingView.com"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-26T18:00:25.000Z",
+    "title": "Sui Recognized As 2024 Blockchain Solution of the Year at AIBC Eurasia Awards",
+    "url": "https://dailyhodl.com/2024/02/26/sui-recognized-as-2024-blockchain-solution-of-the-year-at-aibc-eurasia-awards/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2023/11/UPSCALED-Sui-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>February 26, 2024 – Dubai, United Arab Emirates The layer-one received the top honor at the Eurasia Awards while experiencing a period of unprecedented growth and recognition. Sui, the layer one blockchain that has experienced explosive growth since its mainnet launch in 2023, has emerged as the winner at the Eurasia Awards held during the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/26/sui-recognized-as-2024-blockchain-solution-of-the-year-at-aibc-eurasia-awards/\">Sui Recognized As 2024 Blockchain Solution of the Year at AIBC Eurasia Awards</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-26T17:55:45.000Z",
+    "title": "U.S. DOE Halts Survey of Crypto Mining Energy Use After Lawsuit From Riot and Texas Blockchain Council: Report",
+    "url": "https://dailyhodl.com/2024/02/26/u-s-doe-halts-survey-of-crypto-mining-energy-use-after-lawsuit-from-riot-and-texas-blockchain-council-report/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/Arthur-Hayes-Says-Bitcoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The U.S. Department of Energy (DOE) is reportedly stopping its survey on crypto mining energy use after being sued by two firms in the industry. According to a new report by Reuters, the DOE has agreed to temporarily halt its probe of how much energy is used for crypto mining after Bitcoin (BTC) mining firm [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/26/u-s-doe-halts-survey-of-crypto-mining-energy-use-after-lawsuit-from-riot-and-texas-blockchain-council-report/\">U.S. DOE Halts Survey of Crypto Mining Energy Use After Lawsuit From Riot and Texas Blockchain Council: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-26T17:50:04.000Z",
+    "title": "ElmonX Unveils ‘The Scream’ NFTs by Edvard Munch for the First Time Ever",
+    "url": "https://dailyhodl.com/2024/02/26/elmonx-unveils-the-scream-nfts-by-edvard-munch-for-the-first-time-ever/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-ElmonX-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>February 26, 2024 – London, United Kingdom ElmonX is proud to announced of the upcoming release of &#8216;The Scream&#8217; by Edvard Munch. Launching on OpenSea.io on March 1, 2024, at 5:00 p.m. UTC ElmonX, the digital collectibles platform, has unveiled a collaboration to launch one unique drop licensed by Bridgeman Images – The Scream, 1895 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/26/elmonx-unveils-the-scream-nfts-by-edvard-munch-for-the-first-time-ever/\">ElmonX Unveils ‘The Scream’ NFTs by Edvard Munch for the First Time Ever</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

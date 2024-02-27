@@ -1,65 +1,9 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-27T02:43:24.000Z",
-    "title": "HTX Withdraws Hong Kong Crypto Exchange Application",
-    "url": "https://www.coindesk.com/policy/2024/02/27/htx-withdraws-hong-kong-crypto-exchange-application/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Hong Kong's securities regulators says HBGL Hong Kong Limited withdrew its application for a license on February 23."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-27T02:55:19.000Z",
-    "title": "Bitcoin Price Blasts Past $56,000, Yielding $157 Million in Liquidated Shorts",
-    "url": "https://decrypt.co/219125/bitcoin-price-blasts-past-56000-yielding-157-million-in-liquidated-shorts",
-    "description": "Bitcoin is swimming in territory not seen since its all-time high in November 2021, even as holders cash in."
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-27T03:00:45.000Z",
-    "title": "Bitcoin futures and options open interest soars in February",
-    "url": "https://cryptoslate.com/bitcoin-futures-and-options-open-interest-soars-in-february/",
-    "description": "<p>Open interest, the total number of outstanding derivative contracts that have not been settled, is an important metric for gauging market health and sentiment. An increase in open interest means new money entering the market, showing heightened trading activity and interest in Bitcoin. Conversely, a decline suggests closing positions, potentially indicating a change in market [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitcoin-futures-and-options-open-interest-soars-in-february/\">Bitcoin futures and options open interest soars in February</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
     "source": "Bitcoin.com",
-    "date": "2024-02-27T02:55:40.000Z",
-    "title": "Bitcoin Reaches $57K in Stellar Monday Surge, Erasing $70 Million in Shorts in Just One Hour",
-    "url": "https://news.bitcoin.com/bitcoin-reaches-57k-in-stellar-monday-surge-erasing-70-million-in-shorts-in-just-one-hour/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Reaches $57K in Stellar Monday Surge, Erasing $70 Million in Shorts in Just One Hour\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/btc5678.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin reached a peak of $57,055 on Monday, climbing 10.1% over a 24-hour span and elevating the digital asset&#x2019;s market value to $1.10 trillion. The value of bitcoin relative to the U.S. dollar hasn&#x2019;t ascended to these levels since Nov. 22, 2021, marking 12 days after the digital currency&#x2019;s peak value of $69,000. Monday&#x2019;s Bitcoin [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-27T02:57:59.000Z",
-    "title": "Mobile World Congress 2024 Kicks Off in Barcelona – 5G and AI Take Center Stage",
-    "url": "https://www.cryptopolitan.com/mobile-world-congress-2024-barcelona-5g-ai/",
-    "description": "The Mobile World Congress 2024 has officially launched in Barcelona, Spain, marking the beginning of a highly anticipated event in the realm of mobile technology and innovation. With a renewed focus on fostering collaboration and embracing cutting-edge advancements, this year&#8217;s MWC aims to set the stage for the future of connectivity and technological integration. Setting [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-27T02:55:32.000Z",
-    "title": "Ted Cruz picks a new fight with Federal Reserve over CBDC",
-    "url": "https://www.cryptopolitan.com/ted-cruz-picks-new-fight-with-fed-over-cbdc/",
-    "description": "A new report from Fox Business has unveiled that a group of US Senators is rolling up their sleeves to challenge the Federal Reserve&#8217;s capacity to roll out a Central Bank Digital Currency (CBDC). This move, spearheaded by GOP Senators with Texas&#8217; own Ted Cruz in charge, is firing up to curb the inception of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-27T02:43:49.000Z",
-    "title": "Which Economies Will Thrive in the Age of AI?",
-    "url": "https://www.cryptopolitan.com/which-economies-will-thrive-in-the-age-of-ai/",
-    "description": "In a groundbreaking study, researchers from Capital Economics delve into the potential impact of artificial intelligence (AI) on global economies, unveiling which countries stand to reap the greatest rewards and which may lag behind. Contrary to popular belief, the benefits of AI extend beyond individual firms, promising significant boosts to entire economies. With the aid [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-02-27T03:08:44.000Z",
-    "title": "Bitcoin Price Moons To $57K As The Bulls Aim For $60K",
-    "url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-moons-to-57k/",
-    "description": "Bitcoin price is up over 10% and surging toward $58,000. BTC is signaling a strong upward trend and might surge toward the $60,000 resistance. Bitcoin price is gaining pace above the $55,000 resistance zone. The price is trading above $55,000 and the 100 hourly Simple moving average. There was a break above a major bearish trend line with resistance at $51,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair could extend its current rally toward the $60,000 resistance zone. Bitcoin Price Starts Fresh Surge Bitcoin price remained well-bid above the $50,500 support zone. A support base was formed above the $51,500 level and the price started a fresh rally. BTC gained bullish momentum after it broke the $51,600 and $52,000 resistance levels. There was a break above a major bearish trend line with resistance at $51,600 on the hourly chart of the BTC/USD pair. The pair surged over 10% and broke many hurdles near the $55,000 level. A new multi-week high is formed near $57,109 and the price is now retreating. Bitcoin is still trading above $55,000 and the 100 hourly Simple moving average. It is also above the 23.6% Fib retracement level of the recent rally from the $50,950 swing low to the $57,109 high. Source: BTCUSD on TradingView.com Immediate resistance is near the $56,800 level. The next key resistance could be $57,000, above which the price could rise toward the $58,000 resistance zone. If the bulls remain in action, the price could even surpass $58,000 and test $58,800. The main hurdle for them is visible near the $60,000 zone. Are Dips Limited In BTC? If Bitcoin fails to rise above the $57,000 resistance zone, it could start a downside correction. Immediate support on the downside is near the $56,000 level. The first major support is $55,600. If there is a close below $55,600, the price could start a decent pullback toward the 50% Fib retracement level of the recent rally from the $50,950 swing low to the $57,109 high. Any more losses might send the price toward the $53,200 support zone. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $56,000, followed by $55,600. Major Resistance Levels – $57,000, $58,000, and $60,000."
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-02-27T03:00:06.000Z",
-    "title": "Ethereum Leaves Bitcoin Behind, But Is This Rally Sustainable?",
-    "url": "https://www.newsbtc.com/news/ethereum/ethereum-leaves-bitcoin-behind-rally-sustainable/",
-    "description": "Ethereum has left Bitcoin in the dust with its latest rally towards $3,100. Here&#8217;s whether this run is sustainable based on futures market data. Ethereum Has Separated From Bitcoin With Over 7% Jump In Past Week While Bitcoin has been in consolidation lately, Ethereum appears to have been putting together bullish momentum entirely of its own, as the asset has jumped more than 7% in the past week. Related Reading: XRP Forms Buy Signal, Analyst Predicts Surge To This Target The chart below shows how ETH has performed during the last month. The price of the coin seems to have been climbing recently &#124; Source: ETHUSD on TradingView In the last 24 hours, Ethereum reached a peak of $3,130 level, a mark it only reached for the first time since the first half of April 2022. Since then, the coin has come down a bit, as it now floats around $3,100. Nonetheless, despite this small retrace, ETH has still performed notably better than the original cryptocurrency. Now, the asset&#8217;s investors might be wondering if the coin could continue this run. Perhaps data related to the futures market might shed some light. ETH Funding Rates Have Been At Positive Levels Recently As pointed out by an analyst in a CryptoQuant Quicktake post, the ETH funding rate has had positive values recently. The &#8220;funding rate&#8221; is an indicator that keeps track of the periodic fees that traders on the futures market are exchanging between each other right now. When the value of this metric is positive, it means that the long holders are currently paying a premium to the short investors to hold onto their holdings. Such a trend implies the majority sentiment in the futures market is bullish. On the other hand, the indicator being negative implies a bearish sentiment is dominant in the sector right now as the short holders outweigh the long traders. Now, here is a chart that shows the trend in the 30-day simple moving average (SMA) of the Ethereum funding rate over the past couple of years: Looks like the value of the metric has been heading up in recent days &#124; Source: CryptoQuant As the above graph shows, the 30-day SMA Ethereum funding rate had shot up to extremely high levels in the first half of January. Interestingly, this is when the market top due to the Bitcoin spot ETFs occurred. After the price drawdown following the event, the funding rate calmed as the longs that had piled up saw liquidation. As the recent rally in the coin has occurred, the funding rate has once again gone up. However, This time, the 30-day SMA Ethereum funding rate isn&#8217;t quite at the extreme levels it was last month. This could mean that the futures market isn&#8217;t yet too overheated. Related Reading: SingularityNET (AGIX) Rallies 128% As On-Chain Activity Heats Up Naturally, this could potentially allow for the current Ethereum rally to go on for a while still. It should be noted, though, that as the funding rates go higher, the chances of a long squeeze taking place go up. Thus, while ETH may not be quite at the same risk as last month, a long squeeze could still be on the horizon, becoming more probable to happen as the speculators continue to open up more positions. Featured image from Kanchanara on Unsplash.com, CryptoQuant.com, chart from TradingView.com"
+    "date": "2024-02-27T03:30:59.000Z",
+    "title": "JPMorgan Says Bitcoin Halving and Ethereum Upgrade ‘Are Largely Priced In’",
+    "url": "https://news.bitcoin.com/jpmorgan-says-bitcoin-halving-and-ethereum-upgrade-are-largely-priced-in/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"JPMorgan Says Bitcoin Halving and Ethereum Upgrade &#039;Are Largely Priced In&#039;\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/jpmorgan-retail.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />JPMorgan Chase has discussed three main catalysts driving crypto prices over the coming months. The global investment bank&#x2019;s analysts believe that the Bitcoin halving event and the next major upgrade of the Ethereum network are largely priced in. JPMorgan on Catalysts Affecting Crypto Prices Global investment bank JPMorgan Chase has provided its insights into three [&#8230;]"
   }
 ]

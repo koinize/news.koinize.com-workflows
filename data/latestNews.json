@@ -1,107 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-28T15:00:47.000Z",
-    "title": "Mt. Gox: What We Still Don’t Know 10 Years After the Collapse",
-    "url": "https://www.coindesk.com/consensus-magazine/2024/02/28/mt-gox-what-we-still-dont-know-10-years-after-the-collapse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "To commemorate the 10th anniversary of the collapse of bitcoin exchange MtGox, Mark Hunter, author of “Ultimate Catastrophe: How MtGox Lost Half a Billion Dollars and Nearly Killed Bitcoin,” tackles the questions that still remain unanswered ten years later."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-02-28T15:04:44.000Z",
-    "title": "Bitcoin Blasts Past $60K as Markets Enter 'Extreme Greed' Phase",
-    "url": "https://decrypt.co/219427/bitcoin-blasts-past-60k-markets-extreme-greed",
-    "description": "The price of Bitcoin (BTC) broke the $60K barrier, and the Crypto Fear and Greed index shows markets are at extreme greed phase."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-02-28T15:03:09.000Z",
-    "title": " Solana eyes $600 target in upcoming crypto surge ",
-    "url": "https://cointelegraph.com/news/solana-price-surge-potential-crypto-bull-cycle",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvN2Y4Y2M1MGYtMzlmMy00NjZiLWE4NjQtYWU1ZTc4YzY3OGMxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>In recent quarters, Solana's increasing on-chain activity points to a strong underlying demand for SOL tokens.</p>\n                    <p><p>Solana (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) looks poised to undergo a bull run in the current crypto market boom led by Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), argues independent market analyst Hansolar.</p><p>At the core of Hansolar’s bullish analogy for Solana is its potential to replicate Ether’s (ETH) price trends during the previous crypto market bull runs. For instance, in the 2020-2021 bullish cycle, ETH’s price surged from around $85 to as much as $4,935, tailing Bitcoin’s uptrend.</p><p>Interestingly, ETH’s uptrend increased by approximately 1,400% after Bitcoin <a href=\"https://cointelegraph.com/news/bitcoin-price-briefly-hits-69k-ath-before-plummeting-back-to-earth\">established</a> a new record high above $20,000, as shown in the three-day chart below.</p><p><a href=\"https://cointelegraph.com/news/solana-price-surge-potential-crypto-bull-cycle\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-28T14:50:12.000Z",
-    "title": "Tron founder Justin Sun’s $1.6 billion wallet balance dominates HTX $4.9 billion reserves",
-    "url": "https://cryptoslate.com/tron-founder-justin-suns-1-6-billion-wallet-balance-dominates-htx-4-9-billion-reserves/",
-    "description": "<p>Justin Sun, the founder of the Tron network, owns over a quarter of the assets on the HTX (formerly Huobi) exchange reserves, as revealed in a screenshot of his wallet balance disclosed on social media platform X (previously Twitter) on Feb. 27. Although the screenshot lacks a detailed breakdown of his portfolio, Sun&#8217;s total crypto [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tron-founder-justin-suns-1-6-billion-wallet-balance-dominates-htx-4-9-billion-reserves/\">Tron founder Justin Sun&#8217;s $1.6 billion wallet balance dominates HTX $4.9 billion reserves</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-28T14:40:54.000Z",
-    "title": "Missing Bitcoin’s top 10 days a year could cost you all annual gains – Fundstrat",
-    "url": "https://cryptoslate.com/insights/missing-bitcoins-top-10-days-a-year-could-cost-you-all-annual-gains-fundstrat/",
-    "description": "<p>Quick Take Bitcoin is notoriously unpredictable, rendering market timing an arduous task. Different investment strategies exist, including dollar-cost averaging and lump-sum buying, each with unique merits. However, recent research from Fundstrat, shared by the CEO of Bitwise, Hunter Horsley, sketches a striking pattern: missing the ten best days of Bitcoin&#8217;s returns each year essentially causes [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/missing-bitcoins-top-10-days-a-year-could-cost-you-all-annual-gains-fundstrat/\">Missing Bitcoin&#8217;s top 10 days a year could cost you all annual gains &#8211; Fundstrat</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Crypto Briefing",
+    "date": "2024-02-28T15:13:52.000Z",
+    "title": "SBF lawyers file petition to reduce prison time to less than 6.5 years",
+    "url": "https://cryptobriefing.com/sbf-lawyers-petition-reduce-prison-time/",
+    "description": "Defense lawyers argue that Sam Bankman-Fried should be given a maximum prison sentence of between 63 to 78 months."
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-02-28T15:00:56.000Z",
-    "title": "Stake.link adds Arbitrum for LINK liquid staking",
-    "url": "https://cryptobriefing.com/statelink-adds-arbitrum-link-liquid-staking/",
-    "description": "LINK liquid staking can be done with lower gas costs on Arbitrum via stLINK, the liquid staking token of Stake.link."
+    "date": "2024-02-28T15:11:24.000Z",
+    "title": "Bitcoin surpasses $60,000 fueled by institutional accumulation",
+    "url": "https://cryptobriefing.com/bitcoin-surpasses-60000-fueled-by-institutional-accumulation/",
+    "description": "Bitcoin's price surge to November 2021 highs sparks trader and analyst predictions of an impending, even more dynamic bull market."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-28T15:02:32.000Z",
-    "title": "Bitcoin Soars to $59K, Solana and Ethereum Follow Market Bullishness, ScapesMania Is Ready for Listing",
-    "url": "https://cryptodaily.co.uk/2024/02/bitcoin-soars-to-59k-solana-and-ethereum-follow-market-bullishness-scapesmania-is-ready-for-listing",
-    "description": "Bitcoin's price soars to a stunning $57K, with Solana and Ethereum swiftly following suit, signaling an exhilarating uplift in the crypto market! The imminent listing of a breakthrough cryptocurrency adds to the fervor, showcasing the sector's dynamic growth. Stay tuned for a thrilling ride as these digital currencies redefine market potential and open new avenues for investment."
+    "date": "2024-02-28T15:36:22.000Z",
+    "title": "Can Starknet (STRK) Overtake Arbitrum (ARB) in a Bursting Ethereum L2 Market?",
+    "url": "https://cryptodaily.co.uk/2024/02/can-starknet-strk-overtake-arbitrum-arb-in-a-bursting-ethereum-l2-market",
+    "description": "Arbitrum (ARB) and Starknet's (STRK) market movements and predictions revealed! Uncover the current state and future possibilities of ARB and STRK in the ever-evolving world of Ethereum's layer-2 solutions. Stay tuned for insightful analyses and predictions on these two compelling crypto projects!"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-28T14:51:27.000Z",
-    "title": "Uniswap (UNI) Governance Undergo Revamping, Ethereum (ETH) Surge, and Meme Moguls (MGLS) Displays Massive Potential As It Enters Last Stage",
-    "url": "https://cryptodaily.co.uk/2024/02/uniswap-uni-governance-undergo-revamping-ethereum-eth-surge-and-meme-moguls-mgls-displays-massive-potential-as-it-enters-last-stage",
-    "description": "Uniswap, a leading decentralized exchange, is embarking on a journey to revamp its governance model to encourage broader participation and sustainable growth. At the same time, Ethereum's price has gone up, and experts think it could keep rising in the crypto market. This makes people take notice of tokens like Meme Moguls (MGLS)."
+    "date": "2024-02-28T15:18:16.000Z",
+    "title": "Bull Run Confirmed: Grab These Altcoins Before They Soar",
+    "url": "https://cryptodaily.co.uk/2024/02/bull-run-confirmed-grab-these-altcoins-before-they-soar",
+    "description": "Jump on the crypto bull run before it's too late! Discover the altcoins set to skyrocket, as the market cap soars past $2 trillion. Don't miss your chance to invest in these potential crypto giants amidst a market rally that's making history!"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-02-28T14:42:00.000Z",
-    "title": "Meme Moguls (MGLS): Experts Predict 2024 Bull Run as Token Prepares to Launch, Siacoin (SC) Sees Price Retracement While Worldcoin (WLD) Reaches New ATH",
-    "url": "https://cryptodaily.co.uk/2024/02/meme-moguls-mgls-experts-predict-2024-bull-run-as-token-prepares-to-launch-siacoin-sc-sees-price-retracement-while-worldcoin-wld-reaches-new-ath",
-    "description": "A lot has been happening in the crypto market in the past few weeks with investors looking for the top crypto coins that will guarantee high ROI in the short and long term. M"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T15:01:41.000Z",
-    "title": "Stake.link Goes Cross-Chain, Enabling LINK Staking On Arbitrum For The First Time",
-    "url": "https://www.cryptopolitan.com/stake-link-goes-cross-chain-enabling-link-staking-on-arbitrum-for-the-first-time/",
-    "description": "London, England, February 28th, 2024, Chainwire stake.link, the delegated liquid staking protocol for the Chainlink Ecosystem, has announced the availability of cross-chain staking on Arbitrum, the most widely used Layer-2 network on the Ethereum blockchain. The move enables stake.link to establish a second home on Arbitrum where it will be able to continue delivering the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T14:58:39.000Z",
-    "title": "Walmart Establishes Center for Tech Excellence at IIT Madras",
-    "url": "https://www.cryptopolitan.com/walmart-establishes-center-for-tech/",
-    "description": "Walmart, in collaboration with the Indian Institute of Technology Madras (IITM), has launched the Walmart Center for Tech Excellence, marking a significant advancement in its commitment to empowering Micro, Small, and Medium Enterprises (MSMEs) through technology. This initiative aims to develop engineering and retail analytics solutions, leveraging Artificial Intelligence (AI) and digitization to enhance operational [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T14:53:25.000Z",
-    "title": "Biden cries out: Government shutdown will cause U.S. economy to crash",
-    "url": "https://www.cryptopolitan.com/biden-govt-shutdown-cause-us-economy-crash/",
-    "description": "President Joe Biden and Congressional leaders are racing against the clock to prevent a government shutdown. They&#8217;re trying to get spending bills passed to keep things running after March 1. Despite their efforts, there&#8217;s a big divide over funding for Ukraine, Israel, and the US-Mexico border. Senate Majority Leader Chuck Schumer mentioned these talks were [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-02-28T15:00:06.000Z",
-    "title": "Cardano (ADA) Among Only Coins Seeing Loss-Taking: What It Means",
-    "url": "https://www.newsbtc.com/news/cardano/cardano-ada-coins-seeing-loss-taking-means/",
-    "description": "Cardano (ADA) is among the few cryptocurrencies that are still observing loss-taking being the dominant behavior among investors. Bitcoin &#38; Ethereum See Profit-Taking, While Cardano Is Seeing Capitulation According to data from the on-chain analytics firm Santiment, Bitcoin (BTC) and Ethereum (ETH) have both been seeing the investors majorly selling at profits, while Cardano has seen the loss-taking outweigh the profit-taking. The indicator of interest here is the &#8220;Ratio of Daily On-Chain Transaction Volume in Profit to Loss,&#8221; which, as its name already suggests, tells us about how the loss-taking volume of any asset compares against its profit-taking volume. This metric works by going through the transaction history of each coin currently being moved on the blockchain to see what price it moved at before this. If the previous transfer price for any coin was less than the spot value it is being sold at now, then its sale is contributing towards the profit-taking volume. Related Reading: Polygon (MATIC) Whale Makes Large Deposit To Binance, Bearish Sign? Similarly, the coins of the opposite type (that is, those with last price higher than the latest transfer price) add to the loss-taking volume. The indicator takes the total volume of each type and outputs their ratio. Now, here is a chart that shows the trend in this ratio for a few different top cryptocurrencies over the last few months: The value of the metric seems to have been greater than one for most of these assets recently &#124; Source: Santiment on X As displayed in the above graph, all of these assets, except for Cardano, have their Ratio of Daily On-Chain Transaction Volume in Profit to Loss sitting at positive values right now. Such values of the metric imply the profit-taking volume is currently greater than the loss-taking volume for these assets. Ethereum, in particular, seems to have been observing the most aggressive profit-taking spree recently, as the cryptocurrency has been seeing about 2.3 green transactions for every underwater movement. Bitcoin is seeing the second-highest ratio, with 1.8 profit-taking transactions taking place for every loss-taking transfer. It&#8217;s much more balanced for the altcoins, however, as XRP (XRP) and Litecoin (LTC) have only been witnessing minimally higher dominance of profit selling. Cardano has outright been seeing the loss-taking volume pulling ahead of the profit-taking one, implying that the investors have been going through capitulation. These loss sellers may be ditching the asset in favor of Bitcoin and others, who have offered greener pastures recently. Related Reading: 95% Of Bitcoin Now In Profit: Why This Could Be A Signal To Sell Historically, the dominance of profit-taking has been something that has led to tops for cryptocurrencies. Loss-taking, on the other hand, has often facilitated bottoms to form as weaker hands flush out in such events and stronger, more resolute investors take their coins. As such, Cardano has been behind the other top coins in this metric recently may mean that the coin could still have the potential to rise, whereas the others may be nearing possible tops. ADA Price While Cardano has performed worse than the likes of Bitcoin and Ethereum recently, its returns have still not been that bad as the asset is up 8% over the past week and trading around $0.63. Looks like the price of the asset has been surging recently &#124; Source: ADAUSD on TradingView Featured image from Shutterstock.com, Santiment.net, chart from TradingView.com"
+    "source": "BTCManager",
+    "date": "2024-02-28T15:35:20.000Z",
+    "title": "Dogecoin surges $2.8b as SpaceX rocket powers 1st moon landing in 50 years",
+    "url": "https://crypto.news/dogecoin-spacex-rocket-moon/",
+    "description": "Dogecoin derivatives market trends suggest DOGE price could fly even further following Elon Musk's SpaceX role in the latest moon landing."
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-02-28T14:59:15.000Z",
-    "title": "An Introduction to Edu3Labs",
-    "url": "https://www.altcoinbuzz.io/spotlight/an-introduction-to-edu3labs/",
-    "description": "<p>In today&#8217;s Web3 era, many sectors in Web2 are being disrupted. For example, Real World Assets (RWA), Gaming, Artificial Intelligence (A.I) and much more. Among these, one sector remains largely under the radar &#8211; Education. Combine this with Web3, and we&#8217;ve got Edu3Labs, a new and promising crypto project.  So, what&#8217;s Edu3Labs all about? Let&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/spotlight/an-introduction-to-edu3labs/\">An Introduction to Edu3Labs</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-02-28T15:39:12.000Z",
+    "title": "Bybit Integrates TradingView for Enhanced Trading Experience",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/bybit-integrates-tradingview-for-enhanced-trading-experience/",
+    "description": "<p>This collaboration combines Bybit&#8217;s platform with TradingView&#8217;s charting, enhancing trading strategies and analysis tools. The integration of Bybit with TradingView is a significant leap forward in streamlining the trading process. Seamless Trading with Bybit and TradingView Integration Traditionally, traders had to navigate between multiple platforms to analyze the market and execute trades. However, with this [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/bybit-integrates-tradingview-for-enhanced-trading-experience/\">Bybit Integrates TradingView for Enhanced Trading Experience</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-02-28T15:30:00.000Z",
+    "title": "Rising Scam: Users’ Crypto Withdrawals Blocked on Coinsbit Exchange",
+    "url": "https://coinedition.com/rising-scam-users-crypto-withdrawals-blocked-on-coinsbit-exchange/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/10/SCAM-9.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Rising Scam: Users&#039; Crypto Withdrawals Blocked on Coinsbit Exchange\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/10/SCAM-9.jpg 730w, https://coinedition.com/wp-content/uploads/2022/10/SCAM-9-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/10/SCAM-9-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/10/SCAM-9-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/10/SCAM-9-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Coinsbit failed to list LMF tokens after reportedly taking listing fees. Akash Network&#8217;s founder reported being harassed by Coinsbit for listing fees. Coinsbit receives backlash for blocking users’ access to funds, sparking community concern. The European crypto exchange Coinsbit has come under fire in the crypto community amid its concerning practices, including blocking users from [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/rising-scam-users-crypto-withdrawals-blocked-on-coinsbit-exchange/\">Rising Scam: Users&#8217; Crypto Withdrawals Blocked on Coinsbit Exchange</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-02-28T14:40:50.000Z",
-    "title": "Bitcoin Price Shatters $60,000 As Elite Crypto Trader Warns ‘The Last Resistance’ Has Arrived",
-    "url": "https://dailyhodl.com/2024/02/28/bitcoin-price-shatters-60000-as-elite-crypto-trader-warns-the-last-resistance-has-arrived/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2021/11/bitcoin-insanely-bullish.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Bitcoin&#8217;s brute force bull run now has crypto traders eyeing a new all-time high. The leading crypto asset just shattered the $60,000 mark as an analyst who bought the bottom at $16,000 issues an alert to fellow traders. DonAlt tells his 516,000 followers on the social platform X that BTC is now facing its final [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/28/bitcoin-price-shatters-60000-as-elite-crypto-trader-warns-the-last-resistance-has-arrived/\">Bitcoin Price Shatters $60,000 As Elite Crypto Trader Warns &#8216;The Last Resistance&#8217; Has Arrived</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-02-28T15:30:50.000Z",
+    "title": "Here’s the Upside Potential for Solana (SOL) in the Coming Crypto Bull Run, According to InvestAnswers",
+    "url": "https://dailyhodl.com/2024/02/28/heres-the-upside-potential-for-solana-sol-in-the-coming-crypto-bull-run-according-to-investanswers/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/02/upside-for-sol-bull.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A popular crypto analyst is laying out the potential upside for Ethereum (ETH) competitor Solana (SOL). In a new YouTube video, the anonymous host of InvestAnswers notes to his 478,000 subscribers that Solana hit 20% of Ethereum&#8217;s market cap in December but has been outperformed by the second-largest crypto asset in the months since then. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/28/heres-the-upside-potential-for-solana-sol-in-the-coming-crypto-bull-run-according-to-investanswers/\">Here’s the Upside Potential for Solana (SOL) in the Coming Crypto Bull Run, According to InvestAnswers</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+  },
+  {
+    "source": "Bitfinex Blog",
+    "date": "2024-02-28T15:13:53.000Z",
+    "title": "Bitfinex Pay – Release V0.6.2",
+    "url": "https://blog.bitfinex.com/bitfinex-pay/bitfinex-pay-release-v0-6-2/",
+    "description": "<p>The Bitfinex Pay Merchant Dashboard is an internal tool designed to provide our Merchants with powerful reports and features to manage their Merchant crypto gateway. We’re pleased to share the latest updates to Bitfinex Pay. For more on Bitfinex Pay, please refer to https://blog.bitfinex.com/category/bitfinex-pay/. Merchant...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/bitfinex-pay/bitfinex-pay-release-v0-6-2/\">Bitfinex Pay &#8211; Release V0.6.2</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
   }
 ]

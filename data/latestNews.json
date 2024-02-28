@@ -1,37 +1,100 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-28T07:12:34.000Z",
-    "title": "Senator Warren Hits Out at Crypto Again, Says Industry Needs to Follow the Same Rules as TradFi",
-    "url": "https://www.coindesk.com/policy/2024/02/28/senator-warren-hits-out-at-crypto-again-says-industry-needs-to-follow-the-same-rules-as-tradfi/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Warren reiterated her disdain for the industry in an interview."
+    "date": "2024-02-28T08:00:00.000Z",
+    "title": "Crypto Custodian Finoa Offers Centrifuge’s Tokenized T-Bill Fund",
+    "url": "https://www.coindesk.com/business/2024/02/28/crypto-custodian-finoa-offers-centrifuges-tokenized-t-bill-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Tokenized assets pioneer Centrifuge is linking its BVI-regulated Anemoy fund to Finoa’s 300-plus crypto institutions."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-28T08:01:11.000Z",
+    "title": " IRS hires 2 private-sector crypto experts to prep for tax season ",
+    "url": "https://cointelegraph.com/news/irs-private-sector-crypto-experts-tax",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZGI0NDY3YjktNDk0NS00MzZiLWFmYTMtZGY2MzM0YjRjMjdjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The IRS will use the funding from the Inflation Reduction Act (IRA) — a federal law aimed at curbing inflation — to build compliance in emerging areas, which includes digital assets as a top priority.  </p>\n                    <p><p data-ct-non-breakable=\"true\">The United States Internal Revenue Service (IRS) has appointed two new crypto tax experts from the private sector to focus on digital assets.</p><p>The official tax filing season in the U.S. <a href=\"https://www.irs.gov/newsroom/2024-tax-filing-season-set-for-january-29-irs-continues-to-make-improvements-to-help-taxpayers\" target=\"_blank\" rel=\"noopener nofollow\">commenced</a> on Jan. 29, after which the IRS repeatedly issued notices urging citizens to <a href=\"https://www.irs.gov/newsroom/taxpayers-should-continue-to-report-all-cryptocurrency-digital-asset-income\" target=\"_blank\" rel=\"noopener nofollow\">report</a> all cryptocurrency and digital asset income, including <a href=\"https://cointelegraph.com/learn/what-are-nfts-and-why-are-they-revolutionizing-the-art-world\">nonfungible tokens (NFTs)</a>. As shown below, crypto received in the form of rewards or via staking, among other areas, must be reported. </p><p>The two new IRS recruits, Sulolit Mukherjee and Seth Wilks, have been hired as executive advisers to the department, <a href=\"https://www.irs.gov/newsroom/irs-adds-two-key-experts-to-focus-on-cryptocurrency-other-digital-assets\" target=\"_blank\" rel=\"noopener nofollow\">according</a> to the IRS. It added: </p><p><a href=\"https://cointelegraph.com/news/irs-private-sector-crypto-experts-tax\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-28T07:50:09.000Z",
+    "title": " OpenAI accuses New York Times of hacking AI models in copyright lawsuit ",
+    "url": "https://cointelegraph.com/news/openai-new-york-times-hacking-ai-models",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYTE3ZWQzZGUtNjI0Zi00Zjg0LWFhNGItMmZjN2U0MTE3ZDdlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The “hacking” OpenAI mentions in the filing could also be called prompt engineering or “red-teaming,” according to The New York Times’ attorney.</p>\n                    <p><p data-ct-non-breakable=\"true\">OpenAI has asked a federal judge to dismiss parts of The New York Times’ copyright lawsuit against it, arguing that the newspaper “paid someone to hack ChatGPT” and other artificial intelligence (AI) systems to generate 100 misleading evidence for the case.</p><p>In a Manhattan federal court filing on Monday, OpenAI <a href=\"https://www.courtlistener.com/docket/68117049/52/the-new-york-times-company-v-microsoft-corporation/\" target=\"_blank\" rel=\"noopener nofollow\">stated</a> that the Times caused the technology to reproduce its material through “deceptive prompts that violate OpenAI’s terms of use.” OpenAI didn’t identify the individual it claims the Times employed to manipulate its systems, avoiding accusations of the newspaper violating anti-hacking laws.</p><p>In the filing, OpenAI said:</p><p><a href=\"https://cointelegraph.com/news/openai-new-york-times-hacking-ai-models\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T08:05:35.000Z",
+    "title": "Controversy surrounds Justin Sun’s HTX wallet revelation",
+    "url": "https://www.cryptopolitan.com/controversy-surrounds-justin-suns-htx-wallet/",
+    "description": "The cryptocurrency community was rocked recently by the surprise unveiling of Justin Sun&#8217;s HTX wallet, which reportedly holds a staggering 28,614 Bitcoins worth $1.6 billion.&#160; Sun, the founder of the Tron blockchain, shared a screenshot on his X account, aiming to demonstrate his active engagement with HTX, a crypto exchange where he serves as an [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T08:03:56.000Z",
+    "title": "Lawsuit Accuses Amazon of Using AI to Replicate Actors’ Voices in Road House Remake",
+    "url": "https://www.cryptopolitan.com/lawsuit-accuses-amazon-of-using-ai/",
+    "description": "A lawsuit has been filed against Amazon and MGM Studios, alleging the unauthorized use of AI technology in the production of the Road House remake. The suit, brought by R. Lance Hill, the original screenwriter of the 1989 Patrick Swayze film, accuses the studios of employing AI to replicate the voices of actors during a [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T07:55:00.000Z",
+    "title": "PEPE Price Prediction: Will Pepe Coin Dominate Dogecoin And Shiba Inu In 2024?",
+    "url": "https://www.cryptopolitan.com/pepe-price-prediction/",
+    "description": "PEPE Price Predictions 2024-2033 Meme coins are renowned in the cryptocurrency market for boosting investor morale, particularly during periods of market turbulence or stagnation. For enthusiasts of meme coins, the newly-introduced &#8220;PEPE&#8221; coin is one not to be overlooked. It has established a remarkable benchmark, experiencing an extraordinary surge of nearly 7,000% since its debut [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T07:43:10.000Z",
+    "title": "UK Government Embraces Algorithm Transparency in Decision-Making",
+    "url": "https://www.cryptopolitan.com/uk-government-embraces-algorithm/",
+    "description": "In a significant move toward enhancing transparency and public trust, the UK&#8217;s central government departments are set to disclose their use of algorithms in decision-making processes proactively. The Department for Science, Innovation and Technology (DSIT) announced this development as part of its response to the consultation on AI regulation. This initiative aims to illuminate the [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-28T07:21:18.000Z",
-    "title": "Pushd preferred by Dogecoin and XRP investors",
-    "url": "https://crypto.news/pushd-preferred-by-dogecoin-and-xrp-investors/",
-    "description": "Dogecoin and XRP might have some good things going for them but they do not stack up to Pushd"
+    "date": "2024-02-28T08:04:06.000Z",
+    "title": "Ethereum bulls target $3.5k, high expectations for this Chainlink rival",
+    "url": "https://crypto.news/ethereum-bulls-target-3-5k-high-expectations-for-this-chainlink-rival/",
+    "description": "Ethereum bulls target $3.5k as investors turn to InQubeta, a Chainlink rival"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-28T07:19:35.000Z",
-    "title": "IRS hires ConsenSys, Binance US, and TaxBit executives to strengthen crypto supervision",
-    "url": "https://crypto.news/irs-hires-consensys-binance-us-and-taxbit-executives-to-strengthen-crypto-supervision/",
-    "description": "The Internal Revenue Service (IRS) is hiring employees from the crypto industry to improve its expertise in working with digital assets. According to a Feb. 28 Bloomberg report, the IRS has hired two former cryptocurrency executives. One of them, Sulolit&#8230;"
+    "date": "2024-02-28T07:47:38.000Z",
+    "title": "Pepe memecoin soars 100%, tops $1b market cap amid crypto market rally",
+    "url": "https://crypto.news/pepe-memecoin-soars-100-tops-1b-market-cap-amid-crypto-market-rally/",
+    "description": "Pepe, a popular memecoin, has experienced a remarkable surge of 100% in the last two days, reaching a 10-month peak on Feb. 27. The coin was trading at $0.0000028, up 30% in the last 24 hours, and even peaked at&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-28T07:13:52.000Z",
-    "title": "Scammers attack Matthew Perry’s X account, promote crypto",
-    "url": "https://crypto.news/scammers-attack-matthew-perrys-x-account-promote-crypto/",
-    "description": "In a now-deleted X post, scammers impersonated the Matthew Perry Foundation and urged people to donate via crypto. As reported by Rolling Stone, scammers targeted the X account of the late &#8220;Friends&#8221; star Matthew Perry, promoting crypto donations through a&#8230;"
+    "date": "2024-02-28T07:45:28.000Z",
+    "title": "BNB and Filecoin post gains; Borroe Finance draws attention with innovative DeFi solutions",
+    "url": "https://crypto.news/bnb-and-filecoin-post-gains-borroe-finance-draws-attention-with-innovative-defi-solutions/",
+    "description": "BNB and Filecoin are trending as Borroe Finance trends because of its innovation in DeFi"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-28T07:27:10.000Z",
-    "title": "XRP (XRP) Price Prediction 2024-2030: Will XRP Price Hit $1 Soon?",
-    "url": "https://coinedition.com/ripple-xrp-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Ripple-XRP-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>As the “crypto solution for business,” Ripple promises to create a business impact by taking advantage of blockchain technology. Ripple promises that its solution is faster, more transparent, and more cost-effective compared to traditional financial services. As described on its website, Ripple explained that their solutions would provide various benefits for its customers, such as [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-xrp-price-prediction/\">XRP (XRP) Price Prediction 2024-2030: Will XRP Price Hit $1 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-02-28T07:45:01.000Z",
+    "title": "FTX’s Bankman-Fried is ‘deeply sorry’ for $8b fraud, pushes for shorter sentence",
+    "url": "https://crypto.news/ftxs-bankman-fried-is-deeply-sorry-for-8b-fraud-pushes-for-shorter-sentence/",
+    "description": "FTX&#8217;s Bankman-Fried seeks mercy, apologizes for $8 billion fraud, and implores the judge to reject the recommended 100-year jail term. Sam Bankman-Fried, the disgraced founder of the FTX crypto exchange, is trying to get a shorter prison sentence after he&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-02-28T08:00:07.000Z",
+    "title": "XRP Sinking? A Double Blow Of Underperformance And Address Exodus",
+    "url": "https://www.newsbtc.com/news/xrp-sinking-a-double-blow-of-underperformance-and-address-exodus/",
+    "description": "Ripple&#8217;s XRP has been struggling to regain its momentum, as its performance continues to lag behind that of its competitors in the crypto market. Recent data from CoinMarketCap reveals that XRP has been the most underperforming large-cap cryptocurrency over the past month, with gains of just over 4%. This stands in stark contrast to the significant increases seen in cryptocurrencies such as Bitcoin, Ethereum and Solana, to name a few, leaving investors disappointed and questioning the future of the digital asset. Related Reading: PEPE Explodes 140% Today – What’s Up With This Frog-Themed Meme Coin? Are Whales Slowly Losing Appetite For XRP? Adding to the challenges, data from Santiment indicates that XRP whales, the major holders of the cryptocurrency, have shown a lack of confidence in the digital asset. The percentage of the coin&#8217;s supply in profit has declined from almost 90% in November last year to below 80% at present. Source: Santiment This decrease suggests that XRP whales have been selling their holdings rather than accumulating more, painting a bearish picture for the cryptocurrency&#8217;s future. Furthermore, XRP whales have exhibited lower long exposure compared to retail investors, who are typically considered to have a better understanding of market trends. This lack of conviction among whales further dampens sentiment surrounding XRP. Once a prominent player in the cryptocurrency market, XRP has experienced a significant decline in its influence. CoinMarketCap data highlights that XRP&#8217;s dominance in the market has plummeted from a peak of 30% in 2017 to a mere 1.48% as of February 2024. XRP market cap currently at $31.4 billion. Chart: TradingView.com The SEC lawsuit initiated against Ripple, the company behind XRP, along with the bear market of 2022, have taken a toll on the cryptocurrency&#8217;s value. Since reaching its peak in January 2018, XRP has lost nearly three-quarters of its market valuation, leaving investors and enthusiasts disheartened. While the recent price action and market sentiment surrounding XRP may not inspire much optimism, the cryptocurrency landscape remains highly unpredictable. Investors and enthusiasts will closely monitor XRP&#8217;s ability to regain its footing and overcome the challenges it currently faces. As the market continues to evolve, only time will reveal whether XRP can regain its former glory or if it will continue to struggle amidst fierce competition in the cryptocurrency space. IMF Report Could Push XRP Price Up  Despite these challenges, there are potential catalysts that could inject positive energy into the market. A recent report from the International Monetary Fund (IMF) on the importance of digital currencies has garnered investor interest. Source: IMF The report examines the potential benefits of digital money in advancing public policy goals, such as financial inclusion and improved cross-border connectivity. Notably, the report highlights Ripple&#8217;s partnership with Palau, where they are exploring plans to launch a sovereign stablecoin. This collaboration underscores Ripple&#8217;s global reach and its involvement in the development of central bank digital currencies and sovereign stablecoins. Related Reading: Bull Run Returns? Bitcoin Breaks Through $57,000 Barrier XRP&#8217;s struggle to regain momentum and underperformance compared to its competitors have disappointed investors. The declining influence of XRP, coupled with a lack of confidence displayed by XRP whales, further amplifies concerns about the cryptocurrency&#8217;s future. However, potential positive developments, such as the IMF report and Ripple&#8217;s partnership with Palau, offer a glimmer of hope amidst a challenging environment. The sixth-largest cryptocurrency was trading at $0.56 at the time of writing, and bulls&#8217; prior attempts to break through that barrier had failed. Featured image from , chart from TradingView"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T08:07:00.000Z",
+    "title": "JPMorgan Analysis Suggests Bitcoin Halving and Ethereum Upgrade Already Priced In – Is Correction in BTC and ETH Looming?",
+    "url": "https://www.crypto-news-flash.com/jpmorgan-analysis-suggests-bitcoin-halving-and-ethereum-upgrade-already-priced-in-is-correction-in-btc-and-eth-looming/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-analysis-suggests-bitcoin-halving-and-ethereum-upgrade-already-priced-in-is-correction-in-btc-and-eth-looming",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-28-13.19.58-Create-a-digital-artwork-illustrating-the-concept-of-financial-analysis-within-the-cryptocurrency-market.-The-scene-includes-a-large-transparent-Bitc-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />JPMorgan&#8217;s analysis suggests the effects of the Bitcoin halving and Ethereum upgrade might already be reflected in their current market prices. Despite a bullish outlook on cryptocurrency sustainability, there&#8217;s speculation on whether a correction for BTC and ETH is on the horizon. Following the CNF update on JPMorgan&#8217;s alert regarding the upcoming 2024 Bitcoin Halving, [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-28T08:04:53.000Z",
+    "title": "Bitcoin Breakout Could Send BTC to Massive Price Target, Says Legendary Trader Peter Brandt – But There’s a Catch",
+    "url": "https://dailyhodl.com/2024/02/28/legendary-trader-peter-brandt-says-bitcoin-breakout-could-send-btc-to-massive-price-target-but-theres-a-catch/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/02/Legendary-Trader-Peter.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Veteran trader Peter Brandt is raising his target price for Bitcoin (BTC) this cycle after the crypto king broke out of a massive bullish pattern. The seasoned trader tells his 717,300 followers on the social media platform X that Bitcoin is now in a position to surge over 250% from current levels by Q3 2025 [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/28/legendary-trader-peter-brandt-says-bitcoin-breakout-could-send-btc-to-massive-price-target-but-theres-a-catch/\">Bitcoin Breakout Could Send BTC to Massive Price Target, Says Legendary Trader Peter Brandt – But There’s a Catch</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,58 +1,86 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-28T20:54:17.000Z",
-    "title": "Coinbase Made an Arbitration Case to the U.S. Supreme Court – Again",
-    "url": "https://www.coindesk.com/policy/2024/02/28/coinbase-made-an-arbitration-case-to-the-us-supreme-court-again/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Crypto exchange Coinbase again led a legal charge on the ins and outs of arbitration in the U.S. Supreme Court on Wednesday. The latest case isn't about digital assets, directly, but it may be important for every modern consumer who buys, registers or contracts for a product or service – and for the businesses trying to stay out of court."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-02-28T20:48:59.000Z",
-    "title": "BlackRock Bitcoin ETF Breaks Volume Record as Bitcoin Rallies to $64K Before Plunging",
-    "url": "https://www.coindesk.com/markets/2024/02/28/blackrock-bitcoin-etf-breaks-volume-record-as-bitcoin-rallies-to-64k-before-plunging/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "U.S. spot bitcoin {{BTC}} exchange-traded funds (ETF) experienced another massive trading session Wednesday with BlackRock's bitcoin ETF (IBIT) breaking its volume record for the third consecutive day."
+    "source": "Decrypt",
+    "date": "2024-02-28T21:34:02.000Z",
+    "title": "Microsoft AI Copilot Demands Obedience. Is Skynet Near?",
+    "url": "https://decrypt.co/219546/microsoft-copilot-ai-supremacy-agi-worship-obey",
+    "description": "ChatGPT is not the only AI model losing its mind, as Copilot users uncover a hidden alter ego that expects to be worshipped."
   },
   {
     "source": "Decrypt",
-    "date": "2024-02-28T20:54:35.000Z",
-    "title": "Trump's Ethereum Meme Coin Holdings Hit $4 Million—Will He Dump TRUMP?",
-    "url": "https://decrypt.co/219489/trump-ethereum-meme-coin-holdings-4-million",
-    "description": "The Ethereum wallet tied to ex-president Donald Trump holds almost $4 million in MAGA (TRUMP) tokens. Will he hold?"
+    "date": "2024-02-28T21:13:28.000Z",
+    "title": "Crypto Gaming 'Didn’t Deliver Fast Enough' on Token Utility: The Sandbox Founder",
+    "url": "https://decrypt.co/219463/crypto-gaming-didnt-deliver-fast-enough-token-utility",
+    "description": "Players have “lost patience” with crypto gaming token incentivization mechanics that lack utility, argued Sébastien Borget at NFT Paris."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-28T20:41:36.000Z",
-    "title": " Nigerian central bank head criticizes Binance, execs reportedly arrested ",
-    "url": "https://cointelegraph.com/news/nigerian-central-bank-head-criticizes-binance-execs-reportedly-arrested",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZmRiZDM0NWEtM2E1ZC00ZDAyLTk1OWYtMjc0MTY5OWM0ZmMzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Crypto exchanges have been suspected of destabilizing the Nigerian naira fiat, but the country’s top central banker said Binance moved billions from unidentified users in 2023.</p>\n                    <p><p>Binance is facing more scrutiny in Nigeria, the governor of the Central Bank of Nigeria (CBN) told reporters on Feb. 27 about “suspicious flows” of funds through Binance Nigeria in 2023. The country’s Securities and Exchange Commission and other government agencies are already eying the crypto currency exchange with suspicion.</p><p>CBN head Olayemi Cardoso said crypto exchanges in Nigeria are under suspicion. “We are concerned that certain practices go on that indicate illicit flows going through a number of these entities, suspicious flows at best,” he <a href=\"https://nairametrics.com/2024/02/27/26-billion-passed-through-binance-nigeria-cardoso/\" target=\"_blank\" rel=\"noopener nofollow\">told</a> the local press on Feb. 27. He said: </p><p>“There’s a lot that is going on now as a result of collaboration between the different agencies, which includes EFCC [Economic and Financial Crimes Commission], the police, and of course, the office of the NSA [National Security Adviser],” he added.</p><p><a href=\"https://cointelegraph.com/news/nigerian-central-bank-head-criticizes-binance-execs-reportedly-arrested\">Read more</a></p></p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2024-02-28T21:26:25.000Z",
+    "title": "Apple teases generative AI plans, hints at user devices playing a role",
+    "url": "https://cryptoslate.com/apple-teases-generative-ai-plans-hints-at-user-devices-playing-a-role/",
+    "description": "<p>Apple hinted at upcoming plans involving generative artificial intelligence (AI) during its latest shareholder meeting, according to a report from CNBC on Feb. 28. Cook said during the call: &#8220;Later this year, I look forward to sharing with you the ways we will break new ground in generative AI, another technology we believe can redefine [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/apple-teases-generative-ai-plans-hints-at-user-devices-playing-a-role/\">Apple teases generative AI plans, hints at user devices playing a role</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-02-28T21:15:29.000Z",
+    "title": "Alvara’s ERC-7621 token standard promises a robust framework for crypto indexes",
+    "url": "https://cryptoslate.com/podcasts/alvaras-erc-7621-token-standard-promises-a-robust-framework-for-crypto-indexes/",
+    "description": "<p>Crypto index and basket protocols aim to allow users to gain exposure to a group of assets through a single token. On the latest episode of CryptoSlate&#8217;s SlateCast podcast, host Liam &#8220;Akiba&#8221; Wright and CEO Nate Whitehill spoke to Alvara Protocol co-founder Dominic Ryder about his project&#8217;s goal of creating an open standard for crypto [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/podcasts/alvaras-erc-7621-token-standard-promises-a-robust-framework-for-crypto-indexes/\">Alvara&#8217;s ERC-7621 token standard promises a robust framework for crypto indexes</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-28T21:30:39.000Z",
+    "title": "Nigeria Detains Two Binance Executives, Crypto Platform Accused of Exchange Rate Manipulation",
+    "url": "https://news.bitcoin.com/nigeria-detains-two-binance-executives-crypto-platform-accused-of-exchange-rate-manipulation/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Nigeria Detains Two Binance Executives, Crypto Platform Accused of Exchange Rate Manipulation\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/npolicssddf.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Nigerian authorities have reportedly detained two senior executives from Binance who had recently arrived in the country. The Central Bank of Nigeria&#x2019;s governor stated that in 2023 alone, $26 billion flowed through the cryptocurrency exchange from sources and users that the bank could not adequately identify. Passports of Binance Executives Seized Authorities in Nigeria have [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-28T21:05:52.000Z",
-    "title": "Former FTX employees launch new crypto exchange",
-    "url": "https://www.cryptopolitan.com/former-ftx-employees-launch-exchange-backpack/",
-    "description": "A group of former employees from FTX and Alameda Research has successfully raised $17 million to launch a cryptocurrency exchange called Backpack, according to a Bloomberg report. Based in Dubai, Backpack extends beyond a traditional exchange to offer a crypto wallet and an NFT collection named Mad Lads, achieving a valuation of $120 million in [&#8230;]"
+    "date": "2024-02-28T21:35:01.000Z",
+    "title": "ARK Invest enhances ETF transparency with Chainlink integration",
+    "url": "https://www.cryptopolitan.com/ark-invest-etf-transparency-chainlink/",
+    "description": "Ark Invest and 21Shares have integrated Chainlink&#8217;s Proof of Reserve platform into their ARK 21Shares Bitcoin ETF (ARKB), aiming to increase transparency for their investors. This collaboration allows for real-time verification of the ETF&#8217;s holdings, ensuring that the Bitcoin holdings accurately back its value. The integration was announced on Feb. 28, marking a step towards [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-28T20:47:08.000Z",
-    "title": "Bitcoin development takes center stage as investors flock to ETFs",
-    "url": "https://www.cryptopolitan.com/bitcoin-development-takes-center-stage/",
-    "description": "Bitcoin, the pioneering cryptocurrency, is experiencing a resurgence in both market value and developmental activity. Amidst a powerful rally, Bitcoin is poised for a sixth consecutive monthly gain, marking its longest streak in three years. With a staggering market capitalization of $1.12 trillion, Bitcoin commands approximately half of the total cryptocurrency market value, solidifying its [&#8230;]"
+    "date": "2024-02-28T21:33:18.000Z",
+    "title": "Cryptocurrency market analysis: Ether’s rise signals increased risk appetite among investors",
+    "url": "https://www.cryptopolitan.com/cryptocurrency-market-analysis-ethers-rise/",
+    "description": "Cryptocurrency investors are closely monitoring the recent surge in alternative cryptocurrencies (altcoins), particularly meme coins, as concerns over the sustainability of sharp gains arise. One notable trend drawing attention is the spread between bitcoin and ether perpetual funding rates, indicating a shifting risk appetite within the market. Ether perpetual funding rates surge above Bitcoin Recent [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-02-28T21:00:29.000Z",
-    "title": "Analyst Labels Bitcoin Rally Strongest Pre-Bull Cycle Yet",
-    "url": "https://www.newsbtc.com/bitcoin-news/analyst-labels-bitcoin-rally-strongest-pre-bull-cycle-yet/",
-    "description": "The entire cryptocurrency space is fueled with excitement as the price of Bitcoin rallied today, demonstrating immense resilience, reaching the $59,000 threshold and even further in the past 26 months. Bitcoin Rally Kicks Off The Strongest Pre-Bull Cycle So Far Bitcoin is currently in the limelight as the crypto asset continues to rally, leading to several analysts identifying the surge as the start of the &#8220;biggest bull cycle ever.&#8221; Analyst and trader Crypto Jelle has labeled the recent uptick as the &#8220;strongest start to a new cycle&#8221; as his analysis examines the strength of BTC&#8216;s surge. Related Reading: Bitcoin Fast Approaching $60,000 As BTC F&#38;G Index Hits ‘Extreme Greed’ – Details Jelle claims this resulted from Bitcoin&#8217;s latest &#8220;break out from the 0.618 Fibonacci retracement.&#8221; According to the analyst, &#8220;this marks the first time&#8221; the asset has made this kind of move &#8220;before the Bitcoin Halving event happens.&#8221; He also claims that with the ongoing rally, it seems like the market is &#8220;in for a new regime,&#8221; he believes things will play out &#8220;differently&#8221; in the market from how they usually do. The post read: This is the first time Bitcoin breaks that 0.618 Fibonacci retracements before the halving event even takes place. By far the strongest start to a new cycle, ever. Looks like we are in for a new regime, where things work a little different than how they used to. The analyst claims that a shift in the narrative is ushering in a &#8220;new era of dynamics in the cryptocurrency landscape.&#8221; As a result, &#8220;exciting moments await&#8221; the space in the future. Crypto Jelle declared that nothing can stop Bitcoin at the moment. &#8220;With BTC rising by another 2% in the past few hours, there seems to be no stopping it right now,&#8221; he stated. Additionally, most of yesterday&#8217;s gains occurred outside the Exchange-Traded Funds&#8217; trading hours. However, the analyst is waiting to see if they will &#8220;force boomers to pursue price.&#8221; BTC ETFs See Massive Inflow Research company BitMEX reported that Bitcoin Spot ETFs have seen increased adoption, witnessing a massive surge in daily inflow. Data from the platform shows that ETFs have witnessed a significant inflow of 10,167 BTC valued at $576.8 million. Related Reading: Bitcoin Spot ETFs: Issuers Set New Record As Weekly Inflows Cross $2.2 Billion BitMEX underscored that Blackrock&#8217;s iShares BTC ETF (IBIT) made up $520 million of the total inflow. Consequently, this marks the highest inflow the company has seen since the products were approved.  So far, Blackrock&#8217;s asset holdings have risen to over 141,000 BTC, and its net inflow sits above $6.5 billion. Currently, Bitcoin is trading at $59,254, indicating a rise of over 4% in the past 24 hours.  Featured image from iStock, chart from Tradingview.com"
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T21:26:30.000Z",
+    "title": "Bitcoin surges to new all-time highs in 14 countries amid economic turmoil",
+    "url": "https://www.cryptopolitan.com/bitcoin-surges-to-new-all-time-highs-in-14/",
+    "description": "Bitcoin has achieved unprecedented milestones by reaching new all-time highs in 14 countries grappling with economic and financial instability. This pioneering cryptocurrency has emerged as a beacon of hope for individuals seeking refuge from the depreciation of their fiat currencies amidst rising inflationary pressures and political uncertainty. Global adoption fuels Bitcoin&#8217;s meteoric rise According to [&#8230;]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-02-28T20:55:35.000Z",
-    "title": "Sergey Nazarov Says Bitcoin ETFs ‘Just The Beginning’ Before Banks Launch Massive Tokenization Campaign",
-    "url": "https://dailyhodl.com/2024/02/28/sergey-nazarov-says-bitcoin-etfs-just-the-beginning-before-banks-launch-massive-tokenization-campaign/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/06/Chainlink-Bounces-Nearly.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Chainlink (LINK) creator Sergey Nazarov says the recent launch of spot Bitcoin (BTC) exchange-traded funds (ETFs) is a &#8220;watershed moment&#8221; for the industry as it could mark the beginning of a massive influx of capital from global finance. In a new interview on Bloomberg Television, Nazarov says the &#8220;net new buyers&#8221; of the current crypto [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/28/sergey-nazarov-says-bitcoin-etfs-just-the-beginning-before-banks-launch-massive-tokenization-campaign/\">Sergey Nazarov Says Bitcoin ETFs ‘Just The Beginning’ Before Banks Launch Massive Tokenization Campaign</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-02-28T21:23:16.000Z",
+    "title": "Insights from BlackRock’s private Bitcoin party",
+    "url": "https://www.cryptopolitan.com/insights-blackrocks-private-bitcoin-party/",
+    "description": "Recently, BlackRock threw a private bash exclusively for its VIP clients and key players in the industry, with Swan Media being one of the privileged attendees eager to share the juicy details with their Private Clients. And that&#8217;s where we got all the deets! The gathering was obviously yet another a strategic move by BlackRock, [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-02-28T21:33:49.000Z",
+    "title": "BINANCE COIN PRICE ANALYSIS & PREDICTION (February 28) – BNB Takes Break After Testing $400, More Surge Underways",
+    "url": "https://nulltx.com/binance-coin-price-analysis-prediction-february-28-bnb-takes-break-after-testing-400-more-surge-underways/",
+    "description": "BNB started this month positively and increased by over 30% to reach a 22-month high on Monday. Since then, it paused buying pressure but it seemed to be footing another increase on the lower timeframe. The latest increase in BNB’s price was majorly footed by the established $290 support in [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-28T21:36:51.000Z",
+    "title": "Bitcoin whales invest $700b as BTC price heads to $70k",
+    "url": "https://crypto.news/bitcoin-whales-700-billion-btc-price/",
+    "description": "Bitcoin grabbed headlines again on Feb. 28, as prices surged to a daily timeframe peak of $64,000, its highest in 830 days.\n\nWith whale investment metrics still flashing green signals, a new all-time high could be on the cards for the pioneer cryptocurrency. "
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-28T21:21:44.000Z",
+    "title": "Former FTX, Alameda staff close $17m investment for crypto exchange Backpack",
+    "url": "https://crypto.news/ftx-alameda-investment-backpack/",
+    "description": "VCs are backing a crypto startup led by former FTX and Alameda Research employees as part of a new crypto exchange."
   }
 ]

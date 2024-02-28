@@ -1,93 +1,191 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-28T18:30:00.000Z",
-    "title": "Bitcoin ETFs and Crypto Separately Managed Accounts: What RIAs Need to Know",
-    "url": "https://www.coindesk.com/business/2024/02/28/bitcoin-etfs-and-crypto-separately-managed-accounts-what-rias-need-to-know/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "SMAs allow investors to get exposure to multiple digital assets within the same portfolio, including novel protocols or tokenized RWAs."
+    "date": "2024-02-28T19:25:12.000Z",
+    "title": "Morgan Stanley Evaluating Spot Bitcoin ETFs for Its Giant Brokerage Platform: Sources",
+    "url": "https://www.coindesk.com/business/2024/02/28/morgan-stanley-evaluating-spot-bitcoin-etfs-for-its-giant-brokerage-platform-sources/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Since spot bitcoin ETFs went live in January, chatter has increased about the imminent arrival of the big registered investment advisor (RIA) networks and broker-dealer platforms."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-02-28T18:49:03.000Z",
+    "title": "Retail Investors Are Sleeping on Bitcoin's March Towards All-Time Highs: IntoTheBlock",
+    "url": "https://www.coindesk.com/markets/2024/02/28/retail-investors-are-sleeping-on-bitcoins-march-towards-all-time-highs-intotheblock/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Metrics that previously signaled retail froth are still at low levels, suggesting that this phase of bitcoin's rally is driven by institutional investors, IntoTheBlock analysts said."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-28T19:32:07.000Z",
+    "title": "Bitcoin Is 12% Below Its All-Time High 52 Days From Halving",
+    "url": "https://decrypt.co/219493/bitcoin-12-percent-away-from-ath-52-days-before-halving",
+    "description": "Bitcoin surged over $63,600 before a flood of liquidations briefly knocking it back below $60,000."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-28T19:21:43.000Z",
+    "title": "Every Dog Coin Has Its Day: Dogecoin Hits Highest Price Since 2022 Amid Bitcoin Bull Run",
+    "url": "https://decrypt.co/219476/dogecoin-highest-price-since-2022-bitcoin-bull-run",
+    "description": "Dogecoin (DOGE) is the biggest gainer of the top 20 digital coins and tokens as Bitcoin's surge brings the rest of the market with it."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-28T18:48:48.000Z",
+    "title": "TON Price Pumps After Telegram Says It Will Share Ad Revenue via Crypto",
+    "url": "https://decrypt.co/219483/ton-pumps-telegram-share-ad-revenue-crypto",
+    "description": "Beginning Friday, Telegram channel owners will net 50% of revenue from ads displayed on their pages—to be paid out fully in TON."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-02-28T18:26:43.000Z",
-    "title": " SBF sentencing: Letters highlight efforts to recover FTX funds  ",
-    "url": "https://cointelegraph.com/news/sbf-sentencing-letters-highlight-efforts-recover-ftx-funds",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvM2E2NmM2NGUtZjFlYi00ODdkLWE2MDctMTlhYzlkOTFiYTdkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The FTX collapse and initial efforts to recover funds are described in new letters attached to Sam Bankman-Fried’s sentencing submission. </p>\n                    <p><p>New letters attached to Sam “SBF” Bankman-Fried's criminal court case are providing details on the days following FTX collapse and initial efforts to recover funds. </p><p>The legal counsel for the former FTX CEO filed a memo in the U.S. District Court in Manhattan on Feb. 27 <a href=\"https://cointelegraph.com/news/sbf-6-5-year-sentence-guards-invest-solana\">requesting a prison sentence of less than seven years</a> on multiple counts of fraud and money laundering. Along with the sentencing submission, a total of 29 supportive letters were attached for Judge Lewis Kaplan’s review.</p><p>At least two letters specifically address the earliest efforts to recover FTX’s customer funds after the November 2022 bank run that led to the exchange’s bankruptcy.</p><p><a href=\"https://cointelegraph.com/news/sbf-sentencing-letters-highlight-efforts-recover-ftx-funds\">Read more</a></p></p>\n                \n            "
+    "date": "2024-02-28T19:38:50.000Z",
+    "title": " HashKey OTC secures in-principal license approval in Singapore ",
+    "url": "https://cointelegraph.com/news/hashkey-otc-secures-in-principal-license-approval-singapore",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvNzM3OWI4MjAtYTYwOC00NDUzLWFiNWMtZjgxZDVhZThjZTI0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Its parent company, HashKey Group, attained unicorn status in January with a valuation of $1.2 billion.</p>\n                    <p><p>HashKey Technology Services, the over-the-counter trading arm of HashKey Group, has received in-principal approval on February 28 from the Monetary Authority of Singapore (MAS) for its major payments license (MPI) application to provide digital fiat and crypto services.</p><p>“With this in-principle approval, we're pleased to move a step closer to providing a comprehensive and regulated OTC trading solution that supports a wide range of digital payment tokens and fiat currencies,\" said Li Liang, CEO of HashKey OTC.</p><p>Currently, HashKey OTC operates under a licensing exemption in Singapore. The firm provides services to accredited investors and financial institutions with spot trading for 40 digital assets with liquidity support, fiat-to-crypto on-ramp services, and large notional trades.</p><p><a href=\"https://cointelegraph.com/news/hashkey-otc-secures-in-principal-license-approval-singapore\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-28T19:34:05.000Z",
+    "title": " Bitcoin layer-2 staking offers a superior alternative to interest rates ",
+    "url": "https://cointelegraph.com/news/bitcoin-layer-2-staking-offers-superior-alternative-interest-rates",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZjhkYzI5NjctMmQwMS00YjQ3LTg3NmItZGVmOTYyODRlZjg0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Unlike traditional interest rates, Bitcoin staking reward rates are determined by the users who participate rather than central banks.</p>\n                    <p><p>Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) transformation into a <a href=\"https://cointelegraph.com/learn/a-beginners-guide-on-blockchain-layer-2-scaling-solutions\">layer-2 (L2) solution</a> benefits every user. From supporting increased <a href=\"https://cointelegraph.com/learn/a-beginners-guide-on-blockchain-layer-2-scaling-solutions\">transaction speeds and volumes</a> to enhancing security and enabling smart contracts directly within Bitcoin, an L2’s technical advantages alone make it a major development within the Bitcoin ecosystem.</p><p>However, the effects of a Bitcoin L2 have the potential to reach far beyond technical improvement. The emergence of Bitcoin staking, which has been impossible until now, is a major step in legitimizing and mainstreaming crypto staking in general. As well as creating value for currency holders, staking creates a new kind of interest rate, defined by users rather than by central banks and government policy. This \"people’s interest rate\" offers an alternative to the flawed traditional interest rate systems — and the ability to stake a trusted and highly-recognized asset bolsters the feasibility and credibility of this vision.</p><p>Essentially, the introduction of a Bitcoin L2 means that instead of relying on the public internet to transmit data, Bitcoin transactions can now be conveyed across a layer-2 (or the data-link layer), guaranteeing data speeds and packet delivery regardless of traffic levels between the two parties.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-layer-2-staking-offers-superior-alternative-interest-rates\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-28T19:00:00.000Z",
+    "title": " Was the ETH price flash crash to $3,180 triggered by excessive leverage? ",
+    "url": "https://cointelegraph.com/news/was-ether-flash-crash-3180-triggered-by-excessive-leverage",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZGViZWFhNDMtYWMxNC00NmVlLTg5NWYtZDIyMTAwMzA3ZmViLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Demand for Ether leverage sharply increased in the past 24 hours, but data does not point to liquidations being the main driver for the price correction.</p>\n                    <p><p>Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) price gained 14% between Feb. 26 and Feb. 28, reaching the highest level in almost two years at $3,484, but the movement coincided with a surge in the cost for bullish leverage positions, which is somewhat concerning. Given that Ether experienced a flash crash down to $3,180 on Feb. 28, some investors believe that excessive optimism driven by fear of mis FOMO has increased the risk of cascading liquidations.</p><p>Firstly, one needs to note that some traders might need temporary leverage while they raise cash, either by selling other assets or waiting for deposits to kick in. Such movements are common in the heat of the market, even for professional arbitrage desks, and cause the funding rate to soar, which can last for a couple of days or even weeks.</p><p>Some analysts argue that the reason behind investors' increased optimism toward Ether’s price is the upcoming Dencun hard fork, scheduled for March 13. The upgrade introduces several improvements, including proto-danksharding, which aims to reduce layer-2 transaction fees. The expected upgrade would greatly reduce the data registry cost for Ethereum network's preferred scaling solution, rollups.</p><p><a href=\"https://cointelegraph.com/news/was-ether-flash-crash-3180-triggered-by-excessive-leverage\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-02-28T18:20:33.000Z",
-    "title": "Coinbase crashes due to technical issues after Bitcoin touches $63K",
-    "url": "https://cryptoslate.com/coinbase-crashes-due-to-technical-issues-after-bitcoin-touches-63k/",
-    "description": "<p>Coinbase is experiencing technical issues that have degraded site performance and caused many users to see a zero balance on their accounts. The exchange&#8217;s website and app are both down as of press time. Coinbase is also struggling with delayed Ethereum and ERC-20 transactions. Its status website indicates the exchange is aware of the issues [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-crashes-due-to-technical-issues-after-bitcoin-touches-63k/\">Coinbase crashes due to technical issues after Bitcoin touches $63K</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-28T19:14:51.000Z",
+    "title": "Ark Invest and 21Shares enhance Bitcoin ETF transparency with Chainlink integration",
+    "url": "https://cryptoslate.com/ark-invest-and-21shares-enhance-bitcoin-etf-transparency-with-chainlink-integration/",
+    "description": "<p>Ark Invest and 21Shares have integrated Chainlink Proof of Reserve on the Ethereum mainnet to bolster transparency of the ARK 21Shares Bitcoin ETF (ARKB), according to a Feb. 28 statement. With this move, investors in ARKB can verify that the ETF&#8217;s Bitcoin holdings completely support its value. This transparency is facilitated by the public accessibility [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ark-invest-and-21shares-enhance-bitcoin-etf-transparency-with-chainlink-integration/\">Ark Invest and 21Shares enhance Bitcoin ETF transparency with Chainlink integration</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-02-28T18:36:50.000Z",
-    "title": "Smart money accumulates $6 million in SHIB in 24 hours",
-    "url": "https://cryptobriefing.com/smart-money-accumulates-6-million-shib-24-hours/",
-    "description": "Smart money accumulated almost $6 million of the meme coin SHIB in the last 24 hours, according to on-chain data firm Nansen."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-02-28T18:36:18.000Z",
-    "title": "Crypto World in 2024 with Bitcoin Price at 60K: How to Stay Secure?",
-    "url": "https://cryptodaily.co.uk/2024/02/crypto-world-in-2024-with-bitcoin-price-at-60k-how-to-stay-secure",
-    "description": "With Bitcoin price recently reaching new heights, surpassing the $60,000 mark, excitement in the crypto market is just wild, particularly as it follows the introduction of Bitcoin ETFs, which have reignited widespread interest in the crypto sector."
+    "source": "CryptoSlate",
+    "date": "2024-02-28T18:47:44.000Z",
+    "title": "Binance drops Nigerian naira from P2P platform amid forex manipulation concerns",
+    "url": "https://cryptoslate.com/binance-drops-nigerian-naira-from-p2p-platform-amid-forex-manipulation-concerns/",
+    "description": "<p>Crypto exchange Binance has removed Nigeria&#8217;s fiat currency, Naira, from the national currencies it supports on its peer-to-peer platform, according to CryptoSlate sources. Nigeria has the highest peer-to-peer volume in the world due to the high level of adoption in the country, The development comes amid increasing regulatory concerns about Binance&#8217;s role in Nigeria&#8217;s foreign [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/binance-drops-nigerian-naira-from-p2p-platform-amid-forex-manipulation-concerns/\">Binance drops Nigerian naira from P2P platform amid forex manipulation concerns</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-28T18:25:11.000Z",
-    "title": "Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks",
-    "url": "https://cryptodaily.co.uk/2024/02/algotech-presale-revolutionizes-defi-scene-surpassing-1-million-raised-in-just-weeks",
-    "description": "Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks"
+    "date": "2024-02-28T19:19:06.000Z",
+    "title": "Shiba Inu Implements State-of-the-Art Encryption to Enhance Privacy & Security for Users and Developers",
+    "url": "https://cryptodaily.co.uk/2024/02/shiba-inu-implements-state-of-the-art-encryption-to-enhance-privacy-security-for-users-and-developers",
+    "description": "Shiba Inu Implements State-of-the-Art Encryption to Enhance Privacy & Security for Users and Developers"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-02-28T18:30:43.000Z",
-    "title": "Service Interruptions at Coinbase, Robinhood and Kraken as Bitcoin Soared to $64,000",
-    "url": "https://news.bitcoin.com/service-interruptions-at-coinbase-robinhood-and-kraken-as-bitcoin-soared-to-64000/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Service Interruptions at Coinbase, Robinhood and Kraken as Bitcoin Soared to $64,000\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/cobbs.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Wednesday, bitcoin&#x2019;s value ascended to the vicinity of $64,000, during which time users of Coinbase and Robinhood reported disruptions in service. As of Feb. 28, 2024, Coinbase&#x2019;s status page indicated the platform was suffering from &#x201C;degraded performance,&#x201D; while Robinhood&#x2019;s clientele voiced their grievances to the platform&#x2019;s support team. Technical Troubles Shadow Bitcoin&#x2019;s Climb to [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-02-28T18:59:47.000Z",
+    "title": "Cryptos Hidden Gems Attracting Major Whales: Nugget Rush (NUGX), Hashflow (HFT) and VeChain (VET)",
+    "url": "https://cryptodaily.co.uk/2024/02/cryptos-hidden-gems-attracting-major-whales-nugget-rush-nugx-hashflow-hft-and-vechain-vet",
+    "description": "There are many hidden gems in the world of cryptocurrencies just waiting to be discovered. Some of these gems have been catching the attention of big-time investors, also known as \"whales.\" These whales have been putting their money in top crypto coins like Nugget Rush (NUGX), Hashflow (HFT), and VeChain (VET)."
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T18:27:33.000Z",
-    "title": "Luxury brands tipped to embrace blockchain technology",
-    "url": "https://www.cryptopolitan.com/luxury-brands-embrace-blockchain-technology/",
-    "description": "In the heart of Paris, against the backdrop of the majestic Eiffel Tower, a convergence of titans from the realms of fashion, automotive, watches, and spirits mingled with pioneers of the crypto world. This rendezvous marked a significant milestone in the luxury industry’s journey into the realm of blockchain technology. Over the past three years, [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-28T19:38:29.000Z",
+    "title": "Seneca Protocol experiences $6m breach, SEN drops 65% ",
+    "url": "https://crypto.news/seneca-breach-sen-drops/",
+    "description": "Seneca Protocol saw a significant security breach, resulting in a dramatic 65% drop in the value of its native SEN token. "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T18:27:08.000Z",
-    "title": "Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks",
-    "url": "https://www.cryptopolitan.com/algotech-presale-revolutionizes-defi-scene-surpassing-1-million-raised-in-just-weeks/",
-    "description": "San Francisco, California, February 28th, 2024, Chainwire Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks. Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks!  Emerging Cryptocurrency trading platform Algotech (ALGT) known to be famous with its cutting-edge features. The TradFi platform features advanced algorithms to provide a competitive [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-28T19:14:36.000Z",
+    "title": "ARK Invest, 21Shares partner with Chainlink on Bitcoin ETF transparency",
+    "url": "https://crypto.news/bitcoin-etf-ark-21shares-chainlink/",
+    "description": "ARK Invest and 21Shares have partnered with Chainlink to enhance the transparency of its Bitcoin ETF. "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T18:22:40.000Z",
-    "title": "BREAKING: Coinbase users experience zero account balances amid Bitcoin surge",
-    "url": "https://www.cryptopolitan.com/coinbase-users-experience-zero-account-balances/",
-    "description": "Coinbase, a prominent U.S.-based cryptocurrency exchange, faced technical issues that led to some customers seeing their account balances drop to $0. This glitch occurred hours after Bitcoin experienced a notable rally, briefly surpassing the $60,000 mark for the first time since Nov. 2021. The cryptocurrency went on to approach $64,000 before it quickly retreated back [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-28T19:09:15.000Z",
+    "title": "XRP faces headwinds, DeeStream presale attracts Stellar investors",
+    "url": "https://crypto.news/xrp-faces-headwinds-deestream-presale-attracts-stellar-investors/",
+    "description": "XRP and Stellar (XLM) investors are tilting towards DeeStream (DST), a project whose presale is in progress"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-02-28T18:17:44.000Z",
-    "title": "Peruvian stock exchange announces spot Bitcoin ETF listings",
-    "url": "https://www.cryptopolitan.com/peruvian-stock-exchange-bitcoin-etf-listings/",
-    "description": "The Lima Stock Exchange (BVL), a pivotal institution in Peru’s financial landscape, has made a significant stride by announcing the inclusion of three Bitcoin spot exchange-traded fund (ETF) instruments on its trading platform. This strategic move expands investment opportunities for traditional investors in the country and signals a growing acceptance of digital assets within the [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-02-28T18:55:58.000Z",
+    "title": "Chainlink faces headwinds, Litecoin and Polkadot holders looking at DeeStream",
+    "url": "https://crypto.news/chainlink-faces-headwinds-litecoin-and-polkadot-holders-looking-at-deestream/",
+    "description": "Litecoin and Polkadot holders are exploring DeeStream in the ongoing presale"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-28T18:46:45.000Z",
+    "title": "Humanity Protocol secures investment from Polygon, Animoca founders",
+    "url": "https://crypto.news/humanity-protocol-polygon-animoca/",
+    "description": "Humanity Protocol, focusing on palm-scanning for digital identity, received funds intended to boost the blockchain's scalability, accessibility, and efficiency for the imminent testnet launch."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-02-28T18:44:17.000Z",
+    "title": "Dogecoin and Bitcoin holders exploring Kelexo",
+    "url": "https://crypto.news/dogecoin-and-bitcoin-holders-exploring-kelexo/",
+    "description": "Interest in the Kelexo (KLXO) presale has been rising, especially among Dogecoin (DOGE) and Bitcoin (BTC) holders"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-02-28T19:00:20.000Z",
+    "title": "Here Are The Factors Driving The Shiba Inu Recovery Above $0.00001",
+    "url": "https://www.newsbtc.com/shiba-inu/shiba-inu-recovery-0-00001/",
+    "description": "Shiba Inu (SHIB) is on a roll, having again broken above the crucial $0.00001 resistance level. This recent price surge from the meme coin is believed to be propelled by several factors that undoubtedly provide a bullish narrative for the crypto token.  Burn Rate Contributes To The Shiba Inu Rise Data from the burn tracking website Shibburn shows that SHIB’s burn rate has increased exponentially as of late, contributing to the meme coin’s latest price surge. According to Shibburn, almost 103 million SHIB tokens have burned in the last 24 hours, a 1913% increase from the previous day.  Related Reading: Crypto Analyst Sounds Warning Alarm: Last Chance To Buy Bitcoin And Ethereum Before Bull Run This is a welcome development, considering that Bitcoinist reported a crash in the SHIB token burns a week ago, with only about 2 million SHIB tokens burned on February 20. As such, a spike in the token burns automatically sends a bullish signal across the ecosystem. Token burning is one of the initiatives the SHIB community has adopted to help increase SHIB’s value. Meanwhile, the recent petition launched by the SHIB community urging Grayscale Investments to offer a Shiba Inu ETF is another factor that could be driving the meme coin’s bullish momentum. Although it seems like a reach, the possibility of launching an ETF that centres around the meme coin is one that provides optimism to SHIB investors.  Moreover, the impact that just rumours about an ETF launch could have on the crypto token in question has become evident, having seen how Bitcoin rose significantly on the back of reports that a Spot Bitcoin ETF would be approved.  Investors Are Betting More On SHIB Data from Coinglass shows that the open interest for SHIB has increased in the last 24 hours. This is significant as the derivatives market is known to impact a crypto token’s price discovery. The increase in open interest also suggests that traders are likely placing more bullish leveraged bets on the meme coin. Related Reading: Bitcoin Spot ETF Inflows Eye New Record As BTC Price Touches $57,000 This increased interest in the Shiba Inu ecosystem is not surprising, considering how much work the team continues to put in to ensure that the crypto token stands out as more than a meme coin. Earlier this month, they secured a strategic partnership with K9 Finance, a liquid staking derivatives (LSD) platform.  This move will ultimately benefit SHIB as more token burns are expected to be carried out due to increased trading activity on Shibarium. More liquidity is also likely to flow into the ecosystem soon enough as K9 Finance recently announced its token generation event, which will take place on March 7.  At the time of writing, SHIB is trading at around $0.00001075, up over 5% in the last 24 hours, according to data from CoinMarketCap.  SHIB price showing strength at $0.000011 &#124; Source: SHIBUSD on Tradingview.com Featured image from CryptoRank, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-02-28T18:38:37.000Z",
-    "title": "Bitcoin ETF Frenzy: Record $2.4 Billion Trading Turnover in a Single Day – Can it Push BTC Price to $65,000?",
-    "url": "https://www.crypto-news-flash.com/bitcoin-etf-frenzy-record-2-4-billion-trading-turnover-in-a-single-day-can-it-push-btc-price-to-65000/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-etf-frenzy-record-2-4-billion-trading-turnover-in-a-single-day-can-it-push-btc-price-to-65000",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-11.48.10-Create-an-image-that-incorporates-key-elements-related-to-the-surge-in-Bitcoin-ETFs-including-a-visual-representation-of-700-million-inflows-into-th-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Data shows that Bitcoin ETFs broke their all-time high this week, with trading turnover surpassing $2.4 billion on Monday. Blackrock’s iShares Bitcoin Trust (IBIT) accounted for around $1.3 billion, extending its market dominance. Recent data shows that U.S.-listed spot Bitcoin ETFs have consistently traded above  $2 billion. According to Eric Balchunas, a senior ETF analyst [...]"
+    "date": "2024-02-28T19:37:07.000Z",
+    "title": "Chainlink Price Set to Hit $20 Analysts Signal Explosion of Incoming Capital, ALGT Might Go 10X",
+    "url": "https://www.crypto-news-flash.com/chainlink-price-set-to-hit-20-analysts-signal-explosion-of-incoming-capital-algt-might-go-10x/?utm_source=rss&utm_medium=rss&utm_campaign=chainlink-price-set-to-hit-20-analysts-signal-explosion-of-incoming-capital-algt-might-go-10x",
+    "description": "<img width=\"1200\" height=\"672\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592-300x168.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592-768x430.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-28T223454.592-450x252.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Despite the positive momentum of the broader crypto market, Chainlink (LINK) is struggling to break past the $20 resistance. Data from CoinMarketCap suggests that LINK is down 1.65% in the past week. Given the current landscape of the project, investors are now reconsidering their investments in Chainlink.  &#160; Chainlink’s (LINK) Current Worth And Projected Value [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-28T18:27:03.000Z",
-    "title": "Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks",
-    "url": "https://coinedition.com/algotech-presale-revolutionizes-defi-scene-surpassing-1-million-raised-in-just-weeks/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/02/moope_1709141054NP83iHeVKf-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>San Francisco, California, February 28th, 2024, Chainwire Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks. Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks!  Emerging Cryptocurrency trading platform Algotech (ALGT) known to be famous with its cutting-edge features. The TradFi platform features advanced algorithms to provide a competitive [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/algotech-presale-revolutionizes-defi-scene-surpassing-1-million-raised-in-just-weeks/\">Algotech Presale Revolutionizes DeFi Scene, Surpassing $1 Million Raised in Just Weeks</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T19:32:23.000Z",
+    "title": "Kraken Introduces Institutional Arm to Seize Opportunities in Bitcoin ETF Market Amidst BTC Boom",
+    "url": "https://www.crypto-news-flash.com/kraken-introduces-institutional-arm-to-seize-opportunities-in-bitcoin-etf-market-amidst-btc-boom/?utm_source=rss&utm_medium=rss&utm_campaign=kraken-introduces-institutional-arm-to-seize-opportunities-in-bitcoin-etf-market-amidst-btc-boom",
+    "description": "<img width=\"1260\" height=\"710\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Kraken -Bitcoin ETF\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2.jpg 1260w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2-1200x676.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2-768x433.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2-150x85.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Bitcoin-ETF-2-450x254.jpg 450w\" sizes=\"(max-width: 1260px) 100vw, 1260px\" />Kraken launches a new division targeting big investors interested in Bitcoin ETFs. Competition heats up among custodians as Kraken challenges Coinbase and Binance. Cryptocurrency exchange Kraken has unveiled a new division to provide tailored services to institutional investors as it sets its sights on a share of the burgeoning Bitcoin exchange-traded fund (ETF) market. The [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T19:27:08.000Z",
+    "title": "Breaking News: Börse Frankfurt Tips XRP as Potential World Reserve Currency",
+    "url": "https://www.crypto-news-flash.com/breaking-news-borse-frankfurt-tips-xrp-as-potential-world-reserve-currency/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-news-borse-frankfurt-tips-xrp-as-potential-world-reserve-currency",
+    "description": "<img width=\"1876\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-silver-coins-with-a-gray-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background.jpg 1876w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-300x192.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-1024x655.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-768x491.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-1536x983.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-150x96.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-450x288.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-silver-coins-with-a-gray-background-1200x768.jpg 1200w\" sizes=\"(max-width: 1876px) 100vw, 1876px\" />Börse Frankfurt has tipped XRP as a viable reserve currency for global transactions. XRP’s speed, low cost and reliable technology complements its chances to assume this role. In a recent interview, Börse Frankfurt, the leading stock exchange in Germany, has sparked speculations by tipping Ripple Lab Inc&#8217;s associated cryptocurrency, XRP, as a potential world reserve [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T19:12:07.000Z",
+    "title": "Sam Bankman-Fried Seeks 6.5-Year or Less Prison Time in FTX Fraud Case Ahead of Sentencing",
+    "url": "https://www.crypto-news-flash.com/sam-bankman-fried-seeks-6-5-year-or-less-prison-time-in-ftx-fraud-case-ahead-of-sentencing/?utm_source=rss&utm_medium=rss&utm_campaign=sam-bankman-fried-seeks-6-5-year-or-less-prison-time-in-ftx-fraud-case-ahead-of-sentencing",
+    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"FTX Ex-CEO SBF Hints at Appeal\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal.png 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/FTX-Ex-CEO-SBF-Hints-at-Appeal-1536x864.png 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />SBF was found guilty of all the fraud charges and is currently awaiting final sentencing. The SBF legal team is currently fighting for the former FTX CEO to get lower sentencing due to his charitable deeds to society. The final sentencing fate for the former FTX CEO Sam Bankman-Fried is upon the United States District [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T19:08:08.000Z",
+    "title": "Bitcoin Bulls Charge Ahead: $69K in Sight as Pre-Halving Rally Ignites",
+    "url": "https://www.crypto-news-flash.com/bitcoin-bulls-charge-ahead-69k-in-sight-as-pre-halving-rally-ignites/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-bulls-charge-ahead-69k-in-sight-as-pre-halving-rally-ignites",
+    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-300x175.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-768x448.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-150x88.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-450x263.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Optimistic sentiment, institutional interest, and historical uptrends tied to Bitcoin&#8217;s halving event fuel the anticipation of surpassing its $69,000 all-time high in March. The soaring trading volumes of Bitcoin ETFs, notably the $IBIT ETF, reflect robust investor interest, with $520 million in single-day inflows, marking the largest intake for a Bitcoin ETF. Bitcoin bulls continue [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T19:02:42.000Z",
+    "title": "SEC Seeks Extension in XRP Lawsuit Deadlines: Ripple Case Takes New Turn",
+    "url": "https://www.crypto-news-flash.com/sec-seeks-extension-in-xrp-lawsuit-deadlines-ripple-case-takes-new-turn/?utm_source=rss&utm_medium=rss&utm_campaign=sec-seeks-extension-in-xrp-lawsuit-deadlines-ripple-case-takes-new-turn",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-06-07.45.07-Revise-the-image-to-focus-more-on-the-legal-battle-between-Ripple-and-the-U.S.-Securities-and-Exchange-Commission-SEC-specifically-highlighting-the-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The SEC has requested to extend the deadline for remedies-related briefing in the Ripple lawsuit. This extension leads to speculation about a potential settlement between Ripple and the SEC. The U.S. Securities and Exchange Commission (SEC) has requested a deadline extension for remedies-related briefing in the ongoing lawsuit against Ripple. This move has led to [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-02-28T18:49:50.000Z",
+    "title": "Coinbase to Introduce Asset Recovery for Unsupported Blockchains: BNB Chain and Polygon Included",
+    "url": "https://www.crypto-news-flash.com/coinbase-to-introduce-asset-recovery-for-unsupported-blockchains-bnb-chain-and-polygon-included/?utm_source=rss&utm_medium=rss&utm_campaign=coinbase-to-introduce-asset-recovery-for-unsupported-blockchains-bnb-chain-and-polygon-included",
+    "description": "<img width=\"1648\" height=\"920\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452.jpg 1648w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-300x167.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-1024x572.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-768x429.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-1536x857.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-24x13.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-36x20.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/04/coinbase-russia-56498452-48x27.jpg 48w\" sizes=\"(max-width: 1648px) 100vw, 1648px\" />The new Coinbase initiative will allow users to initiate the recovery process by providing their transaction ID and the inbound Coinbase wallet address. The introduction of Coinbase&#8217;s asset recovery tool highlights the ongoing challenges faced by cryptocurrency exchanges and users in retrieving lost assets. In a major development, crypto exchange Coinbase announced that it will [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-02-28T18:53:57.000Z",
+    "title": "Bitcoin Breaks All-Time Highs in Nearly Every Country on Earth As Analysts Forecast Altcoin ‘Mania’ Phase",
+    "url": "https://dailyhodl.com/2024/02/28/bitcoin-breaks-all-time-highs-in-nearly-every-country-on-earth-as-analysts-predict-altcoin-mania-phase/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2021/12/meltdown-good-for-bitcoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Bitcoin&#8217;s (BTC) price has now reached all-time highs (ATH) in the vast majority of countries on earth. The leading crypto asset&#8217;s sudden surge to $64,000 on Monday triggered new highs in the Swedish krona, the Australian dollar, the Canadian dollar, the British pound, the Russian ruble, the Norweigan krone and the Chinese yuan. BTC&#8217;s price [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/28/bitcoin-breaks-all-time-highs-in-nearly-every-country-on-earth-as-analysts-predict-altcoin-mania-phase/\">Bitcoin Breaks All-Time Highs in Nearly Every Country on Earth As Analysts Forecast Altcoin ‘Mania’ Phase</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,44 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-02-29T23:04:10.000Z",
-    "title": "Bitcoin Is Poised for Its Biggest Monthly Gain in 3 Years",
-    "url": "https://www.coindesk.com/markets/2024/02/29/bitcoin-is-poised-for-its-biggest-monthly-gain-in-3-years/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The cryptocurrency has more room to run, analysts say."
+    "date": "2024-02-29T23:35:00.000Z",
+    "title": "StarkWare Unveils New 'Stwo' Cryptographic Prover That's 'Blazingly Fast'",
+    "url": "https://www.coindesk.com/tech/2024/02/29/starkware-unveils-new-stwo-cryptographic-prover-thats-blazingly-fast/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The upgraded prover should lead to faster and cheaper transactions, according to StarkWare. The news comes just a week after StarkWare and Polygon announced Circle STARKS, a new type of cryptographic proof."
   },
   {
-    "source": "CoinDesk",
-    "date": "2024-02-29T22:41:57.000Z",
-    "title": "Retiring CEO of Giant Asset Manager Vanguard Shunned Bitcoin ETFs",
-    "url": "https://www.coindesk.com/business/2024/02/29/retiring-ceo-of-giant-asset-manager-vanguard-shunned-bitcoin-etfs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The question some are now asking is whether the famously conservative firm will pivot on crypto."
+    "source": "Cointelegraph",
+    "date": "2024-02-29T23:35:00.000Z",
+    "title": " StarkWare launches open-source ZK prover at ETH Denver  ",
+    "url": "https://cointelegraph.com/news/stark-ware-open-source-zk-prover",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYTIzNGM3ZDktNmVlYi00ZWM1LWJiMWItYTdmZGZkNzQ3Yjg2LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The new open source ZK prover aims to reduce latency and reduce transaction costs for end users.</p>\n                    <p><p data-ct-non-breakable=\"true\">StarkWare has announced the launch of Stwo, an open-sourced prover based on zero-knowledge (ZK) technology that aims to increase proving latency and reduce transaction fees for end users.</p><p>A prover is needed on Starknet to compress transactions by generating cryptographic proofs. By generating faster proofs, Stwo will reduce StarkWare’s processing costs, ultimately resulting in lower user fees, according to a Feb. 29 press release shared with Cointelegraph.</p><p>According to Oren Katz, the COO of StarkWare, the new Stwo will unlock new possibilities for the protocol. He said: </p><p><a href=\"https://cointelegraph.com/news/stark-ware-open-source-zk-prover\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-02-29T23:05:25.000Z",
-    "title": "ATOR duilds deep partnerships in renewed mission to build largest privacy DePIN",
-    "url": "https://cryptoslate.com/ator-duilds-deep-partnerships-in-renewed-mission-to-build-largest-privacy-depin/",
-    "description": "<p>In an age where every aspect of people’s internet activity is tracked and analyzed, and trust in corporations to uphold internet privacy is at an all-time low, ATOR has staked their belief that only a decentralized solution can deliver true internet privacy. In their mission to build a universal privacy layer for the internet, ATOR [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ator-duilds-deep-partnerships-in-renewed-mission-to-build-largest-privacy-depin/\">ATOR duilds deep partnerships in renewed mission to build largest privacy DePIN</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-02-29T23:30:59.000Z",
+    "title": "Record high realized cap shows unprecedented economic investment in Bitcoin",
+    "url": "https://cryptoslate.com/record-high-realized-cap-shows-unprecedented-economic-investment-in-bitcoin/",
+    "description": "<p>Bitcoin&#8217;s realized cap is a nuanced and innovative metric for assessing the valuation of Bitcoin that differs significantly from traditional market capitalization. Unlike the market cap, which simply multiplies the current market price of Bitcoin by the total number of coins in circulation, the realized cap offers a more granular and economically meaningful insight into [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/record-high-realized-cap-shows-unprecedented-economic-investment-in-bitcoin/\">Record high realized cap shows unprecedented economic investment in Bitcoin</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-02-29T23:25:23.000Z",
+    "title": "Vanguard CEO to retire but firm unlikely to change anti-crypto stance",
+    "url": "https://cryptoslate.com/vanguard-ceo-to-retire-but-firm-unlikely-to-change-anti-crypto-stance/",
+    "description": "<p>Vanguard CEO Tim Buckley announced he will retire at the end of the year, but his departure is unlikely to shift the firm&#8217;s stance toward Bitcoin and crypto products. The company is seeking replacements from both internal and external candidates. It has also promoted its Chief Investment Officer (CIO), Greg Davis, to the position of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/vanguard-ceo-to-retire-but-firm-unlikely-to-change-anti-crypto-stance/\">Vanguard CEO to retire but firm unlikely to change anti-crypto stance</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-02-29T23:30:00.000Z",
+    "title": "Crypto Analyst Who Nailed 2018’s Bear Market Bottom Calls Memecoin a ‘Kingmaker Trade’ for Current Cycle",
+    "url": "https://www.cryptoglobe.com/latest/2024/02/crypto-analyst-who-nailed-2018s-bear-market-bottom-calls-memecoin-a-kingmaker-trade-for-current-cycle/",
+    "description": "A popular cryptocurrency analyst known in the space for accurately predicting Bitcoin’s bear market bottom back in 2018 has recently pointed to a meme-inspired cryptocurrency as his “kingmaker trade” for this cycle. In a post shared on the microblogging platform X (formerly known as Twitter), pseudonymous cryptocurrency analyst Bluntz Capital pointed to Dogwifhat ($WIF) as […]\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-29T23:30:11.000Z",
+    "title": "Report: Election Concerns Halt South Korea’s Crypto and ETF Regulation Ease",
+    "url": "https://news.bitcoin.com/report-election-concerns-halt-south-koreas-crypto-and-etf-regulation-ease/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Report: Election Strategy Halts South Korea&#039;s Crypto and ETF Regulation Ease\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />South Korea has delayed its efforts to relax its crypto regulations and the prohibition on spot bitcoin exchange-traded funds (ETFs). This development follows closely behind the People Power Party&#x2019;s contemplation of removing certain regulations and the ETF ban before the commencement of South Korea&#x2019;s general election. South Korea Holds Back on Crypto Regulation and Reported [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-29T22:54:29.000Z",
-    "title": "Blast Launches Mainnet, Securing $2.3 Billion in Ether and Stablecoins",
-    "url": "https://www.cryptopolitan.com/blast-mainnet-launch-securing-2-3-billion/",
-    "description": "Blast, a new layer 2 blockchain built on Ethereum, has just kicked off its mainnet with an exciting feature: the ability for users to earn rewards directly on their Ether and stablecoin holdings. This platform, known as an optimistic rollup, offers a unique chance for users to grow their assets through two main avenues: Ether [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-02-29T23:00:53.000Z",
-    "title": "FOMO Fuels Bitcoin’s 35% Jump, Options Flow Hints At Bigger Upswing",
-    "url": "https://www.newsbtc.com/bitcoin-news/fomo-fuels-bitcoin-35-jump-options-flow-hints-at-bigger-upswing/",
-    "description": "The price of Bitcoin seems on the brink of blasting past its all-time high (ATH) at the high area of its current levels. The cryptocurrency has been on a bull run due to the launch of spot Bitcoin Exchange Traded Funds (ETF), which officially onboarded institutions to the nascent sector. Related Reading: Shiba Inu (SHIB) Price Skyrockets By 28%: 4 Key Reasons As of this writing, Bitcoin (BTC) trades at around $62,900 with a 3% profit in the last 24 hours. In the previous week, the cryptocurrency recorded a critical 22% profit. It stood as one of the three top gainers in the top 10 by market cap, only surpassed by Solana (25%) and Dogecoin (57%) in the same period. Bitcoin-Based Derivatives Hint At Further Gains Data from the derivatives platform Deribit indicates a spike in long positions by Options operators. Since early February, these traders have accumulated important call (buy) contracts with a strike price above $65,000. At first, as the report indicates, the increase in bullish positions was thought to be part of a Bitcoin “Halving” strategy. However, the BTC ETF Flows seem to be the key component behind the rally. As cryptocurrency entered the $60,000 area, several operators rushed to accumulate call contracts, leading to a Fear Of Missing Out (FOMO) rally to its current levels. The chart below shows that the FOMO buying began when BTC breached the $57,000 level. The spike in trading activity during yesterday&#8217;s session led to a significant jump in Implied Volatility (IV). Overleveraged positions further propelled the metric, Deribit stated: The 62k to 64k surge was so quick, and with high leverage across the whole system, that when sales hit the market a cascade sent BTC down to 59k in 15mins, and some Alts (also massively leveraged) dropped 50% on some exchanges before promptly bouncing as BTC jumped to 61.5k. As the market continues to experience sudden moves due to the high IV, there is little change in the market structure in the derivatives sector. In other words, Deribit still records a lot of bullish positions for the coming months, which suggests optimistic conviction by these players. BTC Price On The Short Timeframe Despite the bull run, the Bitcoin price could dip as euphoria takes over the market. According to economist Alex Krüeger, the spike in trading volume across the derivatives sector indicates the formation of a “local top.” The analyst believes that retail has returned to the market driven by FOMO, which often hints at short-term predicaments for long traders. Krüger predicted further gains into the $70,000 area via his official X account and then a drop into the $55,000 area. Related Reading: Dogecoin Rallies 50% To Beat Out Avalanche, BONK Overtakes PEPE The analyst stated: ATH are inches away. That&#8217;s price discovery territory. Thus very easy for things to get even crazier. This is just not where one opens new longs. Too easy to get a quick flush out of nowhere. Ideally we see funding cool down and price consolidate below ATH then break out. Cover image from Dall-E, Chart from Tradingview"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-02-29T23:01:09.000Z",
-    "title": "Dogecoin (DOGE) Futures Reach Record-Setting Open Interest at $1,000,000,000",
-    "url": "https://dailyhodl.com/2024/02/29/dogecoin-doge-futures-reach-record-setting-open-interest-at-1000000000/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/01/doge-Becomes-Third-Fastest-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>New data reveals meme asset Dogecoin (DOGE) futures have reached a record-setting $1 billion worth of open interest. According to market intelligence platform Coinglass, the dog-themed memecoin has hit an all-time high of $1 billion worth of open interest, or the total number of outstanding derivatives contracts for a given asset. The data unveils that [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/02/29/dogecoin-doge-futures-reach-record-setting-open-interest-at-1000000000/\">Dogecoin (DOGE) Futures Reach Record-Setting Open Interest at $1,000,000,000</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-02-29T23:33:01.000Z",
+    "title": "Clone Launches Public Mainnet, Introducing SUI to Solana’s Ecosystem for the First Time",
+    "url": "https://www.cryptopolitan.com/clone-launches-public-mainnet-introducing-sui-to-solanas-ecosystem-for-the-first-time/",
+    "description": "Tortola, British Virgin Islands, February 29th, 2024, Chainwire Clone, the groundbreaking open-source protocol for trading non-native tokens on the Solana blockchain, has announced the public mainnet launch of Clone Markets and Clone Liquidity. The launch, taking place on March 1st, will facilitate the introduction of highly liquid markets for non-native assets via Clone&#8217;s innovative &#8220;cloned [&#8230;]"
   }
 ]

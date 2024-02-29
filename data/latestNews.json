@@ -1,51 +1,100 @@
 [
   {
-    "source": "CryptoSlate",
-    "date": "2024-02-29T16:22:54.000Z",
-    "title": "MicroStrategy’s MSTR shares rally, earns spot among top 500 US companies",
-    "url": "https://cryptoslate.com/microstrategys-mstr-shares-rally-earns-it-a-spot-among-top-500-us-companies/",
-    "description": "<p>MicroStrategy has surged into the elite ranks of the top 500 US companies by market capitalization, riding a recent bullish wave in its stock performance. Data reveals a remarkable ascent for MicroStrategy, climbing 46 places in just one day to secure the 427th spot among America&#8217;s largest publicly traded firms as of Feb. 29. This [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/microstrategys-mstr-shares-rally-earns-it-a-spot-among-top-500-us-companies/\">MicroStrategy&#8217;s MSTR shares rally, earns spot among top 500 US companies</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "CoinDesk",
+    "date": "2024-02-29T17:00:00.000Z",
+    "title": "Bitcoin Could Slide to $42K After Halving Hype Subsides, JPMorgan Says",
+    "url": "https://www.coindesk.com/business/2024/02/29/bitcoin-could-slide-to-42k-after-halving-hype-subsides-jpmorgan-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The bitcoin production cost has historically acted as a lower boundary to the cryptocurrency’s price, the report said."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-02-29T16:45:00.000Z",
+    "title": "Crypto for Advisors: Private Credit Meets the Blockchain",
+    "url": "https://www.coindesk.com/business/2024/02/29/crypto-for-advisors-private-credit-meets-the-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "In the world of digital assets, real world assets on-chain private credit brings the process of lending and borrowing against real-world assets onto a blockchain."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-02-29T17:05:38.000Z",
+    "title": "Protocol Village: Alchemy Launches 'Embedded Accounts' to Onboard Users to Web3",
+    "url": "https://www.coindesk.com/tech/2024/02/28/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of Feb. 29-March 6."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-02-29T16:56:39.000Z",
+    "title": "Top Dogs: Dogecoin, Shiba Inu and Bonk Outpace Bitcoin, Ethereum Gains",
+    "url": "https://decrypt.co/219694/dogecoin-shiba-inu-bonk-outpace-bitcoin-ethereum-gains",
+    "description": "Dogs are leading the pack and the rest of the altcoins aren’t even close."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-29T17:00:00.000Z",
+    "title": " OKX adds Uniswap API on DEX, launches gas-free trading  ",
+    "url": "https://cointelegraph.com/news/okx-dex-uniswap-gas-free-trading-wallet",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvZjhkYTg0OWEtNjg3OC00OGVjLWI1OTUtMDZmOWFmODZjMWVhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OKX chief innovation officer Jason Lau said that the new feature eliminates common DeFi headaches like slippage, MEV attacks and failed transactions. </p>\n                    <p><p data-ct-non-breakable=\"true\">Crypto exchange OKX has integrated Uniswap Labs’ application programming interface (API) into its decentralized exchange (DEX) to allow gas-free trading through a feature called “Snap.” </p><p>OKX chief innovation officer Jason Lau told Cointelegraph that the feature allows simpler decentralized token swapping. Lau explained that the integration with Uniswap gives the OKX DEX access to the UniswapX protocol and is connected to its liquidity. </p><p>When asked how the integration allows no-fee swaps, Lau explained that this is done through a new model, with liquidity providers covering the fees. He believes that the process is convenient for the users and would allow for some savings. He explained: </p><p><a href=\"https://cointelegraph.com/news/okx-dex-uniswap-gas-free-trading-wallet\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-02-29T16:49:27.000Z",
+    "title": " Industrial metaverse prototype makes managing workers look like a tycoon game ",
+    "url": "https://cointelegraph.com/news/industrial-metaverse-web3-prototype-managing-like-tycoon-game",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvMjJiMTYyN2ItZTY1Ni00NTFiLWI3OGMtYWYyOTkzNjUzYTIxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bosses of the future may be able to view employee physiological status at a glance thanks to the industrial metaverse.</p>\n                    <p><p>New research from a pair of scientists in Finland details how populating the metaverse with digital twins called “Metahumans” could turn employee management into something more like a video game than a traditional optimisation program. </p><p>Status quo employee management systems monitor productivity, time on schedule, and other step-based metrics. Managers of the future, however, may be able to take advantage of the “industrial metaverse” where at-a-glance statistics and attributes for workers could be made available in real-time. </p><p>In their paper <a href=\"https://arxiv.org/ftp/arxiv/papers/2402/2402.15340.pdf\" target=\"_blank\" rel=\"noopener nofollow\">dubbed</a> “MetaStates: An Approach for Representing Human Workers Psychophysiological States in the Industrial Metaverse,” researchers from Tampere University described a system by which digital twins — graphical avatars used in the metaverse to represent humans in the real world — can be modified to display relevant data for workers. </p><p><a href=\"https://cointelegraph.com/news/industrial-metaverse-web3-prototype-managing-like-tycoon-game\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-02-29T16:53:12.000Z",
+    "title": "Solana’s MixMob secures license to add the original Stormtrooper to its racing game",
+    "url": "https://cryptobriefing.com/solana-mixmob-secures-license-to-add-original-stormtrooper/",
+    "description": "The iconic Stormtrooper outfit from \"Star Wars: A New Hope\" will be available for MixMob players, with access to early adopters first."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-02-29T16:27:23.000Z",
-    "title": "Why Cosmos (ATOM), Optimism (OP) and NEAR Protocol (NEAR) Could Be the First to Skyrocket During Altseason",
-    "url": "https://cryptodaily.co.uk/2024/02/why-cosmos-atom-optimism-op-and-near-protocol-near-could-be-the-first-to-skyrocket-during-altseason",
-    "description": "Discover how Cosmos (ATOM), Optimism (OP), and NEAR Protocol (NEAR) are revolutionizing blockchain scalability and why they're the hot picks in today's bullish crypto market. Click to uncover the potential of these rising altcoin stars!"
+    "date": "2024-02-29T16:51:03.000Z",
+    "title": "Aptos Announces Partnership With Jambo, ALGT Expected to Surge After Hitting 2,000 Unique Holders",
+    "url": "https://cryptodaily.co.uk/2024/02/aptos-announces-partnership-with-jambo-algt-expected-to-surge-after-hitting-2000-unique-holders",
+    "description": "Discover the latest crypto news as Aptos partners with Jambo, paving the way for Web3 accessibility. Learn about the surge of Algotech (ALGT) and its potential impact on the market."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-02-29T17:00:38.000Z",
+    "title": "’10x Surge’ — Coinbase Traffic Overwhelmed Initial Demand Projections Amid Bitcoin’s Rise to $64K",
+    "url": "https://news.bitcoin.com/10x-surge-coinbase-traffic-overwhelmed-initial-demand-projections-amid-bitcoins-rise-to-64k/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"&#039;10x Surge&#039; — Coinbase Traffic Overwhelmed Initial Demand Projections Amid Bitcoin&#039;s Rise to $64K\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/ddssaa.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The crypto enterprise Coinbase, rooted in San Francisco, experienced an influx of online visits that surpassed the tenfold increase anticipated by their projections. Brian Armstrong, the CEO of Coinbase, shared updates about the heightened traffic following the exchange&#x2019;s operational hiccups, which coincided with bitcoin&#x2019;s climb to $64,000 on Wednesday. Coinbase Traffic Spike Surpasses Expectations Coinbase, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-29T16:35:31.000Z",
-    "title": "Canada Witnesses Surge in AI-Driven Fraud Attempts",
-    "url": "https://www.cryptopolitan.com/ai-driven-fraud-surge-in-canada/",
-    "description": "A new poll conducted during RBC’s Fraud Prevention Month has highlighted a growing concern among Canadians regarding the escalation of AI-driven fraud attempts, particularly those powered by artificial intelligence (AI) technologies like deepfakes and voice cloning. This unsettling trend underscores the increasing sophistication of fraud schemes, exploiting advanced AI to craft more convincing scams, thus [&#8230;]"
+    "date": "2024-02-29T16:57:00.000Z",
+    "title": "Uniswap Price Prediction 2024-2033: Will UNI Keep Steady?",
+    "url": "https://www.cryptopolitan.com/uniswap-price-prediction/",
+    "description": "Uniswap Price Prediction 2024-2033 For anyone considering the switch from centralized finance (CeFi) to decentralized finance (DeFi), here&#8217;s a thought: Why do we constantly update the Uniswap Price Prediction? The fight is on for the survival of the fittest crypto project, and we need to keep you informed despite social media maneuvers by certain quarters! [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-29T16:10:30.000Z",
-    "title": "Crypto markets on high FOMO alert – Here’s what’s happening",
-    "url": "https://www.cryptopolitan.com/crypto-markets-on-high-fomo-alert/",
-    "description": "The crypto markets are currently experiencing heightened levels of FOMO (Fear of Missing Out), leading to significant volatility and speculative trading activity. FOMO in crypto refers to the fear investors feel when they perceive they are missing out on potential profits. Here&#8217;s what&#8217;s happening: Crypto markets shift to extreme greed The crypto market often experiences [&#8230;]"
+    "date": "2024-02-29T16:44:05.000Z",
+    "title": "Tezos Price Prediction 2024-2033: How High can XTZ Rise?",
+    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
+    "description": "Tezos Price Prediction 2024-2033 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-02-29T16:36:14.000Z",
-    "title": "BlackRock to launch Bitcoin ETF in Brazil",
-    "url": "https://crypto.news/bitcoin-etf-blackrock-brazil/",
-    "description": "BlackRock unveiled its partnership with Brazil's B3 stock exchange to launch the iShares Bitcoin Trust ETF's Brazilian Depositary Receipts on Thursday."
+    "date": "2024-02-29T17:08:01.000Z",
+    "title": "5 ways to earn cryptocurrency in 2024 ",
+    "url": "https://crypto.news/5-ways-to-earn-cryptocurrency-in-2024/",
+    "description": "This article will explore five ways to earn cryptocurrency based on the current market conditions"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-02-29T16:38:15.000Z",
-    "title": "Polygon (MATIC) Headed for $2? Analysis Suggests Breakout Imminent Amid Bullish Trend",
-    "url": "https://www.crypto-news-flash.com/polygon-matic-headed-for-2-analysis-suggests-breakout-imminent-amid-bullish-trend/?utm_source=rss&utm_medium=rss&utm_campaign=polygon-matic-headed-for-2-analysis-suggests-breakout-imminent-amid-bullish-trend",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon-MATIC-logo-floating-on-a-dark-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Polygon (MATIC) boasts of a mix of strain and potential boom on its path toward $2. Fundamentals within its ecosystem point to an imminent uptrend. As the crypto market experiences a wave of bullish sentiment, investors are eyeing potential breakout opportunities, particularly with Polygon (MATIC). Despite a recent downturn in its daily chart, signs point [...]"
+    "source": "BTCManager",
+    "date": "2024-02-29T17:00:57.000Z",
+    "title": "Pi Network price prediction: Is Pi coin a good investment?",
+    "url": "https://crypto.news/pi-network-pi-price-prediction/",
+    "description": "Read on as we explore the history, value, and potential future price prediction of Pi Network. The Pi Network is a decentralized crypto mining platform that was developed in 2018 by Stanford University alumni Dr. Nicolas Kokkalis and Dr. Chengdiao&#8230;"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-02-29T16:28:09.000Z",
-    "title": "4 Coins Poised for Takeoff? Expert Dives Deep into Their Dynamics",
-    "url": "https://coinedition.com/4-coins-poised-for-takeoff-expert-dives-deep-into-their-dynamics/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"XRP,_ADA,_ETH,_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/XRP_ADA_ETH_and_SOL_Poised_for_Takeoff_Ben_Armstrong_Forecasts-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent YouTube video, cryptocurrency influencer Ben Armstrong discussed price changes for XRP, Cardano, Ethereum, and Solana. Armstrong believes each crypto is leading to the possibility of a big price movement. According to Armstrong, the recent decline in XRP value is a deliberate move to acquire liquidity, hinting at a potential uptick in price. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/4-coins-poised-for-takeoff-expert-dives-deep-into-their-dynamics/\">4 Coins Poised for Takeoff? Expert Dives Deep into Their Dynamics</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-02-29T16:42:41.000Z",
+    "title": "Dzengi.com: Regulated platform for trading crypto, tokenized shares, and indices",
+    "url": "https://crypto.news/dzengi-com-regulated-platform-for-trading-crypto-tokenized-shares-and-indices/",
+    "description": "Dzengi.com is a fully regulated cryptocurrency exchange that provides a variety of tokenized assets for trading"
   }
 ]

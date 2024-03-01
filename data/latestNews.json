@@ -1,51 +1,30 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-02-29T23:35:00.000Z",
-    "title": "StarkWare Unveils New 'Stwo' Cryptographic Prover That's 'Blazingly Fast'",
-    "url": "https://www.coindesk.com/tech/2024/02/29/starkware-unveils-new-stwo-cryptographic-prover-thats-blazingly-fast/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The upgraded prover should lead to faster and cheaper transactions, according to StarkWare. The news comes just a week after StarkWare and Polygon announced Circle STARKS, a new type of cryptographic proof."
+    "source": "Decrypt",
+    "date": "2024-03-01T00:07:38.000Z",
+    "title": "How the ‘Star Wars’ Stormtrooper Landed in Solana NFT Game MixMob",
+    "url": "https://decrypt.co/219808/star-wars-stormtrooper-solana-nft-game-mixmob",
+    "description": "It really is the iconic Star Wars character, but this isn’t a Disney deal or broader franchise IP play. Here’s the story behind the collab."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-02-29T23:35:00.000Z",
-    "title": " StarkWare launches open-source ZK prover at ETH Denver  ",
-    "url": "https://cointelegraph.com/news/stark-ware-open-source-zk-prover",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDIvYTIzNGM3ZDktNmVlYi00ZWM1LWJiMWItYTdmZGZkNzQ3Yjg2LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The new open source ZK prover aims to reduce latency and reduce transaction costs for end users.</p>\n                    <p><p data-ct-non-breakable=\"true\">StarkWare has announced the launch of Stwo, an open-sourced prover based on zero-knowledge (ZK) technology that aims to increase proving latency and reduce transaction fees for end users.</p><p>A prover is needed on Starknet to compress transactions by generating cryptographic proofs. By generating faster proofs, Stwo will reduce StarkWare’s processing costs, ultimately resulting in lower user fees, according to a Feb. 29 press release shared with Cointelegraph.</p><p>According to Oren Katz, the COO of StarkWare, the new Stwo will unlock new possibilities for the protocol. He said: </p><p><a href=\"https://cointelegraph.com/news/stark-ware-open-source-zk-prover\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-29T23:30:59.000Z",
-    "title": "Record high realized cap shows unprecedented economic investment in Bitcoin",
-    "url": "https://cryptoslate.com/record-high-realized-cap-shows-unprecedented-economic-investment-in-bitcoin/",
-    "description": "<p>Bitcoin&#8217;s realized cap is a nuanced and innovative metric for assessing the valuation of Bitcoin that differs significantly from traditional market capitalization. Unlike the market cap, which simply multiplies the current market price of Bitcoin by the total number of coins in circulation, the realized cap offers a more granular and economically meaningful insight into [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/record-high-realized-cap-shows-unprecedented-economic-investment-in-bitcoin/\">Record high realized cap shows unprecedented economic investment in Bitcoin</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-02-29T23:25:23.000Z",
-    "title": "Vanguard CEO to retire but firm unlikely to change anti-crypto stance",
-    "url": "https://cryptoslate.com/vanguard-ceo-to-retire-but-firm-unlikely-to-change-anti-crypto-stance/",
-    "description": "<p>Vanguard CEO Tim Buckley announced he will retire at the end of the year, but his departure is unlikely to shift the firm&#8217;s stance toward Bitcoin and crypto products. The company is seeking replacements from both internal and external candidates. It has also promoted its Chief Investment Officer (CIO), Greg Davis, to the position of [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/vanguard-ceo-to-retire-but-firm-unlikely-to-change-anti-crypto-stance/\">Vanguard CEO to retire but firm unlikely to change anti-crypto stance</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-02-29T23:30:00.000Z",
-    "title": "Crypto Analyst Who Nailed 2018’s Bear Market Bottom Calls Memecoin a ‘Kingmaker Trade’ for Current Cycle",
-    "url": "https://www.cryptoglobe.com/latest/2024/02/crypto-analyst-who-nailed-2018s-bear-market-bottom-calls-memecoin-a-kingmaker-trade-for-current-cycle/",
-    "description": "A popular cryptocurrency analyst known in the space for accurately predicting Bitcoin’s bear market bottom back in 2018 has recently pointed to a meme-inspired cryptocurrency as his “kingmaker trade” for this cycle. In a post shared on the microblogging platform X (formerly known as Twitter), pseudonymous cryptocurrency analyst Bluntz Capital pointed to Dogwifhat ($WIF) as […]\n"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-02-29T23:30:11.000Z",
-    "title": "Report: Election Concerns Halt South Korea’s Crypto and ETF Regulation Ease",
-    "url": "https://news.bitcoin.com/report-election-concerns-halt-south-koreas-crypto-and-etf-regulation-ease/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Report: Election Strategy Halts South Korea&#039;s Crypto and ETF Regulation Ease\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/02/gdggdfjjj.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />South Korea has delayed its efforts to relax its crypto regulations and the prohibition on spot bitcoin exchange-traded funds (ETFs). This development follows closely behind the People Power Party&#x2019;s contemplation of removing certain regulations and the ETF ban before the commencement of South Korea&#x2019;s general election. South Korea Holds Back on Crypto Regulation and Reported [&#8230;]"
+    "source": "Decrypt",
+    "date": "2024-02-29T23:41:33.000Z",
+    "title": "'Otherside' Apes Come Home Event: Was It Worth Buying a $75K Bored Ape?",
+    "url": "https://decrypt.co/219802/otherside-apes-come-home-event-worth-buying-75k-bored-ape",
+    "description": "PREVIEW: Rug Radio creator Orangie went to the Otherside—and reported back from the Apes Come Home game event. Is it living up to the hype?"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-02-29T23:33:01.000Z",
-    "title": "Clone Launches Public Mainnet, Introducing SUI to Solana’s Ecosystem for the First Time",
-    "url": "https://www.cryptopolitan.com/clone-launches-public-mainnet-introducing-sui-to-solanas-ecosystem-for-the-first-time/",
-    "description": "Tortola, British Virgin Islands, February 29th, 2024, Chainwire Clone, the groundbreaking open-source protocol for trading non-native tokens on the Solana blockchain, has announced the public mainnet launch of Clone Markets and Clone Liquidity. The launch, taking place on March 1st, will facilitate the introduction of highly liquid markets for non-native assets via Clone&#8217;s innovative &#8220;cloned [&#8230;]"
+    "date": "2024-02-29T23:58:18.000Z",
+    "title": "KuCoin partners with Revolut to facilitate Euro-to-crypto purchases",
+    "url": "https://www.cryptopolitan.com/kucoin-partners-with-revolut/",
+    "description": "KuCoin, a global cryptocurrency exchange, has integrated Revolut Pay as a new payment method, enabling users in the European Economic Area (EEA) to convert euros into cryptocurrencies easily. Also, this partnership allows for one-click purchases of popular cryptocurrencies like Bitcoin, Ethereum, Solana, and stablecoins such as USDT and USDC directly from users&#8217; Revolut accounts. The [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-01T00:00:36.000Z",
+    "title": "Bitcoin Volatility Induces $700 Million Carnage In Crypto Futures",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-volatility-713-carnage-crypto-futures/",
+    "description": "Data shows the cryptocurrency futures market has seen liquidations amounting to $700 million in the past day as Bitcoin has gone through its volatility. Bitcoin Has Seen Intense Price Action In Past 24 Hours The past day has been a bit of a rollercoaster for Bitcoin, with the asset registering sharp price action in both directions but ultimately going up as the bulls win out. Related Reading: Bitcoin MVRV Hits Levels That Led To Parabolic Bull Run In 2020 The chart below shows what the price action for the cryptocurrency has looked like recently. The price of the asset seems to have enjoyed sharp bullish momentum recently &#124; Source: BTCUSD on TradingView From the graph, it&#8217;s visible that Bitcoin initially witnessed some sharp bullish momentum, in which the coin not only broke above the $60,000 level, but went up to touch the $64,000 mark. This high, which is the peak for the year so far, only lasted briefly, however, as BTC crashed down spectacularly to under the $59,000 mark. The asset has since recovered to higher levels, now floating around $62,700. The rest of the cryptocurrency sector has also gone through its volatility, with prices fluctuating across the coins. As is usually the case with such sharp price action, the futures market has suffered many liquidations. Crypto Futures Market Has Gone Through A Squeeze In The Past Day According to data from CoinGlass, the cryptocurrency futures market has witnessed the liquidation of contracts worth more than $700 million in the last 24 hours. The table below displays the relevant information about the liquidations. A massive amount of liquidations appear to have occurred in the past day &#124; Source: CoinGlass It would appear that only $131 million of the liquidations came within twelve hours, suggesting that most of the flush was situated inside the preceding half-day period. This makes sense, as Bitcoin was most volatile inside this window. It also seems that the long-to-short ratio in this liquidation event has been quite balanced, even though the price has increased in the past day. This would suggest that some aggressive longing occurred as Bitcoin approached $64,000, and the subsequent pullback wiped these top buyers. The table below shows how the distribution has looked for the various symbols. Looks like BTC has topped the charts once more &#124; Source: CoinGlass As is generally the case, Bitcoin futures contracts have again been responsible for the largest portion of the total market liquidations, contributing around $270 million. Related Reading: TRON Hits 95 Million Addresses Milestone, Will This Help Price? What&#8217;s different this time, however, is that this share, although the largest, isn&#8217;t even half the total liquidations. This could come down to the fact that speculators may now be playing around with altcoin positions after gaining confidence from the BTC price surge. Dogecoin, the best performer among the top coins with its 34% jump, has occupied the largest share among the alts, with almost $51 million in liquidations. Featured image from André François McKenzie on Unsplash.com, CoinGlass.com, chart from TradingView.com"
   }
 ]

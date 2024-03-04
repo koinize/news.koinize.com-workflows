@@ -1,58 +1,107 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-03-04T10:40:10.000Z",
+    "title": "Ethereum Reaches $3,500 Just Days Before Dencun Upgrade",
+    "url": "https://decrypt.co/220041/ethereum-reaches-3500-just-days-before-dencun-upgrade",
+    "description": "Now 91% of Ethereum is \"in the money\" according to data from blockchain analytics firm IntotheBlock."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-04T10:41:53.000Z",
+    "title": " India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools  ",
+    "url": "https://cointelegraph.com/news/india-tech-approval-unreliable-ai-tools",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMTQwOTYxMjItYzdhYS00MjA3LThhMjMtNWJiYzEwZDA0ZmJiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Indian government has issued a new advisory that warns tech companies developing new lab-level AI tools that they need approval prior to public release on the internet. </p>\n                    <p><p data-ct-non-breakable=\"true\">The Indian government issued an advisory to tech companies developing new artificial intelligence (AI) tools that they must be approved by the government prior to release. </p><p>According to the advisory released by the Indian IT ministry on March 1, this approval must be granted before the public release of AI tools that are “unreliable” or still in a trial phase, and such tools should be labeled for possibly providing inaccurate answers to queries. The ministry added:</p><p data-ct-non-breakable=\"true\">Additionally, the advisory asked platforms to make sure that their tools will not “threaten the integrity of the electoral process,” as general elections are anticipated this summer. </p><p><a href=\"https://cointelegraph.com/news/india-tech-approval-unreliable-ai-tools\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-04T10:50:58.000Z",
+    "title": "Hong Kong regulators warn of increasing crypto exchange impersonation scams",
+    "url": "https://cryptoslate.com/hong-kong-regulators-warn-of-increasing-crypto-exchange-impersonation-scams/",
+    "description": "<p>Hong Kong&#8217;s Securities and Futures Commission (SFC) has warned the public against suspicious websites impersonating the two licensed crypto exchanges in the city-state, according to a Mar. 4 notice. According to the notice, several sites impersonating the image and branding of both Hash Blockchain Limited and OSL Digital Securities Limited are attempting to trick users. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/hong-kong-regulators-warn-of-increasing-crypto-exchange-impersonation-scams/\">Hong Kong regulators warn of increasing crypto exchange impersonation scams</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-03-04T10:43:49.000Z",
+    "title": "Bitcoin smashes through $65,000, only 6% away from its record high",
+    "url": "https://cryptobriefing.com/bitcoin-smashes-65000-6-percet-away-from-its-record-high/",
+    "description": "Bitcoin's price broke through $65,000 today, narrowing the gap to the 2021 peak."
+  },
+  {
+    "source": "Coin Telegraph India",
+    "date": "2024-03-04T10:41:53.000Z",
+    "title": " India tells tech firms approval is needed before releasing new ‘unreliable’ AI tools  ",
+    "url": "https://cointelegraph.com/news/india-tech-approval-unreliable-ai-tools",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMTQwOTYxMjItYzdhYS00MjA3LThhMjMtNWJiYzEwZDA0ZmJiLmpwZw==.jpg\"></p><p>The Indian government has issued a new advisory that warns tech companies developing new lab-level AI tools that they need approval prior to public release on the internet. </p>\n            "
+  },
+  {
     "source": "CryptoGlobe",
-    "date": "2024-03-04T10:31:30.000Z",
-    "title": "Blockchain Strategist: Recent Uniswap ($UNI) Protocol Upgrade Proposal Could Be Seen As ‘A Big FU to the SEC’",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/blockchain-strategist-says-recent-uniswap-uni-protocol-upgrade-proposal-could-be-seen-as-a-big-fu-to-the-sec/",
-    "description": "Uniswap is a prominent decentralized exchange (DEX) protocol built on the Ethereum blockchain. Unlike traditional centralized cryptocurrency exchanges, it leverages an automated market maker (AMM) model. This system employs user-provided liquidity pools and a specialized algorithm to facilitate trades without the need for a centralized order book. Any individual with an Ethereum-compatible wallet can interact […]\n"
+    "date": "2024-03-04T10:51:54.000Z",
+    "title": "Crypto Industry Pushback Forces U.S. Energy Information Administration (EIA) To Retract Its Emergency Survey Targeting Bitcoin Miners",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/crypto-industry-pushback-forces-u-s-energy-information-administration-eia-to-retract-its-emergency-survey-targeting-bitcoin-miners/",
+    "description": "The cryptocurrency mining sector has achieved a significant victory, marking a pivotal moment in its ongoing dialogue with U.S. regulatory bodies. The Chamber of Digital Commerce is an organization that operates as a trade association in the United States, focusing on promoting the interests and development of the blockchain and digital asset industries. It aims […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-04T10:52:10.000Z",
+    "title": "Bitcoin totally unstoppable - new all-time high coming soon",
+    "url": "https://cryptodaily.co.uk/2024/03/bitcoin-totally-unstoppable-new-all-time-high-coming-soon",
+    "description": "The bitcoin price breaks out yet again on Monday. Currently trading at above $65,000, the all-time-high is well within its sights. With the Grayscale/DCG selling soon to dry up, there doesn’t appear to be anything to keep the lid on bitcoin."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-04T10:32:54.000Z",
-    "title": "Revolutionizing Liver Cancer Treatment: Israeli AI Startup’s Breakthrough",
-    "url": "https://www.cryptopolitan.com/liver-cancer-treatment-israeli-ai/",
-    "description": "In a groundbreaking development, Israeli medical imaging startup Techsomed has introduced a pioneering AI technology set to revolutionize the treatment landscape for liver cancer patients worldwide.&#160; With their innovative solution, BioTraceIO, physicians can perform thermal ablation therapy with unprecedented precision and real-time guidance, ushering in a new era of minimally invasive treatment. Overcoming challenges with [&#8230;]"
+    "date": "2024-03-04T11:03:41.000Z",
+    "title": "AI and Drones Take Centre Stage in UK Budget for Public Sector Overhaul",
+    "url": "https://www.cryptopolitan.com/ai-and-drones-take-centre-stage-in-uk-budget/",
+    "description": "In an ambitious move aimed at revolutionizing public sector productivity, the UK government is set to unveil a groundbreaking £800 million package for technology reforms in the forthcoming Budget announcement.&#160; Spearheaded by Chancellor Jeremy Hunt, the initiative seeks to leverage cutting-edge artificial intelligence (AI) and drone technology to streamline operations within crucial sectors such as [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-04T10:18:30.000Z",
-    "title": "Breaking Boundaries: How AI Is Revolutionizing the Beauty Industry",
-    "url": "https://www.cryptopolitan.com/how-ai-revolutionizing-the-beauty-industry/",
-    "description": "South American cosmetics giant Belcorp is leveraging the power of conversational AI to enhance its sales strategy and support its vast network of independent consultants. With the introduction of natural language intelligent assistants like &#8216;Jessica,&#8217; Belcorp has witnessed a significant transformation in its operations across 13 core South American markets. AI revolutionizes beauty Belcorp&#8217;s frontline [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-04T10:13:48.000Z",
-    "title": "Google Co-founder Sergey Brin Admits Gemini AI Image Generator Flawed Due to Insufficient Testing",
-    "url": "https://www.cryptopolitan.com/google-co-founder-sergey-brin-admits-gemini/",
-    "description": "Google co-founder Sergey Brin has acknowledged that the Gemini image generator, a component of the tech giant&#8217;s AI chatbot, faced significant flaws attributed to inadequate testing.&#160; This revelation follows CEO Sundar Pichai&#8217;s admission of &#8220;completely unacceptable&#8221; errors within the system. The Gemini AI chatbot stirred controversy by producing inaccurate images of historical figures, including Google&#8217;s [&#8230;]"
+    "date": "2024-03-04T11:00:59.000Z",
+    "title": "Tezos Price Prediction 2024-2033: How High can XTZ Rise?",
+    "url": "https://www.cryptopolitan.com/tezos-price-prediction/",
+    "description": "Tezos Price Prediction 2024-2033 Tezos coin has been making waves in the crypto world. Given the attention that the Tezos network is commanding in the crypto market, and if you are curious about the XTZ coin, Tezos Price Prediction is right up your alley. Where is XTZ now? Project management has made impactful decisions to [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-04T10:23:31.000Z",
-    "title": "Bitcoin breaks $65k, reaching highest level since November 2021",
-    "url": "https://crypto.news/bitcoin-breaks-65k-reaching-highest-level-since-november-2021/",
-    "description": "On March 4, 2024, Bitcoin (BTC) climbed above $65,300, less than $4,000 away from its all-time-high. When writing, BTC fell below this value, currently trading at $65,1050 and having only 6% left until reaching the all-time high (ATH), according to&#8230;"
+    "date": "2024-03-04T11:09:13.000Z",
+    "title": "FTM surges 30%, prompting speculation of whale manipulation",
+    "url": "https://crypto.news/ftm-surges-30-prompting-speculation-of-whale-manipulation/",
+    "description": "Fantom (FTM) has recorded massive gains over the past day, with its price reaching 22-month highs. FTM is up by 30.7% in the past 24 hours and is trading at $0.67 at the time of writing. The asset’s market cap&#8230;"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-04T10:25:18.000Z",
-    "title": "3 Reasons Why Pullix (PLX) Will Be Bigger Than Polygon (MATIC) and Solana (SOL) in 2024",
-    "url": "https://www.crypto-news-flash.com/3-reasons-why-pullix-plx-will-be-bigger-than-polygon-matic-and-solana-sol-in-2024/?utm_source=rss&utm_medium=rss&utm_campaign=3-reasons-why-pullix-plx-will-be-bigger-than-polygon-matic-and-solana-sol-in-2024",
-    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506-300x200.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506-768x511.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506-150x100.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T125151.506-450x300.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The year has only just begun, however, most analysts are already singling out the top crypto coins that can potentially garner a lot of gains this year. Amongst all promising options, Pullix (PLX), a DeFi crypto project, is standing tall among other top gainers this year. Following its anticipated influence in the DeFi market, the [...]"
+    "source": "BTCManager",
+    "date": "2024-03-04T10:49:17.000Z",
+    "title": "Solama emerges as top meme coin contender in Solana",
+    "url": "https://crypto.news/solama-emerges-as-top-meme-coin-contender-in-solana/",
+    "description": "Solama has gained impressive traction in the crypto and meme coin worlds, all without heavy promotion"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-04T10:47:45.000Z",
+    "title": "USDT soars to record market cap of $100 billion amid crypto market recovery",
+    "url": "https://crypto.news/usdt-soars-to-record-market-cap-of-100-billion-amid-crypto-market-recovery/",
+    "description": "Leading stablecoin issuer Tether’s USDT recently achieved a significant milestone by reaching an all-time high market capitalization of $100 billion.&#160; This development marks a 9% growth since the beginning of the year, significantly widening its lead over its closest competitor,&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-04T10:42:51.000Z",
+    "title": "Worldcoin faces probe in South Korea over privacy concerns",
+    "url": "https://crypto.news/worldcoin-faces-probe-in-south-korea-over-privacy-concerns/",
+    "description": "South Korea has initiated an investigation into Worldcoin over privacy concerns, following complaints about the collection of facial and iris recognition data. In a press release on Mar. 4, South Korea&#8217;s Personal Information Protection Commission says it will investigate Worldcoin&#8230;"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-04T10:40:13.000Z",
+    "title": "Commonwealth Bank Sets Limits on Bitcoin Buys",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/commonwealth-bank-sets-limits-on-bitcoin-buys/",
+    "description": "<p>This action highlights banks&#8217; worries about cryptocurrency volatility and its effect on consumer finances. Commonwealth Bank&#8217;s cap on crypto transactions aligns with digital currencies&#8217; rising acceptance and ongoing scrutiny over speculation and illicit ties. Let&#8217;s discover more about this important news for Bitcoin. Crypto Caps Amid Rising Acceptance and Scrutiny Under the new policy, CBA [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/commonwealth-bank-sets-limits-on-bitcoin-buys/\">Commonwealth Bank Sets Limits on Bitcoin Buys</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-04T10:37:00.000Z",
-    "title": "Federal Judge Rules in SEC’s Favor in Coinbase Insider Trading Lawsuit",
-    "url": "https://coinedition.com/federal-judge-rules-in-secs-favor-in-coinbase-insider-trading-lawsuit/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC Coinbase CLO\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO.jpg 730w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/07/SEC-Coinbase-CLO-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Judge Tana Lin in the Western District Court of Washington, issued a ruling on Friday stating that secondary token sales in question are securities, despite being traded on Coinbase, a secondary market. Following the ruling, a Twitter user tagged Paul Grewal, the Chief Legal Officer (CLO) of Coinbase seeking their comments. In response, the CLO [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/federal-judge-rules-in-secs-favor-in-coinbase-insider-trading-lawsuit/\">Federal Judge Rules in SEC’s Favor in Coinbase Insider Trading Lawsuit</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-04T10:15:42.000Z",
-    "title": "Analyst Says Dogecoin Will Do ‘Crazy Numbers’ This Cycle, Updates Outlook on Solana and One DOGE Rival",
-    "url": "https://dailyhodl.com/2024/03/04/analyst-says-dogecoin-will-do-crazy-numbers-this-cycle-updates-outlook-on-solana-and-one-doge-rival/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/05/Top-Dogs-in-Memecoin.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A closely followed trader in the crypto space says that Dogecoin (DOGE) is likely going to print sizeable gains once a proper bull market kicks off. The pseudonymous trader known as Altcoin Sherpa tells his 209,000 followers on the social media platform X that while it may not be the most original investment thesis, DOGE [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/04/analyst-says-dogecoin-will-do-crazy-numbers-this-cycle-updates-outlook-on-solana-and-one-doge-rival/\">Analyst Says Dogecoin Will Do ‘Crazy Numbers’ This Cycle, Updates Outlook on Solana and One DOGE Rival</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-03-04T11:00:08.000Z",
+    "title": "Seizing Kelexo (KLXO): Expert Analysis on Optimism (OP) and Jupiter (JUP) Uncertainty in 2024",
+    "url": "https://coinedition.com/seizing-kelexo-klxo-expert-analysis-on-optimism-op-and-jupiter-jup-uncertainty-in-2024/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/pr-7-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/pr-7-8.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/pr-7-8-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>With a risky market in the crypto space, investors try to be as safe as possible. Small changes can wipe out thousands of dollars worth of cryptos or bring similar gains. As a result, smart investors arm themselves with information to make calculated investments that are more likely to yield returns. This article contains expert [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/seizing-kelexo-klxo-expert-analysis-on-optimism-op-and-jupiter-jup-uncertainty-in-2024/\">Seizing Kelexo (KLXO): Expert Analysis on Optimism (OP) and Jupiter (JUP) Uncertainty in 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

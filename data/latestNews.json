@@ -1,65 +1,100 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-05T11:18:01.000Z",
-    "title": "Binance Will Discontinue Its Nigerian Naira Services After Government Scrutiny",
-    "url": "https://www.coindesk.com/policy/2024/03/05/binance-will-discontinue-its-nigerian-naira-services-after-government-scrutiny/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Two Binance executives were recently detained in the country, and the exchange’s CEO Richard Teng, has been summoned to appear before a committee."
+    "source": "Decrypt",
+    "date": "2024-03-05T12:01:02.000Z",
+    "title": "BlackRock Seeks to Add Bitcoin ETFs to Its Strategic Portfolio",
+    "url": "https://decrypt.co/220162/blackrock-bitcoin-etf-strategic-income-fund-sec",
+    "description": "The investment giant files an application with the SEC to include Bitcoin ETFs in a new fund, emphasizing investment risks and potential fees."
   },
   {
     "source": "Decrypt",
-    "date": "2024-03-05T11:32:28.000Z",
-    "title": "Staked Ethereum Grows to $116 Billion a Week Before Dencun Upgrade",
-    "url": "https://decrypt.co/220194/staked-ethereum-grows-to-116-billion-a-week-before-dencun-upgrade",
-    "description": "The amount of ETH staked on the Ethereum network has increased by 9% since the start of the year, as the Dencun upgrade looms."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-05T11:25:00.000Z",
-    "title": " Bitcoin just had its best day ever — Is $100K BTC price programmed?  ",
-    "url": "https://cointelegraph.com/news/bitcoin-best-day-ever-100k-btc-price-programmed",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZDZhOTkyNzYtMDVkYi00NjBiLThlZTEtZjk0ZWZmNWI2MWIwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Analysts expect Bitcoin price to breach $150,000 by the end of 2025, driven by the upcoming halving and the demand introduced by Bitcoin ETFs.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) had its highest daily close at $68,245 on March 4, beating its previous record close of $67,525 on Nov. 8, 2021. The world’s first cryptocurrency is up over 18% on the weekly and 55% on the monthly chart.</p><p>Does this mean that Bitcoin price is on track to reach $100,000 by the end of the year? Some analysts are expecting even higher price levels, while others are anticipating a local top at the all-time high price resistance of $69,000.</p><p>The new price-agnostic demand introduced by United States spot Bitcoin exchange-traded funds (ETFs) will help the world’s largest crypto breach its previous all-time high, according to a research report by Bitfinex Analysts, shared with Cointelegraph. Notably: </p><p><a href=\"https://cointelegraph.com/news/bitcoin-best-day-ever-100k-btc-price-programmed\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-05T11:49:12.000Z",
+    "title": "Terraform Labs Hits Back at SEC 'Government Overreach' Over Special Counsel Payment",
+    "url": "https://decrypt.co/220195/terraform-labs-sec-government-overreach",
+    "description": "In its objection, the regulator argued that Terraform Labs \"siphoned\" $166 million into an \"opaque slush fund\" for law firm Dentons."
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-03-05T11:30:56.000Z",
-    "title": "SEC seeks public comments on Ethereum ETF, raises concerns on proof of stake",
-    "url": "https://cryptobriefing.com/sec-seeks-comments-ethereum-etf-concerns-proof-of-stake/",
-    "description": "The SEC is inviting public comments to help them assess the \"nature\" of Ethereum and whether proof of stake opens an ETF to possible fraud."
+    "date": "2024-03-05T11:58:21.000Z",
+    "title": "Binance to list Solana-based memecoin Dogwifhat",
+    "url": "https://cryptobriefing.com/binance-to-list-solana-based-memecoin-dogwifhat/",
+    "description": "Despite its meme-inspired origins, WIF has captured significant attention from investors, experiencing a remarkable 2,750% growth."
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-03-05T11:46:12.000Z",
+    "title": "BRICS Nations to Develop Blockchain-Based Payment System in Push for De-Dollarization, Reports Russian News Agency",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/brics-nations-to-develop-blockchain-based-payment-system-in-push-for-de-dollarization-reports-russian-news-agency/",
+    "description": "The BRICS group of nations is reportedly set to collaborate on the development of a payment system that utilizes blockchain technology. BRICS is an acronym representing the alliance of five major emerging economies: Brazil, Russia, India, China, and South Africa. These nations joined forces with the aim of challenging the dominance of Western economic powers […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-05T12:03:46.000Z",
+    "title": "Altcoins are finally getting going - move over bitcoin",
+    "url": "https://cryptodaily.co.uk/2024/03/altcoins-are-finally-getting-going-move-over-bitcoin",
+    "description": "With all eyes on bitcoin’s dramatic bid to surpass its all-time-high, most altcoins are very much playing second fiddle. However, the combined market cap of the altcoins is solidly moving higher. Is now the time to unleash the alts?"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-05T11:38:08.000Z",
-    "title": "Civilian War Room Utilizes AI to Locate Missing Persons",
-    "url": "https://www.cryptopolitan.com/civilian-war-room-utilizes-ai-to-locate/",
-    "description": "In the wake of the Hamas attacks on Israeli-Gaza border communities, a remarkable initiative unfolded, spearheaded by Prof. Karine Nahon, head of the Data, Government, and Democracy Program at Reichman University.&#160; What began as protests against government judicial reforms swiftly transformed into a pivotal civilian effort to locate thousands of missing individuals. Employing the power [&#8230;]"
+    "date": "2024-03-05T12:05:55.000Z",
+    "title": "Wingalaxy: A New Era of Winner-Takes-All Racing Games on the Cronos Blockchain",
+    "url": "https://www.cryptopolitan.com/wingalaxy-a-new-era-of-winner-takes-all-racing-games-on-the-cronos-blockchain/",
+    "description": "Hong Kong, Hong Kong, March 5th, 2024, Chainwire Wingalaxy has announced the launch of its first “race-to-win” game on Cronos, the Cosmos EVM chain for DeFi, NFTs and the metaverse. The game takes the thrill of winner-takes-all racing to the next level.  Wingalaxy is one of seven projects selected out of thousands of applicants to [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-05T11:27:50.000Z",
-    "title": "Nigerian Naira (NGN) Withdrawals Cease on Binance: What’s Next for Traders?",
-    "url": "https://www.cryptopolitan.com/nigerian-ngn-withdrawals-cease-on-binance/",
-    "description": "In the Nigerian cryptocurrency market, Binance, one of the world&#8217;s leading cryptocurrency exchanges, has announced its decision to discontinue all services involving the Nigerian naira (NGN) currency.&#160; The decision follows a series of challenges with local financial regulators and is set to take effect imminently. Transitioning from NGN: Binance implements USDT conversion Binance&#8217;s official announcement [&#8230;]"
+    "date": "2024-03-05T12:01:16.000Z",
+    "title": "Tron Price Prediction 2024-2033: Is it a Good Time to buy TRX?",
+    "url": "https://www.cryptopolitan.com/tron-price-prediction/",
+    "description": "Tron Price Prediction 2024-2033 TRX, or rather Tronix, is the native&#160;crypto asset of the TRON Network. TRON is a Blockchain-based decentralized network targeting an unchained, worldwide digital content entertainment structure using distributed ledger technology and enabling straightforward and cheap data sharing. How is Tron Price Prediction making out in this turbulent crypto weather as major [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-05T11:15:00.000Z",
-    "title": "U.S. Air Force Seeks Industry Collaboration for AI-driven Command and Control in Contested Environments",
-    "url": "https://www.cryptopolitan.com/u-s-air-force-seeks-industry-collaboration/",
-    "description": "The U.S. Air Force Research Laboratory Information Directorate in Rome, N.Y., has issued a broad agency announcement (FA8750-23-S-7006) for the Artificial Intelligence and Next Generation Distributed Command and Control project. This initiative aims to harness artificial intelligence (AI) to enhance command and control capabilities in contested environments. Challenges and objectives The primary challenge of this [&#8230;]"
+    "date": "2024-03-05T12:01:11.000Z",
+    "title": "Unlocking Cloud Potential: Gen AI Integration Takes Center Stage in 2024",
+    "url": "https://www.cryptopolitan.com/unlocking-cloud-potential-gen-ai-integration/",
+    "description": "2024 marks a pivotal year where the integration of Generative AI (Gen AI) into cloud services takes center stage. Businesses are transitioning from questioning the utility of Gen AI to reevaluating its strategic value and integration with cloud computing. Maximizing Gen AI and Cloud Synergy Industry experts emphasize the importance of synergizing Gen AI and [&#8230;]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-03-05T11:18:39.000Z",
-    "title": "Meme Coin Trends Are Godlike: Trader Accurately Predicts Myro’s Rally",
-    "url": "https://coinedition.com/meme-coin-trends-are-godlike-trader-accurately-predicts-myros-rally/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/Meme_Coin_Trends_Are_Godlike_Trader_Accurately_Predicts_Myros_Rally-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Myro, a dog-themed meme coin on the Solana blockchain, broke out to the upside hours after Bluntz, a famous cryptocurrency trader on X, called it. Bluntz’s post spotted a 25% ‘ABC’ dip on the Myro hourly chart, and the trader alerted his followers of an impending rally. In his post, Bluntz called for an immediate [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/meme-coin-trends-are-godlike-trader-accurately-predicts-myros-rally/\">Meme Coin Trends Are Godlike: Trader Accurately Predicts Myro’s Rally</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-03-05T11:48:25.000Z",
+    "title": "Vitalik Buterin’s significant ETH move sparks discussion",
+    "url": "https://www.cryptopolitan.com/vitalik-buterins-significant-eth-move/",
+    "description": "In a significant move that has attracted attention from the cryptocurrency community, a recent transaction was linked to the Vitalik wallet.eth, associated with Ethereum co-founder Vitalik Buterin, has made headlines. According to PeckShieldAlert, the wallet transferred 30 Ethereum (ETH) to Railgun, a privacy protocol, before swapping around 27.63 ETH for 100,000 USDC (USD Coin). These [&#8230;]"
   },
   {
-    "source": "Bitfinex Blog",
-    "date": "2024-03-05T11:30:00.000Z",
-    "title": "Bitfinex to list AZERO, Aleph Zero Native Token ",
-    "url": "https://blog.bitfinex.com/media-releases/bitfinex-to-list-azero-aleph-zero-native-token/",
-    "description": "<p>ROAD TOWN, British Virgin Islands – March 5, 2024 – Bitfinex (https://www.bitfinex.com/), a premier digital asset trading platform, announced today that it will be among the first exchanges to list AZERO, the native token of Aleph Zero, a layer-1 blockchain designed with exceptional scalability, privacy,...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/media-releases/bitfinex-to-list-azero-aleph-zero-native-token/\">Bitfinex to list AZERO, Aleph Zero Native Token </a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-03-05T11:52:35.000Z",
+    "title": "Bitcoin ETFs under review by South Korean regulators, FSS governor shares insights",
+    "url": "https://crypto.news/bitcoin-etfs-under-review-by-south-korean-regulators-fss-governor-shares-insights/",
+    "description": "South Korean financial regulators are currently in discussions about potentially allowing spot Bitcoin exchange-traded funds (ETFs) within the country.&#160; Lee Bok-hyun, serving as the governor of the Financial Supervisory Service (FSS), revealed ongoing discussions within South Korea&#8217;s regulatory bodies. In&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-05T11:46:36.000Z",
+    "title": "Fantom (FTM) Foundation secures default judgment against Multichain Foundation ",
+    "url": "https://crypto.news/fantom-ftm-foundation-secures-default-judgment-against-multichain-foundation/",
+    "description": "The Fantom (FTM) Foundation has won a significant legal battle against the Multichain cross-chain protocol in the High Court of Singapore. The default judgement granted by the court authorizes the liquidation of Multichain Foundation’s assets, to enable Fantom Foundation to&#8230;"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-05T12:00:42.000Z",
+    "title": "Axelar Pumps 80% with Major Exchange Listing; $GFOX Prepares for Retail Debut",
+    "url": "https://www.crypto-news-flash.com/axelar-pumps-80-with-major-exchange-listing-gfox-prepares-for-retail-debut/?utm_source=rss&utm_medium=rss&utm_campaign=axelar-pumps-80-with-major-exchange-listing-gfox-prepares-for-retail-debut",
+    "description": "<img width=\"1200\" height=\"801\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T084618.383-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Crypto coins often see their prices jump significantly after getting listed on major exchanges, and Axelar is the latest example of this trend. Following its recent listing on Binance, Axelar&#8217;s price shot up by 80%, showcasing the impact such listings can have.  Meanwhile, Galaxy Fox ($GFOX) is gearing up for its retail debut. $GFOX is [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-05T12:09:31.000Z",
+    "title": "BRICS Nations to Develop Blockchain-Based Payment System",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/brics-nations-to-develop-blockchain-based-payment-system/",
+    "description": "<p>According to a recent report by the Russian news agency TASS, the group plans to develop a blockchain and digital technology-based payment system. This initiative is a strategic effort to boost the consortium&#8217;s influence in the global monetary system through digital innovation. BRICS&#8217; Strategic Leap into Digital Finance The decision to create a new payment [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/brics-nations-to-develop-blockchain-based-payment-system/\">BRICS Nations to Develop Blockchain-Based Payment System</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-05T11:42:42.000Z",
+    "title": "$BONK Trading Launches on Robinhood Crypto in the EU",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/bonk-trading-launches-on-robinhood-crypto-in-the-eu/",
+    "description": "<p>This significant development offers Robinhood and $BONK users a seamless platform for 24/7 trading. Robinhood Crypto has now extended its offerings to include $BONK. 24/7 $BONK Trading Now on Robinhood Robinhood&#8217;s 24/7 $BONK trading enhances market dynamism and liquidity. One of the most compelling aspects of trading $BONK on Robinhood&#8217;s app is the unique opportunity [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/bonk-trading-launches-on-robinhood-crypto-in-the-eu/\">$BONK Trading Launches on Robinhood Crypto in the EU</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

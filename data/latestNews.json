@@ -1,86 +1,100 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-05T08:49:15.000Z",
+    "title": "Bitcoin Miners Need to Be Proactive to Hold Their Positions After Halving: Fidelity Digital Assets",
+    "url": "https://www.coindesk.com/business/2024/03/05/bitcoin-miners-need-to-be-proactive-to-hold-their-positions-after-halving-fidelity-digital-assets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "As the protocol evolves, new layers could emerge bringing new use cases and more users, the report said."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-03-05T08:28:00.000Z",
-    "title": " Tether launches recovery tool to migrate USDT between blockchains ",
-    "url": "https://cointelegraph.com/news/tether-recovery-migrate-usdt-blockchains",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZmI4Y2U5ZTgtN2IxZS00ZjRlLTkxOTMtMjE4YzMxMDA2YjRlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Tether will allow users to move their USDT between blockchains in the event any of the operated blockchains becomes unresponsive.</p>\n                    <p><p data-ct-non-breakable=\"true\">Major stablecoin issuer Tether has launched a recovery tool to migrate its Tether (<a href=\"https://cointelegraph.com/tether-price-index\">USDT</a>) stablecoin between different blockchains amid USDT hitting a $100 billion market capitalization.</p><p>Tether <a href=\"https://tether.to/en/safeguarding-tether-tokens-a-comprehensive-approach-to-blockchain-resilience-and-user-protection/\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> the launch of a blockchain recovery plan on March 4 to ensure stable access to USDT in case of disruptions faced by one of multiple blockchain networks used for USDT transactions.</p><p>According to data from Tether, USDT resided on 14 blockchains as of March 4, including Tron, Ethereum, Solana, Avalanche, Omni and other networks. Tron and Ethereum are the two largest blockchains for USDT, accounting for 51% and 43% of all issued USDT.</p><p><a href=\"https://cointelegraph.com/news/tether-recovery-migrate-usdt-blockchains\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-05T08:43:33.000Z",
+    "title": " Bitcoin traders dismiss &#039;triple top&#039; as BTC price stops $150 from $69K ",
+    "url": "https://cointelegraph.com/news/bitcoin-traders-triple-top-btc-price-stops-69k",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvOTRiMjIyNTgtNWEzYS00ZjljLWFmZTUtMGY4N2ZmN2JjOTljLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin deals a swift blow to late longs on the cusp of all-time highs, saving BTC price discovery for another day.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) almost hit new all-time highs into March 5 as volatility swiftly liquidated late trades.</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCGBP/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> showed BTC price trajectory coming within inches of $69,000.</p><p>Despite daily gains of $5,000, the psychological importance of the highs became immediately evident, and bulls were unable to push through.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-traders-triple-top-btc-price-stops-69k\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-05T08:19:11.000Z",
-    "title": "HODLPad Partners with ProBit Global to Revolutionize DeFi Investments",
-    "url": "https://cryptodaily.co.uk/2024/03/hodlpad-partners-with-probit-global-to-revolutionize-defi-investments",
-    "description": "HODLPad Partners with ProBit Global to Revolutionize DeFi Investments"
+    "date": "2024-03-05T09:04:07.000Z",
+    "title": "Fantom Foundation Granted Default Judgment Against Multichain",
+    "url": "https://cryptodaily.co.uk/2024/03/fantom-foundation-granted-default-judgment-against-multichain",
+    "description": "The Fantom Foundation has been awarded a default judgment ruling in its legal action against Multichain for breach of contract and fraudulent misrepresentations following a major exploit in 2023."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-05T08:55:09.000Z",
+    "title": "Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3",
+    "url": "https://cryptodaily.co.uk/2024/03/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3",
+    "description": "Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-05T09:00:04.000Z",
+    "title": "Hong Kong to Kickstart New Web3 and Digital Yuan Initiatives This Year",
+    "url": "https://news.bitcoin.com/hong-kong-to-kickstart-new-web3-and-digital-yuan-initiatives-this-year/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Hong Kong to Kickstart New Web3 and Digital Yuan Initiatives This Year\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/df86283b-bc36-4620-884a-c4d7ccee3987.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The city of Hong Kong has detailed the advancement of new Web3 and digital yuan initiatives as part of its 2024-2025 budget. In a speech, Hong Kong Financial Secretary Paul Chan stated that the city would expedite a Web3 sandbox for stablecoins and expand the digital yuan pilot as part of its digital finance policies. [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-05T08:32:12.000Z",
-    "title": "Seoul National University Bundang Hospital’s AI-Powered ECG Analysis App Receives Regulatory Certification",
-    "url": "https://www.cryptopolitan.com/ecg-app-receives-regulatory-certification/",
-    "description": "In a significant development, Seoul National University Bundang Hospital (SNUBH) has announced that its research team has successfully developed an artificial intelligence (AI) application called &#8220;ECG Buddy&#8221; for emergency disease prediction. This innovative app analyzes electrocardiogram (ECG) images to assess myocardial infarction and arrhythmia, two critical conditions that demand swift diagnosis and treatment. The research [&#8230;]"
+    "date": "2024-03-05T08:55:55.000Z",
+    "title": "Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3",
+    "url": "https://www.cryptopolitan.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3/",
+    "description": "Paris, France, March 5th, 2024, Chainwire Uniting Web3 Visionaries and Global Leaders Following the success of its 2023 edition, the Proof of Talk summit, heralded as the Davos of Web3, is back for its second year and brings together thought leaders, investors, CEOs, founders, exchanges, digital asset managers, and regulatory authorities for networking and thought-provoking [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-05T08:19:14.000Z",
-    "title": "HODLPad Partners with ProBit Global to Revolutionize DeFi Investments",
-    "url": "https://www.cryptopolitan.com/hodlpad-partners-with-probit-global-to-revolutionize-defi-investments/",
-    "description": "Vilnius, Lithuania, March 5th, 2024, Chainwire HODLPad, the decentralized launchpad has launched their IEO on ProBit Global. HODLPad provides DeFi investment opportunities with their game-changing Future Sales of Vested Tokens (FSVT) marketplace. HODLPad is focused on solving crucial needs in the DeFi space. It ensures fair access to high-quality projects through initial decentralized exchange offerings. [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-05T08:10:36.000Z",
-    "title": "Vendors Embrace AI Channel Sales, Research Finds",
-    "url": "https://www.cryptopolitan.com/vendors-embrace-ai-channel-sales/",
-    "description": "A recent study conducted by The Channel Company (TCC) unveils a growing trend among vendors, highlighting their eagerness to capitalize on the burgeoning artificial intelligence (AI) market through channel sales. The research, presented at TCC’s XChange March 2024 conference by Kristy Davis, global vice president of AI, innovation, and insights at TCC, sheds light on [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-05T08:27:06.000Z",
-    "title": "BlackRock seeks to purchase more Bitcoin ETFs",
-    "url": "https://crypto.news/blackrock-seeks-to-purchase-more-bitcoin-etfs/",
-    "description": "Investment giant BlackRock has filed a new application with the U.S. Securities and Exchange Commission (SEC) to buy more Bitcoin (BTC) ETFs. According to an updated filing on the regulator&#8217;s website, BlackRock wants to buy more Bitcoin ETFs for its&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-05T08:23:35.000Z",
-    "title": "DeeStream presale draws Dogecoin and Ethereum bulls",
-    "url": "https://crypto.news/deestream-presale-draws-dogecoin-and-ethereum-bulls/",
-    "description": "Ethereum (ETH) , Solana (SOL), and Dogecoin (DOGE) holders appear to be flocking into the ongoing DeeStream (DST) presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-05T08:22:58.000Z",
-    "title": "Crypto liquidations surpass $560 million, bull run continues",
-    "url": "https://crypto.news/crypto-liquidations-surpass-560-million-bull-run-continues/",
-    "description": "Crypto liquidations surpass half a billion dollars while the crypto market capitalization and the majority of the leading cryptocurrencies have been moving in the green zone.&#160; According to data provided by Coinglass, the total crypto liquidations reached $567 million in&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-05T08:20:40.000Z",
-    "title": "Investors flock to KangaMoon, Cardano and Cosmos soaring",
-    "url": "https://crypto.news/investors-flock-to-kangamoon-cardano-and-cosmos-soaring/",
-    "description": "Cardano (ADA), Cosmos (ATOM), and KangaMoon (KANG) are rallying. Specifically, KANG is up 50% in its presale"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-05T08:19:21.000Z",
-    "title": "MicroStrategy’s MSTR stock jumps 23% as it unveils $600m offering to buy more Bitcoin",
-    "url": "https://crypto.news/microstrategys-mstr-stock-jumps-23-as-it-unveils-600m-offering-to-buy-more-bitcoin/",
-    "description": "The largest corporate holder of Bitcoin, MicroStrategy, is about to become even larger with the latest $600 million offering in convertible notes to buy more crypto. MicroStrategy wants to sell $600 million in convertible senior notes to buy more Bitcoin&#8230;"
+    "date": "2024-03-05T08:45:55.000Z",
+    "title": "Algorand Price Prediction 2024-2033: Resurgence possible?",
+    "url": "https://www.cryptopolitan.com/algorand-price-prediction/",
+    "description": "Algorand Price Prediction 2024-2033 Algorand is one of the best choices to consider when investing in cryptocurrency. However, it is insufficient to hold the ALGO cryptocurrency in high esteem. The coin has to perform up to expectations. You must look at Algorand’s price prediction from 2024 to 2033. Algorand is a very consistent blockchain and, [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-05T08:13:19.000Z",
-    "title": "ICP Leads in Dev Activity, but Prices Lag Behind Polkadot (DOT) and Cardano (ADA): Is This About to Change?",
-    "url": "https://www.crypto-news-flash.com/icp-leads-in-dev-activity-but-prices-lag-behind-polkadot-dot-and-cardano-ada-is-this-about-to-change/?utm_source=rss&utm_medium=rss&utm_campaign=icp-leads-in-dev-activity-but-prices-lag-behind-polkadot-dot-and-cardano-ada-is-this-about-to-change",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polkadot-DOT-logo-on-table-with-money\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polkadot-DOT-logo-on-table-with-money-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Dogecoin&#8217;s futures open interest reached its highest since May 2021, hitting $1.19 billion, signaling a surge in the derivatives market and a broader rally in meme coins. Large investors accumulating Dogecoin and its 77% price surge align with historical trends before Bitcoin halvings. Dogecoin (DOGE) has seen a notable turn in events, with its futures [...]"
+    "date": "2024-03-05T09:03:24.000Z",
+    "title": "XRP Escrow: Foundation for XRP’s Transition to Global Reserve Currency, Experts Say",
+    "url": "https://www.crypto-news-flash.com/xrp-escrow-foundation-for-xrps-transition-to-global-reserve-currency-experts-say/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-escrow-foundation-for-xrps-transition-to-global-reserve-currency-experts-say",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-overlapping-with-other-currencies\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-overlapping-with-other-currencies-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />According to one crypto expert, the XRP escrow that Ripple controls plays a critical role, from providing market liquidity to making the token available to institutions and exchanges. He speculated that if institutions like the IMF or the Bank for International Settlements acquired the escrowed XRP years ago, the token would be viable for global [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-05T09:00:51.000Z",
+    "title": "Dogecoin (DOGE) Leads Meme Coin Rally, Doubles in Value Alongside WIF, PEPE, FLOKI, and Others",
+    "url": "https://www.crypto-news-flash.com/dogecoin-doge-leads-meme-coin-rally-doubles-in-value-alongside-wif-pepe-floki-and-others/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-doge-leads-meme-coin-rally-doubles-in-value-alongside-wif-pepe-floki-and-others",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-14T112405.979.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-14T112405.979.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-14T112405.979-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/09/unnamed-2023-09-14T112405.979-104x69.jpg 104w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Dogecoin price has surged by 130% in eight days, breaking past significant resistance levels. Analyst Captain Faibik predicts DOGE could target $0.8 as its new ATH. Dogecoin (DOGE), the once quirky meme coin, has continued its astronomical ascent, further building on the prior week&#8217;s remarkable 78% surge. This surge in DOGE&#8217;s price is a testament [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-05T09:00:45.000Z",
+    "title": "Dogecoin’s Price Patterns Hint at 2020 Rally Repeat; Bittensor Finds a Growing Rival",
+    "url": "https://www.crypto-news-flash.com/dogecoins-price-patterns-hint-at-2020-rally-repeat-bittensor-finds-a-growing-rival/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoins-price-patterns-hint-at-2020-rally-repeat-bittensor-finds-a-growing-rival",
+    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-05T083449.857-450x253.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The crypto market is known for its unpredictability, and the latest update in this unfolding story features one of the best meme coins &#8211; Dogecoin (DOGE). Analysts are abuzz with discussions about Dogecoin&#8217;s recent price movements after the recent SEC decision on Bitcoin ETF, drawing uncanny parallels to the patterns witnessed in 2020. While Dogecoin [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-05T09:00:17.000Z",
+    "title": "Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3",
+    "url": "https://www.crypto-news-flash.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3/?utm_source=rss&utm_medium=rss&utm_campaign=proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Paris, France, March 5th, 2024, Chainwire Uniting Web3 Visionaries and Global Leaders Following the success of its 2023 edition, the Proof of Talk summit, heralded as the Davos of Web3, is back for its second year and brings together thought leaders, investors, CEOs, founders, exchanges, digital asset managers, and regulatory authorities for networking and thought-provoking [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-05T09:03:29.000Z",
+    "title": "14 AI Coins Ready to Explode — Part 1",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/14-ai-coins-ready-to-explode-part-1/",
+    "description": "<p>There are a handful of crypto narratives that stand out in 2024. Among others, these are, RWA, DePIN, gaming, and AI. The interest in AI has been on the rise. AI still has a lot to learn, but its models keep improving. In crypto, we see Web2 AI companies hook up with Web3 AI firms. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/14-ai-coins-ready-to-explode-part-1/\">14 AI Coins Ready to Explode — Part 1</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-05T08:44:40.000Z",
+    "title": "Orange Domains: Unifying Web2 and Web3",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/orange-domains-unifying-web2-and-web3/",
+    "description": "<p>Despite its importance, DNS has stayed within Web2, separate from the emerging crypto and blockchain sectors. However, the landscape is about to change dramatically, thanks to a groundbreaking partnership that includes Hiro Systems and Tucows. Let&#8217;s explore more about Orange Domains. DNS: From Web2 Foundations to Crypto Frontier Orange Domains represents a significant milestone in [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/orange-domains-unifying-web2-and-web3/\">Orange Domains: Unifying Web2 and Web3</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-05T08:31:10.000Z",
-    "title": "5 Altcoins to Consider Adding to Your Portfolio This March",
-    "url": "https://coinedition.com/5-altcoins-to-consider-adding-to-your-portfolio-this-march/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Altcoin Market Set to Explode, Analyst Targets $3.2 Trillion\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/06/Several_of_the_largest_altcoins_show_undervaluation_when_combining-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Altcoin Daily YouTube channel host has identified some crypto tokens investors could profit from by adding them to their portfolios this March. In a recently uploaded video, the host explained why Ethereum, Chainlink, Uniswap, Immutable, and SuperVerse are potential top performers soon. The host described Ethereum as “Digital Oil,” noting that the looming ETH [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/5-altcoins-to-consider-adding-to-your-portfolio-this-march/\">5 Altcoins to Consider Adding to Your Portfolio This March</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-05T08:55:47.000Z",
+    "title": "Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3",
+    "url": "https://coinedition.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3/",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/Proof_of_talk-07176_1709557211MQHgaXf56w-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Paris, France, March 5th, 2024, Chainwire Uniting Web3 Visionaries and Global Leaders Following the success of its 2023 edition, the Proof of Talk summit, heralded as the Davos of Web3, is back for its second year and brings together thought leaders, investors, CEOs, founders, exchanges, digital asset managers, and regulatory authorities for networking and thought-provoking [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/proof-of-talk-returns-to-the-louvre-palace-as-agenda-setting-event-for-web3/\">Proof of Talk returns to the Louvre Palace as agenda-setting event for Web3</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

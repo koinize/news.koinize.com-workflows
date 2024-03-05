@@ -1,86 +1,51 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-05T22:32:36.000Z",
-    "title": "Crypto Seeks to Make Mark on U.S. Elections During 'Super Tuesday'",
-    "url": "https://www.coindesk.com/policy/2024/03/05/crypto-seeks-to-make-mark-on-us-elections-during-super-tuesday/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The long list of primary elections Tuesday across 15 U.S. states will steer the fates of many seats in Congress and further solidifies the presidential showdown later this year, but Coinbase CEO Brian Armstrong said it's also a \"chance to send a message\" to federal politicians who've declined to come up with crypto policies."
+    "source": "Decrypt",
+    "date": "2024-03-05T22:47:33.000Z",
+    "title": "BlackRock Bitcoin ETF Sets New Record With $3.8 Billion In Trading Volume",
+    "url": "https://decrypt.co/220313/blackrock-bitcoin-etf-record-3-billion-volume-ibit",
+    "description": "The ten spot Bitcoin ETFs experienced $10 billion in combined trading day volume."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-05T22:31:35.000Z",
-    "title": " OrdiZK bridge vanishes in alleged $1.4M rug pull: CertiK  ",
-    "url": "https://cointelegraph.com/news/ordizk-bridge-vanishes-alleged-rug-pull-certik",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYTRiOTBiMTctNTg2Yy00MjJlLWFlNjYtMTBiZjNlYTdhMWM0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The team allegedly sold hundreds of millions of tokens into the market and then disappeared from social media.</p>\n                    <p><p>The team behind cross-chain bridging protocol OrdiZK (OZK) has allegedly performed an exit scam, taking off with $1.4 million worth of investors’ cryptocurrency, according to blockchain security platform CertiK.</p><p>Certik reports that on March 4, the protocol’s deployer account allegedly dumped 489 million OZK tokens on a decentralized exchange, receiving $132,000 in return. This sale caused the token price to plunge by 98%. Then, on March 5, it sold another approximately $214,000 worth of OZK, causing an additional 99% slippage.</p><p>Blockchain data confirms that on March 4, the OZK deployer <a href=\"https://etherscan.io/tx/0xca7b096c680ec42c7fa2abe1b3473793ad521630cdc4a3d5ee66a24146db9656\" target=\"_blank\" rel=\"noopener nofollow\">called</a> the “execute” function on Uniswap’s Universal Router contract, which resulted in approximately 489 million OZK being swapped for 35.65 Ether (ETH). On March 5, an additional 121 million OZK <a href=\"https://etherscan.io/tx/0xf1e612c2382f6efc15bff583b26132bb43c9f8e1ebbc3ab614821158091d7b33\" target=\"_blank\" rel=\"noopener nofollow\">was</a> swapped through the execute function, resulting in another 0.93 ETH being transferred from Uniswap’s OZK/ETH liquidity pool into the deployer account.</p><p><a href=\"https://cointelegraph.com/news/ordizk-bridge-vanishes-alleged-rug-pull-certik\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-05T22:54:49.000Z",
+    "title": " Spot Bitcoin ETFs set trading volume record amid BTC price high ",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-set-volume-record-btc-price-high",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMzM0ZmI2YmMtODc3Yi00YmNiLWFmYmMtN2YzZTQ2MGNjN2FiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>U.S.-based Bitcoin ETFs saw $10 billion in trading volume on March 5, beating last week's $7.7 billion record.</p>\n                    <p><p>The United States spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETF) had a record $10 billion in trading volume on March 5 as Bitcoin notched a new all-time high before it plummeted around 12% over the next five hours. </p><p>“These are bananas numbers for ETFs under [two months] old,” Bloomberg ETF analyst Eric Balchunas said in a March 5 X <a href=\"https://x.com/EricBalchunas/status/1765121689036427654\" target=\"_blank\" rel=\"noopener nofollow\">post</a> reporting the figures.</p><p>Bitcoin analyst Alessandro Ottaviani <a href=\"https://x.com/AlexOttaBTC/status/1765125586706641170\" target=\"_blank\" rel=\"noopener nofollow\">posted</a> a slightly lower trading volume of $9.58 billion for the funds — which still beat <a href=\"https://cointelegraph.com/news/bitcoin-etf-volumes-7-billion-break-records\">the previous record of $7.7 billion</a> set on Feb. 28.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-etfs-set-volume-record-btc-price-high\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-05T22:22:22.000Z",
-    "title": "Sui Chosen as a Foundational Partner for Groundbreaking Web3 Data Service as ZettaBlock Launches Open Beta",
-    "url": "https://cryptodaily.co.uk/2024/03/sui-chosen-as-a-foundational-partner-for-groundbreaking-web3-data-service-as-zettablock-launches-open-beta",
-    "description": "Sui Chosen as a Foundational Partner for Groundbreaking Web3 Data Service as ZettaBlock Launches Open Beta"
+    "source": "CryptoSlate",
+    "date": "2024-03-05T22:41:59.000Z",
+    "title": "Spot Bitcoin ETFs record $10 billion in daily volume, breaking previous record",
+    "url": "https://cryptoslate.com/spot-bitcoin-etfs-record-10-billion-in-daily-volume-breaking-previous-record/",
+    "description": "<p>Spot Bitcoin ETFs have continued their record-breaking performance this week, recording over $10 billion in volume on March 5 — the highest since their launch in January. The previous record was set on Feb. 28, when the ETFs recorded a collective trading volume of approximately $7.7 billion. IBIT, FBTC retain the lead Three spot Bitcoin [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/spot-bitcoin-etfs-record-10-billion-in-daily-volume-breaking-previous-record/\">Spot Bitcoin ETFs record $10 billion in daily volume, breaking previous record</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-03-05T22:30:46.000Z",
-    "title": "Precious Metal Peaks — Gold Surpasses $2,140, Marking Historic Price High",
-    "url": "https://news.bitcoin.com/precious-metal-peaks-gold-surpasses-2140-marking-historic-price-high/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Precious Metal Peaks — Gold Surpasses $2,139, Marking Historic Price High\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/2024golder.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As bitcoin climbed beyond its previous 2021 peak, the value of an ounce of pure gold similarly hit a lifetime high on March 5. The globally acknowledged safe haven asset soared to $2,140 per ounce on Tuesday, marking a 4.97% increase against the U.S. dollar over the preceding week. Price of Gold Climbs to Unprecedented [&#8230;]"
+    "source": "CryptoGlobe",
+    "date": "2024-03-05T22:53:00.000Z",
+    "title": "Shiba Inu ($SHIB) Price Soars 300% in a Week as Shibarium Hits New Milestones",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/shiba-inu-shib-price-soars-300-in-a-week-as-shibarium-hits-new-milestones/",
+    "description": "The price of the mem-inspired cryptocurrency Shiba Inu ($SHIB) has surged by more than 300% over the past week as the adoption of its layer-2 scaling solution keeps on growing and reaching new milestones. The meme-inspired cryptocurrency is now trading at around $0.00004112 per token after moving up over 400% over the last six months […]\n"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-05T22:23:01.000Z",
-    "title": "Sui Chosen as a Foundational Partner for Groundbreaking Web3 Data Service as ZettaBlock Launches Open Beta",
-    "url": "https://www.cryptopolitan.com/sui-chosen-as-a-foundational-partner-for-groundbreaking-web3-data-service-as-zettablock-launches-open-beta/",
-    "description": "Grand Cayman, Cayman Islands, March 5th, 2024, Chainwire Sui is one of twelve networks that will be integrated at ZettaBlock’s Open Beta launch, giving builders seamless access to a powerful new source of Web3 data platform Sui, the lightning fast, infinitely horizontally scalable layer 1 blockchain that has quickly become a leading destination for DeFi [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-05T23:07:51.000Z",
+    "title": "Kelexo soars amid crypto market surge in 2024",
+    "url": "https://crypto.news/kelexo-soars-amid-crypto-market-surge-in-2024/",
+    "description": "As 2024 sees BTC and ETH reaching record levels, KLXO's initial offering makes P2P lending more accessible. #partnercontent"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-05T22:15:24.000Z",
-    "title": "Flash crash on Coinbase sends Bitcoin/Euro tumbling",
-    "url": "https://www.cryptopolitan.com/flash-crash-on-coinbase-sends-bitcoin-euro-tumbling/",
-    "description": "Bitcoin&#8217;s value against the euro took a dramatic downturn on Coinbase, dropping 23.7% amid a volatile trading period. This decline came just after the cryptocurrency reached a new U.S. dollar high of $69,325. The price briefly fell to €48,529 from €60,000 on Coinbase, contrasting with the smaller dip observed on Kraken, where the price dipped [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-05T23:06:44.000Z",
+    "title": "Bitcoin nears new high; new project offers rewards for BTC prediction",
+    "url": "https://crypto.news/bitcoin-nears-new-high-new-project-offers-rewards-for-btc-prediction/",
+    "description": "Bitcoin is nearing a record peak, currently trading just under $69K, amid mixed analyst sentiments and a new project's launch. #partnercontent"
   },
   {
-    "source": "NullTX",
-    "date": "2024-03-05T22:30:08.000Z",
-    "title": "Pepe Coin Surges 240% In A Week Amid Profit-Taking By Whales",
-    "url": "https://nulltx.com/pepe-coin-surges-240-in-a-week-amid-profit-taking-by-whales/",
-    "description": "Pepe, the rising star among meme coins, has experienced an impressive surge in value, climbing over 240% in the past week and 7% in the last 24 hours, with its current trading price at $0.00000767. On-chain reports reveal significant profit-taking activity by five wallets, likely controlled by a single entity, [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-03-05T22:26:05.000Z",
-    "title": "Bitcoin Reaches Near All-Time High Amidst Record Profits And Increased Whale Activity",
-    "url": "https://nulltx.com/bitcoin-reaches-near-all-time-high-amidst-record-profits-and-increased-whale-activity/",
-    "description": "Bitcoin surged to $68,785 according to CoinMarketCap data, marking its highest market value since November 2021 and coming just shy of its all-time high of $68,789.  🥳 #Bitcoin has climbed as high on $67.5K on global #crypto exchanges, its highest market value since November 2021, and within 1.4% of the [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-03-05T22:19:35.000Z",
-    "title": "Memecoin $MEME Faces Challenges Despite Recent Gains",
-    "url": "https://nulltx.com/memecoin-meme-faces-challenges-despite-recent-gains/",
-    "description": "The native token of the web3 venture studio, Memeland, Memecoin ($MEME), has seen a surge of over 50% in the past 7 days. However, recent setbacks have led to a loss of nearly 12% of its value today. Spotonchain&#8217;s on-chain reports indicate that despite the overall excitement surrounding memecoins, the [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-03-05T22:15:50.000Z",
-    "title": "Ethereum ETH Surges Past $3,700 Amid Bullish Momentum",
-    "url": "https://nulltx.com/ethereum-eth-surges-past-3700-amid-bullish-momentum/",
-    "description": "The Ethereum market has witnessed a remarkable surge, with the price surpassing the $3,700 mark, mirroring the upward trend observed in Bitcoin, which recently soared above $68,000.  Ethereum ($ETH) is demonstrating significant strength, showcasing a staggering 54% increase over the past four weeks, marked by a series of bullish candles [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-05T22:30:12.000Z",
-    "title": "Fantom Launches Recovery Plan For Funds Lost In Multichain’s $200M Exploit, FTM Soars",
-    "url": "https://www.newsbtc.com/fantom/fantom-launches-recovery-plan-for-funds-lost-in-multichains-200m-exploit-ftm-soars/",
-    "description": "The Fantom (FTM) Foundation has taken decisive steps to recover assets lost in the Multichain exploit that devastated various chains, including its own, resulting in a staggering $210 million loss. After failed attempts to engage with the Multichain Foundation, the Protocol has announced that it filed a lawsuit for “breach of contract” and “fraudulent misrepresentations.”  Fantom Foundation Takes Legal Action Against Multichain The exploit, which occurred in July 2023, targeted the Multichain bridge and affected multiple chains, including Fantom, Ethereum (ETH), Binance’s BNB, Cronos (CRO), Polygon (MATIC), Arbitrum (ARB), zkSync, Optimism (OP), and Moonbeam (GLMR).  Fantom&#8217;s ecosystems suffered losses of approximately one-third of the total damage. In addition, the Fantom Foundation claims that the recovery process has faced numerous challenges due to legal complexities, jurisdictional issues, uncooperative former directors, and ongoing police investigations. Related Reading: Bitcoin On The Brink, Price Soars Above $68,000 – Will BTC Break Its 2021 Record? To pursue justice, the Fantom Foundation initiated several measures. They filed a police report in Singapore, where the Multichain Foundation is incorporated, and in Kunming, China, where Multichain and its founder are under investigation.  Legal counsel was engaged in the United States, China, Hong Kong, and Singapore to navigate the diverse jurisdictions involved. Additionally, Fantom partnered with the blockchain intelligence firm TRM Labs to conduct a comprehensive forensic analysis of the asset flow. As a decisive move, legal action against the Multichain Foundation for losses incurred by Fantom was commenced in Singapore. Empowered To Liquidate Multichain The Fantom Foundation has also disclosed that a recent default ruling by Judge Tan Boon Heng of the General Division of the High Court of Singapore has ruled in favor of the Protocol&#8217;s claim. According to the foundation&#8217;s blog post, the ruling paves the way for the protocol to petition the court to dissolve the Multichain Foundation and appoint a court-appointed liquidator. The liquidator, equipped with specialized expertise, legal powers, and authority to act on behalf of Multichain, will reportedly assist in the tracing, recovering, and distributing of missing or frozen assets. However, it is worth noting that while the current ruling addresses explicitly the Fantom Foundation&#8217;s losses, it sets an important precedent for all affected users to pursue their claims against Multichain. Related Reading: Shiba Inu Price Skyrockets 45%, Surges Past $0.000045: Here’s Why Ultimately, the Foundation intends to use this legal victory to facilitate the appointment of &#8220;suitably qualified&#8221; experts to recover and distribute assets on behalf of all creditors. This milestone marks a significant step forward in the ongoing legal saga and underscores the team&#8217;s approach to righting the wrongs caused by the exploit. Riding The Bull Market Despite the ongoing legal battle faced by the protocol, its native token, FTM, has experienced significant gains across all time frames, taking advantage of the current bullish sentiment in the overall market. In the year-to-date period, the FTM token has recorded a remarkable increase of 67%, followed by gains of over 92% in the past thirty days. Furthermore, in the past seven and fourteen days alone, the token has seen gains of 50% and 57%, respectively. This continuous upward trend propelled FTM to reach a 20-month high of $0.751 on Monday. However, it has since retraced and is trading for $0.681, with a modest recovery of 1.8% in the past few hours. Featured image from Shutterstock, chart from TradingView.com"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-05T22:22:58.000Z",
-    "title": "Sui Chosen as a Foundational Partner for Groundbreaking Web3 Data Service as ZettaBlock Launches Open Beta",
-    "url": "https://coinedition.com/sui-chosen-as-a-foundational-partner-for-groundbreaking-web3-data-service-as-zettablock-launches-open-beta/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/Sui_Header_1709671212OElNViCi3M-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Grand Cayman, Cayman Islands, March 5th, 2024, Chainwire Sui is one of twelve networks that will be integrated at ZettaBlock’s Open Beta launch, giving builders seamless access to a powerful new source of Web3 data platform Sui, the lightning fast, infinitely horizontally scalable layer 1 blockchain that has quickly become a leading destination for DeFi [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/sui-chosen-as-a-foundational-partner-for-groundbreaking-web3-data-service-as-zettablock-launches-open-beta/\">Sui Chosen as a Foundational Partner for Groundbreaking Web3 Data Service as ZettaBlock Launches Open Beta</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-03-05T23:01:39.000Z",
+    "title": "Binance Discontinues All Services for Nigerian Naira After Employees Detained by Government and Threatened With Fine",
+    "url": "https://dailyhodl.com/2024/03/05/binance-discontinues-all-services-for-nigerian-naira-after-employees-detained-by-government-and-threatened-with-fine/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/07/south-african-minister-three.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Binance, the world&#8217;s largest crypto exchange by trading volume is discontinuing support for the largest economy in Africa&#8217;s national currency. Late last week, the government of Nigeria demanded nearly $10 billion from Binance, alleging that the crypto exchange manipulated the exchange rate of its fiat currency. According to local reports, the Nigerian government slapped Binance with [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/05/binance-discontinues-all-services-for-nigerian-naira-after-employees-detained-by-government-and-threatened-with-fine/\">Binance Discontinues All Services for Nigerian Naira After Employees Detained by Government and Threatened With Fine</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

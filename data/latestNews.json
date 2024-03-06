@@ -1,93 +1,79 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-06T14:29:12.000Z",
-    "title": "UK Launches Consultation on Implementing OECD Crypto Reporting Framework",
-    "url": "https://www.coindesk.com/policy/2024/03/06/uk-launches-consultation-on-implementing-oecd-crypto-reporting-framework/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The U.K. government believes implementing the reporting framework could draw in 35 million pounds ($45 million) from 2026."
+    "date": "2024-03-06T14:48:02.000Z",
+    "title": "Ethereum Fees Set to Drop for Arbitrum, Polygon, Starknet, Base. But How Much?",
+    "url": "https://www.coindesk.com/tech/2024/03/06/ethereum-fees-set-to-drop-for-arbitrum-polygon-starknet-base-but-how-much/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Leading figures behind layer-2 teams told CoinDesk how Ethereum's upcoming Dencun upgrade will affect their networks."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-06T14:30:00.000Z",
-    "title": " Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions ",
-    "url": "https://cointelegraph.com/magazine/blockchain-transactions-per-second-tps-stupid-big-questions/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-BQ-is-TPS-a-stupid-way-to-measure-blockchains-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Does it still make sense to benchmark blockchains using transactions per second (TPS), or are there smarter alternatives in 2024?</p>\n                    <p><p><strong>For years now, TPS, or transactions per second, has been the go-to metric for blockchain developers trying to hype up their snazzy new networks. </strong></p><p>Compared to Bitcoins seven transactions per second maximum (usually closer to four), for years, Ripple claimed that XRP was able to handle 1,500 TPS, on par with Visa’s transactions per second, although chief technology officer David Schwartz <a href=\"https://thecryptobasic.com/2023/04/14/ripple-cto-dismisses-claims-that-xrp-ledger-handles-1500-transactions-per-sec/\" target=\"_blank\" rel=\"nofollow\">admitted</a> last year that it has never actually hit that figure.</p><p>Solana transactions per second are claimed to be 65,000 TPS in benchmark testing, although they are closer to 3,000 TPS in the real world  and its real TPS metric is much lower again. Even newer blockchain networks now <a href=\"https://blog.sui.io/sui-performance-update/\" target=\"_blank\" rel=\"nofollow\">tout</a> up to 297,000 transactions per second  theoretically, of course.</p><p><a href=\"https://cointelegraph.com/magazine/blockchain-transactions-per-second-tps-stupid-big-questions/\">Read more</a></p></p>\n                \n            "
+    "source": "Crypto Briefing",
+    "date": "2024-03-06T15:07:37.000Z",
+    "title": "BONK receives CoinMarketCap’s “Meme Coin of the Year” award",
+    "url": "https://cryptobriefing.com/bonk-gets-cmc-memecoin-of-the-year/",
+    "description": "CMC Crypto Awards 2024 winners also include Solana, BlackRock, and the shared victory of top crypto leaders"
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-06T14:19:23.000Z",
-    "title": " El Salvador Bitcoin holdings hit record $164M as BTC profits pass $50M ",
-    "url": "https://cointelegraph.com/news/el-salvador-bitcoin-holdings-164m-btc-profits-50m",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMjhiZDU5MWItMTZlOC00YzJlLThkYmMtZjJmMzdhNjYwNGFiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin adoption in El Salvador has netted the government up to $53 million in profits thanks to BTC price record highs.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) held by the government of El Salvador is now worth more than $150 million.</p><p>The <a href=\"https://bitcointreasuries.net/entities/48\" target=\"_blank\" rel=\"noopener nofollow\">latest data</a> from monitoring resource Bitcoin Treasuries estimates that El Salvador’s BTC holdings are up $50 million versus cost basis.</p><p>Bitcoin first appeared as legal tender in El Salvador in 2022, and since then, the country’s stash has gone from bear market rags to record riches.</p><p><a href=\"https://cointelegraph.com/news/el-salvador-bitcoin-holdings-164m-btc-profits-50m\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Coin Telegraph India",
-    "date": "2024-03-06T14:30:00.000Z",
-    "title": " Is measuring blockchain transactions per second (TPS) stupid in 2024? Big Questions ",
-    "url": "https://cointelegraph.com/magazine/blockchain-transactions-per-second-tps-stupid-big-questions/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-BQ-is-TPS-a-stupid-way-to-measure-blockchains-scaled.jpg\"></p><p>Does it still make sense to benchmark blockchains using transactions per second (TPS), or are there smarter alternatives in 2024?</p>\n            "
+    "source": "CryptoGlobe",
+    "date": "2024-03-06T14:48:35.000Z",
+    "title": "How Crypto Faucets Work and What They Offer Users",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/how-crypto-faucets-work-and-what-they-offer-users/",
+    "description": "Disclaimer: This article is sponsored content and should not be considered as financial or investment advice. Always do your own research before making any financial decisions. The opinions expressed in this article are those of the author and do not necessarily reflect the views of CryptoGlobe. Crypto Faucets are websites or apps that allow their […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-06T14:38:53.000Z",
-    "title": "Upcoming Meme Coin Explosion: A Comprehensive Price Trend Analysis",
-    "url": "https://cryptodaily.co.uk/2024/03/upcoming-meme-coin-explosion-a-comprehensive-price-trend-analysis",
-    "description": "Hold onto your hats, crypto enthusiasts! The meme coin market is exploding, skyrocketing to a staggering $50 billion market cap and outshining both DeFi and NFT sectors. Discover which meme coins are leading this sensational surge and why investors are flocking to them like never before!"
+    "date": "2024-03-06T14:48:40.000Z",
+    "title": "Insights from Zhen Yu, delves into MPC Wallets, Web3 User Onboarding, and the Crypto Landscape at Web3Auth",
+    "url": "https://cryptodaily.co.uk/2024/03/insights-from-zhen-yu-delves-into-mpc-wallets-web3-user-onboarding-and-the-crypto-landscape-at-web3auth",
+    "description": "Hi Zhen, thank you for taking the time to participate in this interview. We'd like to know a little about yourself and Web3Auth."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-06T14:20:19.000Z",
-    "title": "Solana Takes a Backseat: Altcoins Destined to Impress This Bull Market",
-    "url": "https://cryptodaily.co.uk/2024/03/solana-takes-a-backseat-altcoins-destined-to-impress-this-bull-market",
-    "description": "Solana takes a step back as new altcoins seize the spotlight in the crypto bull market! Get ready for an exhilarating ride with five selected cryptos, poised to leave a lasting impression. Discover the tokens that are set to outshine the rest and potentially lead the next big surge in the crypto world!"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-06T14:34:27.000Z",
-    "title": "OpenAI Introduces Dynamic Voice Feature for ChatGPT",
-    "url": "https://www.cryptopolitan.com/openai-introduces-voice-feature-for-chatgpt/",
-    "description": "OpenAI has taken a significant stride in enhancing user experience with the introduction of a dynamic voice feature for its renowned chatbot, ChatGPT. This groundbreaking addition allows the AI assistant to audibly respond, creating a more immersive and natural interaction for users. Available across both web and mobile platforms, the voice function enables users to [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-03-06T15:00:19.000Z",
+    "title": "Donald Trump’s Crypto Portfolio Soars to $7.5 Million, Fueled by TRUMP Coin’s Ascension and Ethereum Gains",
+    "url": "https://news.bitcoin.com/donald-trumps-crypto-portfolio-soars-to-7-5-million-fueled-by-trump-coins-ascension-and-ethereum-gains/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Donald Trump&#039;s Crypto Portfolio Soars to $7.5 Million, Fueled by TRUMP Coin&#039;s Ascension and Ethereum Gains\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/tmps.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />After the former 45th President of the United States, Donald Trump, saw his cryptocurrency holdings exceed $5 million, just ten days later, the value of Trump&#x2019;s digital asset collection has escalated to $7.5 million. This increase is largely due to $4.66 million emanating from the cryptocurrency he holds called TRUMP, which has experienced a significant [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-06T14:28:50.000Z",
-    "title": "Did You Know The NFL Uses AI to Save Players From Injuries",
-    "url": "https://www.cryptopolitan.com/nfl-uses-ai-to-save-players-from-injuries/",
-    "description": "Injuries are quite common in American football. The century-long sport is physically demanding and inherently sees players suffer head and body impact that consequently leaves players with a condition known as chronic traumatic encephalopathy (CTE) years later.&#160; CTE is a progressive degenerative disease of the brain that can lead to traumatic health challenges like personality [&#8230;]"
+    "date": "2024-03-06T15:00:00.000Z",
+    "title": "New Wallet Boom on Cardano Network; New AI Crypto Captures Attention",
+    "url": "https://www.cryptopolitan.com/new-wallet-boom-on-cardano-network-new-ai-crypto-captures-attention/",
+    "description": "Cardano has a new achievement to its name – an 89% surge in wallet activity. As per the data released by the blockchain, the wallet number of wallet addresses on the Cardano network jumped from 1,706 to 3,227 between February 22 and 23, 2024.&#160; The figures represent a rise in user interest. Market experts, who [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-06T14:20:57.000Z",
-    "title": "CMC Crypto Awards 2024: Winners Announced",
-    "url": "https://www.cryptopolitan.com/cmc-crypto-awards-2024-winners-announced/",
-    "description": "UAE, United States, March 6th, 2024, Chainwire After 10 days of online voting, deep data analysis, and discussions with an expert committee, CoinMarketCap has announced the winners of the CMC Crypto Awards 2024, an annual event that honors the exceptional people, products, and projects shaping Crypto and Web3. At the online Awards Ceremony, live-streamed March [&#8230;]"
+    "date": "2024-03-06T14:58:37.000Z",
+    "title": "Dogecoin (DOGE) Rival Surges To $0.0014: 328% Move, Bull Run Updates",
+    "url": "https://www.cryptopolitan.com/dogecoin-doge-rival-surges-to-0-0014-328-move-bull-run-updates/",
+    "description": "In a surprising turn of events that has sent ripples through the cryptocurrency community, Shiba Budz (BUDZ), a project once shadowed by the immense popularity of Dogecoin (DOGE), has made a spectacular leap. The meme coin, which was designed as a playful competitor to Dogecoin (DOGE), has surged to $0.0014, marking a 328% increase. This [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-06T14:56:08.000Z",
+    "title": "Dogecoin killer’ Priced At $0.0115 Gets Support From Cryptocurrency Community",
+    "url": "https://www.cryptopolitan.com/dogecoin-killer-priced-at-0-0115-gets-support-from-cryptocurrency-community/",
+    "description": "As Option2Trade (O2T) continues to gain traction and support within the cryptocurrency community, its designation as the &#8216;Dogecoin Killer&#8217; becomes increasingly plausible. With its accessible price point, emphasis on social trading and community rewards, and the suite of advanced features it offers, Option2Trade (O2T) is well-positioned to challenge the status quo. As the crypto market [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-06T14:51:27.000Z",
+    "title": "Nexo receives license to provide crypto services in Dubai",
+    "url": "https://crypto.news/nexo-crypto-services-license-dubai/",
+    "description": "Nexo, a digital assets institution and leading crypto lending platform, has reached a significant milestone, gaining preliminary approval from Dubai's Virtual Assets Regulatory Authority."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-06T15:00:38.000Z",
+    "title": "Don’t Miss Out: XRP Bull Flag Signals Explosive Price Movement",
+    "url": "https://www.newsbtc.com/analysis/xrp/dont-miss-out-xrp-bull-flag-signals-explosive-price-movement/",
+    "description": "The cryptocurrency market, notorious for its unpredictable nature, presents a complex picture for XRP. While the past week saw a positive surge of 15% in its value, whispers of a potential correction and the recent actions of major investors add another layer of intrigue. Related Reading: Can DOGE Avoid A Dive? Sell Pressure Puts Memecoin To The Test However, the daily chart paints a contrasting picture, with a slight decrease of 0.5% at the time of writing. This mixed performance, coupled with XRP&#8217;s current market capitalization of over $35.2 billion, highlights the token&#8217;s volatile nature. XRP: A Tale Of Two Charts And Conflicting Signals XRP&#8217;s weekly chart reflects a steady climb, suggesting a long-term bullish trend. However, the daily chart, dipped in crimson, hints at a potential short-term price decline. This conflicting data leaves investors uncertain about the token&#8217;s next move. Technical Outlook: Bullish Technical analysts offer divergent perspectives. Some, like World of Charts, see a bullish triangle pattern forming, predicting a potential price surge of up to three times its current value. Others point to indicators like Bollinger Bands and Chaikin Money Flow, suggesting a possible pullback. $Xrp#Xrp Finally Breaking Very Long Consolidation Of Symmetrical Triangle In 3 Days Timeframe Expecting Successful Breakout Soon Incase Of Successful Breakout Expecting 2-3x Bullish Wave In Midterm#Crypto pic.twitter.com/kGZTUpOReX — World Of Charts (@WorldOfCharts1) March 5, 2024 Beyond The Chart: Network Growth And Investor Sentiment Looking beyond the technical jargon, some fundamental factors offer cautious optimism. The token&#8217;s network is experiencing significant growth, with new addresses joining the ecosystem at an impressive rate. Additionally, the positive sentiment surrounding XRP, reflected in its weighted sentiment metric, indicates that many investors remain bullish on its long-term prospects. Source: Santiment The Whale Stirs The Waters The recent transfer of a massive chunk of XRP by a &#8220;whale,&#8221; a term used for large investors, has sent ripples through the crypto community. This significant movement, valued at over $27 million, serves as a reminder of the whales&#8217; potential to influence market sentiment and price fluctuations. XRP is now trading at $0.6032. Chart: TradingView.com Legal Pressures Predicting the future of any cryptocurrency, especially a volatile one like XRP, remains a challenging endeavor. The current situation presents a complex picture, with bullish and bearish signals vying for dominance, and recent price fluctuations adding another layer of uncertainty. Meanwhile, the court has granted the US Securities and Exchange Commission&#8217;s request to extend specific deadlines in the ongoing legal battle between Ripple Labs and the regulator. Related Reading: Solana DeFi Landscape Thrives With Record $11 Billion Trading Volume This ruling has far-reaching consequences for the litigation, including things like when Ripple can submit its response and when remedies-related briefings are due. Each side needs more time to read and react to relevant legal papers and arguments, which is why these extensions are necessary. Featured image from Pexels, chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-06T14:32:05.000Z",
-    "title": "CoinMarketCap Unveils CMC Crypto Awards 2024 Winners in a Global Spectacle",
-    "url": "https://www.crypto-news-flash.com/coinmarketcap-unveils-cmc-crypto-awards-2024-winners-in-a-global-spectacle/?utm_source=rss&utm_medium=rss&utm_campaign=coinmarketcap-unveils-cmc-crypto-awards-2024-winners-in-a-global-spectacle",
-    "description": "<img width=\"1200\" height=\"689\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k-300x172.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k-768x441.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/cmc-k-450x258.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />CoinMarketCap&#8217;s 2024 Crypto Awards declared winners after 10 days of global online voting, featuring Solana as Crypto of the Year. BlackRock earns Bridge Builder of the Year, Bonk shines as Meme Coin of the Year, and social influencer ZachXBT gains attention, while the Crypto Leader Of The Year Award surprisingly goes to all nominees CoinMarketCap [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-06T14:20:42.000Z",
-    "title": "CMC Crypto Awards 2024: Winners Announced",
-    "url": "https://www.crypto-news-flash.com/cmc-crypto-awards-2024-winners-announced/?utm_source=rss&utm_medium=rss&utm_campaign=cmc-crypto-awards-2024-winners-announced",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />UAE, United States, March 6th, 2024, Chainwire After 10 days of online voting, deep data analysis, and discussions with an expert committee, CoinMarketCap has announced the winners of the CMC Crypto Awards 2024, an annual event that honors the exceptional people, products, and projects shaping Crypto and Web3. At the online Awards Ceremony, live-streamed March [...]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-06T14:20:51.000Z",
-    "title": "CMC Crypto Awards 2024: Winners Announced",
-    "url": "https://coinedition.com/cmc-crypto-awards-2024-winners-announced/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/1600x900_5_1709600640lS4TNDOM8J-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>UAE, United States, March 6th, 2024, Chainwire After 10 days of online voting, deep data analysis, and discussions with an expert committee, CoinMarketCap has announced the winners of the CMC Crypto Awards 2024, an annual event that honors the exceptional people, products, and projects shaping Crypto and Web3. At the online Awards Ceremony, live-streamed March [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cmc-crypto-awards-2024-winners-announced/\">CMC Crypto Awards 2024: Winners Announced</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-06T14:17:00.000Z",
-    "title": "Pundit Asserts Shiba Inu to Claim $100 Billion Valuation with Potential 367% Rally",
-    "url": "https://coinedition.com/shiba-inu-to-claim-100-billion-valuation-claims-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/shiba9.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba Inu to Claim $100 Billion Valuation, Claims Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/shiba9.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/shiba9-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/shiba9-380x214.jpg 380w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>While Shiba Inu has recently emerged as a notable performer in this crypto bull market, prominent community figures like Jake Gagain believe the asset is only just starting, projecting a more staggering multi-billion dollar valuation. In a recent post on X, Gagain proclaimed that Shiba Inu would attain a $100 billion market cap this bull [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shiba-inu-to-claim-100-billion-valuation-claims-analyst/\">Pundit Asserts Shiba Inu to Claim $100 Billion Valuation with Potential 367% Rally</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-06T15:00:12.000Z",
+    "title": "Toncoin (TON) and Monero (XMR) Push for More Gains as Rebel Satoshi ($RBLZ) Capitalizes on Meme Coin Traction",
+    "url": "https://www.crypto-news-flash.com/toncoin-ton-and-monero-xmr-push-for-more-gains-as-rebel-satoshi-rblz-capitalizes-on-meme-coin-traction/?utm_source=rss&utm_medium=rss&utm_campaign=toncoin-ton-and-monero-xmr-push-for-more-gains-as-rebel-satoshi-rblz-capitalizes-on-meme-coin-traction",
+    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-06T095201.021-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Telegram-linked Toncoin offers mixed financial potential. While a familiar and dominant name, Monero&#8217;s privacy features make it a risky investment. New Rebel Satoshi finally lists on a few crypto exchanges, with multi-fold gains predicted. Toncoin (TON) and Monero (XMR) have exhibited stronger gains of late, raising the question of whether they are the best cryptos [...]"
   }
 ]

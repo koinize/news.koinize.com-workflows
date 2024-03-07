@@ -1,79 +1,23 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-07T12:03:39.000Z",
-    "title": "Pantera Looks to Purchase Discounted Solana Tokens With New Fund: Bloomberg",
-    "url": "https://www.coindesk.com/business/2024/03/07/pantera-looks-to-purchase-discounted-solana-tokens-with-new-fund-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Prices of Solana’s SOL are up nearly 600% over the past year, CoinGecko data shows."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-07T11:56:11.000Z",
-    "title": " Pantera launches fundraise to buy $250 million of SOL from FTX Estate: report  ",
-    "url": "https://cointelegraph.com/news/pantera-fundraise-buy-250-million-sol-ftx",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYmZlZDJiOGEtODRjOC00YzcyLWI1MWQtNzA1YzBjZDE1OTM4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The $5.2 billion asset management giant is eyeing FTX’s discounted SOL stack worth around $5.4 billion.</p>\n                    <p><p data-ct-non-breakable=\"true\">Pantera Capital, a crypto-focused asset management firm, is reportedly raising money to buy Solana (SOL) tokens from the estate of the bankrupt FTX exchange.</p><p>Pantera is seeking funds for the Pantera Solana Fund, aiming to buy up to $250 million worth of <a href=\"https://cointelegraph.com/solana-price\">SOL</a> tokens, according to marketing materials sent to prospective investors seen by <a href=\"https://www.bloomberg.com/news/articles/2024-03-07/pantera-raising-money-to-buy-250-million-solana-holding-from-ftx-sol?sref=IIP4JEyu\" target=\"_blank\" rel=\"noopener nofollow\">Bloomberg</a>.</p><p>Pantera is seeking to buy part of FTX’s SOL holdings at $59.95, which is 57% lower compared to today’s price of $142 per token. As part of Pantera’s investment opportunity, prospective investors must agree to a vesting period of up to four years.</p><p><a href=\"https://cointelegraph.com/news/pantera-fundraise-buy-250-million-sol-ftx\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-03-07T12:00:17.000Z",
-    "title": "Nigeria to tighten crypto regulation in wake of Binance disputes",
-    "url": "https://cryptoslate.com/nigeria-to-tighten-crypto-regulation-in-wake-of-binance-disputes/",
-    "description": "<p>The Nigerian Securities and Exchange Commission (SEC) has disclosed plans to introduce new regulations for crypto operators following recent challenges with Binance. New regulations The planned regulation would include licensing, registration, and screening guidelines for digital and virtual asset services providers (VASPs). In addition, the new guideline would ensure that malicious actors are not registered [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/nigeria-to-tighten-crypto-regulation-in-wake-of-binance-disputes/\">Nigeria to tighten crypto regulation in wake of Binance disputes</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-07T12:04:15.000Z",
-    "title": "Hoof Monitor AI Pioneers Cow Lameness Detection",
-    "url": "https://www.cryptopolitan.com/hoof-monitor-ai-pione-cow-lameness-detection/",
-    "description": "Development poised to revolutionize the dairy industry, a new Innovate UK-funded agri-tech project is underway in South West England.&#160; The initiative, dubbed &#8220;Hoof Monitor,&#8221; aims to deploy an Artificial Intelligence (AI)-powered thermal imaging tool for the early detection and treatment of dairy cow lameness. Transforming dairy health: The Hoof Monitor project The Hoof Monitor project [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-07T11:55:18.000Z",
-    "title": "Las Vegas CEO faces 127-year sentence for Bitcoin cartel laundering",
-    "url": "https://www.cryptopolitan.com/las-vegas-ceo-faces-127-year-sentence/",
-    "description": "Martin Mizrahi, the CEO of a Las Vegas-based internet service provider, has been convicted on multiple charges, including wire fraud, money laundering, and identity theft. Following a 12-day trial in Manhattan federal court, Mizrahi, 53, faces a potential 127-year prison sentence. The case highlights the growing concern over cryptocurrency&#8217;s role in financial crimes, as Mizrahi&#8217;s [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-07T11:53:47.000Z",
-    "title": "Generative AI Investments Drive Economic Growth Amidst Obstacles",
-    "url": "https://www.cryptopolitan.com/generative-ai-investments-drive-economic/",
-    "description": "Major technology companies in the United States, including Amazon, Alphabet, Meta, and Microsoft, are significantly increasing their investments in digital infrastructure to bolster the deployment of generative AI technologies worldwide. These investments, encompassing ultrafast chips, microprocessors, and data centers, are pivotal for the advancement and widespread adoption of generative AI. According to Counterpoint Research, approximately [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-07T12:08:16.000Z",
-    "title": "Shiba Inu announces ‘SHIB Names’ product launch after 385% price rally",
-    "url": "https://crypto.news/shiba-inu-announces-shib-names-product-launch-after-385-price-rally/",
-    "description": "Shiba Inu market analysis explores how the newly-launched SHIB Names service could impact short-term price action. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-07T12:02:27.000Z",
-    "title": "Avalanche unveils Durango upgrade to foster blockchain interoperability and more",
-    "url": "https://crypto.news/avalanche-unveils-durango-upgrade-to-foster-blockchain-interoperability-and-more/",
-    "description": "The Avalanche (AVAX) development team has announced the launch of the Durango upgrade and introduced the Teleporter tool, which is designed to improve interoperability within its ecosystem. Teleporter, unveiled on March 7, is a tool built on Avalanche Warp Messaging&#8230;"
+    "date": "2024-03-07T12:17:27.000Z",
+    "title": "Nigeria's SEC Updates Guidelines for Crypto Firms in Bid to Stop Criminal Activity: Report",
+    "url": "https://www.coindesk.com/policy/2024/03/07/nigerias-sec-updates-guidelines-for-crypto-firms-in-bid-to-stop-criminal-activity-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Nigeria's government has started a fresh crackdown on crypto firms, reportedly blocking access to several, including Binance, Coinbase and Kraken."
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-07T11:49:23.000Z",
-    "title": "Phantom Wallet Rolls Out WNS Standard Support",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/phantom-wallet-rolls-out-wns-standard-support/",
-    "description": "<p>This marks a milestone for Phantom Wallet and a new era for NFT users and creators, especially with the innovative WNS standard. The WNS standard is quickly becoming known for its flexibility, efficiency, and unique digital asset management opportunities. WNS Standard: Shaping the Future of Solana&#8217;s Assets on Phantom Integrating WNS support, Phantom Wallet leads [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/phantom-wallet-rolls-out-wns-standard-support/\">Phantom Wallet Rolls Out WNS Standard Support</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-03-07T12:23:21.000Z",
+    "title": "Pantera Capital Eyes $250M $SOL Buy from FTX",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/pantera-capital-eyes-250m-sol-buy-from-ftx/",
+    "description": "<p>The firm is raising funds to buy $250M of $SOL from bankrupt FTX at a potential 39% discount. This initiative shows Pantera Capital&#8217;s belief in Solana&#8217;s long-term value and skill in capitalizing on distressed assets. Pantera Bets Big on Solana&#8217;s Future According to Bloomberg, the investment proposition comes with an enticing incentive for investors. The [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/pantera-capital-eyes-250m-sol-buy-from-ftx/\">Pantera Capital Eyes $250M $SOL Buy from FTX</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-07T11:59:17.000Z",
-    "title": "Shiba Inu and DogWifHat Make more than +180%, Can BlastUP Repeat?",
-    "url": "https://coinedition.com/shiba-inu-and-dogwifhat-make-more-than-180-can-blastup-repeat/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/4-54.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/4-54.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/4-54-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/4-54-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/4-54-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/4-54-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/4-54-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/4-54-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/4-54-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/4-54-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/4-54-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/4-54-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/4-54-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/4-54-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/4-54-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/4-54-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/4-54-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bitcoin has hit a record high, but a &#8220;sell the news&#8221; moment is looming. Meanwhile, Shiba Inu and DogWifiHat are riding the crypto wave, enjoying a surge of over 180%. Amidst these events, there&#8217;s speculation over whether BlastUP can replicate this astonishing growth. This unfolding situation gives a fresh perspective on the fluctuating crypto market. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shiba-inu-and-dogwifhat-make-more-than-180-can-blastup-repeat/\">Shiba Inu and DogWifHat Make more than +180%, Can BlastUP Repeat?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-07T11:44:03.000Z",
-    "title": "10 Altcoins With Bullish Potential for March 2024: Top Picks",
-    "url": "https://coinedition.com/10-altcoins-with-bullish-potential-for-march-2024-top-picks/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/10-Altcoins-With-Bullish-Potential-for-March-2024-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Here, Coin Edition looks at ten altcoins that could recover significantly after the market turmoil settles. Uniswap (UNI) Uniswap’s (UNI) price was $15.06 at press time. In the last seven days, the price has increased by 37%. However, the Relative Strength Index (RSI) reading had fallen at press time, indicating that the buying momentum was [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/10-altcoins-with-bullish-potential-for-march-2024-top-picks/\">10 Altcoins With Bullish Potential for March 2024: Top Picks</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-07T12:21:14.000Z",
+    "title": "Holders Of SEI, Arbitrum and BlastUP Will in This Bull Run",
+    "url": "https://coinedition.com/holders-of-sei-arbitrum-and-blastup-will-in-this-bull-run/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/3-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Holders Of Sei, Arbitrum and BlastUP Will in This Bull Run\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/3-2.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/3-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/3-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/3-2-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/3-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/3-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/3-2-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/3-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/3-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/3-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/3-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/3-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/3-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/3-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/3-2-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/3-2-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bitcoin hit an all-time high recently, creating a buzz in the crypto market. Amid this event, owners of Sei, Arbitrum, and BlastUP seem to be in a beneficial spot. With a bullish trend dominating, these tokens show promising prospects. This development indicates an interesting phase for cryptocurrencies. Our latest story explores the significance and potential [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/holders-of-sei-arbitrum-and-blastup-will-in-this-bull-run/\">Holders Of SEI, Arbitrum and BlastUP Will in This Bull Run</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

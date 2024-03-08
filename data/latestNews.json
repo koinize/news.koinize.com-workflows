@@ -1,100 +1,72 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-08T16:27:11.000Z",
-    "title": "'Groundhog Day' in Crypto as Bitcoin Again Plunges Following New Record ",
-    "url": "https://www.coindesk.com/markets/2024/03/08/groundhog-day-in-crypto-as-bitcoin-again-plunges-following-new-record/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Bitcoin briefly rose above $70,000 Friday, but immediately tumbled to $67,000, repeating Tuesday's action."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-03-08T16:30:46.000Z",
-    "title": "BBC to Experiment With Generative AI, Starting With “Doctor Who”",
-    "url": "https://decrypt.co/220809/bbc-to-experiment-with-generative-ai-starting-with-doctor-who",
-    "description": "The broadcaster has started using AI to generate marketing materials for the hit show, and is open to using it elsewhere. "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-08T16:18:31.000Z",
-    "title": " Arbitrum DAO votes on $1M fund for Tornado Cash devs&#039; legal defense  ",
-    "url": "https://cointelegraph.com/news/arbitrum-dao-vote-1-million-fund-tornado-cash-devs-legal-defense",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMDA2Yjg4YzUtN2JhYS00ZjE5LTkxMzktMTU4YmE0NTk5OTc3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Arbitrum community is voting on a proposal to fund a “robust legal defense” for Tornado Cash developers Roman Storm and Alexey Pertsev.</p>\n                    <p><p>The Arbitrum DAO is voting to fund the legal defense costs of Tornado Cash’s developers. If approved, the community would donate up to ​​600,000 ARB tokens in the first year, worth nearly $1.3 million at the time of writing. </p><p>A proposal <a href=\"https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xa819a4faf67d7b52272b2ddc8c5a48f87407269e689740fed781a29707c8f44c\" target=\"_blank\" rel=\"noopener nofollow\">submitted</a> on March 7 by pseudonymous delegate DK seeks to fund a “robust legal defense” for Roman Storm and Alexey Pertsev, the developers behind the crypto mixer Tornado Cash. In addition, the funds could be used for public relations and advocacy efforts promoting awareness around privacy-preserving technologies and legal burdens for developers.</p><p data-ct-non-breakable=\"true\">The proposal sets three tiers for voting under different funding levels, ranging from 200,000 to 600,000 ARB. To date, more than 80% of the votes have been cast for the highest tier. The deadline for voting is March 14.</p><p><a href=\"https://cointelegraph.com/news/arbitrum-dao-vote-1-million-fund-tornado-cash-devs-legal-defense\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-03-08T16:28:24.000Z",
-    "title": "BitMEX co-founder believes this stablecoin could flip Tether one day",
-    "url": "https://cryptoslate.com/bitmex-co-founder-believes-this-stablecoin-could-flip-tether-one-day/",
-    "description": "<p>Ethena, the protocol powering the USDe synthetic dollar, raked in $6.53 million in fees over the last 24 hours, cementing its position as the top fee-generating decentralized application (dApp) in the crypto space, according to data from DeFillama. Seraphim Czecker, Ethena Labs&#8217; Head of Growth, shared insights from Token Terminal, affirming the project&#8217;s remarkable milestone. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/bitmex-co-founder-believes-this-stablecoin-could-flip-tether-one-day/\">BitMEX co-founder believes this stablecoin could flip Tether one day</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
     "source": "Crypto Briefing",
-    "date": "2024-03-08T16:12:56.000Z",
-    "title": "Ethereum’s on-chain fees soar as meme coin frenzy escalates",
-    "url": "https://cryptobriefing.com/meme-coin-fever-drives-up-ethereum-solana-fees/",
-    "description": "Meme coin trading frenzy pushes Ethereum's on-chain fees to record highs as PEPE leads gains and Solana matches DEX volumes."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-08T16:14:16.000Z",
-    "title": "Riding the Bull: Experts Name 3 Cryptocurrencies to Turn a Modest Investment into a Strong Portfolio",
-    "url": "https://cryptodaily.co.uk/2024/03/riding-the-bull-experts-name-3-cryptocurrencies-to-turn-a-modest-investment-into-a-strong-portfolio",
-    "description": "Experts reveal 3 cryptocurrencies set to turn a modest investment into a robust portfolio amidst the current market shift! As Bitcoin soars to new heights, leading altcoins are positioned for explosive growth. Discover how savvy investments in these promising cryptocurrencies could multiply your returns in a dynamic crypto landscape!"
+    "date": "2024-03-08T16:47:23.000Z",
+    "title": "BlackRock plans to buy Bitcoin ETFs for its $18 billion Global Allocation Fund",
+    "url": "https://cryptobriefing.com/blackrock-buy-bitcoin-etfs-18-billion-global-allocation-fund/",
+    "description": "BlackRock is planning to add Bitcoin ETFs into its $18 billion Global Allocation Fund for a diversified investment strategy."
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-03-08T16:30:19.000Z",
-    "title": "From Laughs to Loot: Meme Coins FLOKI and PEPE See Explosive Growth Amidst Crypto Surge",
-    "url": "https://news.bitcoin.com/from-laughs-to-loot-meme-coins-floki-and-pepe-see-explosive-growth-amidst-crypto-surge/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dggdfjfkfk.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Friday, bitcoin and ethereum experienced modest upticks, registering increases of 2% to 5%, respectively. Meanwhile, the meme coin FLOKI has soared by 70% in the last 24 hours, with PEPE also making notable gains of 32.7%. Friday saw around ten cryptocurrencies achieving double-digit increases, propelling the total crypto market valuation to $2.6 trillion. Crypto [&#8230;]"
+    "date": "2024-03-08T17:00:52.000Z",
+    "title": "Goldman Sachs Reevaluates Coinbase, Eyes Neutral Stance Amid Crypto Surge",
+    "url": "https://news.bitcoin.com/goldman-sachs-reevaluates-coinbase-eyes-neutral-stance-amid-crypto-surge/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/boof.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a significant shift, Goldman Sachs has upgraded its rating on Coinbase shares from selling to neutral, citing a surge in crypto prices and record-breaking daily volumes. The adjustment to a $282 price target reflects the bank&#x2019;s reassessment of the San Francisco-based crypto exchange&#x2019;s revenue potential and operational strides toward profitability. Goldman Sachs Shifts Gears: [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-08T16:33:21.000Z",
-    "title": "Innovative Accessibility Technology Trials Launched at Glasgow Airport",
-    "url": "https://www.cryptopolitan.com/technology-trials-launched-glasgow-airport/",
-    "description": "In a pioneering move towards enhancing accessibility in transportation hubs, the Connected Places Catapult has initiated a series of groundbreaking accessibility technology trials at Glasgow Airport in Scotland.&#160; These trials, set to take place this month, mark a significant step forward in leveraging technology to create more inclusive environments for all passengers, including those with [&#8230;]"
+    "date": "2024-03-08T17:04:02.000Z",
+    "title": "AI Revolutionizing Revenue Cycle Management in Healthcare",
+    "url": "https://www.cryptopolitan.com/ai-revolutionizing-revenue-cycle-management/",
+    "description": "The intersection of healthcare and technology continues to evolve, with recent advancements in AI holding significant promise for improving administrative functions, particularly in revenue cycle management (RCM).&#160; Jay Aslam, the co-founder and chief data scientist at CodaMetrix, has been instrumental in leveraging AI to enhance RCM performance. Aslam&#8217;s insights shed light on the transformative potential [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-08T16:19:59.000Z",
-    "title": "Scientific Community Unveils Guidelines for Responsible AI Use in Protein Design",
-    "url": "https://www.cryptopolitan.com/guidelines-for-responsible-ai-use-in-protein/",
-    "description": "A consortium of over 90 esteemed researchers, including a Nobel laureate, has called for adopting safety and security standards in utilizing artificial intelligence (AI) for synthetic protein design. The initiative, unveiled at Winter RosettaCon 2024 in Boston, seeks to ensure the responsible development of AI-driven protein design technologies. Initiative Highlights The statement, led by the [&#8230;]"
+    "date": "2024-03-08T17:03:08.000Z",
+    "title": "The Philippines Takes a Bold Move Toward AI and Women’s Inclusivity",
+    "url": "https://www.cryptopolitan.com/the-philippines-ai-and-womens-inclusivity/",
+    "description": "Discover how the Department of Trade and Industry of the Philippines and Connected Women are joining forces to transform the digital world through AI."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-08T16:16:21.000Z",
-    "title": "Legend of Mushroom Offer Free Diamonds, Coupons and More ",
-    "url": "https://www.cryptopolitan.com/legend-of-mushroom-freebies/",
-    "description": "Discover the latest Legend of Mushroom codes for March 2024 and learn how to redeem them for free Diamonds, Coupons, and other rewards."
+    "date": "2024-03-08T16:47:52.000Z",
+    "title": "AMD Introduces LM Studio for Local AI Model Deployment",
+    "url": "https://www.cryptopolitan.com/amd-introduces-lm-studio-for-local-ai-model/",
+    "description": "To democratize access to advanced AI technologies, AMD has unveiled LM Studio, a versatile tool enabling users to download and deploy large-language models (LLMs) locally. This move counters the prevailing trend where AI services predominantly rely on powerful Nvidia hardware and necessitate an internet connection. AMD&#8217;s LM Studio aims to empower users with seamless access [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-08T16:16:15.000Z",
-    "title": "ChatGPT in Class? Bulgaria Education Minister Set Focus on AI",
-    "url": "https://www.cryptopolitan.com/bulgaria-education-minister-set-focus-on-ai/",
-    "description": "During the press conference on Friday, the outgoing Bulgarian Education Minister, Galin Tzokov, highlighted the accomplishments and future direction of his ministry, with a focus on artificial intelligence. Bulgaria Sets the Stage for EdTech Integration Tzokov acknowledged the challenges of implementing significant changes within a short timeframe, having served for nine months. However, he said [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-08T16:57:34.000Z",
+    "title": "Wyoming passes bill recognizing DAOs as legal entities ",
+    "url": "https://crypto.news/wyoming-bill-dao-legal-entities/",
+    "description": "The State of Wyoming passed a landmark crypto bill to bring DAOs under the purview of existing laws and address pain points synonymous with decentralized organizations. "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-08T16:11:18.000Z",
-    "title": "Xbox Unveils Four Free Games for a Limited Time to Game Pass Subscribers",
-    "url": "https://www.cryptopolitan.com/xbox-unveils-four-free-games/",
-    "description": "In a delightful surprise for gaming enthusiasts, Xbox has announced a limited-time offer allowing Xbox Game Pass subscribers to download and play four exciting games for free this weekend. This initiative, part of Xbox&#8217;s Free Play Days, aims to provide subscribers with a taste of diverse gaming experiences without any additional cost. From intense fighting [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-08T16:48:48.000Z",
+    "title": "Goldman Sachs upgrades Coinbase to neutral, sets new price target",
+    "url": "https://crypto.news/coinbase-goldman-sachs-price/",
+    "description": "Goldman Sachs has upgraded its rating on Coinbase from sell to neutral, setting a new price target of $282 for the stock."
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-03-08T16:30:00.000Z",
-    "title": "BTC is Fulfilling An Elliot Wave Pattern From November 2022: Analyst",
-    "url": "https://coinedition.com/btc-is-fulfilling-an-elliot-wave-pattern-from-november-2022-analyst/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Robert Kiyosaki Sounds Alarm on Stock Market Crash\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels.jpg 730w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2023/11/Bitcoin-Possible-Rally-Before-the-Halving-Depends-on-Two-Levels-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>A Bitcoin analyst identified as CoinsKid on X thinks there is still more upside momentum for Bitcoin ahead of a potential reversal. CoinsKid referenced a prediction he made last September, claiming what many thought was a bear market from 2022 was only a corrective phase of a bull market. According to CoinsKid, he predicted last [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/btc-is-fulfilling-an-elliot-wave-pattern-from-november-2022-analyst/\">BTC is Fulfilling An Elliot Wave Pattern From November 2022: Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-03-08T17:00:59.000Z",
+    "title": "Bitcoin Upside Momentum Likely To Fall Even Further: Analyst",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-upside-momentum-fall/",
+    "description": "Amidst widespread bullish sentiment surrounding Bitcoin, one analyst on X thinks the leg up won&#8217;t be as strong as it was in the past few weeks. Pointing to developments in the Bitcoin log curves, the analyst expects the coin to find resistance as it attempts to break higher.  Bitcoin Uptrend To Slow Down The analyst doubts the current excitement around the uptrend, and technical formations advise the contrarian view. Many in the industry think Bitcoin will not only ease past $70,000, a round number nearly tested this week, but also float to $100,000 in the next few weeks.  On X, the analyst remains confident about the coin&#8217;s prospects. However, based on the Bitcoin log curve assessment, the leg up will likely be labored. The analyst compares the current price formations with the Bitcoin log curves. In 2021, the tool was used to identify price peaks. Based on price formation, the analyst notes that if BTC peaks in 2024, then prices will likely turn around from between $77,000 and $149,000. These prospective peaks&#8217; upper and lower bands represent layers 5 and 7 of the log curve. Related Reading: BNB Price Zooms 10%, Here Are Next Possible Barriers For Bulls Even with BTC possibly rising to $149,000, at least from the tool, the Layer 7 target is relatively lower. By factoring in a one-year slowdown in growth, the predicted peak is revised downwards from $180,000 to $149,000. When writing, the &#8220;red band&#8221; of the log curve has been breached earlier than usual. Looking back, Bitcoin prices tend to peak three months after this breakout.  That likely places Bitcoin&#8217;s peak at around the $77,000 level but below $100,000. Nonetheless, this is hard to predict, considering the volatile nature of prices and the dynamic nature of fundamental factors. The community remains optimistic about what lies ahead. So far, Bitcoin prices have been trending at historical highs, but there has been a sharp drop in the momentum of upside. BTC Bears In A Commanding Position The daily chart shows that prices are still inside the bear bar of March 5. The candlestick had a high trading volume and was wide-ranging. For the uptrend to be valid, prices must break above $70,000, based on rising trading volume. Related Reading: Bitcoin Bulls On Alert: Top Analyst Anticipates A Big Spike In The Cards Lower prices incentivize issuers to spot Bitcoin exchange-traded funds (ETFs) to load up on dips. Their actions have spurred demand over the past few weeks, lifting sentiment and prices. According to Coinstats&#8217; Fear and Greed Index, &#8220;extreme greed&#8221; exists in the market. Feature image from DALLE, chart from TradingView"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-03-08T16:11:28.000Z",
-    "title": "$900,000 Up for Grabs As New Guaranteed Income Program Announced in Major US County",
-    "url": "https://dailyhodl.com/2024/03/08/900000-up-for-grabs-as-new-guaranteed-income-program-announced-in-major-us-county/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/09/dollar-fdic-system.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A new guaranteed basic income program is set to launch in the US, handing out $900,000 in no-strings-attached money to its participants. California&#8217;s Fresno County has selected Huron and the 93706 zip code, two communities that struggle with relatively high poverty rates, to participate in a program that will see its citizens receive $500 a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/08/900000-up-for-grabs-as-new-guaranteed-income-program-announced-in-major-us-county/\">$900,000 Up for Grabs As New Guaranteed Income Program Announced in Major US County</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-03-08T17:00:38.000Z",
+    "title": "Massive Growth Expected for These L2 Cryptos According to Analysts",
+    "url": "https://www.crypto-news-flash.com/massive-growth-expected-for-these-l2-cryptos-according-to-analysts/?utm_source=rss&utm_medium=rss&utm_campaign=massive-growth-expected-for-these-l2-cryptos-according-to-analysts",
+    "description": "<img width=\"1200\" height=\"684\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1-300x171.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1-768x438.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1-150x86.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-08T164720.516-1-450x257.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Bitcoin recently saw a huge rise due to the possibility of exchange traded funds (ETFs). This event has spurred much excitement in the crypto market. In related news, Layer 2 cryptos are now predicted to witness enormous growth, according to analytics. This trend showcases the potential of these lesser-known cryptos in the evolving digital currency [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-08T16:51:42.000Z",
+    "title": "Cardano (ADA) Investors Use 13% 7 Day Gains to Buy New A.I Tech Token For 500x Gains",
+    "url": "https://www.crypto-news-flash.com/cardano-ada-investors-use-13-7-day-gains-to-buy-new-a-i-tech-token-for-500x-gains/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-investors-use-13-7-day-gains-to-buy-new-a-i-tech-token-for-500x-gains",
+    "description": "<img width=\"1280\" height=\"717\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49-300x168.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49-1200x672.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49-768x430.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-08_19-47-49-450x252.jpg 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />In the landscape of cryptocurrency, Cardano (ADA) investors are making strategic moves, leveraging recent gains to diversify their portfolios. In the past seven days, Cardano (ADA) has seen an impressive 13% increase in its value, a trend that savvy investors are keen to capitalize on. Amidst this upward trajectory, a new contender has emerged on [...]"
   }
 ]

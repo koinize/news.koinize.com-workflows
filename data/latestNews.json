@@ -1,30 +1,72 @@
 [
   {
+    "source": "Cointelegraph",
+    "date": "2024-03-09T09:18:00.000Z",
+    "title": " What are rebase tokens, and how do they work? ",
+    "url": "https://cointelegraph.com/explained/what-are-rebase-tokens-and-how-do-they-work",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MDE3OTc4YTQ0NWI4ZTNkMjI2MGY0NjM3YTE3ZDcyNC5qcGc=.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Explore the innovative mechanism of rebase tokens, which is designed to stabilize prices and adjust token supplies automatically.</p>\n                    <p><p data-ct-widget=\"explained-block-content\">                </p><p><em>Rebase tokens are a particular kind of cryptocurrency that periodically (typically daily or multiple times a day) modifies its total supply.</em></p><p>The adjustments seek to stabilize the rebased token’s price or target a specific value through methods that increase or decrease the token supply in reaction to price deviations from the target. A positive rebase, for example, increases the token supply and reduces the balances of current holders if the token’s price climbs above the target. On the other hand, a negative rebase lowers the supply and increases the value of existing holdings if the price drops below the target.</p><p><a href=\"https://cointelegraph.com/explained/what-are-rebase-tokens-and-how-do-they-work\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-09T09:30:53.000Z",
+    "title": "Nigerian Central Bank, Real-World Asset Firm Partner to Revive Struggling CBDC",
+    "url": "https://news.bitcoin.com/nigerian-central-bank-real-world-asset-firm-partner-to-revive-struggling-cbdc/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2070748298.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Gluwa, a platform for real-world assets, announced on March 7 its partnership with the Central Bank of Nigeria. The partnership arrangement aims to improve the functionality of the Nigerian central bank’s digital currency and promote financial innovation through blockchain technology. Improving the CBDC&#8217;s Utility Gluwa, a real-world assets platform, has entered into a partnership arrangement [&#8230;]"
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2024-03-09T08:57:05.000Z",
-    "title": "Bitcoin faces challenges in matching gold’s allocation in investor portfolios",
-    "url": "https://www.cryptopolitan.com/bitcoin-faces-challenges-in-matching-golds/",
-    "description": "In a recent research report, JPMorgan highlighted the challenges facing Bitcoin (BTC) in matching the allocation of gold within investor portfolios. Despite comparing the two assets, Bitcoin&#8217;s inherent risk and volatility pose significant hurdles. Bitcoin&#8217;s potential market cap and price projection JPMorgan&#8217;s analysis suggests that for Bitcoin to align with gold&#8217;s allocation, its market cap [&#8230;]"
+    "date": "2024-03-09T09:32:52.000Z",
+    "title": "Coinbase Outage Amid Bitcoin Surge: Implications for Cryptocurrency Market and AI Industry",
+    "url": "https://www.cryptopolitan.com/coinbase-outage-amid-bitcoin-surge/",
+    "description": "Recently, the prominent cryptocurrency exchange Coinbase experienced a significant outage, leaving users stranded during a surge in Bitcoin prices. CEO Brian Armstrong attributed the blackout to an &#8220;unprecedented surge of traffic,&#8221; acknowledging the exchange&#8217;s infrastructure struggled to manage the overwhelming demand. This outage raised concerns about the exchange&#8217;s ability to scale and handle peak demand [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-09T09:25:25.000Z",
+    "title": "SEI Price Prediction 2024-2033: Time to buy SEI?",
+    "url": "https://www.cryptopolitan.com/sei-price-prediction/",
+    "description": "SEI Price Prediction 2024-2033 Cryptocurrency adoption is on exponential growth, especially altcoins and, more so, those associated with decentralized finance (DeFi). One of the altcoins whose popularity has risen is the SEI coin, and with this SEI price prediction, we can gauge the coin’s potential. SEI token that powers the SEI network. Will SEI price [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-03-09T09:00:50.000Z",
-    "title": "FLOKI PRICE ANALYSIS & PREDICTION (March 9) – Floki Breaks Higher After Exploding 40% Overnight, Where Next?",
-    "url": "https://nulltx.com/floki-price-analysis-prediction-march-9-floki-breaks-higher-after-exploding-40-overnight-where-next/",
-    "description": "Meme coins are gaining traction again after taking a short break in buying. Floki saw the most gain today, leading the top-gainer chart with a 210% surge in the past week. Failure to sustain momentum may result in a reversal. Last week’s surge brought several mem coins out of the wood [&#8230;]"
+    "date": "2024-03-09T09:36:09.000Z",
+    "title": "Synthetix Community Observes Slow Movement Of $SNX Token Amidst Crypto Market Surge",
+    "url": "https://nulltx.com/synthetix-community-observes-slow-movement-of-snx-token-amidst-crypto-market-surge/",
+    "description": "The Synthetix community is closely monitoring the movement of the $SNX token against the backdrop of a bullish trend in the broader cryptocurrency market.  Despite the upward trajectory seen across various digital assets, $SNX has struggled to gain momentum throughout the week, leaving investors eager for a potential breakout. According [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-03-09T08:53:47.000Z",
-    "title": "BINANCE COIN PRICE ANALYSIS & PREDICTION (March 9) – BNB Posts 15% Weekly Gains Following Latest Surge In Volume, Targets $500 Next",
-    "url": "https://nulltx.com/binance-coin-price-analysis-prediction-march-9-bnb-posts-15-weekly-gains-following-latest-surge-in-volume-targets-500-next/",
-    "description": "Binance Coin, BNB advanced higher this week following a notable surge in volume. It appeared super bullish on the daily graph and is currently up by 50% monthly following a consistent volume inflow in the past weeks. BNB’s performance has been highly impressive over the past six months, although it [&#8230;]"
+    "date": "2024-03-09T09:30:39.000Z",
+    "title": "Bitcoin Market Dynamics: Sharks and Whales Hold Steady Amid Volatility",
+    "url": "https://nulltx.com/bitcoin-market-dynamics-sharks-and-whales-hold-steady-amid-volatility/",
+    "description": "The recent turbulence in Bitcoin&#8217;s price post-AllTimeHigh hasn&#8217;t deterred the presence of sharks and whales in the market. Despite the fluctuations, there&#8217;s a noticeable decline in overall non-0 $BTC wallets, largely attributed to smaller traders capitulating amidst the uncertainty. Santiment data reveals a 3.9% increase in 10k-100k wallets over the [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-03-09T09:23:59.000Z",
+    "title": "Dogwifhat (WIF) Soars, But Developers May Have Missed Out On Millions",
+    "url": "https://nulltx.com/dogwifhat-wif-soars-but-developers-may-have-missed-out-on-millions/",
+    "description": "Dogwifhat (WIF), the latest sensation in the meme currency market, experienced a remarkable surge of over 27% on Friday, propelling it to a new all-time high and surpassing its previous record once again. With its recent ascent, WIF is now setting its sights on surpassing PEPE after overtaking BONK in [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-03-09T09:19:17.000Z",
+    "title": "Solana Nears $150 Milestone, Marking Highest Point In Over 2 Years",
+    "url": "https://nulltx.com/solana-nears-150-milestone-marking-highest-point-in-over-2-years/",
+    "description": "Solana (SOL) is on the verge of a significant milestone, with its price approaching the $150 mark for the first time since January 16th, 2022. The recent surge in SOL&#8217;s value signifies a remarkable achievement, marking a new high after more than two years. 📈 #Solana is on the brink [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-09T09:00:09.000Z",
-    "title": "BTC Profit Ratio Nears Bull Market Highs; This New AI Altcoin Presale Resonates Widely with Investors",
-    "url": "https://www.crypto-news-flash.com/btc-profit-ratio-nears-bull-market-highs-this-new-ai-altcoin-presale-resonates-widely-with-investors/?utm_source=rss&utm_medium=rss&utm_campaign=btc-profit-ratio-nears-bull-market-highs-this-new-ai-altcoin-presale-resonates-widely-with-investors",
-    "description": "<img width=\"1200\" height=\"801\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316-768x513.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-09T091044.316-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Bitcoin&#8217;s (BTC) profit ratio recently breached 94.8%. The feat has crypto analysts excited as the token had the same profit ratio at the beginning of a bull market in 2020. The development comes at a time when the token has been garnering attention due to the spot Bitcoin exchange-traded funds (ETFs).  These financial products debuted [...]"
+    "date": "2024-03-09T09:18:14.000Z",
+    "title": "VeChain Leads Blockchain Integration: NFC Chips Drive Data Authenticity and Market Growth",
+    "url": "https://www.crypto-news-flash.com/vechain-leads-blockchain-integration-nfc-chips-drive-data-authenticity-and-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=vechain-leads-blockchain-integration-nfc-chips-drive-data-authenticity-and-market-growth",
+    "description": "<img width=\"1280\" height=\"768\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"VeChain blockchain\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-1024x614.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-24x14.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-36x22.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2020/07/VeCHain-Den-Rise-Shutterstock-48x29.jpg 48w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />VeChain partners with renowned sportswear brand Venum to introduce a limited collection of t-shirts featuring legendary MMA figures. The integration of NFC chips into apparel ensures product traceability, establishes a direct channel for brand communication, and transforms each item into a unique digital asset through VeChain&#8217;s technology. VeChain, a leading blockchain platform, is reshaping the [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-09T09:23:00.000Z",
+    "title": "SHIB Marketer Applauds Developers and Builders on Shibarium",
+    "url": "https://coinedition.com/shib-marketer-applauds-developers-and-builders-on-shibarium/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SHIB Marketer Applauds Developers and Builders on Shibarium\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4.jpg 730w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/02/Shiba-Inu-4-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Shiba Inu’s lead social media marketer, Lucie, has applauded developers and the builders on Shibarium who took part in the SHIB burn exercise. In a recent post on X, Lucie noted the burns wouldn’t have been possible without the efforts of those stakeholders.&#160; The meme coin project’s marketer appreciated Shibarium users, thanking them for supporting [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shib-marketer-applauds-developers-and-builders-on-shibarium/\">SHIB Marketer Applauds Developers and Builders on Shibarium</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

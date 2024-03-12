@@ -1,37 +1,16 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-12T23:28:02.000Z",
+    "title": "Coinbase Plans $1B Bond Sale That Avoids Hurting Stock Investors, Copying Michael Saylor's Successful Bitcoin Playbook",
+    "url": "https://www.coindesk.com/business/2024/03/12/coinbase-plans-1b-bond-sale-that-avoids-hurting-stock-investors-copying-michael-saylors-successful-bitcoin-playbook/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The convertible notes Coinbase wants to sell include provisions aimed at aiding its stock investors."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-03-12T23:03:14.000Z",
-    "title": "Solana Weighs Significant Changes to Deal With Network Demand",
-    "url": "https://decrypt.co/221448/solana-weighs-significant-changes-network-demand",
-    "description": "Solana stakeholders are weighing tough choices in an effort to improve the usability of the fast-rising blockchain network."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-03-12T22:53:39.000Z",
-    "title": "“I think this year we hit a million,” says ex-Blockstream exec Samson Mow, citing Bitcoin’s supply and demand dynamics",
-    "url": "https://cryptobriefing.com/year-we-hit-million-ex-blockstream-exec-samson-mow-citing-bitcoin-supply-demand-dynamics/",
-    "description": "Ex-Blockstream exec Samson Mow sees Bitcoin hitting $1M by 2025, citing supply and demand dynamics and the upcoming halving event."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-03-12T23:00:19.000Z",
-    "title": "Analyst Predicts Bitcoin Will Hit $150,000 by 2025 as Green Bitcoin is Backed to Explode",
-    "url": "https://news.bitcoin.com/analyst-predicts-bitcoin-will-hit-150000-by-2025-as-green-bitcoin-is-backed-to-explode/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/untitled-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bullish predictions are sweeping the crypto market as analysts anticipate another massive upswing for Bitcoin (BTC) soon. Wall Street giant AllianceBernstein recently projected that BTC could skyrocket to $150,000 per coin by 2025. Meanwhile, the eco-friendly Green Bitcoin (GBTC) presale project is also generating buzz, with traders forecasting substantial gains once listed on exchanges. Wall [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T22:56:27.000Z",
-    "title": "COPA challenges Craig Wright’s claim to Bitcoin invention in landmark trial ",
-    "url": "https://www.cryptopolitan.com/copa-challenges-craig-wrights-claim-bitcoin/",
-    "description": "The legal showdown between the Crypto Open Patent Alliance (COPA) and Craig Wright, the Australian computer scientist who claims to be Bitcoin&#8217;s pseudonymous creator, Satoshi Nakamoto, is drawing to a close in London. Wright faces allegations of perjury and forgery in his efforts to substantiate his claim, which has been a point of contention within [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-12T23:00:19.000Z",
-    "title": "Getting Cheaper, Getting Higher? Ethereum Dencun Upgrade And The Potential For ETH To Rise Back Above $4,000",
-    "url": "https://www.newsbtc.com/news/ethereum/getting-cheaper-getting-higher-ethereum-dencun-upgrade-and-the-potential-for-eth-to-rise-back-above-4000/",
-    "description": "The highly anticipated Dencun upgrade for the Ethereum (ETH) ecosystem is on the horizon, promising to bring significant cost reductions and notable changes to Layer 2 (L2) networks. The update, scheduled for March 13, will introduce a new data storage system known as blobs, reducing congestion on the Ethereum network and driving key new features in various areas.  Ethereum Dencun Upgrade As highlighted in a recent Bloomberg report, Dencun aims to reduce the cost of Layer 2 networks such as Arbitrum (ABR), Polygon (MATIC), and Coinbase&#8217;s Base by enabling previously costly transactions to become significantly cheaper.  In particular, transactions that used to cost $1 can now cost as little as one cent, the report notes, while others that used to cost cents can be reduced to a fraction of a cent. This cost reduction is expected to improve the end-user experience greatly and is a significant improvement over previous upgrades such as the September 2022 “Merge.” Related Reading: Solana Demand Soars As Institutions Buy Up SOL At A Massive 870% Premium One of the most crucial aspects of the Dencun upgrade is the introduction of blobs, a new type of data repository for Layer 2 networks. Currently, Layer 2 blockchains store their data on the Ethereum network, leading to substantial storage costs passed on to applications and users.  However, with blobs, Layer 2s will store their data for a significantly shorter period, about 18 days, resulting in lower costs. While this shift sacrifices storing a complete record of all transactions forever, it frees up more space on the Ethereum network for other transactions, reducing congestion. AI-Driven Trading Strategies According to the report, introducing blobs through the Dencun upgrade also paves the way for using artificial intelligence (AI) in various applications. For example, games can incorporate AI-driven non-player characters, enabling advanced gameplay capabilities and a deeper experience.  In decentralized finance (DeFi), automated market makers can incorporate &#8220;complex trading strategies&#8221; driven by AI models. This newfound flexibility and complexity are expected to foster innovation and drive the development of advanced applications in the Ethereum ecosystem. In addition, the Dencun upgrade is expected to reduce the operating costs of Layer 2 chains significantly. Previously, launching and operating a Layer 2 project required considerable venture capital backing. However, Bloomberg reports that with the cost reductions brought about by Dencun, small teams may be able to launch and maintain Layer 2 chains.  While the adoption of blobs and the associated cost advantages are expected to drive immediate benefits, it is worth noting that the cost of blobs may increase over time as demand grows.  How Could Dencun Boost ETH Price? While the price of ETH has corrected by over 3% in the past 24 hours, resulting in a current trading price of $3,916, the Dencun upgrade holds the potential to have a positive impact on its price. The upgrade aims to significantly reduce costs for Layer 2 networks and enhance the overall user experience, making Ethereum a more appealing platform for decentralized applications (dApps) and other use cases. By lowering transaction fees and improving scalability, Dencun could attract more users and developers to the Ethereum ecosystem, potentially driving up demand for ETH tokens. Related Reading: Expect A Bitcoin Scarcity Crisis In 6 Months, BTC To $100,000? Despite the ongoing correction, it is worth noting that the current price of ETH is not far from its two-year high of $4,084. However, it&#8217;s important to consider that the price has formed a double top pattern on the daily time frame for two consecutive days, which may present a near-term hurdle for ETH&#8217;s price. The market&#8217;s reaction and the ability of ETH to surpass its nearest resistance level remain to be seen. Featured image from Shutterstock, chart from TradingView.com"
+    "date": "2024-03-12T23:21:31.000Z",
+    "title": "Google Bans U.S. Election Questions in Gemini AI",
+    "url": "https://decrypt.co/221458/google-gemini-ai-election-ban-openai-anthropic",
+    "description": "Google is not the only AI provider hoping to preemptively prevent political misinformation, impersonation, and abuse."
   }
 ]

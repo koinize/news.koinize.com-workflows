@@ -1,72 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-12T18:45:35.000Z",
-    "title": "Bitcoin Shoots Above $73K, Tumbles to $69K, Rebounds to $71K, Triggering $360M in Crypto Liquidations",
-    "url": "https://www.coindesk.com/markets/2024/03/12/bitcoin-shoots-above-73k-tumbles-to-69k-rebounds-to-71k-triggering-360m-in-crypto-liquidations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Momentum behind bitcoin's rally has waned so expect a period of consolidation, Matrixport analysts noted."
+    "date": "2024-03-12T19:34:28.000Z",
+    "title": "Solana NFT Marketplace Tensor to Issue TNSR Governance Token",
+    "url": "https://www.coindesk.com/tech/2024/03/12/solana-nft-marketplace-tensor-to-issue-tnsr-governance-token/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Solana-based NFT trading platform Tensor said Tuesday it will issue a token, $TNSR, whose holders will govern the protocol."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-03-12T19:20:27.000Z",
+    "title": "Bitcoin Fog Founder Convicted of Money Laundering",
+    "url": "https://www.coindesk.com/policy/2024/03/12/bitcoin-fog-founder-convicted-of-money-laundering/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Roman Sterlingov, the founder of long-running cryptocurrency mixer Bitcoin Fog, was convicted by a federal jury in Washington on Tuesday of facilitating the laundering of over 1.2 million bitcoins – worth about $860 million at today’s prices – tied to darknet marketplaces."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-12T19:37:02.000Z",
+    "title": "Satoshi Trial Proves ‘Beyond Doubt’ That Craig Wright Did Not Invent Bitcoin, Says COPA",
+    "url": "https://decrypt.co/221410/craig-wright-satoshi-nakamoto-trial-forgery-perjury",
+    "description": "In its closing statement in the UK high court, COPA accuses Wright of forging documents to try and prove he created Bitcoin."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-12T19:00:00.000Z",
-    "title": " Ether reaches $4K: Short-lived hype or long-term support? ",
-    "url": "https://cointelegraph.com/news/ether-reaches-4k-short-lived-hype-or-long-term-support",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvM2FmNjkzMmQtNmEyMi00YTg1LWIxNTAtMmJhNjg2NjMzNTM4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ethereum network activity growth supports the momentum, but excessive leverage in ETH futures poses a risk.</p>\n                    <p><p>Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) price has rallied 58% in the last 30 days, outperforming the broader cryptocurrency market by 14%. Despite failing to sustain levels above $4,000, Ether managed to reach its highest price in over two years, closing the gap versus the leading cryptocurrency, Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), in the period.</p><p>Some traders argue that Ether’s bull run has been solely dependent on the spot Ethereum <a href=\"https://cointelegraph.com/news/sec-radio-silence-ethereum-etf-not-a-good-sign-bloomberg-analyst\">exchange-traded fund</a> (ETF) decision, creating a potential “sell the news” scenario if the event gets fully priced in, at least in the initial weeks. The U.S. Securities and Exchange Commission is expected to give its final verdict on the matter by May 23, with Bloomberg analysts pointing to approval odds at 35%.</p><p>Other factors have contributed to the recent price gains, including the <a href=\"https://cointelegraph.com/news/ethereum-dencun-launch-why-matters\">Dencun network upgrade</a> scheduled for March 13. The hard fork is expected to drastically reduce transaction fees of Ethereum network’s scaling solutions, a problem that has plagued the network for a long time. Specifically, the 7-day average Ethereum transaction fee has stood at $4 or higher since November 2023.</p><p><a href=\"https://cointelegraph.com/news/ether-reaches-4k-short-lived-hype-or-long-term-support\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-12T19:18:42.000Z",
+    "title": " Final arguments begin in COPA case against Craig Wright over BTC claims ",
+    "url": "https://cointelegraph.com/news/final-arguments-begin-copa-case-against-craig-wright-over-btc-claims",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNWUxMmM5MDktODBkMy00YzQ1LTk3OTUtNzQ0N2EyZjA4YTM2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Crypto Open Patent Alliance has attempted to show that Wright cannot be Bitcoin inventor Satoshi Nakamoto and make him stop claiming to be.</p>\n                    <p><p>Closing arguments began in London on March 12 in the suit brought by the Crypto Open Patent Alliance (COPA) against Craig Wright, the Australian computer scientist who claims to be pseudonymous Bitcoin inventor Satoshi Nakamoto. COPA presented its argument first. Arguments are expected to last three or four days.</p><p>COPA is <a href=\"https://twitter.com/Arthur_van_Pelt/status/1767592669981585718\" target=\"_blank\" rel=\"noopener nofollow\">seeking</a> injunctive relief to prevent Wright from further claiming to be Nakamoto. As the claimant, COPA bears the burden of proof in the case; that is, it has to show that Wright is not Nakamoto. Wright has claimed to be Satoshi Nakamoto since 2016.</p><p>Wright has been accused of massive forgery of the documents he used to support his claim of being Nakamoto. According to COPA’s closing <a href=\"https://web.archive.org/web/20240312123740/https:/satoshi50.com/pdf/closing.pdf\" target=\"_blank\" rel=\"noopener nofollow\">submission</a>:</p><p><a href=\"https://cointelegraph.com/news/final-arguments-begin-copa-case-against-craig-wright-over-btc-claims\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T19:09:03.000Z",
-    "title": "Sui Price Prediction 2024-2033: Is SUI A Good Investment?",
-    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
-    "description": "Sui Price Prediction 2024-2033 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-03-12T19:30:06.000Z",
+    "title": "London Stock Exchange Embraces Digital Assets by Accepting Crypto ETN Applications",
+    "url": "https://news.bitcoin.com/london-stock-exchange-embraces-digital-assets-by-accepting-crypto-etn-applications/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"London Stock Exchange Embraces Digital Assets by Accepting Crypto ETN Applications\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lse4567.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In a pivotal announcement, the London Stock Exchange (LSE) has shared its plans to accept bitcoin and ethereum exchange-traded note (ETN) applications, signaling a significant shift toward incorporating digital currencies into mainstream financial markets. LSE Announces Acceptance of Crypto ETNs The launch of bitcoin (BTC) and ethereum (ETH) ETNs on the LSE platform marks a [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T19:04:56.000Z",
-    "title": "Yuga Labs’ Ethereum-based NFTs experience a drop in value",
-    "url": "https://www.cryptopolitan.com/yuga-labs-nfts-experience-a-drop-in-value/",
-    "description": "Yuga Labs, a prominent player in the NFT space, has recently faced challenges as several of its NFT collections, including Mutant Ape Yacht Club (MAYC) and Otherdeed NFTs, have experienced significant declines in ETH valuations. These declines come at a time when other NFT projects, such as CryptoPunks, have seen substantial growth in value. Yuga [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-12T19:14:33.000Z",
+    "title": "Solana’s Aphone could be a game-changer for web3 accessibility",
+    "url": "https://crypto.news/solanas-aphone-could-be-a-game-changer-for-web3-accessibility/",
+    "description": "Solana introduces the Aphone app to enhance web3 accessibility with its decentralized cloud computing technology. The project could potentially drive another rally for Solana (SOL) and pose a significant challenge to existing memecoins like BONK. #partnercontent"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T18:54:57.000Z",
-    "title": "“Killer Whales” – The first Crypto Reality TV Show to hit mainstream streaming platforms.",
-    "url": "https://www.cryptopolitan.com/killer-whales-the-first-crypto-reality-tv-show-to-hit-mainstream-streaming-platforms/",
-    "description": "Los Angeles, United Kingdom, March 12th, 2024, Chainwire The revolutionary television experience, &#8220;Killer Whales&#8221; hits mainstream streaming platforms, merging the captivating world of cryptocurrency with the thrill of reality television. This innovative show promises to capture the hearts and minds of audiences everywhere with its unique blend of high-stakes crypto pitches and gripping human drama. [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T18:53:45.000Z",
-    "title": "Bitcoin developers set to draft guide for BRC-20 tokens",
-    "url": "https://www.cryptopolitan.com/bitcoin-developers-draft-guide-brc-20-tokens/",
-    "description": "The growing popularity of Bitcoin and the emergence of new meme coins on its blockchain have catalyzed a collaborative effort among Bitcoin developers to establish and formalize the BRC-20 fungible token standard. This initiative is led by the recently formed Layer 1 Foundation, which aims to ensure transparency and trust within the protocol to facilitate [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T18:49:53.000Z",
-    "title": "Goldman Sachs, BNY Mellon, and leading firms pilot blockchain technology for assets",
-    "url": "https://www.cryptopolitan.com/goldman-sachs-bny-mellon-pilot-blockchain-technology-for-assets/",
-    "description": "Digital Asset, a prominent blockchain technology firm, recently completed a pilot test of its Canton Network, showcasing its capabilities with the participation of major financial institutions, including Goldman Sachs, BNY Mellon, DRW, Oliver Wyman, and Paxos. The test involved a broad spectrum of participants, totaling 15 asset managers, 13 banks, four custodians, and three exchanges, [&#8230;]"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-12T18:54:52.000Z",
-    "title": "“Killer Whales” – The first Crypto Reality TV Show to hit mainstream streaming platforms.",
-    "url": "https://coinedition.com/killer-whales-the-first-crypto-reality-tv-show-to-hit-mainstream-streaming-platforms/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/Artboard__2_1710154049ap8RsrTtfM-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Los Angeles, United Kingdom, March 12th, 2024, Chainwire The revolutionary television experience, &#8220;Killer Whales&#8221; hits mainstream streaming platforms, merging the captivating world of cryptocurrency with the thrill of reality television. This innovative show promises to capture the hearts and minds of audiences everywhere with its unique blend of high-stakes crypto pitches and gripping human drama. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/killer-whales-the-first-crypto-reality-tv-show-to-hit-mainstream-streaming-platforms/\">“Killer Whales&#8221; &#8211; The first Crypto Reality TV Show to hit mainstream streaming platforms.</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-12T18:45:00.000Z",
-    "title": "Firms in Hong Kong Looking To Issue Ethereum (ETH) ETFs Before US Gets Approval: Report",
-    "url": "https://dailyhodl.com/2024/03/12/firms-in-hong-kong-looking-to-issue-ethereum-eth-etfs-before-us-gets-approval-report/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/03/firms-hong-to-issue.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Firms in Hong Kong reportedly hope to leapfrog US companies and get a leg up on the market by rolling out Ethereum (ETH) exchange-traded funds (ETF) first. The Hong Kong news outlet Sing Tao Daily, citing &#8220;industry insiders,&#8221; reports that spot ETH ETFs are under &#8220;intensive preparation&#8221; in the jurisdiction. Livio Weng, the chief operating [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/12/firms-in-hong-kong-looking-to-issue-ethereum-eth-etfs-before-us-gets-approval-report/\">Firms in Hong Kong Looking To Issue Ethereum (ETH) ETFs Before US Gets Approval: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-12T18:41:36.000Z",
-    "title": "Tether Collaborates With FBI and Justice Department To Seize $1,400,000 in USDT From Crypto Wallet",
-    "url": "https://dailyhodl.com/2024/03/12/tether-collaborates-with-fbi-and-justice-department-to-seize-1400000-in-usdt-from-crypto-wallet/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/07/tether-condemns-false.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>USDT issuer Tether has helped top US government officials seize digital assets from an unhosted crypto wallet. In a new announcement, Tether says it has worked with the FBI and the US Department of Justice (DOJ) to take $1.4 million in USDT from a &#8220;scam network.&#8221; Says Paolo Ardonio, Tether&#8217;s CEO, &#8220;We are proud of our collaboration [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/12/tether-collaborates-with-fbi-and-justice-department-to-seize-1400000-in-usdt-from-crypto-wallet/\">Tether Collaborates With FBI and Justice Department To Seize $1,400,000 in USDT From Crypto Wallet</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "BTCManager",
+    "date": "2024-03-12T19:13:08.000Z",
+    "title": "Gnosis premieres Dencun upgrade to create easily scalable network",
+    "url": "https://crypto.news/gnosis-dencun-upgrade-scalable-network/",
+    "description": "Developers at Gnosis Chain have deployed a version of the Dencun update to the network to help scale decentralized applications further."
   }
 ]

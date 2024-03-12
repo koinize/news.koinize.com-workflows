@@ -1,86 +1,114 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-12T13:24:09.000Z",
-    "title": "EU Parliament Approves New Sanctions Laws That Also Apply to Crypto",
-    "url": "https://www.coindesk.com/policy/2024/03/12/eu-parliament-approves-new-sanctions-laws-that-also-apply-to-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The laws are to ensure sanctions rules are applied uniformly across the EU's 27 member states."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-03-12T13:30:00.000Z",
-    "title": " China will intensify Bitcoin bull run, $1M by 2028: Bitcoin Man, X Hall of Flame ",
-    "url": "https://cointelegraph.com/magazine/crypto-bull-run-china-bitcoin-herbert-sim-hall-of-flame/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/Crypto-Twitter-Hall-of-Flame-Herbert-Sim-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Bitcoin bull run will explode as China gets involved, $1M BTC price by 2028, tips Herbert Sim “The Bitcoin Man”, X Hall of Flame.</p>\n                    <p><p><strong>According to Herbert Sim, aka The Bitcoin Man, the most recent bull run didnt even scratch the surface of whats to come in the crypto market, as China is yet to throw its hat into the ring.</strong></p><p>The thing now is the Chinese are actually still in the midst of gearing up. They havent even really entered the crypto market yet. I know this first hand because Im working with all the Chinese guys, he says.</p><p>That means the $69,000 Bitcoin price is the baseline for the bull run to start running. </p><p><a href=\"https://cointelegraph.com/magazine/crypto-bull-run-china-bitcoin-herbert-sim-hall-of-flame/\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Coin Telegraph India",
-    "date": "2024-03-12T13:30:00.000Z",
-    "title": " China will intensify Bitcoin bull run, $1M by 2028: Bitcoin Man, X Hall of Flame ",
-    "url": "https://cointelegraph.com/magazine/crypto-bull-run-china-bitcoin-herbert-sim-hall-of-flame/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/Crypto-Twitter-Hall-of-Flame-Herbert-Sim-scaled.jpg\"></p><p>The Bitcoin bull run will explode as China gets involved, $1M BTC price by 2028, tips Herbert Sim “The Bitcoin Man”, X Hall of Flame.</p>\n            "
+    "date": "2024-03-12T14:00:00.000Z",
+    "title": " Bitcoin only-app Relai taps Blockstream Greenlight for Lightning payments   ",
+    "url": "https://cointelegraph.com/news/bitcoin-relai-onboards-lightning-blockstream",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMWI2NzRjMzgtZWYwOC00YjZmLWI2ZTEtZGE0ZTkwZDEyYzYzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin-only wallet Relai is set to integrate Lightning payment functionality into its self-custody solution. </p>\n                    <p><p data-ct-non-breakable=\"true\">Users of Swiss-based Bitcoin-only app Relai are set to unlock Lightning payment functionality following the integration of Blockstream’s Greenlight solution.</p><p>An announcement shared with Cointelegraph unpacked details of the collaboration, which entails Blockstream’s Lightning-as-a-service solution being integrated into Relai’s Bitcoin-only wallet platform.</p><p>Greenlight’s functionality is set to allow 100,000 Relai users to make low-cost Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) payments using the Lightning network while maintaining control of their private keys. The integration of Greenlight also means that Relai does not have to build and maintain its bespoke Lightning infrastructure. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-relai-onboards-lightning-blockstream\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-12T13:14:24.000Z",
-    "title": "After AI Crypto Surge, Whales are Only Holding Solana and Algotech in 2024",
-    "url": "https://cryptodaily.co.uk/2024/03/after-ai-crypto-surge-whales-are-only-holding-solana-and-algotech-in-2024",
-    "description": "With rising excitement for the upcoming Bitcoin halving, an uplifting mood has hit the industry, with whales focused on Solana (SOL) and Algotech (ALGT)."
+    "date": "2024-03-12T13:59:38.000Z",
+    "title": "The BEFE Revolution: How This Meme-Based Coin Is Redefining the Crypto Landscape and Dominating the Meme Hype!",
+    "url": "https://cryptodaily.co.uk/2024/03/the-befe-revolution-how-this-meme-based-coin-is-redefining-the-crypto-landscape-and-dominating-the-meme-hype",
+    "description": "Meme coins are the latest trend in cryptocurrency with holders of these coins making great fortunes. We all know about Doge, Shiba Inu and PEPE but let's dive into the BEFE revolution."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-12T13:51:24.000Z",
+    "title": "Bitgert Mania: Price Skyrockets 200% in 24 Hours – Is This the Start of a Historic Bull Run?",
+    "url": "https://cryptodaily.co.uk/2024/03/bitgert-mania-price-skyrockets-200-in-24-hours-is-this-the-start-of-a-historic-bull-run",
+    "description": "Bitgert (BRISE) has stolen the limelight as the most impressive performer of the cryptocurrency market within the last 24 hours. Investors saw their assets skyrocket in price by a mind-blowing 200% in one day. This surge carried the trading volume figures to $6.07 million and this news has already started igniting the crypto world with questions in mind. Does this mean the start of a historic bull run?"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-12T13:40:57.000Z",
+    "title": "Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings",
+    "url": "https://cryptodaily.co.uk/2024/03/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings",
+    "description": "Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-12T14:00:53.000Z",
+    "title": "Crypto Economy’s Rise Fuels Defi Sector to Surpass $100 Billion TVL",
+    "url": "https://news.bitcoin.com/crypto-economys-rise-fuels-defi-sector-to-surpass-100-billion-tvl/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Crypto Economy&#039;s Rise Fuels Defi Sector to Surpass $100 Billion TVL\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />This week, as of March 9, 2024, the cumulative value held in decentralized finance (defi) platforms exceeded $100 billion for the first time since the downfall of Terra in May 2022. In the past 30 days, the leading three defi platforms have experienced an increase of at least 50%, fueled by the substantial rise in [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T13:39:27.000Z",
-    "title": "LG Electronics Invests $60m in Bear Robotics for AI-Driven Service Robots",
-    "url": "https://www.cryptopolitan.com/lg-electronics-invests-60m-for-ai-robots/",
-    "description": "LG Electronics, a global leader in technology and innovation, has announced a significant investment of $60 million in Bear Robotics, a Silicon Valley startup specializing in AI-driven autonomous service robots. This move reflects LG&#8217;s commitment to advancing its capabilities in the field of service robotics, prioritizing long-term growth over short-term gains. As a result of [&#8230;]"
+    "date": "2024-03-12T14:09:12.000Z",
+    "title": "Alan Wake 2: What’s Next for the Thriller Saga?",
+    "url": "https://www.cryptopolitan.com/alan-wake-2-whats-next-for-the-thriller-saga/",
+    "description": "\nDive into the latest buzz around \"Alan Wake 2\" as Sam Lake wraps up DLC filming and fans speculate on the intertwining futures of the RemedyVerse's thrilling narratives."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T13:20:22.000Z",
-    "title": "Google’s Comprehensive Plan to Ensure Integrity in Lok Sabha Polls",
-    "url": "https://www.cryptopolitan.com/googles-plan-to-ensure-integrity-in-polls/",
-    "description": "Google&#8217;s has announced a comprehensive plan to provide voters with high-quality information for the upcoming Lok Sabha polls, emphasizing its commitment to supporting the democratic process. The tech giant aims to tackle misinformation, offer essential voting information, and help users navigate AI-generated content. This initiative, revealed on Tuesday, underscores Google&#8217;s dedication to ensuring the integrity [&#8230;]"
+    "date": "2024-03-12T14:08:08.000Z",
+    "title": "Layer 2 tokens soar as Ethereum prepares for Dencun upgrade",
+    "url": "https://www.cryptopolitan.com/layer-2-tokens-soar-as-ethereum/",
+    "description": "Gnosis, a prominent player in the blockchain industry, has announced the successful launch of the Dencun upgrade on the Gnosis mainnet. This upgrade, slated to go live on Wednesday, March 13th, is poised to revolutionize the Ethereum network. With the adoption of proto-dank sharding, the upgrade promises enhanced efficiency and security, marking a significant milestone [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T13:16:17.000Z",
-    "title": "Pokemon Company Establishes Pokemon Works Subsidiary in Japan",
-    "url": "https://www.cryptopolitan.com/pokemon-company-establishes-pokemon-works/",
-    "description": "In a strategic move aimed at enhancing its development capacity and addressing concerns over game quality, The Pokemon Company has established a new subsidiary named Pokemon Works. Located in the bustling district of Shinjuku, Tokyo, Pokemon Works operates out of the same building as ILCA, a company renowned for its contributions to developing Pokemon Brilliant [&#8230;]"
+    "date": "2024-03-12T13:57:32.000Z",
+    "title": "Microsoft to Train 100,000 Philippine Women in AI and Cybersecurity",
+    "url": "https://www.cryptopolitan.com/microsoft-to-train-100000-women-in-ai/",
+    "description": "Tech giant Microsoft has unveiled plans to empower 100,000 women in the Philippines through comprehensive training in artificial intelligence (AI) technology and cybersecurity. The initiative was announced during a high-profile two-day trade mission led by US Commerce Secretary Gina Raimondo. Empowering women through technology training Microsoft aims to equip Filipino women with essential skills in [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T13:15:59.000Z",
-    "title": "ICP Price Prediction 2024-2033: Is Internet Computer Resurgence Possible?",
-    "url": "https://www.cryptopolitan.com/icp-price-prediction/",
-    "description": "Internet Computer ICP Price Prediction 2024-2033 Internet Computer is the first cryptocurrency backed by a protocol. So many crypto experts believe ICP is a good investment and could grow further and, with new developments, could get better. ICP, the native token of the Internet Computer network, is mainly used for processing the network&#8217;s power. Will [&#8230;]"
+    "date": "2024-03-12T13:43:20.000Z",
+    "title": "Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings",
+    "url": "https://www.cryptopolitan.com/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/",
+    "description": "Tortola, British Virgin Islands, March 12th, 2024, Chainwire Nibiru Chain, a developer and user-centric Layer 1 platform, has officially launched its public mainnet. Nibiru Chain stands out by offering a secure and efficient environment for building highly-performant decentralized applications. It is distinguished by its robust smart contract ecosystem offering superior throughput and unparalleled security, making [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T13:13:21.000Z",
-    "title": "XRP’s meteoric rise fueled by mystery whale moves",
-    "url": "https://www.cryptopolitan.com/xrps-meteoric-rise-by-mystery-whale-moves/",
-    "description": "The price of XRP has experienced a notable uptick, rising by 10% to reach $0.6921. This surge follows a series of significant transfers that sparked a buying frenzy in the market.  Notably, a transfer involving the movement of 100 million XRP from an undisclosed wallet to another contributed substantially to the bullish sentiment. Over the past week, [&#8230;]"
+    "date": "2024-03-12T13:41:36.000Z",
+    "title": "Regulatory hurdles ahead: Grayscale files for tax-free Bitcoin trust",
+    "url": "https://www.cryptopolitan.com/grayscale-files-for-tax-free-bitcoin-trust/",
+    "description": "Grayscale, the renowned digital asset management firm, has made significant strides in expanding its cryptocurrency investment offerings with the recent filing of a new &#8216;mini version&#8217; of its Grayscale Bitcoin Trust (GBTC) exchange-traded fund (ETF).&#160; This initiative marks a pivotal development in providing investors with tax-efficient exposure to Bitcoin, potentially reshaping the landscape of cryptocurrency [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-03-12T13:30:33.000Z",
-    "title": "Crypto Institutional Investors Are Frontrunning Retail As Inflows Reach Record Highs",
-    "url": "https://www.newsbtc.com/crypto/crypto-institutional-inflows-record/",
-    "description": "Crypto investment products continue to shine in the middle of a strong bullish market sentiment. New data has shown institutional investors and traders are now going full speed on crypto investment products, allowing inflows to attain a new inflow record. According to CoinShares, a digital asset investment firm, digital investment products registered a record weekly inflow of $2.7 billion last week, pushing the year-to-date inflow near a new record. Crypto Institutional Investors Continue To Aim Higher The crypto market has attracted its fair share of rich visionaries and institutional traders over the years, with most just dabbling in and out. Recent market factors, however, have opened the industry and made it palatable to big traders. As a result, trading volume from this cohort of investors has ballooned to new highs. Related Reading: Record $1 Billion In Shorts Risk Liquidation If Bitcoin Hits This Price In its latest weekly report, CoinShares noted that investment products based on cryptocurrencies reached a new milestone of $2.7 billion inflow last week, bringing the run to six consecutive weeks of inflows. Hence, the total inflow year-to-date is now at $10.3 billion, just $300 million shy of the $10.6 billion inflows recorded in 2021. To put this into perspective, we&#8217;re less than three months into 2024, and inflows are already on par with those recorded throughout the bullish cycle in 2021.  At the same time, trading volume reached a new record of $43 billion for the week, smashing the $30 billion record set in the previous week. Unsurprisingly, most of this activity can be credited to Bitcoin, with the majority of inflow going into the cryptocurrency. According to CoinShares, Bitcoin remained the focus of investors to attract $2.6 billion in inflows last week, representing 96% of the total inflow. This comes despite a $1.65 billion outflow from Grayscale&#8217;s Spot Bitcoin ETF. Speaking of Spot Bitcoin ETFs, there&#8217;s no denying the fact that these investment vehicles have been the primary catalyst for Bitcoin&#8217;s recent growth. This has allowed Bitcoin to break over various price resistance to reach new all-time highs. Last week, the 10 ETFs in the US ended the week at a net inflow of $2.238 billion, with BlackRock and Fidelity leading the charge. Despite recent price rises, short Bitcoin products also recorded $11 million in inflows last week. Related Reading: Cardano Price About To Explode: Crypto Pundit Reveals Next Target On the other hand, Ethereum investment products witnessed an outflow of $2.1 million last week to reverse $84.7 million inflows recorded in the prior week. This is despite Ethereum crossing over the $4,000 price level for the first time in two years. The reverse case is for Solana, which witnessed $24 million inflows after an outflow of $11.9 million in the previous week.  Polkadot, Fantom, Chainlink, and Uniswap also saw inflows of $2.7 million, $2 million, $2 million, and $1.6 million, respectively. Total market cap climbs to $2.62 trillion &#124; Source: Crypto Total Market Cap on Tradingview.com Featured image from CIM-Cyprus Business School, chart from Tradingview.com"
+    "source": "Cryptopolitan",
+    "date": "2024-03-12T13:41:12.000Z",
+    "title": "Rochard’s interpretation of the US government’s budget sparks debate over Bitcoin’s future",
+    "url": "https://www.cryptopolitan.com/rochards-interpretation-of-the-us-government/",
+    "description": "In a recent social media post, Pierre Rochard, Vice President of Research at Riot Platforms (NASDAQ: RIOT), ignited discussions within the cryptocurrency community with his interpretation of President Biden’s 2025 budget. Rochard suggested that the budget&#8217;s projections indicate a bullish outlook for Bitcoin, with the White House anticipating a price surge to $250,000 by 2034-2035. [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-12T13:47:12.000Z",
+    "title": "Bonk’s price jump outperforms Pepe in notable AI crypto presale",
+    "url": "https://crypto.news/bonks-price-jump-outperforms-pepe-in-notable-ai-crypto-presale/",
+    "description": "The Solana-based meme coin, Bonk, has overtaken Pepe in market value, signaling a significant surge in investor interest. This comes alongside the notable success of InQubeta's QUBE token presale. #partnercontent"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-12T13:39:52.000Z",
-    "title": "Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings",
-    "url": "https://www.crypto-news-flash.com/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/?utm_source=rss&utm_medium=rss&utm_campaign=nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Tortola, British Virgin Islands, March 12th, 2024, Chainwire Nibiru Chain, a developer and user-centric Layer 1 platform, has officially launched its public mainnet. Nibiru Chain stands out by offering a secure and efficient environment for building highly-performant decentralized applications. It is distinguished by its robust smart contract ecosystem offering superior throughput and unparalleled security, making [...]"
+    "date": "2024-03-12T14:00:53.000Z",
+    "title": "Doge and Shiba Inu Fans Meet Milei Moneda: The New Meme Coin on the Block!",
+    "url": "https://www.crypto-news-flash.com/doge-and-shiba-inu-fans-meet-milei-moneda-the-new-meme-coin-on-the-block/?utm_source=rss&utm_medium=rss&utm_campaign=doge-and-shiba-inu-fans-meet-milei-moneda-the-new-meme-coin-on-the-block",
+    "description": "<img width=\"1200\" height=\"914\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shib Name\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832-300x229.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832-768x585.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832-150x114.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/unnamed-2024-02-07T103821.832-450x343.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Shiba Inu activates frenzy mode with 124% profits in the past week. DOGE is one of the altcoins gaining momemtum Milei Moneda is the best crypto to invest in at the moment. It&#8217;s meme coin season again. Every meme coin seems to be in anticipatory mode for the bull run. And it&#8217;s not only the [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-12T13:30:24.000Z",
-    "title": "Edu3Labs Making Big News",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/edu3labs-making-big-news/",
-    "description": "<p>Web3 mechanisms can change everything from how we play to how we learn. This started with Play-to-earn (P2E) games. For the first time in history, we can earn tokens and/or NFTs for playing a video game. Then came web3 platforms that paid you to walk. Some of them even saw some adoption. And now, this [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/edu3labs-making-big-news/\">Edu3Labs Making Big News</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-03-12T14:06:54.000Z",
+    "title": "Preparing for Market Correction in March 2024",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/preparing-for-market-correction-in-march-2024/",
+    "description": "<p>While the first week of March may not bring forth any specific crypto catalysts, a few are beginning to draw attention. Firstly, many anticipate the pending spot Ethereum ETF applications will receive approval in May at the SEC&#8217;s final decision date, although institutions have been lobbying for an earlier green light. Getting Ready for a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/preparing-for-market-correction-in-march-2024/\">Preparing for Market Correction in March 2024</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-12T13:52:00.000Z",
+    "title": "Bitcoin Set to Surge Following the Demand for Stablecoins",
+    "url": "https://coinedition.com/bitcoin-set-to-surge-following-the-demand-for-stablecoins/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Set for New All-Time High Beyond $72K: CryptoQuant Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst.jpg 730w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/08/BTC-Could-Pump-Towards-the-End-of-the-Year-Predicts-Analyst-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Crypto Dan, a researcher at data analytic firm CryptoQuant, believes Bitcoin will not remain around the recently attained $70K threshold much longer. Crypto Dan expressed this sentiment after observing the heightened level of liquidity flowing into the crypto market recently. The researcher noted that the liquidity inflow has not been for Bitcoin alone but for [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoin-set-to-surge-following-the-demand-for-stablecoins/\">Bitcoin Set to Surge Following the Demand for Stablecoins</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-12T13:44:13.000Z",
+    "title": "Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings",
+    "url": "https://coinedition.com/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/Nibiru-black-1200x720_1710239445hMG8qJcfy3-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Tortola, British Virgin Islands, March 12th, 2024, Chainwire Nibiru Chain, a developer and user-centric Layer 1 platform, has officially launched its public mainnet. Nibiru Chain stands out by offering a secure and efficient environment for building highly-performant decentralized applications. It is distinguished by its robust smart contract ecosystem offering superior throughput and unparalleled security, making [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/\">Nibiru Chain Debuts Public Mainnet Along with Four Major Exchange Listings</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,93 +1,65 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-03-12T18:31:00.000Z",
+    "title": "JP Morgan's Dimon: ‘I'll Defend Your Right To Buy a Bitcoin’",
+    "url": "https://decrypt.co/221367/jp-morgan-ceo-jamie-dimon-defend-your-right-to-buy-bitcoin",
+    "description": "The long-time crypto critic concedes that investors want to buy Bitcoin."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-12T18:13:11.000Z",
+    "title": "Bitcoin Price Tops $73,000 Ahead of Halving, But Then Plunges",
+    "url": "https://decrypt.co/221366/bitcoin-price-tops-73000-ahead-halving-plunges",
+    "description": "Like recent pops, this one was followed by another dip. It may be shortlived."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-03-12T17:59:37.000Z",
-    "title": " World wide web inventor predicts VR and spatial computing will transform the internet ",
-    "url": "https://cointelegraph.com/news/world-wide-web-inventor-predicts-vr-and-spatial-computing-web3-metaverse-transform-internet",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNGQzYWMwMGItNWIyMi00OTZkLTk2YWEtYjBiMGQzZWVhNTc3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Tim Berners-Lee made no mention of crypto or blockchain but seems bullish on the metaverse.</p>\n                    <p><p>The man credited with creating the world wide web, Tim Berners-Lee, recently gave three predictions for the future of the internet as part of an interview discussing the web’s 35th birthday. According to the tech pioneer, the next chapter of internet history will be defined by AI, VR, and a big tech reshuffle. </p><p>Speaking to CNBC, Berners-Lee <a href=\"https://www.cnbc.com/amp/2024/03/12/world-wide-web-turns-35-tim-berners-lee-gives-predictions-for-future.html\" target=\"_blank\" rel=\"noopener nofollow\">said</a> that trustworthy AI assistants would mark a turning point for interaction. \"One of the things I predict,\" said Berners-Lee, “is you will have an AI assistant, which you can trust, and it works for you, like a doctor.”</p><p>His second prediction is that humans will gain ownership of their data and that virtual reality (VR) and spatial computing (essentially, being immersed in the metaverse) will become the go-to modality for using computers.</p><p><a href=\"https://cointelegraph.com/news/world-wide-web-inventor-predicts-vr-and-spatial-computing-web3-metaverse-transform-internet\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-12T18:33:19.000Z",
+    "title": " Bitcoin’s rally to $72K took miner revenues to record highs ",
+    "url": "https://cointelegraph.com/news/bitcoin-rally-72k-took-miner-revenues-record-highs",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNzE5ZDRhMDktMThmMS00NThmLWE0MDUtZmNiYjdjNGZlZWJkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Miners saw revenues climb to roughly $78.89 million on March 11, the same day the BTC price broke new all-time highs.</p>\n                    <p><p>Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) price has been on an “up only” trend since Jan. 23, resulting in an increase in miner revenues, which reached a record high earlier this week.</p><p>Data from Blockchain.com shows that daily Bitcoin mining rewards spiked to $78.89 million on March 11 for the first time in history, surpassing the previous high of $74.4 million set in October 2021. </p><p>Miner revenues primarily come from rewards for creating new blocks and confirming transactions on the Bitcoin blockchain. Miners currently receive 6.25 BTC for every successful block they create in addition to transaction fees.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-rally-72k-took-miner-revenues-record-highs\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-03-12T17:55:16.000Z",
-    "title": "Tether collaborates with FBI to recover $1.4 million in scam targeting seniors",
-    "url": "https://cryptoslate.com/tether-collaborates-with-fbi-to-recover-1-4-million-in-scam-targeting-seniors/",
-    "description": "<p>Stablecoin issuer Tether collaborated with the US Department of Justice and the Federal Bureau of Investigation (FBI) to seize $1.4 million USDT associated with a tech support scam network, according to a Mar. 12 statement. The fraudulent scheme targeted vulnerable elderly individuals through deceptive pop-up advertisements. These misleading ads falsely alerted victims to compromised devices, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-collaborates-with-fbi-to-recover-1-4-million-in-scam-targeting-seniors/\">Tether collaborates with FBI to recover $1.4 million in scam targeting seniors</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-03-12T18:02:44.000Z",
-    "title": "Bitcoin’s Outlook, Spot ETFs, and Crypto Regulation in the US: Grayscale’s Director of Research Weighs In",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/bitcoins-outlook-spot-etfs-and-crypto-regulation-in-the-us-grayscales-director-of-research-weighs-in/",
-    "description": "On March 12, 2024, during an appearance on Fox Business’s “The Claman Countdown,” Zach Pandl, Grayscale’s Managing Director of Research, provided insightful commentary on the current state of Bitcoin, spot Bitcoin ETFs, and the broader crypto market, highlighting a bullish outlook for the U.S. Bitcoin’s Rally and the Impact of Spot Bitcoin ETFs The host […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-12T18:01:02.000Z",
-    "title": "Blockchain Life Forum 2024: Navigating Investment Opportunities in Dubai's Crypto Bull Run",
-    "url": "https://cryptodaily.co.uk/2024/03/blockchain-life-forum-2024-navigating-investment-opportunities-in-dubais-crypto-bull-run",
-    "description": "Blockchain Life Forum 2024: Navigating Investment Opportunities in Dubai's Crypto Bull Run"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-12T17:45:17.000Z",
-    "title": "Here’s Why Render (RNDR) and Near Protocol (NEAR) Prices Rally; Galaxy Fox Hits Presale Milestones",
-    "url": "https://cryptodaily.co.uk/2024/03/heres-why-render-rndr-and-near-protocol-near-prices-rally-galaxy-fox-hits-presale-milestones",
-    "description": "The AI narrative is gaining traction in the market right now, with major AI-focused coins like Render (RNDR) and Near Protocol (NEAR)"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-12T17:43:26.000Z",
-    "title": "Will Arbitrum's $2 Billion Token Unlock Crash Price? Investors Buying This ICO Instead",
-    "url": "https://cryptodaily.co.uk/2024/03/will-arbitrums-2-billion-token-unlock-crash-price-investors-buying-this-ico-instead",
-    "description": "The crypto space is abuzz with anticipation for the unlocking of a massive amount of Arbitrum ($ARB) tokens."
+    "source": "Bitcoin.com",
+    "date": "2024-03-12T18:30:05.000Z",
+    "title": "As Bitcoin Soars, Peter Schiff Offers Gold as the Prudent Alternative",
+    "url": "https://news.bitcoin.com/as-bitcoin-soars-peter-schiff-offers-gold-as-the-prudent-alternative/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"As Bitcoin Soars, Peter Schiff Offers Gold as the Prudent Alternative\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/schiffer.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />With bitcoin climbing over 50% in the past month, the notable gold aficionado and economist Peter Schiff has thrown shade at the market&#x2019;s recent rally. Schiff argues that this uptick in value is nothing but &#x201C;speculative mania&#x201D; and advises folks to funnel their risky investments into gold instead. Schiff Warns of Speculative Mania in Bitcoin, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T18:03:58.000Z",
-    "title": "UK to require NFT issuers to register with financial authority amid crypto regulation overhaul",
-    "url": "https://www.cryptopolitan.com/uk-nft-issuers-register-financial-authority/",
-    "description": "The UK Treasury announced through a consultation on money laundering that businesses dealing with non-fungible tokens (NFTs) will be required to register with the Financial Conduct Authority (FCA), even as a new crypto-specific authorization regime is set to be introduced.  It is important to know that the consultation aligns with the government&#8217;s efforts to refine [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T18:01:04.000Z",
-    "title": "Blockchain Life Forum 2024: Navigating Investment Opportunities in Dubai’s Crypto Bull Run",
-    "url": "https://www.cryptopolitan.com/blockchain-life-forum-2024-navigating-investment-opportunities-in-dubais-crypto-bull-run/",
-    "description": "Dubai, United Arab Emirates, March 12th, 2024, Chainwire The highly anticipated Blockchain Life Forum 2024 is set to take place in the vibrant city of Dubai on April 15-16. Welcoming industry professionals and crypto enthusiasts from around the world, this legendary event promises to be an unforgettable experience. This time, the central topic of the [&#8230;]"
+    "date": "2024-03-12T18:19:29.000Z",
+    "title": "Central Bank of Nigeria’s inability to defend the naira raises concerns",
+    "url": "https://www.cryptopolitan.com/central-bank-nigerias-defend-naira-concerns/",
+    "description": "The Economic Intelligence Unit (EIU) recently released an analysis of Nigeria’s economic situation, particularly focusing on the challenges faced by the Central Bank of Nigeria (CBN) in stabilizing the local currency, the naira. According to the EIU, the CBN is unable to effectively control the depreciation of the naira, which has been experiencing rapid decline. [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-12T18:06:22.000Z",
-    "title": "The Bitcoin effect: why altcoins follow BTC’s lead",
-    "url": "https://crypto.news/the-bitcoin-effect-why-altcoins-follow-btcs-lead/",
-    "description": "Bitcoin (BTC) has hit another all-time high, its third since March, and the altcoin market is growing alongside it. Why does this happen? From the onset of the cryptocurrency era, Bitcoin was synonymous with &#8220;cryptocurrency&#8221; due to the absence of&#8230;"
+    "date": "2024-03-12T18:20:41.000Z",
+    "title": "Ethereum Classic sees $37 rise amid DeeStream buzz",
+    "url": "https://crypto.news/ethereum-classic-sees-37-rise-amid-deestream-buzz/",
+    "description": "As ETC enjoys a $37 rise and DST hints at significant growth, XRP and LTC watchers eye market changes, signaling varied investor interest and market evolution. #partnercontent"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-12T17:56:20.000Z",
-    "title": "Patient Capital Management replaces Grayscale Bitcoin Trust with crypto ETP",
-    "url": "https://crypto.news/patient-capital-grayscale-bitcoin-crypto-etp/",
-    "description": "Patient Capital Management filed with the SEC to purchase spot Bitcoin ETFs for 15% of its Opportunity Trust Fund."
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-12T18:05:20.000Z",
-    "title": "Bitcoin Gets Unexpected Comparison from JPMorgan: Linked to Smoking Cigarettes",
-    "url": "https://www.crypto-news-flash.com/bitcoin-gets-unexpected-comparison-from-jpmorgan-linked-to-smoking-cigarettes/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-gets-unexpected-comparison-from-jpmorgan-linked-to-smoking-cigarettes",
-    "description": "<img width=\"1200\" height=\"757\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300-300x189.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300-768x484.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300-150x95.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-11T094405.300-450x284.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />JPMorgan Chase CEO has once again compared Bitcoin to smoking cigarettes, his latest way of criticizing the asset. Despite this criticism, Bitcoin remain on the uptrend with global adoption visible. Jamie Dimon, CEO of JPMorgan Chase, has drawn a controversial parallel between Bitcoin (BTC) and smoking cigarettes. Dimon, a long-time Bitcoin critic, didn&#8217;t mince words [...]"
+    "source": "NewsBTC",
+    "date": "2024-03-12T18:30:44.000Z",
+    "title": "Historical Trends Unveil Bitcoin Peak Timing in Current Bull Cycle",
+    "url": "https://www.newsbtc.com/bitcoin-news/historical-trends-unveil-bitcoin-peak-timing-in-current-bull-cycle/",
+    "description": "Since the price of Bitcoin broke its previous all-time high, it has shown immense momentum, surging even higher, surpassing the $72,000 price mark, while leading the charge to what is considered the &#8220;biggest bull run in history.&#8221; Bitcoin Lengthening Cycles Beyond Previous All-Time High Many crypto analysts predict the world&#8217;s largest cryptocurrency will peak within the next few months following the surge. Some have even pinpointed the exact timeframe in which this might happen in this bull cycle. Related Reading: Analyst Predicts Bitcoin Super Cycle, Sets Price Target At $80,000 Rekt Capital, a cryptocurrency analyst and trader, has shared his insights on Bitcoin&#8217;s potential to top this bull cycle within the same timeframe as previous bull cycles. According to Rekt Capital, when Bitcoin breaks its old peak, it usually executes a &#8220;Bull Market Top&#8221; between 266-315 days. Given that BTC surpassed its previous all-time high last week, 266-315 days might be the approximate time of the next bull market peak. Specifically, this could happen around late November 2024 or very late January 2025. Even though this cycle is accelerating, Bitcoin&#8217;s days above its old peak seem to be taking longer. The post reads: Bitcoin broke its old All Time Highs last week, the next Bull Market Peak may thus occur in 266-315 days. That is very late November 2024 or very late January 2025. However, as fast as this cycle may be, it appears that the amount of days that Bitcoin spends beyond past all-time highs is actually lengthening. Drawing attention to the preceding bull cycles, the expert further emphasized that before topping out in 2013, &#8220;BTC&#8217;s surge lasted for 268 days.&#8221; Also, in 2017, it &#8220;topped out in 280 days,&#8221; indicating an increase of 14 days. Meanwhile, in 2021, the crypto asset &#8220;rallied for 315 days before reaching its peak,&#8221; indicating a 35-day increase compared to 2017. Therefore, this historical trend shows that BTC has exceeded past peaks by an average of 14 and 35 days. As a result, by adding the initial bull market peak timeframe of 266-315 days with the 14-35 days, Rekt Capital has pinpointed the coin to top out within 280 and 350 days. In particular, this could take place in the middle of December 2024 or in the middle of February 2025. Is BTC Breaking Its Preceding Pinnacle Too Early? Dennis Porter, the Chief Executive Officer (CEO) of Satoshi Action Fund, has revealed his optimistic view regarding BTC&#8217;s latest milestone. Porter mentioned that the asset reaching a new height marks the first time it has happened ahead of the halving event. Related Reading: Bitcoin ETF ‘Floodgates’ Are Just Opening, Says Bitwise CIO Amid $72,000 Surge According to the CEO, Bitcoin is witnessing a massive &#8220;fund inflow from institutional players not seen in the past.&#8221; He added, &#8220;many states are now seeking to enact legislation supporting BTC.&#8221; Thus, he has urged the community to remain unwavering, as &#8220;history is being made.&#8221; Featured image from iStock, chart from Tradingview.com"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-03-12T18:05:32.000Z",
-    "title": "Massive Transfer of Bitcoin Wealth Underway As Investor Sentiment Edges Closer to Euphoria: Analytics Firm Glassnode",
-    "url": "https://dailyhodl.com/2024/03/12/massive-transfer-of-bitcoin-wealth-underway-as-investor-sentiment-edges-closer-to-euphoria-analytics-firm-glassnode/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/04/endangers-btc-cruz.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Top analytics firm Glassnode says that a transfer of wealth is occurring within Bitcoin (BTC) as coins move from long-term holders to new speculators attempting to trade the current bull market. In a new report, Glassnode says that as Bitcoin breaks another all-time high, speculators have arrived to open leveraged futures positions, often buying their [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/12/massive-transfer-of-bitcoin-wealth-underway-as-investor-sentiment-edges-closer-to-euphoria-analytics-firm-glassnode/\">Massive Transfer of Bitcoin Wealth Underway As Investor Sentiment Edges Closer to Euphoria: Analytics Firm Glassnode</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-03-12T18:30:24.000Z",
+    "title": "Nibiru Chain Debuts Public Mainnet Along With Four Major Exchange Listings",
+    "url": "https://dailyhodl.com/2024/03/12/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Nibiru-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>March 12, 2024 – Tortola, British Virgin Islands Nibiru Chain, a developer and user-centric layer one platform, has officially launched its public mainnet. Nibiru Chain stands out by offering a secure and efficient environment for building highly-performant DApps (decentralized applications). It is distinguished by its robust smart contract ecosystem offering superior throughput and unparalleled security, [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/12/nibiru-chain-debuts-public-mainnet-along-with-four-major-exchange-listings/\">Nibiru Chain Debuts Public Mainnet Along With Four Major Exchange Listings</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   },
   {
-    "source": "Bitfinex Blog",
-    "date": "2024-03-12T17:56:40.000Z",
-    "title": "Bitfinex: Celebrating Over a Decade of Supporting and Building on Bitcoin",
-    "url": "https://blog.bitfinex.com/education/bitfinex-celebrating-over-a-decade-of-supporting-and-building-on-bitcoin/",
-    "description": "<p>With Bitcoin reaching new All-Time Highs this week, history may judge that this marked the turning point for the world’s first and largest digital asset, as it moved from a niche product with a small group of fiercely loyal supporters in its early days, to...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/education/bitfinex-celebrating-over-a-decade-of-supporting-and-building-on-bitcoin/\">Bitfinex: Celebrating Over a Decade of Supporting and Building on Bitcoin</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-03-12T18:12:39.000Z",
+    "title": "Patex Expands Global Reach, Lists Native Token on Major CEX and DEX Platforms",
+    "url": "https://dailyhodl.com/2024/03/12/patex-expands-global-reach-lists-native-token-on-major-cex-and-dex-platforms/",
+    "description": "<img width=\"1024\" height=\"1024\" src=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg 1500w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=150,150 150w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=300,300 300w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=768,768 768w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=1024,1024 1024w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=75,75 75w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=350,350 350w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=750,750 750w, https://dailyhodl.com/wp-content/uploads/2024/02/UPSCALED-Patex-Industry-Announcement-Featured-Image-Template.jpg?resize=1140,1140 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>March 12, 2024 – São Paulo, Brazil Leading Latin America-focused blockchain ecosystem Patex is delighted to announce the listing of its native token PATEX on several major trading venues. The landmark development marks a new chapter in the platform’s journey to enhance blockchain accessibility and utility throughout the Spanish-speaking world. The PATEX token will be [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/12/patex-expands-global-reach-lists-native-token-on-major-cex-and-dex-platforms/\">Patex Expands Global Reach, Lists Native Token on Major CEX and DEX Platforms</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

@@ -1,100 +1,86 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-12T09:59:45.000Z",
-    "title": "Hong Kong's Central Bank Starts Regulatory Sandbox for Stablecoin Issuers",
-    "url": "https://www.coindesk.com/policy/2024/03/12/hong-kongs-central-bank-starts-regulatory-sandbox-for-stablecoin-issuers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The regulator invited applicants with a \"genuine interest in developing a stablecoin issuance business\" to join the sandbox."
-  },
-  {
     "source": "Cointelegraph",
-    "date": "2024-03-12T10:01:11.000Z",
-    "title": " Why is XRP price up today? ",
-    "url": "https://cointelegraph.com/news/why-is-xrp-price-up-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDMvMjdhZGFjZTctOTFiNC00ZjFlLWE0N2YtMDBmNWMxZTdjZjdjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>XRP's price has gained over 11.50% in the past 24 hours amid large withdrawals from crypto exchanges.</p>\n                    <p><p>The price of XRP (<a href=\"https://cointelegraph.com/xrp-price-index\">XRP</a>) is up today, rising approximately 11.50% in the last 24 hours to $0.68. At its intraday best, the cryptocurrency was trading for as high as $0.74, its highest level since November 2023.</p><p>Let's discuss the core factors contributing to the XRP price rally today.</p><p>XRP's price gains today appear after massive capital transfers from crypto exchanges.</p><p><a href=\"https://cointelegraph.com/news/why-is-xrp-price-up-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-12T10:00:00.000Z",
-    "title": " Solving the blockchain trilemma with decentralized scalability ",
-    "url": "https://cointelegraph.com/news/decentralized-podcast-solving-blockchain-trilemma-decentralized-scalability",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYjM2ZTU2MWEtOGI5ZS00ZTdhLWFhNjctNTdjMTY3YzQ3NzE5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>This podcast is produced in collaboration with the Metis network and explores the role of layer-2 solutions in providing fast, secure and scalable transactions on Ethereum as it continues to surge in popularity.</p>\n                    <p><p data-ct-non-breakable=\"true\">This special episode of <em>Decentralize with Cointelegraph</em> dives deep into Ethereum layer-2 scaling solutions with Jose Fabrega, head of marketing at <a href=\"https://www.metis.io/\" target=\"_blank\" rel=\"noopener nofollow\">Metis</a> — a rapidly growing Ethereum layer-2 rollup —and the goal to make Ethereum a more scalable and decentralized place to build.</p><p data-ct-non-breakable=\"true\">The blockchain world is booming, but Ethereum, one of the most popular networks for decentralized applications, faces a scalability challenge. </p><p>Fabrega encourages listeners to think of the network as a super secure highway where traffic builds during peak hours — like during the launch of a popular nonfungible token project. Transactions can take minutes to complete and cost users substantial fees, sometimes 10s or even hundreds of dollars. This hinders the user experience and limits the network’s ability to handle the ever-growing demand for real-world applications.</p><p><a href=\"https://cointelegraph.com/news/decentralized-podcast-solving-blockchain-trilemma-decentralized-scalability\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-03-12T09:55:03.000Z",
-    "title": "Coinbase challenges SEC in court over ‘arbitrary and capricious’ rule making rejection",
-    "url": "https://cryptoslate.com/coinbase-challenges-sec-in-court-over-arbitrary-and-capricious-rulemaking-rejection/",
-    "description": "<p>Coinbase has strongly criticized the Securities and Exchange Commission (SEC) for rejecting its rulemaking petition, labeling the decision &#8220;arbitrary and capricious.&#8221; The crypto exchange lodged this critique in a Mar. 11 petition filed before the US Court of Appeals for the Third Circuit. If Coinbase&#8217;s move is successful, the SEC would be compelled to establish [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-challenges-sec-in-court-over-arbitrary-and-capricious-rulemaking-rejection/\">Coinbase challenges SEC in court over &#8216;arbitrary and capricious&#8217; rule making rejection</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-03-12T10:05:38.000Z",
-    "title": "Coinbase takes legal action against SEC in push for crypto regulation clarity",
-    "url": "https://cryptobriefing.com/coinbase-legal-action-sec-push-crypto-regulation-clarity/",
-    "description": "Coinbase files a new lawsuit challenging the SEC's refusal to engage in crypto rulemaking and seeks a clear explanation for this decision."
+    "date": "2024-03-12T10:14:20.000Z",
+    "title": " Binance execs detained in Nigerian capital despite country exit ",
+    "url": "https://cointelegraph.com/news/binance-tigran-gambaryan-detained-nigeria",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNGQ2MDgwZDItOGFiZS00M2U3LTk4YWMtZmRiNWJhMDUzMzEwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Senior Binance execs Tigran Gambaryan and Nadeem Anjarwalla have been detained at a government property since Feb. 26.</p>\n                    <p><p data-ct-non-breakable=\"true\">Despite Binance announcing its exit from Nigeria last week, two senior Binance execs are reportedly still being detained in the Nigerian capital of Abuja.</p><p>Tigran Gambaryan, a former cryptocurrency-focused United States federal agent, and a second Binance executive, Nadeem Anjarwalla, have been held in Abuja without passports for two weeks, Wired <a href=\"https://www.wired.com/story/binance-top-investigator-detained-nigeria/\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> on March 12.</p><p>Gambaryan, head of Binance’s criminal investigations team, and Anjarwalla, Binance Kenya-based regional manager for Africa, have been detained at a government property since Feb. 26, 2024.</p><p><a href=\"https://cointelegraph.com/news/binance-tigran-gambaryan-detained-nigeria\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoGlobe",
-    "date": "2024-03-12T09:58:24.000Z",
-    "title": "$ETH: Prominent Lawyer Jake Chervinsky’s Sobering Insight on the Spot Ethereum ETFs’ Rocky Road Ahead",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/eth-prominent-lawyer-jake-chervinskys-sobering-insight-on-the-ethereum-etfs-rocky-road-ahead/",
-    "description": "In a post on social media platform X, dated 11 March 2024, Jake Chervinsky, Chief Legal Officer at Variant Investments, shared a candid analysis regarding the prospects of an Ethereum (ETH) Exchange-Traded Fund (ETF) being approved by the U.S. Securities and Exchange Commission (SEC). This comes after the watershed moment on 10 January 2024, when […]\n"
+    "date": "2024-03-12T10:29:50.000Z",
+    "title": "CCData Breaks Down the Surge in Spot Crypto Trading Volumes in Its Latest Exchange Review Report",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/ccdata-breaks-down-the-surge-in-spot-crypto-trading-volumes-in-its-latest-exchange-review-report/",
+    "description": "CCData, a global leader in digital asset data recognized for providing institutional and retail investors with high-quality real-time and historical data, has recently published its February 2024 Exchange Review. According to CCData, the report aims to capture the key developments within the cryptocurrency exchange market, focusing on exchange volumes, market segmentation, and analysis of Bitcoin […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T10:07:27.000Z",
-    "title": "ElevenLabs’ Sound Revolution: How AI is Reshaping the World of Audio Content!",
-    "url": "https://www.cryptopolitan.com/elevenlabs-reshaping-the-of-audio-content/",
-    "description": "ElevenLabs, a trailblazer in artificial intelligence (AI) technology, has unveiled its latest creation: an AI sound effect generator. This cutting-edge platform marks a significant stride in the realm of creative content production, enabling users to effortlessly generate a myriad of sound effects for various applications such as presentations, movies, and podcasts. Redefining Audio Production with [&#8230;]"
+    "date": "2024-03-12T10:36:39.000Z",
+    "title": "Discover the Secret: How AI Integration Can Boost Developer Salaries",
+    "url": "https://www.cryptopolitan.com/how-ai-integration-boost-developer-salaries/",
+    "description": "As technology continues to advance, software developers face evolving challenges in maintaining competitive salaries. With the rise of generative AI and no-code/low-code tools potentially altering the job landscape, developers must adapt and strategize to secure high-paying roles. Developer&#8217;s path to success: Mastering languages and embracing AI Diversifying programming language skills is crucial for maximizing earning [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T10:01:21.000Z",
-    "title": "Patex Expands Global Reach, Lists Native Token on Major CEX and DEX Platforms",
-    "url": "https://www.cryptopolitan.com/patex-expands-global-reach-lists-native-token-on-major-cex-and-dex-platforms/",
-    "description": "São Paulo, Brazil, March 12th, 2024, Chainwire Leading Latin America-focused blockchain ecosystem Patex is delighted to announce the listing of its native token $PATEX on several major trading venues. The landmark development marks a new chapter in the platform’s journey to enhance blockchain accessibility and utility throughout the Spanish-speaking world. The $PATEX token will be [&#8230;]"
+    "date": "2024-03-12T10:21:08.000Z",
+    "title": "South Korea Enhances Food Safety Measures with AI-Based Screening for Processed Foods",
+    "url": "https://www.cryptopolitan.com/s-korea-food-safety-with-ai-screening/",
+    "description": "In a bid to bolster its food safety measures, South Korea has taken a significant step by expanding its AI-based screening system to cover processed food imports. This move comes amidst growing concerns globally about food safety and quality, especially with processed foods. South Korea&#8217;s AI-based screening system, known as SAFE-i24, has been extended to [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T09:44:50.000Z",
-    "title": "Meta Smart Glasses Upgrade: Introducing Virtual Tour Guide Feature",
-    "url": "https://www.cryptopolitan.com/meta-smart-glasses-introducing-virtual-tour/",
-    "description": "Meta&#8217;s Ray-Ban Meta Smart Glasses, formerly known as Ray-Ban Stories, has received a significant upgrade, featuring a faster processor, improved cameras, enhanced audio capabilities, and integration with Meta AI.  The latest Version 2 update introduces advanced features such as better image quality, global volume control, and heightened security measures. Notably, a new beta feature unveiled [&#8230;]"
+    "date": "2024-03-12T10:20:39.000Z",
+    "title": "Top 8 Ethereum Layer 2 Altcoins To Buy Before Dencun Upgrade",
+    "url": "https://www.cryptopolitan.com/ethereum-layer-2-altcoins-to-buy/",
+    "description": "Altcoins To Buy the Ethereum Dencun upgrade, scheduled for March 13, is set to revolutionize Ethereum&#8217;s landscape, spotlighting 8 Layer 2 altcoins with potential for explosive growth. As Ethereum&#8217;s price soars past $4,000, these cryptocurrencies stand at the brink of a bullish wave, promising lucrative opportunities for savvy investors. Polygon (MATIC)&#160; Polygon (MATIC) is quickly [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T09:42:57.000Z",
-    "title": "AWS Introduces Game-Changing AI Tools for Developers",
-    "url": "https://www.cryptopolitan.com/aws-introduces-game-changing-ai-tools/",
-    "description": "Amazon Web Services (AWS) has launched innovative AI-driven tools to revolutionize the software development process. These tools promise to enhance developer productivity and streamline coding tasks, led by Doug Seven, general manager of Amazon CodeWhisperer and director of software development for Amazon Q at AWS. CodeWhisperer and Amazon Q: Redefining software development At the forefront [&#8230;]"
+    "date": "2024-03-12T10:18:10.000Z",
+    "title": "Court limits SEC use of new cases in Binance crypto battle",
+    "url": "https://www.cryptopolitan.com/court-limits-sec-use-of-new-cases-in-binance/",
+    "description": "The US District Court Judge, Amy Berman Jackson, issued an order limiting the U.S. Securities and Exchange Commission (SEC)&#8217;s ability to leverage supplemental authority in ongoing litigation involving the crypto exchange Binance. The directive, dated March 11, signifies a significant turn in the legal proceedings, as it directly addresses the SEC&#8217;s strategy of citing additional [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T09:40:12.000Z",
-    "title": "Coinbase appeals SEC rulemaking denial in landmark case",
-    "url": "https://www.cryptopolitan.com/coinbase-appeals-sec-rulemaking-denial/",
-    "description": "Coinbase has initiated a formal appeal against the United States Securities and Exchange Commission (SEC). This move comes after the SEC denied Coinbase&#8217;s petition for rulemaking in the digital asset space. Paul Grewal, Coinbase&#8217;s Chief Legal Officer, expressed dissatisfaction with the SEC&#8217;s response. He criticized the regulator for its lack of clear reasoning and for [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-12T10:14:38.000Z",
+    "title": "Grayscale outflows continue as Bitcoin Trust sees $494 million withdrawal",
+    "url": "https://crypto.news/grayscale-outflows-continue-as-bitcoin-trust-sees-494-million-withdrawal/",
+    "description": "On March 11, Grayscale Bitcoin Trust (GBTC) saw a substantial withdrawal, with $494 million worth of Bitcoin, approximately 6,850 BTC, leaving the fund.&#160; BitMEX Research initially labeled this exodus a record outflow. However, they later clarified that it was a&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-12T10:13:09.000Z",
+    "title": "Most crypto exchange tokens lag behind Bitcoin, data shows",
+    "url": "https://crypto.news/most-crypto-exchange-tokens-lag-behind-bitcoin-data-shows/",
+    "description": "According to a study done by TokenInsight, most exchange tokens underperformed compared to Bitcoin performance. Despite the growing popularity of crypto exchange tokens like Binance Coin (BNB) and Bitget Token (BGB), particularly amid the rise of decentralized finance and non-fungible&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-12T10:10:38.000Z",
+    "title": "Cardano (ADA) Price Alert: Analyst Predicts 60% Rally In Next 7 Days",
+    "url": "https://www.newsbtc.com/news/cardano-ada-price-alert-analyst-predicts-60-rally-in-next-7-days/",
+    "description": "Optimism surrounds Cardano (ADA) despite some recent hiccups. ADA stands resilient, maintaining a positive outlook despite a 5% decrease over the past week. Currently priced at $0.75, ADA demonstrates a robust stance with a 24-hour trading volume of $1.14 billion and a market capitalization of $24 billion. Related Reading: Crypto Fever: Bitcoin Smashes Records, Approaching $73,000 Milestone Analyst Points To Promising Weekly Chart Trends Renowned crypto analyst Sssebi is charting an optimistic course for ADA, emphasizing the significance of the weekly chart in understanding the broader context. Nestled above its 200-week moving average, ADA shows promise with significant green candles on the weekly charts and a noticeable uptick in buying momentum, signaling a strong underlying trend. Source: Coingecko ADA Primed For A Smooth Ascent Sssebi&#8217;s analysis suggests a bright week ahead for ADA, predicting a potential surge of 50-60%. Notably, he points out the absence of major resistance levels until ADA hits $1.2, indicating a relatively smooth path for the cryptocurrency in the immediate future. This projection aligns with the analyst&#8217;s positive assessment of ADA&#8217;s present positioning and the overall market sentiment. If you are ever concerned about $ADA, just look at the weekly chart. Above 200 Week Moving Average with some huge weekly green candles and huge buying pressure. Next week will be huge for $ADA, there is not much resistance until $1.2, we could see a 50-60% increase next week. https://t.co/Z6pdH37wWe pic.twitter.com/anlV5YqWl4 — Sssebi🦁 (@Av_Sebastian) March 10, 2024 Will Cardano Hit $3 By May? After looking at ADA&#8217;s performance in the past, Sssebi notices similarities to past market cycles, namely the one in which ADA saw a substantial decline of almost 35%. Nevertheless, ADA not only bounced back from a significant pullback, but it also exceeded its prior ATH. The analyst projects significant increase in the following months, and based on this historical viewpoint, ADA might reach a price of $3 by May or approximately. Ether market cap currently at $483 billion. Chart: TradingView.com Technical Resilience, Foundation Building: ADA&#8217;s Strength Unveiled Beyond the short-term predictions, ADA is described as constructing a robust foundation for future growth. The cryptocurrency showcases resilience by navigating between substantial support and resistance levels. Notably, at the $0.58 mark, ADA finds reliable support with the 50-day moving average acting as a safety net during retracements. This technical analysis underlines the structural strength of ADA, setting the stage for a potential surge. Related Reading: Cloudy Future For Ethereum ETFs – What’s Casting Doubt On Their Fate? ADA Navigates Towards The Coveted $1 Mark Despite recent fluctuations, ADA maintains a positive trajectory, hinting at an upcoming bullish trend that could propel it toward the coveted $1 mark. The market analysis reflects a cryptocurrency in transition, oscillating between support and resistance levels, creating a favorable environment for a potential surge in the near future. Featured image from Igor Mashkov/Pexels, chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-12T10:00:28.000Z",
-    "title": "NuggetRush Prospect Grows On Presale Amid Brewing Gaming Narratives On Immutable X (IMX) And BEAM",
-    "url": "https://www.crypto-news-flash.com/nuggetrush-prospect-grows-on-presale-amid-brewing-gaming-narratives-on-immutable-x-imx-and-beam/?utm_source=rss&utm_medium=rss&utm_campaign=nuggetrush-prospect-grows-on-presale-amid-brewing-gaming-narratives-on-immutable-x-imx-and-beam",
-    "description": "<img width=\"1200\" height=\"719\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262-768x460.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-12T083626.262-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />NuggetRush (NUGX) is a crypto and blockchain gaming platform combining valuable gaming rewards with mining expeditions. Gamers can set up mining rigs, acquire machinery, and hire workers in the in-game marketplace. Immutable X (IMX) experienced a rapid 70% surge in February 2024, entering the top 40 crypto market cap list. Starting at $2.20, it reached [...]"
+    "date": "2024-03-12T10:13:36.000Z",
+    "title": "Gate.io Proof of Reserves Exceed $6 Billion, Additional $800 Million Stored",
+    "url": "https://www.crypto-news-flash.com/gate-io-proof-of-reserves-exceed-6-billion-additional-800-million-stored/?utm_source=rss&utm_medium=rss&utm_campaign=gate-io-proof-of-reserves-exceed-6-billion-additional-800-million-stored",
+    "description": "<img width=\"1200\" height=\"600\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22-300x150.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22-768x384.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22-150x75.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-12_13-11-22-450x225.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Mar. 12th, Panama &#8211; On March 11, 2024, Gate.io, a global leader in digital asset trading, released its latest proof of reserve report. The report reveals that Gate.io&#8217;s reserve ratio in March reached 115.49%, with the total reserves surpassing $6 billion, a 40.33% increase from January. Additionally, the extra reserves experienced steady growth, reaching a [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-12T10:12:30.000Z",
+    "title": "3 Ultra High Potential Altcoins For 2024 Crypto Bull Run",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-ultra-high-potential-altcoins-for-2024-crypto-bull-run/",
+    "description": "<p>If you have 2 quality projects you are looking at, all things being equal, it’s better to get into the earlier project. If it survives its first year, it often has lots of room to run. You and I both know the advantages of being early. So today, 3 altcoins we like that are pre-TGE [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/3-ultra-high-potential-altcoins-for-2024-crypto-bull-run/\">3 Ultra High Potential Altcoins For 2024 Crypto Bull Run</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-12T10:00:00.000Z",
-    "title": "KuCoin Backs Patex (PATEX): A Major Move Towards CBDC Adoption",
-    "url": "https://coinedition.com/kucoin-backs-patex-patex-a-major-move-towards-cbdc-adoption/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption.png 730w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/KuCoin_Backs_Patex_PATEX_A_Major_Move_Towards_CBDC_Adoption-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>KuCoin, a leading centralized cryptocurrency exchange, has officially announced its support for Patex (PATEX), a swiftly growing crypto project concentrated on fostering CBDC adoption. Through an official blog post and communication via its X handle, KuCoin has disclosed its choice to add Patex&#8217;s token, PATEX, to the roster of tradable assets available on its platform. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/kucoin-backs-patex-patex-a-major-move-towards-cbdc-adoption/\">KuCoin Backs Patex (PATEX): A Major Move Towards CBDC Adoption</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-12T09:40:12.000Z",
-    "title": "Cardano (ADA) Price Prediction 2024-2030: Will ADA Price Hit $5 Soon?",
-    "url": "https://coinedition.com/cardano-ada-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano-ADA-Price-Prediction\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/Cardano-ADA-Price-Prediction-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>After the first and second-generation cryptocurrencies, Bitcoin and Ethereum, Cardano was introduced in 2017 as a third-generation blockchain. Cardano claims to be a more scalable, secure, and efficient alternative to Ethereum and other decentralized application platforms. A cryptocurrency like Cardano, which has been around for a while, is one with a growing ecosystem. This year, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-ada-price-prediction/\">Cardano (ADA) Price Prediction 2024-2030: Will ADA Price Hit $5 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-12T10:27:09.000Z",
+    "title": "Bitgert Mania: Discover Why Investors Are Flocking to This Cryptocurrency – Is It the Next Big Thing?",
+    "url": "https://coinedition.com/bitgert-mania-discover-why-investors-are-flocking-to-this-cryptocurrency-is-it-the-next-big-thing/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/PR-5-14.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/PR-5-14.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-14-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>One of the biggest driving factors for the BRISE token’s growth has been its unique features. These features are like its own Unique selling points that have been constantly convincing people to become its loyal investors. These are: What is the reason behind its success? Bitgert was launched with 1 quadrillion coins. But today, over [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitgert-mania-discover-why-investors-are-flocking-to-this-cryptocurrency-is-it-the-next-big-thing/\">Bitgert Mania: Discover Why Investors Are Flocking to This Cryptocurrency – Is It the Next Big Thing?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

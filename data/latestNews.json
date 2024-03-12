@@ -1,128 +1,114 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-12T15:11:14.000Z",
+    "title": "Ethereum Blockchain Counts Down to 'Dencun' Upgrade, Set to Reduce Fees",
+    "url": "https://www.coindesk.com/tech/2024/03/12/ethereum-blockchain-counts-down-to-dencun-upgrade-set-to-reduce-fees/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The upgrade is designed to usher in a new era of cheaper fees for the growing array of layer-2 networks that operate on top of Ethereum."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-03-12T14:45:39.000Z",
-    "title": "Grayscale Files for Bitcoin 'Mini Trust'—Will It Offset GBTC Losses?",
-    "url": "https://decrypt.co/221313/grayscale-bitcoin-mini-trust-gbtc-outflows",
-    "description": "Grayscale's new Bitcoin ETF might help GBTC investors escape high fees without getting taxed. "
+    "date": "2024-03-12T15:23:00.000Z",
+    "title": "Toncoin Price Hits Two-Year High as Telegram Weighs Going Public",
+    "url": "https://decrypt.co/221317/toncoin-two-year-high-telegram-going-public",
+    "description": "The Open Network's TON jumped 38% in just over a day after the CEO of messaging app Telegram revealed a potential IPO ahead."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-12T15:35:36.000Z",
+    "title": " Tether helps US DOJ and FBI recover $1.4M in stolen funds ",
+    "url": "https://cointelegraph.com/news/tether-helps-us-doj-fbi-recover-1-4-m-stolen-usdt-tokens",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvOGJhMzcwYjEtNTg2ZC00YjllLTkzYTgtOTMwMzJkMzVhY2E2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The U.S. Attorney’s Office says this is among the first times the U.S. has recovered USDT from an unhosted virtual currency wallet.</p>\n                    <p><p>The U.S. Attorney’s Office in Chicago, Illinois, announced the seizure of approximately $1.4 million dollars in Tether (USDT) on March 12. The funds were suspected of being proceeds from fraud via a customer support scam.</p><p>Recovery efforts were led by the Department of Justice (DOJ) and the Federal Bureau of Investigation (FBI). According to the U.S. Attorney’s Office, Tether <a href=\"https://www.justice.gov/usao-ndil/pr/united-states-seizes-14-million-cryptocurrency-linked-alleged-tech-support-scam\" target=\"_blank\" rel=\"noopener nofollow\">assisted</a> in the operation. </p><p>Per a press release <a href=\"https://tether.to/en/tether-assists-us-government-in-seizure-of-illicit-funds-linked-to-tech-scam/\" target=\"_blank\" rel=\"noopener nofollow\">from</a> Tether: </p><p><a href=\"https://cointelegraph.com/news/tether-helps-us-doj-fbi-recover-1-4-m-stolen-usdt-tokens\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-12T15:25:00.000Z",
+    "title": " Bitcoin is up 1,800% 4 years after the 2020 COVID-19 BTC price crash ",
+    "url": "https://cointelegraph.com/news/bitcoin-up-1-800-after-2020-covid-19-btc-price-crash",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZGEzY2VjN2EtZmI1MC00OTc5LTllNTEtZjc4NTdjOTE3ZGY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>From bottom buys to stimulus checks, Bitcoin has richly rewarded those who used the events during the COVID-19 pandemic to increase BTC exposure.</p>\n                    <p><p data-ct-non-breakable=\"true\">Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is up nearly 2,000% versus its COVID-19 lows on the fourth anniversary of its crash to $3,600.</p><p>On March 12, 2018, BTC price action began a plunge to levels <a href=\"https://cointelegraph.com/news/crypto-market-meltdown-continues-as-bitcoin-price-drops-below-5-000\">never seen again</a> as risk assets dived worldwide.</p><p data-ct-non-breakable=\"true\">Bitcoin hodlers have much to celebrate with BTC/USD above $70,000, but some are commemorating a grim reminder of worse times.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-up-1-800-after-2020-covid-19-btc-price-crash\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-12T15:14:53.000Z",
+    "title": " Global banks participate in large-scale blockchain pilot test ",
+    "url": "https://cointelegraph.com/news/global-banks-participate-large-scale-blockchain-pilot-test",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMGI5ZWY2NzEtOWJiMC00YTk3LWJiZmMtYjRlMTEyZTBhMmY2LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Since the Canton Network’s inception, 155 participants from 45 major organizations have settled real-world assets across 22 blockchains.</p>\n                    <p><p data-ct-non-breakable=\"true\">Major financial institutions, including Goldman Sachs, BNY Mellon and Cboe Global Markets, have completed a large-scale pilot test using blockchain technology.</p><p><a href=\"https://www.bloomberg.com/news/articles/2024-03-12/goldman-bny-mellon-test-canton-network-blockchain-platform\" target=\"_blank\" rel=\"noopener nofollow\">According</a> to a March 12 Bloomberg report, institutional investors executed over 350 simulated transactions via distributed ledger technology in areas such as tokenized assets, fund registry, digital cash, repo, securities lending and margin management on the Canton network, which was launched in May 2023 by startup Digital Asset Holdings. The pilot test included 15 asset managers, 13 banks, four custodians, three exchanges and the stablecoin issuer Paxos Trust.</p><p>In its announcement the same day, the Canton Network <a href=\"https://www.canton.network/pilot-press-release\" target=\"_blank\" rel=\"noopener nofollow\">said</a> that 155 participants from 45 major organizations have since demonstrated settlement across 22 permissioned blockchains connected to its ledger. The firm stated: </p><p><a href=\"https://cointelegraph.com/news/global-banks-participate-large-scale-blockchain-pilot-test\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-12T14:50:19.000Z",
-    "title": "Former US IRS agent among Binance staff detained in Nigeria",
-    "url": "https://cryptoslate.com/former-us-irs-agent-among-binance-staff-detained-in-nigeria/",
-    "description": "<p>The Nigerian government reportedly obtained a court warrant to detain Binance officials for at least twelve days after they insisted they should be taken to their respective countries&#8217; embassies, local media outlet Premium Times reported on Mar. 12. Detained officials identified Recently, the Nigerian government accused Binance of aggravating the country&#8217;s foreign exchange challenges by [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/former-us-irs-agent-among-binance-staff-detained-in-nigeria/\">Former US IRS agent among Binance staff detained in Nigeria</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-03-12T15:08:27.000Z",
-    "title": "‘Solana ascent to a top 3 blockchain by market cap seems inevitable’, says Zeta Markets’ CEO",
-    "url": "https://cryptobriefing.com/solana-ascent-to-a-top-3-blockchain-inevitable/",
-    "description": "Solana (SOL) jumped almost 13% in the last seven days, and Tristan Frizza, CEO and Founder of Zeta Markets, believes that SOLs rally has just begun. The approval of spot Bitcoin exchange-traded funds in the US, the halving, and Ethereums Dencun upgrade are boosting increased institutional interest, renewed optimism, and broader adoption, heralding the dawn"
+    "date": "2024-03-12T15:28:11.000Z",
+    "title": "Bitcoin leverage again flushed at US Market Open as inflation rises missing estimates",
+    "url": "https://cryptoslate.com/insights/bitcoin-leverage-again-flushed-at-us-market-open-as-inflation-rises-missing-estimates/",
+    "description": "<p>In the wake of new inflation data, the crypto market experienced $164.52M in liquidations over the past 12 hours, with $119.88M in long positions and $44.64M in short positions being flushed out. Bitcoin accounted for $48.31M of the total liquidations. The US Market Open again seemed to be a bigger catalyst than inflation data as [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-leverage-again-flushed-at-us-market-open-as-inflation-rises-missing-estimates/\">Bitcoin leverage again flushed at US Market Open as inflation rises missing estimates</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-12T15:00:25.000Z",
-    "title": "XRP Eyes $1 Milestone But Experts Spotlight Faster Risers in the Crypto Arena This Month",
-    "url": "https://cryptodaily.co.uk/2024/03/xrp-eyes-1-milestone-but-experts-spotlight-faster-risers-in-the-crypto-arena-this-month",
-    "description": "This article reviews XRP's approach to the $1 mark, while highlighting other cryptocurrencies that have recorded faster growth recently. Stay updated on the trends and market dynamics of the cryptocurrency world."
+    "date": "2024-03-12T15:26:15.000Z",
+    "title": "Emerging Giants: The Cryptos Set to Redefine the Market",
+    "url": "https://cryptodaily.co.uk/2024/03/emerging-giants-the-cryptos-set-to-redefine-the-market",
+    "description": "Explore the power of emerging cryptocurrencies set to redefine the market! Witness Bitcoin's groundbreaking surge past $72,000 and discover how financial giants like BlackRock and Fidelity are fueling the rally. Stay ahead as five selected altcoins gear up to reshape the evolving market dynamics and offer unprecedented growth opportunities."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-12T14:44:13.000Z",
-    "title": "Bitrue Commits to All-Encompassing User Support During Ethereum Dencun Upgrade",
-    "url": "https://cryptodaily.co.uk/2024/03/bitrue-commits-to-all-encompassing-user-support-during-ethereum-dencun-upgrade",
-    "description": "The highly anticipated Ethereum Dencun upgrade, scheduled for March 13th, 2024, has sent ripples of excitement through the cryptocurrency community. This significant update promises to usher in an era of improved scalability and security and, most importantly for users, potentially lower transaction fees."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-12T14:41:38.000Z",
-    "title": "Xuirin Finance (XUIRIN) Launches Presale, Aiming to Transform the DeFi Sector",
-    "url": "https://cryptodaily.co.uk/2024/03/xuirin-finance-xuirin-launches-presale-aiming-to-transform-the-defi-sector",
-    "description": "In a significant stride towards revolutionizing the decentralized finance (DeFi) landscape, xuirin Finance is excited to announce the launch of its presale, effective immediately. This pivotal event marks a monumental milestone for the innovative DeFi platform, known for its comprehensive suite of services designed to transform how international transactions are conducted."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-03-12T15:05:07.000Z",
-    "title": "Grayscale Aims to Launch Mini Bitcoin Trust for Lower Fees and Tax Benefits",
-    "url": "https://news.bitcoin.com/grayscale-aims-to-launch-mini-bitcoin-trust-for-lower-fees-and-tax-benefits/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Grayscale Aims to Launch Mini Bitcoin Trust for Lower Fees and Tax Benefits\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Grayscale has revealed the submission of an S-1 form to the U.S. Securities and Exchange Commission (SEC) for the launch of a new, smaller version of its popular Grayscale Bitcoin Trust (GBTC). This initiative is designed to provide shareholders with exposure to bitcoin, reduced fees and potential tax benefits. Grayscale Unveils Bitcoin Mini Trust With [&#8230;]"
+    "date": "2024-03-12T15:20:45.000Z",
+    "title": "New Cryptocurrency Green Bitcoin Raises $3.2m While Bitcoin Price Breaks Through $70k",
+    "url": "https://cryptodaily.co.uk/2024/03/new-cryptocurrency-green-bitcoin-raises-32m-while-bitcoin-price-breaks-through-70k",
+    "description": "New Cryptocurrency Green Bitcoin Raises $3.2m While Bitcoin Price Breaks Through $70k"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T15:00:00.000Z",
-    "title": "Bitcoin Halving Bullish Market Effects: Uniswap (UNI), Optimism (OP) and InQubeta (QUBE) – Altcoins To Watch For Explosive Gains",
-    "url": "https://www.cryptopolitan.com/bitcoin-halving-bullish-market-effects-uniswap-uni-optimism-op-and-inqubeta-qube-altcoins-to-watch-for-explosive-gains/",
-    "description": "The upcoming Bitcoin (BTC) halving, only a few weeks away, is currently the most anticipated event in the crypto space. It is set to usher in a strong bullish wave, which will propel the wider crypto market. With a bull run anticipated after the halving event, altcoins to watch for explosive growth are Uniswap (UNI), [&#8230;]"
+    "date": "2024-03-12T15:26:34.000Z",
+    "title": "AI Challenges in Quality Assurance: A Comprehensive Analysis",
+    "url": "https://www.cryptopolitan.com/ai-challenges-in-quality-assurance/",
+    "description": "As organizations increasingly embrace artificial intelligence (AI) to enhance their quality assurance (QA) processes, they face many challenges. From data dependency to ethical considerations, navigating the complexities of implementing AI in QA requires careful consideration and strategic planning. Navigating complexity: Understanding the black box Implementing AI for QA introduces a significant challenge: complexity. AI models, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T14:59:01.000Z",
-    "title": "Moon Studios Announces No Rest for the Wicked: A Seamless Single-Player and Multiplayer Action RPG Experience",
-    "url": "https://www.cryptopolitan.com/moon-studios-announce-no-rest-for-the-wicked/",
-    "description": "Moon Studios, the creators behind the critically acclaimed Ori series, have unveiled their latest venture, No Rest for the Wicked. In a recent announcement by co-founder and tech and production director Gennadiy Korol, the studio has confirmed that the highly anticipated action RPG will offer players a seamless gaming experience, whether they choose to embark [&#8230;]"
+    "date": "2024-03-12T15:26:15.000Z",
+    "title": "Bank of Israel pioneers interest-bearing CBDC with unique features",
+    "url": "https://www.cryptopolitan.com/israel-bearing-cbdc-with-unique-features/",
+    "description": "Israel’s central bank, the Bank of Israel, has announced plans to launch an interest-bearing Israeli shekel central bank digital currency (CBDC). This move comes as part of the country’s exploration of digital currency options since 2021.&#160; Israel&#8217;s unique digital shekel design The digital shekel will adopt a two-tier model, featuring 24/7 instant payments, multipayment support, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T14:56:00.000Z",
-    "title": "XRP Price Prediction 2024-2033: $1 Coming Soon?",
-    "url": "https://www.cryptopolitan.com/xrp-price-prediction/",
-    "description": "XRP Price Prediction 2024-2033 So LBRY lost its case against the SEC. Sad to say, the ruling still doesn&#8217;t provide regulatory clarity as to the definitive conditions (the essential ingredients) that establish an offered asset as a security. Especially when the Judge touches only on the third prong in this case. The 76-year-old Howey Test [&#8230;]"
+    "date": "2024-03-12T15:24:00.000Z",
+    "title": "AMP Price Prediction 2024-2033: Is AMP a Good Investment?",
+    "url": "https://www.cryptopolitan.com/amp-price-prediction/",
+    "description": "AMP Price Prediction 2024-2033 Amp seeks to enable users to&#160;stake&#160;tokens without having to transfer them to a smart contract physically. This function seeks to make Amp suitable for any form of value exchange, including digital payments, traditional currency exchange, loan distributions, real estate transactions, and more.&#160; Staking Amp seeks to improve overall utility by increasing [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T14:55:35.000Z",
-    "title": "Gnosis Chain Implements Blob Transactions, Paving the Way for Ethereum’s Dencun Upgrade",
-    "url": "https://www.cryptopolitan.com/gnosis-chain-blob-ethereums-dencun-upgrade/",
-    "description": "In a significant development for the blockchain community, Gnosis Chain has successfully deployed a version of the eagerly anticipated Dencun upgrade, introducing type 3 blob transactions on its network. The move is aimed at enhancing the scalability of decentralized applications (dapps) by leveraging the innovative concept of blobs. Gnosis Chain, which was previously known as [&#8230;]"
+    "date": "2024-03-12T15:21:26.000Z",
+    "title": "Dune Imperium to Release on Xbox Tomorrow",
+    "url": "https://www.cryptopolitan.com/dune-imperium-launches-xbox-mobile/",
+    "description": "Discover the launch of Dune Imperium Digital, a strategy game set in the Dune universe, now available on mobile, Xbox, and PC."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T14:48:54.000Z",
-    "title": "Crypto service providers on notice as EU enforces new sanctions laws",
-    "url": "https://www.cryptopolitan.com/crypto-on-notice-as-eu-enforces-new-laws/",
-    "description": "The European Parliament has approved a sweeping set of sanctions laws aimed at harmonizing enforcement measures across the EU&#8217;s 27 member states. This move comes as a response to concerns over violations of EU financial sanctions, particularly in light of Russia&#8217;s invasion of Ukraine. EU Parliament&#8217;s unified sanctions approach In a decisive vote, Parliamentarians representing [&#8230;]"
+    "date": "2024-03-12T15:19:36.000Z",
+    "title": "Shiba Inu Coin Price Prediction 2024-2033: Is SHIB Skyrocketing Soon?",
+    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
+    "description": "Shiba Inu Price Prediction 2024-2033 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-12T14:44:20.000Z",
-    "title": "Industry giants rally against the rising tide of crypto phishing attacks",
-    "url": "https://www.cryptopolitan.com/the-rising-tide-of-crypto-phishing-attacks/",
-    "description": "In a recent announcement, blockchain security firm PeckShield disclosed the compromise of Beoble’s X account, highlighting a concerning trend of cybercriminal sophistication within the crypto community. The compromised account was found disseminating a phishing link, deceiving users under the guise of a legitimate airdrop opportunity. This incident underscores the importance of heightened vigilance and security [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T14:44:08.000Z",
-    "title": "X’s scam epidemic drains users’ wallets of $104M – Are you safe?",
-    "url": "https://www.cryptopolitan.com/xs-scam-epidemic-drains-user-wallets-of-104m/",
-    "description": "X, formerly known as Twitter, continues to be a breeding ground for scammers who exploit the platform for phishing schemes, resulting in substantial financial losses amounting to $104 million. Impersonator accounts on X lure unsuspecting users into phishing sites, perpetrating fraudulent activities. X turns into a phishing nightmare In February, hackers stole about $47 million [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-12T14:42:41.000Z",
-    "title": "Deribit’s New Altcoin Options Signal Bullish Sentiment Pre-Bitcoin Halving",
-    "url": "https://www.cryptopolitan.com/deribits-altcoin-bullish-pre-bitcoin-halving/",
-    "description": "In a significant move that has stirred the cryptocurrency derivatives market, Deribit, the leading crypto derivatives exchange, has expanded its offerings to include options trading for three major altcoins: Ripple&#8217;s XRP, Polygon (MATIC), and Solana (SOL).&#160; This development comes at a crucial time, just ahead of the anticipated Bitcoin halving event, and the initial trading [&#8230;]"
+    "date": "2024-03-12T15:12:06.000Z",
+    "title": "Hearthstone Anniversary Event in World of Warcraft Faces Technical Challenges",
+    "url": "https://www.cryptopolitan.com/hearthstone-anniversary-event-in-world/",
+    "description": "In the latest Hearthstone anniversary event within the expansive virtual universe of World of Warcraft (WoW), players have encountered various technical challenges, leading to mixed feedback and frustration among the community.&#160; The event, designed to commemorate Hearthstone&#8217;s legacy within WoW, unfolds in three major cities: Stormwind, Orgrimmar, and Valdrakken. However, the festivities have been marred [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-12T15:08:47.000Z",
-    "title": "DeeStream headlines with gains amid ETC and USDT market surge",
-    "url": "https://crypto.news/deestream-headlines-with-gains-amid-etc-and-usdt-market-surge/",
-    "description": "DeeStream gains traction in March, alongside Ethereum Classic and Tether, reflecting its potential in the streaming sector and investor interest. #partnercontent"
+    "date": "2024-03-12T15:34:22.000Z",
+    "title": "Bitcoin hits new all-time high at $73k ",
+    "url": "https://crypto.news/bitcoin-new-all-time-high-73000/",
+    "description": "Bitcoin briefly touched $73,000 today before facing a correction and dropping below $72,000. "
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-12T15:02:13.000Z",
-    "title": "Jeff Bezos’s $8.5b for buying crypto? 4.5k ETH for alien punk? And more succulent crypto gossip | Opinion",
-    "url": "https://crypto.news/jeff-bezoss-8-5b-for-buying-crypto-4-5k-eth-for-alien-punk-and-more-succulent-crypto-gossip-opinion/",
-    "description": "Who bought that 4.5k ETH crypto punk and is Jeff Bezos secretly stacking BTC? + more succulent crypto industry gossip via our new column #hearsay "
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-12T14:56:00.000Z",
-    "title": "Bitcoin’s Bullishness Must Go Hand in Hand With Real-World Utility: Ripple CEO",
-    "url": "https://coinedition.com/bitcoins-bullishness-must-go-hand-in-hand-with-real-world-utility-ripple-ceo/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability-.jpg 730w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/06/Expert-Market-Makers-Behind-Bitcoin-Trading-Volume-Stability--129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ripple’s CEO, Brad Garlinghouse, has hinted at the potential rally among utility tokens following Bitcoin’s significant bull run. In a recent post on X, the prominent crypto figure based his projection on historical patterns and the Bitcoin ETF&#8217;s soaring volumes. According to the Ripple chief, Bitcoin ETF volumes have been soaring, and the flagship crypto [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/bitcoins-bullishness-must-go-hand-in-hand-with-real-world-utility-ripple-ceo/\">Bitcoin’s Bullishness Must Go Hand in Hand With Real-World Utility: Ripple CEO</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-12T15:22:20.000Z",
+    "title": "Toncoin pumps 20% as traders give bullish forecast for new altcoin",
+    "url": "https://crypto.news/toncoin-pumps-20-as-traders-give-bullish-forecast-for-new-altcoin/",
+    "description": "Toncoin sees a 20% increase as optimism grows for its connection with Telegram's potential IPO. Meanwhile, Green Bitcoin's eco-friendly approach attracts significant presale investment. #partnercontent"
   }
 ]

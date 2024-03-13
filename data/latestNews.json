@@ -1,128 +1,93 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-13T13:58:13.000Z",
+    "title": "Ethereum Activates 'Dencun' Upgrade, in Landmark Move to Reduce Data Fees ",
+    "url": "https://www.coindesk.com/tech/2024/03/13/ethereum-activates-dencun-upgrade-in-landmark-move-to-reduce-data-fees/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "A key element of the upgrade is to enable a new place for storing data on the blockchain – referred to as \"proto-danksharding,\" which gives room for a dedicated space that is separate from regular transactions, and at a lower cost."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-03-13T13:28:39.000Z",
-    "title": "CPI COMES IN, BTC HOLDS 72",
-    "url": "https://decrypt.co/videos/interviews/9A8FE6VE/cpi-comes-in-btc-holds-72",
-    "description": "Bitcoin (BTC) at $72k and Ethereum (ETH) at $4035, both up 1%. Solana (SOL) rises 3% to $152. Leading gains: TON, XRP, IOTA, FLOW. Bitcoin nears record high with significant ETF investments. Solana sees spike in new users. TON surges 30% with Telegram IPO rumors. Ark Invest offloads $69m in Coinbase stock. Predictions: Bitcoin could outdo gold, potentially reaching $150k. Blast platform's value hits $3bn with higher yields. Biden proposes crypto miner tax. El Salvador profits $84m from Bitcoin. Monad plans $200m raise led by Paradigm."
+    "date": "2024-03-13T13:57:51.000Z",
+    "title": "Dencun Upgrade Goes Live, Ushering in New Era for Ethereum",
+    "url": "https://decrypt.co/221345/dencun-upgrade-goes-live-ushering-in-new-era-for-ethereum",
+    "description": "Developers say the upgrade will make transaction costs so low on layer-2 networks that gas fees might become a thing of the past."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-13T13:30:00.000Z",
-    "title": " Inside Pink Drainer: Security analyst defends his crypto scam franchise ",
-    "url": "https://cointelegraph.com/magazine/pink-drainer-security-researcher-steals-millions-from-participants/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/Magazine-PinkDrainer-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Security analyst turned wallet-draining kingpin “Pink” defends millions stolen from “participants” who fell victim to his crypto scam kit.</p>\n                    <p><p><strong>When crypto investor Ronald Mol clicked on an airdrop link shared by a trusted moderator in a Discord channel, little did he know the account had been taken over by a scammer equipped with the notorious Pink Drainer kit. </strong></p><p>I felt like a real dumbass. How could I have been so stupid to fall for this? Mol tells Magazine.</p><p>In draining kits, a developer or a team provides cybercriminals with a script alongside a tutorial on how to use it in exchange for a fee.</p><p><a href=\"https://cointelegraph.com/magazine/pink-drainer-security-researcher-steals-millions-from-participants/\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-13T14:00:00.000Z",
+    "title": " io.net adds Apple chip support to its cloud-based GPU-sourcing network ",
+    "url": "https://cointelegraph.com/news/ionet-apple-chip-support-gpu-network",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNWI3ZjNhN2YtYTRkZS00NmFiLTk5MDktZWY3NmJlZWU0MzRkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Io.net will support Apple silicon chips, allowing users to use the hardware for machine learning applications. </p>\n                    <p><p data-ct-non-breakable=\"true\">Recently launched decentralized physical infrastructure network (DePIN) io.net is set to onboard Apple silicon chip hardware for its artificial intelligence (AI) and machine learning (ML) services.</p><p>Io.net has developed a Solana-based <a href=\"https://cointelegraph.com/news/startup-builds-decentralized-gpu-sourcing-network-for-ai\">decentralized network that sources</a> graphics processing unit (GPU) computing power from geographically diverse data centers, cryptocurrency miners and decentralized storage providers to power ML and AI computing.</p><p>The company <a href=\"https://cointelegraph.com/news/107-000-gpus-on-the-waitlist-io-net-beta-launch-attracts-data-centers-gpu-clusters\"></a><a href=\"https://cointelegraph.com/news/107-000-gpus-on-the-waitlist-io-net-beta-launch-attracts-data-centers-gpu-clusters\">announced the launch</a> of its beta platform during the Solana Breakpoint conference in Amsterdam in November 2023, which coincided with a newly formed partnership with Render Network.</p><p><a href=\"https://cointelegraph.com/news/ionet-apple-chip-support-gpu-network\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Coin Telegraph India",
-    "date": "2024-03-13T13:30:00.000Z",
-    "title": " Inside Pink Drainer: Security analyst defends his crypto scam franchise ",
-    "url": "https://cointelegraph.com/magazine/pink-drainer-security-researcher-steals-millions-from-participants/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/Magazine-PinkDrainer-scaled.jpg\"></p><p>Security analyst turned wallet-draining kingpin “Pink” defends millions stolen from “participants” who fell victim to his crypto scam kit.</p>\n            "
+    "source": "Cointelegraph",
+    "date": "2024-03-13T13:55:06.000Z",
+    "title": " Dencun upgrade goes live on Ethereum mainnet ",
+    "url": "https://cointelegraph.com/news/dencun-upgrade-live-ethereum-mainnet",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNjk5YTY2YmMtNTA4OS00MzljLWI1MDctNWY0NmI2MzgyMTRhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Dencun, the biggest upgrade since the Merge, has just gone live on the Ethereum network.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Dencun upgrade was successfully rolled out on the Ethereum mainnet, at 13:55 UTC, on March 13.</p><p>Dencun is expected to significantly reduce the transaction fees of layer-2 networks and enhance Ethereum’s overall scalability, as the most-anticipated hard fork since the Merge.</p><p>While the Dencun upgrade is a step in the right direction, it won’t improve all the shortcomings of layer-2 solutions, according to Arthur Breitman, the co-founder of the Tezos blockchain. He told Cointelegraph:</p><p><a href=\"https://cointelegraph.com/news/dencun-upgrade-live-ethereum-mainnet\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-13T14:00:30.000Z",
+    "title": "Climate physicist sees Bitcoin as a tool for ecological sustainability",
+    "url": "https://cryptoslate.com/podcasts/climate-physicist-sees-bitcoin-as-a-tool-for-ecological-sustainability/",
+    "description": "<p>In the latest episode of the SlateCast, hosts Liam &#8220;Akiba&#8221; Wright and Nate Whitehill welcomed Margot Paez, a pro-Bitcoin climate change physicist and fellow at the Bitcoin Policy Institute. The discussion centered around the misconceptions surrounding Bitcoin&#8217;s energy usage and its potential role in addressing climate change. Bitcoin&#8217;s energy usage and climate impact Paez, a [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/podcasts/climate-physicist-sees-bitcoin-as-a-tool-for-ecological-sustainability/\">Climate physicist sees Bitcoin as a tool for ecological sustainability</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-13T13:35:02.000Z",
-    "title": "Pushd (PUSHD) Leverages Gains with Ethereum (ETH) & Bitcoin (BTC) Amidst Binance Coin (BNB) Growth",
-    "url": "https://cryptodaily.co.uk/2024/03/pushd-pushd-leverages-gains-with-ethereum-eth-bitcoin-btc-amidst-binance-coin-bnb-growth",
-    "description": "The crypto revolution has come a long way since it started over a decade ago. Much of the world is now familiar with cryptos and the unique benefits they offer to various industries. Acceptance and adoption levels are quite high among both individuals and institutions."
+    "date": "2024-03-13T14:00:52.000Z",
+    "title": "Hacken tokenizes its equity. HAI token holders can become shareholders",
+    "url": "https://cryptodaily.co.uk/2024/03/hacken-tokenizes-its-equity-hai-token-holders-can-become-shareholders",
+    "description": "Hacken tokenizes its equity. HAI token holders can become shareholders"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-13T13:22:56.000Z",
-    "title": "SendingNetwork Launches Testnet for Bandwidth Mining, Redefining Decentralized Communication Infrastructure",
-    "url": "https://cryptodaily.co.uk/2024/03/sendingnetwork-launches-testnet-for-bandwidth-mining-redefining-decentralized-communication-infrastructure",
-    "description": "SendingNetwork Launches Testnet for Bandwidth Mining, Redefining Decentralized Communication Infrastructure"
+    "date": "2024-03-13T14:05:06.000Z",
+    "title": "First Trust-SkyBridge's Bitcoin ETF Application Left in Limbo as SEC Declares Abandonment",
+    "url": "https://cryptodaily.co.uk/2024/03/first-trust-skybridges-bitcoin-etf-application-left-in-limbo-as-sec-declares-abandonment",
+    "description": "The US Securities and Exchange Commission (SEC) has ordered First Trust Advisors and SkyBridge Captial to declare its Bitcoin ETF application abandoned."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-13T13:52:43.000Z",
+    "title": "L2 Crypto Gems Attracting Big Money Investors Right Now",
+    "url": "https://cryptodaily.co.uk/2024/03/l2-crypto-gems-attracting-big-money-investors-right-now",
+    "description": "Explore the world of L2 Crypto Gems and their rising popularity among major investors in this enlightening article. Discover which cryptocurrencies highlight exceptional potential for growth and remarkable investment opportunities."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-13T13:47:09.000Z",
+    "title": "Filecoin (FIL) Fusion: Ripple (XRP) and Litecoin (LTC) Merge with Kelexo (KLXO) for Revolutionary Crypto Lending",
+    "url": "https://cryptodaily.co.uk/2024/03/filecoin-fil-fusion-ripple-xrp-and-litecoin-ltc-merge-with-kelexo-klxo-for-revolutionary-crypto-lending",
+    "description": "Filecoin (FIL), Litecoin (LTC) and Ripple (XRP) have been generating headlines lately for a variety of reasons Filecoin (FIL)"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-03-13T13:30:10.000Z",
-    "title": "Hope Rises Among XRP Proponents for a Significant Upswing Amidst Crypto Market Expansion",
-    "url": "https://news.bitcoin.com/hope-rises-among-xrp-proponents-for-a-significant-upswing-amidst-crypto-market-expansion/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Hope Rises Among XRP Proponents for a Significant Upswing Amidst Crypto Market Expansion\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/89uyyuuuu.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />In the last week, XRP experienced a 19.9% increase in its value against the U.S. dollar, reaching a peak of $0.744 per coin on March 11, 2024. Its price has since retreated a hair, now trading at $0.685 per XRP. Although the digital currency&#x2019;s market results haven&#x2019;t captured as much attention as bitcoin and ethereum, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-13T13:35:02.000Z",
-    "title": "AI’s Influence on Gen Z’s Music Listening Habits",
-    "url": "https://www.cryptopolitan.com/ais-influence-on-gen-zs-music-habits/",
-    "description": "In an era of personalized music streaming, artificial intelligence (AI) algorithms play a pivotal role in shaping the listening habits of Generation Z. These algorithms analyze user data and preferences, curating tailored playlists that expose Gen Z to a diverse array of musical genres and artists. This phenomenon is transforming the way this generation discovers, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-13T13:26:08.000Z",
-    "title": "Crypto mining giant Core Scientific optimistic despite $137.9M revenue dip",
-    "url": "https://www.cryptopolitan.com/core-scientific-optimistic-revenue-dip/",
-    "description": "Core Scientific, a prominent crypto mining firm, has disclosed a decrease in its year-on-year revenues in the fourth quarter (Q4) of 2023. The company&#8217;s total revenue for the entirety of 2023 was $502.4 million, indicating a notable decline from the $640 million achieved in the previous year.&#160; This downturn in revenue is primarily attributed to [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-13T13:23:03.000Z",
-    "title": "SendingNetwork Launches Testnet for Bandwidth Mining, Redefining Decentralized Communication Infrastructure",
-    "url": "https://www.cryptopolitan.com/sendingnetwork-launches-testnet-for-bandwidth-mining-redefining-decentralized-communication-infrastructure/",
-    "description": "Austin, Texas, March 13th, 2024, Chainwire SendingNetwork, communication infrastructure for web3, today announced the launch of its testnet for bandwidth mining. This launch is set to revolutionize the way we utilize bandwidth around the world. Through the implementation of an incentive testnet, rigorous security measures, and a clear roadmap towards token launch, SendingNetwork is dedicated [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-13T13:22:56.000Z",
-    "title": "Terraform Labs Gains Court Approval for Legal Defense Amid Bankruptcy",
-    "url": "https://www.cryptopolitan.com/terraform-labs-court-approval-legal-defence/",
-    "description": "In a recent decision that underscores the complexities of navigating legal challenges within the cryptocurrency industry, Terraform Labs has received the green light from a U.S. bankruptcy court to engage the services of the global law firm Dentons. The development comes amid Terraform&#8217;s ongoing battle with the U.S. Securities &#38; Exchange Commission (SEC), further highlighted [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-13T13:18:57.000Z",
-    "title": "India’s SEBI Chairperson Urges Faster Settlements to Compete with Crypto",
-    "url": "https://www.cryptopolitan.com/indias-sebi-chairperson-urges-faster-setl/",
-    "description": "To bolster India&#8217;s financial markets and prevent investors from migrating to cryptocurrency platforms, Madhabi Puri Buch, chairperson of the Securities and Exchange Board of India (SEBI), has issued a stark warning.&#160; Buch emphasized the need for regulated markets to offer instantaneous settlement processes, citing the growing allure of cryptocurrencies, which provide swift transactions and tokenization. [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-13T13:37:39.000Z",
-    "title": "Is Bitcoin becoming a first-class asset?",
-    "url": "https://crypto.news/is-bitcoin-becoming-a-first-class-asset/",
-    "description": "As Bitcoin reached an all-time high, discussions at the Web Summit Qatar 2024 spotlighted its journey toward becoming a first-class asset. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-13T13:35:46.000Z",
-    "title": "Dogwifhat meme coin surges 22%, eyes further growth",
-    "url": "https://crypto.news/dogwifhat-meme-coin-surges-22-eyes-further-growth/",
-    "description": " Dogwifhat (WIF) recorded a 22% increase, now valued at $2.33, amid predictions of sustained upward movement. Meanwhile, the emerging meme coin, Sponge, captures attention with a 211% rise this month. #partnercontent"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-13T13:34:22.000Z",
+    "date": "2024-03-13T13:45:36.000Z",
     "title": "ceτi AI Announces Successful Launch of Revolutionary Decentralized AI Infrastructure Token",
-    "url": "https://www.crypto-news-flash.com/ce%cf%84i-ai-announces-successful-launch-of-revolutionary-decentralized-ai-infrastructure-token/?utm_source=rss&utm_medium=rss&utm_campaign=ce%25cf%2584i-ai-announces-successful-launch-of-revolutionary-decentralized-ai-infrastructure-token",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/ceti_feature_171031296161nVy8SVsj-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Portland, Oregon, March 13th, 2024, Chainwire ceτi AI, a pioneering decentralized artificial intelligence infrastructure provider, is thrilled to announce the successful launch of its CETI token. Founded by a team of visionaries led by Dennis Jarvis (formerly of Bitcoin.com and Apple), ceτi AI is on a mission to democratize access to AI by building a [...]"
+    "url": "https://news.bitcoin.com/ce%cf%84i-ai-announces-successful-launch-of-revolutionary-decentralized-ai-infrastructure-token/",
+    "description": "<img width=\"768\" height=\"439\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240313_165325_174-768x439.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240313_165325_174-300x171.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240313_165325_174-1024x585.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240313_165325_174-768x439.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240313_165325_174.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />ceτi AI, a pioneering decentralized artificial intelligence infrastructure provider, is thrilled to announce the successful launch of its CETI token. Founded by a team of visionaries led by Dennis Jarvis (formerly of Bitcoin.com and Apple), ceτi AI is on a mission to democratize access to AI by building a globally distributed, high-performance, intelligent, and scalable [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T14:01:58.000Z",
+    "title": "Palworld Seeks Testers for New Content",
+    "url": "https://www.cryptopolitan.com/palworld-seeks-testers-for-new-content/",
+    "description": "Palworld, the breakout hit developed by Pocketpair, has announced a closed testing program aimed at refining upcoming content before its public release. The studio is actively seeking players to participate in this initiative, emphasizing the importance of identifying and addressing any bugs or issues prior to the content going live. Purpose of the testing program [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-13T14:08:00.000Z",
+    "title": "KangaMoon eyes competition with Dogecoin and Pepe as it surges 125%",
+    "url": "https://crypto.news/kangamoon-eyes-competition-with-dogecoin-and-pepe-as-it-surges-125/",
+    "description": "KangaMoon (KANG) emerges as a new contender, already marking a 125% surge post-launch. #sponsored"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-13T13:29:46.000Z",
-    "title": "Elon Musk’s Take on ‘Scam Coins’: A Shift Beyond Crypto?",
-    "url": "https://www.crypto-news-flash.com/elon-musks-take-on-scam-coins-a-shift-beyond-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musks-take-on-scam-coins-a-shift-beyond-crypto",
-    "description": "<img width=\"1920\" height=\"1189\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Elon musk\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-300x186.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-1024x634.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-768x476.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-1536x951.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-163x102.jpg 163w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-24x15.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-36x22.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/07/elon-musk-ge06f12fb7_1920-48x30.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Elon Musk jokes about the US dollar and compares it to a &#8220;scam coin&#8221; with high circulation and unequal distribution. Tesla makes big profits from Bitcoin holdings after Bitcoin&#8217;s value skyrockets due to the introduction of spot ETFs. Elon Musk, known for his outspoken views on cryptocurrencies, shared a post on X. Musk highlighted characteristics [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-03-13T13:37:45.000Z",
-    "title": "Binance’s Airdrop Alliance: Rewarding BNB Chain Users",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/binances-airdrop-alliance-rewarding-bnb-chain-users/",
-    "description": "<p>This program aims to reward the community crucial to BNB Chain&#8217;s growth. The Airdrop Alliance Program uniquely conducts airdrops for retroactive BSC and opBNB users in the BNB Chain ecosystem. Rewarding Loyalty: Airdrop Alliance for BNB Chain Users But what exactly does this mean for the community and the broader crypto landscape? Airdrops, in the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/binances-airdrop-alliance-rewarding-bnb-chain-users/\">Binance&#8217;s Airdrop Alliance: Rewarding BNB Chain Users</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-13T13:27:00.000Z",
-    "title": "Shiba Inu Price: Will SHIB’s Current Uptrend Lead to Unprecedented Gains?",
-    "url": "https://coinedition.com/shiba-inu-price-will-shibs-current-uptrend-lead-to-unprecedented-gains/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba-Inu-(SHIB)-Price-Analysis\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis.jpg 730w, https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/11/Shiba-Inu-SHIB-Price-Analysis-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Shiba Inu Coin has grown significantly in a short period of time and has become an essential player in the volatile world of cryptocurrencies. Lately, it reached the value of $0.00003301, with a daily growth of 2.46%. During this surge, forecasts for the future price of Shiba Inu are optimistic. Forecasts from Changelly&#8217;s blog suggest [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shiba-inu-price-will-shibs-current-uptrend-lead-to-unprecedented-gains/\">Shiba Inu Price: Will SHIB&#8217;s Current Uptrend Lead to Unprecedented Gains?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-13T13:22:59.000Z",
-    "title": "SendingNetwork Launches Testnet for Bandwidth Mining, Redefining Decentralized Communication Infrastructure",
-    "url": "https://coinedition.com/sendingnetwork-launches-testnet-for-bandwidth-mining-redefining-decentralized-communication-infrastructure/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-13_15-20-28_1710336049WndpqqKnmx-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Austin, Texas, March 13th, 2024, Chainwire SendingNetwork, communication infrastructure for web3, today announced the launch of its testnet for bandwidth mining. This launch is set to revolutionize the way we utilize bandwidth around the world. Through the implementation of an incentive testnet, rigorous security measures, and a clear roadmap towards token launch, SendingNetwork is dedicated [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/sendingnetwork-launches-testnet-for-bandwidth-mining-redefining-decentralized-communication-infrastructure/\">SendingNetwork Launches Testnet for Bandwidth Mining, Redefining Decentralized Communication Infrastructure</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-13T14:00:22.000Z",
+    "title": "Hacken tokenizes its equity. HAI token holders can become shareholders",
+    "url": "https://www.crypto-news-flash.com/hacken-tokenizes-its-equity-hai-token-holders-can-become-shareholders/?utm_source=rss&utm_medium=rss&utm_campaign=hacken-tokenizes-its-equity-hai-token-holders-can-become-shareholders",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s.jpeg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s-300x180.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s-768x461.jpeg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s-150x90.jpeg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/chainwire1_1710335821NEHbcygj4s-450x270.jpeg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Madrid, Spain, March 13th, 2024, Chainwire Hacken, a blockchain security auditor, announces the tokenization of its equity linked to the company`s native token, $HAI – a work-to-earn, product-utility, and governance token. It allows existing or new $HAI holders to exchange their assets for Hacken Equity Shares ($HES). This move makes Hacken the first crypto company [...]"
   }
 ]

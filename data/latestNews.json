@@ -1,65 +1,177 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-13T14:20:37.000Z",
-    "title": " Will the Bitcoin halving bring more institutional investors into crypto? ",
-    "url": "https://cointelegraph.com/news/bitcoin-halving-institutional-investors-crypto-adoption",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvODdiNmJjNjgtNTEwNi00YWE4LWJhYTItNDg3MTdhOTFjOWQ2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Bitcoin ETFs appear to have opened many institutions’ eyes to Bitcoin as an alternate asset. Will the April halving accelerate the trend? </p>\n                    <p><p data-ct-non-breakable=\"true\">Much remains unknown about Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) quadrennial halving event, which reduces the block rewards earned by Bitcoin miners by 50%, who play a critical role in validating BTC transactions and securing the system. </p><p>Will miners go bankrupt or flee the network? Will the hash rate collapse? Will the price of Bitcoin rise and then fall? Will the halving spur further crypto adoption? And so on. </p><p>But this much is certain: Every four years, miners’ block rewards are cut in half — this is pre-coded into the network — and at some point in April 2024, once the 210,000th block is validated, miners’ rewards will fall from 6.25 BTC per block to 3.125. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-halving-institutional-investors-crypto-adoption\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-03-13T15:16:56.000Z",
+    "title": "Ethereum Staking Protocol Swell Unveils Layer-2 Rollup With $1B Total Value Locked",
+    "url": "https://www.coindesk.com/tech/2024/03/13/ethereum-staking-protocol-swell-unveils-layer-2-rollup-with-1b-total-value-locked/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Swell developed the rollup alongside Ethereum scaler AltLayer and a16z-backed crypto-staking project EigenLayer."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-13T14:12:37.000Z",
-    "title": " How to get all ERC-20 tokens owned by an address ",
-    "url": "https://cointelegraph.com/news/how-to-get-all-erc20-tokens-owned-by-an-address",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYzA2OTJjYzktOGU0YS00NmY0LWI1NzktNjU3Njk3MWQ5ZjdlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Wallet APIs enable users to quickly locate ERC-20 tokens by wallet address. Chainbase, Alchemy and Moralis provide APIs to get token-related information.</p>\n                    <p><p data-ct-non-breakable=\"true\">Finding ERC-20 token balances in any given wallet is simple; when users open their wallets, they automatically display the balances of all the imported tokens. However, when an individual or an entity, such as law enforcement or a business, needs to ascertain the <a href=\"https://cointelegraph.com/learn/a-step-by-step-beginners-guide-to-creating-your-first-cryptocurrency-token\">ERC-20 token balances</a> of another address, direct access to the wallet is not possible.</p><p>In such cases, an <a href=\"https://cointelegraph.com/learn/a-beginners-guide-to-blockchain-apis\">application programming interface (API)</a> can be used to check the balances in a wallet. An API would return all ERC-20 token balances owned by an address and could automate the process of checking token balances.</p><p>This article discusses how one can use the APIs of Chainbase, Alchemy and Moralis to get information about ERC-20 tokens owned by an address.</p><p><a href=\"https://cointelegraph.com/news/how-to-get-all-erc20-tokens-owned-by-an-address\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-03-13T15:13:05.000Z",
+    "title": "Jack Dorsey's Block Begins Shipping Bitkey Bitcoin Wallets",
+    "url": "https://www.coindesk.com/tech/2024/03/13/jack-dorseys-block-begins-shipping-bitkey-bitcoin-wallets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Block unveiled Bitkey for pre-order in 95 countries last December having commenced beta testing during the summer."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-13T15:17:46.000Z",
+    "title": "Ethereum Layer-2 Blast Suffers Outage as Dencun Upgrade Goes Live",
+    "url": "https://decrypt.co/221538/ethereum-layer-2-blast-outage-dencun-upgrade",
+    "description": "Buzzy Ethereum layer-2 network Blast stopped producing blocks Wednesday after the launch of Ethereum's Dencun upgrade. Here's the latest."
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-03-13T15:11:00.000Z",
+    "title": "VanEck’s Bitcoin ETF Sees Record $200 Million Inflows After Slashing Fees",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/vanecks-bitcoin-etf-sees-record-200-million-inflows-after-slashing-fees/",
+    "description": "Investors are flocking to VanEck’s spot Bitcoin exchange-traded fund (ETF), the VanEck Bitcoin Trust (HODL), after the company slashed its sponsor fees for the first $1.5 billion for a year in a strategic move to attract capital. This surge comes amidst intensifying competition within the cryptocurrency ETF space, fueled by soaring investor demand for Bitcoin […]\n"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-13T15:00:28.000Z",
+    "title": "Coinbase Aims to Raise $1 Billion Through Convertible Bond Sale as Shares Spike",
+    "url": "https://news.bitcoin.com/coinbase-aims-to-raise-1-billion-through-convertible-bond-sale-as-shares-spike/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Coinbase Aims to Raise $1 Billion Through Convertible Bond Sale as Shares Spike\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/h90jjjuuu.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Coinbase Global, Inc. has unveiled its strategy to generate $1 billion through the issuance of convertible bonds set to mature in 2030. This plan includes a provision for initial buyers to acquire an extra $150 million to address any over-allotments. Coinbase revealed that the proceeds would be allocated for &#x201C;working capital and capital expenditures.&#x201D; Coinbase [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:31:24.000Z",
+    "title": "Arbitrum Launches  Gaming Catalyst Program to Empower Developers",
+    "url": "https://www.cryptopolitan.com/arbitrum-gaming-catalyst-program-developers/",
+    "description": "Arbitrum, a prominent player in the blockchain ecosystem, has taken a monumental step to bolster its presence in the gaming industry by launching the Gaming Catalyst Program. This innovative initiative seeks to allocate a staggering 200 million ARB tokens to various gaming-related projects, encompassing game publishers, studios, and essential gaming infrastructure components. The program&#8217;s primary [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:31:15.000Z",
+    "title": "Python Makes Creating New AI Models Easy",
+    "url": "https://www.cryptopolitan.com/python-makes-creating-new-ai-models-easy/",
+    "description": "Discover how Python paves the way for AI development, making it simpler for creators to build intelligent chatbots and other innovations. "
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:28:47.000Z",
+    "title": "Defeating Goblin Leaders in Baldur’s Gate 3: A Comprehensive Guide",
+    "url": "https://www.cryptopolitan.com/defeating-goblin-leaders-in-baldurs-gate-3/",
+    "description": "In the treacherous journey through Baldur’s Gate 3, overcoming the Goblin Leaders is a pivotal challenge. These formidable adversaries obstruct the path of those seeking to aid Tiefling refugees. This guide offers strategies to eliminate these threats and ensure a successful passage through Act 1. Strategies for confronting Goblin Leaders The Encounter with High Priestess [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:26:34.000Z",
+    "title": "The great Nigerian food rush: Economic crisis drives food theft",
+    "url": "https://www.cryptopolitan.com/nigeria-economic-crisis-drives-food-theft/",
+    "description": "Nigeria&#8217;s already-fragile peace and order are now threatened more than ever as the nation struggles with food theft spiraling amid an economic crisis. People are on the edge because of the rising cost of living and food prices, which has caused attacks on grain warehouses and increasing violent unrest. This trend shows how bad Nigeria&#8217;s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:10:47.000Z",
+    "title": "AI-Generated Food Images Outshine Real Ones: Study Reveals Surprising Consumer Preference",
+    "url": "https://www.cryptopolitan.com/ai-generated-food-images-outshine-real-ones/",
+    "description": "With the Global Nutrition and Hydration Week 2024 underway, researchers have unveiled an intriguing discovery – consumers generally prefer AI-generated images of food over real food images, especially when they are unaware of their true nature. The new findings, published in Food Quality and Preference, suggest that AI-generated food visuals excel at enhancing the appeal [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:09:11.000Z",
+    "title": "Valorant Introduces Skin and Valorant Points Refund System for Unsatisfied Players",
+    "url": "https://www.cryptopolitan.com/valorant-introduces-skin-and-valorant-points/",
+    "description": "Valorant, the popular free-to-play tactical shooter developed by Riot Games, has introduced a new system allowing players to refund unused in-game content and Valorant Points (VP) within specific criteria. This move addresses player dissatisfaction with purchased skins and premium currency, providing a solution for those seeking refunds. Refund criteria and eligibility Valorant&#8217;s refund system operates [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:06:35.000Z",
+    "title": "Paraluni’s Swift Response: User Compensation and Bitcoin Asset Mapping Launch",
+    "url": "https://www.cryptopolitan.com/paraluni-response-user-bitcoin-asset-mapping/",
+    "description": "In an exemplary move towards restoring trust and security within its community, Paraluni, a prominent metaverse project running on the BNB Chain, has recently announced significant strides in response to a security incident that shook its foundation in early 2022. Following the detection of a vulnerability that led to a hacker attack on March 13, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T15:00:45.000Z",
+    "title": "EU Parliament Approves Landmark Artificial Intelligence Law",
+    "url": "https://www.cryptopolitan.com/europes-world-first-ai-rules-gain-approval/",
+    "description": "The European Union has taken a significant step towards regulating the rapidly evolving field of artificial intelligence (AI) by giving final approval to the Artificial Intelligence Act, a groundbreaking legislation that aims to establish a comprehensive framework for the development and use of AI systems within the 27-nation bloc. The AI Act, which has been [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T14:57:04.000Z",
+    "title": "Introducing ckSOL Through The Galactic Bridge – Presented by ICP.Hub Balkan",
+    "url": "https://www.cryptopolitan.com/introducing-cksol-through-the-galactic-bridge-presented-by-icp-hub-balkan/",
+    "description": "In a significant development for the blockchain community, ICP.Hub Balkan has played a crucial role in facilitating a new partnership between the Internet Computer Protocol (ICP) and Galactic Bridge.&#160; This collaboration marks a special moment, promising to enhance interoperability between blockchain networks and bring forth a new era of digital asset management and development opportunities. [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-13T14:53:56.000Z",
+    "title": "World Cyber Games 2024 Festival Set to Thrill Gamers in Jakarta",
+    "url": "https://www.cryptopolitan.com/world-cyber-games-2024-festival-in-jakarta/",
+    "description": "The World Cyber Games Festival, a marquee event in the gaming calendar, is slated to captivate gaming enthusiasts as it makes its way to Jakarta, Indonesia. Organized by Big Picture Interactive, the festival promises an electrifying experience for attendees, featuring a diverse array of activities and tournaments. Expanded programme and exciting features Scheduled to take [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-13T14:31:55.000Z",
-    "title": "Dencun update goes live on Ethereum mainnet",
-    "url": "https://crypto.news/dencun-update-live-ethereum/",
-    "description": "Ethereum developers have successfully deployed the Dencun update to the mainnet."
+    "date": "2024-03-13T15:28:14.000Z",
+    "title": "Scotty the AI’s presale to conclude soon with $9M raised",
+    "url": "https://crypto.news/scotty-the-ais-presale-to-conclude-soon-with-9m-raised/",
+    "description": "Scotty the AI's presale, raising over $9M and catching industry eye, ends in five days, aiming for exchange launches next. #partnercontent"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-13T14:12:13.000Z",
-    "title": "Turning doubters into investors: how big names shed crypto skepticism",
-    "url": "https://crypto.news/turning-doubters-into-investors-how-big-names-shed-crypto-skepticism/",
-    "description": "Discover how the growing support from renowned figures and institutions bolsters the cryptocurrency market&#8217;s legitimacy and investor trust. Initially, Bitcoin (BTC) and its early counterparts faced skepticism, often seen as a domain for tech enthusiasts. These early years were notable&#8230;"
+    "date": "2024-03-13T15:26:26.000Z",
+    "title": "Thailand approves crypto tax break to boost its digital economy",
+    "url": "https://crypto.news/thailand-crypto-tax-break-approval/",
+    "description": "Thailand's cabinet approved a tax exemption measure for crypto earnings to boost the country's competitive edge in digital finance."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-13T15:22:57.000Z",
+    "title": "Aptos Foundation, Movement to bridge EVM and non-EVM ecosystems",
+    "url": "https://crypto.news/aptos-foundation-movement-evm/",
+    "description": "The Aptos Foundation announced an integration with Movement to establish a sophisticated routing infrastructure."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-13T15:10:03.000Z",
+    "title": "Ethereum and Dogecoin holders explore Kelexo lending",
+    "url": "https://crypto.news/ethereum-and-dogecoin-holders-explore-kelexo-lending/",
+    "description": "Ethereum and Dogecoin enthusiasts are turning to Kelexo's new lending protocol, seeking to invest gains from recent price surges. #partnercontent"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-13T14:47:06.000Z",
+    "title": "Chainlink and DeeStream anticipate major streaming upgrades",
+    "url": "https://crypto.news/chainlink-and-deestream-anticipate-major-streaming-upgrades/",
+    "description": "Chainlink (LINK) and DeeStream (DST) stand out as having the potential to transform streaming experiences significantly. #partnercontent"
   },
   {
     "source": "NewsBTC",
-    "date": "2024-03-13T14:30:38.000Z",
-    "title": "Bitcoin Whales Are Cashing Out Amid Push To New All-Time High",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-whales-cashing-out/",
-    "description": "As the Bitcoin price continues on an upward trajectory that has sent it toward new all-time highs, breaking above $73,000 this week. With this increase, the vast majority of BTC holders are currently seeing a profit, and large whales are taking advantage of this to cash out some profit. Large Bitcoin Whales Sell-Off Coins Crypto analyst Ali Martinez took to X (formerly Twitter) to share a chart that showed that large Bitcoin whales were selling off some of their coins. These large whales are those that hold at least 1,000 BTC in their wallet, which means on the lower end, these whales are holding at least $73 million worth of Bitcoin on their balances. Related Reading: Cardano Price About To Explode: Crypto Pundit Reveals Next Target As the chart shows, there has been a decline in the total number of BTC held by these large wallets and this signifies that they have been selling their coins. After the price first ran toward its 2021 all-time high of $69,000, these whales began reducing their allocation. The selling began in the month of February and has continued on into the month of March. Over this time, their total balances have reduced, leading to a decrease in the number of wallets that hold more than 1,000 BTC. As of February, there were around 2,150 wallets holding more than 1,000 BTC. However, in March, this figure has dropped toward 2,040 as the whales shave off their balances to secure some profit during the rally. Impact Of Whale Selling On BTC Price Given the size of these wallets, a decision to sell from them can have a notable impact on the BTC price. This is because they are able to dump a large amount of supply on the market in a short time and if there is not enough demand to soak it up, then it leads to a crash in the price. Related Reading: Shiba Inu Whales Are Accumulating SHIB, Do They Know Something You Don’t? The whale selling could be behind the flash dips that have plagued Bitcoin as it has surged to new all-time highs. One example of this was on Tuesday, March 12, when the price of Bitcoin touched $73,000. What followed was a flash crash that sent the price toward $68,000 before it recovered. So, while the whales dumping their holdings could have an adverse effect on the price, the performance of BTC in response to this flash crash shows that there is enough demand to meet this supply. In the case of Tuesday, the price would recover quickly to reach a new all-time high of $73,600. At this time of this writing, the BTC price is still maintaining its hold on $73,000 with a 7-day increase of 10.49%. BTC bulls reclaim control &#124; Source: BTCUSD on Tradingview.com Featured image from Techeconomy, chart from Tradingview.com"
+    "date": "2024-03-13T15:30:51.000Z",
+    "title": "Zooming NEAR: Solid 75% Growth Sparks Crypto Frenzy",
+    "url": "https://www.newsbtc.com/analysis/near/zooming-near-solid-75-growth-sparks-crypto-frenzy/",
+    "description": "Cryptocurrency analysts are abuzz with chatter surrounding NEAR Protocol (NEAR) as the token experiences a meteoric rise in value. The past month has been nothing short of phenomenal for NEAR, with its price leaping by an impressive 130%. Related Reading: Bitcoin Hodlers Eye Long Term: $520 Million BTC Go To Cold Storage Will NEAR Hit $8? This surge, which translates to an impressive $7.91 per token at the time of writing, has not gone unnoticed, igniting a firestorm of interest and speculation within the investment community. But is this a genuine upswing or simply a fleeting fad? Source: CoinMarketCap Breaking A Downtrend Or Chasing A Fad? While some analysts, like the prominent Rekt Capital, view this surge as a potential reversal of a multi-year downtrend, others urge caution. The cryptocurrency market, after all, is notorious for its wild fluctuations. A token&#8217;s price can reach dizzying heights only to come crashing down just as quickly. $NEAR Finally &#8211; Near Protocol has revisited its multi-year Macro Downtrend Now #NEAR will try to break this to further build on its current bullish momentum Breaking this Macro Downtrend would likely see price revisit the old All Time High resistance area #BTC #NEARprotocol… https://t.co/VmcLjkWFPn pic.twitter.com/wboVljOJsc — Rekt Capital (@rektcapital) March 11, 2024 Forecast: Bullish With A Side Of Caution Analysts have forecasted a bullish trend for NEAR in the immediate future. Their prediction suggests a 10% increase, placing the price at around $7.48 by March 13, 2024. This projected increase comes with a market capitalization of $7.65 billion and a notable 24-hour trading volume of $2.2 billion. However, forecasts, as some experts point out, should be viewed with a critical eye. The market is an intricate web of factors, and unforeseen events can easily derail even the most meticulously crafted predictions. Bitcoin is now trading at $73.319. Chart: TradingView Technical Indicators, Market Sentiment Technical indicators, while offering valuable insights, should not be the sole basis for investment decisions. The Fear and Greed Index, currently hovering at an &#8220;extreme greed&#8221; of 82 for NEAR, paints a picture of a market potentially fueled by euphoria rather than sound judgment. Investors piling in solely based on such sentiment, with NEAR having already surged 8.06% in the last 24 hours, might be setting themselves up for disappointment if a correction were to occur. Beyond The Hype: Examining NEAR&#8217;s Potential However, dismissing NEAR&#8217;s potential entirely would be unwise. To understand this, we need to examine thoroughly. NEAR Protocol is a blockchain platform designed to address scalability issues that have plagued older blockchain technologies like Ethereum. NEAR boasts features like sharding, a method for distributing processing power across a network of computers, to facilitate faster transaction speeds and lower fees. Related Reading: Cardano (ADA) Price Alert: Analyst Predicts 60% Rally In Next 7 Days This focus on scalability has attracted the attention of developers seeking to build decentralized applications (dApps) on a platform that can handle high volumes of traffic. Several promising dApps are already being built on NEAR, including DeFi (decentralized finance) protocols and NFT (non-fungible token) marketplaces. A thriving ecosystem of dApps could be a key driver of long-term growth for NEAR. Crypto experts, drawing insights from the price fluctuations observed at the onset of 2023, have formulated an average projected NEAR rate of $10.06 for March 2024. While this average is a benchmark, fluctuations within the market suggest potential variations, with the minimum expected price hovering around $9.8 and the maximum reaching $10.2. Considering these forecasts, investors may be enticed by the potential return on investment (ROI) of 35%, indicative of the promising growth prospects for Near Protocol in the coming months. Featured image from Pexels, chart from TradingView"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-13T14:33:53.000Z",
-    "title": "Chainlink (LINK) Draws Interest from New Whales: Lookonchain Data Highlights Large-Scale Accumulation on Binance",
-    "url": "https://www.crypto-news-flash.com/chainlink-link-draws-interest-from-new-whales-lookonchain-data-highlights-large-scale-accumulation-on-binance/?utm_source=rss&utm_medium=rss&utm_campaign=chainlink-link-draws-interest-from-new-whales-lookonchain-data-highlights-large-scale-accumulation-on-binance",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink-LINK-logo-in-led-lights-with-dark-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-logo-in-led-lights-with-dark-background-1-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />On-chain data has spotted ongoing accumulation of Chainlink (LINK) by market whales. Binance Exchange is linked to accumulation which is fast becoming a pattern. Lookonchain, a popular blockchain tracking firm recently drew the attention of the crypto community to a substantial accumulation of Chainlink (LINK) by large holders often referred to as “whales” on Binance, [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-13T15:38:37.000Z",
+    "title": "Blast Mainnet’s One-Hour Block Production Pause",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/blast-mainnets-one-hour-block-production-pause/",
+    "description": "<p>The network has ceased producing blocks, a critical function for its operation and the continuation of transactions on the blockchain. The halt, caused by issues from Ethereum&#8217;s DenCun upgrade, underscores the blockchain ecosystem&#8217;s interconnected vulnerabilities. Addressing the DenCun Upgrade Challenges The DenCun upgrade was expected to enhance Ethereum, a key player in the crypto world. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/blast-mainnets-one-hour-block-production-pause/\">Blast Mainnet&#8217;s One-Hour Block Production Pause</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-13T14:30:08.000Z",
-    "title": "VeChain Introduces Galaxy Member (GM) NFTs: Transforming User Incentives in VeBetterDAO  ",
-    "url": "https://www.crypto-news-flash.com/vechain-introduces-galaxy-member-gm-nfts-transforming-user-incentives-in-vebetterdao/?utm_source=rss&utm_medium=rss&utm_campaign=vechain-introduces-galaxy-member-gm-nfts-transforming-user-incentives-in-vebetterdao",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain-.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain-.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-09.09.26-The-image-is-a-dynamic-and-detailed-visual-representation-of-the-latest-VeChain-developments.-The-foreground-is-dominated-by-a-large-glowing-VeChain--450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />VeChain&#8217;s VeBetterDAO will officially be unveiled at the time of VeChainThor&#8217;s mainnet anniversary on June 30.  The unveiling would be in three phases, and in the Go-Live Gala phase, several features and functions would be introduced.  Leading enterprise blockchain platform VeChain recently announced the introduction of VeBetterDAO, an ambitious Decentralized Autonomous Organization (DAO) as part [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-13T15:15:26.000Z",
+    "title": "Nibiru Chain Launches Mainnet and Lists on Top Exchanges ",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/nibiru-chain-launches-mainnet-and-lists-on-top-exchanges/",
+    "description": "<p>The developer-focused Layer 1 platform Nibiru Chain has formally launched its public mainnet. The launch is a big step forward for the project. Nibiru&#8217;s goal to provide an efficient and safe environment for developing dapps. Nibiru Chain has made remarkable progress in recent months. Its biggest appeal lies in its strong smart contract ecosystem. This [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/nibiru-chain-launches-mainnet-and-lists-on-top-exchanges/\">Nibiru Chain Launches Mainnet and Lists on Top Exchanges </a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-13T14:11:56.000Z",
-    "title": "Ripple’s CTO Offers Insight on XRP’s Value, Sparks Cryptocurrency Investment Debate",
-    "url": "https://www.crypto-news-flash.com/ripples-cto-offers-insight-on-xrps-value-sparks-cryptocurrency-investment-debate/?utm_source=rss&utm_medium=rss&utm_campaign=ripples-cto-offers-insight-on-xrps-value-sparks-cryptocurrency-investment-debate",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-12.38.07-A-futuristic-cityscape-with-digital-waves-symbolizing-the-Ripple-networks-expansion.-In-the-center-a-glowing-XRP-coin-shines-brightly-surrounded-by-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />David Schwartz provides insights into the potential for gradual appreciation of the XRP token amidst discussions on passive income generation through the XRP Ledger&#8217;s AMM. Schwartz&#8217;s intervention serves as a clarifying voice amidst misconceptions surrounding decentralized finance (DeFi) products. In a recent development, David Schwartz, Ripple&#8217;s Chief Technology Officer, tackled a challenging inquiry regarding the [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-13T15:08:21.000Z",
+    "title": "Phantom Integrates with BeFi Labs for Efficient BRC-20 Swaps",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/phantom-integrates-with-befi-labs-for-efficient-brc-20-swaps/",
+    "description": "<p>This partnership boosts usability, letting Phantom users quickly swap BRC-20 tokens using BeFi&#8217;s trading terminal. Users also benefit from very low fees. BeFi Labs operates with the mission to make crypto trading more accessible and efficient. Let&#8217;s explore more about the Phantom wallet. Seamless BRC-20 Swaps with Phantom and BeFi Labs Its trading terminal is [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/phantom-integrates-with-befi-labs-for-efficient-brc-20-swaps/\">Phantom Integrates with BeFi Labs for Efficient BRC-20 Swaps</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-03-13T14:30:07.000Z",
-    "title": "Willy Woo Forecasts Massive Potential Upper Bitcoin Price Target, Says Bull Market Still Early – Here’s Why",
-    "url": "https://dailyhodl.com/2024/03/13/willy-woo-forecasts-massive-potential-upper-bitcoin-price-target-says-bull-market-still-early-heres-why/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Potential-Upper-Bitcoin-Price.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Price models suggest Bitcoin&#8217;s (BTC) bull run is just getting started, according to on-chain analyst Willy Woo. Woo tells his 1 million followers on the social media platform X that Bitcoin&#8217;s upper bound is currently $337,000. &#8220;So this bull market is still early, equivalent to $20,000 of last cycle. Last cycle didn&#8217;t hit the upper [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/13/willy-woo-forecasts-massive-potential-upper-bitcoin-price-target-says-bull-market-still-early-heres-why/\">Willy Woo Forecasts Massive Potential Upper Bitcoin Price Target, Says Bull Market Still Early – Here’s Why</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-03-13T15:10:00.000Z",
+    "title": "Grayscale to Combat Massive Outflows Using ‘Mini’ Bitcoin Spot ETF",
+    "url": "https://coinedition.com/grayscale-to-combat-massive-outflows-using-mini-bitcoin-spot-etf/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Grayscale Registers Bitcoin Trust Ads With SEC; Is an Approval Close?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/Hedge-Fund-Sues-Grayscale-for-Data-on-Battered-Bitcoin-Trust-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Digital asset management firm Grayscale is taking bold steps to counter its substantial asset outflows by introducing a novel ‘mini’ spot Bitcoin ETF.&#160; The Grayscale Bitcoin Mini Trust (BTC), revealed in a recent filing with the SEC, is designed as a &#8220;spinoff&#8221; of the original Grayscale Bitcoin Trust (GBTC), inheriting a portion of the assets [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/grayscale-to-combat-massive-outflows-using-mini-bitcoin-spot-etf/\">Grayscale to Combat Massive Outflows Using ‘Mini’ Bitcoin Spot ETF</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

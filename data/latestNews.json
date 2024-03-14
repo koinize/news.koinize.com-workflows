@@ -1,79 +1,58 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-14T11:54:48.000Z",
-    "title": "Hong Kong Starts New Phase of CBDC Testing",
-    "url": "https://www.coindesk.com/policy/2024/03/14/hong-kong-starts-new-phase-of-cbdc-testing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Phase 2 of the e-HKD pilot will be supported by the recently launched regulatory sandbox for testing wholesale CBDCs and tokenization, the Hong Kong Monetary Authority said."
+    "date": "2024-03-14T12:27:52.000Z",
+    "title": "Protocol Village: BNB Chain Unveils 'Rollup-as-a-Service,' to Spur Layer 2s Built on BSC",
+    "url": "https://www.coindesk.com/tech/2024/03/14/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 14-March 20."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-03-14T12:27:05.000Z",
+    "title": "Hong Kong's Markets Regulator Issues Warning Against Crypto Exchange Bybit",
+    "url": "https://www.coindesk.com/policy/2024/03/14/hong-kongs-markets-regulator-issues-warning-against-crypto-exchange-bybit/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Hong Kong's markets regulator identified Bybit as a suspicious cryptocurrency exchange and placed several of its products on its suspicious investment products list."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-14T11:53:31.000Z",
-    "title": " Dencun is about fee stabilization, not reduction: Fuel Founder  ",
-    "url": "https://cointelegraph.com/news/dencun-stabilization-not-reduction",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZmJlNzE4NGUtODdiMi00MmRhLTk3YjktMDQxMTkxNDRmMDY4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>While Dencun’s fee reduction for L2s is a significant bonus, it’s not the main benefit of the upgrade, Fuel Labs’ Nick Dodson told Cointelegraph.</p>\n                    <p><p data-ct-non-breakable=\"true\"><a href=\"https://cointelegraph.com/news/dencun-upgrade-live-ethereum-mainnet\">Ethereum’s Dencun hard fork</a>, considered the biggest upgrade since the Merge, went live on mainnet on March 13.</p><p>While most people were focusing on the promised transaction fee reduction for layer-2 (L2) scaling networks, the most significant benefit of the upgrade is actually fee stabilization, Nick Dodson, the chief executive officer and co-founder of Fuel Labs, told Cointelegraph in an exclusive interview:</p><p data-ct-non-breakable=\"true\">“On the point of EIP-4844, a lot of people talk about the fee reduction, but it's more about fee stabilization. It's actually more about expanding capacity and scale and not so much lowering fees.”</p><p><a href=\"https://cointelegraph.com/news/dencun-stabilization-not-reduction\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-14T12:32:20.000Z",
+    "title": " Data privacy and security concerns worry nearly half of tech industry consumers: Report  ",
+    "url": "https://cointelegraph.com/news/data-privacy-security-concerns-half-tech-industry",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMTI4MTFiYTktNTYxYS00ZmQzLWI4ZjItMWM1ZGI4MTgzMGIxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>For 48% of respondents in Aleo’s 2024 Data Privacy Report, data privacy and security are considered the most concerning issues within the tech industry.  </p>\n                    <p><p data-ct-non-breakable=\"true\">Consumers in the tech industry have concerns, and data privacy and security are among the biggest, especially in the cryptocurrency industry, according to a report from the Aleo Network Foundation. </p><p>The 2024 Data Privacy Report revealed that 77% of the 2,217 consumers surveyed said they were “very or somewhat concerned” about data privacy and security in their everyday lives. </p><p>Moreover, nearly half (48%) of the surveyed consumers said that data privacy and security is the “most concerning issue” currently affecting the tech industry. </p><p><a href=\"https://cointelegraph.com/news/data-privacy-security-concerns-half-tech-industry\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-14T11:48:22.000Z",
-    "title": " Hong Kong begins phase 2 of CBDC pilot ",
-    "url": "https://cointelegraph.com/news/hong-kong-central-bank-cbdc-pilot-phase-2",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNzJiMTcxNmEtNWE2Zi00YjYyLWIxYTEtOGExZGZhYjE3N2M3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Hong Kong’s central bank will accept proposals on potential use cases of a digital Hong Kong dollar from industry participants until May 17. </p>\n                    <p><p data-ct-non-breakable=\"true\">The Hong Kong Monetary Authority (HKMA) has launched phase two of its e-Hong Kong dollar (e-HKD) pilot program and urged industry participants to apply and submit potential use cases for its <a href=\"https://cointelegraph.com/learn/what-is-a-cbdc-why-central-banks-want-to-get-into-digital-currencies\">central bank digital currency (CBDC)</a>.</p><p>On March 14, the HKMA announced that it started the second phase of the e-HKD pilot to explore the potential of a digital Hong Kong dollar. This includes diving deeper into <a href=\"https://cointelegraph.com/news/hong-kong-cbdc-pilot-e-hkd-trials-phase-2\">key areas from the first phase</a>, where an e-HKD could provide value. This includes programmability, tokenization and atomic settlement. Furthermore, the HKMA said it will also attempt to look into new use cases that were not covered in the previous phase. </p><p>The central bank urged market participants to apply, giving them until May 17 to submit their applications. The HKMA estimates that the second phase of the e-HKD pilot will last until mid-2025 to give the participants enough time to test and evaluate the use cases they are proposing. </p><p><a href=\"https://cointelegraph.com/news/hong-kong-central-bank-cbdc-pilot-phase-2\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-03-14T11:45:57.000Z",
-    "title": "Bitcoin Price Is Going to $1 Million by End of 2025, Predicts JAN3 CEO",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/bitcoin-price-is-going-to-1-million-by-end-of-2025-predicts-jan3-ceo/",
-    "description": "Samson Mow, the CEO of crypto-focused technology firm JAN3, recently shared his forecast for Bitcoin’s future price on the “What Bitcoin Did” podcast. Samson Mow is a prominent figure in the cryptocurrency and blockchain industry, known for his expertise in the technological and economic facets of digital currencies. He has played key roles in several […]\n"
+    "source": "Crypto Daily",
+    "date": "2024-03-14T12:38:53.000Z",
+    "title": "Beyond Solana's Shadow: The Altcoins Ready to Illuminate the Market",
+    "url": "https://cryptodaily.co.uk/2024/03/beyond-solanas-shadow-the-altcoins-ready-to-illuminate-the-market",
+    "description": "Unlock the secrets of the crypto world and get ready for a financial revolution! Discover the altcoins set to explode in 2024, overshadowing even Solana's remarkable surge. Dive into their potential and learn why these hidden gems might just be the next big winners in your investment portfolio."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-14T12:00:17.000Z",
-    "title": "MANTRA Aims to Bring RWA Tokenization to The Middle East and Asia",
-    "url": "https://www.cryptopolitan.com/mantra-aims-to-bring-rwa-tokenization-to-the-middle-east-and-asia/",
-    "description": "Dubai, UAE, March 14th, 2024, Chainwire MANTRA has announced a major step towards mainstreaming Real World Asset (RWA) tokenization with its application for its first essential financial licenses. Its expected receipt of licensing in the UAE will allow MANTRA to target a global customer base, and empower businesses to capitalize on RWA asset tokenization. MANTRA’s [&#8230;]"
+    "date": "2024-03-14T12:36:58.000Z",
+    "title": "AI Advancements and the Future of Software Engineering",
+    "url": "https://www.cryptopolitan.com/ai-and-the-future-of-software-engineering/",
+    "description": "In the rapidly evolving landscape of technology, predictions and debates about the future of software engineering have become increasingly common. Recent advancements in artificial intelligence (AI) have fueled speculation about the fate of coding jobs and the role of human engineers in a world dominated by AI. However, experts assert that while AI may revolutionize [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-14T11:48:08.000Z",
-    "title": "Ripple-SEC lawsuit nears conclusion, XRP price outlook hangs in the balance",
-    "url": "https://www.cryptopolitan.com/ripple-sec-lawsuit-nears-conclusion/",
-    "description": "As the lawsuit between Ripple Labs and the U.S. Securities and Exchange Commission (SEC) approaches its culmination, market participants eagerly anticipate the court&#8217;s verdict, which could significantly impact the trajectory of XRP, the cryptocurrency associated with Ripple.&#160; Key dates loom on the horizon, with April 12 marking the deadline for motions opposing proposed remedies and [&#8230;]"
+    "date": "2024-03-14T12:24:56.000Z",
+    "title": "Robinhood’s assets under custody surpass the $100 Billion mark for the second consecutive month",
+    "url": "https://www.cryptopolitan.com/robinhoods-assets-under-custody-surpass/",
+    "description": "Robinhood, the Menlo Park, California-based brokerage, has witnessed a significant surge in Assets Under Custody (AUC), marking its second consecutive month of breaching the $100 billion milestone. In February, AUC grew by an impressive 16% to reach $118.7 billion, reflecting its robust performance in managing its clients&#8217; assets. Analyst coverage and growth expectations Bernstein, a [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-14T11:44:16.000Z",
-    "title": "Binance urges Nigerian authorities to keep dialogue with ‘constructive’ players after halting all services in naira",
-    "url": "https://crypto.news/binance-urges-nigerian-authorities-to-keep-dialogue-with-constructive-players-after-halting-all-services-in-naira/",
-    "description": "Binance has issued a compliance statement amid executives&#8217; detention in Nigeria, with their stay in custody until at least March 20. As two executives from Binance remain detained in Nigeria for the second week in a row without any charges&#8230;"
+    "source": "Cryptopolitan",
+    "date": "2024-03-14T12:12:42.000Z",
+    "title": "Scaramucci questions Grayscale’s Bitcoin Trust plan",
+    "url": "https://www.cryptopolitan.com/scaramucci-question-grayscales-bitcoin-trust/",
+    "description": "Renowned investment figure Anthony Scaramucci recently expressed skepticism towards Grayscale Investments&#8217; plan to introduce a &#8220;mini bitcoin trust,&#8221; predicting potential delays and a smaller-than-anticipated transfer of assets from the Grayscale Bitcoin Trust (GBTC). Scaramucci emphasized his doubts about the timely execution and scale of the transition to the proposed Grayscale Bitcoin Mini Trust, stating firmly, [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-14T12:00:21.000Z",
-    "title": "Bitcoin Bull Run To Continue After $71k ATH: Solana Eyes $200 While NuggetRush Prepares for a Parabolic Price Increase",
-    "url": "https://www.crypto-news-flash.com/bitcoin-bull-run-to-continue-after-71k-ath-solana-eyes-200-while-nuggetrush-prepares-for-a-parabolic-price-increase/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-bull-run-to-continue-after-71k-ath-solana-eyes-200-while-nuggetrush-prepares-for-a-parabolic-price-increase",
-    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-13T102817.510-450x253.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The rise in accumulation, ETFs, and macroeconomic factors indicates that Bitcoin could still go on its bull run. One of the leading altcoins, Solana, is aiming to continue the uptrend as it approaches the $200 level. NuggetRush reached $0.019, however, specialists foresee a 50x price pump in 2024. The new week has made Bitcoin (BTC) [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-14T11:50:12.000Z",
-    "title": "Whale Activity Signals End of Meme Coin Hype: Shiba Inu, Dogecoin, and PEPE Transfers Surge",
-    "url": "https://www.crypto-news-flash.com/whale-activity-signals-end-of-meme-coin-hype-shiba-inu-dogecoin-and-pepe-transfers-surge/?utm_source=rss&utm_medium=rss&utm_campaign=whale-activity-signals-end-of-meme-coin-hype-shiba-inu-dogecoin-and-pepe-transfers-surge",
-    "description": "<img width=\"1920\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/doge-6918941_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/04/doge-6918941_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/doge-6918941_1920-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/04/doge-6918941_1920-1024x768.jpg 1024w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Whales are moving big amounts of meme coins to exchanges, sparking worries about their future. Prices of meme coins like SHIB, DOGE, PEPE, and FLOKI are dropping due to whale transfers. Whales in the cryptocurrency market are making significant moves, transferring substantial amounts of meme coins to centralized exchange wallets. This behavior and speculation have [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-14T11:46:08.000Z",
-    "title": "Arbitrum’s ARB and Polygon’s MATIC Surge as Ethereum’s Dencun Upgrade Launches",
-    "url": "https://www.crypto-news-flash.com/arbitrums-arb-and-polygons-matic-surge-as-ethereums-dencun-upgrade-launches/?utm_source=rss&utm_medium=rss&utm_campaign=arbitrums-arb-and-polygons-matic-surge-as-ethereums-dencun-upgrade-launches",
-    "description": "<img width=\"1200\" height=\"672\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850-300x168.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850-768x430.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-04T090829.850-450x252.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Arbitrum&#8217;s ARB and Polygon&#8217;s MATIC experience significant value surges following the launch of Ethereum&#8217;s Denali upgrade, which revolutionizes data storage and drastically reduces transaction costs on layer-2 networks. Ethereum&#8217;s ecosystem sees diverse responses from layer-2 tokens, with some experiencing growth and others facing challenges, highlighting the transformative impact of the Dencun upgrade. Ethereum&#8217;s recent Dencun [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-14T11:45:59.000Z",
-    "title": "Here’s When Bitcoin Bull Market Could Reach Its Peak if History Repeats Itself, According to Crypto Analyst",
-    "url": "https://dailyhodl.com/2024/03/14/heres-when-bitcoin-bull-market-could-reach-its-peak-if-history-repeats-itself-according-to-crypto-analyst/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Could-Reach-Its-Peak.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A closely followed analyst is predicting when Bitcoin (BTC) will reach its peak in the ongoing bull market cycle. In a new video update on YouTube, pseudonymous analyst Rekt Capital tells his 64,600 subscribers that based on historic precedence Bitcoin could hit a current cycle peak in late 2024 or early 2025. “If we were [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/14/heres-when-bitcoin-bull-market-could-reach-its-peak-if-history-repeats-itself-according-to-crypto-analyst/\">Here’s When Bitcoin Bull Market Could Reach Its Peak if History Repeats Itself, According to Crypto Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-03-14T12:37:00.000Z",
+    "title": "MicroStrategy’s BTC Arsenal to Grow with $500M Raise, Already Holds 205K",
+    "url": "https://coinedition.com/microstrategys-btc-arsenal-to-grow-with-500m-raise-already-holds-205k/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/Microstrategy6-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>MicroStrategy Incorporated has significantly expanded its Bitcoin portfolio by acquiring an additional 12,000 Bitcoins. The purchase, valued at around $822 million, was financed through the use of convertible notes along with surplus cash. This purchase has significantly increased the business&#8217;s holdings of Bitcoin to 205,000, now worth more than $15 billion in equity. This jump [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/microstrategys-btc-arsenal-to-grow-with-500m-raise-already-holds-205k/\">MicroStrategy&#8217;s BTC Arsenal to Grow with $500M Raise, Already Holds 205K</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,65 +1,58 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-14T09:00:00.000Z",
-    "title": "Fireblocks, Zodia Markets Partner to Improve Cross-Border Payments",
-    "url": "https://www.coindesk.com/business/2024/03/14/fireblocks-zodia-markets-partner-to-improve-cross-border-payments/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The two crypto firms are attempting to improve cross-border payments via stablecoins for large corporations and institutions."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-03-14T08:44:20.000Z",
-    "title": "Robinhood to Benefit From ‘Monster’ Crypto Cycle, Initiated Outperform by Bernstein",
-    "url": "https://www.coindesk.com/markets/2024/03/14/robinhood-to-benefit-from-monster-crypto-cycle-initiated-outperform-by-bernstein/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Total crypto market cap is expected to reach $7.5 trillion by 2025 from $2.6 trillion today, the report said."
+    "date": "2024-03-14T09:32:08.000Z",
+    "title": "Layer 2 Blockchains Become Cheaper After Ethereum's Dencun Upgrade",
+    "url": "https://www.coindesk.com/markets/2024/03/14/layer-2-blockchains-become-cheaper-after-ethereums-dencun-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The upgrade allows layer 2 solutions to store data in \"blobs\" instead of the expensive call data."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-14T08:59:37.000Z",
-    "title": " EU publishes draft rules for stablecoin issuer complaint procedures ",
-    "url": "https://cointelegraph.com/news/eu-draft-rules-stablecoin-complaint-procedures",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNTVhNTk3Y2QtNzkwMy00OTAyLWJlZTQtMzk1ZWYzOTQ2MmEzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>This regulatory framework for stablecoins results from a joint collaboration between the European Banking Authority and the European Securities and Markets Authority.</p>\n                    <p><p>The European Union (EU) financial regulators want to add more stablecoin regulation guidelines under the Markets in Crypto-Assets (MiCA) regulatory framework by publishing draft regulatory standards for issuers of stablecoins when dealing with complaints.</p><p>The Regulatory Technical Standards (RTS) <a href=\"https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-draft-technical-standards-complaints\" target=\"_blank\" rel=\"noopener nofollow\">issued</a> protocols  on March 13 for efficiently and equitably resolving complaints by Asset Reference Tokens (ARTs) holders. These guidelines detail the procedures and standards for stablecoin issuers to effectively manage complaints.</p><p>The European Banking Authority (EBA) document <a href=\"https://www.eba.europa.eu/sites/default/files/2024-03/22e7f584-a1d9-44eb-8b07-ab0bdbb3b4d2/Draft%20RTS%20on%20complaints%20handling%20under%20MiCAR.pdf\" target=\"_blank\" rel=\"noopener nofollow\">said</a>:</p><p><a href=\"https://cointelegraph.com/news/eu-draft-rules-stablecoin-complaint-procedures\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-14T09:38:50.000Z",
+    "title": " Ethereum L2s median transaction fees decline as much as 99% post-Dencun upgrade  ",
+    "url": "https://cointelegraph.com/news/ethereum-l2s-fees-decline-99-post-dencun",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvN2RmNTYwYjgtN2Y5OC00ZWQ3LThkYzMtMGE3MWJlYTVlZTc1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ethereum Foundation’s Tim Beiko called Dencun one of the most complex forks since the Merge, with most EIPs implemented in a fork.</p>\n                    <p><p data-ct-non-breakable=\"true\">Ethereum layer 2 (L2) protocols have seen a significant drop in transaction fees, with some protocols recording a reduction of up to 99% after the <a href=\"https://cointelegraph.com/news/dencun-upgrade-live-ethereum-mainnet\">Dencun upgrade on Ethereum</a> on March 13. Dencun is a scalability-focused upgrade on the Ethereum mainnet, with many touting it as one of the most significant upgrades since the Merge.</p><p>Starknet, a prominent Ethereum-based L2, has seen a 99% reduction in gas fees after the upgrade. The protocol shared a screenshot of their latest gas fee, which has come down to $0.04 compared to over $6 prior to the Dencun upgrade.</p><p>Several other L2 platforms, including Optimism, Base, Zora OP mainnet, and others, registered a dramatic decline in gas fees after the Dencun upgrade. The average transaction fees for Optimism dropped to $0.05, $0.064 on Base, $0.5 on Arbitrum and $0.16 on zkSync Era. Within 24 hours of the upgrade, Optimism and chains based on Optimism’s tech stack, like Base, have seen the most critical gas fee reductions.</p><p><a href=\"https://cointelegraph.com/news/ethereum-l2s-fees-decline-99-post-dencun\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-14T09:23:11.000Z",
+    "title": "io.net Launches Support For Apple Silicon Chips Aiming To Revolutionize Global AI/ML Computations",
+    "url": "https://cryptodaily.co.uk/2024/03/ionet-launches-support-for-apple-silicon-chips-aiming-to-revolutionize-global-aiml-computations",
+    "description": "Decentralized platform io.net becomes the first cloud service provider to support Apple’s new silicon chips."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-14T09:15:18.000Z",
+    "title": "TRON Integrated With Amazon Web Services to Accelerate Blockchain Adoption",
+    "url": "https://news.bitcoin.com/tron-integrated-with-amazon-web-services-accelerate-blockchain-adoption/",
+    "description": "<img width=\"696\" height=\"392\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/image1-10.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/image1-10-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/image1-10-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/image1-10-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/image1-10.png 720w\" sizes=\"(max-width: 696px) 100vw, 696px\" />PRESS RELEASE. Geneva, Switzerland, March 13, 2024 &#x2013; TRON DAO is glad to announce the integration with Amazon Web Services (AWS). This integration introduces the TRON Full Node on AWS, enabling users and developers to launch a TRON Full Node with unparalleled ease and efficiency. Seamless Full Node Deployment on AWS Through this integration, launching [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-14T08:59:48.000Z",
-    "title": "Liberia’s President Joseph Boakai Meets with Gluwa to Explore Infrastructure Enhancements",
-    "url": "https://www.cryptopolitan.com/liberias-president-joseph-boakai-meets-with-gluwa-to-explore-infrastructure-enhancements/",
-    "description": "Monrovia, Liberia, March 14th, 2024, Chainwire Gluwa’s CEO, Tae Oh, humbly met the President of Liberia, Joseph Boakai, to discuss enhancements to Liberia’s financial and internet connectivity infrastructure.  Gluwa, known for its blockchain innovations such as Credal, which powers public blockchain infrastructure, is exploring the possibility of building a Central Bank Digital Currency (CBDC) for [&#8230;]"
+    "date": "2024-03-14T09:22:14.000Z",
+    "title": "Google Unveils AI Gaming Companion: SIMA",
+    "url": "https://www.cryptopolitan.com/google-unveils-ai-gaming-companion-sima/",
+    "description": "Google has announced a groundbreaking development in the realm of gaming with its latest creation, the Scalable Instructable Multiworld Agent (SIMA). This AI, based on DeepMind technology, is poised to revolutionize the gaming experience by offering players a virtual co-op buddy unlike any seen before. A new era of gaming companionship SIMA represents a departure [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-14T08:57:54.000Z",
-    "title": "NYSE warns Bakkt of potential delisting over low share price",
-    "url": "https://www.cryptopolitan.com/nyse-warns-bakkt-delisting-low-share-price/",
-    "description": "The New York Stock Exchange (NYSE) has informed Bakkt, a cryptocurrency custody and trading platform, of a potential delisting due to its share price falling below the required minimum. According to a press release from Bakkt, the NYSE highlighted that the company&#8217;s average closing price of its Class A Common Stock was below $1.00 over [&#8230;]"
+    "date": "2024-03-14T09:11:01.000Z",
+    "title": "Korean Employers Offer Pay Raise for Higher AI Skills, Survey Finds",
+    "url": "https://www.cryptopolitan.com/korean-employers-offer-pay-raise/",
+    "description": "Korean employers are showing a strong willingness to incentivize the acquisition of advanced AI skills among job candidates, according to a recent survey conducted by Amazon Web Services (AWS). The study, which analyzed global AI trends and workforce capacity, revealed that employers in Korea are prepared to offer a pay raise of at least 18 [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-14T08:42:25.000Z",
-    "title": "Bitcoin bullish momentum to persist despite miners sell-off, CryptoQuant CEO says",
-    "url": "https://crypto.news/bitcoin-bullish-momentum-to-persist-despite-miners-sell-off-cryptoquant-ceo-says/",
-    "description": "Miners have seemingly started offloading their Bitcoin holdings as the fourth halving approaches, CryptoQuant notes. As Bitcoin (BTC) maintains its bull run and the fourth halving nears, miners have started selling their holdings in the cryptocurrency, monetizing their business operations&#8230;"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-14T09:10:57.000Z",
+    "title": "Tesla May Accept DOGE Payments, Musk Hints",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/tesla-may-accept-doge-payments-musk-hints/",
+    "description": "<p>This announcement has ignited interest and speculation, showcasing the merging of technology, finance, and consumer behavior. Dogecoin has experienced a meteoric rise in value and popularity, in part due to high-profile endorsements from figures like Musk himself. Merging Worlds: Tech, Finance, and Consumer Dynamics Unlike traditional cryptocurrencies such as Bitcoin or Ethereum, Dogecoin was never [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/tesla-may-accept-doge-payments-musk-hints/\">Tesla May Accept DOGE Payments, Musk Hints</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-14T08:41:26.000Z",
-    "title": "Bitcoin reaches a new ATH, accumulation increases",
-    "url": "https://crypto.news/bitcoin-reaches-a-new-ath-accumulation-increases/",
-    "description": "Bitcoin (BTC) has been consistently reaching new milestones almost every day over the past week as strong bullish momentum continues.&#160; BTC briefly touched a new ATH of $73,750 at around 07:00 UTC on March 14 with its market cap reaching&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-14T08:50:58.000Z",
-    "title": "Solana (SOL) Price Primed For 50% Leap: Experts Turn Bullish",
-    "url": "https://www.newsbtc.com/news/solana/solana-sol-price-primed-for-50-leap-experts-turn-bullish/",
-    "description": "Crypto analysts are turning increasingly bullish on Solana (SOL), with forecasts suggesting a potential 50% surge in the near future. Following SOL’s 11% surge in the past 24 hours, several renowned analysts came forward to express their bullish stance. Solana Price Poised For Rally Towards $250 On X, crypto trader Bob Loukas (@BobLoukas) has provided an optimistic outlook, stating, &#8220;SOL now based and fuel up for leg to $250.&#8221; This statement is based on a thorough analysis of the weekly SOL/USD chart. The chart exposes that SOL has transformed its March 2022 resistance level of around $140 into a robust support zone. Previously, this level served as a strong resistance from mid-December last year until the beginning of March. Related Reading: Solana Demand Soars As Institutions Buy Up SOL At A Massive 870% Premium By converting this resistance into support, SOL is now poised for a rally towards $250. This price target is just $10 shy of Solana’s all-time high at around $260 from late October 2021. Adding to the bullish sentiment, crypto analyst Byzantine General (@ByzGeneral) remarked, &#8220;SOL looks pretty good to me. Leverage in the system has actually gone down while price is up and at the same time Coinbase has been buying a lot of spot.&#8221; Notably, not only the SOL/USD charts look ultra strong, but also the chart of SOL against its most fierce competitor in the fight for the superior layer-1 network, Ethereum. According to several analysts, SOL/ETH is primed for a major breakout. Christopher Inks, the founder of TexasWest Capital, shared his analysis, noting, &#8220;SOL/ETH on the weekly looks amazing. It doesn’t get much better than this with the wedge breakout while Stoch RSI is crossing bullishly in oversold and threatening to break out and RSI has bounced at neutral and is nearing a bullish cross. Breaking out above 0.04597 adds confidence to the rally toward a minimum expected target of 0.07231.&#8221; Related Reading: UNIBOT Crashes 37% Following End Of Cooperation With Solana Team This technical breakdown suggests a very optimistic future for SOL in comparison to ETH. If this technical setup plays out, SOL could outperform ETH by more than 70%. Macro expert Raoul Pal has also chimed in, stating, &#8220;SOL/ETH is looking like a breakout after a perfect consolidation&#8230; SOL is likely to take the lead again soon.&#8221; Pal&#8217;s analysis is based on a falling wedge correction pattern, a bullish signal, which SOL/ETH has already broken out from. However, it is important to note that this breakout needs to be confirmed to avoid being considered a fakeout, indicating a potential major breakout against ETH. Renowned trader Peter Brandt, commenting on Pal&#8217;s analysis, identified the pattern as a &#8220;Classic Schabacker falling wedge correction,&#8221; a bullish signal typically indicating a potential reversal or continuation of the trend. The Falling Wedge pattern, characterized by converging trend lines, decreasing volume, and a breakout with increased volume, suggests that SOL&#8217;s current pattern positions it for significant upward movement. At press time, SOL traded at $168.59, surpassing the 0.618 Fibonacci retracement level in the weekly chart. Featured image from Shutterstock, chart from TradingView.com"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-14T08:50:35.000Z",
-    "title": "Binance Coin (BNB) Price Prediction 2024-2030: Will BNB reach $1,000 Soon?",
-    "url": "https://coinedition.com/binance-coin-bnb-price-prediction/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance Coin (BNB) Price Prediction 2022\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB.jpg 730w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/08/PRICE-PREDICTION-Binance-Coin-BNB-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Binance Coin is the native token of the Binance Smart Chain (BSC). It is owned by the largest cryptocurrency exchange in the world for spot trading. Binance Smart Chain allows developers to create decentralized applications (DApps). Binance Coin is denoted with BNB and has increased by 33.6% in the past 30 days. Binance Coin (BNB) [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/binance-coin-bnb-price-prediction/\">Binance Coin (BNB) Price Prediction 2024-2030: Will BNB reach $1,000 Soon?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-03-14T09:15:38.000Z",
+    "title": "‘Floodgates Open Soon’ – Altcoin That’s Exploded Over 590% in Five Months Primed for More Upside: Top Analyst",
+    "url": "https://dailyhodl.com/2024/03/14/floodgates-open-soon-altcoin-thats-exploded-over-590-in-five-months-primed-for-more-upside-top-analyst/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Floodgates-Open-Soon.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed analyst is expressing bullish sentiment on a leading Ethereum (ETH) competitor as the total crypto market cap approaches $3 trillion. The analyst pseudonymously known as Bluntz tells his 247,200 followers on the social media platform X that Solana (SOL) is about to go up even higher after gaining by 92% from the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/14/floodgates-open-soon-altcoin-thats-exploded-over-590-in-five-months-primed-for-more-upside-top-analyst/\">‘Floodgates Open Soon’ – Altcoin That’s Exploded Over 590% in Five Months Primed for More Upside: Top Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

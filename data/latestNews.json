@@ -1,65 +1,72 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-03-15T20:36:58.000Z",
-    "title": "Solana Shooter 'Nyan Heroes' Nearing Early Access With Airdrop Rewards",
-    "url": "https://decrypt.co/221979/solana-shooter-nyan-heroes-early-access-airdrop-rewards",
-    "description": "Nyan Heroes developer 9 Lives Interactive revealed the early access timeline this week alongside word of a new funding round."
+    "source": "Cointelegraph",
+    "date": "2024-03-15T20:57:47.000Z",
+    "title": " Mozaic Finance hacked for $2.4M via private key compromise ",
+    "url": "https://cointelegraph.com/news/mozaic-finance-hacked-2-4-million-private-key-compromise",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvOWRhYzFhYmEtNGVkMi00YjU3LWE3YTctYWY4MjczMTJiODk3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The yield farming app was exploited through a possible private key compromise, according to a CertiK report.</p>\n                    <p><p>Yield farming protocol Mozaic Finance was exploited on March 15 on the Abitrum network, according to a statement from the protocol’s development team. The team claims that the attacker has deposited all the stolen funds to centralized crypto exchange MEXC and is “confident” the funds will be returned.</p><p>Mozaic Finance is a decentralized finance and yield-optimization protocol that runs on several different blockchain networks. It claims to employ artificial intelligence (AI) programs to maximize returns to investors.</p><p>Blockchain security firm CertiK <a href=\"https://twitter.com/CertiKAlert/status/1768597420080848922\" target=\"_blank\" rel=\"noopener nofollow\">posted</a> an alert on X, stating that the exploit had occurred. In an accompanying report received by Cointelegraph, CertiK claimed that the attacker drained funds by calling the “bridgeViaLifi” contract, which is only callable by a developer wallet. Thus “the root cause of this incident appears to be a private key compromise,” CertiK concluded.</p><p><a href=\"https://cointelegraph.com/news/mozaic-finance-hacked-2-4-million-private-key-compromise\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-15T20:30:00.000Z",
-    "title": " Crypto Biz: Bitcoin’s institutional flow looms, Coinbase’s debt round, and more ",
-    "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-institutional-flow-looms-coinbase-debt-round",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYjIxNDhiYWUtNDcyMC00NWM1LTkxZmQtZmFmYjlkNWQwN2ZhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>This week’s Crypto Biz covers the buzz surrounding Bitcoin, the outlook for Ether ETFs, Ubisoft as an XPLA validator, Coinbase’s challenges and global banks taking on blockchain.  </p>\n                    <p><p>Asset managers expect inflows into Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETFs) to accelerate further in the second half of 2024. Bitwise, for instance, <a href=\"https://cointelegraph.com/news/large-corporations-wirehouses-prepare-bitcoin-etf-bitwise\">has been involved in “serious due diligence”</a> discussions with institutions representing “trillions of dollars in assets” seeking to add or increase exposure to Bitcoin ETFs in the coming months. </p><p>Matt Hougan, Bitwise’s chief investment officer, said in a memo to investors that many individual investors, family offices, hedge funds and venture capital firms are poised to increase their stakes in spot Bitcoin ETFs by the end of June.</p><p>Overseas investors <a href=\"https://cointelegraph.com/news/thailand-sec-allows-accredited-investors-spot-bitcoin-etf\">are also interested in investing in Bitcoin ETFs</a>. Thailand’s Securities and Exchange Commission reportedly amended its rules to allow private funds to invest in spot Bitcoin ETFs traded on United States exchanges. Brazil made a similar move weeks ago, <a href=\"https://cointelegraph.com/news/blackrock-brazil-launching-depositary-receipts-fund-mirroring-us-btc-etf\">enabling investors to invest in BlackRock’s ETF</a> through depositary receipts.</p><p><a href=\"https://cointelegraph.com/news/crypto-biz-bitcoin-institutional-flow-looms-coinbase-debt-round\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-15T20:41:30.000Z",
+    "title": " Dubai’s DIFC passes comprehensive digital asset law, new security law ",
+    "url": "https://cointelegraph.com/news/dubai-difc-passes-comprehensive-digital-asset-law-new-security-law",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMDA1OWIxZTAtNTAxNy00M2QyLTlkZDMtNzZiNjBlNDQ3YjJmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The center claims it has created the world’s first comprehensive set of legal characteristics of digital assets as property in a new, short law.</p>\n                    <p><p>The Dubai International Financial Centre (DIFC), a special economic zone with over 5,000 residents, has announced the passage of a new digital assets law and security law and amendments to existing law. The center has its own legal system based on English law.</p><p>The legislative developments seek to “keep pace with the rapid developments in international trade and financial markets […] and to provide legal certainty for investors in, and users of, Digital Assets,” according to a statement. DIFC Authority chief legal officer Jacques Visser <a href=\"https://www.difc.ae/whats-on/news/difc-announces-enactment-of-new-digital-assets-law---new-law-of-security-and-related-amendments\" target=\"_blank\" rel=\"noopener nofollow\">said</a>:</p><p>The Digital Assets Law <a href=\"https://edge.sitecorecloud.io/dubaiintern0078-difcexperie96c5-production-3253/media/project/difcexperiences/difc/difcwebsite/documents/laws--regulations/digital_assets_law_2_of_2024.pdf\" target=\"_blank\" rel=\"noopener nofollow\">contains</a> seven pages of text plus appendices. A law amending at least six previous laws to update them for digital assets has been passed but is not available online at the time of writing. The DIFC noted in its statement that the changes to the Law of Obligations made electronic records functionally equivalent to paper records.</p><p><a href=\"https://cointelegraph.com/news/dubai-difc-passes-comprehensive-digital-asset-law-new-security-law\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-15T20:14:55.000Z",
-    "title": "US prosecutors want SBF to serve at least four decades in prison",
-    "url": "https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/",
-    "description": "<p>Federal prosecutors have requested a prison sentence of 40 to 50 years for FTX founder Sam Bankman-Fried (SBF) following his conviction for conducting one of the most significant financial frauds in recent times through the misappropriation of over $8 billion of customer funds. The US Attorney&#8217;s Office for the Southern District of New York filed [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/us-prosecutors-want-sbf-to-serve-at-least-four-decades-in-prison/\">US prosecutors want SBF to serve at least four decades in prison</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-03-15T20:33:39.000Z",
-    "title": "Upland introduces “Share and Build” airdrop for social engagements",
-    "url": "https://cryptobriefing.com/upland-spark-airdrop/",
-    "description": "Upland's newest airdrop bets heavily in a three-week social media engagement campaign to reward users."
+    "date": "2024-03-15T21:00:04.000Z",
+    "title": "Binance Labs spun-off into independent entity outside the Binance group umbrella",
+    "url": "https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/",
+    "description": "<p>Binance spun off its $10 billion venture capital arm, Binance Labs, into an independent entity that will no longer be under the group&#8217;s purview months ago. Bloomberg drew attention to the silent change in a March 15 report, which revealed that Binance Labs had added a disclaimer about the change on its website earlier in [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/binance-labs-spun-off-into-independent-entity-outside-the-binance-group-umbrella/\">Binance Labs spun-off into independent entity outside the Binance group umbrella</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-15T20:23:36.000Z",
-    "title": "Litecoin (LTC) and Tether (USDT) Holders Unite for Seamless Shopping on Pushd (PUSHD) E-Commerce Presale Ignites",
-    "url": "https://cryptodaily.co.uk/2024/03/litecoin-ltc-and-tether-usdt-holders-unite-for-seamless-shopping-on-pushd-pushd-e-commerce-presale-ignites",
-    "description": "Litecoin (LTC) is one of the first crypto projects that cropped up on the scene. Litecoin (LTC) was made by Charlie Lee"
+    "date": "2024-03-15T21:05:15.000Z",
+    "title": "Bullish Pushd (PUSHD) Presale Sees Shiba Inu (SHIB) Billionaire Buy Early Positions Sparking Bitcoin (BTC) Traders To Get Early Positions",
+    "url": "https://cryptodaily.co.uk/2024/03/bullish-pushd-pushd-presale-sees-shiba-inu-shib-billionaire-buy-early-positions-sparking-bitcoin-btc-traders-to-get-early-positions",
+    "description": "The crypto market has been bullish for the past few months, with Bitcoin (BTC) soaring to all-time highs and multiple altcoins, including memecoins like Shiba Inu (SHIB)"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-15T20:12:25.000Z",
-    "title": "Bitcoin (BTC) Breaks $72K ATH: Pushd (PUSHD) Stage 6 Presale Gathers Momentum with Ripple (XRP) and Tether (USDT) Bulls",
-    "url": "https://cryptodaily.co.uk/2024/03/bitcoin-btc-breaks-72k-ath-pushd-pushd-stage-6-presale-gathers-momentum-with-ripple-xrp-and-tether-usdt-bulls",
-    "description": "The ongoing bullish momentum makes this the perfect moment to invest in cryptocurrency. The leading cryptocurrency, Bitcoin (BTC),"
+    "date": "2024-03-15T21:01:14.000Z",
+    "title": "Avalanche (AVAX) & Binance Coin (BNB) Investors Dive Into Kelexo (KLXO) Presale Amid Bitcoin (BTC) $72,000 All-Time High",
+    "url": "https://cryptodaily.co.uk/2024/03/avalanche-avax-binance-coin-bnb-investors-dive-into-kelexo-klxo-presale-amid-bitcoin-btc-72000-all-time-high",
+    "description": "The cryptocurrency market keeps seeing exciting developments, with coins like Avalanche (AVAX) and Binance Coin (BNB) experiencing steady growth."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-15T20:55:54.000Z",
+    "title": "Speculation over Ripple (XRP) Future Whilst DeeStream (DST) New Platform Attracts Major Ethereum (ETH) Investment as 50X Predicted",
+    "url": "https://cryptodaily.co.uk/2024/03/speculation-over-ripple-xrp-future-whilst-deestream-dst-new-platform-attracts-major-ethereum-eth-investment-as-50x-predicted",
+    "description": "While the crypto market is booming, the future of Ripple (XRP) remains uncertain due to speculations on its ongoing case with the SEC. Meanwhile, the ongoing DeeStream (DST) presale has attracted major Ethereum (ETH) holders because of its unique revenue sharing streaming platform."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-15T20:49:44.000Z",
+    "title": "Rush Continues As Litecoin (LTC) and Shiba Inu (SHIB) Holders Propel Pushd (PUSHD) E-Commerce to New Heights: Join the Limited Presale",
+    "url": "https://cryptodaily.co.uk/2024/03/rush-continues-as-litecoin-ltc-and-shiba-inu-shib-holders-propel-pushd-pushd-e-commerce-to-new-heights-join-the-limited-presale",
+    "description": "The crypto game has come a long way and one of the projects that came into existence during the early days of the crypto economy is Litecoin (LTC). Litecoin (LTC)"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-15T20:41:48.000Z",
+    "title": "Avalanche (AVAX) & Binance Coin (BNB) Bulls Strategically Position in Kelexo (KLXO) Presale Amid Bitcoin (BTC) $73K New All-Time High",
+    "url": "https://cryptodaily.co.uk/2024/03/avalanche-avax-binance-coin-bnb-bulls-strategically-position-in-kelexo-klxo-presale-amid-bitcoin-btc-73k-new-all-time-high",
+    "description": "Since its emergence, Kelexo (KLXO) has been drawing the attention of investors, including that of Avalanche (AVAX) and the native cryptocurrency of the largest cryptocurrency exchange in the world, Binance Coin (BNB)"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-15T20:32:24.000Z",
-    "title": "Marathon Digital’s Strategic Expansion: Acquiring Texas Bitcoin Mining Facility",
-    "url": "https://www.cryptopolitan.com/marathon-digitals-texas-bitcoin-mining/",
-    "description": "Marathon Digital, a prominent player in the cryptocurrency mining industry, has announced its plans to acquire a Texas-based bitcoin mining facility from Applied Digital for an estimated $87 million in cash.&#160; This strategic move is set to significantly bolster Marathon&#8217;s mining capabilities, particularly in light of the upcoming bitcoin halving event. Marathon digitals strategic acquisition [&#8230;]"
+    "date": "2024-03-15T21:05:59.000Z",
+    "title": "Algorand Price Prediction 2024-2033: Resurgence possible?",
+    "url": "https://www.cryptopolitan.com/algorand-price-prediction/",
+    "description": "Algorand Price Prediction 2024-2033 Algorand is one of the best choices to consider when investing in cryptocurrency. However, it is insufficient to hold the ALGO cryptocurrency in high esteem. The coin has to perform up to expectations. You must look at Algorand’s price prediction from 2024 to 2033. Algorand is a very consistent blockchain and, [&#8230;]"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-03-15T20:30:52.000Z",
-    "title": "Bernstein Analysts Convinced Bitcoin Is Headed For $150,000, Here’s Why",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-headed-for-150000/",
-    "description": "Analysts from private wealth management firm, Bernstein have reaffirmed their previous Bitcoin prediction, emphasizing that the cryptocurrency has a greater chance to reach $150,000 by 2025.  Bitcoin $150,000 Price Forecast Grows Stronger Bernstein analysts Gautam Chhugani and Mahika Sapra said in a note to clients on Monday that they were now more convinced of Bitcoin’s exponential surge to new all-time highs at around $150,000 by mid-2025. The analyst’s statements were a reiteration of their earlier Bitcoin forecast in November 2023, when they predicted the price of Bitcoin to surge to $150,000. Related Reading: Crypto Expert Reveals Why XRP Is Primed For Growth In This Bull Market At the time, Bitcoin was trading around a price of $35,000, putting the analysts’ estimate at around five times the price of BTC. Now with BTC recently witnessing remarkable surges to new all time highs above $71,000, and potentially continuing its upward momentum, Bernstein analysts’ forecast seems more probable. Analysts from the private wealth investment firm have disclosed several factors that could trigger BTC&#8217;s bullish momentum. Highlighting the success and surging demand for Spot Bitcoin Exchange Traded Funds (ETF), the company boldly affirmed that large volume of inflows into Spot Bitcoin ETFs could significantly contribute towards increasing the value of BTC.  “We estimated $10 billion inflows for 2024 and another $60 billion for 2025. In the last 40 trading days since the ETF launch on Jan 10, Bitcoin ETF inflows have crossed $9.5 billion already,” Bernstein analysts wrote.  Sharing the sentiment of most crypto analysts in the market, Bernstein analysts believe that the price of BTC could experience a fresh “break out” after the halving event in April 2024. At the time of writing, the cryptocurrency is trading at $68,218, witnessing a slight price correction of about 6.96% in the past 24 hours, according to CoinMarketCap.  Miners To Become Top Beneficiaries Of BTC Surge In their note, Bernstein analysts highlighted that investing in Bitcoin miners could be the best equity proxy to BTC. According to their analysis, BTC miners typically outperform during BTC bullish cycles and conversely underperform during bearish periods. Related Reading: Cardano Ready For Breakout As Network Adoption Hits Major Milestone As Bitcoin rapidly rises to all time highs above $71,000, Bernstein analysts expect that institutional interest in Bitcoin related equities could top over, with BTC miners becoming one of the largest beneficiaries. Despite various analysts predicting that the next Bitcoin halving could potentially become a death sentence to small mining companies and solo miners, Bernstein analysts have revealed that the rising price of BTC and elevated transaction fees could serve as a cushioning mechanism for miners during the halving period.  BTC price at $67,700 &#124; Source: BTCUSD on Tradingview.com Featured image from CryptoSlate, chart from Tradingview.com"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-15T20:25:05.000Z",
-    "title": "Cardano (ADA) Entrepreneur Collects Defi Titan Presale At $0.0115",
-    "url": "https://coinedition.com/cardano-ada-entrepreneur-collects-defi-titan-presale-at-0-0115/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/PR2.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/PR2.png 730w, https://coinedition.com/wp-content/uploads/2024/03/PR2-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/PR2-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/PR2-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/PR2-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/PR2-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/PR2-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/PR2-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/PR2-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/PR2-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/PR2-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/PR2-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/PR2-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/PR2-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/PR2-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/PR2-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a noteworthy development within the DeFi sector, a Cardano (ADA) entrepreneur has made a strategic move by participating in the presale of Option2Trade (O2T), a burgeoning DeFi titan, priced attractively at $0.0115. This investment highlights the growing intersection between established blockchain networks like Cardano (ADA) and innovative DeFi platforms like Option2Trade (O2T), which are [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-ada-entrepreneur-collects-defi-titan-presale-at-0-0115/\">Cardano (ADA) Entrepreneur Collects Defi Titan Presale At $0.0115</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-03-15T20:45:31.000Z",
+    "title": "Shiba Inu Coin Price Prediction 2024-2033: Is SHIB Skyrocketing Soon?",
+    "url": "https://www.cryptopolitan.com/shiba-inu-price-prediction/",
+    "description": "Shiba Inu Price Prediction 2024-2033 Let&#8217;s walk through Shiba Inu&#8217;s tracks through time to help decide whether SHIB is an excellent addition to your crypto portfolio. Let&#8217;s see what Elon Musk will do to help push the meme coin. After our walkthrough of the Shiba Inu price predictions, we will hopefully be more aware of [&#8230;]"
   }
 ]

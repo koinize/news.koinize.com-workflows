@@ -1,16 +1,30 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-18T00:53:15.000Z",
-    "title": "Protocol Village: Space and Time Partners With Matter Labs to Launch on ZkSync ",
+    "date": "2024-03-18T01:32:29.000Z",
+    "title": "Protocol Village: Mantle Completes 'Tectonic' Upgrade, Aiming for Gas Savings",
     "url": "https://www.coindesk.com/tech/2024/03/14/protocol-latest-tech-news-crypto-blockchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
     "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 14-March 20."
   },
   {
+    "source": "Cointelegraph",
+    "date": "2024-03-18T01:20:34.000Z",
+    "title": " Solana activity flips Ethereum amid memecoin craze, even as txs fail ",
+    "url": "https://cointelegraph.com/news/solana-activity-flips-ethereum-memecoin-frenzy",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNjQ3NzgwZDQtMTI5OC00NWM0LWI4ZjMtZTUzMDI2ZTYyY2Y4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Degens were piling into Solana-based memecoins such as “Book of Meme” and “SNAP” as the network struggled to keep up with the surge of activity.</p>\n                    <p><p>Solana network activity surpassed Ethereum over the weekend amid a scramble for Solana-based memecoins — causing the network to struggle to keep up.</p><p>On March 16, Solana’s total trading volume soared past Ethereum, reaching $3.52 billion and beating out the daily volume on the Ethereum network by more than $1.1 billion, per DefiLlama. </p><p>However, the Solana network struggled to keep up with the influx of activity, with many users across X complaining about frequent instances of failed or missing transactions. </p><p><a href=\"https://cointelegraph.com/news/solana-activity-flips-ethereum-memecoin-frenzy\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "Cryptopolitan",
-    "date": "2024-03-18T00:51:00.000Z",
-    "title": "Goddess of Victory: NIKKE Welcomes Re:ZERO Heroes in Latest Crossover",
-    "url": "https://www.cryptopolitan.com/goddess-of-victory-nikke-welcomes-rezero/",
-    "description": "Discover the thrilling crossover between \"Goddess of Victory: NIKKE\" and \"Re:ZERO - Starting Life in Another World.\""
+    "date": "2024-03-18T01:27:47.000Z",
+    "title": "Cardano welcomes USDM, its first fiat-backed stablecoin",
+    "url": "https://www.cryptopolitan.com/cardano-welcomes-usdm-its-first-fiat-backed-stablecoin/",
+    "description": "Cardano, a leading Layer-1 smart contract network, has announced the launch of the USDM stablecoin by Mehen Finance. This event marks a significant development in the platform&#8217;s journey towards broader adoption. The USDM stablecoin, fully backed by U.S. dollars, promises a 1:1 conversion rate for users. It stands as the first non-algorithmic, fiat-backed stablecoin on [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-18T01:24:48.000Z",
+    "title": "Melbourne Startup to Transform Job Interviews with Robust AI",
+    "url": "https://www.cryptopolitan.com/melbourne-startup-transform-job-interviews/",
+    "description": "Recently, Melbourne-based startup Sapia.ai has introduced an AI chatbot, named SAIGE. This new tool promises to transform the hiring process for companies and candidates alike. It offers detailed feedback and actionable advice to job seekers. AI-powered feedback for candidates Sapia.ai was established in 2018. The company has unveiled a generative AI model known as SAIGE. [&#8230;]"
   }
 ]

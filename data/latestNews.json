@@ -1,72 +1,170 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-19T12:15:48.000Z",
-    "title": "EU Lawmakers Vote for Three Major Texts in Anti-Money Laundering Package That Also Targets Crypto",
-    "url": "https://www.coindesk.com/policy/2024/03/19/eu-lawmakers-vote-for-three-major-texts-in-anti-money-laundering-package-that-also-targets-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The broad package sets up an anti-money laundering authority, a single rulebook for all 27 member states, and tough rules for crypto service providers."
+    "date": "2024-03-19T13:00:00.000Z",
+    "title": "Luxor Looks to Help Bitcoin Miners Hedge Halving Risk With New Hashrate Futures",
+    "url": "https://www.coindesk.com/business/2024/03/19/luxor-looks-to-help-bitcoin-miners-hedge-halving-risk-with-new-hashrate-futures/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The bitcoin mining software and services company partnered with Bitnomial to offer cash-settled hashrate futures."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-03-19T12:49:13.000Z",
+    "title": "Michael Saylor's MicroStrategy Acquired Another 9,245 BTC For $623M",
+    "url": "https://www.coindesk.com/markets/2024/03/19/michael-saylors-microstrategy-acquired-another-9245-btc-for-623m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "MicroStrategy now holds approximately 214,246 BTC ($13.5 billion), which is more than 1% of all the 21 million bitcoin that will ever exist."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-19T12:31:53.000Z",
-    "title": " MicroStrategy sells another $604M of notes to buy 9K Bitcoin ",
-    "url": "https://cointelegraph.com/news/microstrategy-sells-604m-notes-buy-btc",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZjMzMWUyNjYtYzNmOC00YjIxLThmNzgtZjJlMDVlYWMzMWNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>MicroStrategy keeps aggressively buying Bitcoin while completing another $603.75 million offering of convertible notes.</p>\n                    <p><p data-ct-non-breakable=\"true\">MicroStrategy, one of the largest public holders of Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), has completed another convertible notes offering to increase its Bitcoin stash.</p><p>Former MicroStrategy CEO Michael Saylor took to X on March 18 to <a href=\"https://x.com/saylor/status/1770058304519024797?s=20\" target=\"_blank\" rel=\"noopener nofollow\">announce</a> that MicroStrategy had completed its previously announced offering of 0.875% convertible senior notes due 2031.</p><p>The notes sold in the offering <a href=\"https://www.microstrategy.com/press/microstrategy-completes-603-million-offering-of-0875-convertible-senior-notes-due-2031_03-19-2024\" target=\"_blank\" rel=\"noopener nofollow\">amounted</a> to $603.75 million, including $78.75 million aggregate principal amount of notes issued pursuant to an option to purchase. </p><p><a href=\"https://cointelegraph.com/news/microstrategy-sells-604m-notes-buy-btc\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-19T13:05:19.000Z",
+    "title": " UK regulator to tighten measures against crypto market abuse ",
+    "url": "https://cointelegraph.com/news/uk-fca-crypto-market-abuse-regime-plan",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYmU5YTlhODQtNDgwMS00ODg3LThlOTEtZWVlYmJjMmQ5NzY3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The United Kingdom’s financial watchdog said it will improve its market monitoring abilities and develop advanced analytics systems.</p>\n                    <p><p data-ct-non-breakable=\"true\">The U.K.'s Financial Conduct Authority (FCA) will focus on increasing its capabilities in detecting and pursuing market abuse in the crypto sector and assisting in delivering a proportionate market abuse regime for the asset class in the next 12 months.</p><p>In its plans for 2024 to 2025, the FCA <a href=\"https://www.fca.org.uk/publications/business-plans/2024-25\" target=\"_blank\" rel=\"noopener nofollow\">listed</a> tightening its measures against crypto market abuse as one of its goals. The regulator will improve monitoring and intervention systems to cover market abuse and integrity. </p><p>The financial watchdog also said it will develop advanced analytics capabilities, including network analysis and cross-asset class visualizations. </p><p><a href=\"https://cointelegraph.com/news/uk-fca-crypto-market-abuse-regime-plan\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-19T12:30:00.000Z",
-    "title": " 1inch integrates Lumia to provide more liquidity, better pricing ",
-    "url": "https://cointelegraph.com/news/1inch-lumia-provide-liquidity-better-pricing",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMDAwNDllMzAtNjE0My00NmEwLWIzZjctY2YxYjFkN2RjMTkzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The extension of liquidity should provide decentralized finance (DeFi) users with pricing that “matches or even surpasses” that of centralized platforms.</p>\n                    <p><p data-ct-non-breakable=\"true\">Multichain liquidity aggregator 1inch has added liquidity network Lumia to its list of aggregated sources. </p><p>The integration — which should deepen on-chain liquidity and provide better pricing for 1inch users — was announced on March 18. </p><p>The critical feature, emphasized in the press release, is Lumia’s access to centralized exchanges such as Binance, OKX and KuCoin. Such an extension of liquidity should provide decentralized finance (DeFi) users with pricing that “matches or even surpasses” that of centralized platforms. </p><p><a href=\"https://cointelegraph.com/news/1inch-lumia-provide-liquidity-better-pricing\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-03-19T12:34:42.000Z",
-    "title": "100 sats would equal $1 if we repeat last cycle’s dollar demise",
-    "url": "https://cryptoslate.com/insights/100-sats-would-equal-1-if-we-repeat-last-cycles-dollar-demise/",
-    "description": "<p>The inverse of the standard BTC/USD chart gives an interesting perspective on the rise in the purchasing power of Bitcoin over time. The USDT/BTC chart below highlights the dollar&#8217;s decline against Bitcoin since 2015. From its peak, the dollar has fallen 99.7% against Bitcoin. When viewed in this form, it&#8217;s hard to be bearish on [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/100-sats-would-equal-1-if-we-repeat-last-cycles-dollar-demise/\">100 sats would equal $1 if we repeat last cycle’s dollar demise</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-19T13:02:43.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Japanese government is looking at diversifying its pension fund and considering adding Bitcoin to its portfolio. A United States district court judge has imposed sanctions on the United States Securities and Exchange Commission over “gross misconduct” in last year’s Debt Box case. Meanwhile, MetaMask has partnered with CoinLedger to help streamline tax reporting for its 30 million active users.</p><p>Japan’s Government Pension Investment Fund (GPIF), the largest pension fund in the world, is looking at Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) as a potential diversification tool.</p><p>As part of the <a href=\"https://cointelegraph.com/news/japan-gpif-state-pension-fund-bitcoin\">plan</a>, the GPIF has requested data on various potential investment diversification tools, including information about the assets the company considers “illiquid” and doesn’t hold. Such assets include cryptocurrencies like Bitcoin, precious metals like gold and other assets, the announcement <a href=\"https://www.gpif.go.jp/info/20240319_RFI_J.pdf\" target=\"_blank\" rel=\"noopener nofollow\">notes</a>.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-03-19T12:18:21.000Z",
-    "title": "Galaxy Digital to launch new ETPs in Europe",
-    "url": "https://cryptobriefing.com/galaxy-digital-europe-etps/",
-    "description": "Galaxy Digital to launch new crypto ETPs in Europe, offering traditional investment avenues for digital assets."
+    "date": "2024-03-19T13:00:11.000Z",
+    "title": "Bitcoin liquidity protocol Velar launches Dharma AMM to tap into BTC’s trillion-dollar capital potential",
+    "url": "https://cryptobriefing.com/velar-dharma-amm-bitcoin/",
+    "description": "Velar launches Dharma AMM to bring new DeFi liquidity and capabilities to the Bitcoin ecosystem, offering advanced financial tools for users."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-19T13:00:22.000Z",
+    "title": "GRVT Announces Strategic Fundraise and Launches Private Beta Following Growing Market Interest",
+    "url": "https://cryptodaily.co.uk/2024/03/grvt-announces-strategic-fundraise-and-launches-private-beta-following-growing-market-interest",
+    "description": "GRVT Announces Strategic Fundraise and Launches Private Beta Following Growing Market Interest"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-19T12:45:09.000Z",
+    "title": "Altcoins look to $BTC for when they can bounce",
+    "url": "https://cryptodaily.co.uk/2024/03/altcoins-look-to-btc-for-when-they-can-bounce",
+    "description": "The crypto market is in a bit of a meltdown on Tuesday. $BTC is down 7.5% on the day, and a lot of the altcoins are performing even worse than this. However, a bounce must be coming. Altcoins are likely to look to $BTC to make its local low before the bounce begins."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-19T13:00:02.000Z",
+    "title": "Microstrategy Expands Bitcoin Holdings: Acquires 9,245 BTC After Successful Convertible Note Sale",
+    "url": "https://news.bitcoin.com/microstrategy-expands-bitcoin-holdings-acquires-9245-btc-after-successful-convertible-note-sale/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Microstrategy Expands Bitcoin Holdings: Acquires 9,245 BTC After Successful Convertible Note Sale\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2017041662.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Tuesday, the business intelligence firm Microstrategy announced it completed a $603.75 million offering of convertible senior notes due 2031. After the announcement, Microstrategy&#x2019;s founder Michael Saylor announced the company acquired 9,245 bitcoin for $623 million using the proceeds and excess cash. Microstrategy Now Holds 214,246 Bitcoin After Microstrategy announced its convertible note sale, the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-19T12:39:52.000Z",
-    "title": "Pakistan-IMF talks to wrap up today, crypto taxation on the agenda",
-    "url": "https://www.cryptopolitan.com/pakistan-imf-talks-crypto-taxation-agenda/",
-    "description": "Today marks the finale of the critical dialogue between Pakistan and the International Monetary Fund (IMF) regarding a $3 billion safety net arrangement. This discussion isn&#8217;t just a routine check-in; it&#8217;s a turning point that could unleash the remaining $1.1 billion from the bailout kitty. But there&#8217;s a twist in the tale this time around. [&#8230;]"
+    "date": "2024-03-19T13:09:07.000Z",
+    "title": "Crypto lover French Hill wants to lead House Financial Services Committee",
+    "url": "https://www.cryptopolitan.com/french-hill-in-financial-services-committee/",
+    "description": "French Hill, hailing from Arkansas and currently leading the charge as the chair of the United States House Financial Services Subcommittee on Digital Assets, Financial Technology, and Inclusion, has his sights set on a bigger prize. With Patrick McHenry announcing he won&#8217;t be throwing his hat in the ring for another term come January 2025, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-19T12:34:41.000Z",
-    "title": "Cardano Price Prediction 2024-2033: Is ADA a good investment?",
-    "url": "https://www.cryptopolitan.com/cardano-price-prediction/",
-    "description": "Cardano Price Predictions 2024-2033 Cardano stands out as a project with remarkable potential beyond its role as a tradable asset. Rooted in scholarly peer-reviewed research, it has cultivated a robust community over time. Here, we delve into the essence of Cardano and offer a projection for the future value of ADA. How Much is ADA [&#8230;]"
+    "date": "2024-03-19T13:04:59.000Z",
+    "title": "Is a Second Wave for Dog Cryptos on the Horizon? Tracking This Week’s Performance of Dogecoin, Shiba Inu, and Dogwifhat",
+    "url": "https://www.cryptopolitan.com/is-a-second-wave-for-dog-cryptos-on-the-horizon-tracking-this-weeks-performance-of-dogecoin-shiba-inu-and-dogwifhat/",
+    "description": "The crypto market is buzzing with speculations of a second wave for &#8216;dog&#8217; cryptos. Amid this hype and hullabaloo, Bitcoin&#8217;s potential to surge above $70k again soon has become a hot topic. In these shifting tides of crypto fortunes, understanding forthcoming market trends is key. This article deep dives into the possibilities and predictions about [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-19T12:33:11.000Z",
-    "title": "AI Integration Vital for Crypto Safety, Warns Binance CTO",
-    "url": "https://www.cryptopolitan.com/ai-integration-vital-for-crypto-binance-cto/",
-    "description": "Binance, one of the leading cryptocurrency exchanges globally, is doubling down on its investments in artificial intelligence (AI) and compliance measures to stay ahead in the rapidly evolving crypto landscape. Rohit Wad, the Chief Technology Officer (CTO) of Binance, highlighted the critical role of AI in safeguarding users and ensuring regulatory compliance. Binance bolsters compliance [&#8230;]"
+    "date": "2024-03-19T13:04:54.000Z",
+    "title": "Choosing Winners in a Quiet Market: Top Cryptos for Your Buy-the-Dip Strategy",
+    "url": "https://www.cryptopolitan.com/choosing-winners-in-a-quiet-market-top-cryptos-for-your-buy-the-dip-strategy/",
+    "description": "Surges in Bitcoin&#8217;s value are once again sparking debate. Will it soar beyond $70,000 in the near future, or is a market dip on the way? As this question lingers, it&#8217;s hard to decide which cryptos to stake out. Our article provides insights on this matter. Its relevance is undeniable given the current financial climate. [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T13:04:52.000Z",
+    "title": "Market Dip Opportunities: Cryptos with Potential for Significant Gains",
+    "url": "https://www.cryptopolitan.com/market-dip-opportunities-cryptos-with-potential-for-significant-gains/",
+    "description": "Bitcoin&#8217;s recent dip has caused Industry professionals to wonder if its value could rise above $70k again soon. This event raises several questions around dips in the crypto market and the potential they hold. The linked article aims to explore some significant growth opportunities within crypto that reveal themselves during these market downturns. The focus [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T13:00:24.000Z",
+    "title": "GRVT Announces Strategic Fundraise and Launches Private Beta Following Growing Market Interest",
+    "url": "https://www.cryptopolitan.com/grvt-announces-strategic-fundraise-and-launches-private-beta-following-growing-market-interest/",
+    "description": "Singapore, Singapore, March 19th, 2024, Chainwire GRVT secures interest from leading trading firms and market makers, including QCP Capital, Selini Capital, Antelope, Pulsar, and Ampersan, to participate in the strategic round. GRVT is developing the first official self-custodial, centralized exchange on zkSync, aiming to be the leader in providing an institutional-quality hybrid exchange model. The [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T12:57:45.000Z",
+    "title": "Why economists expect prolonged high rates by the Federal Reserve",
+    "url": "https://www.cryptopolitan.com/economists-prolonged-high-rates-by-the-fed/",
+    "description": "The word on the street, or rather, from the hallowed halls of academia, is that the Federal Reserve has painted itself into a corner with high-interest rates that it&#8217;ll be hard-pressed to lower anytime soon. Now, this isn&#8217;t some wild speculation from market bears wearing tinfoil hats; it&#8217;s the considered opinion of academic economists who&#8217;ve [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T12:49:35.000Z",
+    "title": "Eurozone economy gets sudden boost from trade markets",
+    "url": "https://www.cryptopolitan.com/eurozone-economy-sudden-boost-trade-markets/",
+    "description": "The start of this year brought an unexpected twist for the Eurozone, with its trade markets showing a vibrant pulse that&#8217;s injecting new life into its economic veins. Who would&#8217;ve thought that a sharp decline in energy costs paired with an upward swing in exports could herald such a turnaround? The single currency zone, not [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T12:44:51.000Z",
+    "title": "Coinbase gains industry support in legal fight against SEC",
+    "url": "https://www.cryptopolitan.com/coinbase-gain-industry-support-legal-fight/",
+    "description": "In a significant show of solidarity, various U.S. businesses and crypto industry stakeholders have united in support of Coinbase&#8216;s legal challenge against the Securities and Exchange Commission (SEC). This development follows the SEC&#8217;s rejection of Coinbase&#8217;s request for clear rulemaking regarding the application of securities laws to digital assets. Entities such as Paradigm Operations LP, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-19T12:41:51.000Z",
+    "title": "Are You Next? Unilever to Axe 7,500 Jobs for AI",
+    "url": "https://www.cryptopolitan.com/unilever-to-axe-7500-jobs-for-ai/",
+    "description": "British consumer goods company Unilever is planning a major business overhaul that could see it replace a large number of its workforce with artificial intelligence. Unilever to Lay Off Thousands Due to AI The Standard reported Tuesday that Unilever, which has about 128,000 employees around the world, intends to dismiss 7,500 of its global employees [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-19T13:09:27.000Z",
+    "title": "Meme coins dip, Dogecoin20 ICO hits $2.7M in fundraising",
+    "url": "https://crypto.news/meme-coins-dip-dogecoin20-ico-hits-2-7m-in-fundraising/",
+    "description": "The recent downturn in meme cryptocurrencies Dogecoin and Shiba Inu contrasts with the success of Dogecoin20's ICO, raising over $2.7 million. #partnercontent"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-19T12:54:22.000Z",
+    "title": "Binance mandates prime brokers to ramp up data collection, U.S. investors sidestepped",
+    "url": "https://crypto.news/binance-mandates-prime-brokers-to-ramp-up-data-collection-u-s-investors-sidestepped/",
+    "description": "Binance has imposed stricter client screening procedures upon its prime brokers, such as Hidden Road and FalconX. According to a Bloomberg report on March 19, the strategy is designed to prevent U.S. investors from accessing its trading platform. The screening&#8230;"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-19T12:51:52.000Z",
+    "title": "Grayscale’s Sonnenshein promises to drop 1.5% fees on its spot Bitcoin ETF ‘over time’",
+    "url": "https://crypto.news/grayscales-sonnenshein-promises-to-drop-1-5-fees-on-its-spot-bitcoin-etf-over-time/",
+    "description": "Crypto asset management firm Grayscale with $26 billion allocated in its ETF fund GBTC plans to drop fees as its outflows reach $12 billion. Grayscale CEO Michael Sonnenshein has announced plans to reduce fees on the Grayscale Bitcoin Trust ETF&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-19T13:00:38.000Z",
+    "title": "FOMC Preview: Bitcoin and Crypto’s Fate Tied To Fed Rate Move",
+    "url": "https://www.newsbtc.com/news/fomc-preview-bitcoin-crypto-fed-rate-move/",
+    "description": "In the lead-up to the Federal Open Market Committee (FOMC) meeting scheduled for Wednesday, March 20, the Bitcoin and crypto market is experiencing a severe downtrend. BTC price has plunged roughly -10% in the past two days, and Ethereum (ETH) is down -12% in the same period. The anticipation surrounding the Fed&#8217;s stance on interest rates has heightened in the wake of recent economic indicators, including unexpected spikes in the  US Consumer Price Index (CPI) and Producer Price Index (PPI), stirring volatility across markets, including digital assets. The consensus, with a 99% probability according to the CME FedWatch tool, suggests interest rates will hold steady. Nonetheless, the spotlight turns to the Fed&#8217;s dot plot, a graphical representation of the individual members&#8217; expectations for future interest rates, which could provide crucial insights into the monetary policy outlook for the coming months and years. Anna Wong, Chief US Economist for Bloomberg, remarked via X (formerly Twitter), “Another reason why FOMC [is] not ready to cut: members not yet of broad agreement of that need. Here’s visualizing the dispersion of FOMC views with the help of our new weekly NLP Fed spectrometer. “ Another reason why FOMC not ready to cut: members not yet of broad agreement of that need. Here’s visualizing the dispersion of FOMC views with the help of our new weekly NLP Fed spectrometer. (Interactive version at @TheTerminal BECO models —&#62; Fedspeak —&#62; spectrometer) pic.twitter.com/Kney89BERM &#8212; Anna Wong (@AnnaEconomist) March 19, 2024 How Will Bitcoin And Crypto React? Macro analyst Ted, expressing his perspective on X, underscores the nuanced relationship between macroeconomic trends and the crypto market at the moment. Ted elucidated that spot Bitcoin ETF flows have taken the backseat while macro factors came to the foreground. He stated via X, “If BTC is to be considered digital gold, it&#8217;s expected to mirror gold&#8217;s market movements, albeit with a higher degree of volatility. In the current climate, with the market bracing for the Fed&#8217;s upcoming meeting, macroeconomic factors momentarily take precedence, driven by recent developments in PPI and CPI figures.&#8221; He further speculates that &#8220;Despite the eventual remarks from [Fed Chair] Powell, the market has already adopted a hawkish stance in anticipation of a &#8216;higher for longer&#8217; interest rate scenario.&#8221; Related Reading: Japan’s $1.5 Trillion Pension Fund To Assess Bitcoin For Diversification Michaël van de Poppe, a noted figure in the crypto analysis domain, provided his insights on the recent downward price movement of Bitcoin via X, citing a mix of factors including the anticipation of the FOMC meeting and significant capital outflows from Grayscale&#8216;s Bitcoin Trust. Van de Poppe advises, &#8220;It&#8217;s typically in these pre-FOMC periods, perceived as risk-off intervals, that the savvy investor finds opportunities to &#8216;buy the dip&#8217;.&#8221; In a reflection of market sentiment adjustments, analyst @10delta on X pointed out the strategic positioning of investors in anticipation of the Fed&#8217;s rate decisions. &#8220;The market is currently pricing in a reversal to the November &#8217;23 interest rate levels, a clear indication that investors are adjusting their expectations based on the Fed&#8217;s potential pivot signaled in the previous dot plot,&#8221; he noted. Accordingly, he argues that the FOMC &#38; dot plot will be a &#8220;buy the news&#8221; event as the market expectations are being properly adjusted. &#8220;The macro worries [&#8230;] should dissipate &#38; crypto idiosyncratic bullish factors, such as the ETF inflows [&#8230;] as well as the BTC halving take hold. All considered I think there&#8217;s a good R/R for &#8216;buying the dip&#8217; heading into the March 20 event,&#8221; the analyst added. Goldman Sachs Predicts (Only) 3 Rate Cuts This Year Goldman Sachs Research recently provided a detailed analysis in their March FOMC Preview. The report highlights the nuanced balance the Fed seeks to achieve between controlling inflation and supporting economic growth. Related Reading: Profit-Taking Panic, Short-Term Bitcoin Holders Sell Off – What’s Next For BTC? &#8220;Our revised forecast now anticipates three rate cuts in 2024, a slight adjustment from our previous prediction, primarily due to a modest uptick in the inflation trajectory,&#8221; Goldman Sachs analysts elucidated. They further speculate, &#8220;While the immediate focus is on maintaining current rate levels, the trajectory for rate cuts will hinge on inflation dynamics and economic performance indicators.&#8221; Goldman Sachs further predicts that the Fed will still target a first cut in June. “This combined with a default pace of one cut per quarter implies that the most natural outcome for the median dot is to remain unchanged at 3 cuts or 4.625% for 2024,” the banking giant remarked. Goldman: Inflation has been firmer in recent months, but we think it is still on track to fall enough by the June FOMC meeting for a first cut. pic.twitter.com/0I1BPYiU8W &#8212; Mike Zaccardi, CFA, CMT 🍖 (@MikeZaccardi) March 17, 2024 As the crypto market and broader financial ecosystems await the outcomes of the FOMC meeting, the prevailing sentiment is one of cautious anticipation. Market participants are closely monitoring the Fed&#8217;s commentary for indications of future monetary policy directions via the dot plot. The question for the Bitcoin and crypto market is whether there will be an unpleasant surprise or whether market participants were right with their &#8220;higher for longer&#8221; policy assumption. At press time, BTC found support at the $62,400 price level, trading at $63,118. Featured image from Shutterstock, chart from TradingView.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-19T13:00:09.000Z",
+    "title": "GRVT Announces Strategic Fundraise and Launches Private Beta Following Growing Market Interest",
+    "url": "https://www.crypto-news-flash.com/grvt-announces-strategic-fundraise-and-launches-private-beta-following-growing-market-interest/?utm_source=rss&utm_medium=rss&utm_campaign=grvt-announces-strategic-fundraise-and-launches-private-beta-following-growing-market-interest",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/New_Project_1710514511B4k2AzXS5N-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Singapore, Singapore, March 19th, 2024, Chainwire GRVT secures interest from leading trading firms and market makers, including QCP Capital, Selini Capital, Antelope, Pulsar, and Ampersan, to participate in the strategic round. GRVT is developing the first official self-custodial, centralized exchange on zkSync, aiming to be the leader in providing an institutional-quality hybrid exchange model. The [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-19T12:56:40.000Z",
+    "title": "SHIB Metaverse Expansion: Shiba Inu Team Member Drops Important Update",
+    "url": "https://www.crypto-news-flash.com/shib-metaverse-expansion-shiba-inu-team-member-drops-important-update/?utm_source=rss&utm_medium=rss&utm_campaign=shib-metaverse-expansion-shiba-inu-team-member-drops-important-update",
+    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Shiba-Inu-SHIB-logo-with-dark-yellow-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Shiba-Inu-SHIB-logo-with-dark-yellow-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Shiba Inu fans await big news about the TREAT token and the metaverse, boosting excitement and engagement in the community. SHIB price sees ups and downs, trading at $0.00002798, with a recent surge in transaction volume indicating heightened activity among institutional investors. A renowned figure of the Shiba Inu community named Lucie recently hinted at [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-19T12:30:57.000Z",
-    "title": "New Digital Assets Law Recognizes Bitcoin in Dubai",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/new-digital-assets-law-recognizes-bitcoin-in-dubai/",
-    "description": "<p>Landmark DIFC Legislation Clarifies and Secures Digital Assets Sector The law covers contracts, insolvency, and more, setting a solid base for digital finance. Let&#8217;s discover more about this important news for Bitcoin. New Law Sets Solid Ground for Digital Finance&#8217;s Future The DIFC&#8217;s Digital Assets Law highlights Dubai&#8217;s ambition to be a global technology and [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/new-digital-assets-law-recognizes-bitcoin-in-dubai/\">New Digital Assets Law Recognizes Bitcoin in Dubai</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-19T12:14:00.000Z",
-    "title": "Investigation Shows 655,000 Solana Valued $122.5M Sent to Scam Presales",
-    "url": "https://coinedition.com/investigation-shows-655000-solana-valued-122-5m-sent-to-scam-presales/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana Scam Presales Steal 655K SOL Tokens Valued $122.5M\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️.jpg 730w, https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/04/State-of-@solana-Q1-23-report-⬇️-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Prominent crypto investigator ZachXBT has uncovered the significant monetary funds lost to fraudulent crypto presales. Recently, ZachXBT beamed his searchlight on the recent trend of launching a cryptocurrency through a presale, particularly Solana-based meme coins.  Solana meme coins have been a subject of significant interest in the crypto community as a number of them have [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/investigation-shows-655000-solana-valued-122-5m-sent-to-scam-presales/\">Investigation Shows 655,000 Solana Valued $122.5M Sent to Scam Presales</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-19T13:01:18.000Z",
+    "title": "KuCoin Introduces $SLERF Perpetual Contract with 30x Leverage",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/kucoin-introduces-slerf-perpetual-contract-with-30x-leverage/",
+    "description": "<p>This milestone showcases KuCoin Futures&#8217; dedication to expanding its financial products and meeting the dynamic needs of crypto traders. Perpetual contracts are a type of futures contract with no expiry date, allowing traders to hold positions for as long as they desire. KuCoin Futures Expands Portfolio with New $SLERF Contract These contracts closely mirror spot [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/kucoin-introduces-slerf-perpetual-contract-with-30x-leverage/\">KuCoin Introduces $SLERF Perpetual Contract with 30x Leverage</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

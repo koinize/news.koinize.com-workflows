@@ -1,114 +1,135 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-03-20T14:33:08.000Z",
-    "title": "Do Kwon Appeal of South Korea Extradition Rejected by Montenegro Court",
-    "url": "https://www.coindesk.com/policy/2024/03/20/do-kwon-appeal-of-south-korea-extradition-rejected-by-montenegro-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The U.S. is also seeking Kwon's extradition despite the Montenegrin court's decision to send him to South Korea."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-03-20T14:30:45.000Z",
-    "title": "Bitcoin's Halving May Be Here Sooner Than You Know (Again)",
-    "url": "https://www.coindesk.com/tech/2024/03/20/bitcoins-halving-may-be-here-sooner-than-you-know-again/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Several months ago, the halving was expected to take place on April 28; now it's on track to land on April 18. Blame the surge in bitcoin's price, which has attracted more mining power and sped up the network."
-  },
-  {
     "source": "Decrypt",
-    "date": "2024-03-20T14:36:41.000Z",
-    "title": "How Ubisoft, Xbox, and Blizzard Are Using AI to Make Next-Generation Games",
-    "url": "https://decrypt.co/147436/ai-game-development-ubisoft-roblox-blizzard",
-    "description": "UPDATED: Assassin's Creed maker Ubisoft just showcased how generative AI can power more believable NPCs. Here's how."
+    "date": "2024-03-20T14:43:42.000Z",
+    "title": "Future of Gaming: Playnance Introduces PlayBlock Layer-3 on Arbitrum with Gelato RaaS",
+    "url": "https://decrypt.co/222567/future-of-gaming-playnance-introduces-playblock-layer-3-on-arbitrum-with-gelato-raas",
+    "description": "Zug, Switzerland, March 20th, 2024, GamingWire Playnance, a web3 leader in the peer-to-peer play-to-earn gaming category accounting for up to 10% of total Polygon POS transactions, today announced the launch of PlayBlock, a gaming Layer-3 ecosystem powered by Arbitrum Orbit, on Gelato’s Rollup-as-a-Service (RaaS) Platform. PlayBlock, a new Orbit Layer-3, is poised to onboard over [&hellip;]"
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-20T14:58:41.000Z",
+    "title": " Is the Bitcoin halving priced in? Analysts compare BTC price targets vs previous halvings ",
+    "url": "https://cointelegraph.com/news/is-the-bitcoin-halving-priced-in-analysts-compare-btc-price-targets-vs-previous-halvings",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZjA2NmNkNWMtY2ExYS00OTUzLTg4OTMtNDA2YTFmOWQzZDFiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Bitcoin halving is less than 30 days away. Should investors expect a new all-time high or is the event already priced in? </p>\n                    <p><p>Institutional investors’ strong demand for buying the <a href=\"https://cointelegraph.com/news/bitcoin-etfs-set-volume-record-btc-price-high\">spot Bitcoin ETFs</a> and BTC’s history of strong outperformance around the <a href=\"https://cointelegraph.com/news/bitcoin-trading-during-halving-period\">supply-halving event</a> are thought to be the main reasons for Bitcoin hitting new all-time highs in 2024. </p><p>The Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) halving has previously been associated with bull markets, with the price displaying a parabolic uptrend and a price peak in the months following the event. Halvings happen every four years and reduce miner block rewards by 50%. The next halving is roughly 3 days away and will reduce block rewards from 6.25 BTC to 3.125 BTC. </p><p>Historically, BTC price bull runs have been linked to halving events. Expectations of decreased supply and rising demand have previously resulted in exponential price growth and positive market sentiment.</p><p><a href=\"https://cointelegraph.com/news/is-the-bitcoin-halving-priced-in-analysts-compare-btc-price-targets-vs-previous-halvings\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-20T14:54:44.000Z",
+    "title": "StarkNet STRK token sees 10% surge following ambitious 2024 roadmap reveal",
+    "url": "https://cryptoslate.com/starknet-strk-token-sees-10-surge-following-ambitious-2024-roadmap-reveal/",
+    "description": "<p>Ethereum layer-2 StarkNet&#8217;s STRK token jumped more than 10% after it revealed extensive plans to improve its blockchain network&#8217;s throughput and reduce transaction fees, according to its 2024 roadmap. Data from CryptoSlate showed that the digital asset is one of the few outliers in a largely negative market that has seen high-flying tokens like Solana [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/starknet-strk-token-sees-10-surge-following-ambitious-2024-roadmap-reveal/\">StarkNet STRK token sees 10% surge following ambitious 2024 roadmap reveal</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-20T14:26:46.000Z",
-    "title": "Bitcoin (BTC) bounce needs to continue",
-    "url": "https://cryptodaily.co.uk/2024/03/bitcoin-btc-bounce-needs-to-continue",
-    "description": "Bitcoin is currently bouncing after suffering Tuesday’s 8.4% reversal. Momentum indicators have reset, and now it’s just a case of $BTC getting back above the resistance at $69,000. If $BTC isn’t successful, and a lower high is made, the present correction could continue, and take the king of the cryptocurrencies even lower."
+    "date": "2024-03-20T14:50:01.000Z",
+    "title": "From Code to Courtroom: Tornado Cash Developer Accused of Laundering $1.2B In Crypto",
+    "url": "https://cryptodaily.co.uk/2024/03/from-code-to-courtroom-tornado-cash-developer-accused-of-laundering-12b-in-crypto",
+    "description": "The Dutch authorities have indicted Tornado Cash founder Alexey Pertsev for allegedly laundering $1.2 billion in cryptocurrency."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-20T15:00:39.000Z",
+    "title": "Stablecoin Market Surpasses $150B, a First in 18 Months, After $980M Growth in 5 Days",
+    "url": "https://news.bitcoin.com/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Stablecoin Market Surpasses $150B, a First in 18 Months, After $980M Growth in 5 Days\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/stablecoin-market-surpasses-150b-a-first-in-18-months-after-980m-growth-in-5-days.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The stablecoin sector achieved a significant milestone on March 20, 2024, hitting the $150 billion mark as the dollar-anchored market continues its expansion. In the last five days, the stablecoin sphere expanded by $980 million, breaking past the latest threshold. Stablecoin Market Value Tops $150 Billion The total value of all stablecoins now stands at [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:35:52.000Z",
-    "title": "Leonardo AI Unveils Groundbreaking Transparency Feature for PNG Images",
-    "url": "https://www.cryptopolitan.com/leonardo-ai-transparency-for-png-images/",
-    "description": "Leonardo AI emerges as a game-changer with its latest Transparency feature, revolutionizing the creation of transparent PNG files. By seamlessly integrating cutting-edge AI technology, the platform offers a hassle-free solution to the arduous task of background removal, promising users pristine images with unparalleled ease and efficiency. Simplifying image composition with transparency Leonardo AI&#8217;s Transparency feature [&#8230;]"
+    "date": "2024-03-20T15:07:59.000Z",
+    "title": "Survey Reveals Public Sentiment Towards Generative AI in the Entertainment Industry",
+    "url": "https://www.cryptopolitan.com/generative-ai-in-the-entertainment/",
+    "description": "A recent survey conducted by Deloitte sheds light on public sentiment regarding the role of generative artificial intelligence (AI) in the entertainment industry. With 70% of U.S. consumers expressing a preference for content created by humans over generative AI, concerns regarding the potential disruption caused by AI technology persist within Hollywood. Public perception: Human vs. [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:29:36.000Z",
-    "title": "U.S. economy’s growth forces Fed to rethink rate cut strategy",
-    "url": "https://www.cryptopolitan.com/us-economy-forces-fed-to-rethink-rate-cuts/",
-    "description": "The tables have turned for the U.S. economy, leaving everyone wide-eyed and bushy-tailed. Gone are the days when the U.S. was the delicate flower of the global garden, wilting without the Federal Reserve&#8217;s nurturing low rates. Recent data throws a wrench in the works, showing an economy that&#8217;s not only standing tall but also flexing [&#8230;]"
+    "date": "2024-03-20T15:06:59.000Z",
+    "title": "25% of IT Leaders Regret Rushing into AI Investments, Says Report",
+    "url": "https://www.cryptopolitan.com/it-leaders-regret-rushing-into-ai-investment/",
+    "description": "A recent surge in generative AI adoption across industries has resulted in a surprising finding. About 25% of IT leaders regret rushing into AI investments, according to a survey by Asana. This highlights the potential pitfalls of rapid implementation without proper planning. Surge in AI Adoption Brings Increased Pressure The Asana survey, which polled over [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:27:41.000Z",
-    "title": "European Commission to Launch Selection Procedure for AI Office Head Following Approval of AI Act",
-    "url": "https://www.cryptopolitan.com/procedure-for-ai-office-head-approval-ai-act/",
-    "description": "The European Commission is poised to initiate the selection process for the head of its AI Office once the AI Act receives full approval, which is anticipated in May. Until then, policy units A1 and A2 in DG CONNECT will temporarily oversee the AI Office&#8217;s tasks. Establishment of the AI office Last month, on February [&#8230;]"
+    "date": "2024-03-20T15:05:56.000Z",
+    "title": "NovaDEX: The New Solana-Based DEX Set To Revolutionise the DeFi Space With Its Trade-To-Earn Program",
+    "url": "https://www.cryptopolitan.com/novadex-the-new-solana-based-dex-set-to-revolutionise-the-defi-space-with-its-trade-to-earn-program/",
+    "description": "A new Solana-based decentralised exchange (DEX) called NovaDEX is making waves in the DeFi space due to its unique offerings and decentralised model. While the issue of security has become a major issue in the DeFi space, NovaDEX has taken steps to ensure its platform is audited by QuillAudits, a top auditing platform. This DEX [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:27:00.000Z",
-    "title": "Microsoft Rewards on Xbox: Big Changes Ahead",
-    "url": "https://www.cryptopolitan.com/microsoft-rewards-on-xbox-big-changes-ahead/",
-    "description": "Discover the latest updates on the Microsoft Rewards program for Xbox, including the transition to the Rewards hub.\n"
+    "date": "2024-03-20T15:00:00.000Z",
+    "title": "Massive Solana Price Target Unveiled by Macro Guru Raoul Pal; Celestia and Monero Competitor Catch Eye of Elite Investors",
+    "url": "https://www.cryptopolitan.com/massive-solana-price-target-unveiled-by-macro-guru-raoul-pal-celestia-and-monero-competitor-catch-eye-of-elite-investors/",
+    "description": "Macro expert and Real Vision CEO Raoul Pal anticipates that Solana (SOL) will reach new all-time highs in this market cycle. Speaking on Rug Radio&#8217;s YouTube channel, Pal reiterates that Solana is comparable to Ethereum (ETH) in the previous cycle. He highlights that the recent surge, with SOL surpassing $27, positions the world&#8217;s 8th largest [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:16:11.000Z",
-    "title": "Genesis Global to pay $21 million civil penalty in SEC settlement",
-    "url": "https://www.cryptopolitan.com/genesis-to-pay-21m-penalty-in-sec-settlement/",
-    "description": "Genesis Global has found itself in a bit of a pickle, agreeing to fork over a cool $21 million in civil penalties. Why, you ask? Well, it appears they&#8217;ve been a bit naughty, dabbling in the unregistered offer and sale of securities via something called the Gemini Earn program. It&#8217;s a huge price to tag [&#8230;]"
+    "date": "2024-03-20T14:55:48.000Z",
+    "title": "Helldivers Unite: Strategy Unveiled for Liberation of Fori Prime and Zagon Prime",
+    "url": "https://www.cryptopolitan.com/helldivers-unite-strategy-unveiled/",
+    "description": "In a strategic move aimed at rallying Helldivers across the galaxy, Reddit user djfariel has unveiled a comprehensive battle plan to tackle the latest Major Order issued by the esteemed Joel, the deity of war in the Helldivers universe. With time ticking away and the fate of Fori Prime and Zagon Prime hanging in the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T14:13:29.000Z",
-    "title": "Resilient S&P 500 Hits Record Levels Despite Fed’s Rate Cut Outlook",
-    "url": "https://www.cryptopolitan.com/record-levels-despite-feds-rate-cut-outlook/",
-    "description": "Despite the Federal Reserve&#8217;s indication of an imminent end to any hopes of a rate cut in March, the S&#38;P 500 index has shown remarkable resilience, hovering just shy of an all-time high. The disconnect between interest rates and equity markets has puzzled analysts, prompting closer scrutiny of market dynamics. Fed&#8217;s influence on market sentiment [&#8230;]"
+    "date": "2024-03-20T14:53:13.000Z",
+    "title": "Kinetica Unveils Groundbreaking Real-Time Vector Similarity Search Engine",
+    "url": "https://www.cryptopolitan.com/kinetica-unveils-real-time-search-engine/",
+    "description": "Kinetica, the pioneering provider of real-time GPU-accelerated databases for analytics and generative AI, has introduced an unparalleled advancement in the realm of data analytics. At the NVIDIA GTC event, the company revealed its groundbreaking real-time vector similarity search engine, heralding a new era of efficiency and speed in data processing. Unprecedented speed and efficiency Kinetica&#8217;s [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T14:42:42.000Z",
+    "title": "Exploring WoW’s “The Shadow of His Wings” Side Quest: A Guide to Completion",
+    "url": "https://www.cryptopolitan.com/exploring-wows-the-shadow-of-his-wings-side/",
+    "description": "In the vast world of World of Warcraft (WoW), adventurers often find themselves immersed in a multitude of quests, each offering unique challenges and rewards. Among these quests lies &#8220;The Shadow of His Wings,&#8221; a side quest in the Waking Shores of the Dragon Isles. While not integral to the main storyline, completing this quest [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T14:40:59.000Z",
+    "title": "Remedy Reports Decline in Revenue for 2023 Financial Year",
+    "url": "https://www.cryptopolitan.com/remedy-report-decline-2023-financial-year/",
+    "description": "In its latest financial disclosure, renowned game developer Remedy has revealed a downturn in revenue for the fiscal year 2023. Despite the release of highly anticipated titles such as Alan Wake 2, the company experienced a decrease in earnings compared to previous years. Financial performance Remedy&#8217;s financial statements for 2023 indicate a notable decline in [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T14:40:14.000Z",
+    "title": "Oscar Wilde’s Reading Prison to Get Shocking AI Makeover",
+    "url": "https://www.cryptopolitan.com/reading-prison-to-get-shocking-ai-makeover/",
+    "description": "The new owners of Reading Gaol (popularly known as Reading Prison) are planning to turn the long-vacant prison into a museum and an art-inspired hotel, using robots and AI technology.&#160; Reading Prison Has Been Vacant for a Decade The prison, located in Berkshire, England, was reportedly acquired by Ziran Education Foundation, an educational charity owned [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-20T14:35:36.000Z",
-    "title": "Solana surpasses Ethereum on DEX volume amid meme coins rally",
-    "url": "https://crypto.news/solana-ethereum-dex-meme-coins/",
-    "description": "The Solana blockchain has supplanted Ethereum as the leader in trading volume on decentralized exchanges."
+    "date": "2024-03-20T14:51:32.000Z",
+    "title": "BOME pump pushes SOL above $200, Galaxy Fox’s new GameFi gem",
+    "url": "https://crypto.news/bome-pump-pushes-sol-above-200-galaxy-foxs-new-gamefi-gem/",
+    "description": "Solana briefly surpasses the $200 mark, fueled by excitement about meme coins, while the new Galaxy Fox project aims to make a significant impact in the GameFi and memecoin sectors. #partnercontent"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-20T14:35:12.000Z",
-    "title": "Ripple’s XRP eyes $1 pre-Bitcoin halving; AI altcoin set to surpass Cardano",
-    "url": "https://crypto.news/ripples-xrp-eyes-1-pre-bitcoin-halving-ai-altcoin-set-to-surpass-cardano/",
-    "description": "Ripple's XRP is speculated to hit $1 before Bitcoin's halving event, while Borroe Finance's AI altcoin aims to outdo Cardano in performance. #partnercontent"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-20T14:20:26.000Z",
-    "title": "USD Coin, Shiba Inu investors eye NuggetRush as market sentiment improves",
-    "url": "https://crypto.news/usd-coin-shiba-inu-investors-eye-nuggetrush-as-market-sentiment-improves/",
-    "description": "As crypto enthusiasm rebounds, NuggetRush, a game offering real-world rewards, draws attention from USDC and SHIB investors seeking diverse assets. #partnercontent"
-  },
-  {
-    "source": "Kraken Blog",
-    "date": "2024-03-20T14:21:31.000Z",
-    "title": "New analytics widgets on Kraken Pro: Elevate your trading strategy",
-    "url": "https://blog.kraken.com/product/new-analytics-widgets-on-kraken-pro-elevate-your-trading-strategy",
-    "description": "<p> <img width=\"300\" height=\"137\" src=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?fit=300%2C137&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?w=3070&amp;ssl=1 3070w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=1024%2C467&amp;ssl=1 1024w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=768%2C350&amp;ssl=1 768w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=1536%2C700&amp;ssl=1 1536w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=2048%2C934&amp;ssl=1 2048w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=1200%2C547&amp;ssl=1 1200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?resize=200%2C91&amp;ssl=1 200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?w=3000&amp;ssl=1 3000w\" sizes=\"(max-width: 300px) 100vw, 300px\" data-attachment-id=\"24755\" data-permalink=\"https://blog.kraken.com/product/new-analytics-widgets-on-kraken-pro-elevate-your-trading-strategy/attachment/blog-analytics-widgets-1\" data-orig-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?fit=3070%2C1400&amp;ssl=1\" data-orig-size=\"3070,1400\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Blog &#8211; Analytics Widgets (1)\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?fit=300%2C137&amp;ssl=1\" data-large-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Analytics-Widgets-1.png?fit=1024%2C467&amp;ssl=1\" /> <i>In the ever-evolving world of crypto trading, staying ahead requires having the right tools at your disposal. Kraken Pro is thrilled to unveil 11 new analytics layout widgets, designed to enrich your trading interface with deeper market insights.</i></p>\n<p>The post <a href=\"https://blog.kraken.com/product/new-analytics-widgets-on-kraken-pro-elevate-your-trading-strategy\">New analytics widgets on Kraken Pro: Elevate your trading strategy</a> appeared first on <a href=\"https://blog.kraken.com\">Kraken Blog</a>.</p>\n"
+    "source": "NewsBTC",
+    "date": "2024-03-20T15:00:16.000Z",
+    "title": "Altcoins Shows Buy Signals, Massive Opportunity Beckons: Analyst",
+    "url": "https://www.newsbtc.com/altcoin/altcoins-opportunity-analyst/",
+    "description": "As the price of Bitcoin (BTC) continues to demonstrate a major fall in valuation, indicating a gloomy attitude toward the crypto asset, the bulls in the market are hopeful that the market will soon enter another Season for Altcoins. Altcoins Showing Massive Buying Opportunity  Bitcoin&#8217;s recent dip signaled the beginning of the decline in the cryptocurrency market, causing several altcoins to drop significantly. However, many cryptocurrency analysts believe that the drop in these altcoin prices might serve as an opportunity for future gains since the alt-season is on the horizon. Related Reading: The Tipping Point: Altcoins Bull Market Incoming, Predicts Analyst – Here’s Why Popular cryptocurrency expert and trader Michael Van De Poppe has revealed his optimism in the altcoin market, highlighting the significant opportunities of getting into these tokens before the alt-season begins. According to Michael Van De Poppe, &#8220;some altcoins have now dropped by over 40%&#8221; in comparison to their past all-time high. As a result, Poppe believes that this is the right time for investors to purchase these digital assets to position themselves for future gains. Poppe noted he normally invests in these tokens “during bull cycles when they are about 25% to 60% less expensive.” This demonstrates the crypto expert&#8217;s confidence in the assets to rally in the coming months. While pointing out the massive opportunities in the market, Poppe has underscored Arbitrum (ARB) as one of the altcoins investors should watch out for. He believes that ARB could realize substantial gains in time, as the token is down and poised for a new leg UP. Recently, there have been notable advancements in the crypto asset&#8217;s price, demonstrating momentum for an upward movement. As of the time of writing, ARB was trading at $1.70, indicating an over 10% increase in the daily timeframe. However, in the weekly and monthly timeframe, ARB is down by 22% and 15%, respectively. Meanwhile, Arbitrum&#8217;s market capitalization has increased by roughly 10% to exceed the $4.5 billion threshold. Top ALTs To Purchase After Bitcoin&#8217;s Retracement On-chain analyticS platform Santiment has also highlighted the drop in altcoins as a shot to garner profits in the upcoming months. Santiment pointed out several altcoins that offer a &#8220;possible bullish opportunity,&#8221; following Bitcoin&#8217;s crash today to a two-week low of $61,700. Related Reading: Is Altcoin Season Upon Us? Here’s What Bitcoin’s Performance Shows Some of the tokens listed by Santiment are BOUNCE, LDO, OMG, STORJ, and SNX. The MVRV Opportunity and Danger Zone Model, according to Santiment, shows that many altcoins have now declined to the point where mid-term trading returns are in an &#8220;opportunity zone.&#8221; However, when an asset&#8217;s 30-day, 90-day, and 365-day average wallet returns add up to be negative, “this zone is breached.” Even with the recent general correction, the altcoins market appears to be headed toward a favorable long-term picture. Consequently, this presents an excellent chance for investors to purchase these digital assets at a reduced cost. Featured image from Shutterstock, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-20T14:24:12.000Z",
-    "title": "Decentralized Web 3.0 Ecosystems Are Shaping a New Paradigm in Social Trading",
-    "url": "https://www.crypto-news-flash.com/decentralized-web-3-0-ecosystems-are-shaping-a-new-paradigm-in-social-trading/?utm_source=rss&utm_medium=rss&utm_campaign=decentralized-web-3-0-ecosystems-are-shaping-a-new-paradigm-in-social-trading",
-    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291-300x175.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291-768x448.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291-150x88.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-20T171108.291-450x263.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Social trading has become a popular way for newbies in financial markets to make profits by simply mirroring or copying expert traders. First launched in 2003 and popularized by eToro’s social trading platform debut in 2010, this form of investment has grown into a $2,229.56 million dollar market as of 2021; projections show it could [...]"
+    "date": "2024-03-20T15:00:45.000Z",
+    "title": "Untangling the Web3 Mess: How Particle Network Makes Blockchain Easier to Use",
+    "url": "https://www.crypto-news-flash.com/untangling-the-web3-mess-how-particle-network-makes-blockchain-easier-to-use/?utm_source=rss&utm_medium=rss&utm_campaign=untangling-the-web3-mess-how-particle-network-makes-blockchain-easier-to-use",
+    "description": "<img width=\"2560\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097.png 2560w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-1200x675.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-1536x864.png 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-2048x1152.png 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/IMG_5097-450x253.png 450w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" />Imagine walking into a market, excited to discover all the things it has on offer. But, instead of a welcoming entrance, you are faced with a confusing maze of walled gardens each with its own currency and security protocols. This is the problem of Web3 in which decentralized applications and cryptocurrencies exist today as fragmented [...]"
   },
   {
-    "source": "The Daily Hodl",
-    "date": "2024-03-20T14:30:19.000Z",
-    "title": "BitMEX Founder Arthur Hayes Says He’s Bullish on These Three Crypto Plays for the Bull Market",
-    "url": "https://dailyhodl.com/2024/03/20/bitmex-founder-arthur-hayes-says-hes-bullish-on-these-three-crypto-plays-for-the-bull-market/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Three-Crypto-Plays.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>BitMEX founder Arthur Hayes is turning bullish on three crypto projects during the current bull market cycle. In a new interview with Pomp Investments founder Anthony Pompliano, Hayes says the decentralized finance (DeFi) project Pendle (PENDLE), which allows users to tokenize and sell future yields, has a lot of upside potential as it innovates in [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/20/bitmex-founder-arthur-hayes-says-hes-bullish-on-these-three-crypto-plays-for-the-bull-market/\">BitMEX Founder Arthur Hayes Says He’s Bullish on These Three Crypto Plays for the Bull Market</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-03-20T14:40:47.000Z",
+    "title": "XRP Listed on BitMEX for Spot Trading as Ripple vs. SEC Lawsuit Intensifies",
+    "url": "https://www.crypto-news-flash.com/xrp-listed-on-bitmex-for-spot-trading-as-ripple-vs-sec-lawsuit-intensifies/?utm_source=rss&utm_medium=rss&utm_campaign=xrp-listed-on-bitmex-for-spot-trading-as-ripple-vs-sec-lawsuit-intensifies",
+    "description": "<img width=\"1992\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background.jpg 1992w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-300x181.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-1024x617.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-768x463.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-1536x925.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-450x271.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Ripple-XRP-Price-rising-in-gray-format-with-a-keyboard-background-1200x723.jpg 1200w\" sizes=\"(max-width: 1992px) 100vw, 1992px\" />BitMEX is relisting XRP for trading on its spot market. This listing comes despite the yet-to-be-concluded lawsuit between Ripple Labs and the SEC. BitMEX, one of the world’s leading crypto exchanges, recently took a bold step forward in the crypto space as it announced its decision to list XRP for spot trading. This decision comes [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-20T15:07:20.000Z",
+    "title": "Robinhood Launches Crypto Wallet for Android",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/robinhood-launches-crypto-wallet-for-android/",
+    "description": "<p>The company has officially launched a crypto wallet on Google Play, making it accessible to Android users worldwide. This launch transforms Android users&#8217; crypto interactions, offering a secure, easy-to-use platform for transactions. Let&#8217;s discover more about Robinhood. Robinhood&#8217;s New Crypto Wallet Transforms Android User Experience The launch of Robinhood&#8217;s crypto wallet on Google Play marks [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/robinhood-launches-crypto-wallet-for-android/\">Robinhood Launches Crypto Wallet for Android</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

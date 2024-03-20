@@ -1,114 +1,268 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-20T12:31:02.000Z",
-    "title": "First Mover Americas: BTC's Drop Below $62K Is the Biggest Single-Day Loss Since FTX’s Collapse",
-    "url": "https://www.coindesk.com/markets/2024/03/20/first-mover-americas-btcs-drop-below-62k-is-the-biggest-single-day-loss-since-ftxs-collapse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for March 20, 2024. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets."
+    "date": "2024-03-20T13:30:00.000Z",
+    "title": "Kraken Unveils Qualified Custody for Institutions in Crypto-Friendly Wyoming",
+    "url": "https://www.coindesk.com/business/2024/03/20/kraken-unveils-qualified-custody-for-institutions-in-crypto-friendly-wyoming/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Kraken Institutional operates under the exchange’s state-chartered banking license in Wyoming, attained back in 2020."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-20T13:01:01.000Z",
+    "title": "Ethereum Gaming Network Xai Could Add 100+ Games in 2024—Here's How",
+    "url": "https://decrypt.co/222479/xai-arbitrum-ethereum-network-add-100-games-2024",
+    "description": "The Ethereum gaming network on Arbitrum has linked up with indie curator The MIX, which says it has a flood of games lined up."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-20T12:36:08.000Z",
-    "title": " AI talent crunch accelerates as nations scramble to secure their dominance   ",
-    "url": "https://cointelegraph.com/news/ai-talent-crunch-nations-secure-dominance",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYzM5MGJjNzEtMzM3MC00NjUwLWFmNzYtMmQ5MWYxMTRiZWE4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The global competition for AI supremacy intensifies as companies consider relocating and nations offer incentives to attract AI talent. </p>\n                    <p><p data-ct-non-breakable=\"true\">The race to develop and deploy high-level <a href=\"https://cointelegraph.com/tags/ai\">artificial intelligence (AI)</a> models has become the latest fixation of governments and tech companies around the world. </p><p>In the last month alone, Google poured 25 million euros into <a href=\"https://cointelegraph.com/news/google-invests-25-million-ai-skills-europeans\">a new initiative to boost AI competency skills</a> for Europeans and partnered with the French government to set up a new AI-dedicated hub in Paris. </p><p>At the same time, its rival Microsoft announced a three billion euro investment into<a href=\"https://cointelegraph.com/news/microsoft-invest-3-billion-euros-ai-germany\"> AI development in Germany</a>. </p><p><a href=\"https://cointelegraph.com/news/ai-talent-crunch-nations-secure-dominance\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-20T13:30:00.000Z",
+    "title": " Bitcoin halving meets unprecedented institutional demand ",
+    "url": "https://cointelegraph.com/news/bitcoin-halving-institutional-demand-etf-adoption",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvODAzMGI3NjgtMThlZC00MTVkLWE1MWQtN2UwM2UzNGJiNWFkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Thanks to the quadrennial halving, the supply of Bitcoin is a constant, reliable and predictable side of the equation. The demand side has now really started to come into play. </p>\n                    <p><p data-ct-non-breakable=\"true\">If Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is the unstoppable force of continuously reducing new supply to the market, retail and institutional adoption may have become an immovable object driving up demand for the largest cryptocurrency. </p><p>With the <a href=\"https://cointelegraph.com/news/bitcoin-etfs-stocks-btc-trusts\">approval of spot Bitcoin exchange-traded funds (ETFs)</a> in the United States (the <a href=\"https://www.visualcapitalist.com/the-109-trillion-global-stock-market-in-one-chart/\" target=\"_blank\" rel=\"noopener nofollow\">largest</a> global equity market) — and the <a href=\"https://cointelegraph.com/news/bitcoin-etf-volumes-7-billion-break-records\">ETFs breaking records</a> since their launch — the demand side (immovable object) may be in play, which could be pushed into overdrive with the upcoming Bitcoin halving. </p><p>Some things are certain in life, and some are just on a spectrum of possibilities. All the current speculation in the cryptoverse is around the vast spectrum of potential new highs or the fear of potential new lows. </p><p><a href=\"https://cointelegraph.com/news/bitcoin-halving-institutional-demand-etf-adoption\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-20T13:30:00.000Z",
+    "title": " Bitcoin ETFs make Coinbase a ‘honeypot’ for hackers and governments: Trezor CEO ",
+    "url": "https://cointelegraph.com/magazine/bitcoin-etf-coinbase-honeypot-hackers-government-trezor-ceo/",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-Matej-Zak-CEO-Trezor-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Coinbase holds BTC for eight of 10 Bitcoin ETFs. Trezor CEO Matej Zak warns it could become irresistible for thieves… and the government.</p>\n                    <p><p><strong>According to Prague-based hardware wallet provider <a href=\"http://trezor.io\" target=\"_blank\" rel=\"nofollow\">Trezor</a>, there are currently 420 million global exchange users but only eight million self-custody hardware wallet users  that’s around 2% of the total.</strong><br><br>This would imply a huge potential market for Trezor, but there have been recent disturbances in the Force, not least the recent approval of Bitcoin exchange-traded funds (ETFs) and the potential for Ethereum ETFs.<br><br>These financial products allow investors exposure to crypto without the need to hold the asset itself. Its the opposite of self-custody and potentially not good news for hard wallet providers.<br><br>Trezor CEO Matej Zak says that for existing Bitcoiners and aspiring Bitcoiners, the ETFs should not be the first port of call.</p><p>The ultimate aim for everyone holding Bitcoin should be to self-custody the asset in a hardware wallet where it is safe, private and protected.</p><p>And he issues a stern warning about the dominance of Coinbase, which is where eight of those 10 ETFs reside. When so many assets are corralled in one place, there is always the threat of hacking and, worse, state intervention.<br><br>With the current major inflow of capital into spot ETFs, Coinbase is likely to become the largest Bitcoin honeypot, attracting hackers, social engineers and other attackers in volumes never seen before, he says.</p><p><a href=\"https://cointelegraph.com/magazine/bitcoin-etf-coinbase-honeypot-hackers-government-trezor-ceo/\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-20T13:25:19.000Z",
+    "title": " French watchdog fines Google 250M euros for AI IP infringement ",
+    "url": "https://cointelegraph.com/news/google-fined-250-m-ai-ip-infringement-french",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZTQwOTU1OWQtMTZmZS00YTAwLWJiNWItMTE4ZTA0NmYwY2EyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Big Tech giant Google accepted a fine of 250 million euros from the French competition authorities on the grounds of a breach of EU copyright laws during AI training.  </p>\n                    <p><p>Google has accepted a fine from the French government’s competition watchdog for a past breach of European Union intellectual property (IP) laws relating to its media publishers. </p><p>The French competition authority cited concerns about Google’s AI service, then known as Bard and now Gemini, alleging it was trained on content from local publishers and news agencies without the proper notification and clearance.</p><p>On its French-language <a href=\"https://blog.google/intl/fr-fr/nouvelles-de-lentreprise/chez-google/accord-regler-differend-qui-dure-depuis-trop-longtemps/\" target=\"_blank\" rel=\"noopener nofollow\">blog</a>, Google responded to the fine, claiming to be the “first and only platform” to have licensing agreements with 280 French press publishers, which amounts to “several tens of millions of euros per year.”</p><p><a href=\"https://cointelegraph.com/news/google-fined-250-m-ai-ip-infringement-french\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-20T13:23:22.000Z",
+    "title": " Bitcoin price retraces 30 days ahead of halving in historical pattern ",
+    "url": "https://cointelegraph.com/news/bitcoin-price-30-day-halving-investment",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvN2EyZDU4OTctZTY2MC00ZWU1LThlODEtNzVmMjkxNDk1ZTZiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin price has historically retraced ahead of previous Bitcoin halvings, but when will it bounce back?</p>\n                    <p><p data-ct-non-breakable=\"true\">With just a month to go until the Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) halving, BTC price has retraced despite fresh capital inflows inducing a new all-time high earlier this month. </p><p>Even so, industry figures are largely bullish and tell Cointelegraph the retracement is not yet a cause for concern.</p><p>Bitcoin has enjoyed significant price growth in 2024. On Jan. 1, the price of Bitcoin was $42,208. On March 14, Bitcoin hit a new all-time high of $73,737. That high is something BTC has not been able to sustain on the 30-day countdown clock.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-price-30-day-halving-investment\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-20T13:01:55.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">Today in crypto, Apple’s co-founder had a court ruling overturned against YouTube over the use of doctored videos featuring his likeness. The United States Securities and Exchange Commission (SEC) handed down delay orders on several pending spot Ether exchange-traded fund (ETF) applications, and FTX victims issued statements ahead of the planned sentencing of Sam Bankman-Fried.</p><p data-ct-non-breakable=\"true\">Apple co-founder Steve Wozniak has <a href=\"https://cointelegraph.com/news/apple-co-founder-wins-youtube-bitcoin-scam-lawsuit\">won</a> the latest round in a court battle against YouTube over the use of doctored videos featuring his likeness used in a <a href=\"https://cointelegraph.com/news/apple-co-founder-steve-wozniak-sues-youtube-over-crypto-scams\">Bitcoin scam in 2020</a>. The latest appeals court verdict overruled a lower court judgment that absolved YouTube of any responsibility. </p><p>The latest verdict allows Wozniak to continue the lawsuit against the video streaming platform and potentially paves the way for a change in the federal law protecting video streaming platforms such as YouTube from any liability that comes along with the videos posted on the platform.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-20T12:17:47.000Z",
-    "title": "Sybil attack concerns spark controversy for EtherFi airdropped ETHFI token",
-    "url": "https://cryptoslate.com/sybil-attack-concerns-spark-controversy-for-etherfi-airdropped-ethfi-token/",
-    "description": "<p>Liquid restaking platform EtherFi&#8217;s ETHFI token has faced considerable struggles since its airdrop, partly due to one of its early investors selling their airdropped tokens. Blockchain analytical firm Nansen reported how Arrington XRP Capital, one of EtherFi&#8217;s investors, allegedly may have gamed EtherFi&#8217;s airdrop process for personal profit. Arrington &#8216;sybils&#8217; EtherFi Nansen&#8217;s findings reveal that Arrington [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/sybil-attack-concerns-spark-controversy-for-etherfi-airdropped-ethfi-token/\">Sybil attack concerns spark controversy for EtherFi airdropped ETHFI token</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-20T13:30:31.000Z",
+    "title": "Bitcoin ‘extreme greed’ ends matching sentiment from ETF launch at $46k",
+    "url": "https://cryptoslate.com/insights/bitcoin-extreme-greed-ends-matching-sentiment-from-etf-launch-at-46k/",
+    "description": "<p>After 13 days in an &#8216;extreme greed&#8217; phase of Bitcoin euphoria, the drop to $61,000 has pushed investor sentiment back into plain &#8216;greed,&#8217; according to Coinglass. As of press time, Bitcoin is trading at $63,700, just 13% down from its all-time high. At a level of 74 out of 100 on the fear and greed [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/bitcoin-extreme-greed-ends-matching-sentiment-from-etf-launch-at-46k/\">Bitcoin ‘extreme greed’ ends matching sentiment from ETF launch at $46k</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2024-03-20T12:24:36.000Z",
-    "title": "Gate Group Expands Its European Presence with Italy VASP Registration",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/gate-group-expands-its-european-presence-with-italy-vasp-registration/",
-    "description": "Gate Group Adds Italian VASP Registration to List of Global Expansion Achievements March 20th, Panama – Gate.MT, the Malta-regulated company of Gate Group, recently announced its successful VASP registration with Italy’s Organismo Agenti e Mediatori (OAM) through its Italian subsidiary Gate Technology Italia SRL. This registration follows a series of other regulatory registrations, licenses, and […]\n"
+    "source": "Crypto Briefing",
+    "date": "2024-03-20T13:04:29.000Z",
+    "title": "Playnance unveils PlayBlock layer 3 on Arbitrum with Gelato RaaS",
+    "url": "https://cryptobriefing.com/playnance-layer-3-playblock-arbitrum-gelato-raas/",
+    "description": "Playnance introduces PlayBlock, a layer 3 ecosystem on Arbitrum Orbit designed for seamless web3 gaming without gas fees."
+  },
+  {
+    "source": "Coin Telegraph India",
+    "date": "2024-03-20T13:30:00.000Z",
+    "title": " Bitcoin ETFs make Coinbase a ‘honeypot’ for hackers and governments: Trezor CEO ",
+    "url": "https://cointelegraph.com/magazine/bitcoin-etf-coinbase-honeypot-hackers-government-trezor-ceo/",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-Matej-Zak-CEO-Trezor-scaled.jpg\"></p><p>Coinbase holds BTC for eight of 10 Bitcoin ETFs. Trezor CEO Matej Zak warns it could become irresistible for thieves… and the government.</p>\n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-20T12:21:59.000Z",
-    "title": "Smart Money Protocol Umoja Raises $4M To Boost Crypto Wealth Creation For Retail Investors",
-    "url": "https://cryptodaily.co.uk/2024/03/smart-money-protocol-umoja-raises-4m-to-boost-crypto-wealth-creation-for-retail-investors",
-    "description": "The smart money protocol Umoja is on a mission to make wealth generation through investing a more achievable goal after closing on a $2 million extension to its initial seed funding round,"
+    "date": "2024-03-20T13:38:39.000Z",
+    "title": "Crypto Gold Rush: Identifying the 3 Coins That Could Turn $100 into $1M",
+    "url": "https://cryptodaily.co.uk/2024/03/crypto-gold-rush-identifying-the-3-coins-that-could-turn-100-into-1m",
+    "description": "In today's world of crypto, finding the next token to buy is like looking for treasure. Investors are on a lookout for tokens that can provide them with potential gains. Let’s talk about three special crypto coins mentioned in crypto news: BEFE, Bitgert, and Centcex."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-20T12:12:20.000Z",
-    "title": "SEC Delays Decision On Hashdex, Ark 21Shares Ethereum ETFs",
-    "url": "https://cryptodaily.co.uk/2024/03/sec-delays-decision-on-hashdex-ark-21shares-ethereum-etfs",
-    "description": "In its notice filed on Tuesday, the Securities and Exchange Commission stated it was extending its time to decide on both applications to May."
+    "date": "2024-03-20T13:33:02.000Z",
+    "title": "In Latin America, Crypto Payments Are Taking Off",
+    "url": "https://cryptodaily.co.uk/2024/03/in-latin-america-crypto-payments-are-taking-off",
+    "description": "There are many facets to the ever-evolving crypto space. While memecoins, Zkrollup, and AI are currently trending within Web3,"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:29:45.000Z",
+    "title": "Elevate Your Portfolio: Top Altcoins with the Potential for $1M Returns",
+    "url": "https://cryptodaily.co.uk/2024/03/elevate-your-portfolio-top-altcoins-with-the-potential-for-1m-returns",
+    "description": "Amongst the select few altcoins swarming current crypto news listicles, only a handful have successfully positioned themselves to be the next crypto boom."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:24:32.000Z",
+    "title": "Ooga Booga Raises $1M to Create First Liquidity Aggregator on Berachain",
+    "url": "https://cryptodaily.co.uk/2024/03/ooga-booga-raises-1m-to-create-first-liquidity-aggregator-on-berachain",
+    "description": "Ooga Booga Raises $1M to Create First Liquidity Aggregator on Berachain"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:24:08.000Z",
+    "title": "Partisia Blockchain's MPC Token Makes Waves with Listing on Multiple Prominent Exchanges",
+    "url": "https://cryptodaily.co.uk/2024/03/partisia-blockchains-mpc-token-makes-waves-with-listing-on-multiple-prominent-exchanges",
+    "description": "Partisia Blockchain, a pioneering force in privacy-preserving, interoperable, and sustainable blockchain solutions, has recently made headlines with the successful listing of its $MPC token on multiple leading exchanges. This significant development not only underscores the growing"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:20:05.000Z",
+    "title": "Immutable, Polygon Labs, King River Team Set Up $100M Web3 Gaming Fund",
+    "url": "https://cryptodaily.co.uk/2024/03/immutable-polygon-labs-king-river-team-set-up-100m-web3-gaming-fund",
+    "description": "The “Inevitable Games Fund,” launched as a result of the partnership between the three companies, has a $100 million budget to invest in Web3 gaming startups."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:14:00.000Z",
+    "title": "Investor Who Made Massive $3.6 Million Profit from Pepe Coin (PEPE) and Bonk (BONK) in 2023 Ready for His Next Win with This Token",
+    "url": "https://cryptodaily.co.uk/2024/03/investor-who-made-massive-36-million-profit-from-pepe-coin-pepe-and-bonk-bonk-in-2023-ready-for-his-next-win-with-this-token",
+    "description": "Success stories often emerge from those who possess a keen eye for emerging trends and the courage to take calculated risks."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:07:50.000Z",
+    "title": "DeeStream (DST) Presale Attracts Avalanche (AVAX) & Chainlink (LINK) Investors, Bolstered by Solana's (SOL) 60% Growth Spurt",
+    "url": "https://cryptodaily.co.uk/2024/03/deestream-dst-presale-attracts-avalanche-avax-chainlink-link-investors-bolstered-by-solanas-sol-60-growth-spurt",
+    "description": "Solana (SOL) recently went through an impressive growth spurt that took its value to new heights. This has encouraged Avalanche (AVAX) and Chainlink (LINK) investors to spread their wings and look for projects that could grow exponentially within a short period. After all, the end goal of investment is to make admirable returns."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:05:07.000Z",
+    "title": "Mysten Labs Technology Prototype on Sui Provides First Proof of Elastic Blockchain Scaling",
+    "url": "https://cryptodaily.co.uk/2024/03/mysten-labs-technology-prototype-on-sui-provides-first-proof-of-elastic-blockchain-scaling",
+    "description": "Mysten Labs Technology Prototype on Sui Provides First Proof of Elastic Blockchain Scaling"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T13:02:34.000Z",
+    "title": "Envelop collateralized derivatives in the Blast ecosystem",
+    "url": "https://cryptodaily.co.uk/2024/03/envelop-collateralized-derivatives-in-the-blast-ecosystem",
+    "description": "Since the advent of uncollateralized derivatives, the global financial system has continually faced liquidity crises as if they were embedded in the design of modern economies."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-20T12:52:29.000Z",
+    "title": "Get on the Solama Train and Meet the Official 'Unofficial' Solana Mascot",
+    "url": "https://cryptodaily.co.uk/2024/03/get-on-the-solama-train-and-meet-the-official-unofficial-solana-mascot",
+    "description": "With the crypto market experiencing one of the most promising bull markets since the launch of the first cryptocurrency, it is no wonder that so many crypto projects have started to grow their audiences and come up with new updates, features, and perks that can keep their communities close."
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-03-20T12:22:55.000Z",
-    "title": "Bitcoin Technical Analysis: Bearish Signals Amid Market Turbulence Put Traders on High Alert",
-    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-bearish-signals-amid-market-turbulence-put-traders-on-high-alert/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Bearish Signals Amid Market Turbulence Put Traders on High Alert\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hh890000.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin, with its intraday low and high at $60,760 and $66,382 respectively, and currently trading above the $63,500 mark, showcases its durability and unpredictability. The price movements of bitcoin persist in the lead-up to the U.S. Federal Reserve&#x2019;s gathering on Wednesday afternoon. Bitcoin On March 20, 2024, bitcoin&#x2019;s (BTC) 1-hour chart reveals a prevailing downtrend, [&#8230;]"
+    "date": "2024-03-20T13:30:15.000Z",
+    "title": "With 1 Month to Go, Bitcoin Halving Poised to Shift Mining Dynamics",
+    "url": "https://news.bitcoin.com/with-1-month-to-go-bitcoin-halving-poised-to-shift-mining-dynamics/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"With 1 Month to Go, Bitcoin Halving Poised to Shift Mining Dynamics\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/halvin89900.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Per the most recent data, we are a month away, or precisely 30 days, from the fourth Bitcoin halving event. This significant milestone will cut the mining rewards from 6.25 bitcoins per block to 3.125 bitcoins per block after the halving. The summary below outlines the essentials to grasp the changes occurring during the halving, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T12:38:31.000Z",
-    "title": "Sam Bankman-Fried lawyers decry ‘medieval’ sentence proposal",
-    "url": "https://www.cryptopolitan.com/sam-bankman-fried-lawyers-decry-medieval/",
-    "description": "United States prosecutors have recommended a maximum sentence of 50 years in prison for former FTX CEO Sam Bankman-Fried, who was convicted on fraud and money laundering charges in November 2023. This sentencing proposal has sparked controversy, with Bankman-Fried&#8217;s lawyers condemning it as reminiscent of a &#8220;medieval view of punishment.&#8221; In a response to the [&#8230;]"
+    "date": "2024-03-20T13:32:27.000Z",
+    "title": "PlayStation 5 Pro: Bridging the Gap to Next-Gen Gaming",
+    "url": "https://www.cryptopolitan.com/playstation-5-pro-bridging-the-gap/",
+    "description": "The gaming industry is abuzz with anticipation as rumors swirl around the impending release of the PlayStation 5 Pro, Sony&#8217;s highly anticipated console set to bridge the gap between the current PlayStation 5 and the future PlayStation 6. While details remain speculative, industry insiders suggest that the PlayStation 5 Pro will represent a significant leap [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T12:34:07.000Z",
-    "title": "Breaking down Canada’s economic conundrum – What is happening?",
-    "url": "https://www.cryptopolitan.com/breaking-down-canadas-economic-conundrum/",
-    "description": "Canada finds itself at a crossroads, grappling with an economic puzzle that has everyone from policymakers to the average Joe scratching their heads. It&#8217;s about time we dived deep into the nitty-gritty of what&#8217;s been going on with the Canadian economy, and folks, buckle up because it&#8217;s been a roller coaster of a ride with [&#8230;]"
+    "date": "2024-03-20T13:28:47.000Z",
+    "title": "NVIDIA Forge Stronger Ties with this Firm to Boost AI and Data Processing",
+    "url": "https://www.cryptopolitan.com/nvidia-boost-ai-data-processing/",
+    "description": "In a significant move, Databricks, a leader in data and AI solutions, has announced a deeper partnership with NVIDIA, the powerhouse in accelerated computing. This announcement was made at the GTC 2024 conference. It paves the way for enhanced data and AI workloads management on the Databricks Data Intelligence Platform. The collaboration is expected to [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T12:31:49.000Z",
-    "title": "Robert Kiyosaki bullish on Silver amidst rising industrial demand",
-    "url": "https://www.cryptopolitan.com/bullish-on-silver-amidst-rising-demand/",
-    "description": "Renowned investor and author Robert Kiyosaki, famous for his best-selling book &#8220;Rich Dad Poor Dad,&#8221; has recently voiced his bullish stance on silver as an investment opportunity. In a recent statement, Kiyosaki highlighted silver&#8217;s multifaceted utility as both a precious metal and a critical component in various industrial applications, asserting that its demand is on [&#8230;]"
+    "date": "2024-03-20T13:23:25.000Z",
+    "title": "Bitcoin Faces Toughest Challenge Yet: Experts Forecast the First Coins to Bounce Back",
+    "url": "https://www.cryptopolitan.com/bitcoin-faces-toughest-challenge-yet-experts-forecast-the-first-coins-to-bounce-back/",
+    "description": "Bitcoin recently experienced a price crash, creating a challenging environment for the digital currency. As experts try to forecast which cryptocurrencies may bounce back first, the situation underscores the risk and volatility in the sector. This forms the backdrop of our related investigation, delving into Bitcoin&#8217;s toughest trials yet and how it, among other cryptocurrencies, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T12:24:48.000Z",
-    "title": "There are so many things wrong with Federal Reserve’s balance sheet",
-    "url": "https://www.cryptopolitan.com/many-things-wrong-with-fed-balance-sheet/",
-    "description": "The balance sheet of the Federal Reserve is under a microscope, and for a good reason. It&#8217;s a whopping $7.5 trillion behemoth that&#8217;s got policymakers and market watchers alike breaking out in cold sweats. Let&#8217;s dive deep, shall we? Because, boy oh boy, there&#8217;s a whole lot to unpack here. Since 2022, the Fed has [&#8230;]"
+    "date": "2024-03-20T13:20:13.000Z",
+    "title": "Unveiling the Top 3 Cryptos Expected to Skyrocket in the Market",
+    "url": "https://www.cryptopolitan.com/unveiling-the-top-3-cryptos-expected-to-skyrocket-in-the-market/",
+    "description": "The crypto market is officially in the bullish zone, and as per the news, it will continue to be so until unforeseen scenarios occur. All ongoing news suggests three prominent coins will rise, and every investor should buy them when the time is ripe. BEFE: The New Meme King As per ongoing rumors and news, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:20:06.000Z",
+    "title": "Exclusive Report: Top 3 Altcoins Set to Skyrocket, According to Analysts",
+    "url": "https://www.cryptopolitan.com/exclusive-report-top-3-altcoins-set-to-skyrocket-according-to-analysts/",
+    "description": "The good times have arrived for investors who stay abreast of the news and insights into the best crypto to buy. There is no better source for crypto news and insights on why to buy than analysts&#8217; reports. In their latest issue, analysts tip three altcoins, BEFE, Centcex, and Bitgert (BRISE), as cryptos to buy, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:20:04.000Z",
+    "title": "Breaking News: Experts Predict Surge in Value for These 3 Altcoins",
+    "url": "https://www.cryptopolitan.com/breaking-news-experts-predict-surge-in-value-for-these-3-altcoins/",
+    "description": "Crypto investors keep their eyes peeled for every news and expert insight as the crypto market resumes widespread bullish trends. As for every such run, altcoins are always top on the watchlist of cryptos to buy!&#160; The latest news is that experts have found these three altcoins, BEFE, Bitgert, and Centcex, on course for a [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:19:05.000Z",
+    "title": "Final Fantasy VII Rebirth Receives Rave Reviews: A Triumph in Gaming Evolution",
+    "url": "https://www.cryptopolitan.com/final-fantasy-vii-rebirth-receives-rave/",
+    "description": "The release of Final Fantasy VII Rebirth marks a significant milestone in the gaming industry, captivating players with its unparalleled graphics and immersive world design. Square Enix&#8217;s meticulous attention to detail is evident from the breathtaking landscapes to the bustling towns filled with vibrant characters.&#160; Despite the graphical prowess rivaling the PlayStation 5 version of [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:15:39.000Z",
+    "title": "Fortnite Chapter 5 Season 2: Midas Location & Rewards",
+    "url": "https://www.cryptopolitan.com/fortnite-chapter-5-season-2-midas-location/",
+    "description": "Fortnite Chapter 5 Season 2 introduces the Rise of Midas event, bringing back the beloved character to the game. Players are eager to locate Midas on the map and reap the rewards he offers. Here&#8217;s everything you need to know about finding Midas and what rewards await you. Locating Midas on The Marigold Yacht Midas [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:15:38.000Z",
+    "title": "Ethereum Price Prediction 2024-2033: Will ETH reach $8000 soon?",
+    "url": "https://www.cryptopolitan.com/ethereum-price-prediction/",
+    "description": "Ethereum Price Prediction 2024-2033 &#8220;The Merge did not change anything for holders/users.&#8221; Is that a fact? Crypto prices are unlikely to see a major recovery without new or returning investors bringing cash back into the market.&#160;Unless the retail people enter the market, Ethereum won&#8217;t strongly blast above ATH. Maybe something sparks retail, though, like Coinbase, [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-20T13:07:04.000Z",
+    "title": "Oraichain Announces Beta Launch of OraiBTC Subnet, Enabling Seamless Bitcoin Integration into Ecosystem",
+    "url": "https://www.cryptopolitan.com/oraichain-announces-beta-launch-of-oraibtc-subnet-enabling-seamless-bitcoin-integration-into-ecosystem/",
+    "description": "New York, NY, March 20th, 2024, Chainwire Oraichain, an innovator in the integration of artificial intelligence with blockchain technology, has announced the highly anticipated Beta launch of its OraiBTC Subnet on March 19.  The development marks the first time Bitcoin (BTC) will be integrated into the Oraichain ecosystem, offering a decentralized bridge for seamless BTC [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-20T12:31:18.000Z",
-    "title": "Ripple and Binance Coin fans rally behind Koala Coin",
-    "url": "https://crypto.news/ripple-and-binance-coin-fans-rally-behind-koala-coin/",
-    "description": "Koala Coin (KLC) makes notable strides as it launches its presale, attracting attention not only from meme coin enthusiasts but also Ripple (XRP) and Binance Coin (BNB) investors. #partnercontent "
+    "date": "2024-03-20T13:08:28.000Z",
+    "title": "Dogecoin price analysis: A critical look at investment viability",
+    "url": "https://crypto.news/dogecoin-price-analysis-a-critical-look-at-investment-viability/",
+    "description": "Dogecoin's recent market performance sparks discussions on its future investment potential amid fluctuating prices and uncertain global economic conditions. #partnercontent"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-20T12:54:48.000Z",
+    "title": "STX price jumps amid market downturn following Nakamoto upgrade approval",
+    "url": "https://crypto.news/stx-price-jumps-amid-market-downturn-following-nakamoto-upgrade-approval/",
+    "description": "Bitcoin layer 2 network Stacks (STX) was trending on Google after the network&#8217;s Nakamoto upgrade received widespread approval.&#160; According to the Stacks Foundation, the upgrade was approved by every voter who had Stacked STX, and 99.98% of the votes cast&#8230;"
   },
   {
     "source": "NewsBTC",
-    "date": "2024-03-20T12:23:50.000Z",
-    "title": "High-Stakes Week For Bitcoin And Ethereum As Central Bank Decisions Approach: Key Predictions",
-    "url": "https://www.newsbtc.com/bitcoin-news/high-stakes-week-for-bitcoin-and-ethereum-as-central-bank-decisions-approach-key-predictions/",
-    "description": "This week could mark a pivotal moment in the first quarter of 2024 for the entire crypto market and the two largest cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH), as major central banks, led by the Bank of Japan and the US Federal Reserve (Fed), prepare to announce their interest rate decisions.  According to crypto futures exchange Blofin, these announcements will set the tone for monetary policy in the coming months. The impact of safe-haven sentiment has led to a pullback in both BTC and ETH prices, with traders expressing greater optimism for BTC.  Bitcoin Price Movement Range Projected At 9.78% As per a recent on-chain analysis report released by the exchange, crypto traders are expecting BTC&#8217;s price movement range to reach 9.78% over the next seven days, with a projected 30-day range of 20.33%.  However, despite the expected volatility, the report indicates that traders remain bullish on BTC in the medium to long term.  Related Reading: Dogecoin Growth Hits Roadblock As Holder Activity Enters Dreaded Period Of Stagnancy Skewness analysis suggests that price declines and pullbacks are expected to induce volatility, but the duration of this round of pullback is expected to be relatively short. Risk aversion to macro uncertainty is seen as the primary trigger.  The latest dealers&#8217; gamma distribution supports the expected wide range of BTC price fluctuations, with gamma peaks around $65,000 and $75,000. With the quarterly settlement approaching, market makers&#8217; influence on BTC price movement is gradually recovering, providing support during price drops but making it challenging to surpass the $75,000 level.  In addition, on-chain data shows a decline in spot investors&#8217; enthusiasm for buying BTC, although the number of addresses holding more than 100 BTC continues to increase, as seen in the chart above. The reduced number of addresses holding over 1,000 BTC suggests that significant holders have decided to sell at BTC&#8217;s new highs.  Despite caution over potential price fluctuations, the hedging effect contributes to the increasing possibility of BTC price stabilization, making holding BTC a favorable choice. Bearish Sentiment Dominates Front-Month Options For Ethereum According to the report, similar to BTC, traders expect relatively high volatility levels for ETH in the short term, with projected price movement ranges of 10% over seven days and 20.32% over 30 days. However, the report suggests that traders are less optimistic about ETH&#8217;s future performance compared to Bitcoin.  Furthermore, Blofin finds that bearish sentiment dominates the front-month options, while bullish sentiment remains favorable in the back-months. Blofin emphasizes that expectations of rate cuts may support the ETH price, but the pricing of Ethereum tail risk indicates &#8220;increased pessimism&#8221; regarding significant events impacting the ETH price, with spot Ethereum ETFs seen as a potential trigger.  Related Reading: Bitcoin Suffers Massive Drop On BitMEX, Is The Rally Over? Finally, Blofin explains that the high leverage of altcoins has long been a “source of risk” in the cryptocurrency market. The recent price decline has led to the liquidation of many highly leveraged altcoin positions, resulting in lower annualized funding rates for perpetual contracts.  This deleveraging of altcoins, coupled with their relatively small market share of less than 20%, has helped to mitigate risk and contribute to market stability, according to the report. However, despite the overall decline in altcoin leverage, speculation in meme coins continues. At present, the price of Bitcoin stands at $62,500, reflecting a significant decline of 7.5% within the last 24 hours. Similarly, Ethereum is trading at $3,276, experiencing a 6.8% drop during the same period. Featured image from Shutterstock, chart from TradingView.com"
+    "date": "2024-03-20T13:00:36.000Z",
+    "title": "Bitcoin Supply On Exchanges Hit 4-Year Low, But Why Is Price Crashing?",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-supply-on-exchanges-2/",
+    "description": "Certain Bitcoin fundamentals suggest the flagship crypto token is well primed for further growth in this bull market. However, its recent price decline has sparked concerns about the reason for this downward trend despite everything pointing to a sustained upward movement.  Bitcoin Supply On Exchanges Hit 4-Year Low Data from the on-chain analysis platform CryptoQuant highlighted that the supply of Bitcoin on exchanges has seen nearly a 40% drop in 4 years and is reducing ahead of the Bitcoin halving. This underscores the bullish sentiment around the Bitcoin ecosystem as the decreasing supply on supply suggests that most investors have no plans to sell their holdings anytime soon.  Related Reading: Is Ripple Behind The XRP Price Crash? Massive Selling Spree Sparks Concern The CryptoQuant data also noted that Bitcoin’s demand is outpacing its supply, which is said to have been the prevailing trend since 2020. This development offers a bullish narrative as it can continue to increase Bitcoin’s value since “scarcity boosts perceived value.” This trend is also expected to be sustained once the Halving occurs since miners’ supply will be cut in half.  Interestingly, the imbalance between Bitcoin’s demand and supply has led crypto analysts like MacronautBTC to believe that BTC’s price could rise to as high as $237,000. As such, there are still high expectations for Bitcoin despite the crypto token hitting a new all-time high (ATH) of $73,750.  Why Bitcoin’s Price Is Crashing Crypto analyst Alex Kruger has outlined different reasons why Bitcoin’s price is crashing despite its strong fundamentals. The first reason he alluded to was the fact that crypto traders in the derivatives market look to be overleveraged, possibly because greed seems set to be setting in with traders deploying more capital in anticipation of further price surges.  Kruger mentioned that the ETH could also be dragging the market down with the hopes of the SEC (Securities and Exchange Commission) approving the Spot Ethereum ETFs waning. Bitcoinist recently reported that the approval odds for these investment funds have plummeted immensely in the past few months, dropping to an alarming 35%.  Related Reading: Dogecoin Growth Hits Roadblock As Holder Activity Enters Dreaded Period Of Stagnancy The third reason that Kruger mentioned is the negative Bitcoin ETF inflows, which have become a trend lately. Interest in these Bitcoin funds has cooled off, with investors opting to take profit instead. On March 19, BitMEX Research revealed that these ETFs saw a record net outflow of $326m.  Crypto trader and analyst Rekt Capital also suggested that Bitcoin is already in the ‘Final Pre-Halving Retrace.’ Therefore, significant price corrections can be expected ahead of the Halving event, which is set to take place in April.  At the time of writing, Bitcoin is trading at around $63,000, down in the last 24 hours, according to data from CoinMarketCap.  BTC rises above $64,000 &#124; Source: BTCUSD on Tradingview.com Featured image from Financial Commission, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-20T12:23:44.000Z",
-    "title": "Crypto Analyst Identifies ‘Super Strong’ Altcoin, Forecasts Over 100% Rally Amidst Market Volatility",
-    "url": "https://www.crypto-news-flash.com/crypto-analyst-identifies-super-strong-altcoin-forecasts-over-100-rally-amidst-market-volatility/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-analyst-identifies-super-strong-altcoin-forecasts-over-100-rally-amidst-market-volatility",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market-.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market-.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-20-13.12.13-A-dynamic-and-vivid-digital-artwork-illustrating-the-theme-Crypto-Analyst-Identifies-Super-Strong-Altcoin-Forecasts-Over-100-Rally-Amidst-Market--450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Pseudonymous analyst Altcoin Sherpa predicts significant growth for Solana (SOL) and emphasizes the strength of rss3 and Ondo Finance (ONDO) amidst market volatility. Acknowledging potential short-term pullbacks, Altcoin Sherpa remains bullish on these altcoins, highlighting their unique strengths in the current crypto landscape. Following CNF&#8217;s earlier report on Bill Ackman&#8217;s consideration of a Bitcoin investment, [...]"
+    "date": "2024-03-20T13:25:20.000Z",
+    "title": "BTC Price Drops to Two-Week Low Amidst Cooling ETF Demand and Federal Reserve Worries",
+    "url": "https://www.crypto-news-flash.com/btc-price-drops-to-two-week-low-amidst-cooling-etf-demand-and-federal-reserve-worries/?utm_source=rss&utm_medium=rss&utm_campaign=btc-price-drops-to-two-week-low-amidst-cooling-etf-demand-and-federal-reserve-worries",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Halving\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Bitcoin-BTC-coin-with-grey-trading-chart-background-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />Outflows from all nine Bitcoin ETFs on Tuesday amounted to $326 million, highlighting a notable shift in market sentiment, especially among institutional investors anticipating the FOMC decision. Bitcoin&#8217;s decline is compounded by uncertainty surrounding the Federal Reserve&#8217;s response to inflation, impacting the broader cryptocurrency market. The world&#8217;s largest cryptocurrency Bitcoin (BTC) has entered a steep [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-20T12:12:00.000Z",
-    "title": "Bitget Wallet Reaches 20 Million Users, Becoming the Fourth Largest Global Web3 Wallet",
-    "url": "https://www.crypto-news-flash.com/bitget-wallet-reaches-20-million-users-becoming-the-fourth-largest-global-web3-wallet/?utm_source=rss&utm_medium=rss&utm_campaign=bitget-wallet-reaches-20-million-users-becoming-the-fourth-largest-global-web3-wallet",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t-300x180.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t-768x461.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t-150x90.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/200M_users_1710935500F51QHTdJ7t-450x270.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Victoria, Seychelles, March 20th, 2024, Chainwire In a significant milestone for the industry, Bitget Wallet, the leading Web3 wallet in Asia, has announced that its global user base has exceeded the 20 million mark, establishing it as the fourth largest wallet worldwide. This achievement coincides with the launch of the platform&#8217;s token, BWB, alongside a [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-20T12:46:45.000Z",
+    "title": "Grab Accepts Bitcoin and Stablecoins",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/grab-accepts-bitcoin-and-stablecoins/",
+    "description": "<p>Grab will accept Bitcoin and stablecoins for payments, marking a major shift towards digital currency in the region. Grab&#8217;s acceptance of cryptocurrencies signifies a key milestone for Southeast Asia&#8217;s digital economy and global crypto acceptance. Grab Leads Crypto Adoption in Southeast Asia Grab&#8217;s integration of Bitcoin and stablecoins modernizes and diversifies the region&#8217;s financial landscape. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/grab-accepts-bitcoin-and-stablecoins/\">Grab Accepts Bitcoin and Stablecoins</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-20T12:15:00.000Z",
-    "title": "Ethereum ETF Optimism Drops As The SEC Delays Hashdex’s ETF Approval",
-    "url": "https://coinedition.com/ethereum-etf-optimism-drops-as-the-sec-delays-hashdexs-etf-approval/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethereum ETF Optimism Drops As The SEC Delays Hashdex’s ETF Approval\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2.png 730w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/02/Franklin_Templeton_Joins_Ethereum_ETF_Rally_Applies_for_ETF_Launch-2-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>James Seyffart, a renowned ETF analyst, believes the U.S. Security and Exchange Commission (SEC) will ultimately deny the spot Ethereum ETF applications by May 23, 2024. In a recent post on X, Seyffart noted that his cautiously optimistic attitude towards ETH ETFs has changed recently. According to him, the SEC hasn&#8217;t engaged with issuers on [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethereum-etf-optimism-drops-as-the-sec-delays-hashdexs-etf-approval/\">Ethereum ETF Optimism Drops As The SEC Delays Hashdex’s ETF Approval</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-20T13:25:35.000Z",
+    "title": "Unlocking Opportunities: Top 3 Best Crypto To Buy Now for 2024",
+    "url": "https://coinedition.com/unlocking-opportunities-top-3-best-crypto-to-buy-now-for-2024/",
+    "description": "<img width=\"2048\" height=\"1152\" src=\"https://coinedition.com/wp-content/uploads/2024/03/jkghiug.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/jkghiug.png 2048w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-1024x576.png 1024w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-768x432.png 768w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-1536x864.png 1536w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-127x70.png 127w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-791x445.png 791w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/jkghiug-355x200.png 355w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" /><p>The crypto market has been on the news for over a month now. The market news suggests that currencies have outperformed every statistic that they had in the last two years. If you follow this market news, you’ll know certain crypto coins have skyrocketed in this bullish market. A move to buy these crypto tokens [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/unlocking-opportunities-top-3-best-crypto-to-buy-now-for-2024/\">Unlocking Opportunities: Top 3 Best Crypto To Buy Now for 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,128 +1,30 @@
 [
   {
-    "source": "CryptoGlobe",
-    "date": "2024-03-20T07:57:01.000Z",
-    "title": "$BTC: Galaxy Digital’s Global Head of Trading Explains Rationale for His $125K Price Forecast for Bitcoin",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/btc-galaxy-digitals-global-head-of-trading-explains-rationale-for-his-125k-price-forecast-for-bitcoin/",
-    "description": "In recent weeks, the cryptocurrency community has witnessed Bitcoin’s thrilling ascent to new all-time highs, only to see it retreat below the $63,000 mark. According to data from TradingView, although the Bitcoin price got as high as $73,794 on crypto exchange Bitstamp on March 14, it fell to as low as $61,447 yesterday. This rollercoaster […]\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-20T08:05:22.000Z",
-    "title": "zbyte’s SDK Launch: Igniting a New Era in Web3 Growth and Mass Adoption for Creators",
-    "url": "https://cryptodaily.co.uk/2024/03/zbytes-sdk-launch-igniting-a-new-era-in-web3-growth-and-mass-adoption-for-creators",
-    "description": "zbyte’s SDK Launch: Igniting a New Era in Web3 Growth and Mass Adoption for Creators"
+    "source": "Cointelegraph",
+    "date": "2024-03-20T08:26:34.000Z",
+    "title": " ParaSwap evades hack targeting Augustus v6 contract vulnerability ",
+    "url": "https://cointelegraph.com/news/paraswap-hack-augustus-v6-contract-vulnerability",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZTk3ZjFhODgtZGI0YS00NWZmLWI3NmYtMThjNzA2YWU4MTc0LkpQRw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>ParaSwap paused the V6 API soon after discovering the vulnerability and secured the potential victims’ funds through a white hack. Plans to reimburse potential victims are underway.</p>\n                    <p><p data-ct-non-breakable=\"true\"><a href=\"https://cointelegraph.com/learn/defi-a-comprehensive-guide-to-decentralized-finance\">Decentralized finance (DeFi)</a> aggregator ParaSwap discovered a vulnerability in its newly launched Augustus V6 contract and prevented a colossal loss of funds through timely white hat intervention.</p><p>On March 18, the ParaSwap Augustus v6 went live, promising greater efficiency in swapping gas fees than all its preceding contracts. The contract contained a critical vulnerability that would allow hackers to drain funds when approved.</p><p>Soon after discovering the vulnerability, on March 20, ParaSwap paused the v6 application prog interface (API) and secured the potential victims’ funds through a white hack. </p><p><a href=\"https://cointelegraph.com/news/paraswap-hack-augustus-v6-contract-vulnerability\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-20T08:09:24.000Z",
-    "title": "Ripple-SEC agreement sets course for transparent XRP lawsuit progress",
-    "url": "https://www.cryptopolitan.com/ripple-sec-agreement-sets-course-xrp-lawsuit/",
-    "description": "In the ongoing legal battle between Ripple Labs Inc. and the U.S. Securities and Exchange Commission (SEC) over the status of XRP, both parties have recently submitted a joint sealing proposal to the United States District Court for the Southern District of New York.&#160; Structured timeline in Ripple-SEC legal battle This proposal outlines a structured [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T08:06:03.000Z",
-    "title": "zbyte’s SDK Launch: Igniting a New Era in Web3 Growth and Mass Adoption for Creators",
-    "url": "https://www.cryptopolitan.com/zbytes-sdk-launch-igniting-a-new-era-in-web3-growth-and-mass-adoption-for-creators/",
-    "description": "Cayman, Cayman Islands, March 20th, 2024, Chainwire zbyte, the trailblazing Web3 infrastructure platform, announces the launch of its groundbreaking SDK, setting a new standard in the ease of blockchain development and accelerating the growth of Web3 ecosystems. This SDK launch is a pivotal step in zbyte&#8217;s mission to democratize blockchain technology, making it accessible and [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T08:05:56.000Z",
-    "title": "Apple’s AI Strategy: Balancing Innovation and Investor Expectations",
-    "url": "https://www.cryptopolitan.com/apples-ai-strategy-and-investor-expectations/",
-    "description": "In a recent turn of events, Apple&#8217;s AI strategy has sparked debates and concerns among tech enthusiasts and investors alike. The company&#8217;s decision to potentially collaborate with Google on integrating Gemini AI features into iPhones has raised questions about its commitment to innovation versus appeasing shareholders. Let&#8217;s explore the nuances of Apple&#8217;s AI strategy and [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T07:55:37.000Z",
-    "title": "Avalanche Price Prediction 2024-2033: Time to Buy AVAX?",
-    "url": "https://www.cryptopolitan.com/avalanche-price-prediction/",
-    "description": "Avalanche Price Prediction 2024-2033 Here’s a thought: The value of an AVAX token is tied to the usefulness of the Avalanche platform. If people want to use the Avalanche platform, AVAX tokens rise in value. Conversely, the AVAX token won’t be as useful for an investment portfolio if the platform becomes obsolete or unpopular. Do [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T07:50:15.000Z",
-    "title": "China in Caring Grandson Uses Deepfake to Comfort Grandmother",
-    "url": "https://www.cryptopolitan.com/china-uses-deepfake-to-comfort-grandmother/",
-    "description": "In a heartwarming display of familial love and innovation, a grandson from Liaoning, China, utilized deepfake technology to alleviate his frail grandmother&#8217;s distress. Following the death of his father due to a rare form of cancer, the grandson, identified only as Sun, embarked on a remarkable journey to shield his grandmother from the heartbreak of [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T07:43:51.000Z",
-    "title": "Visual AI Revolution: How Leopard Imaging’s Nova Orin is Empowering Autonomous Mobile Robots",
-    "url": "https://www.cryptopolitan.com/visual-ai-autonomous-mobile-robots/",
-    "description": "Leopard Imaging, a pioneer in cutting-edge visual AI solutions, has set the stage for a groundbreaking transformation in autonomous mobile robotics. With the launch of their latest innovation, Nova Orin, Leopard Imaging is poised to redefine the landscape of automation. Nova Orin offers unparalleled capabilities powered by advanced visual AI technology. Hence, the revolutionary development [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-20T07:40:15.000Z",
-    "title": "BNB, RNDR Holders Eye Algotech’s 100x Potential as AI Coins Dominate Market",
-    "url": "https://www.cryptopolitan.com/bnb-rndr-holders-eye-algotechs-100x-potential-as-ai-coins-dominate-market/",
-    "description": "Investors in the crypto market are always attracted to opportunities where they see promising performance and potentially high returns. Currently, the spotlight is on an emerging platform that has gained the attention of BNB and Render (RNDR) holders alike.&#160; As AI coins dominate the crypto industry, the possibility of Algotech’s 100x potential has intrigued many [&#8230;]"
+    "date": "2024-03-20T08:20:56.000Z",
+    "title": "Rise of the Chief AI Officer in Marketing: Revolutionizing Strategy and Innovation",
+    "url": "https://www.cryptopolitan.com/rise-of-the-chief-ai-officer-in-innovation/",
+    "description": "The Chief AI Officer (CAIO) is emerging as a pivotal role within marketing departments, spearheading innovation and strategy through the integration of artificial intelligence (AI) technologies. As the digital landscape evolves, major brands are increasingly recognizing the necessity of appointing CAIOs to navigate the complexities of AI implementation and leverage its potential to enhance marketing [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-20T07:51:51.000Z",
-    "title": "Trezor X account compromised as hackers push phony Solana token",
-    "url": "https://crypto.news/trezor-x-account-compromised-as-hackers-push-phony-solana-token/",
-    "description": "Cybercriminals targeted Trezor, a hardware wallet provider, in a sophisticated hack, stealing at least $8,100. The breach was first brought to light by renowned on-chain detective ZachXBT, who issued an alert regarding suspicious activities on Trezor’s social media account X.&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-20T07:48:24.000Z",
-    "title": "Binance Labs-backed MobileCoin faces delisting from Binance",
-    "url": "https://crypto.news/binance-labs-backed-mobilecoin-faces-delisting-from-binance/",
-    "description": "MobileCoin, having raised $29.7 million in a funding round led by Binance Labs in 2018, is now undergoing delisting from the trading platform. In a press release on Mar. 20, Binance announced that MobileCoin (MOB), a privacy-focused token, along with&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-20T07:44:26.000Z",
-    "title": "Why is crypto down today? The market-wide cooldown",
-    "url": "https://crypto.news/why-is-crypto-down-today-the-market-wide-cooldown/",
-    "description": "The global crypto market has been witnessing bearish sentiment over the past week after the leading cryptocurrency reached a new all-time high (ATH). According to data provided by CoinGecko, the total crypto market cap has declined by over $450 billion&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-20T07:42:26.000Z",
-    "title": "Stellar and Tron traders explore Raffle Coin presale",
-    "url": "https://crypto.news/stellar-and-tron-traders-explore-raffle-coin-presale/",
-    "description": "Raffle Coin is attracting attention from Stellar and Tron traders for its approach to combining raffles with cryptocurrency. This interest suggests that Raffle Coin may offer a distinctive blend of security features and engaging gaming experiences. #partnercontent"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-20T07:59:28.000Z",
-    "title": "Bitcoin Plunges: Historic Single-Day Drop Mirrors FTX’s Collapse Fallout",
-    "url": "https://www.crypto-news-flash.com/bitcoin-plunges-historic-single-day-drop-mirrors-ftxs-collapse-fallout/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-plunges-historic-single-day-drop-mirrors-ftxs-collapse-fallout",
-    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-300x175.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-768x448.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-150x88.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/pexels-karolina-grabowska-5980866-450x263.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Bitcoin plunged by 8% on Tuesday, a historic single-day fall for the first time since the FTX exchange collapsed. According to an analyst, the market is reacting to the negative inflow of Bitcoin ETF, as well as the fading hope of an Ethereum (ETH) ETF approval in May.  Bitcoin (BTC) grabs headlines once again following [...]"
+    "date": "2024-03-20T08:23:11.000Z",
+    "title": "Fezoo exchange piques interest amid AVAX buzz, ETH upgrade",
+    "url": "https://crypto.news/fezoo-exchange-piques-interest-amid-avax-buzz-eth-upgrade/",
+    "description": "As the cryptocurrency market adjusts to technological upgrades and market shifts, the emerging Fezoo exchange is gaining interest from Ethereum and Avalanche investors. #partnercontent"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-03-20T08:08:04.000Z",
-    "title": "Cardano Summit 2024 Main Stage Location Announced",
-    "url": "https://coinedition.com/cardano-summit-2024-main-stage-location-announced/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/CARDANO-2024-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The Summit will provide both new and returning attendees with the chance to foster connections and drive the use of blockchain technology into new frontiers. Attendees will have the opportunity to learn from experts, establish relationships, and find inspiration as to how blockchain can bridge the gap between digital innovation and solving real-world problems. The [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/cardano-summit-2024-main-stage-location-announced/\">Cardano Summit 2024 Main Stage Location Announced</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-20T08:06:00.000Z",
-    "title": "zbyte’s SDK Launch: Igniting a New Era in Web3 Growth and Mass Adoption for Creators",
-    "url": "https://coinedition.com/zbytes-sdk-launch-igniting-a-new-era-in-web3-growth-and-mass-adoption-for-creators/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/Main_Press_Release_1710794039G1RGO1HkGe-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>Cayman, Cayman Islands, March 20th, 2024, Chainwire zbyte, the trailblazing Web3 infrastructure platform, announces the launch of its groundbreaking SDK, setting a new standard in the ease of blockchain development and accelerating the growth of Web3 ecosystems. This SDK launch is a pivotal step in zbyte&#8217;s mission to democratize blockchain technology, making it accessible and [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/zbytes-sdk-launch-igniting-a-new-era-in-web3-growth-and-mass-adoption-for-creators/\">zbyte’s SDK Launch: Igniting a New Era in Web3 Growth and Mass Adoption for Creators</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-20T07:49:25.000Z",
-    "title": "VaultTech Announces Beta Testing for Crypto Services Mobile Application",
-    "url": "https://coinedition.com/vaulttech-announces-beta-testing-for-crypto-services-mobile-application/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/VaultTech_Announces_Beta_Testing_for_Crypto_Services_Mobile_Application-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>VaultTech, an ecosystem for providing a range of crypto services, shared their excitement for their upcoming Vault mobile application. The crypto firm commenced signing up for beta testing listings, claiming that users can win 5K USDT upon signing. According to a recent announcement, the Vault App will launch on Apple iOS and Android, enabling users [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/vaulttech-announces-beta-testing-for-crypto-services-mobile-application/\">VaultTech Announces Beta Testing for Crypto Services Mobile Application</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-20T07:46:58.000Z",
-    "title": "$8,100 Stolen as Trezor’s Twitter Account Hacked to Push Fraud Presale",
-    "url": "https://coinedition.com/8100-stolen-as-trezors-twitter-account-hacked-to-push-fraud-presale/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8.jpg 730w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/03/Crypto-Hack-8-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The X/Twitter account of Trezor, a major crypto hardware wallet solution provider, has recently been compromised by bad actors promoting fraudulent presales. Prominent crypto surveillance entities, including ZachXBT, have called attention to this development. Per the disclosure, some fraudsters took over Trezor’s X account a few hours ago and used it to announce a sham [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/8100-stolen-as-trezors-twitter-account-hacked-to-push-fraud-presale/\">$8,100 Stolen as Trezor’s Twitter Account Hacked to Push Fraud Presale</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-20T08:18:40.000Z",
+    "title": "Interview with “Social Monster” UXLINK: How to Shake Up the Web3.0 “Acquaintance Social” Market?",
+    "url": "https://coinedition.com/interview-with-social-monster-uxlink-how-to-shake-up-the-web3-0-acquaintance-social-market/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/pr-3-53.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/pr-3-53.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/pr-3-53-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>UXLINK, a Web3.0 social platform and infrastructure project focusing on “acquaintance social”, is making waves as the “Social Monster” in the community. The aim of UXLINK is to foster trust, drive higher growth, and increase viral efficiency for users through mutual acquaintance relationships. Since the launch of UXLINK and the integration of EOA accounts into [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/interview-with-social-monster-uxlink-how-to-shake-up-the-web3-0-acquaintance-social-market/\">Interview with “Social Monster” UXLINK: How to Shake Up the Web3.0 “Acquaintance Social” Market?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

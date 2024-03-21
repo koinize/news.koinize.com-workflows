@@ -1,44 +1,114 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-21T16:22:29.000Z",
+    "date": "2024-03-21T16:54:09.000Z",
     "title": "Protocol Village: Fluence's 'Cloudless Platform' Goes Live as Alternative to AWS, Google Cloud",
     "url": "https://www.coindesk.com/tech/2024/03/20/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
     "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 21-26."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-03-21T16:20:28.000Z",
-    "title": "Coinbase-backed Base leads in Ethereum layer-2 fees amid trading activity surge",
-    "url": "https://cryptoslate.com/coinbase-backed-base-leads-in-ethereum-layer-2-fees-amid-trading-activity-surge/",
-    "description": "<p>Coinbase-backed Base has the highest transaction fees among Ethereum layer-2 networks due to the current wave of attention it enjoys among crypto traders. Gasfees data shows that Base is the priciest layer-2 protocol among scaling solutions that have implemented the Dencun Upgrade&#8217;s Blobs feature. The feature significantly reduces transaction fees and enhances throughput for layer-2 [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-backed-base-leads-in-ethereum-layer-2-fees-amid-trading-activity-surge/\">Coinbase-backed Base leads in Ethereum layer-2 fees amid trading activity surge</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
     "source": "Crypto Briefing",
-    "date": "2024-03-21T16:15:06.000Z",
-    "title": "BlackRock debuts BUIDL, its first tokenized fund on Ethereum",
-    "url": "https://cryptobriefing.com/blackrock-buidl-tokenized-fund-ethereum/",
-    "description": "BlackRock has launched its first Ethereum-based tokenized fund, BUIDL, to offer investors secure, tokenized investment opportunities."
+    "date": "2024-03-21T17:00:35.000Z",
+    "title": "Infusion Protocol enhances DEX stability on Base with timelock feature",
+    "url": "https://cryptobriefing.com/infusion-dex-timefused-liquidity/",
+    "description": "Infusion launches on Base Layer 2, introducing timefused liquidity to DEXs for enhanced stability and predictability in the DeFi ecosystem."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-03-21T16:30:58.000Z",
-    "title": "Navigating the Bitcoin Halving: Glassnode Report Discusses a New Trading Landscape ",
-    "url": "https://news.bitcoin.com/navigating-the-bitcoin-halving-glassnode-report-discusses-a-new-trading-landscape/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Navigating the Bitcoin Halving: Glassnode Report Discusses a New Trading Landscape \" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As Bitcoin&#x2019;s network halving event draws near, Glassnode&#x2019;s latest report sheds light on the evolving trading strategies in the face of significant demand from ETFs, signaling a pivotal shift in the cryptocurrency market. Glassnode Report Unveils Shift in Bitcoin Trading Strategies Ahead of Halving In the countdown to Bitcoin&#x2019;s much-anticipated halving, the crypto community is [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-03-21T16:57:30.000Z",
+    "title": "Ethereum, Solana, Cardano Plunge in Unprecedented Crypto Market Shake-Up: IBET's Meteoric Rise Steals the Spotlight!",
+    "url": "https://cryptodaily.co.uk/2024/03/ethereum-solana-cardano-plunge-in-unprecedented-crypto-market-shake-up-ibets-meteoric-rise-steals-the-spotlight",
+    "description": "In an unexpected twist that has left investors on the edge of their seats, the cryptocurrency market has witnessed a jaw-dropping shift in dynamics."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T16:53:49.000Z",
+    "title": "Unveiling the Next Crypto Kings: Solana and Dogecoin's Explosive Potential Shocks Investors!",
+    "url": "https://cryptodaily.co.uk/2024/03/unveiling-the-next-crypto-kings-solana-and-dogecoins-explosive-potential-shocks-investors",
+    "description": "In the ever-volatile and fascinating world of cryptocurrency, the quest for the next digital asset that could offer astronomical returns is always on."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T16:49:31.000Z",
+    "title": "Bittensor (TAO) and Arbitrum (ARB) Advocates Align with Kelexo's (KLXO) Presale, Confident in Its Path to Overcome Market Fluctuations with 20X Gains",
+    "url": "https://cryptodaily.co.uk/2024/03/bittensor-tao-and-arbitrum-arb-advocates-align-with-kelexos-klxo-presale-confident-in-its-path-to-overcome-market-fluctuations-with-20x-gains",
+    "description": "A top crypto analyst has suggested that smart investors begin to buy into the presale activity of tokens. The market is witnessing price stabilization following its just concluded surge. Investors are bound to lose some of their gains but can buy presale tokens to diversify their losses."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T16:44:31.000Z",
+    "title": "Will Solana Skyrocket to $300? Eye-Opening 2024 Predictions Every Solana Investor Must See!",
+    "url": "https://cryptodaily.co.uk/2024/03/will-solana-skyrocket-to-300-eye-opening-2024-predictions-every-solana-investor-must-see",
+    "description": "In the rapidly evolving world of cryptocurrency, where fortunes are made and lost overnight, Solana has emerged as a beacon for savvy investors."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T16:40:09.000Z",
+    "title": "NEAR Protocol (NEAR) & Chainlink (LINK) Supporters Forecast a Bright E-Commerce Future with Pushd (PUSHD): 20X Predicted",
+    "url": "https://cryptodaily.co.uk/2024/03/near-protocol-near-chainlink-link-supporters-forecast-a-bright-e-commerce-future-with-pushd-pushd-20x-predicted",
+    "description": "The shifting dynamics cutting across tech to fashion to housing have finally landed in the crypto ecosystem. Investors are now jettisoning the common crypto tokens for tokens that align with the present dynamics and can stand the test of time."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-21T16:31:56.000Z",
-    "title": "From Reactive to Proactive: The Evolution of Cybersecurity",
-    "url": "https://www.cryptopolitan.com/the-evolution-of-cybersecurity/",
-    "description": "In a rapidly evolving digital landscape where conventional cyber defense mechanisms fall short against sophisticated threats, AI-driven strategies have ushered in a new era of cybersecurity resilience. Spearheading this transformative journey is Tomer Weingarten, the visionary founder and CEO of SentinelOne, whose pioneering work has redefined industry standards. Revolutionizing cybersecurity through AI integration Recognizing the [&#8230;]"
+    "date": "2024-03-21T16:48:37.000Z",
+    "title": "Home, Garden, and Furniture Retailers Embrace Technology to Meet Shifting Consumer Demands",
+    "url": "https://www.cryptopolitan.com/home-garden-and-furniture-retailers/",
+    "description": "In the wake of the COVID-19 pandemic, the home, garden, and furniture retail sector witnessed a significant transformation as consumers pivoted towards online shopping channels. However, even as the pace of online growth stabilizes, consumer preferences demand a seamless omnichannel experience, posing challenges for retailers and brands.&#160; Addressing this demand requires a fundamental rethink of [&#8230;]"
   },
   {
     "source": "NullTX",
-    "date": "2024-03-21T16:25:51.000Z",
-    "title": "Standard Chartered’s New BTC Forecast Pushes Investors into Algotech",
-    "url": "https://nulltx.com/standard-chartereds-new-btc-forecast-pushes-investors-into-algotech/",
-    "description": "Standard Chartered has captured the attention of the crypto world with its revised predictions, notably increasing its year-end forecast for Bitcoin (BTC) to an impressive $150,000, marking a substantial 50% hike from earlier projections.  The bank also casts a promising light on Ethereum (ETH), anticipating a notable rise in its [&#8230;]"
+    "date": "2024-03-21T17:00:48.000Z",
+    "title": "Global Sensation BlockDAG Hits $6.2 Million in Presale, Sinks Hype About Akash Network and Arweave",
+    "url": "https://nulltx.com/global-sensation-blockdag-hits-6-2-million-in-presale-sinks-hype-about-akash-network-and-arweave/",
+    "description": "Diving into the Akash Network launch, we unveil a seismic shift in crypto with AKT&#8217;s unprecedented ascent. Turning our gaze to the Arweave price climb and its expanding role in data storage paints a bright future. Amidst these developments, BlockDAG (BDAG) is a compelling candidate for the best crypto to [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-21T17:04:28.000Z",
+    "title": "Stablecoin market capitalization sets record, surpasses $150b mark",
+    "url": "https://crypto.news/stablecoin-market-cap-record/",
+    "description": "On March 21, the market capitalization of stablecoins reached $150 billion for the first time in 18 months."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-21T16:52:49.000Z",
+    "title": "Blockchain game on Blast suffers $5m mint exploit ",
+    "url": "https://crypto.news/blast-blockchain-game-mint-exploit/",
+    "description": "A blockchain game native to layer-2 solution Blast suffered a tokens exploit hours before its gaming product launched."
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-21T16:45:42.000Z",
+    "title": "Vitalik Buterin supports ‘rainbow staking’ to fight centralization issues",
+    "url": "https://crypto.news/vitalik-buterin-rainbow-staking/",
+    "description": "Ethereum Co-Founder Vitalik Buterin spoke at the ETHTaipei 2024 event, which takes place in Taipei from March 21 to 24."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-21T17:00:21.000Z",
+    "title": "Don’t Panic: The Bitcoin Bull Market Is Far From Over, Quant Says",
+    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-bull-market-far-from-over/",
+    "description": "Amidst the recent Bitcoin pullback from its previous all-time high above $73,000, Ki Young Ju, the founder and Chief Executive Officer (CEO) of Crypto Quant, reassures the broader crypto community that the BTC bull market is far from over.  Bitcoin Bulls Are Not Done In a recent X (formerly Twitter) post, Ju expressed strong bullish sentiment regarding Bitcoin, highlighting factors that suggest that Bitcoin’s upward trajectory is likely to continue. The Crypto Quant CEO shared a crucial indicator depicted in a price chart, showcasing the percentage of Realized Cap across four age bands for BTC.  Related Reading: Top 3 Solana Meme Coins To Buy Amid The Bitcoin Crash That Could 10x According to data from the price chart, the observed trends from the Realized Cap of four age bands from 6 months to three years indicate a positive outlook for BTC in 2024.  Additionally, the CEO has stated that the primary catalyst behind Bitcoin’s rise to new all-time highs is the success of the Spot Bitcoin ETF, rather than the upcoming Bitcoin halving event in April.  After the introduction of Spot Bitcoin ETFs, BitcoBTCin embarked on an exponential rally, reaching heights not witnessed since its previous bull run in 2021. The cryptocurrency rose to record highs, surpassing $73,000 previously, but experienced a major pullback of about 8.33% over the past week. At the time of writing, Bitcoin’s price is below $70,000, trading at $67,225, according to CoinMarketCap. Ju has revealed possibilities for even more declines, predicting a potential price drop of 50% for the cryptocurrency if a maximum drawdown of 30% occurs. The CEO has stated that for this event to happen, new whales, particularly ETF buyers, will have to enter the Bitcoin market at $56,000 on average.  While this outlook may seem bleak, the Crypto Quant founder has also expressed strong belief in the continuation of the BTC bull market, contingent upon the sustained momentum of ETF inflows.   Retail Investors Still Making Their Way Into The Market Reinforcing his belief that “Bitcoin is still in the middle of the bull cycle,” Ju asserts that the cryptocurrency’s cyclic top has not yet been breached. The CEO suggested that more price upswings were still set for Bitcoin, as retail investors have not fully entered the market yet.   Related Reading: Shiba Inu Sees A Shift: Short Term Holders Take Possession Of 23 Trillion SHIB According to the Crypto Quant founder, only 50% of retail investors have entered the market, indicating the halfway point towards “Bitcoin euphoria”. This suggests that if more retail investors flood the market, BTC could potentially rise to new peaks, driven by increased demand and capital inflows.  Echoing Ju’s convictions about Bitcoin’s long-term price increase, Bitcoin analyst Willy Woo encourages investors to embrace the dip during the present consolidation phase. The analyst confidently asserts that “this is not the top,” but rather a simple period of consolidation reminiscent of previous all-time highs.  BTC bulls begin to reclaim control &#124; Source: BTCUSD on Tradingview.com Featured image from Decrypt, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-21T16:45:37.000Z",
+    "title": "University of Bologna Unveils DIVA: VANET Project Leveraging DAG and IOTA for Enhanced Vehicle Communication",
+    "url": "https://www.crypto-news-flash.com/university-of-bologna-unveils-diva-vanet-project-leveraging-dag-and-iota-for-enhanced-vehicle-communication/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-bologna-unveils-diva-vanet-project-leveraging-dag-and-iota-for-enhanced-vehicle-communication",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"IOTA-logo-with-golden-digital-background.\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/IOTA-logo-with-golden-digital-background-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />The DIVA project by the University of Bologna boosts trust in in-vehicle communication with DAG &#38; IOTA tech, making roads safer. ETSI-compliant DIVA system uses DLTs for secure transmission in VANETs, detecting malicious messages accurately. According to a recent research paper, the University of Bologna has unveiled DIVA, a pioneering project leveraging Distributed Ledger Technologies [...]"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-21T17:00:00.000Z",
+    "title": "Doge and Shiba Inu Drop 22% Forcing Holders To Safer Ground, New Trading Exchange Token Moves 400% in Weeks",
+    "url": "https://coinedition.com/doge-and-shiba-inu-drop-22-forcing-holders-to-safer-ground-new-trading-exchange-token-moves-400-in-weeks/",
+    "description": "<img width=\"1280\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44.jpg 1280w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-1024x576.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-768x432.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-127x70.jpg 127w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-791x445.jpg 791w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/photo_2024-03-21_17-16-44-355x200.jpg 355w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /><p>Dogecoin (DOGE) and Shiba Inu (SHIB) have both experienced a significant 22% drop, prompting holders to look for safer havens. Amidst this tumultuous backdrop, a new beacon of hope has emerged in the form of a trading exchange token, Option2Trade (O2T), which has remarkably surged by 400% in just a few weeks. This shift in [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/doge-and-shiba-inu-drop-22-forcing-holders-to-safer-ground-new-trading-exchange-token-moves-400-in-weeks/\">Doge and Shiba Inu Drop 22% Forcing Holders To Safer Ground, New Trading Exchange Token Moves 400% in Weeks</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-03-21T16:55:31.000Z",
+    "title": "MicroStrategy Gobbles Up Bitcoin Worth $623,000,000, Now Holds Over 1% of the BTC That Will Ever Exist",
+    "url": "https://dailyhodl.com/2024/03/21/microstrategy-gobbles-up-bitcoin-worth-623000000-now-holds-over-1-of-the-btc-that-will-ever-exist/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/03/enabling-payment-app-users.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>MicroStrategy continues to gobble up Bitcoin (BTC) amid the ongoing crypto bull market. MicroStrategy co-founder Michael Saylor says the firm used the proceeds from convertible notes and excess cash to buy an additional 9,245 BTC for approximately $623 million, at an average price of $67,382 per Bitcoin. The company now owns 214,246 BTC, which it [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/21/microstrategy-gobbles-up-bitcoin-worth-623000000-now-holds-over-1-of-the-btc-that-will-ever-exist/\">MicroStrategy Gobbles Up Bitcoin Worth $623,000,000, Now Holds Over 1% of the BTC That Will Ever Exist</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

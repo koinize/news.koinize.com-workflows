@@ -1,72 +1,100 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-21T10:04:27.000Z",
+    "title": "Dogecoin Climbs 18% on DOGE Futures Hopes, Bitcoin Nears $68K",
+    "url": "https://www.coindesk.com/markets/2024/03/21/dogecoin-climbs-18-on-doge-futures-hopes-bitcoin-nears-68k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Crypto markets dumped, then jumped, as regulatory headwinds and macroeconomic decisions played their hand in a rollercoaster 24 hours."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-21T10:07:43.000Z",
+    "title": "Bitcoin Surges Back as BTC Reclaims $67K",
+    "url": "https://decrypt.co/222714/bitcoin-surges-back-as-btc-reclaims-67k",
+    "description": "It's still not quite level with its price from a week ago—but then that was when BTC soared past $73,000 to set a new all-time high."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-21T10:02:08.000Z",
+    "title": " OKX terminates services in India, asks users to withdraw funds by April 30  ",
+    "url": "https://cointelegraph.com/news/okx-terminates-services-india-tells-users-withdraw-funds",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMDcwZmVhMzgtN2FmMi00NjhlLThmNTAtMDg0ZGMwOWJkMTUwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OKX was among the nine foreign crypto exchanges blocked in India after the FIU issued a non-compliance notice.</p>\n                    <p><p data-ct-non-breakable=\"true\">OKX cryptocurrency exchange is closing its services in India nearly three months after the Financial Intelligence Unit (FIU), an arm of the Indian Finance Ministry, <a href=\"https://cointelegraph.com/news/india-takes-steps-block-binance-huobi-other-global-crypto-exchange-urls\">issued a notice of non-compliance to nine foreign crypto exchanges</a>.</p><p>OKX notified its Indian users on March 21, asking them to close their accounts and redeem funds before April 30. The crypto exchange cited local regulatory hurdles as the key reason behind their step. </p><p>The FIU has requested the Ministry of Electronics and Information Technology block the websites of the notified crypto exchanges within two weeks of the notice. </p><p><a href=\"https://cointelegraph.com/news/okx-terminates-services-india-tells-users-withdraw-funds\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2024-03-21T09:24:26.000Z",
-    "title": "Memecoin donations pour in for BlackRock $100 million token fund partnered with Coinbase",
-    "url": "https://cryptoslate.com/blackrock-unveils-100-million-ethereum-token-fund-with-coinbase-as-key-partner/",
-    "description": "<p>Asset management firm BlackRock selected Coinbase as the key infrastructure provider for its tokenized investment fund, BlackRock USD Institutional Digital Liquidity Fund (BUIDL). According to BlackRock: &#8220;BUIDL seeks to offer a stable value of $1 per token and pays daily accrued dividends directly to investors&#8217; wallets as new tokens each month. The Fund invests 100% [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/blackrock-unveils-100-million-ethereum-token-fund-with-coinbase-as-key-partner/\">Memecoin donations pour in for BlackRock $100 million token fund partnered with Coinbase</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-21T09:59:59.000Z",
+    "title": "BlackRock IBIT faces near-record low with mere $49 million inflow on March 20",
+    "url": "https://cryptoslate.com/insights/blackrock-ibit-faces-near-record-low-with-mere-49-million-inflow-on-march-20/",
+    "description": "<p>Quick Take Recent data from BitMEX highlights a downward trend in the Bitcoin Exchange-Traded Funds (ETFs) sector, with the landscape experiencing consecutive outflows for the third consecutive day on March 20. The cumulative outflow reached $262 million on March 20, equating to approximately 3,901 BTC. Leading this wave of outflows is GBTC, which reported a [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/blackrock-ibit-faces-near-record-low-with-mere-49-million-inflow-on-march-20/\">BlackRock IBIT faces near-record low with mere $49 million inflow on March 20</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-03-21T10:02:47.000Z",
+    "title": "Coinbase Bets Big on Dogecoin ($DOGE) Futures, Defying Meme Coin Origins",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/coinbase-bets-big-on-dogecoin-doge-futures-defying-meme-coin-origins/",
+    "description": "Coinbase has announced plans to launch cash-settled futures contract products for Dogecoin, Litecoin, and Bitcoin Cash as early as April 1, 2024. The announcement, made through three separate letters to the United States Commodity Futures Trading Commission (CFTC) on March 7, highlights Coinbase’s belief in Dogecoin’s “enduring popularity” and its transcendence from a mere meme […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T10:09:37.000Z",
+    "title": "Kyle Davies Holds Ground: No Regrets Despite 3AC Fallout",
+    "url": "https://cryptodaily.co.uk/2024/03/kyle-davies-holds-ground-no-regrets-despite-3ac-fallout",
+    "description": "3AC co-founder Kyle Davies remains unapologetic for the downfall of 3AC, asserting his focus on future endeavors rather than past failures."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-21T09:40:08.000Z",
+    "title": "zkPass Joins BNB Chain Airdrop Alliance, Commits to Rewarding Network Contributors",
+    "url": "https://cryptodaily.co.uk/2024/03/zkpass-joins-bnb-chain-airdrop-alliance-commits-to-rewarding-network-contributors",
+    "description": "zkPass Joins BNB Chain Airdrop Alliance, Commits to Rewarding Network Contributors"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-03-21T09:30:21.000Z",
-    "title": "Avalanche to Launch Web3 Voucher Program on Alipay",
-    "url": "https://news.bitcoin.com/avalanche-to-launch-web3-voucher-program-on-alipay/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2115701876.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The smart contracts platform Avalanche recently said it is collaborating with the Chinese payments giant Alipay to launch a Web3-enabled voucher program. The second phase will see the proof of concept being expanded to more than 100 million users from Southeast Asian countries. Web3-Enabled Vouchers Avalanche, a smart contracts platform, has said it is working [&#8230;]"
+    "date": "2024-03-21T09:48:32.000Z",
+    "title": "Polygon Leaps Towards Future With Successful Napoli Hard Fork",
+    "url": "https://news.bitcoin.com/polygon-leaps-towards-future-with-successful-napoli-hard-fork/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Polygon Leaps Towards Future With Successful Napoli Hard Fork\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/7_news_bytes.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Polygon&#8217;s Napoli hard fork, incorporating the RIP-7212 upgrade, marks a significant advancement in interoperability with mainstream tech by introducing support for the elliptic curve digital signature algorithm commonly used across the internet. The upgrade also aligns with Ethereum&#8217;s recent Denchun hard fork improvements, enhancing block space efficiency, limiting self-destruct opcode scope, and reducing memory copying [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-21T09:39:18.000Z",
-    "title": "zkPass Joins BNB Chain Airdrop Alliance, Commits to Rewarding Network Contributors",
-    "url": "https://www.cryptopolitan.com/zkpass-joins-bnb-chain-airdrop-alliance-commits-to-rewarding-network-contributors/",
-    "description": "New York, United States, March 21st, 2024, Chainwire zkPass, announced its participation in the BNB Chain Airdrop Alliance Program. This strategic collaboration underlines a profound commitment to the community, emphasizing the vital importance of rewarding user engagement and loyalty. Through this initiative, a total of 4 million zkPass tokens are poised for distribution to both [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-21T09:27:38.000Z",
-    "title": "Coin base’s CLO Paul Grewal Stands Firm in Ethereum’s Defense Against SEC",
-    "url": "https://www.cryptopolitan.com/coin-bases-clo-paul-grewal-stands-firm-in-ethereums-defense-against-sec/",
-    "description": "Amid escalating regulatory scrutiny surrounding Ethereum (ETH), Paul Grewal, Chief Legal Officer (CLO) at Coinbase, has stepped forward to counter misinformation and defend the cryptocurrency&#8217;s status within the broader crypto landscape.&#160; Grewal&#8217;s assertions come in response to reports suggesting the U.S. Securities and Exchange Commission (SEC) is pushing to classify Ethereum as a security, sparking [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-21T09:10:53.000Z",
-    "title": "Huge Developments; Blackrock launches BUILD on Ethereum Network",
-    "url": "https://www.cryptopolitan.com/blackrock-launches-build/",
-    "description": "BlackRock has made significant strides today by introducing BUILD, its first tokenized fund on a public blockchain(Ethereum Network). The BlackRock USD Institutional Digital Liquidity Fund, also known as BUILD or the “Fund”, allows investors to earn interest in USD, through Securituze Markets LLC. Securitize Markets LLC spearheads the tokenization of real-world assets. It provides an [&#8230;]"
+    "date": "2024-03-21T10:08:39.000Z",
+    "title": "Celsius targets $2B in withdrawals to aid bankruptcy resolution",
+    "url": "https://www.cryptopolitan.com/celsius-targets-2b-in-withdrawals/",
+    "description": "In a recent development, the bankrupt cryptocurrency lending platform Celsius has initiated actions to reclaim funds withdrawn by customers shortly before its financial collapse. The firm&#8217;s move involves targeting individuals who withdrew significant amounts from April 14 to July 13, 2022, amounting to over $2 billion collectively. This period precedes the company&#8217;s declaration of bankruptcy [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-21T09:22:06.000Z",
-    "title": "Layerswap domain hijack ends, $100k stolen funds to be refunded",
-    "url": "https://crypto.news/layerswap-domain-hijack-ends-100k-stolen-funds-to-be-refunded/",
-    "description": "⁤Layerswap, a platform facilitating transactions between centralized cryptocurrency exchanges and layer-2 blockchains, has regained control over its domain after it was briefly hijacked, leading to the loss of approximately $100,000 from users. ⁤ The security breach occurred on March 20&#8230;"
+    "date": "2024-03-21T10:08:24.000Z",
+    "title": "AirDAO suffers exploit, hackers transfer stolen funds to MEXC, KuCoin, ChangeNOW",
+    "url": "https://crypto.news/airdao-suffers-exploit-hackers-transfer-stolen-funds-to-mexc-kucoin-changenow/",
+    "description": "A community-governed layer one blockchain AirDAO has reportedly suffered a hacker attack, resulting in a loss of 126.5 ETH and 41.61 million AMB tokens. The AirDAO team disclosed in an X post on Mar. 21 that the project had fallen&#8230;"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-21T09:20:03.000Z",
-    "title": "Sweden’s central bank says ‘problems may arise’ in offline CBDC payments",
-    "url": "https://crypto.news/swedens-central-bank-says-problems-may-arise-in-offline-cbdc-payments/",
-    "description": "In its latest report, Sweden&#8217;s Riksbank stressed the necessity for extensive technical and regulatory development to ensure secure offline payments with e-kronas. Sweden&#8217;s central bank, Riksbank, cautioned in its recent research note on CBDCs about the potential risks associated with&#8230;"
+    "date": "2024-03-21T09:44:14.000Z",
+    "title": "US police arrest MEV engineer connected to alleged $1.2 million rug",
+    "url": "https://crypto.news/us-police-arrest-mev-engineer-connected-to-alleged-1-2-million-rug/",
+    "description": "The U.S. law enforcement has apprehended Robert Robb, an MEV engineer known in the crypto community as “pokerbrat,” according to records from the Henderson Police authority. The reason behind the arrest, which happened on March 20, remains unknown as of&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-21T09:40:17.000Z",
+    "title": "Why Is Bitcoin Price Up Today? Key Reasons Explained",
+    "url": "https://www.newsbtc.com/news/bitcoin/why-is-bitcoin-price-up-today-key-reasons-explained/",
+    "description": "Within the last 24 hours, the market witnessed a significant rally in the Bitcoin price, which soared by 10% from a daily low of $60,805 to a peak of $68,250. This remarkable price movement can be attributed to several key factors, including yesterday’s Federal Open Market Committee (FOMC) meeting, a notable change in the Coinbase Premium, and Bitcoin&#8217;s technical breakout from a downtrend channel. #1 FOMC Meeting: Dovish Remarks By Jerome Powell Fuel Optimism As reported yesterday, the macro environment came back into focus for Bitcoin and crypto following the hotter than expected Consumer Price Index (CPI) and Producer Price Index (PPI) inflation data in the US. Investors seemed to have de-risked their positions prior to the FOMC event. However, investors got a favorable outcome. The pivot point for Bitcoin&#8217;s rally can be traced back to the Federal Reserve&#8217;s latest FOMC meeting, where Chairman Jerome Powell delivered a speech that the market interpreted as dovish. The Fed&#8217;s stance, especially in light of recent inflation data, has reassured investors. Related Reading: Bitcoin Pre-Halving Dip Expected: Will BTC Rally Before US Fed Decision? Crypto analyst Furkan Yildirim provided a summary of the FOMC&#8217;s key points: &#8220;The ‘Dot Plot’ projections show that the median official expects three quarter-percent cuts in 2024 [&#8230;] The FOMC voted unanimously to leave the federal funds rate unchanged [&#8230;] The median forecast for PCE inflation remains unchanged at 2.4% for 2024 [&#8230;] Officials have also raised forecasts for where they see interest rates in the long term.&#8221; The reaction to these announcements was immediately bullish in the traditional finance markets as well as Bitcoin and crypto. QCP Capital, a Singapore-based crypto asset trading firm, highlighted the dovish nature of the FOMC&#8217;s stance: &#8220;1. In Powell&#8217;s press conference speech, he was not concerned about the high inflation numbers in Jan and Feb. 2. In the dot plot, more members shifted their projection to 3 cuts in 2024 (9 members vs 6 in Dec).&#8221; Analyst Ted (@tedtalksmacro) further emphasized the positive implications: &#8220;FOMC summary: &#8211; 3x rate cuts happening this year despite inflation remaining above 2% (Fed expects core PCE at 2.6%). Growth outlook upgraded. Send it.&#8221; #2 Coinbase Premium Turns Green: A Sign Of Spot ETF Demand The Coinbase Premium&#8217;s shift to positive territory can be identified as another critical factor influencing Bitcoin&#8217;s price movement. While yesterday&#8217;s ETF flows were negative again for the third day in a row, the Bitcoin Coinbase Premium was a glimmer of hope that spot Bitcoin ETFs will further fuel price. CryptoQuant analyst Maartunn remarked: “Coinbase Premium is positive again. It&#8217;s around +$50. Beautiful.” The Coinbase Premium is crucial for BTC price in recent months as it reflects the demand from spot Bitcoin ETFs before the actual numbers are released one day later. Coinbase custodies eight of 11 spot Bitcoin ETFs or about 90% of the Bitcoin ETF assets as a result. Thus, Coinbase premium is crucial for a continued rally. Coinbase Premium is positive again. It&#39;s around +$50. Beautiful 😁 https://t.co/YJhYLdbipc pic.twitter.com/Hd3xXsg7Bq &#8212; Maartunn (@JA_Maartun) March 20, 2024 GBTC had $386.6 million worth of outflows yesterday. Notably, Blackrock only had $49.3 million of inflows, Fidelity had $12.9 million. This was one of the weakest inflow days for the leading Bitcoin ETFs so far &#8211; a huge disappointment. Related Reading: Bitcoin Price Crashes To $60,800: Is The Worst Over? Experts Weigh In But renowned crypto analyst WhalePanda remarked: “We pumped after the FOMC and overall it was better than what boomers expected. Price is now dumping on the news of negative flows but I think they&#8217;ll be in for a nice surprise tomorrow.&#8221; Yesterday&#39;s ETF flows were negative again for 3rd in a row.$GBTC had $386.6 million worth of outflows.Blackrock with only $49.3 million of inflows and Fidelity with $12.9 million. I have a suspicion that the actual flows will only be visible in tomorrow&#39;s numbers. We pumped… pic.twitter.com/WVTntqG1by &#8212; WhalePanda (@WhalePanda) March 21, 2024 #3 BTC Price Breaks Out Of Downtrend Channel On the technical front, Bitcoin&#8217;s breakout from a parallel downtrend channel has caught the attention of traders and analysts alike. Daan Crypto Trades highlighted the importance of this movement on X (formerly Twitter): “Bitcoin tested its 4H 200MA/EMA and has been holding nicely there and broke out. Still watching this channel which will dictate BTC&#8217;s next move.” #Bitcoin Tested its 4H 200MA/EMA and has been holding nicely there and broke out. Still watching this channel which will dictate $BTC&#39;s next move. Bulls would want to see this consolidate above and not fall back into the channel. pic.twitter.com/94etUo6YAR &#8212; Daan Crypto Trades (@DaanCrypto) March 20, 2024 The chart shared by Daan shows that BTC price has been consolidating in a parallel downtrend channel for more than a week. Yesterday’s surge catapulted the price above the channel. Currently a retest is taking place. If this is successful, the BTC price could rally further north. At press time, BTC traded at $67,397. Featured image created with DALLE, chart from TradingView.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-21T09:54:44.000Z",
+    "title": "Ethereum Developers Launch ‘Pump the Gas’ Initiative to Increase Gas Limit – ETH Edges Closer to $3,500",
+    "url": "https://www.crypto-news-flash.com/ethereum-developers-launch-pump-the-gas-initiative-to-increase-gas-limit-eth-edges-closer-to-3500/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-developers-launch-pump-the-gas-initiative-to-increase-gas-limit-eth-edges-closer-to-3500",
+    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-21-09.44.58-Visualize-the-concept-of-Ethereum-Developers-Launch-Pump-the-Gas-Initiative-to-Increase-Gas-Limit-ETH-Edges-Closer-to-3500.-Include-a-large-f-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Ethereum&#8217;s &#8216;Pump the Gas&#8217; initiative, proposed by co-founder Vitalik Buterin, aims to enhance network capacity by increasing the gas limit by 33%. Despite the initiative gaining support, concerns about increased blockchain state size and potential network vulnerabilities remain. A recent report by CNF highlighted that Ethereum co-founder Vitalik Buterin has proposed a 33% increase in [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-21T09:28:35.000Z",
-    "title": "JUP DAO: Key Steps Forward with Funding and Grants",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/jup-dao-key-steps-forward-with-funding-and-grants/",
-    "description": "<p>The JUP DAO community is preparing for initiatives that highlight its dedication to growth, innovation, and engagement. First and foremost, the JUP DAO will launch the proposal to Fund the Core Working Group (CWG). Empowering JUP DAO: Funding, Capitalization, and Community Grants The CWG has been crucial in developing the JUP community, launching initiatives like [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/jup-dao-key-steps-forward-with-funding-and-grants/\">JUP DAO: Key Steps Forward with Funding and Grants</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-21T09:14:26.000Z",
-    "title": "Coinbase’s Gamble on Futures Contracts for Altcoins Raises SEC Eyebrows",
-    "url": "https://coinedition.com/coinbases-gamble-on-futures-contracts-for-altcoins-raises-sec-eyebrows/",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://coinedition.com/wp-content/uploads/2024/03/dogecoin.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Coinbase Files with CFTC for Dogecoin, Litecoin and Bitcoin Cash\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/dogecoin.jpg 512w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-127x70.jpg 127w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/dogecoin-355x200.jpg 355w\" sizes=\"(max-width: 512px) 100vw, 512px\" /><p>A member of the crypto community pointed out that Coinbase has formally submitted a proposal to the Commodity Futures Trading Commission (CFTC) regarding the introduction of futures contracts for Dogecoin, Litecoin, and Bitcoin Cash.&#160; Directed to CFTC Secretary Christopher Kirkpatrick in a letter dated March 7, Coinbase outlined comprehensive details about these proposed contracts, including [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/coinbases-gamble-on-futures-contracts-for-altcoins-raises-sec-eyebrows/\">Coinbase&#8217;s Gamble on Futures Contracts for Altcoins Raises SEC Eyebrows</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-21T09:15:59.000Z",
-    "title": "Analyst Predicts New Highs for Altcoin That’s Up Over 10,000% in Under Six Months, Updates Outlook on Dogwifhat",
-    "url": "https://dailyhodl.com/2024/03/21/analyst-predicts-new-highs-for-altcoin-thats-up-over-10000-in-under-six-months-updates-outlook-on-dogwifhat/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/in-Under-Six-Months.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed analyst and trader is expressing bullish sentiment on an altcoin built on Solana (SOL) that has surged by over 100x in a couple of months. The analyst pseudonymously known as Bluntz tells his 249,900 followers on the social media platform X that the low cap memecoin Myro (MYRO) is offering an opportunity [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/21/analyst-predicts-new-highs-for-altcoin-thats-up-over-10000-in-under-six-months-updates-outlook-on-dogwifhat/\">Analyst Predicts New Highs for Altcoin That’s Up Over 10,000% in Under Six Months, Updates Outlook on Dogwifhat</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-03-21T09:55:21.000Z",
+    "title": "Sniper Launches Hybrid DeFi Launchpad on Solana",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/sniper-launches-hybrid-defi-launchpad-on-solana/",
+    "description": "<p>It has recently introduced a groundbreaking hybrid DeFi launchpad, a move that is set to redefine the NFT trading experience. This launchpad marks a major step in merging DeFi features with the dynamic NFT market on Sniper. Sniper&#8217;s Launchpad: Bridging NFTs with DeFi Innovation Sniper&#8217;s hybrid DeFi launchpad blends DeFi and NFT markets for a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/sniper-launches-hybrid-defi-launchpad-on-solana/\">Sniper Launches Hybrid DeFi Launchpad on Solana</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

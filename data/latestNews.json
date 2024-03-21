@@ -1,93 +1,44 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-21T16:02:53.000Z",
-    "title": "Newly Issued Gaming Token Exploited on Blast With $4.6M Drained",
-    "url": "https://www.coindesk.com/business/2024/03/21/newly-issued-gaming-token-exploited-on-blast-with-46m-drained/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "A recently issued gaming token on layer-2 network Blast has been exploited with $4.6 million stolen, according to an announcement in the token's Telegram channel."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-03-21T16:00:00.000Z",
-    "title": "Espresso Systems Raises $28M in Fresh Funds, Led By A16z Crypto",
-    "url": "https://www.coindesk.com/tech/2024/03/21/espresso-systems-raises-28m-in-series-b-led-by-a16z-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The shared sequencer leading firm said that the round would further invests in their products as well as additional hires."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-03-21T15:45:00.000Z",
-    "title": "Crypto for Advisors: Understanding The Ethereum Economy",
-    "url": "https://www.coindesk.com/business/2024/03/21/crypto-for-advisors-understanding-the-ethereum-economy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "This article examines the advantages of Ethereum as a protocol economy and how one could gain exposure to this breakthrough technology asset."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-21T16:00:00.000Z",
-    "title": " Web3 games must be ‘fun and engaging’ to be sustainable — OKX exec ",
-    "url": "https://cointelegraph.com/news/okx-immutable-gamefi-launchpad-web3-gaming",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZTFlMGIzNGYtNzZjZC00M2M2LWE3NjctMzY0YTI2M2NlOTdhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>OKX chief innovation officer Jason Lau urged blockchain gaming firms to focus on educating gamers on the benefits of Web3 technology. </p>\n                    <p><p data-ct-non-breakable=\"true\">As the blockchain gaming ecosystem continues to develop, firms are attempting to capitalize on the momentum by forming alliances that could bring more gamers on board and introduce them to the world of Web3. </p><p>On March 8, Immutable <a href=\"https://twitter.com/Immutable/status/1765837609602101456\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> that it had onboarded 75 Web3 games in the last three months. This brings the total number of blockchain-based games on Immutable to 270. </p><p>With its gaming ecosystem showing significant growth, the crypto exchange has OKX capitalized and moved into Web3 gaming through Immutable.</p><p><a href=\"https://cointelegraph.com/news/okx-immutable-gamefi-launchpad-web3-gaming\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-21T15:43:17.000Z",
-    "title": " Bitcoin trader says sub-$57K BTC price would help sustain bull market ",
-    "url": "https://cointelegraph.com/news/bitcoin-trader-sub-57k-btc-price-sustain-bull-market",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYTU0NjdkNzgtMTMzMy00N2VlLThmNGUtYTM1NWU1YmFkMGI3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin could use a deeper dip to reset \"bull market sustainability,\" some of the latest BTC price analysis concludes.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) brushed off United States unemployment data on March 21 as traders hoped for a longer BTC price consolidation.</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCGBP/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> followed BTC/USD as it hovered around $66,000.</p><p>The day’s Wall Street open followed lower-than-expected <a href=\"https://www.dol.gov/sites/dolgov/files/OPA/newsreleases/ui-claims/20240572.pdf\" target=\"_blank\" rel=\"noopener nofollow\">U.S. jobless claims</a>, these coming after the Federal Reserve signalled plans to drop interest rates despite sticky inflation.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-trader-sub-57k-btc-price-sustain-bull-market\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-21T16:22:29.000Z",
+    "title": "Protocol Village: Fluence's 'Cloudless Platform' Goes Live as Alternative to AWS, Google Cloud",
+    "url": "https://www.coindesk.com/tech/2024/03/20/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 21-26."
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-21T15:59:23.000Z",
-    "title": "CME leads unprecedented growth in Bitcoin ‘cash’ open interest",
-    "url": "https://cryptoslate.com/insights/cme-leads-unprecedented-growth-in-bitcoin-open-interest/",
-    "description": "<p>Quick Take Recent data highlights a notable increase in Bitcoin open interest, reaching 500,000 BTC, despite a minor reduction of about 10,000 BTC during the latest dip from peak levels, according to Coinglass. The total open interest has seen a 25% increase since early March, with a notable contribution from trading activities on the CME, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/cme-leads-unprecedented-growth-in-bitcoin-open-interest/\">CME leads unprecedented growth in Bitcoin &#8216;cash&#8217; open interest</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-21T16:20:28.000Z",
+    "title": "Coinbase-backed Base leads in Ethereum layer-2 fees amid trading activity surge",
+    "url": "https://cryptoslate.com/coinbase-backed-base-leads-in-ethereum-layer-2-fees-amid-trading-activity-surge/",
+    "description": "<p>Coinbase-backed Base has the highest transaction fees among Ethereum layer-2 networks due to the current wave of attention it enjoys among crypto traders. Gasfees data shows that Base is the priciest layer-2 protocol among scaling solutions that have implemented the Dencun Upgrade&#8217;s Blobs feature. The feature significantly reduces transaction fees and enhances throughput for layer-2 [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-backed-base-leads-in-ethereum-layer-2-fees-amid-trading-activity-surge/\">Coinbase-backed Base leads in Ethereum layer-2 fees amid trading activity surge</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-21T16:03:46.000Z",
-    "title": "Chainlink (LINK) and Binance Coin (BNB) Investors Flock to Koala Coin (KLC), Betting Big on Its 100X Meme Coin Revolution",
-    "url": "https://cryptodaily.co.uk/2024/03/chainlink-link-and-binance-coin-bnb-investors-flock-to-koala-coin-klc-betting-big-on-its-100x-meme-coin-revolution",
-    "description": "The meme coin phenomenon has taken the cryptocurrency world by storm with projects fueled by viral appeal and community hype sometimes achieving astronomical gains."
+    "source": "Crypto Briefing",
+    "date": "2024-03-21T16:15:06.000Z",
+    "title": "BlackRock debuts BUIDL, its first tokenized fund on Ethereum",
+    "url": "https://cryptobriefing.com/blackrock-buidl-tokenized-fund-ethereum/",
+    "description": "BlackRock has launched its first Ethereum-based tokenized fund, BUIDL, to offer investors secure, tokenized investment opportunities."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-21T15:43:43.000Z",
-    "title": "Tron (TRX) & Binance Coin (BNB) Investors Flock to Fezoo (FEZ), the Exchange Set to Disrupt Traditional Trading Platforms",
-    "url": "https://cryptodaily.co.uk/2024/03/tron-trx-binance-coin-bnb-investors-flock-to-fezoo-fez-the-exchange-set-to-disrupt-traditional-trading-platforms",
-    "description": "Crypto investing is open to everyone, not just people with a lot of money. This inclusivity means more people can invest in projects they believe in even with small amounts"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-21T15:43:21.000Z",
-    "title": "SEC chairman Gensler leads crypto oversight push with $2.6 billion budget proposal",
-    "url": "https://www.cryptopolitan.com/sec-crypto-oversight-with-budget-proposal/",
-    "description": "The United States Securities and Exchange Commission (SEC), led by Chairman Gary Gensler, has submitted a bold request for a $2.6 billion budget allocation for the fiscal year 2025. This substantial budgetary proposal is aimed at fortifying the SEC&#8217;s capacity to regulate the burgeoning cryptocurrency sector.&#160; SEC&#8217;s strategic expansion The agency intends to utilize these [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-03-21T16:30:58.000Z",
+    "title": "Navigating the Bitcoin Halving: Glassnode Report Discusses a New Trading Landscape ",
+    "url": "https://news.bitcoin.com/navigating-the-bitcoin-halving-glassnode-report-discusses-a-new-trading-landscape/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Navigating the Bitcoin Halving: Glassnode Report Discusses a New Trading Landscape \" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/lth-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As Bitcoin&#x2019;s network halving event draws near, Glassnode&#x2019;s latest report sheds light on the evolving trading strategies in the face of significant demand from ETFs, signaling a pivotal shift in the cryptocurrency market. Glassnode Report Unveils Shift in Bitcoin Trading Strategies Ahead of Halving In the countdown to Bitcoin&#x2019;s much-anticipated halving, the crypto community is [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-21T15:42:52.000Z",
-    "title": "Tech Sector Faces Trust Crisis Amid Innovation Boom",
-    "url": "https://www.cryptopolitan.com/tech-sector-faces-trust-crisis/",
-    "description": "Silicon Valley, the epicenter of technological innovation, finds itself at a crossroads as the 2024 Edelman Trust Barometer reveals a critical paradox. While innovation promises prosperity, it risks exacerbating distrust and societal fragmentation. Trust in tech: A critical paradox The latest Edelman Trust Barometer sheds light on a pressing issue facing the tech sector: the [&#8230;]"
+    "date": "2024-03-21T16:31:56.000Z",
+    "title": "From Reactive to Proactive: The Evolution of Cybersecurity",
+    "url": "https://www.cryptopolitan.com/the-evolution-of-cybersecurity/",
+    "description": "In a rapidly evolving digital landscape where conventional cyber defense mechanisms fall short against sophisticated threats, AI-driven strategies have ushered in a new era of cybersecurity resilience. Spearheading this transformative journey is Tomer Weingarten, the visionary founder and CEO of SentinelOne, whose pioneering work has redefined industry standards. Revolutionizing cybersecurity through AI integration Recognizing the [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-21T15:42:44.000Z",
-    "title": "Apple Stock Potentially Rallying on iPhone AI Updates, Analysts Suggest",
-    "url": "https://www.cryptopolitan.com/apple-stock-rallying-on-iphone-ai-updates/",
-    "description": "Despite facing challenges in 2024, Apple Inc. (NASDAQ: AAPL) is poised for a potential turnaround, with analysts foreseeing a rally driven by advancements in artificial intelligence (AI) technology for iPhones. The company&#8217;s stock, which has experienced a decline of approximately 4.5% this year, is currently trading above $178. Analysts attribute the recent weakness in Apple&#8217;s [&#8230;]"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-21T16:00:19.000Z",
-    "title": "Crypto Analyst Touts Base As Next Memecoin Hotspot: Top 8 Picks",
-    "url": "https://www.newsbtc.com/news/crypto-analyst-base-next-memecoin-hotspot-top-8/",
-    "description": "In an analysis shared with his nearly 100,000 followers on X (formerly Twitter), the crypto analyst known by the pseudonym Xremlin (@0x_gremlin) has pinpointed Base as the burgeoning hub for memecoin enthusiasts and investors. This proclamation follows a season of unprecedented gains in the Solana memecoin market, with tokens like BOME, WIF, and SLERF achieving returns ranging from 300x to 1000x. Xremlin&#8217;s insight into the crypto market dynamics suggests a potential replication of these astronomical returns on Base, underlined by a tweet stating, “Meme traders on Solana printed millions this season: BOME: 800x, WIF: 1000x, SLERF: 300x. BASE season is just revving up, and might have a similar rally.” Meme traders on Solana printed millions this season:$BOME: 800x │ $WIF: 1000x │ $SLERF: 300x$BASE season is just revving up, and might have a similar rally. 🧵List of memes on Base with 10-500x potential⭣ pic.twitter.com/wAs5hde0N9 &#8212; Xremlin (@0x_gremlin) March 21, 2024 The transition of focus towards Base is attributed by the analyst to its association with Coinbase and an upcoming product launch aimed at simplifying on-chain trading. Xremlin elaborates, &#8220;Why Base? Coinbase has a large user base in the US, but trading on-chain can be too complex for normies. Soon, Coinbase will launch a product that enables its CEX users [100M+] to trade on Base without requiring seed phrases or private keys.&#8221; This move is anticipated to significantly lower the entry barriers for new investors, potentially catalyzing a memecoin rally on the Base platform. Related Reading: Leading The Pack: Solana Captures Nearly 50% Of Global Crypto Attention However, amidst the excitement, Xremlin issues a word of caution to their followers: “Remember: Investing in memes is high risk. Only bet what you can afford to lose. Projects might rug, slow rug, or suddenly tank by 50%-70% when the hype fades.” This cautionary advice reflects the inherent volatility and risk associated with memecoin investments, where the line between significant gains and losses can be remarkably thin. Diving Into The Top Crypto Memecoins On Base Xremlin&#8217;s curated list of Base memecoins is not only varied but also rich with potential, highlighting projects inspired by cultural references, pets of notable figures, and even caricatures of industry leaders. Here&#8217;s a closer look at the analyst&#8217;s picks: TOSHI: Touted as a tribute to Brian Armstrong&#8217;s cat, named after the enigmatic Satoshi Nakamoto, TOSHI represents a playful investment opportunity. Xremlin notes, &#8220;TOSHI could be the flagship memecoin of Base, drawing on the crypto community&#8217;s reverence for Nakamoto and Armstrong&#8217;s influence.&#8221; DEGEN: With its strategic distribution to Farcaster users, DEGEN taps into a community already engaged and familiar with crypto, setting a precedent for community-driven value. DOGINME: This memecoin capitalizes on the popular phrase &#8220;Got that dog in him,” embodying the resilience and tenacity celebrated in crypto trading circles. Related Reading: Hold Your Horses: ‘Buying The Crypto Dip Is Still Too Early’ Warns Top Analyst — Here’s Why MOCHI and PONCHO: Both cat-themed coins seek to attract the attention of cat lovers, just as dog-themed memecoins such as Dogecoin, Shiba Inu and FLOKI attract that of dog lovers. MOCHI is based on Brian Armstrong&#8217;s pet. TYBG: Self-described as &#8220;The most based meme on Base,&#8221; it signifies the meta-culture of memes within the crypto space, where self-referential humor often garners substantial community support. BRIUN: A direct caricature of Coinbase CEO Brian Armstrong, BRIUN embodies the intersection of meme culture and crypto&#8217;s leadership, underlining the community&#8217;s penchant for satire. ELONRWA: Inspired by a sketch of Elon Musk, this project aims to bridge the gap between digital tokens and real-world assets, representing the innovative and often speculative nature of memecoin investments. Xremlin further emphasizes the importance of community and research in navigating the memecoin market: “For those interested in researching Base memes, I recommend joining the /base channel on Warpcaster. Community insight is invaluable, and collective due diligence can help mitigate risks associated with memecoin investments.” At press time, TOSHI traded at $0.000321653, up 210% in the last three weeks. Featured image from Shutterstock, chart from TradingView.com"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-03-21T16:07:14.000Z",
-    "title": "LBank Starts SLERF Refunds, Focuses on Smaller Deposits",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/lbank-starts-slerf-refunds-focuses-on-smaller-deposits/",
-    "description": "<p>LBank has planned initial refunds for affected users, showing its dedication and operational integrity. This approach reflects LBank&#8217;s commitment to building trust and confidence with its users, beyond just addressing the issue. LBank&#8217;s Strategic Refund Plan for SLERF Users LBank thoughtfully prioritizes smaller depositors for the first wave of SLERF refunds for fairness and efficiency. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/lbank-starts-slerf-refunds-focuses-on-smaller-deposits/\">LBank Starts SLERF Refunds, Focuses on Smaller Deposits</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "NullTX",
+    "date": "2024-03-21T16:25:51.000Z",
+    "title": "Standard Chartered’s New BTC Forecast Pushes Investors into Algotech",
+    "url": "https://nulltx.com/standard-chartereds-new-btc-forecast-pushes-investors-into-algotech/",
+    "description": "Standard Chartered has captured the attention of the crypto world with its revised predictions, notably increasing its year-end forecast for Bitcoin (BTC) to an impressive $150,000, marking a substantial 50% hike from earlier projections.  The bank also casts a promising light on Ethereum (ETH), anticipating a notable rise in its [&#8230;]"
   }
 ]

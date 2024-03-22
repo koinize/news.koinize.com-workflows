@@ -1,86 +1,65 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-03-22T09:46:42.000Z",
-    "title": " ARK sells $52M of Coinbase shares as COIN breaks above $270 ",
-    "url": "https://cointelegraph.com/news/ark-200k-coinbase-sale-shares-hit-270",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNjI4OGE4N2MtMDRjNy00YzA0LWJiNjEtYTg3MzkzM2I1M2E3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Cathie Wood’s ARK Invest continues taking profits from its Coinbase stash as the stock is hitting multi-year highs.</p>\n                    <p><p data-ct-non-breakable=\"true\">ARK Invest — one of 10 issuers of a spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded fund (ETF) in the United States — is taking profits from its Coinbase stash amid the stock rising above $270.</p><p>On March 21, ARK sold 199,526 Coinbase (COIN) shares from its ETFs, according to a trade notification seen by Cointelegraph.</p><p>The Cathie Wood-founded investment firm dumped 133,533 COIN shares from the ARK Innovation ETF (ARKK), worth around $35 million, based on Coinbase’s closing price of $262 on March 21, <a href=\"https://www.tradingview.com/symbols/NASDAQ-COIN/\" target=\"_blank\" rel=\"noopener nofollow\">according</a> to data from TradingView.</p><p><a href=\"https://cointelegraph.com/news/ark-200k-coinbase-sale-shares-hit-270\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-22T10:15:55.000Z",
+    "title": " HECO Chain exploiter anonymizes $145M of Ether on Tornado Cash in 8 days ",
+    "url": "https://cointelegraph.com/news/heco-exploiter-anonymizes-145-m-ether-tornado-cash",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvOGIyZWZmZDktOGMyNi00ZWRiLWE3YjItNTA2MTIwMjBhYWU4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>In its largest transaction, the HECO Chain exploiter sent 11,300 ETH — over $39.5 million — in one go.</p>\n                    <p><p data-ct-non-breakable=\"true\">A crypto wallet address <a href=\"https://cointelegraph.com/news/heco-chain-bridge-hack-86-million-lost\">linked to the HECO Chain exploiter</a> transferred and anonymized nearly 40,392 Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) over the crypto-mixing protocol Tornado Cash within eight days.</p><p>According to crypto investigator PeckShield, the HECO Chain exploiter made 19 outbound transfers to Tornado Cash addresses in an attempt to make approximately $145.7 million worth of stolen Ether nearly impossible to trace back.</p><p>The majority of the funds were sent to a single Tornado Cash address, while one transaction of 0.2 ETH worth $699 was sent separately to a different address in Tornado Cash.</p><p><a href=\"https://cointelegraph.com/news/heco-exploiter-anonymizes-145-m-ether-tornado-cash\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-03-22T10:02:48.000Z",
-    "title": "Google adding Ethereum Name Service data into search results through Etherscan",
-    "url": "https://cryptoslate.com/google-adding-ethereum-name-service-data-into-search-results-through-etherscan/",
-    "description": "<p>Tech giant Google has integrated Ethereum Name Service (ENS) data into its search results through data available from Etherscan. CryptoSlate confirmed this feature by testing it with several ENS addresses, including Vitalik.eth, an address belonging to Vitalik Buterin, the co-founder of the Ethereum blockchain network. The displayed result showed the address details like the Ethereum balance [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/google-adding-ethereum-name-service-data-into-search-results-through-etherscan/\">Google adding Ethereum Name Service data into search results through Etherscan</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-03-22T10:00:57.000Z",
-    "title": "Bybit CEO advocates for “diverse spectrum of hybrid DeFi models” during event",
-    "url": "https://cryptobriefing.com/bybit-ceo-defi-interoperability-hybrid/",
-    "description": "Bybit CEO Ben Zhou advocated for decentralized finance (DeFi) and interoperability between crypto and traditional finance during his Singapore keynote."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-22T10:06:38.000Z",
-    "title": "MetaWin Raises the Bar for Transparency in Online Gaming",
-    "url": "https://cryptodaily.co.uk/2024/03/metawin-raises-the-bar-for-transparency-in-online-gaming",
-    "description": "MetaWin Raises the Bar for Transparency in Online Gaming"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-22T09:47:07.000Z",
-    "title": "FTX Estate Faces $3 To $5 Billion In US Government Claims",
-    "url": "https://cryptodaily.co.uk/2024/03/ftx-estate-faces-3-to-5-billion-in-us-government-claims",
-    "description": "Fallen cryptocurrency exchange FTX has stated that it expects the United States government to reduce its claims to between $3 billion and $5 billion."
+    "source": "Cointelegraph",
+    "date": "2024-03-22T10:09:52.000Z",
+    "title": " CryptoPunks record another $16M NFT sale in March ",
+    "url": "https://cointelegraph.com/news/cryptopunks-second-16-million-alien-nft-sale-march",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNzM2YTgyMzgtYjEwMS00YTZhLTk2MzAtYTg0ZjNhNmFmZjNkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>CryptoPunk #7804 sold for 4,850 ETH, worth about $16.4 million, taking the record for the second-largest CryptoPunk NFT sale.</p>\n                    <p><p data-ct-non-breakable=\"true\">Blue-chip nonfungible token (NFT) collection CryptoPunks saw another record-breaking sale in March, as one more rare alien piece sold for roughly $16 million in Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>). </p><p>On March 20, CryptoPunk #7804 was <a href=\"https://etherscan.io/tx/0xd2de4291740ff18f89c685f6e635e20ddd9a41ef6a2bc2cac11cfcb008d41a09\" target=\"_blank\" rel=\"noopener nofollow\">purchased</a> for 4,850 ETH, worth about $16.4 million at the time of the sale. The NFT sale claimed the second-highest selling price ever for a CryptoPunk and followed another high-profile NFT sale earlier in March. </p><p>On March 4, CryptoPunk #3100 <a href=\"https://cointelegraph.com/news/rare-alien-cryptopunk-nft-sells-16-m-ethereum\">sold for 4,500 ETH</a>, worth around $16 million at the time of sale, making it the third-largest CryptoPunk sale after the recent #7804 punk sale. </p><p><a href=\"https://cointelegraph.com/news/cryptopunks-second-16-million-alien-nft-sale-march\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-22T10:07:20.000Z",
-    "title": "MetaWin Raises the Bar for Transparency in Online Gaming",
-    "url": "https://www.cryptopolitan.com/metawin-raises-the-bar-for-transparency-in-online-gaming/",
-    "description": "London, UK, March 22nd, 2024, Chainwire MetaWin, a leading platform for online prize-winning games, has introduced a groundbreaking initiative focused on enhancing transparency and fairness for players globally. After extensive research, MetaWin identified inconsistencies in Return to Player (RTP) rates among different operators, causing confusion among players. Understanding RTP is crucial for players looking to [&#8230;]"
+    "date": "2024-03-22T10:32:41.000Z",
+    "title": "Coinbase surge triggers ARK Invest’s $52M profit-taking move",
+    "url": "https://www.cryptopolitan.com/coinbase-surge-ark-invest-profit-taking-move/",
+    "description": "ARK Invest, led by Cathie Wood, has recently made significant moves in its investment portfolio, selling off a substantial portion of its holdings in Coinbase amid a surge in the stock&#8217;s price. ARK divested 199,526 Coinbase shares from its exchange-traded funds (ETFs), totaling approximately $52.3 million based on Coinbase&#8217;s closing price that day. ARK profit-taking [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-22T09:44:59.000Z",
-    "title": "Leveraging Generative AI to Enhance Journalism",
-    "url": "https://www.cryptopolitan.com/generative-ai-to-enhance-journalism/",
-    "description": "In a landscape where technology continually evolves, the role of journalists undergoes a profound transformation. While the emergence of generative AI sparks concerns about redundancy in the journalistic field, its impact extends far beyond replacing human writers. Rather than viewing it solely as a threat, journalists can harness this technology to augment their productivity and [&#8230;]"
+    "date": "2024-03-22T10:25:41.000Z",
+    "title": "Ripple CEO challenges SEC over Ethereum security status",
+    "url": "https://www.cryptopolitan.com/ripple-ceo-challenges-sec-over-ethereum-security-status/",
+    "description": "Ripple&#8217;s CEO, Brad Garlinghouse, has publicly voiced his opinion on the ongoing legal efforts by the U.S. Securities and Exchange Commission (SEC) to classify Ethereum (ETH) as a security. Taking to the X platform, Garlinghouse remarked on the SEC&#8217;s past legal challenges within the cryptocurrency sector, noting the commission&#8217;s historical difficulties. He referenced the SEC&#8217;s [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-22T10:08:41.000Z",
-    "title": "RSR token soars by 30% to new price heights",
-    "url": "https://crypto.news/rsr-token-soars-by-30-to-new-price-heights/",
-    "description": "The Reserve Rights (RSR) token has surged by 30% in the last 24 hours, setting it apart as one of the standout performers in the cryptocurrency market. As per data by CoinMarketcap, on March 22, the token&#8217;s value reached $0.0096,&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-03-22T10:05:05.000Z",
-    "title": "Investors eye XRP, DOGE, and InQubeta as Bitcoin halving nears",
-    "url": "https://crypto.news/investors-eye-xrp-doge-and-inqubeta-as-bitcoin-halving-nears/",
-    "description": "As the Bitcoin halving approaches, altcoins like Ripple (XRP), Dogecoin (DOGE), and InQubeta (QUBE) gain investor interest, each with its unique appeal in cross-border payments, memes, and AI, respectively. #partnercontent"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-22T10:01:59.000Z",
-    "title": "Ethereum Price Projection: On-Chain Data Points to $5.4K ETH by 2024",
-    "url": "https://www.crypto-news-flash.com/ethereum-price-projection-on-chain-data-points-to-5-4k-eth-by-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-price-projection-on-chain-data-points-to-5-4k-eth-by-2024",
-    "description": "Ethereum&#8217;s price could potentially surpass $5,400 by 2024 based on the Mayer multiple oscillator. The ETH/BTC ratio may reach the highs of the 2021 bull market, supported by the Dencun upgrade. In a surprising turn, Ethereum&#8217;s high-risk price projection indicates a potential rise to $5,400. This forecast utilizes the Mayer Multiple oscillator, as presented on [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-03-22T10:00:49.000Z",
-    "title": "Price Predictions for Bittensor and MATIC: $RECQ Investors See Higher Numbers as Hyped Token Launch Draws Near",
-    "url": "https://www.crypto-news-flash.com/price-predictions-for-bittensor-and-matic-recq-investors-see-higher-numbers-as-hyped-token-launch-draws-near/?utm_source=rss&utm_medium=rss&utm_campaign=price-predictions-for-bittensor-and-matic-recq-investors-see-higher-numbers-as-hyped-token-launch-draws-near",
-    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-22T002352.323-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />TAO bears expect dips toward $450. MATIC could decrease toward $0.60. $RECQ investors are looking at 525% gains. The lagging market performance of Bittensor (TAO) and Polygon (MATIC) has resulted in bearish forecasts for these tokens’ upcoming price movements. Meanwhile, numerous crypto investors have decided to embrace Rebel Satoshi’s $RECQ before the token’s imminent launch. [...]"
+    "source": "Cryptopolitan",
+    "date": "2024-03-22T10:23:52.000Z",
+    "title": "Exciting! Coinbase Set to Launch 3 New Leveraged and CFTC-regulated Futures",
+    "url": "https://www.cryptopolitan.com/coinbase-set-to-launch/",
+    "description": "The Coinbase cryptocurrency exchange platform, through its derivatives department, announced that the platform is preparing to launch new products for its investor pool on April 1st. The recent announcements to introduce cash-settled futures contracts for three major altcoins. Coinbase International took to X (formerly Twitter), to announce the launch. The announcement comes as a huge [&#8230;]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-22T10:00:10.000Z",
-    "title": "Solana and Hub71: Powering UAE’s Tech Innovation",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/solana-and-hub71-powering-uaes-tech-innovation/",
-    "description": "<p>This partnership, enhanced by ADGM Academy support, offers unmatched resources for Solana RWA projects. The partnership aims to foster innovation by offering incentives, office space, regulatory support, and the highly coveted UAE Golden Visa. UAE&#8217;s Push for Tech and Blockchain Excellence This marks a significant step towards establishing the UAE as a hub for technological [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/solana-and-hub71-powering-uaes-tech-innovation/\">Solana and Hub71: Powering UAE&#8217;s Tech Innovation</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-03-22T10:31:43.000Z",
+    "title": "Morpheus Labs Sponsors ETHTaipei",
+    "url": "https://www.altcoinbuzz.io/product-release/morpheus-labs-sponsors-ethtaipei/",
+    "description": "<p>ETHTaipei is currently in full swing. There&#8217;s a main conference on 21st and 22nd March. You can also visit one of the various side events, between 19th and 25th March. Furthermore, there&#8217;s a hackathon between the 22nd and 25th March. So, there&#8217;s plenty of action. Vitalik Buterin was a keynote speaker on the first day. [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/product-release/morpheus-labs-sponsors-ethtaipei/\">Morpheus Labs Sponsors ETHTaipei</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-22T10:29:20.000Z",
+    "title": "Unsolicited ETH to BlackRock Fund Wallet Sparks Legal Worries",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/unsolicited-eth-to-blackrock-fund-wallet-sparks-legal-worries/",
+    "description": "<p>This transfer raises legal concerns, highlighting the complexity and unpredictability of managing digital assets. While initial reports suggested the wallet was directly owned by BlackRock, it has been clarified. Clarifying Ownership: The BlackRock Fund Wallet Connection The wallet is merely associated with BlackRock&#8217;s BUIDL fund and not under its direct control. This distinction is crucial [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/unsolicited-eth-to-blackrock-fund-wallet-sparks-legal-worries/\">Unsolicited ETH to BlackRock Fund Wallet Sparks Legal Worries</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-22T10:22:58.000Z",
+    "title": "Shiba Inu (SHIB) and Pepe Coin (PEPE) Have Lost Their Spark; Here’s the New Crypto That Will Blast Your Portfolio to the Moon",
+    "url": "https://coinedition.com/shiba-inu-shib-and-pepe-coin-pepe-have-lost-their-spark-heres-the-new-crypto-that-will-blast/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/pr-10.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/pr-10.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/pr-10-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Identifying the next big opportunity is crucial for crypto investors looking to maximize their returns. While tokens like Shiba Inu (SHIB) and Pepe Coin (PEPE) have captured attention in the past, a new project has emerged on the scene, promising to revolutionize the space with its innovative approach and real-world utility. The Decline of Shiba [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/shiba-inu-shib-and-pepe-coin-pepe-have-lost-their-spark-heres-the-new-crypto-that-will-blast/\">Shiba Inu (SHIB) and Pepe Coin (PEPE) Have Lost Their Spark; Here’s the New Crypto That Will Blast Your Portfolio to the Moon</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-22T10:13:46.000Z",
+    "title": "Insights from RWA Report 2024 Showcase USD Hegemony in Crypto",
+    "url": "https://coinedition.com/insights-from-rwa-report-2024-showcase-usd-hegemony-in-crypto/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/Insights_from_RWA_Report_2024_Showcase_USD_Hegemony_in_Crypto-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent revelation from the Real World Asset Report of 2024, the crypto market witnesses a significant dominance of USD-pegged stablecoins staying at the forefront of real-world asset (RWA) adoption within the digital economy. The report&#8217;s key findings suggest that majority of the RWA market is currently occupied by stablecoins pegged to the US [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/insights-from-rwa-report-2024-showcase-usd-hegemony-in-crypto/\">Insights from RWA Report 2024 Showcase USD Hegemony in Crypto</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

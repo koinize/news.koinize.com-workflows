@@ -1,51 +1,114 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-22T14:29:37.000Z",
+    "title": "El Salvador Doubles Down on Bitcoin",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/03/22/el-salvador-doubles-down-on-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The country is setting a precedent for others to follow, Moonwalker Capital Tatiana Koffman writes."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-03-22T14:12:21.000Z",
+    "title": "Protocol Village: Entangle, Powered by 'Liquid Vaults,' Gets Strategic Investment From Consensys",
+    "url": "https://www.coindesk.com/tech/2024/03/20/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 21-26."
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-22T14:15:50.000Z",
+    "title": " Bitcoin price retests $63K despite GBTC outflows dropping below $100M ",
+    "url": "https://cointelegraph.com/news/bitcoin-price-63k-gbtc-outflows-below-100m",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYzQ5NWNlMDYtOWQyMy00MjVlLWE1NDEtNmVhZmU2MjY2YzI0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin bulls fail to catch a break as BTC price weakness defies a slowdown in GBTC offloading.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) plugged intraday lows at the March 22 Wall Street open despite lower outflows from the Grayscale Bitcoin Trust (GBTC).</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCGBP/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> tracked limp BTC price performance as $63,000 returned to the radar.</p><p>The largest cryptocurrency failed to hold higher levels, which resulted from an <a href=\"https://cointelegraph.com/news/bitcoin-trader-sub-57k-btc-price-sustain-bull-market\">earlier rebound</a>, with its old 2021 all-time highs at $69,000 staying unchallenged.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-price-63k-gbtc-outflows-below-100m\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-22T14:14:43.000Z",
+    "title": " Is Bitcoin price going to crash again? ",
+    "url": "https://cointelegraph.com/news/is-bitcoin-price-going-to-crash-again",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDkvOTkxZDg0NzYtMzRlMy00ZGQ0LWEwOWItOTE1Y2I4YzYzYmRhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin's previous bull market correction has witnessed declines ranging from 20 to 40%. Could the history repeat in 2024?</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is facing its major correction phase after undergoing a strong price rally in 2024. Notably, the BTC/USD pair is down circa 13.5% when measured from its year-to-date (and all-time) high of nearly $74,000. </p><p>Bitcoin’s ongoing price decline appears like a bull market correction, allowing the market to adjust and consolidate gains before potentially moving higher again. <a href=\"https://cointelegraph.com/news/bitcoin-price-correction-5-weeks-halving\">Previous bull market corrections</a> in the Bitcoin market have witnessed prices declining 20-40%, raising possibilities of similar downturns during the 2024 bull market.</p><p>Bitcoin's ongoing price explosion has left its market in a deeply overbought state.</p><p><a href=\"https://cointelegraph.com/news/is-bitcoin-price-going-to-crash-again\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-22T14:10:34.000Z",
+    "title": " Worldcoin makes Orb software open-source, implements ‘personal custody’   ",
+    "url": "https://cointelegraph.com/news/worldcoin-orb-software-open-source-implements-personal-custody",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZTdhN2RiYzQtNzFkYi00ZWIzLWIyZWEtMzE1NjQwNGYzZjZlLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Worldcoin said it has now made components of the software behind its iris-scanning Orbs open-sourced, along with a new “personal custody” privacy feature for user data.  </p>\n                    <p><p data-ct-non-breakable=\"true\">The Worldcoin Foundation announced in a blog <a href=\"https://worldcoin.org/blog/engineering/worldcoin-foundation-open-sources-core-components-orb-software\" target=\"_blank\" rel=\"noopener nofollow\">post</a> that it has open-sourced components of the software running its iris-scanning Orbs, making it publicly available. </p><p>According to the announcement the core components of the Orb software can be accessed on GitHub under an MIT/Apache 2.0 dual license. The new open-source components “complement” hardware it previously released. </p><p>The release includes code on the Orb which is crucial for capturing images and securely transferring them to the product's app. </p><p><a href=\"https://cointelegraph.com/news/worldcoin-orb-software-open-source-implements-personal-custody\">Read more</a></p></p>\n                \n            "
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2024-03-22T14:00:04.000Z",
-    "title": "Full blockchain nodes added to smart WiFi routers in DePIN innovation – Exclusive",
-    "url": "https://cryptoslate.com/full-blockchain-nodes-added-to-smart-wifi-routers-in-depin-innovation-exclusive/",
-    "description": "<p>Minima, a layer-1 blockchain focused on Decentralised Physical Infrastructure Network (DePIN) solutions, has announced a novel partnership with Wicrypt, a smart Wi-Fi network that allows users to earn tokens by sharing their Wi-Fi hotspots. The collaboration aims to democratize internet access and make it more affordable for everyone by decentralizing the infrastructure required to provide [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/full-blockchain-nodes-added-to-smart-wifi-routers-in-depin-innovation-exclusive/\">Full blockchain nodes added to smart WiFi routers in DePIN innovation &#8211; Exclusive</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-22T14:37:12.000Z",
+    "title": "Listen back to Internet Computer community building on Bitcoin ahead of ICPCC24",
+    "url": "https://cryptoslate.com/listen-back-to-internet-computer-community-building-on-bitcoin-ahead-of-icpcc24/",
+    "description": "<p>The Internet Computer Protocol (ICP) appears to be ushering in a new era of decentralized cloud computing innovation, as evidenced by the vibrant ecosystem of developers and projects showcased in the recent CryptoSlate Twitter Space. Hosted by CryptoSlate&#8217;s Akiba, the space featured insightful dialogue with key figures from the ICP community, including Isaac from the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/listen-back-to-internet-computer-community-building-on-bitcoin-ahead-of-icpcc24/\">Listen back to Internet Computer community building on Bitcoin ahead of ICPCC24</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-22T13:42:14.000Z",
-    "title": "Fezoo's Presale: A New Dawn for Crypto Trading, Attracting Polygon and Bitcoin Cash Investors with Its Pioneering Features",
-    "url": "https://cryptodaily.co.uk/2024/03/fezoos-presale-a-new-dawn-for-crypto-trading-attracting-polygon-and-bitcoin-cash-investors-with-its-pioneering-features",
-    "description": "Investing in presales allows you to be among the first supporters of a project, placing you at the forefront of potential technological advancements. This early support is not just about the potential financial gains but also about the excitement of being part of something new and potentially revolutionary from the beginning."
+    "date": "2024-03-22T14:37:11.000Z",
+    "title": "Raffle Coin Illuminates the Path for Polkadot and TRON Supporters, Offering a Chance at 50X Raffle Glory",
+    "url": "https://cryptodaily.co.uk/2024/03/raffle-coin-illuminates-the-path-for-polkadot-and-tron-supporters-offering-a-chance-at-50x-raffle-glory",
+    "description": "In the realm of crypto, Raffle Coin (RAFF) shines as a symbol of innovation, drawing interest from enthusiasts within both the Polkadot (DOT) and TRON (TRX) communities."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-22T14:30:11.000Z",
+    "title": "5 Best Meme Coins To Buy in 2024",
+    "url": "https://cryptodaily.co.uk/2024/03/5-best-meme-coins-to-buy-in-2024",
+    "description": "The massive rally witnessed in the meme coin market has drawn investors' attention. After a careful study of key market indicators and trends, some analysts have picked most of the meme coins to watch for this year. Based on the analyst's predictions, these are some of the meme coins to invest in the year. Although most of them are already in a massive rally, experts think that they have the potential to return 50x gains before the end of the year."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-22T14:21:58.000Z",
+    "title": "Stellar and Cosmos Investors Enthralled by Pushd's Vision, Poised to Transform E-Commerce: 100X Predicted As Stage 6 Available",
+    "url": "https://cryptodaily.co.uk/2024/03/stellar-and-cosmos-investors-enthralled-by-pushds-vision-poised-to-transform-e-commerce-100x-predicted-as-stage-6-available",
+    "description": "The impressive nature of cryptos has elevated their status from merely new additions to the financial market. Cryptos have now become a unique investment choice and involve people from all aspects of life and all corners of the world. This growth in popularity and adoption makes cryptos a serious option for investors."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-22T14:16:41.000Z",
+    "title": "Dogecoin (DOGE) and Shiba Inu (SHIB) Fans Rally for New E-Commerce Pushd (PUSHD), Envisioning a New Retail Landscape: Presale Available",
+    "url": "https://cryptodaily.co.uk/2024/03/dogecoin-doge-and-shiba-inu-shib-fans-rally-for-new-e-commerce-pushd-pushd-envisioning-a-new-retail-landscape-presale-available",
+    "description": "Retail is a core part of our daily lives. The ability to buy and sell goods and services provides us the freedom to access resources that improve our lives. This is something that the crypto market understands. Dogecoin (DOGE) and Shiba Inu (SHIB) investors are examples of crypto community members who are at the forefront of turning the crypto market into an efficient e-commerce landscape."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-22T14:11:13.000Z",
+    "title": "Raffle Coin's Presale, a Game-Changer with 50X Hopes, Draws USDC and Cardano's Traders for Unique Raffle Experiences",
+    "url": "https://cryptodaily.co.uk/2024/03/raffle-coins-presale-a-game-changer-with-50x-hopes-draws-usdc-and-cardanos-traders-for-unique-raffle-experiences",
+    "description": "The crypto market bull run is settling after the first wave. This first wave saw several tokens rising sharply while investors hurriedly pulled out their gains. This pull has now seen some of the tokens dropping to considerable prices"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-22T14:05:59.000Z",
-    "title": "Ripple pumps 5% while market is red but Green Bitcoin also soars",
-    "url": "https://crypto.news/ripple-pumps-5-while-market-is-red-but-green-bitcoin-also-soars/",
-    "description": "Despite a downturn in the crypto market, XRP demonstrates resilience with a 5% surge, while Green Bitcoin, a new ICO crypto, gains momentum. #partnercontent"
+    "date": "2024-03-22T14:37:38.000Z",
+    "title": "Heco Bridge hackers launder over $145m via Tornado Cash in 8 days",
+    "url": "https://crypto.news/heco-bridge-tornado-cash-hack/",
+    "description": "Exploiters who hacked Heco Bridge laundered the stolen assets through the controversial cryptocurrency mixer Tornado Cash."
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-22T14:04:29.000Z",
-    "title": "Understanding Bitcoin halving: impact and importance",
-    "url": "https://crypto.news/understanding-bitcoin-halving-impact-and-importance/",
-    "description": "What is Bitcoin halving? Learn about its mechanics, significance, and investment implications in this comprehensive guide. If you’re thinking about investing in crypto, you’ll want to know about Bitcoin halving. It’s one of the most significant events in the world&#8230;"
+    "date": "2024-03-22T14:33:51.000Z",
+    "title": "Cardano fans celebrate as DeeStream announces significant investment",
+    "url": "https://crypto.news/cardano-fans-celebrate-as-deestream-announces-significant-investment/",
+    "description": "Leading decentralized streaming platform DeeStream (DST) sees a surge in interest amid the crypto market's corrections. Analysts predict a potential 100x growth trajectory, eclipsing the performance of major cryptocurrencies like Cardano (ADA). #partnercontent"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-22T13:46:51.000Z",
-    "title": "WisdomTree receives crypto custody launch approval from NYDFS",
-    "url": "https://crypto.news/wisdomtree-receives-crypto-custody-launch-approval-from-nydfs/",
-    "description": "WisdomTree has received a license from the NYDFS, allowing it to offer cryptocurrency-related products and services. Under New York State banking laws, asset manager WisdomTree has received approval from the NYDFS to operate as a limited liability trust company.With the&#8230;"
+    "date": "2024-03-22T14:15:46.000Z",
+    "title": "Book of Meme rises 42% as new memecoin DogWifCat explodes over 2,000%",
+    "url": "https://crypto.news/book-of-meme-rises-42-as-new-memecoin-dogwifcat-explodes-over-2000/",
+    "description": "The surge of Book of Meme and DogWifCat in the meme coin market signals a renewed frenzy, prompting investors to speculate on their potential future trajectories. #partnercontent"
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-03-22T14:00:00.000Z",
-    "title": "Bitcoin Spot ETFs See 4 Consecutive Days Of Outflows, Here’s What Happened Last Time",
-    "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-spot-etf-outflows/",
-    "description": "Bitcoin Spot ETF outflows have ramped up this week and has seen the week characterized by price declines throughout the crypto space. These outflows, like before, are being led by the Grayscale Spot ETF as investors believe their fees are too high. This has led to four consecutive week of outflows, which is the second time it is happening since Spot ETFs were approved for trading. So, where does the Bitcoin price go from here? Bitcoin Spot ETFs Hit 4 Consecutive Days Of Outflows The outflows began on Monday and continued into subsequent days. So far, the highest single-day outflow happened on Tuesday, March 19, with total net flows for the day coming out to $326.2 million, a new record for Bitcoin funds. Related Reading: Top 3 Solana Meme Coins To Buy Amid The Bitcoin Crash That Could 10x Subsequent days have seen lower figures when it comes to overall net flows but they continue to come out in the negative. On Wednesday, net flows were $261.5 million, and on Thursday, March 22, net flows came out to $94 million. This marked the second time that the Spot Bitcoin ETFs are seeing four consecutive days of outflows this year. The vast majority of these outflows, as mentioned above, are coming from the Grayscale Bitcoin ETF. In the last day alone, the fund saw outflows of 5,900 BTC, which translates to $339 million at current prices. Then, over the last week, Coinglass data shows that 28,207.5834 BTC has left the fund, causing its total BTC under management to fall by 7.35% in one week. Other funds have also seen outflows during this time but to a much lower degree. For example, the Invesco Galaxy Bitcoin ETF saw the second-highest outflow of all the funds, but only 667 BTC flowed out of the fund in the last day. The WisdomTree Bitcoin Fund saw 10.8.2635 BTC in outflows, while all other outflow figures came in below 100 BTC. What Happened To BTC The Last Time? The last time that Spot Bitcoin ETFs saw four consecutive days of outflows was in January, lasting from January 22 to January 25. This also bears some similarities to the current outflow trend in some was, one of which was the outflows began at the start of the week and carried through to the end. Related Reading: Crypto Analyst Says XRP Price Is Headed For $27 As 2017 Pattern Emerges However, a difference between both times is that the ETFs had just begun trading with trading days fluctuating between inflows and outflows. Meanwhile, the current trend has come after almost two consecutive weeks of inflows, something that could have an impact on the BTC price going forward. In January, after four days, the outflows had begun to slow down, and by Friday, there was a change in direction, with inflows beginning to dominate. Once the tide turned and ETF inflows began to rise, the BTC price followed sharply. With the climb came a more established rally in the Bitcoin price, causing it to go from $40,000 to over $70,000 in the space of two months. If this trend repeats and inflows into Spot BTC ETFs outpace outflows, then the BTC price is expected to start climbing again. However, if the outflows continue, then the BTC price could be in for further crashes. BTC price drops below $65,000 &#124; Source: BTCUSD on Tradingview.com Featured image from 20 Minutes, chart from Tradingview.com"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-22T14:36:52.000Z",
+    "title": "7 Must-Have Solana Crypto Gems",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/7-must-have-solana-crypto-gems/",
+    "description": "<p>Solana is the comeback kid. Who would have thought that in December 2022 when SOL hit $8. Good on you if you bought SOL back then and still hold it. You are a believer, many weren&#8217;t. But Solana&#8217;s fundamentals always stayed strong. The team managed to turn things around. 2 Good on them, with a [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/7-must-have-solana-crypto-gems/\">7 Must-Have Solana Crypto Gems</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-03-22T13:46:00.000Z",
-    "title": "5 Projects Set to Unlock New Tokens and their Price Predictions",
-    "url": "https://coinedition.com/5-projects-set-to-unlock-new-tokens-and-their-price-predictions/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"How-Will-These-Top-5-Tokens-React-to-Next-Week&#039;s-Unlocks\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/How-Will-These-Top-5-Tokens-React-to-Next-Weeks-Unlocks-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Next week, several projects are scheduled to unlock a new set of tokens and release them into circulation. Some of the projects in this cohort include Sui (SUI), Manta Network (MANTA), dydx (DYDX), Optimism (OP), and SingularityNET (AGIX). According to data from Token Unlocks, SUI would unlock $7.12 million worth of the token. MANTA plans [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/5-projects-set-to-unlock-new-tokens-and-their-price-predictions/\">5 Projects Set to Unlock New Tokens and their Price Predictions</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-03-22T14:30:56.000Z",
+    "title": "New Solana-Based Shiba Inu Rival That’s Ripped Over 22,000% in a Week Primed To Go Even Higher, Predicts Analyst",
+    "url": "https://dailyhodl.com/2024/03/22/new-solana-based-shiba-inu-rival-thats-ripped-over-22000-in-a-week-primed-to-go-even-higher-predicts-analyst/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Week-Primed-To-Go.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A closely followed crypto strategist believes one red-hot Solana (SOL)-based memecoin could be gearing up for another move to the upside. Pseudonymous analyst Altcoin Sherpa tells his 212,000 followers on the social media platform X that the Book of Meme (BOME) may rally to the $0.0190 level before dipping. &#8220;BOME: probably going to be a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/22/new-solana-based-shiba-inu-rival-thats-ripped-over-22000-in-a-week-primed-to-go-even-higher-predicts-analyst/\">New Solana-Based Shiba Inu Rival That’s Ripped Over 22,000% in a Week Primed To Go Even Higher, Predicts Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

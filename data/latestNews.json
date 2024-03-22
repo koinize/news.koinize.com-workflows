@@ -1,65 +1,121 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-22T12:55:21.000Z",
-    "title": "Coinbase Is More Than Just a Crypto Exchange: JMP Securities",
-    "url": "https://www.coindesk.com/business/2024/03/22/coinbase-is-more-than-just-a-crypto-exchange-jmp-securities/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Momentum continues to build in the company’s ancillary businesses, the report said."
+    "date": "2024-03-22T13:13:54.000Z",
+    "title": "Floki Developers Plan Regulated Bank Accounts in Next Value Capture for Tokens",
+    "url": "https://www.coindesk.com/business/2024/03/22/floki-developers-plan-regulated-bank-accounts-in-next-value-capture-for-tokens/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "SWIFT payments and SEPA IBANs will be supported – allowing users to transact and transfer money globally."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-22T13:12:59.000Z",
+    "title": "Terra Co-Founder Do Kwon's Extradition to South Korea Is in Limbo",
+    "url": "https://decrypt.co/222909/terra-founder-do-kwon-extradition-south-korea-limbo",
+    "description": "An appellate court in Montenegro has stopped the extradition over “significant violations of the provisions of criminal procedure.\""
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-22T13:01:49.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">Apple Mac computers fitted with M-series silicon chips may be vulnerable to exploits, giving bad actors access to owners’ private keys. But what’s worse is the flaw is believed to be unpatchable. Grayscale outflows topped $398 million, but analysts are tipping the bloodshed might come to an end soon. A former executive for the $4 billion OneCoin scam has requested leniency in the form of “time served,” according to a March 20 filing in the Southern District Court of New York. </p><p>New findings from academics <a href=\"https://cointelegraph.com/news/unpatchable-flaw-apple-chip-access-encrypted-data\">revealed</a> a severe vulnerability in Apple’s M-series chips, which could potentially enable malevolent actors the ability to access confidential encryption keys from MacBook devices. </p><p>The <a href=\"https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/\" target=\"_blank\" rel=\"noopener nofollow\">report</a> — published on March 21 by a group of researchers from multiple United States-based universities — identified the vulnerability as a side channel exploit, which allows hackers to illicitly obtain end-to-end encryption keys when Apple chips execute commonly used cryptographic protocols.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-22T13:31:00.000Z",
+    "title": " Ethereum Dencun upgrade lowers transaction fees for L2s ",
+    "url": "https://cointelegraph.com/news/ethereum-dencun-transaction-fees-l2",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZDljYmRmMDgtYWE4OC00NGQ1LTg1ODYtMzY0NGM3Y2FjMDgzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Dencun upgrade marks a change in tactics for Ethereum, encouraging growth through improved layer-2 support.</p>\n                    <p><p data-ct-non-breakable=\"true\">A week on from the launch of Dencun, Ethereum’s latest update appears to be meeting expectations and, in some instances, surpassing them.</p><p>Dencun launched on March 13 with the promise of ushering in a new era of faster and cheaper transactions. Ethereum has historically struggled to ratchet up the speed of its base layer in line with demand, so Dencun shifts focus by scaling with the aid of layer 2s.</p><p>According to Brian Gallagher, co-founder of Partisia blockchain, the update is not a minute too soon as competition from rival blockchains threatens to erode Ethereum’s market dominance.</p><p><a href=\"https://cointelegraph.com/news/ethereum-dencun-transaction-fees-l2\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-22T12:52:03.000Z",
-    "title": " Solana to outpace Ethereum in consumer applications: former head of growth  ",
-    "url": "https://cointelegraph.com/news/solana-outpace-ethereum-consumer-applications-former-head-growth",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYmE1OGZjY2ItZGIyNC00OWFjLWJmZTktZjViOTBlYjVhZmYwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Solana could outpace Ethereum in terms of consumer DApps, according to the Solana Foundation’s former head of growth.</p>\n                    <p><p data-ct-non-breakable=\"true\">The Solana blockchain will overtake Ethereum in terms of consumer applications, Matty Taylor, the co-founder of Colosseum and former head of growth of the Solana Foundation, told Cointelegraph in an interview:</p><p>There are currently 1,668 decentralized applications (DApps) on the Ethereum network, over three times more than the 477 on the Solana ecosystem, according to <a href=\"https://www.alchemy.com/ecosystem/ethereum\" target=\"_blank\" rel=\"noopener nofollow\">data</a> from Alchemy. </p><p>Solana has often been touted as a so-called “<a href=\"https://cointelegraph.com/news/do-ethereum-killers-have-a-future-here-s-what-the-crypto-community-says\">Ethereum-killer</a>” for having superior transaction throughput and faster transaction finality compared to Ethereum.</p><p><a href=\"https://cointelegraph.com/news/solana-outpace-ethereum-consumer-applications-former-head-growth\">Read more</a></p></p>\n                \n            "
+    "source": "CryptoSlate",
+    "date": "2024-03-22T13:13:05.000Z",
+    "title": "North Korean Lazarus group funnels over $100 million in Ethereum through sanctioned mixer Tornado Cash in 8 days",
+    "url": "https://cryptoslate.com/north-korean-lazarus-group-funnels-over-100-million-in-ethereum-through-sanctioned-mixer-tornado-cash-in-8-days/",
+    "description": "<p>North Korea-backed Lazarus group has stepped up their use of sanctioned crypto mixer Tornado Cash, moving over $100 million worth of Ethereum through the platform in the past week. According to blockchain security firm PeckShield, addresses linked to the exploiters of Justin Sun-linked HTX exchange and Heco Bridge have transferred 40,391 ETH, equivalent to $145.7 million, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/north-korean-lazarus-group-funnels-over-100-million-in-ethereum-through-sanctioned-mixer-tornado-cash-in-8-days/\">North Korean Lazarus group funnels over $100 million in Ethereum through sanctioned mixer Tornado Cash in 8 days</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-22T13:03:28.000Z",
-    "title": "Animoca Brand’s Lost Club Toys Integrates into The Binary Holding’s Ecosystem to Deliver Enhanced User Engagement for Telecom Partners",
-    "url": "https://cryptodaily.co.uk/2024/03/animoca-brands-lost-club-toys-integrates-into-the-binary-holdings-ecosystem-to-deliver-enhanced-user-engagement-for-telecom-partners",
-    "description": "Animoca Brand’s Lost Club Toys Integrates into The Binary Holding’s Ecosystem to Deliver Enhanced User Engagement for Telecom Partners"
+    "date": "2024-03-22T13:35:12.000Z",
+    "title": "Analysts Predict 50X Growth For Presale DeeStream (DST) As Immutable (IMX) & Ripple (XRP) Holders Stampede New Streaming Innovation",
+    "url": "https://cryptodaily.co.uk/2024/03/analysts-predict-50x-growth-for-presale-deestream-dst-as-immutable-imx-ripple-xrp-holders-stampede-new-streaming-innovation",
+    "description": "After a huge scare in the market recently that saw many positions liquidated, investors are on the edge. Many tokens that were on good runs saw bumps in the road and others are now struggling to pick up the same momentum. Investors are searching for assets that could offer them more stability and good returns."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-22T13:29:29.000Z",
+    "title": "Chainlink and Polygon Backers Unite Around Raffle Coin, Drawn by the Attractive Prospect of 100X Returns",
+    "url": "https://cryptodaily.co.uk/2024/03/chainlink-and-polygon-backers-unite-around-raffle-coin-drawn-by-the-attractive-prospect-of-100x-returns",
+    "description": "In the ever-evolving market of cryptocurrency, Raffle Coin (RAFF) has become a rallying point for backers of Chainlink (LINK) and Polygon (MATIC),"
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-03-22T13:16:33.000Z",
+    "title": "Bitcoin Technical Analysis: Oscillators Neutral, Moving Averages Split on Future Direction",
+    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-oscillators-neutral-moving-averages-split-on-future-direction/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Oscillators Neutral, Moving Averages Split on Future Direction\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/hioppp.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitcoin&#x2019;s price on March 22, 2024, exhibits a fascinating landscape of market dynamics, oscillating between gains and losses across various time frames. Amidst a backdrop of neutral oscillators and a mixed sentiment in moving averages, bitcoin traders are navigating through a volatile environment. Bitcoin Oscillators, quintessential for identifying market momentum and potential reversal points, present [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-22T12:56:59.000Z",
-    "title": "Hedera (HBAR) Elevates UK’s Crypto Landscape by Joining UKCBC with Ripple and Coinbase",
-    "url": "https://www.cryptopolitan.com/hedera-hbar-uk-joining-ukcbc-ripple-coinbase/",
-    "description": "In a strategic move poised to reshape the UK&#8217;s cryptocurrency ecosystem, Hedera (HBAR) has announced its latest collaboration by joining the UK Cryptoasset Business Council (UKCBC), positioning itself alongside notable industry leaders such as Ripple and Coinbase.&#160; This partnership heralds a new era of innovation and growth within the UK&#8217;s burgeoning crypto space, emphasizing Hedera&#8217;s [&#8230;]"
+    "date": "2024-03-22T13:36:16.000Z",
+    "title": "Ripple’s CTO Schwartz teases future possibilities with mysterious tweet",
+    "url": "https://www.cryptopolitan.com/ripples-cto-schwartz-teases-future-in-tweet/",
+    "description": "Ripple&#8217;s Chief Technology Officer (CTO), David Schwartz, recently stirred a curiosity within the XRP community with a cryptic tweet, leaving enthusiasts speculating about its potential significance. The tweet, featuring a mathematical problem yielding the solution &#8220;5,&#8221; prompted a flurry of interpretations, particularly regarding its implications for the future price of XRP. Schwartz&#8217;s tweet fuels price [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-22T12:46:25.000Z",
-    "title": "Google Integrates Ethereum Name Service, Simplifying Crypto Transactions",
-    "url": "https://www.cryptopolitan.com/google-ethereum-name-crypto-transactions/",
-    "description": "Google has rolled out an update that integrates Ethereum Name Service (ENS) domains into its search results, making it easier for users to view Ethereum wallet balances directly through Google search.  The development, first spotted by Brantly Millegan, a former core team member of ENS, marks a pivotal moment in bridging the gap between traditional [&#8230;]"
+    "date": "2024-03-22T13:15:30.000Z",
+    "title": "Still Wakes the Deep: Release Date Revealed in Stunning Trailer",
+    "url": "https://www.cryptopolitan.com/still-wakes-the-deep-release-date-revealed/",
+    "description": "In a riveting announcement during the Future Games Show Spring Showcase, gaming enthusiasts were treated to the unveiling of the release date for the much-anticipated narrative horror game Still Wakes the Deep. Developed by the renowned team at The Chinese Room, known for their previous works like Dear Esther and Everybody’s Gone to the Rapture, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-22T12:46:14.000Z",
-    "title": "Trezor’s security breach was traced to a meticulous phishing operation, not SIM-Swap",
-    "url": "https://www.cryptopolitan.com/trezors-security-breach-meticulous-phishing/",
-    "description": "Trezor, a leading manufacturer of crypto hardware wallets, has disclosed details regarding a recent security breach on its official social media account, X. The breach, initially suspected to be a SIM-swap attack, has now been confirmed as a sophisticated phishing incident by SatoshiLabs, the company behind Trezor.&#160; Trezor&#8217;s vigilance amidst adversity Despite the breach, reassures [&#8230;]"
+    "date": "2024-03-22T13:13:57.000Z",
+    "title": "Cyber Heist of Over $145 Million in Ether Laundered Following Heco Bridge Exploit",
+    "url": "https://www.cryptopolitan.com/heist-ether-laundered-heco-bridge-exploit/",
+    "description": "In a dramatic unfolding of events that underscores the persistent vulnerabilities within the cryptocurrency sector, hackers behind the 2023 Heco Bridge exploit have successfully laundered an astonishing $145.7 million in ether.&#160; The operation, conducted over a mere eight-day period through the cryptocurrency mixer Tornado Cash, highlights the sophisticated strategies employed by cybercriminals to evade detection [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-22T13:12:01.000Z",
+    "title": "Binance Futures Unveils Exciting New Trading Challenge with a Chance to Win a Tesla Model Y",
+    "url": "https://www.cryptopolitan.com/binance-future-trade-challenge-tesla-model-y/",
+    "description": "Binance Futures, the leading cryptocurrency futures trading platform, has announced the launch of its latest trading competition, the Futures Ultimate Challenge. The eagerly anticipated event offers participants the opportunity to win a share of 1.4 BTC in token vouchers, one of four Tesla Model Y vehicles, and other exclusive rewards.&#160; The competition is set to [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-22T13:10:05.000Z",
+    "title": "Video Game Actors and AI Voices: A New Frontier in Gaming",
+    "url": "https://www.cryptopolitan.com/video-game-actors-and-ai-voices-in-gaming/",
+    "description": "In the ever-evolving landscape of video games, the integration of artificial intelligence (AI) into voice acting is gaining traction. Game studios are leveraging AI tools to provide voices for characters, offering a potentially limitless array of voices and conversations within virtual worlds. This move not only enhances the gaming experience but also streamlines the development [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-22T13:25:57.000Z",
+    "title": "KLXO gains traction among SOL and BNB enthusiasts amidst market swings",
+    "url": "https://crypto.news/klxo-gains-traction-among-sol-and-bnb-enthusiasts-amidst-market-swings/",
+    "description": "n a sea of uncertainty, Solana (SOL) and Binance Coin (BNB) enthusiasts explore Kelexo (KLXO) amid market volatility, targeting significant returns. #partnercontent"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-22T13:20:22.000Z",
+    "title": "DePIN-powered initiative aims to expand internet access in India",
+    "url": "https://crypto.news/depin-powered-initiative-aims-to-expand-internet-access-in-india/",
+    "description": "Wifi Dabba, a decentralized internet service provider, recently announced plans to expand internet connectivity in India by distributing over 100,000 devices across the country.&#160; These devices, hosted on the Solana blockchain, are part of the DePIN project, which aims to&#8230;"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-22T13:00:01.000Z",
-    "title": "Forex Trading: A Deep Dive into Market Psychology and Trader Behavior",
-    "url": "https://www.crypto-news-flash.com/forex-trading-a-deep-dive-into-market-psychology-and-trader-behavior/?utm_source=rss&utm_medium=rss&utm_campaign=forex-trading-a-deep-dive-into-market-psychology-and-trader-behavior",
-    "description": "<img width=\"1280\" height=\"853\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex-1200x800.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/forex-450x300.jpg 450w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />In the realm of financial trading, few markets are as vast, dynamic, and inherently psychological as the Forex (foreign exchange) market. For many in the UK pondering over what is forex trading, it’s the global arena where currencies are traded 24 hours a day, offering unparalleled opportunities for profit—and risk. At the heart of Forex [...]"
+    "date": "2024-03-22T13:31:10.000Z",
+    "title": "Cardano Secures Top Spot in Crypto Brand Ranking, Bitcoin and Polkadot Follow",
+    "url": "https://www.crypto-news-flash.com/cardano-secures-top-spot-in-crypto-brand-ranking-bitcoin-and-polkadot-follow/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-secures-top-spot-in-crypto-brand-ranking-bitcoin-and-polkadot-follow",
+    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-19T090357.014-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The study, conducted by MBLM, highlights Cardano&#8217;s strong resonance with consumers, reflected in its high Brand Intimacy Quotient score of 52.6. Insights from the report shed light on the evolving dynamics of brand relationships within the cryptocurrency sector. According to a report by the Brand Intimacy Agency, Cardano has emerged as the leading crypto brand, [...]"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-03-22T13:07:00.000Z",
-    "title": "Meatless and EcoNex Take Top Honors at VeChain Hackathon: Can They Boost VET Adoption?",
-    "url": "https://coinedition.com/vechain-declares-meatless-and-econex-winners-in-recent-hackathon/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"VeChain Declares Meatless and EcoNex Winners in Recent Hackathon\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval.jpg 730w, https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2023/05/VeChain_Anticipates_Increased_VC_Investment_After_MiCA_Approval-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>VeChain, an enterprise-grade L1 public blockchain, has announced Meatless and EcoNex winners of its recent hackathon hosted at the University of Cambridge. VeChain hosted the hackathon in partnership with Web3 educational mobile app EasyA and with participation from Boston Consulting Group (BCG), a global consulting firm. The hackathon aimed to encourage the development of the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/vechain-declares-meatless-and-econex-winners-in-recent-hackathon/\">Meatless and EcoNex Take Top Honors at VeChain Hackathon: Can They Boost VET Adoption?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "Crypto News Flash",
+    "date": "2024-03-22T13:15:58.000Z",
+    "title": "SEI’s Dog Meme Coin MILLI Skyrockets By over 5000%, Surpassing BONK and WIF",
+    "url": "https://www.crypto-news-flash.com/seis-dog-meme-coin-milli-skyrockets-by-over-5000-surpassing-bonk-and-wif/?utm_source=rss&utm_medium=rss&utm_campaign=seis-dog-meme-coin-milli-skyrockets-by-over-5000-surpassing-bonk-and-wif",
+    "description": "<img width=\"1280\" height=\"1111\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23.jpg 1280w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-300x260.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-1180x1024.jpg 1180w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-768x667.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-150x130.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-450x391.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/photo_2024-03-22_15-11-23-1200x1042.jpg 1200w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />MILLI, a new meme coin introduced on the SEI blockchain, has witnessed a surge of over 5000% in its price From  0.0000003654 to the current price of 0.00001966, according to data from Dexscreener. This price jump has propelled MILLI into the spotlight, outshining established meme coins like Solana’s BONK, Dogecoin (DOGE), and Shiba Inu (SHIB). [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-22T13:18:09.000Z",
+    "title": "How to Spot Legit Solana Tokens",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/how-to-spot-legit-solana-tokens/",
+    "description": "<p>This explosive growth presents a double-edged sword for users. It signifies vibrant innovation and diversity within the Solana ecosystem. Also, it poses the challenge of discerning legitimate tokens from spam or malicious ones. Let&#8217;s discover more about Solana tokens. Identifying Trustworthy Tokens in Solana&#8217;s Expanding Ecosystem Navigating this burgeoning landscape requires a cautious approach to [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/how-to-spot-legit-solana-tokens/\">How to Spot Legit Solana Tokens</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

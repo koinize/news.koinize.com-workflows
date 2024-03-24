@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-24T04:43:15.000Z",
+    "title": " Polygon zkEVM down due to issues with blockchain sequencer ",
+    "url": "https://cointelegraph.com/news/polygon-zkevm-mainnet-beta-sequencer-issues",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMjEyNDc0NjEtZmZhNy00OTdlLWEzMjEtNjI4ZmQ3ZWM3NmQ3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The crypto community has been pondering on social media about the ongoing downtime, while Polygon assures its users that it is actively working to resolve the issue.</p>\n                    <p><p>Ethereum scaling protocol Polygon has announced that its zero-knowledge Ethereum Virtual Machine (zkEVM) is currently experiencing downtime due to an issue with its blockchain sequencer.</p><p>In a <a href=\"https://x.com/0xPolygon/status/1771671172834283539?s=20\" target=\"_blank\" rel=\"noopener nofollow\">post</a> on X, Polygon reassured its two million followers that the issue is confined to the zkEVM specifically and does not impact any other chain deployed using the Polygon chain development kit (CDK).</p><p>Polygon clarified that the problem comes from the blockchain sequencer, which is responsible for organizing and combining transactions into batches before relaying them to the Polygon zkEVM smart contract on Ethereum's main network.</p><p><a href=\"https://cointelegraph.com/news/polygon-zkevm-mainnet-beta-sequencer-issues\">Read more</a></p></p>\n                \n            "
+  }
+]

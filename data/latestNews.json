@@ -1,9 +1,9 @@
 [
   {
-    "source": "Bitcoin.com",
-    "date": "2024-03-25T03:30:57.000Z",
-    "title": "Hedging Shields Portfolios from Whales Known to ‘Sell Their Losses to Retail Investors’ – Robby Greenfield",
-    "url": "https://news.bitcoin.com/hedging-shields-portfolios-from-whales-known-to-sell-their-losses-to-retail-investors-robby-greenfield/",
-    "description": "Despite the notion that portfolio hedging is a preserve for institutional investors, Robby Greenfield, the CEO of Umoja Labs, says even retail investors can use well-known techniques to insulate their crypto portfolios against sudden and steep price swings. The CEO however concedes that many retail investors have not engaged in hedging because such tools have [&#8230;]"
+    "source": "Cointelegraph",
+    "date": "2024-03-25T03:51:36.000Z",
+    "title": " ParaSwap begins returning crypto after critical smart contract bug ",
+    "url": "https://cointelegraph.com/news/paraswap-return-crypto-critical-smart-contract-vulnerability",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYmIyYmY3MzUtYmRlNi00OTQyLTkyNTctZThmM2I5NzU5NTdjLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>ParaSwap has now returned assets to wallets that have revoked their permissions to the AugustusV6 smart contract, which was found to have a critical vulnerability last week. </p>\n                    <p><p>Decentralized finance aggregator ParaSwap has begun returning crypto to users after addressing a critical <a href=\"https://cointelegraph.com/news/paraswap-hack-augustus-v6-contract-vulnerability\">vulnerability</a> in its newly launched Augustus v6 smart contract last week. </p><p>The DeFi platform team <a href=\"https://twitter.com/paraswap/status/1771964824542441528\" target=\"_blank\" rel=\"noopener nofollow\">posted</a> on X on March 24, stating it has returned all assets to wallets that were successfully recovered by white hat hackers and have also revoked permissions to AugustusV6.</p><p>According to ParaSwap, 213 addresses currently still have not yet revoked allowances to the flawed contract. </p><p><a href=\"https://cointelegraph.com/news/paraswap-return-crypto-critical-smart-contract-vulnerability\">Read more</a></p></p>\n                \n            "
   }
 ]

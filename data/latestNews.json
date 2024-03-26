@@ -1,100 +1,107 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-03-26T13:46:06.000Z",
-    "title": "BBC Abandons 'Doctor Who' AI Promo Plans After Viewer Complaints",
-    "url": "https://decrypt.co/223411/bbc-abandons-doctor-who-ai-promo-plans-after-viewer-complaints",
-    "description": "The BBC has \"no plans\" to expand upon a trial that saw generative AI used to create marketing copy for the sci-fi series \"Doctor Who.\""
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-26T13:49:20.000Z",
-    "title": " Bitcoin block art? Marathon showcases visualization potential of block building ",
-    "url": "https://cointelegraph.com/news/bitcoin-block-art-marathon",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYmRmZmJlNzYtMDdiMi00NDM2LTljZTYtNWU3N2NhYzlhNTE4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Marathon Digital explores the potential of “block art” by using its mining pool to craft the order of transactions in a block.  </p>\n                    <p><p data-ct-non-breakable=\"true\">A Bitcoin Core contributor has immortalized Marathon Digital’s logo into the data visualization of a Bitcoin block by using the mining firm’s template building tools.</p><p>X user Portland.HODL laid claim to the intriguing piece of “block art”, a custom graphic crafted by ordering transactions in a block that can be then seen on Bitcoin indexer website. Blockchain indexers visualize bitcoin transactions using square blocks and color gradients based on transaction sizes and fee rates.</p><p>Marathon Digital shared details of block <a href=\"https://mempool.space/block/0000000000000000000341cc26cda4af82cd25f7063c448772228cbf2836915b?audit=false\" target=\"_blank\" rel=\"noopener nofollow\">836361</a> which it successfully mined on March 26. The firm dubbed it the M block and wanted the visualization to demonstrate its template building capabilities and technology stack.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-block-art-marathon\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-26T13:46:43.000Z",
-    "title": " Hong Kong’s in-kind ETF creation could be a significant market opportunity: Analysts ",
-    "url": "https://cointelegraph.com/news/hong-kong-in-kind-etf-creation-significant-opportunity",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMTc0OTI4MTYtNDlhMS00ZjIxLWE5Y2EtNzRjYjcxM2ZkMmYxLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Hong Kong aims to enable in-kind creations and redemptions for spot Bitcoin ETFs in the second quarter.</p>\n                    <p><p data-ct-non-breakable=\"true\">Hong Kong’s financial regulators aim to offer in-kind creation models for spot Bitcoin exchange-traded funds (ETFs).</p><p>This could be a significant market opportunity, which could considerably increase assets under management (AUM) and trading volume for Bitcoin ETF issuers in the region, according to a research note by Bloomberg ETF analyst Rebecca Sin, shared in a March 26 X post by Eric Balchunas:</p><p>Hong Kong’s approach is in contrast with the model of the U.S. Securities and Exchange Commission (SEC), which exclusively allows for cash creation models for spot Bitcoin ETFs.</p><p><a href=\"https://cointelegraph.com/news/hong-kong-in-kind-etf-creation-significant-opportunity\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-03-26T14:28:02.000Z",
+    "title": "Nayib Bukele Update on El Salvador Bitcoin Holdings Shows Growing Stack",
+    "url": "https://www.coindesk.com/business/2024/03/26/nayib-bukele-update-on-el-salvador-bitcoin-holdings-shows-growing-stack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "At the current price just above $70,000, the nation now holds about $400 million worth of bitcoin."
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-26T13:40:37.000Z",
-    "title": "Tether enters AI race with pledge to build open-source LMMs to combat Big Tech",
-    "url": "https://cryptoslate.com/tether-launches-ai-arm-data-aimed-at-building-open-source-lmms-via/",
-    "description": "<p>Tether, the company behind the world&#8217;s largest stablecoin USDT, has announced a strategic expansion into artificial intelligence, as reported by the company on March 26. With a market cap of $104 billion, Tether aims to lead the development of open-source, multimodal AI models and integrate AI solutions into market-driven products. The move comes amid growing [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-launches-ai-arm-data-aimed-at-building-open-source-lmms-via/\">Tether enters AI race with pledge to build open-source LMMs to combat Big Tech</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-26T14:30:45.000Z",
+    "title": "The future of Bitcoin mining post-halving, according to GoMining",
+    "url": "https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/",
+    "description": "<p>The phenomenon of the Bitcoin halving is a cornerstone event in the crypto world, fundamentally altering the economic landscape for miners and investors alike. Occurring approximately every four years, this event reduces the reward for mining new Bitcoin blocks by half, a mechanism designed to control the supply of Bitcoin and mimic the scarcity-driven value [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/the-future-of-bitcoin-mining-post-halving-according-to-gomining/\">The future of Bitcoin mining post-halving, according to GoMining</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-26T14:30:02.000Z",
+    "title": "OrdinalsBot secures $3 million seed funding to turbocharge Bitcoin inscriptions ecosystem",
+    "url": "https://cryptoslate.com/ordinalsbot-secures-over-3-million-to-turbocharge-bitcoin-ecosystem-with-novel-infrastructures/",
+    "description": "<p>Ordinals infrastructure platform OrdinalsBot said it raised over $3 million in its seed funding round to enhance opportunities within the broader Bitcoin ecosystem, according to a March 26 statement shared with CryptoSlate. The funding round was led by DACM, with significant contributions from Eden Block and Nural Capital. Notable participants include WWVentures, Lightning Ventures, and [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ordinalsbot-secures-over-3-million-to-turbocharge-bitcoin-ecosystem-with-novel-infrastructures/\">OrdinalsBot secures $3 million seed funding to turbocharge Bitcoin inscriptions ecosystem</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-03-26T14:28:53.000Z",
+    "title": "RWA liquidity firm Curio falls to $16m smart contract exploit",
+    "url": "https://cryptobriefing.com/rwa-curio-smart-contract-exploit/",
+    "description": "The exploit saw an estimated $16 million in damage due to asset loss."
   },
   {
     "source": "CryptoGlobe",
-    "date": "2024-03-26T13:50:01.000Z",
-    "title": "$ETH: Grayscale’s CLO Explains Why He Still Expects U.S. SEC to Approve Spot Ethereum ETFs",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/eth-grayscales-clo-explains-why-he-still-expects-u-s-sec-to-approve-spot-ethereum-etfs/",
-    "description": "In a recent discourse on the social media platform X, Craig Salm, the Chief Legal Officer (CLO) of Grayscale Investments, shared his insights and optimism regarding the approval of spot Ethereum ETFs in the U.S., despite what many perceive as a lack of engagement from the U.S. SEC. Salm began the thread by addressing the […]\n"
+    "date": "2024-03-26T14:33:55.000Z",
+    "title": "$COOKIE, the Cookie3 MarketingFi Ecosystem Token, will Launch on ChainGPT Pad and Polkastarter",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/cookie-the-cookie3-marketingfi-ecosystem-token-will-launch-on-chaingpt-pad-and-polkastarter/",
+    "description": "Tallinn, Estonia, March 26th, 2024, Chainwire This first MarketingFi utility token will launch within the Cookie3 ecosystem. $COOKIE represents digital marketing value passed on to users who drive projects forward instead of on advertising giants like Google or Facebook. Cookie3, a MarketingFi Protocol and AI Data Layer, has just announced that $COOKIE—the Cookie DAO-powered token,will […]\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-03-26T14:28:14.000Z",
+    "title": "DeMi Platform Announces a Strategic Partnership with BitCluster",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/demi-platform-announces-a-strategic-partnership-with-bitcluster/",
+    "description": "Addis Ababa, Ethiopia, March 26th, 2024, Chainwire DeMi, an innovative tokenized mining platform, has announced a partnership with BitCluster, a leading mining solutions provider, and this is an important step to expanding the capacity of both companies. DeMi, an innovative tokenized mining platform revolutionizing the industry, has announced a strategic partnership with BitCluster, a leading mining solutions provider. […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-26T14:01:25.000Z",
-    "title": "Spectral Launches Syntax, an LLM Enabling Web3 Users to Build Autonomous Agents and Deploy Onchain Products",
-    "url": "https://cryptodaily.co.uk/2024/03/spectral-launches-syntax-an-llm-enabling-web3-users-to-build-autonomous-agents-and-deploy-onchain-products",
-    "description": "Spectral Launches Syntax, an LLM Enabling Web3 Users to Build Autonomous Agents and Deploy Onchain Products"
+    "date": "2024-03-26T14:27:39.000Z",
+    "title": "45% Spike in BEFE Coin Price Linked to Anticipation of Presale",
+    "url": "https://cryptodaily.co.uk/2024/03/45-spike-in-befe-coin-price-linked-to-anticipation-of-presale",
+    "description": "In cryptocurrencies, few events spark more frantic speculation and price alarm than a new token presale."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-26T14:22:03.000Z",
+    "title": "FOMO BULL CLUB: Revolutionizing Memecoin Launches with a Decentralized Launchpad",
+    "url": "https://cryptodaily.co.uk/2024/03/fomo-bull-club-revolutionizing-memecoin-launches-with-a-decentralized-launchpad",
+    "description": "FOMO BULL CLUB: Revolutionizing Memecoin Launches with a Decentralized Launchpad"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-26T14:20:50.000Z",
+    "title": "Bitgert Coin's 70% Monthly Gain Sparks Predictions of 700% Upsurge",
+    "url": "https://cryptodaily.co.uk/2024/03/bitgert-coins-70-monthly-gain-sparks-predictions-of-700-upsurge",
+    "description": "If there's a coin taking the cryptocurrency market by storm and keeping investors on their toes, it's Bitgert coin (BRISE). Presently trading at $0.0000002566 (25 March 2024), Bitgert coin amassed 70% gains in just a month. And it is expected to exhibit a 700% rise in the coming future. Let's learn what makes BRISE  coin unique and why analysts foresee such a massive surge."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-26T14:07:00.000Z",
-    "title": "DeMi Platform Announces a Strategic Partnership with BitCluster",
-    "url": "https://www.cryptopolitan.com/demi-platform-announces-a-strategic-partnership-with-bitcluster/",
-    "description": "Addis Ababa, Ethiopia, March 26th, 2024, Chainwire DeMi, an innovative tokenized mining platform, has announced a partnership with BitCluster, a leading mining solutions provider, and this is an important step to expanding the capacity for both companies. DeMi, an innovative tokenized mining platform revolutionizing the industry, has announced a strategic partnership with BitCluster, a leading [&#8230;]"
+    "date": "2024-03-26T14:36:38.000Z",
+    "title": "Study Reveals Link Between ChatGPT Usage and Academic Performance Decline",
+    "url": "https://www.cryptopolitan.com/study-between-chatgpt-and-academic/",
+    "description": "A recent study published in the International Journal of Educational Technology in Higher Education has shed light on the concerning correlation between the use of AI software, particularly ChatGPT, and deteriorating academic performance among university students. The research, conducted by Mohammed Abbas and his team from the National University of Computer and Emerging Sciences in [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-26T14:02:55.000Z",
-    "title": "Spectral Launches Syntax, an LLM Enabling Web3 Users to Build Autonomous Agents and Deploy Onchain Products",
-    "url": "https://www.cryptopolitan.com/spectral-launches-syntax-an-llm-enabling-web3-users-to-build-autonomous-agents-and-deploy-onchain-products/",
-    "description": "New York, New York, March 26th, 2024, Chainwire Syntax takes natural language and converts it into Solidity code, enabling individuals and enterprises to ship production grade smart contracts, arbitrage agents, NFTs, rollups, and more. Syntax marks the manifestation of the Agent Economy in Web3. Today, Spectral Labs has launched Syntax, a new LLM enabling people [&#8230;]"
+    "date": "2024-03-26T14:27:24.000Z",
+    "title": "Crypto Giant Galaxy Digital assets under management surge to $10.1B",
+    "url": "https://www.cryptopolitan.com/galaxy-digital-assets-under-management-surge/",
+    "description": "Crypto Giant Galaxy Digital, a prominent digital asset management firm, has made a remarkable comeback, reporting a net income of $296 million for the fiscal year 2023. This achievement marks a significant reversal of fortune after enduring a staggering $1 billion net loss in 2022. The firm attributes this remarkable turnaround to the shifting market [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-26T14:00:06.000Z",
-    "title": "XRP open interest crosses $1b as traders target $0.75 price rally ",
-    "url": "https://crypto.news/xrp-open-interest-price-rally/",
-    "description": "Ripple's derivatives market trends highlight how a $150 million capital inflows and 100% leverage surge could impact price action in the days ahead. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-26T14:00:12.000Z",
-    "title": "Analyst Warns Of Bitcoin Pre-Halving Retrace Echoing Troubling 2020 Trend",
-    "url": "https://www.newsbtc.com/news/bitcoin/analyst-warns-of-bitcoin-pre-halving-retrace-echoing-troubling-2020-trend/",
-    "description": "Rekt Capital, a cryptocurrency expert and enthusiast, has identified a similar pattern between the recent Bitcoin pre-halving retrace and the one that took place in 2020 before the crypto asset witnessed an upsurge to its previous all-time high. Bitcoin Pullback Is Almost Identical With 2020 Pre-Halving Retrace Bitcoin, the largest cryptocurrency asset, is presently demonstrating momentum, rising over $70,000 and recovering from a recent downward trend. Following the recovery, Rekt Capital believes that the pullback might be over, citing a similarity to the 2020 pre-halving retrace. Related Reading: Bitcoin Price Reclaims $70K And Signals Fresh Surge To $75K Given the uncertainty of the crypto market, the analyst is not sure if the recent upsurge marks the end of the pre-halving retrace. However, if that is the case, then Bitcoin would have nearly matched the pre-halving correction from 2020. According to the analyst, the digital asset has recorded a pullback of over 18% in this cycle. Meanwhile, in the 2020 cycle, it retraced by over 19%, suggesting the potential of the asset mirroring the 2020 movement this cycle. A further dive into the correction made by the analyst reveals that Bitcoin has been trapped inside the Weekly range (black-black) ever since it retraced by over 18%. Both the upside-wicking 2021 peak and the candle-bodied 2021 peak combine to create the weekly range that Rekt Capital has indicated. Thus, he claims that BTC reclaiming the $69,200 &#8216;range high&#8217; as support, which has already played out, could signal the conclusion of the recent decline. In addition, this demonstrates that Bitcoin is poised to move over its weekly range and soar higher. With the 2024 Bitcoin halving drawing closer, the cryptocurrency is having difficulty in reclaiming its most recent peak of $73,000. However, there are rumors that today&#8217;s increase could mean the pre-halving decline is coming to an end. Considered Catalysts For BTC&#8217;s Strength This Cycle As of the time of writing, BTC has rebounded to around $70,806, indicating a daily increase of over 5%. Its market cap and trading volume are also showing strength, rising by 5.49% and 47.82%, respectively, in the past day. One of the main drivers of Bitcoin&#8217;s growth this cycle is thought to have been the approval of spot BTC ETFs in January 2024. With the acceptance of the product, investors now have a convenient way to profit from Bitcoin&#8217;s value without actually owning any of it.  Related Reading: Bitcoin is “Overheating” For The First Time Ever Before Halving Since then, the crypto asset has witnessed increased adoption from industry leaders and a massive inflow of capital, propelling its price as well. The BTC price has increased from $46,000 to a peak of $73,000 since the ETFs were approved by the US Securities and Exchange Commission (SEC). Another catalyst considered to have impacted the coin&#8217;s price is the anticipation surrounding the upcoming Bitcoin Halving set to occur in April. In the past, these kinds of events have led to notable price upticks. Due to this, investors will shift their attention to BTC to position themselves for significant gains following the halving event. Featured image from iStock, chart from Tradingview.com"
+    "source": "Cryptopolitan",
+    "date": "2024-03-26T14:15:21.000Z",
+    "title": "FOMO BULL CLUB: Revolutionizing Memecoin Launches with a Decentralized Launchpad",
+    "url": "https://www.cryptopolitan.com/fomo-bull-club-revolutionizing-memecoin-launches-with-a-decentralized-launchpad/",
+    "description": "Singapore, Singapore, March 26th, 2024, Chainwire FOMO BULL CLUB, an exclusive, multichain, decentralized launchpad and liquidity hub for memecoins, targets key challenges in their launch process. By creating a launch framework on networks such as Polygon, Solana, Ethereum, Manta Network, and SUI, it removes the risk of rug pulls and guarantees instant utility for newly [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-26T14:11:04.000Z",
-    "title": "DeMi Platform Announces a Strategic Partnership with BitCluster",
-    "url": "https://www.crypto-news-flash.com/demi-platform-announces-a-strategic-partnership-with-bitcluster/?utm_source=rss&utm_medium=rss&utm_campaign=demi-platform-announces-a-strategic-partnership-with-bitcluster",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/20210920_A9040T01_1711361027wFWQb2Herb-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Addis Ababa, Ethiopia, March 26th, 2024, Chainwire DeMi, an innovative tokenized mining platform, has announced a partnership with BitCluster, a leading mining solutions provider, and this is an important step to expanding the capacity for both companies. DeMi, an innovative tokenized mining platform revolutionizing the industry, has announced a strategic partnership with BitCluster, a leading [...]"
+    "date": "2024-03-26T14:25:24.000Z",
+    "title": "Avalanche and Chainlink Integration Sparks Excitement for AVAX and LINK",
+    "url": "https://www.crypto-news-flash.com/avalanche-and-chainlink-integration-sparks-excitement-for-avax-and-link/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-and-chainlink-integration-sparks-excitement-for-avax-and-link",
+    "description": "<img width=\"1800\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Avalanche patners with Citibank\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition.jpg 1800w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1024x683.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-768x512.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1536x1024.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-450x300.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Avalanche-AVAX-background-blue-edition-1200x800.jpg 1200w\" sizes=\"(max-width: 1800px) 100vw, 1800px\" />ANZ and Chainlink teamed up to connect Ethereum and Avalanche blockchains for seamless asset settlement. The collaboration aims to modernize traditional settlement processes using blockchain technology In a recent blog, the Australia and New Zealand Banking Group (ANZ) has joined forces with Chainlink Labs to explore seamless cross-chain settlement solutions. This collaboration aims to bridge [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-26T14:00:28.000Z",
-    "title": "Dogecoin at Critical Support: What’s Next? Major Whale Investor Eyes RebelSatoshi Purchase",
-    "url": "https://www.crypto-news-flash.com/dogecoin-at-critical-support-whats-next-major-whale-investor-eyes-rebelsatoshi-purchase/?utm_source=rss&utm_medium=rss&utm_campaign=dogecoin-at-critical-support-whats-next-major-whale-investor-eyes-rebelsatoshi-purchase",
-    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-26T020502.237-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Dogecoin, the beloved memecoin that started as a joke, is now facing a critical juncture in its journey. As one of the top crypto coins in the market, Dogecoin has captured the imagination of investors worldwide with its iconic Shiba Inu mascot and its community-driven ethos. However, recent price action has put Dogecoin at a [...]"
+    "date": "2024-03-26T14:20:08.000Z",
+    "title": "FOMO BULL CLUB: Revolutionizing Memecoin Launches with a Decentralized Launchpad",
+    "url": "https://www.crypto-news-flash.com/fomo-bull-club-revolutionizing-memecoin-launches-with-a-decentralized-launchpad/?utm_source=rss&utm_medium=rss&utm_campaign=fomo-bull-club-revolutionizing-memecoin-launches-with-a-decentralized-launchpad",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/fomo_bull_pr1_1711381285pC2CQb1InM-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Singapore, Singapore, March 26th, 2024, Chainwire FOMO BULL CLUB, an exclusive, multichain, decentralized launchpad and liquidity hub for memecoins, targets key challenges in their launch process. By creating a launch framework on networks such as Polygon, Solana, Ethereum, Manta Network, and SUI, it removes the risk of rug pulls and guarantees instant utility for newly [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-03-26T13:44:06.000Z",
-    "title": "Binance Introduces BONK & FLOKI Pairs",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/binance-introduces-bonk-floki-pairs/",
-    "description": "<p>This update introduces BONK/USDC, FLOKI/USDC, FTM/USDC, MKR/TRY, RAY/TRY, and RNDR/BRL pairs. It marks a strategic expansion of the exchange&#8217;s offerings to include a mix of emerging and established cryptocurrencies. Binance Adds Diverse New Trading Pairs From then, traders get advanced trading bots for ETHFI/USDT and Spot Algo Orders for new and existing pairs. This highlights [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/binance-introduces-bonk-floki-pairs/\">Binance Introduces BONK &#038; FLOKI Pairs</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-26T14:02:15.000Z",
-    "title": "Spectral Launches Syntax, an LLM Enabling Web3 Users to Build Autonomous Agents and Deploy Onchain Products",
-    "url": "https://coinedition.com/spectral-launches-syntax-an-llm-enabling-web3-users-to-build-autonomous-agents-and-deploy-onchain-products/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/pr_1710860990rdHKqEdnpA-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>New York, New York, March 26th, 2024, Chainwire Syntax takes natural language and converts it into Solidity code, enabling individuals and enterprises to ship production grade smart contracts, arbitrage agents, NFTs, rollups, and more. Syntax marks the manifestation of the Agent Economy in Web3. Today, Spectral Labs has launched Syntax, a new LLM enabling people [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/spectral-launches-syntax-an-llm-enabling-web3-users-to-build-autonomous-agents-and-deploy-onchain-products/\">Spectral Launches Syntax, an LLM Enabling Web3 Users to Build Autonomous Agents and Deploy Onchain Products</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-03-26T14:30:30.000Z",
+    "title": "Ex-Goldman Sachs Executive Says Imminent ‘Macro Summer’ About To Boost Bitcoin and Altcoins",
+    "url": "https://dailyhodl.com/2024/03/26/ex-goldman-sachs-executive-says-imminent-macro-summer-about-to-boost-bitcoin-and-altcoins/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/Imminent-Macro-Summer.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Real Vision CEO Raoul Pal thinks &#8220;macro summer&#8221; has begun and will send the prices of Bitcoin (BTC) and altcoins soaring. The former Goldman Sachs executive tells his 1 million followers on the social media platform X that macro summer involves the ISM manufacturing index picking up. The ISM is an indicator of US economic activity. [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/26/ex-goldman-sachs-executive-says-imminent-macro-summer-about-to-boost-bitcoin-and-altcoins/\">Ex-Goldman Sachs Executive Says Imminent ‘Macro Summer’ About To Boost Bitcoin and Altcoins</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

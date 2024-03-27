@@ -1,79 +1,93 @@
 [
   {
-    "source": "Decrypt",
-    "date": "2024-03-27T13:15:42.000Z",
-    "title": "FetchAI, SingularityNet and Ocean Protocol Propose Merger to Build Largest Decentralized AI Ecosystem",
-    "url": "https://decrypt.co/223679/fetch-ai-singularitynet-ocean-protocol-merger-superintelligence-collective",
-    "description": "If approved, the new ASI token could rank among the 20 most capitalized cryptocurrencies in the ecosystem with a $7.5 billion fully-diluted valuation."
+    "source": "CoinDesk",
+    "date": "2024-03-27T13:54:36.000Z",
+    "title": "KuCoin Withdrawals Spike to $1B in Crypto Amid U.S. Regulatory Clampdown",
+    "url": "https://www.coindesk.com/markets/2024/03/27/kucoin-withdrawals-spike-to-1b-in-crypto-amid-us-regulatory-clampdown/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The surge occurred as U.S. federal prosecutors charged the exchange and two of its founders with violating anti-money laundering laws on Tuesday."
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-27T13:30:00.000Z",
-    "title": " ‘SEAL 911’ team of white hats formed to fight crypto hacks in real time ",
-    "url": "https://cointelegraph.com/magazine/seal-911-team-white-hat-forms-fight-crypto-hacks-real-time/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-Whitehat-hacker-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Projects under attack can hire the SEAL 911 team of white hat hackers to combat exploits — but only after signing on the dotted line.</p>\n                    <p><p><strong>It started with the chaotic $190 million Nomad hack in August 2022. An exploit, or flaw in the code, was found for the bridge, and a colossal crowd of criminals rushed in to loot the funds. </strong></p><p>In its analysis of the exploit, Immunifi said one <a href=\"https://medium.com/immunefi/hack-analysis-nomad-bridge-august-2022-5aa63d53814a\" target=\"_blank\" rel=\"nofollow\">problem</a> was: Staying true to DeFi Principles, this hack was permissionless  anyone could join in.</p><p>Plenty of white hat hackers wanted to help but were forced to watch from the sidelines due to the legal risks of pitching in.</p><p><a href=\"https://cointelegraph.com/magazine/seal-911-team-white-hat-forms-fight-crypto-hacks-real-time/\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-03-27T13:28:36.000Z",
-    "title": " 21Shares debuts Toncoin staking ETP TONN on SIX Exchange  ",
-    "url": "https://cointelegraph.com/news/21shares-toncoin-staking-etp-tonn",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMzBiNGY5NjQtMzMyMi00OGQ2LTgyZTUtMTVhYTQwMTMzNjJkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>21Shares’ Toncoin staking ETP, one of the first TON ETPs in the world, is debuting trading on the SIX Exchange under the ticker symbol TONN.</p>\n                    <p><p data-ct-non-breakable=\"true\">21Shares, one of the largest cryptocurrency exchange-traded product (ETP) issuers, is launching a staking ETP based on cryptocurrency Toncoin (TON).</p><p data-ct-non-breakable=\"true\">The new Toncoin Staking ETP is a 100% physically backed product that tracks the performance of TON while reinvesting staking yields into the ETP for enhanced performance. </p><p data-ct-non-breakable=\"true\">The product will start trading on the Swiss SIX Exchange under the ticker TONN on March 27, the firm said in an announcement to Cointelegraph on Wednesday.</p><p><a href=\"https://cointelegraph.com/news/21shares-toncoin-staking-etp-tonn\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-03-27T13:43:26.000Z",
+    "title": "Hopes for Another DeFi Summer Soar as TradFi Markets Suddenly Look Less Appealing",
+    "url": "https://www.coindesk.com/business/2024/03/27/hopes-for-another-defi-summer-soar-as-tradfi-markets-suddenly-look-less-appealing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Since the approval of spot bitcoin ETFs in January, DeFi looks ascendant, triggering memories of 2020, aka DeFi Summer, when the space bustled with activity."
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-27T13:19:33.000Z",
-    "title": "Munchables recovers $62.5 million in user funds after exploit linked to North Korean hacker",
-    "url": "https://cryptoslate.com/munchables-recovers-62-5-million-in-user-funds-after-exploit-linked-to-north-korean-hacker/",
-    "description": "<p>Munchables, a web3 game operating on the Ethereum layer-2 network Blast, has successfully recovered the $62.5 million it recently lost to an exploit. The platform disclosed that the attacker voluntarily provided all relevant private keys to facilitate the return of user funds. The keys holding the $62.5 million worth of ETH, 73 WETH, and the [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/munchables-recovers-62-5-million-in-user-funds-after-exploit-linked-to-north-korean-hacker/\">Munchables recovers $62.5 million in user funds after exploit linked to North Korean hacker</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-03-27T13:10:49.000Z",
-    "title": "Heavy Bitcoin inflow into Coinbase Prime service visibile on-chain after ETF launches",
-    "url": "https://cryptoslate.com/insights/coinbases-prime-service-attracts-heavy-bitcoin-inflow-amid-etf-launch-cryptoquant/",
-    "description": "<p>Quick Take Significant Bitcoin inflows into Coinbase&#8217;s Prime Brokerage services, which cater primarily to US institutional investors, can be seen via CryptoQuant data. Coinbase Prime offers advanced trading platforms, over-the-counter (OTC) desks, and custody services – appealing features for institutional clients. This influx aligns with the launch of Bitcoin exchange-traded funds (ETFs) on Jan.11; CryptoQuant [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/coinbases-prime-service-attracts-heavy-bitcoin-inflow-amid-etf-launch-cryptoquant/\">Heavy Bitcoin inflow into Coinbase Prime service visibile on-chain after ETF launches</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-27T13:46:34.000Z",
+    "title": "Hashdex debuts US spot Bitcoin ETF ‘DEFI’ with impressive pre-market activity",
+    "url": "https://cryptoslate.com/hashdex-debuts-us-spot-bitcoin-etf-defi-with-impressive-pre-market-activity/",
+    "description": "<p>Asset management firm Hashdex&#8217;s spot Bitcoin exchange-traded fund (ETF) will begin trading today on the US market under the ticker &#8220;DEFI.&#8221; According to Yahoo Finance data, early trading data indicates significant trader interest, with the fund already showing a pre-market uptick of over 3%. Fund conversion In a March 26 statement, Tidal Investments and Hashdex [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/hashdex-debuts-us-spot-bitcoin-etf-defi-with-impressive-pre-market-activity/\">Hashdex debuts US spot Bitcoin ETF &#8216;DEFI&#8217; with impressive pre-market activity</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-03-27T13:30:02.000Z",
-    "title": "Fetch.ai, Ocean Protocol, and SingularityNET merge tokens in a bid to build an ethical, decentralized AI ecosystem",
-    "url": "https://cryptobriefing.com/fetch-ai-ocean-singularitynet-merge-tokens/",
-    "description": "Fetch.ai, SNET, and Ocean Protocol unite to form an ethical AI ecosystem, challenging centralized AI with a democratic AGI vision."
+    "date": "2024-03-27T14:00:49.000Z",
+    "title": "DeFi ecosystem growths more rational and mature, shows Exponential report",
+    "url": "https://cryptobriefing.com/defi-market-maturing-stability-growth/",
+    "description": "The DeFi market is showing signs of renewed optimism and maturity, as investors increasingly prioritize security over high yields."
   },
   {
-    "source": "Coin Telegraph India",
-    "date": "2024-03-27T13:30:00.000Z",
-    "title": " ‘SEAL 911’ team of white hats formed to fight crypto hacks in real time ",
-    "url": "https://cointelegraph.com/magazine/seal-911-team-white-hat-forms-fight-crypto-hacks-real-time/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-Whitehat-hacker-scaled.jpg\"></p><p>Projects under attack can hire the SEAL 911 team of white hat hackers to combat exploits — but only after signing on the dotted line.</p>\n            "
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-27T13:24:08.000Z",
-    "title": "Addressing the Urgent Need for Equitable AI Upskilling in the Workplace",
-    "url": "https://www.cryptopolitan.com/equitable-ai-upskilling-in-the-workplace/",
-    "description": "The word AI has become a matter of swirling controversy because of the exponential pace at which it proceeds making people speculate that it could be used as a tool for eliminating what is left of the equality between employers and employees. As a result of the situation whereby it is the people from privileged [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2024-03-27T13:41:51.000Z",
+    "title": "USDT goes live on Celo blockchain",
+    "url": "https://cryptobriefing.com/tether-launches-usdt-on-celo-blockchain/",
+    "description": "Tether has deployed its USDT stablecoin on the Celo blockchain."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-27T13:17:08.000Z",
-    "title": "WRX Price Prediction 2024-2033: Will WazirX Recover Soon?",
-    "url": "https://www.cryptopolitan.com/wrx-price-prediction/",
-    "description": "WRX Price Prediction 2024-2033 How much is WRX worth? The current price of WazirX (WRX) is $0.31, accompanied by a 24-hour trading volume of $1.1 million. The market capitalization stands at $50.9 million, and WazirX holds a market dominance of 0.00%. Over the past 24 hours, the WRX price has witnessed a 2.4% decrease. Currently, [&#8230;]"
+    "date": "2024-03-27T14:07:20.000Z",
+    "title": "A Look Inside Draftables P2E Football Game With CEO Brian Ross: Exclusive Interview",
+    "url": "https://www.cryptopolitan.com/draftables-brian-ross-exclusive-interview/",
+    "description": "Brian Ross is the co-founder and CEO of Draft Labs, the development company behind Draftables, one of the “hidden gaming gems” on Avalanche. Draftables is a customizable American Football sports simulation game where players can run their own unique football franchise, train, compete, and earn crypto rewards.  We spoke with Ross about Draftables, the intricacies [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-27T13:53:12.000Z",
+    "title": "Velar Is Listing on Bybit, Marking a Major Milestone for the Bitcoin Ecosystem",
+    "url": "https://www.cryptopolitan.com/velar-is-listing-on-bybit-marking-a-major-milestone-for-the-bitcoin-ecosystem/",
+    "description": "Panama City, Panama, March 27th, 2024, Chainwire Velar’s Initial Exchange Offering on Bybit will be a significant milestone in Velar’s vision to bring trillions of dollars in dormant Bitcoin capital to the DeFi ecosystem Velar, the Bitcoin liquidity protocol that’s bringing trillions of dollars in dormant capital to DeFi markets, is excited to announce the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-27T13:51:26.000Z",
+    "title": "Generative AI Adoption Surges Among Consumers, Transforming Customer Expectations",
+    "url": "https://www.cryptopolitan.com/generative-ai-adoption-surges-among-consumer/",
+    "description": "The retail world today operates under this dramatic pace and division, and new technologies, on their part, create more sophisticated customers who are aware of everything and have different tastes. In the context of Adobe study that came across the issue of a big reshaping roles of consumers and brands happened due to the fact [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-27T13:46:32.000Z",
+    "title": "Hong Kong firms apply for first spot Bitcoin ETF",
+    "url": "https://www.cryptopolitan.com/hong-kong-firms-apply-for-first-bitcoin-etf/",
+    "description": "The Hong Kong-based asset manager VSFG has teamed up with Value Partners to apply for a license for a spot Bitcoin ETF. This action is an epochal moment in the financial face of the region. It is a continuation after the submission by Harvest Global Investments, which was the first company to make an application [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-27T13:55:58.000Z",
+    "title": "Apple draws crypto criticism again: what you need to know",
+    "url": "https://crypto.news/apple-draws-crypto-criticism-again-what-you-need-to-know/",
+    "description": "Apple has found itself under the microscope of the crypto community twice recently. What are the implications of these events? In a recent turn of events, Apple, the tech giant, finds itself in the crosshairs of the crypto community, not&#8230;"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-27T14:00:39.000Z",
+    "title": "The Road To $100,000: Bitcoin Whale Accumulation Explodes",
+    "url": "https://www.newsbtc.com/news/bitcoin/100000-bitcoin-whale-accumulation/",
+    "description": "Bitcoin reaching $100,000 remains a highly feasible target, especially given the fact that the price of the cryptocurrency hit a new all-time high above $73,00 ahead of the halving. In preparation of the explosive move that is expected to follow the halving, Bitcoin whales are going all out as they fill up their wallets with BTC. Large Bitcoin Whales Buy More BTC As the Bitcoin price has retraced from its surge, large Bitcoin whales are taking advantage of the dip to buy more coins at cheap prices. These whales, which hold at least 1,000 BTC &#8211; which means they have $70 million on the low end, have bought up a large tranche of coins over the last three months. Related Reading: Crypto Analyst Predicts XRP Price Will Rally 800% To $6, Here’s When Since January, there has been a steady climb in the number of wallets that hold at least 1,000 as interest continues to grow. A lot of this interest is driven by institutional investors who are putting billions of dollars into Spot Bitcoin ETFs. Now, with the condition that issuers have to hold the BTC they sell to customers, it has seen these institutions buy up a good chunk of the supply. The number of addresses holding at least 1,000 BTC was sitting at less than 1,500 at the beginning of the year. However, by March, with institutions ramping up their buys, this number has climbed to 1,617. This is an 8% increase in the number of these large whales in the last three months. Source: Glassnode To put this increase in perspective, the last time that there were these many whales holding this much BTC was back in 2021 at the peak of the bull market. So, if this number is rising once again, it means that these large investors are expecting the price to rise, and as a result, are trying to maximize their profits. Spot ETF Inflows See 2,600% Spike After a week of consistent outflows, inflows into the Spot Bitcoin ETFs are starting to ramp up once again. For the first day of the week, inflows climbed to $14.5 million, bringing a welcome change from the almost $900 million worth of outflows that was recorded in the prior week. This change in the tide seems to have brought renewed interest for investors as Tuesday saw a whopping 2,600% increase in inflows. In total, there $418 million recorded going into Spot BTC ETFs on Tuesday, one of the highest inflow days since the ETFs were approved. Related Reading: Ripple CEO Responds To SEC’s Shocking $2 Billion Demand This change in direction is also evident in the Bitcoin price, which has recovered from last week’s low of $60,000. The price has since sprung back up above $70,000, with a 10% increase in the last week. This also validates the whales’ moves to acquire more Bitcoin, putting the vast majority of their holdings in profit. Now, as seen in the past, a return of high inflows into the Spot ETFs has always been bullish for the price. So, if the inflows were to continue throughout this week, then the price of Bitcoin could register a brand new all-time high ahead of the halving. BTC bulls push price toward $72,000 &#124; Source: BTCUSD on Tradingview.com Featured image from India Today, chart from Tradingview.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-27T13:31:22.000Z",
-    "title": "Crypto Payment Services Offer Lower Prices Than Credit Cards",
-    "url": "https://www.crypto-news-flash.com/crypto-payment-services-offer-lower-prices-than-credit-cards/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-payment-services-offer-lower-prices-than-credit-cards",
-    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1-300x175.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1-768x448.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1-150x88.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T162325.080-1-450x263.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Within the ever-evolving realm of digital finance, a growing number of crypto payment providers have paved their own unique paths — allowing their clients to gain access to a new level of affordability and efficiency. For instance, while most traditional credit card companies levy a surcharge of anywhere between 3-4% per transaction, most crypto  platforms [...]"
+    "date": "2024-03-27T14:00:56.000Z",
+    "title": "Milei Moneda Presale Could Catapult You Into Millions While Bitcoin Cash and ORDI Price Stabilize",
+    "url": "https://www.crypto-news-flash.com/milei-moneda-presale-could-catapult-you-into-millions-while-bitcoin-cash-and-ordi-price-stabilize/?utm_source=rss&utm_medium=rss&utm_campaign=milei-moneda-presale-could-catapult-you-into-millions-while-bitcoin-cash-and-ordi-price-stabilize",
+    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T015022.520-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Investors HODL $MEDA as they prepare for massive gains. Bitcoin Cash (BCH) is slowly rising again. ORDI is set to struggle further. Milei Moneda’s ($MEDA) presale is attracting attention with its potential massive price surges. Meanwhile, Bitcoin Cash (BCH) gains 263% in the preceding 12 months. At the same time, ORDI has regained speed after [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-27T13:15:39.000Z",
-    "title": "BlackRock’s $9.5 Trillion Assets Might Flock to Bitcoin, Suggests Willy Woo",
-    "url": "https://www.crypto-news-flash.com/blackrocks-9-5-trillion-assets-might-flock-to-bitcoin-suggests-willy-woo/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-9-5-trillion-assets-might-flock-to-bitcoin-suggests-willy-woo",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-08.04.16-In-a-futuristic-financial-landscape-two-towering-structures-dominate-the-skyline-representing-BlackRock-and-Fidelity.-These-architectural-marvels-ar-1-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />Bitcoin advocate Willy Woo has suggested that a chunk of the $9.5 trillion in assets under management by BlackRock will find its way into Bitcoin and other cryptos. After launching a Bitcoin ETF and an Ether ETF, BlackRock has recently launched its tokenization fund with plans to tokenize assets on public blockchains. BlackRock, the world&#8217;s [...]"
+    "date": "2024-03-27T14:00:38.000Z",
+    "title": "$RECQ Is On The Verge Of Massive Profits As New Investors Flock In From PEPE And DOGE Communities",
+    "url": "https://www.crypto-news-flash.com/recq-is-on-the-verge-of-massive-profits-as-new-investors-flock-in-from-pepe-and-doge-communities/?utm_source=rss&utm_medium=rss&utm_campaign=recq-is-on-the-verge-of-massive-profits-as-new-investors-flock-in-from-pepe-and-doge-communities",
+    "description": "<img width=\"1200\" height=\"752\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625-768x481.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-27T020308.625-450x282.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />PEPE sheds 8% in a week, but experts believe a resurgence is due soon. Dogecoin jumps 12% in a week, and analysts expect it to maintain gains. Rebel Satoshi’s $RECQ takes center stage after promising a 525% ROI. As the crypto market grapples with bears after a recent crash, top crypto coins like Pepe (PEPE) [...]"
   }
 ]

@@ -1,72 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-28T13:52:32.000Z",
-    "title": "Dogecoin Bets Jump to $2B as Price Reaches Highest Level Since 2021",
-    "url": "https://www.coindesk.com/markets/2024/03/28/dogecoin-bets-jump-to-2b-as-price-reaches-highest-level-since-2021/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "DOGE prices tend to move on speculation about the token's use on X, the Elon Musk-owned social media giant."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-03-28T14:04:48.000Z",
+    "date": "2024-03-28T14:11:17.000Z",
     "title": "Protocol Village: Degen Community, Syndicate Launch 'Degen Chain'",
     "url": "https://www.coindesk.com/tech/2024/03/27/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
     "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 28-April 3."
   },
   {
+    "source": "Decrypt",
+    "date": "2024-03-28T14:31:53.000Z",
+    "title": "Degen Chain Debuts on Base as 'Blockchain Equivalent of Las Vegas'",
+    "url": "https://decrypt.co/223806/degen-chain-arbitrum-base-layer-3-farcaster-community",
+    "description": "The community-first blockchain is built with a mix of tech from Arbitrum to Base and tapping layer-3 tools from Syndicate."
+  },
+  {
     "source": "CryptoSlate",
-    "date": "2024-03-28T13:57:49.000Z",
-    "title": "Ethereum L2s face bottlenecks as ‘BlobScriptions’ drive fees up by over 10,000%",
-    "url": "https://cryptoslate.com/ethereums-blob-faces-bottlenecks-as-blobscriptions-drive-fees-up-by-over-10000/",
-    "description": "<p>Ethereum&#8217;s blobs transaction fees witnessed an unprecedented surge yesterday with the debut of &#8220;BlobScriptions.&#8221; Blobs represent a novel transaction type that alleviates layer-2 fees on the Ethereum network and was introduced through the Dencun upgrade. Since its inception, the minimum gas price for a Blob to secure inclusion in an Ethereum block has stood at [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/ethereums-blob-faces-bottlenecks-as-blobscriptions-drive-fees-up-by-over-10000/\">Ethereum L2s face bottlenecks as &#8216;BlobScriptions&#8217; drive fees up by over 10,000%</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-28T14:10:18.000Z",
+    "title": "Atlas Navi’s Drive2Earn 2.0 offers big discounts on petrol prices",
+    "url": "https://cryptoslate.com/atlas-navis-drive2earn-2-0-offers-big-discounts-on-petrol-prices/",
+    "description": "<p>Bucharest, Romania, 28 March 2024: Atlas Navi, a trailblazer in AI-powered navigation, has unveiled Drive2Earn 2.0 — enhancing rewards for drivers as it sets its sights on overtaking Tesla as a market leader in capturing and analyzing vast quantities of data from dashcams. The app, which has now been downloaded more than 700,000 times worldwide, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/atlas-navis-drive2earn-2-0-offers-big-discounts-on-petrol-prices/\">Atlas Navi&#8217;s Drive2Earn 2.0 offers big discounts on petrol prices</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-28T13:57:07.000Z",
-    "title": "The Reasons Behind BLD’s 200%+ Growth Prediction",
-    "url": "https://cryptodaily.co.uk/2024/03/the-reasons-behind-blds-200-growth-prediction",
-    "description": "Since the turn of the year, the cryptocurrency market has witnessed massive growth in value as all major currencies witnessed 50%+ in gains – Bitcoin leading the way with a 52% gain in 2024."
+    "date": "2024-03-28T14:10:53.000Z",
+    "title": "HSBC Launches Gold Token For Hong Kong Investors",
+    "url": "https://cryptodaily.co.uk/2024/03/hsbc-launches-gold-token-for-hong-kong-investors",
+    "description": "HSBC Hong Kong has become the first financial institution to offer tokenized RWA by launching gold tokens for retail investors in Hong Kong."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T14:03:58.000Z",
-    "title": "Solana’s stellar performance shakes up the Altcoin market",
-    "url": "https://www.cryptopolitan.com/solanas-performance-shake-the-altcoin-market/",
-    "description": "The surge by Solana (SOL) has been accompanied by more than 850% over the past year, yielding much better rewards. Six months ago, CRO was trading at around $21; after spearheading this more recent bull run, CRO has now captured a price of over $200, which leaves its competitors like Ethereum, Cardano, and Chainlink with [&#8230;]"
+    "date": "2024-03-28T14:25:34.000Z",
+    "title": "BC Gov’t escalates legal battle against QuadrigaCX co-founder",
+    "url": "https://www.cryptopolitan.com/bc-govt-escalates-lawsuit-against-quadrigacx/",
+    "description": "The government of British Columbia has launched a fresh legal action against Michael Patryn in a further legal case. He is one of the co-founders of the defunct cryptocurrency exchange QuadrigaCX. The third unexplained wealth order application in the Province was announced by the Minister of Public Safety and Solicitor General, Mike Farnworth. This legal [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T14:00:00.000Z",
-    "title": "Trader Makes $3M In 3 Days, Galaxy Fox Presale Soars Past $5.5M",
-    "url": "https://www.cryptopolitan.com/trader-makes-3m-in-3-days-galaxy-fox-presale-soars-past-5-5m/",
-    "description": "Two recent developments have made the crypto headlines recently. One is the trader who made&#160; $3 million by trading various meme coins. The other is the presale performance of the best upcoming ICO, Galaxy Fox. Let’s unravel these stories in this article. Meme Coin Mania Continues: A Trader&#8217;s Dream Run Remember the saying, &#8220;Go big [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-03-28T14:33:17.000Z",
+    "title": "Pepe (PEPE) does social work as Arbitrum (ARB) unlocks tokens; Algotech (ALGT) surpasses $2.5 million in presale",
+    "url": "https://nulltx.com/pepe-pepe-does-social-work-as-arbitrum-arb-unlocks-tokens-algotech-algt-surpasses-2-5-million-in-presale/",
+    "description": "Pepe (PEPE) will offer funds for the conservation of frogs and their habitat. Arbitrum (ARB) has unlocked the tokens vetted since February 2023. Algotech (ALGT) presale has raised more than $2.5 million in two stages. Are you willing to invest in the crypto market but unable to find the right [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T13:44:50.000Z",
-    "title": "Federal Reserve gets more reasons to hold off on interest rate cuts",
-    "url": "https://www.cryptopolitan.com/fed-gets-more-reasons-to-hold-off-rate-cuts/",
-    "description": "The scenario with the Federal Reserve and interest rates is becoming akin to a suspense thriller where the hero, against all odds, refuses to throw in the towel. The latest updates from the Federal Reserve’s camp reveal a cautious stance towards the idea of slashing interest rates from their towering 23-year summit. Christopher Waller, a [&#8230;]"
+    "source": "BTCManager",
+    "date": "2024-03-28T14:27:54.000Z",
+    "title": "Stablecoin protocol Prisma Finance hacked for over $11m ",
+    "url": "https://crypto.news/prisma-finance-hack-stablecoin/",
+    "description": "Stablecoin protocol Prisma Finance experienced a significant cyberattack, resulting in a nearly $11.6 million loss."
   },
   {
-    "source": "NewsBTC",
-    "date": "2024-03-28T14:00:39.000Z",
-    "title": "Dogecoin Soars 17% To Break $0.21 As Volume Explodes",
-    "url": "https://www.newsbtc.com/news/dogecoin/dogecoin-11-break-0-21-volume-explodes/",
-    "description": "Dogecoin has jumped 17% in the past 24 hours to break past the $0.21 barrier as on-chain data shows a significant increase in volume for the memecoin. Dogecoin Beats Market With 17% Rally In The Last Day Most of the top cryptocurrencies have seen flat returns in the last 24 hours, but Dogecoin has gone its own way as the original meme coin has enjoyed a strong rally. Related Reading: Bitcoin “Liquid Inventory Ratio” Hits All-Time Low, What It Means The below chart shows what the asset&#8217;s performance has looked like during the last few days: The price of the coin appears to have sharply soared over the past day &#124; Source: DOGEUSD on TradingView In this latest rally, Dogecoin has surged more than 17% in the last 24 hours and has cleared the $0.21 level. Among the top 100 cryptocurrencies by market cap, only Bitcoin Cash (BCH) has registered comparable profits in the same period. DOGE still beats BCH in the 1-week timeframe, however, as the memecoin has managed returns of more than 40% in this period, while the Bitcoin hard-fork has seen 33%. The reason behind these two assets in particular seeing a strong performance may lie in the fact that Coinbase plans to add futures products for them starting the 1st of April. Litecoin (LTC) is also set to see a listing on the same day, but its performance has been much weaker than the other two. In terms of market cap, Dogecoin is currently the eighth-largest coin in the sector, as the table below shows: Looks like the market cap of the memecoin is just under $31 billion at the moment &#124; Source: CoinMarketCap From the table, it&#8217;s apparent that the gap to USD Coin (USDC) in seventh isn&#8217;t too much right now, so if Dogecoin can keep up its surge, it&#8217;s possible that it may be able to flip the stablecoin. DOGE Transaction Volume Has Observed A Sharp Increase Recently Something that would confirm that widespread speculation around Dogecoin is ripe for a rally currently would be its Transaction Volume. As a user on X pointed out using data from the on-chain analytics firm Santiment, DOGE&#8217;s Transaction Volume has shot up recently. The &#8220;Transaction Volume&#8221; keeps track of the total amount of tokens (in USD) for a given cryptocurrency that has observed some movement on the blockchain in the past 24 hours. When the value of this metric is high, it means that the users are transacting large amounts on the network right now. Such a trend implies the trading interest around the asset is high currently. On the other hand, low values of the indicator can be a sign that the general interest in the cryptocurrency, both as an asset and a network, is low at the moment. Related Reading: Bitcoin Coinbase Premium Returns To Neutral: Buying Push Already Over? Now, here is a chart that shows the trend in the Dogecoin Transaction Volume over the past year: The metric seems to have gone up in recent days &#124; Source: @trader_kamikaze on X As is visible in the chart, the Dogecoin Transaction Volume has experienced quite a boost recently, and what has accompanied this rise has been the latest rally. A rising volume can often be a positive sign for the sustainability of any rally, as it means that interest in the asset is going up, and thus, more fuel is potentially coming in. Something to keep in mind, though, is that selling and buying alike affect this indicator, so a mass selloff would also register as a spike in the metric. Thus, while high volumes are usually a requirement for rallies to continue (as without interest, the run can easily die down), they alone can&#8217;t predict a further rise, as the nature of this activity can be hard to ascertain. Featured image from Kanchanara on Unsplash.com, Santiment.net, chart from TradingView.com"
+    "source": "BTCManager",
+    "date": "2024-03-28T14:10:46.000Z",
+    "title": "What will happen after the Bitcoin halving? Experts weigh in on historic moment",
+    "url": "https://crypto.news/bitcoin-halving-2024-experts-weigh-in/",
+    "description": "Experts contribute their opinions to predict and decipher what will happen after the Bitcoin halving next month."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-28T14:00:02.000Z",
-    "title": "Investors Flee Potential Downtrend On Ethereum Amid SEC Scrutiny To Chase High Returns On Milei Moneda",
-    "url": "https://www.crypto-news-flash.com/investors-flee-potential-downtrend-on-ethereum-amid-sec-scrutiny-to-chase-high-returns-on-milei-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=investors-flee-potential-downtrend-on-ethereum-amid-sec-scrutiny-to-chase-high-returns-on-milei-moneda",
-    "description": "<img width=\"1200\" height=\"796\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1-768x509.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/gettyimages-98950824-612x612-1-450x299.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Investors are preparing for a bullish period for Ethereum. A potential pump brings investors to Milei Moneda. The US Securities and Exchange Commission takes interest in Ethereum (ETH) as the deadline for the approval of eight Ethereum ETF applications looms near. Meanwhile, Milei Moneda’s ($MEDA) presale attracts investors with the possibility of huge gains.  How [...]"
+    "date": "2024-03-28T14:17:01.000Z",
+    "title": "Bitcoin Cash Prepares for Halving: BCH Price Spikes 16% Ahead of April 4 Event",
+    "url": "https://www.crypto-news-flash.com/bitcoin-cash-prepares-for-halving-bch-price-spikes-16-ahead-of-april-4-event/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-cash-prepares-for-halving-bch-price-spikes-16-ahead-of-april-4-event",
+    "description": "<img width=\"1002\" height=\"481\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BITCOIN-CASH-BCH.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Bitcoin Cash\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BITCOIN-CASH-BCH.png 1002w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BITCOIN-CASH-BCH-300x144.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BITCOIN-CASH-BCH-768x369.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/08/BITCOIN-CASH-BCH-702x336.png 702w\" sizes=\"(max-width: 1002px) 100vw, 1002px\" />As Bitcoin Cash&#8217;s halving event on approaches April 4, Bitcoin Cash (BCH) has gained significant momentum, with an 85% surge on the monthly chart. The impending halving, which will reduce the block reward from 6.25 BCH to 3.125 BCH, has spurred bullish sentiment. Bitcoin blockchain&#8217;s first hardforked version Bitcoin Cash (BCH) has witnessed a strong [...]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-03-28T13:59:19.000Z",
-    "title": "VeChain’s Growing Adoption Triggers Optimism: VET Price Targets 100% Increase",
-    "url": "https://www.crypto-news-flash.com/vechains-growing-adoption-triggers-optimism-vet-price-targets-100-increase/?utm_source=rss&utm_medium=rss&utm_campaign=vechains-growing-adoption-triggers-optimism-vet-price-targets-100-increase",
-    "description": "<img width=\"1200\" height=\"588\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET-300x147.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET-768x376.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET-150x74.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/vechain-VET-450x221.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />VeChain has been tipped for a 100% explosive run that could see the asset breaching its all-time high of $0.2.  Another analyst has observed the formation of a cloning pattern, putting VET in line to hit $1.6.  The groundbreaking initiatives of VeChain (VET) unlocking new use cases across a variety of fields could spearhead an [...]"
+    "source": "Altcoin Buzz",
+    "date": "2024-03-28T14:37:05.000Z",
+    "title": "KuCoin’s $10M Air-Drop Amid AML Allegations",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/kucoins-10m-air-drop-amid-aml-allegations/",
+    "description": "<p>This move comes at a critical juncture for KuCoin, facing scrutiny from U.S. authorities. The exchange is accused of deliberately ignoring Anti-Money Laundering (AML) regulations to grow its operations. KuCoin Responds to AML Allegations with Generous Air-Drop The decision to initiate such a substantial airdrop is seen by many as an effort to bolster user [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/kucoins-10m-air-drop-amid-aml-allegations/\">KuCoin&#8217;s $10M Air-Drop Amid AML Allegations</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-28T14:30:00.000Z",
+    "title": "Prep Your Portfolio: Top Tokens for Altseason Success",
+    "url": "https://coinedition.com/prep-your-portfolio-top-tokens-for-altseason-success/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/PR4-17.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/PR4-17.png 730w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/PR4-17-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency market is buzzing with anticipation as the upcoming altcoin season approaches, likely to kick off in about 45 days. Fueled by Bitcoin&#8217;s surge, this period is poised to bring substantial growth for various cryptocurrencies. Experts recommend diversification and patience during this phase. Whether you&#8217;re a seasoned market player or just starting out, we [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/prep-your-portfolio-top-tokens-for-altseason-success/\">Prep Your Portfolio: Top Tokens for Altseason Success</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-03-28T14:30:24.000Z",
+    "title": "Trader Turns Bullish on Altcoin Amid Breakout of Accumulation Range, Maps Path Forward for Sei and Gala",
+    "url": "https://dailyhodl.com/2024/03/28/trader-turns-bullish-on-altcoin-amid-breakout-of-accumulation-range-maps-path-forward-for-sei-and-gala/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/03/on-Altcoin-Amid-Breakout.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A widely followed cryptocurrency analyst and trader is expressing bullish sentiment on a top-30 altcoin by market cap. The trader pseudonymously known as Altcoin Sherpa tells his 212,600 followers on the social media platform X that Internet Computer (ICP), a blockchain project whose aim is to replicate the internet’s speed, power and scale on decentralized [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/28/trader-turns-bullish-on-altcoin-amid-breakout-of-accumulation-range-maps-path-forward-for-sei-and-gala/\">Trader Turns Bullish on Altcoin Amid Breakout of Accumulation Range, Maps Path Forward for Sei and Gala</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

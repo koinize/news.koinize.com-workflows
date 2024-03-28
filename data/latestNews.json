@@ -1,128 +1,142 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-28T15:56:56.000Z",
+    "title": "OKX’s Global Compliance Chief Left After Six Months",
+    "url": "https://www.coindesk.com/business/2024/03/28/okxs-global-compliance-chief-left-after-six-months/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Patrick Donegan, whose LinkedIn profile says he managed a team of 300 people around the world, was at OKX from August 2023 to January 2024."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-03-28T15:45:00.000Z",
+    "title": "Crypto for Advisors: Beyond Bitcoin, Crypto Indices",
+    "url": "https://www.coindesk.com/business/2024/03/28/crypto-for-advisors-beyond-bitcoin-crypto-indices/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Just like equities have the S&P 500 and NASDAQ 100, we now see the emergence of cryptocurrency and digital asset indices."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-28T15:49:48.000Z",
+    "title": "FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison",
+    "url": "https://decrypt.co/223554/ftx-founder-sam-bankman-fried-sentenced-prison",
+    "description": "A New York jury previously convicted Sam Bankman-Fried in November on seven counts of fraud, money laundering, and conspiracy."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-03-28T15:16:13.000Z",
-    "title": " Bitcoin whales copy classic bull market moves as BTC price eyes $72K ",
-    "url": "https://cointelegraph.com/news/bitcoin-whales-copy-classic-bull-market-btc-price-72k",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNjhjMjllY2ItZWQ4OS00Zjc0LWIzNWItNDZkMTAxODZlN2EyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin sets a positive tone into the U.S. holiday weekend as a Coinbase-induced BTC price dip fails to keep bulls back for long.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\" target=\"_blank\" rel=\"noopener nofollow\">BTC</a>) sought higher levels at the week’s last Wall Street open as bulls refused to succumb to market nerves.</p><p>Data from <a href=\"https://subscription.cointelegraph.com/\">Cointelegraph Markets Pro</a> and <a href=\"https://www.tradingview.com/symbols/BTCGBP/?exchange=BINANCE\" target=\"_blank\" rel=\"noopener nofollow\">TradingView</a> followed resurgent BTC price action as it passed $71,000.</p><p><a href=\"https://cointelegraph.com/news/btc-price-2-week-highs-volatility-bitcoin-sell-orders\">Flash volatility</a> characterized the day prior as an <a href=\"https://cointelegraph.com/news/sec-can-proceed-coinbase-lawsuit-court-ruling\">ongoing legal battle</a> between United States exchange Coinbase and regulator the Securities and Exchange Commission (SEC) sent Bitcoin below key $69,000 support.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-whales-copy-classic-bull-market-btc-price-72k\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-28T15:50:32.000Z",
+    "title": " Sam Bankman-Fried sentenced to 25 years in prison ",
+    "url": "https://cointelegraph.com/news/sam-bankman-fried-sentenced-years-prison-hold",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYTdkMjdmNzMtZGZmZC00N2FhLWFlN2MtODc1ZTZlMzdkOTFiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Judge Lewis Kaplan found that the former FTX CEO also committed witness tampering and perjury based on his testimony at trial over user funds.</p>\n                    <p><p>Former FTX CEO <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/sam-bankman-fried-and-caroline-ellison\">Sam “SBF” Bankman-Fried</a> will serve 25 years in prison following a sentencing hearing in federal court.</p><p>On March 28, Judge Lewis Kaplan of United States District Court for the Southern District of New York sentenced Bankman-Fried to 240 months and 60 months for a total of 25 years for his conviction on seven felony charges. SBF was the first person tied to FTX and Alameda Research to face prison time following the collapse of the exchange in November 2022. </p><p>Judge Kaplan found that SBF also committed witness tampering based on the events that <a href=\"https://cointelegraph.com/news/judge-orders-sam-bankman-fried-bail-revoked-following-allegations-witness-intimidation\">led him to revoke bail</a> in August 2023 and perjury based on his testimony at trial over FTX user funds. He acknowledged Bankman-Fried’s “social awkwardness” but said, based on former Alameda Research CEO Caroline Ellison’s testimony, SBF knew he was at fault but was “not going to admit a thing.”</p><p><a href=\"https://cointelegraph.com/news/sam-bankman-fried-sentenced-years-prison-hold\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-03-28T15:37:32.000Z",
-    "title": "Google dives deeper into blockchain adding Bitcoin, EVM chains to ‘rich results’ indexing",
-    "url": "https://cryptoslate.com/google-dives-deeper-into-blockchain-adding-bitcoin-evm-chains-to-rich-results-indexing/",
-    "description": "<p>Reports indicate that Google has expanded its search engine capabilities to include blockchain data from various networks, such as Bitcoin and Ethereum virtual machine networks like Fantom. This integration empowers users to access transaction details by searching for specific blockchain addresses directly within Google&#8217;s search engine &#8216;rich&#8217; results. Last year, Google introduced this feature for [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/google-dives-deeper-into-blockchain-adding-bitcoin-evm-chains-to-rich-results-indexing/\">Google dives deeper into blockchain adding Bitcoin, EVM chains to &#8216;rich results&#8217; indexing</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-03-28T15:47:45.000Z",
+    "title": "Former FTX CEO Sam Bankman-Fried sentenced to 25 years in landmark fraud case",
+    "url": "https://cryptoslate.com/former-ftx-ceo-sam-bankman-fried-sentenced-to-25-years-in-landmark-fraud-case/",
+    "description": "<p>Sam Bankman-Fried, the former CEO of FTX, was sentenced to 25 years in jail today in a packed courtroom, marking a significant moment in the legal scrutiny of the crypto industry. He will be 57 years old when he is released. The sentencing, as detailed by Inner City Press, comes after a series of legal [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/former-ftx-ceo-sam-bankman-fried-sentenced-to-25-years-in-landmark-fraud-case/\">Former FTX CEO Sam Bankman-Fried sentenced to 25 years in landmark fraud case</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "CryptoGlobe",
-    "date": "2024-03-28T15:10:41.000Z",
-    "title": "Sui Spikes in Weekly DEX Volume, Joins Top 10 of All Blockchains",
-    "url": "https://www.cryptoglobe.com/latest/2024/03/sui-spikes-in-weekly-dex-volume-joins-top-10-of-all-blockchains/",
-    "description": "Grand Cayman, Cayman Islands, March 28th, 2024, Chainwire March DEX volume on Sui stands at over $2.88B – up more than 49% from February – with decentralized exchange Cetus and wholesale liquidity layer DeepBook leading. Sui, the fast ascending Layer 1 blockchain offering industry-leading performance and infinite scaling, continued to demonstrate its blistering DeFi growth […]\n"
+    "source": "Crypto Briefing",
+    "date": "2024-03-28T16:05:21.000Z",
+    "title": "SBF sentenced to 25 years in prison",
+    "url": "https://cryptobriefing.com/sbf-sentenced-25-years-prison/",
+    "description": "Sam Bankman-Fried has been sentenced to 25 years in prison for running a crypto scam business that devastated thousands of investors."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-28T15:32:41.000Z",
-    "title": "Rockstar Co-Founder and All-star Line Up Join Advisory Board to Take Metacade into Post Beta Orbit",
-    "url": "https://cryptodaily.co.uk/2024/03/rockstar-co-founder-and-all-star-line-up-join-advisory-board-to-take-metacade-into-post-beta-orbit",
-    "description": "Rockstar Co-Founder and All-star Line Up Join Advisory Board to Take Metacade into Post Beta Orbit"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-03-28T15:29:11.000Z",
-    "title": "Is UAE the Next Big Thing for Fund Growth? Insights from Kalpesh Patel",
-    "url": "https://cryptodaily.co.uk/2024/03/is-uae-the-next-big-thing-for-fund-growth-insights-from-kalpesh-patel",
-    "description": "The United Arab Emirates (UAE) has emerged as a promising investment destination in recent years due to its economic diversity. Entrepreneurs and investors worldwide are now showing interest in the country as it has become one of the preferred destinations for business development."
+    "source": "Crypto Briefing",
+    "date": "2024-03-28T16:00:28.000Z",
+    "title": "Pudgy Penguins ‘.pudgy’ domains become Web2",
+    "url": "https://cryptobriefing.com/unstoppable-and-pudgy-icann-strategy/",
+    "description": "Unstoppable Domains partners with Pudgy Penguins NFT project to make .pudgy a Web2 domain through a partnership with ICANN."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-28T15:20:04.000Z",
-    "title": "Ethereum-Based Tokenized Real Estate Platform USP Launches On Republic",
-    "url": "https://cryptodaily.co.uk/2024/03/ethereum-based-tokenized-real-estate-platform-usp-launches-on-republic",
-    "description": "Ethereum-Based Tokenized Real Estate Platform USP Launches On Republic"
+    "date": "2024-03-28T16:02:38.000Z",
+    "title": "$WIF Trader Cashes Out $4.1 Million On $645 Investment; This Memecoin Promo Sold Out in Minutes",
+    "url": "https://cryptodaily.co.uk/2024/03/wif-trader-cashes-out-41-million-on-645-investment-this-memecoin-promo-sold-out-in-minutes",
+    "description": "The gold rush took place in the 19th century. People who bought real estate in the 20th century got rich. Today, in the 21st century, people are getting rich with memecoins, and investors can swim with the tide or miss the easiest money of their lives."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-28T15:16:42.000Z",
+    "date": "2024-03-28T15:58:54.000Z",
+    "title": "Bitcoin off and running into next stage of bull market",
+    "url": "https://cryptodaily.co.uk/2024/03/bitcoin-off-and-running-into-next-stage-of-bull-market",
+    "description": "Two weeks after making an all-time high at just under $74,000, bitcoin is irresistibly climbing back to this level again. Once this price is achieved, and bitcoin is able to hold above, some rapid price expansion might take place."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-28T15:55:17.000Z",
+    "title": "Miss out on Dogecoin and Shiba Inu Presales? Check out New Crypto Raboo's ICO for Massive 2024 Gains",
+    "url": "https://cryptodaily.co.uk/2024/03/miss-out-on-dogecoin-and-shiba-inu-presales-check-out-new-crypto-raboos-ico-for-massive-2024-gains",
+    "description": "If you regret not participating in the presales of behemoths such as Dogecoin and Shiba Inu, fearing a once-in-a-lifetime opportunity slipped away, here is a new chance:"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-28T15:49:04.000Z",
+    "title": "New Solana Meme Coin Slothana (SLOTH) Raises $1 Million In Presale, Experts Tip It As Next Bonk",
+    "url": "https://cryptodaily.co.uk/2024/03/new-solana-meme-coin-slothana-sloth-raises-1-million-in-presale-experts-tip-it-as-next-bonk",
+    "description": "Meme coins - in particular, Solana meme coins - continue to grab headlines during the ongoing bull run."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-28T15:46:40.000Z",
+    "title": "Capitalize on the Bitcoin Halving Event With These 5 Top Altcoins Set To Soar in 2024",
+    "url": "https://cryptodaily.co.uk/2024/03/capitalize-on-the-bitcoin-halving-event-with-these-5-top-altcoins-set-to-soar-in-2024",
+    "description": "With the Bitcoin halving event coming soon, crypto enthusiasts are preparing for it and looking for other ways to make profits. Many buyers are turning their attention to altcoins that could grow in 2024."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-28T15:57:08.000Z",
     "title": "REXiO. The first meme that is not only cool but practical from the beginning.",
     "url": "https://cryptodaily.co.uk/2024/03/rexio-the-first-meme-that-is-not-only-cool-but-practical-from-the-beginning",
     "description": "We will tell you the story of Rexio, one of the most famous dogs ever. Rexio was born in 1967 as a real Children’s Bedtime Star figure"
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-03-28T15:30:53.000Z",
-    "title": "Dogecoin Leaps in Value, Reaches First $0.22 Peak Since 2021",
-    "url": "https://news.bitcoin.com/dogecoin-leaps-in-value-reaches-first-0-22-peak-since-2021/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Dogecoin Leaps in Value, Reaches First $0.22 Peak Since 2021\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/dogesd.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The leading meme token by market value, dogecoin, experienced an 18% increase on Thursday, climbing to $0.22 per coin for its first ascent to this level since 2021. The &#x2018;Dog Father&#x2019; Reigns: Dogecoin Soars 43.3% in 7 Days Against the U.S. Dollar The proclaimed &#x2018;Dog Father&#x2019; of meme coins, dogecoin (DOGE), has shown a substantial [&#8230;]"
+    "date": "2024-03-28T15:52:03.000Z",
+    "title": "Former FTX Boss Sam Bankman-Fried Sentenced to 25 Years in Prison",
+    "url": "https://news.bitcoin.com/former-ftx-boss-sam-bankman-fried-sentenced-to-25-years-in-prison/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Former FTX Boss Sam Bankman-Fried Sentenced to 25 Years in Prison\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/9_text.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Thursday, March 28, 2024, the former head of FTX, Sam Bankman-Fried, received his sentence during a federal court proceeding in Manhattan. U.S. Marshals escorted Bankman-Fried into the courtroom at precisely 9:39 a.m. Eastern Time, as reported by Matthew Russell Lee of Inner City Press. Judge Lewis Kaplan said, &#8221; I know the Probation Department [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T15:38:42.000Z",
-    "title": "US Writers’ Unions Petition Congress to Consider Writers Needs When Drafting AI Legislation",
-    "url": "https://www.cryptopolitan.com/us-writers-petition-congress-ai-legislation/",
-    "description": "Major organisations representing writers in the United States are going to lengths to see that writing and journalism survive the existential threat posed by AI.&#160; In a letter addressed to Sen. Chuck Schumer (D-NY) by the presidents of the Writers Guild of America East and West, the NewsGuild and the National Association of Broadcast Employees [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T15:33:52.000Z",
-    "title": "Rockstar Co-Founder and All-star Line Up Join Advisory Board to Take Metacade into Post Beta Orbit",
-    "url": "https://www.cryptopolitan.com/rockstar-co-founder-and-all-star-line-up-join-advisory-board-to-take-metacade-into-post-beta-orbit/",
-    "description": "London, United Kingdom, March 28th, 2024, Chainwire Metacade, the revolutionary Web3 gaming platform, prepares to streak out of beta with a slew of ground-breaking initiatives that will redefine the way blockchain games are developed. CEO, Russell Bennett, forecasts a series of landmark announcements across Q2 and Q3, 2024. Commencing with the appointment of an advisory board. [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T15:21:15.000Z",
-    "title": "Ethereum-Based Tokenized Real Estate Platform USP Launches On Republic",
-    "url": "https://www.cryptopolitan.com/ethereum-based-tokenized-real-estate-platform-usp-launches-on-republic/",
-    "description": "Newport Beach, CA, United States of America, March 28th, 2024, Chainwire How This Californian Startup Is Revolutionizing Real Estate Investment through Ethereum-Based Tokenization USP, an innovative tokenized real estate investment marketplace and platform, is thrilled to announce its official launch on Republic.com/uspc, a leading crowdfunding portal. This move marks a huge milestone for USP, an [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T15:11:33.000Z",
-    "title": "Embark Studios’ Decision to Force Ranked Play Upset the Finals Community",
-    "url": "https://www.cryptopolitan.com/embark-studios-force-ranked-play-finals/",
-    "description": "A well known gaming platform, The Finals, has undergone a backslide from its community recently after Embark studios brought up a disputable update. The update, which is marked as 2.2.0, caused several new features and adjustments, yet it also consisted a requirement in its challenger circuit that caused discontentment and disappointment among many players. Community [&#8230;]"
+    "date": "2024-03-28T16:00:00.000Z",
+    "title": "Myro, Milei Moneda, and MOG Coin Eye Billion-Dollar Market Cap – Bag These Coins Before Their Moonshots",
+    "url": "https://www.cryptopolitan.com/myro-milei-moneda-and-mog-coin-eye-billion-dollar-market-cap-bag-these-coins-before-their-moonshots/",
+    "description": "TLDR Discover three top crypto coins with high growth potential: MYRO, Milei Moneda ($MEDA), and MOG Coin (MOG). With significant surges in value and positive market sentiments, these coins aim to achieve billion-dollar market caps. Don&#8217;t miss out on the opportunity to invest in these coins before their moonshots take off. Economize Like Milei: Invest [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-28T15:25:29.000Z",
-    "title": "Ethereum blobs pushed to utilization limit due to inscriptions",
-    "url": "https://crypto.news/ethereum-blobs-utilization-inscriptions/",
-    "description": "Ethereum's network is strained as blob transaction demand surges, pushing capacity to its limits due to the popularity of inscriptions."
+    "date": "2024-03-28T15:57:41.000Z",
+    "title": "Decoding Argentina’s Bitcoin frenzy: reality vs rumor",
+    "url": "https://crypto.news/decoding-argentinas-bitcoin-frenzy-reality-vs-rumor/",
+    "description": "Is Bitcoin&#8217;s hype in Argentina real? Discover why its adoption lags and what hurdles stand in its way despite global enthusiasm. In Argentina, economic woes have reached critical levels, marked by an annual inflation rate soaring at a staggering 276%&#8230;"
+  },
+  {
+    "source": "Kraken Blog",
+    "date": "2024-03-28T15:56:36.000Z",
+    "title": "Introducing right-click trading: Place limit and stop orders directly from price charts",
+    "url": "https://blog.kraken.com/product/new-features/right-click-trading",
+    "description": "<p> <img width=\"300\" height=\"137\" src=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?fit=300%2C137&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?w=3070&amp;ssl=1 3070w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=1024%2C467&amp;ssl=1 1024w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=768%2C350&amp;ssl=1 768w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=1536%2C700&amp;ssl=1 1536w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=2048%2C934&amp;ssl=1 2048w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=1200%2C547&amp;ssl=1 1200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?resize=200%2C91&amp;ssl=1 200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?w=3000&amp;ssl=1 3000w\" sizes=\"(max-width: 300px) 100vw, 300px\" data-attachment-id=\"24816\" data-permalink=\"https://blog.kraken.com/product/new-features/right-click-trading/attachment/blog-right-click-trading\" data-orig-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?fit=3070%2C1400&amp;ssl=1\" data-orig-size=\"3070,1400\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Blog &#8211; Right-click trading\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?fit=300%2C137&amp;ssl=1\" data-large-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/03/Blog-Right-click-trading.png?fit=1024%2C467&amp;ssl=1\" /> <i>Smarter, faster decisions are now just a right-click away In Kraken Pro. Streamline your trading with new right-click trade functionality.</i></p>\n<p>The post <a href=\"https://blog.kraken.com/product/new-features/right-click-trading\">Introducing right-click trading: Place limit and stop orders directly from price charts</a> appeared first on <a href=\"https://blog.kraken.com\">Kraken Blog</a>.</p>\n"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-28T16:00:12.000Z",
+    "title": "Are Old Bitcoin Whales Selling Or Mitigating Risks Using Spot BTC ETFs?",
+    "url": "https://www.newsbtc.com/bitcoin-news/old-bitcoin-whales-selling-or-mitigating-risks-spot-btc-etfs/",
+    "description": "Ki Young Ju, the founder of CryptoQuant, a blockchain analytics firm, has noticed a curious trend. In a post on X, the founder shared a snapshot suggesting that Bitcoin &#8220;old whales&#8221; might be shifting their holdings to &#8220;new whales,&#8221; mainly traditional finance heavyweights like Fidelity and BlackRock. The United States Securities and Exchange Commission (SEC) recently approved these new whales to list spot Bitcoin exchange-traded funds (ETFs) for all investors.  &#8220;Old Whales&#8221; Moving Coins: Selling Or Risk Mitigation? While a definitive sell-off isn&#8217;t confirmed, commentators replying to the founder&#8217;s post believe these &#8220;old whales&#8221; could be mitigating risk. In their assessment, moving their Bitcoin stash from self-custody to a regulated investment vehicle like spot Bitcoin ETFs is a better measure of covering unexpected eventualities. Related Reading: Crypto Exec Reveals Why Meme Coins Are The Next ‘Trojan Horse’ For Crypto Adoption If this is the approach, then it could prove strategic. Bitcoin holders can transact without depending on a third party. Notably, this development coincides with a significant drop in BTC inventory on major exchanges like Coinbase and Binance, as well as at GBTC. The decline has accelerated since the introduction of spot Bitcoin ETFs, hinting at a potential departure from exchanges. Meanwhile, the operators of GBTC are unwinding the product and converting it to a spot Bitcoin ETF following a court decision. Will Spot BTC ETFs Gain Traction? Even so, that &#8220;old whales&#8221; are moving their coins to centralized products like ETFs contradicts the core philosophy of BTC as a tool for financial self-sovereignty. Whether more users, mainly retailers, will choose to own spot Bitcoin ETF shares rather than the underlying coins directly remains to be seen. Related Reading: Fantom: Market Slowdown Chops Off 10% From Gains – Here’s Why Institutions might be obliged by law to use a regulated product if they need to be exposed to BTC. However, retailers can choose to buy directly from exchanges or mine. This freedom might lead to more retailers opting to buy BTC. This trend emerges ahead of the highly anticipated Bitcoin halving. This event is set for mid-April 2024 and will further reduce BTC&#8217;s circulating supply, potentially driving higher prices. Before then, BTC prices are firm, steady above $70,000 at the time of writing. Feature image from DALLE, chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-28T15:18:04.000Z",
-    "title": "Ethereum-Based Tokenized Real Estate Platform USP Launches On Republic",
-    "url": "https://www.crypto-news-flash.com/ethereum-based-tokenized-real-estate-platform-usp-launches-on-republic/?utm_source=rss&utm_medium=rss&utm_campaign=ethereum-based-tokenized-real-estate-platform-usp-launches-on-republic",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/USP_Marketplace_Real_Estate_1711638603JXOfnZkBVc-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Newport Beach, CA, United States of America, March 28th, 2024, Chainwire How This Californian Startup Is Revolutionizing Real Estate Investment through Ethereum-Based Tokenization USP, an innovative tokenized real estate investment marketplace and platform, is thrilled to announce its official launch on Republic.com/uspc, a leading crowdfunding portal. This move marks a huge milestone for USP, an [...]"
+    "date": "2024-03-28T15:58:43.000Z",
+    "title": "Bitcoin and Ether Face Volatility as $15B Options Expiry Approaches: BTC Flirts with $70,000 Support",
+    "url": "https://www.crypto-news-flash.com/bitcoin-and-ethereum-face-volatility-as-15b-options-expiry-approaches-btc-flirts-with-70000-support/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-and-ethereum-face-volatility-as-15b-options-expiry-approaches-btc-flirts-with-70000-support",
+    "description": "<img width=\"1920\" height=\"1277\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ether\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum-1024x681.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum-1536x1022.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/BTC-ETH-Bitcoin-Ethereum-104x69.jpg 104w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />As much as $15.2 billion in Bitcoin and Ethereum options is set to expire on March 29. The price of the assets will be impacted by the influence of Spot ETF and halving bound to play a role. The digital currency ecosystem, led by the duo of Bitcoin (BTC) and Ethereum (ETH) is facing liquidity [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-03-28T15:24:07.000Z",
-    "title": "zkSync Welcomes Native USDC for Improved Liquidity",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/zksync-welcomes-native-usdc-for-improved-liquidity/",
-    "description": "<p>This strategic move heralds a new era of liquidity and functionality for users and developers within the zkSync ecosystem. As zkSync&#8217;s official USDC, this move significantly boosts the platform&#8217;s capabilities and user experience. USDC Integration Boosts zkSync&#8217;s Capabilities Native USDC liquidity is expected to grow, replacing the current bridged USDC from Ethereum on zkSync. The [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/zksync-welcomes-native-usdc-for-improved-liquidity/\">zkSync Welcomes Native USDC for Improved Liquidity</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T15:33:33.000Z",
-    "title": "Rockstar Co-Founder and All-star Line Up Join Advisory Board to Take Metacade into Post Beta Orbit",
-    "url": "https://coinedition.com/rockstar-co-founder-and-all-star-line-up-join-advisory-board-to-take-metacade-into-post-beta-orbit/",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW.jpg 1200w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-300x180.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-1024x614.jpg 1024w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-380x228.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-768x461.jpg 768w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-148x89.jpg 148w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-742x445.jpg 742w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-412x247.jpg 412w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-400x240.jpg 400w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-275x165.jpg 275w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-352x211.jpg 352w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-117x70.jpg 117w, https://coinedition.com/wp-content/uploads/2024/03/METACADE_-_PLAY_EARN_BUILD_CONNECT__PR_COVER_1711474368E6ujR0bVEW-125x75.jpg 125w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /><p>London, United Kingdom, March 28th, 2024, Chainwire Metacade, the revolutionary Web3 gaming platform, prepares to streak out of beta with a slew of ground-breaking initiatives that will redefine the way blockchain games are developed. CEO, Russell Bennett, forecasts a series of landmark announcements across Q2 and Q3, 2024. Commencing with the appointment of an advisory board. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/rockstar-co-founder-and-all-star-line-up-join-advisory-board-to-take-metacade-into-post-beta-orbit/\">Rockstar Co-Founder and All-star Line Up Join Advisory Board to Take Metacade into Post Beta Orbit</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T15:33:00.000Z",
-    "title": "Following the Whales: March’s Crypto Catches to Consider",
-    "url": "https://coinedition.com/following-the-whales-marchs-crypto-catches-to-consider/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Mania\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1.png 730w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/PR2-27-1-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Bitcoin&#8217;s surge to $73,000, dip to $60,000, and the upcoming halving are drawing significant interest. Tracking movements of market whales to uncover the most promising cryptocurrencies worth considering is a wise strategy in general, but it seems doubly advantageous during the last few days of March. With exclusive insights and analysis, you&#8217;ll be well-equipped to [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/following-the-whales-marchs-crypto-catches-to-consider/\">Following the Whales: March&#8217;s Crypto Catches to Consider</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T15:25:00.000Z",
-    "title": "While BOME Aims for $1, NFTFN Sets Its Sights on a Smooth Climb to $5",
-    "url": "https://coinedition.com/while-bome-aims-for-1-nftfn-sets-its-sights-on-a-smooth-climb-to-5/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/PR-5-21.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/PR-5-21.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/PR-5-21-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the bustling world of cryptocurrency, where dreams are as vast as the digital landscape itself, NFTFN and BOME stand out as two contenders with distinct ambitions.&#160; While BOME sets its sights on a modest $1 target, NFTFN boldly charts a course for a smooth climb to $5.&#160; Join us as we embark on a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/while-bome-aims-for-1-nftfn-sets-its-sights-on-a-smooth-climb-to-5/\">While BOME Aims for $1, NFTFN Sets Its Sights on a Smooth Climb to $5</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-03-28T15:44:11.000Z",
+    "title": "HSBC Launches Gold-Tokenized Products, Boosting RWA Sector",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/hsbc-launches-gold-tokenized-products-boosting-rwa-sector/",
+    "description": "<p>This pioneering move marks HSBC&#8217;s entry into the growing Real World Assets (RWA) world. It also aligns HSBC with BlackRock, another giant recently interested in this sector. HSBC Joins BlackRock in RWA Investment Push HSBC&#8217;s tokenized gold products are expected to spur RWA sector growth, signaling a shift in trading traditional assets digitally. Real World [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/hsbc-launches-gold-tokenized-products-boosting-rwa-sector/\">HSBC Launches Gold-Tokenized Products, Boosting RWA Sector</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   }
 ]

@@ -1,93 +1,128 @@
 [
   {
+    "source": "CoinDesk",
+    "date": "2024-03-28T16:49:30.000Z",
+    "title": "Sam Bankman-Fried Deserves a Life After Prison",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/03/28/sam-bankman-fried-deserves-a-life-after-prison/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "He did incalculable harm, but arguing for a sentence longer than 25 years is unfair to the man and the industry he once represented."
+  },
+  {
     "source": "Decrypt",
-    "date": "2024-03-28T16:09:51.000Z",
-    "title": "SBF Sentenced to 25 Years in Prison—How Many Will He Actually Serve?",
-    "url": "https://decrypt.co/223785/sam-bankman-fried-prison-sentence-how-many-actual-years",
-    "description": "Disgraced crypto founder Sam Bankman-Fried could be stuck in prison for decades, experts say, with little wiggle room."
+    "date": "2024-03-28T17:01:02.000Z",
+    "title": "AI Analytics Firm Helika Launches $50 Million Crypto Gaming Accelerator",
+    "url": "https://decrypt.co/223881/ai-analytics-firm-helika-50-million-crypto-gaming-accelerator",
+    "description": "Helika Accelerate aims to boost blockchain gaming studios with AI-driven guidance plus funding from Pantera, Spartan Capital, and others."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-03-28T16:42:17.000Z",
+    "title": "The $63 Million Exploit",
+    "url": "https://decrypt.co/videos/interviews/l2sy2ZQY/the-63-million-exploit",
+    "description": "BTC consolidates around $70k, funding still low. ETFs see $418m inflow as GBTC outflow tiny. BTC set to have record 7th-straight green month. AI coins soar, FET hits ATH amid merger rumour. FET, OCEAN, AGIX token proposed at $7.5bn FDV. DoJ charges KuCoin over money laundering. KuCoin sees $800m outflows after charges. CFTC names ETH & LTC commodities in charges. HK set to allow ‘in-kind’ style ETFs. HSBC launches tokenised gold fund. Fidelity files S1 form for ETH ETF. Short sellers bet $11bn crypto rally won’t last. More customer USDC balances to be stored on Base."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-28T16:30:00.000Z",
-    "title": " 3 metrics hint that the Ethereum (ETH) price correction is not over  ",
-    "url": "https://cointelegraph.com/news/3-metrics-hint-that-the-ethereum-eth-price-correction-is-not-over",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMGY5Y2UwYWEtM2IyNi00ZWIwLTgxNDgtYWZlNTQxZDYwNWJhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Ethereum price has had a rocky week and data suggests that more downside could be on the way.</p>\n                    <p><p>After rallying to $4,091 leading into the <a href=\"https://cointelegraph.com/news/dencun-upgrade-live-ethereum-mainnet\">Dencun upgrade</a>, Ether (<a href=\"https://cointelegraph.com/ethereum-price\">ETH</a>) has underperformed over the last month compared to <a href=\"https://cointelegraph.com/learn/what-is-bitcoin-a-beginners-guide-to-the-worlds-first-cryptocurrency#:~:text=Bitcoin%20is%20digital%20money%2C%20also,independently%20of%20any%20central%20authority.\">Bitcoin</a> and the broader crypto market, leading traders to doubt whether the altcoin’s downtrend is over.</p><p>To put this into context, Bitcoin’s (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) price fell by 18% during the same period, while the total cryptocurrency market capitalization dropped by 16%.</p><p>A number of market and technical indicators show that ETH may witness a deeper correction before embarking on a sustained recovery.</p><p><a href=\"https://cointelegraph.com/news/3-metrics-hint-that-the-ethereum-eth-price-correction-is-not-over\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-28T17:00:00.000Z",
+    "title": " Web3 game Wilder World gets Epic Game Store listing during alpha testing ",
+    "url": "https://cointelegraph.com/news/web3-nft-metaverse-game-wilder-world-gets-epic-game-store-listing",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNWUxZjdiZGUtOGNmYy00Mjg3LWFmYzAtYzYwODg0ZTg3NTg1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The makers of Wilder World claim that it will be the “ultimate game” by combining popular genres into a single experience.</p>\n                    <p><p>Web3 game Wilder World has been given a listing on the Epic Games Store ahead of its as-of-yet unscheduled launch. </p><p>Wilder World is being described as “the ultimate game” by the publisher, also known as Wilder World. Per a press release seen by Cointelegraph, the game features “a free-roam virtual world that begins in Wiami, a metaverse city to explore, race, socialize, and much more.“</p><p>All items, equipment, land, and avatars in the world will be “tradable digital assets on the Wilder World marketplace.”</p><p><a href=\"https://cointelegraph.com/news/web3-nft-metaverse-game-wilder-world-gets-epic-game-store-listing\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-03-28T16:10:00.000Z",
-    "title": " SingularityNet, Fetch.AI, Ocean Protocol merger will drive decentralized AI development: ChainGPT CEO ",
-    "url": "https://cointelegraph.com/news/singularity-net-fetch-ai-ocean-protocol-merger-drive-decentralized-ai-development-chaingpt-ceo",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYWU1N2Q0ZGYtYTJhOS00MWI2LThmOTYtMzcyY2Q1ZTRlYWY5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The token merger will drive new resources and create new collaborations to bolster decentralized AI development, ChainGPT’s CEO told Cointelegraph.</p>\n                    <p><p>The upcoming token merger of prominent artificial intelligence (AI) protocols SingularityNet, Fetch.ai, and Ocean Protocol will set a new standard for decentralized AI development, Ilan Rakhmanov, the CEO and founder of ChainGPT, told Cointelegraph in an interview. He explained:</p><p>The $7.5 billion <a href=\"https://cointelegraph.com/news/singularity-net-fetch-ai-ocean-protocol-token-merger\">AI token merger</a> was confirmed on March 27, hours after reports started emerging of the potential deal. The three protocols are united by the common goal of developing blockchain-based decentralized AI protocols, which can't be controlled by centralized parties or large stakeholders.</p><p>The high-level merger is a testament to the benefits of decentralized AI over its centralized counterparties, according to ChainGPT’s Rakhmanov:</p><p><a href=\"https://cointelegraph.com/news/singularity-net-fetch-ai-ocean-protocol-merger-drive-decentralized-ai-development-chaingpt-ceo\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-28T16:45:16.000Z",
+    "title": " FTX estate to unload $7.6B locked Solana balance at 68% discount ",
+    "url": "https://cointelegraph.com/news/ftx-estate-unload-locked-solana-balance-discount",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMmYyNmY4MjItOTkwYi00YmNmLTkxMjItYjBkNTNkOTM5YzRiLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Buyers are required to agree to a vesting period of four years for their FTX SOL purchase. </p>\n                    <p><p>The estate of bankrupt cryptocurrency exchange FTX will sell its balance of 41 million Solana (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>), worth $7.65 billion at the time of publication, to institutional investors at around $60, or a 68% discount to its current market price.</p><p>As <a href=\"https://twitter.com/innercitypress/status/1773352098173751526\" target=\"_blank\" rel=\"noopener nofollow\">told</a> by FTX creditor Sunil Kavuri during FTX co-founder and former CEO Sam Bankman-Fried’s (SBF) sentencing on March 28, not all customers have been made whole by the exchange's bankruptcy. “Sullivan &amp; Cromwell [FTX bankruptcy counsel] has trampled over our property rights,” Kavuri alleged. “They have liquidated billions of dollars of crypto assets. There’s a token S&amp;C sold at 11 cents; it’s now trading at two dollars. FTX had $10 billion [misprint] in Solana tokens — they sold it at 70% discount.\"</p><p>In an earlier victim impact statement <a href=\"https://twitter.com/sunil_trades/status/1772969082498822197\" target=\"_blank\" rel=\"noopener nofollow\">filed</a> by Kavuri, the FTX creditor claimed that the FTX estate “owns 41.1 million Solana tokens which should be distributed to FTX creditors. They were planning to sell them for $60, the price today is $187.\" Despite the creditors’ claims, presiding Judge Lewis A. Kaplan reiterated that the March 28 hearing was solely for sentencing SBF, and not for raising issues with creditors’ claims. “I accept your assertion the claim customers will be made whole is inaccurate,\" said Judge Kaplan. </p><p><a href=\"https://cointelegraph.com/news/ftx-estate-unload-locked-solana-balance-discount\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-28T16:55:41.000Z",
+    "title": "Prisma Finance $11.6 million exploit leads to asset value plummet, mkUSD stablecoin instability",
+    "url": "https://cryptoslate.com/prisma-finances-11-6-million-exploit-leads-to-asset-value-plummet-mkusd-stablecoin-instability/",
+    "description": "<p>Ethereum liquid restaking platform Prisma Finance said its vaults were exploited earlier today for an undisclosed sum. According to the protocol: &#8220;Prisma Protocol has been paused by the emergency multisig and remaining funds are safe. mkUSD and ULTRA, as stablecoins, are overcollateralized and are not at risk.&#8221; CryptoSlate data shows that the mkUSD stablecoin has [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/prisma-finances-11-6-million-exploit-leads-to-asset-value-plummet-mkusd-stablecoin-instability/\">Prisma Finance $11.6 million exploit leads to asset value plummet, mkUSD stablecoin instability</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-28T16:29:00.000Z",
-    "title": "Mystery Whale Buys 673 BTC; Rebel Satoshi's (RBLZ) Upward Momentum Defies Market Trends",
-    "url": "https://cryptodaily.co.uk/2024/03/mystery-whale-buys-673-btc-rebel-satoshis-rblz-upward-momentum-defies-market-trends",
-    "description": "In the ever-evolving landscape of cryptocurrency, where market trends often dictate investor sentiment, two notable occurrences have recently captured the crypto community's attention. Firstly, a mysterious whale has made a substantial purchase of 673 BTC,"
+    "date": "2024-03-28T17:05:36.000Z",
+    "title": "Bitcoin about to embark on parabolic stage of bull market - does retail even know?",
+    "url": "https://cryptodaily.co.uk/2024/03/bitcoin-about-to-embark-on-parabolic-stage-of-bull-market-does-retail-even-know",
+    "description": "Bitcoin is manoeuvring into position to retake the all-time high. Once there, it looks like the intense stage of the bull market can really get started. The vast majority of retail is still not clued into this. Will retail arrive late as usual?"
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-28T16:14:26.000Z",
-    "title": "Investors Turn To New Altcoin Looking To Blast To $1, As Cardano and Pepe Plunges",
-    "url": "https://cryptodaily.co.uk/2024/03/investors-turn-to-new-altcoin-looking-to-blast-to-1-as-cardano-and-pepe-plunges",
-    "description": "Amid the latest bearish market momentum, Pepe's price has dipped 3.3% and 13.7% over the weekly and biweekly periods, respectively. Cardano has followed suit with a 6.0% drop in the past week despite high developer activity."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T16:38:46.000Z",
-    "title": "Trading volume for Dogecoin doubles on speculation over X use",
-    "url": "https://www.cryptopolitan.com/trading-volume-for-dogecoin-doubles/",
-    "description": "Dogecoin (DOGE) has led the way, with total volumes jumping to $2 billion as the coin price peaked in December 2021. This rise in digital currency is based on the recent public speculation about integrating the gem-inspired meme asset into social media platform X, owned by famous tech executive Mr. Elon Musk. Doge Rockets to [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-03-28T17:00:49.000Z",
+    "title": "Injex Finance Launches Presale for $INJX Token: Join Now to Secure Early Contributions",
+    "url": "https://news.bitcoin.com/injex-finance-launches-presale-for-injx-token-join-now-to-secure-early-contributions/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/img_20240328_142200_228.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />PRESS RELEASE. Injex Finance is excited to announce the official launch of its Presale for the native $INJX token, offering early contributors an exclusive opportunity to become part of the thriving Injex ecosystem. With the Presale now live, users can seize the moment to participate and benefit from this groundbreaking initiative. As the cryptocurrency market [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T16:38:16.000Z",
-    "title": "Solana Fans Mark NFTFN as Their Top Pick for 2024, Confident It Will Reach a $10 Valuation",
-    "url": "https://www.cryptopolitan.com/solana-fans-mark-nftfn-as-their-top-pick-for-2024-confident-it-will-reach-a-10-valuation/",
-    "description": "SOL (Solana) investors are having a great time watching their favorite token skyrocket again. What was crashing to below $10 a little over a year ago due to a black swan event from which the whole industry felt the shock, has risen over $200, resurrecting its dominance over the altcoin segment. It is presently trading [&#8230;]"
+    "date": "2024-03-28T17:06:29.000Z",
+    "title": "BlackRock’s BUIDL fund hits $245 million in one week",
+    "url": "https://www.cryptopolitan.com/blackrocks-buidl-fund-245-million-one-week/",
+    "description": "Renowned investment firm BlackRock has announced a significant milestone connected to its BUIDL fund based on Ethereum. The Ethereum-based BlackRock ISD Institutional Digital Liquidity fund has witnessed its balance surge to around $245 million. The unique approach of the company to debut tokenized securities has made the fund one to watch out for the financial [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T16:38:07.000Z",
-    "title": "DOGE Community Leaders Are Buzzing About NFTFN, Forecasting Its Value to Hit $20 by the End of Next Year",
-    "url": "https://www.cryptopolitan.com/doge-community-leaders-are-buzzing-about-nftfn-forecasting-its-value-to-hit-20-by-the-end-of-next-year/",
-    "description": "The crypto industry is booming this month, and bullish forces are expected to take it higher for the foreseeable future. DOGE has delivered impressive gains of over 100% through the past month. The DOGE community is excited but is also looking at other tokens to increase its profits further. Its leaders are pointing at another [&#8230;]"
+    "date": "2024-03-28T17:06:24.000Z",
+    "title": "The Rise of AI-Generated Fake IDs Threatens Online Security",
+    "url": "https://www.cryptopolitan.com/the-rise-of-ai-generated-fake-ids-threatens/",
+    "description": "A recent exposé by 404 Media shed light on a burgeoning crisis: the violation of markers of identity by AI taking benefit of loopholes found in outdated authentication systems. Recently, OnlyFake, a service dominated deep underground by 404 Media, has been the subject of a stand-out danger risk.&#160; Telegram is the platform for OnlyFake to [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T16:34:08.000Z",
-    "title": "Doubtful Pepecoin (PEPE) Will Hit $1 – Why Investors Are Hedging Portfolios with New 1000x Exchange Token Priced $0.029",
-    "url": "https://www.cryptopolitan.com/doubtful-pepecoin-pepe-will-hit-1-why-investors-are-hedging-portfolios-with-new-1000x-exchange-token-priced-0-029/",
-    "description": "Recently, skepticism has emerged regarding Pepecoin (PEPE)&#8217;s potential to hit the coveted $1 mark, leading investors to seek alternative strategies to hedge their portfolios. Amid this growing uncertainty, a new contender, Option2Trade (O2T), priced at a mere $0.029, is gaining traction as a promising hedge against the unpredictable movements of meme coins like Pepecoin (PEPE). [&#8230;]"
+    "date": "2024-03-28T17:00:00.000Z",
+    "title": "Traders Anticipate Pepe (PEPE) and Polygon (MATIC) Rally; InQubeta (QUBE) Eyes Further Upside After Blasting Through $12.4M in Presale",
+    "url": "https://www.cryptopolitan.com/traders-anticipate-pepe-pepe-and-polygon-matic-rally-inqubeta-qube-eyes-further-upside-after-blasting-through-12-4m-in-presale/",
+    "description": "The latest pullback caught many by surprise, especially newbies and normies. It might be a bull market, but it won’t be all greens, with reds an opportunity to buy favorite tokens at a discount. Following a notable dip in the prices of Pepe (PEPE) and Polygon (MATIC), two top altcoins, traders anticipate a rally. Meanwhile, [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T16:19:42.000Z",
-    "title": "Nvidia Addresses Critical Security Flaws in ChatRTX App",
-    "url": "https://www.cryptopolitan.com/nvidia-addresses-flaws-in-chatrtx-app/",
-    "description": "In a rapid response to the exposure of significant security vulnerabilities, Nvidia has promptly released a patch for its AI chat application, ChatRTX. This move comes after a security bulletin from Nvidia highlighted severe security flaws within early versions of the app, emphasizing the company&#8217;s commitment to user safety and data protection. Unlike traditional software, [&#8230;]"
+    "date": "2024-03-28T16:51:55.000Z",
+    "title": "Nintendo of America Undergoes Restructuring Ahead of Switch Successor Launch",
+    "url": "https://www.cryptopolitan.com/nintendo-of-america-undergoes-restructuring/",
+    "description": "The dominant position of Nintendo of America, one of the major gaming manufacturers, can be stated as going through a restructuring event after Kotaku&#8217;s recent report. It covers reorganizing the testing department responsible for game and system assessment. The choice of such periods for these changes could not be casual because there is an expectation [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-28T16:18:03.000Z",
-    "title": "Kerrisdale Capital: MicroStrategy’s unique way to access Bitcoin ‘long over’",
-    "url": "https://crypto.news/microstrategy-bitcoin-kerrisdale-capital/",
-    "description": "Investment firm Kerrisdale Capital has called MicroStrategy's shares 'overvalued.'"
+    "date": "2024-03-28T17:00:44.000Z",
+    "title": "Meme coins BONK, FLOKI skyrocket following DOGE’s multi-year high",
+    "url": "https://crypto.news/meme-coins-bonk-floki-doge/",
+    "description": "The price of Dogecoin has reached its highest since December 2021 amid bullish investor sentiment."
   },
   {
     "source": "BTCManager",
-    "date": "2024-03-28T16:11:31.000Z",
-    "title": "FTX founder Sam Bankman-Fried sentenced to 25 years in prison",
-    "url": "https://crypto.news/sam-bankman-fried-sentenced-25-years-ftx/",
-    "description": "FTX founder Sam Bankman-Fried has been sentenced to 25 years in prison by Judge Lewis Kaplan."
+    "date": "2024-03-28T16:51:33.000Z",
+    "title": "Circle integrates native USDC into zkSync ecosystem",
+    "url": "https://crypto.news/circle-native-usdc-zksync-ecosystem/",
+    "description": "Circle has announced the integration of its USDC stablecoin natively into the zkSync ecosystem."
   },
   {
     "source": "NewsBTC",
-    "date": "2024-03-28T16:14:42.000Z",
-    "title": "BREAKING: Sam Bankman-Fried Sentenced To 25 Years In Prison",
-    "url": "https://www.newsbtc.com/breaking-news-ticker/breaking-sam-bankman-fried-sentenced-to-25-years-in-prison/",
-    "description": "In a highly anticipated courtroom verdict, Sam Bankman-Fried, the founder of the collapsed cryptocurrency exchange FTX, has been sentenced to 25 years in prison for defrauding users. US District Judge Lewis Kaplan delivered the judgment during a Lower Manhattan federal courtroom hearing. Related Reading: The Bulls Are Back: Spot Bitcoin Inflows Surge With New Records FTX Founder Sam Bankman-Fried Sentenced Judge Kaplan sternly criticized the defense&#8217;s argument, labeling it as “misleading, logically flawed, and speculative.” As reported by our sister site, Bitcoinist, Kaplan highlighted Bankman-Fried&#8217;s obstruction of justice and witness tampering during his defense, which were significant factors considered in the sentencing decision. Bankman-Fried expressed remorse in a statement, acknowledging that his series of &#8220;selfish&#8221; decisions as the leader of FTX had led to the exchange&#8217;s downfall. He admitted to having &#8220;thrown it all away&#8221; and expressed regret that continues to haunt him daily. Prosecutors had initially sought a maximum sentence of 50 years, while Bankman-Fried&#8217;s legal team argued for a maximum of 6 years. In November, Bankman-Fried was found guilty on seven criminal counts, and he has since been held at the Metropolitan Detention Center in Brooklyn. Life Plans Shattered Late Tuesday, prosecutors submitted documents containing testimonies from victims, shedding light on the impact of Bankman-Fried&#8217;s actions. One victim, whose name was redacted, wrote a letter dated March 15, describing the destruction of their entire life and the emotional toll it had taken on their family.  They emphasized that they had entrusted their funds to FTX as a custodian, not consenting to the risks Bankman-Fried had taken with their money. The victim shared the suffering that had led to depression and even thoughts of suicide. Related Reading: Fantom: Market Slowdown Chops Off 10% From Gains – Here’s Why During the trial, prosecutors revealed that Bankman-Fried had diverted funds from FTX customers, amounting to as much as $8 billion. These funds were allegedly used to finance a wide range of external interests, including political initiatives, speculative investments, and funding the lifestyles of FTX executives. Featured image from Shutterstock, chart from TradingView.com "
+    "date": "2024-03-28T17:00:18.000Z",
+    "title": "New Era For VeChain: Marketplace Platform Unveiled, Price Spike Looming?",
+    "url": "https://www.newsbtc.com/news/new-era-for-vechain-marketplace-platform-unveiled-price-spike-looming/",
+    "description": "In a new development, VeChain (VET) has announced the introduction of its latest No-Code Tokenized Asset Marketplace-as-a-Service platform (MaaS), fueling optimism within the community of an impendent price uptick. The announcement also featured the collaboration of the MotoGP racing team Gresini Racing as its first enterprise client. By collaborating with Gresini Racing, an enormous fan base will be offered digital collectibles through the MaaS platform. VeChain To Onboard A Rapid Tokenizing World With the launch of its No-Code Tokenized Asset Marketplace (MaaS) platform, VeChain has made tremendous progress toward increasing mass adoption of blockchain technology. VeChain&#8217;s continuous goal to promote widespread blockchain technology adoption by removing technological hurdles is consistent with this user-friendly strategy. Since its founding, VeChain has created several use cases powered by blockchain applications. These include product authentification, creating new digital communication channels, provenance and sustainability traceability, and others. This demonstrates its understanding of the tremendous potential that its technologies have for Web 3. Related Reading: Big Banks Push for More Bitcoin (BTC) Exposure, VeChain (VET) and NuggetRush (NUGX) Lead the Top Gainers Given the rise in demand for tokenizing Real-World assets (RWAs) solutions, the introduction of MaaS seems appropriate. Furthermore, NFC functionality and support for &#8220;Phygitals,&#8221; or real-world physical assets with NFT/digital counterparts, will be added later in the platform.  Specifically, this innovation was created to significantly influence the digital asset market. It aims to provide enterprise and individual builders with an &#8220;easy-to-use white-label NFT platform for digital asset sales&#8221; and transfers that require little to no programming. MaaS applications are diverse and address the increasing need for platforms that enable asset tokenization. Blackrock&#8216;s latest application for a Real World Asset (RWA) tokenization fund highlighted this path.  So far, the No-Code Tokenized Asset Marketplace-as-a-Service platform (MaaS) is expected to be fully operational later this year. VET Is On A Downtrend  Despite the launch of MaaS, VeChain (VET) is witnessing a daily downtrend of nearly 2%. However, in the weekly timeframe, the crypto asset has increased by over 5%, suggesting an upward move.  Related Reading: VeChain Ready For Big Moves: Analyst Identifies Key Factors That Will Drive VET To New ATH As of the time of writing, VET was trading at $0.0440, with its market cap dropping by 2.78% in the past day. Meanwhile, its trading volume is down by about 24% in the last 24 hours. In August 2018, during a downside trend in the cryptocurrency market, VET made its market debut. However, following the 2021 bull run, VET rose to the top, peaking at $0.281 before the cycle ended. Featured image from Shutterstock, chart from Tradingview.com"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-28T17:00:14.000Z",
+    "title": "Investors Believe Rebel Satoshi Has the Best Narrative of a Meme Coin: Can $RBLZ Catch up to FLOKI and PEPE?",
+    "url": "https://www.crypto-news-flash.com/investors-believe-rebel-satoshi-has-the-best-narrative-of-a-meme-coin-can-rblz-catch-up-to-floki-and-pepe/?utm_source=rss&utm_medium=rss&utm_campaign=investors-believe-rebel-satoshi-has-the-best-narrative-of-a-meme-coin-can-rblz-catch-up-to-floki-and-pepe",
+    "description": "<img width=\"1200\" height=\"750\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-28T100848.798-450x281.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Analysts forecast that FLOKI will surge to $0.000356 before the end of April following its recent partnership with TokenFi. Following the recent update from Crypto.com, experts are optimistic that PEPE will surge to $0.00001 in the next few weeks. Rebel Satoshi ($RBLZ) is poised for a significant surge shortly following its launch on top exchanges. [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-28T16:54:17.000Z",
+    "title": "io.net Appoints Garrison Yang as Chief Strategy & Marketing Officer to Drive DePIN Protocol Growth",
+    "url": "https://www.crypto-news-flash.com/io-net-appoints-garrison-yang-as-chief-strategy-marketing-officer-to-drive-depin-protocol-growth/?utm_source=rss&utm_medium=rss&utm_campaign=io-net-appoints-garrison-yang-as-chief-strategy-marketing-officer-to-drive-depin-protocol-growth",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/garrerrr3_1711644384UUyxcidwmF-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />New York, United States, March 28th, 2024, Chainwire March 19, 2024 –– io.net is delighted to announce the appointment of Garrison Yang as its Chief Strategy and Marketing Officer. The newly-appointed Yang will be responsible for guiding the growth, strategy, and marketing operations of the DePIN’s core products, catering to its customers, and expanding its [...]"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-03-28T16:55:42.000Z",
+    "title": "World’s Eighth-Largest Bank Unveils Tokenized Gold Product for Retail Customers: Report",
+    "url": "https://dailyhodl.com/2024/03/28/worlds-eighth-largest-bank-unveils-tokenized-gold-product-for-retail-customers-report/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/03/worlds-eight-gold-product.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Banking giant HSBC has reportedly launched a tokenized gold product for its retail customers in Hong Kong as the bank and the government both push to make real-world assets available in digital form. SCMP reports that the HSBC Gold Token, which is now available on HSBC’s online banking and mobile app, is the first tokenized [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/28/worlds-eighth-largest-bank-unveils-tokenized-gold-product-for-retail-customers-report/\">World’s Eighth-Largest Bank Unveils Tokenized Gold Product for Retail Customers: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

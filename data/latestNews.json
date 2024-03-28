@@ -1,86 +1,44 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-03-28T18:02:50.000Z",
+    "date": "2024-03-28T18:13:39.000Z",
     "title": "Protocol Village: Degen Community, Syndicate Launch 'Degen Chain'",
     "url": "https://www.coindesk.com/tech/2024/03/27/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
     "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of March 28-April 3."
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-03-28T18:02:48.000Z",
-    "title": "TRON DAO Reveals Exciting Updates to Sponsor and Judge List for HackaTRON Season 6",
-    "url": "https://cryptoslate.com/tron-dao-reveals-exciting-updates-to-sponsor-and-judge-list-for-hackatron-season-6/",
-    "description": "<p>Geneva, Switzerland, March 28, 2024 &#8211; HackaTRON Season 6, co-hosted between TRON DAO, HTX DAO, BitTorrent Chain, and JustLend DAO, introduces an exciting lineup of new sponsors, partners, and judges. Showcasing HackaTRON Sponsors Diamond Sponsors: Ankr: Specializing in decentralized infrastructure services for DApp development, Ankr supports the seamless integration and deployment of blockchain applications. ChainGPT: [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tron-dao-reveals-exciting-updates-to-sponsor-and-judge-list-for-hackatron-season-6/\">TRON DAO Reveals Exciting Updates to Sponsor and Judge List for HackaTRON Season 6</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Decrypt",
+    "date": "2024-03-28T18:11:44.000Z",
+    "title": "Bitcoin or MicroStrategy Stock? Analyst Says MSTR Trades at ‘Unjustifiable Premium’ Over BTC",
+    "url": "https://decrypt.co/223931/bitcoin-btc-versus-microstrategy-mstr-stock-kerrisdale",
+    "description": "The Kerrisdale investment firm says that the software company's stock will take a hit because its price is now unjustified."
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-03-28T18:04:44.000Z",
-    "title": "Vitalik Buterin pushes for anti-correlation incentives in Ethereum staking",
-    "url": "https://cryptobriefing.com/vitalik-anti-correlation-incentives-staking/",
-    "description": "Vitalik Buterin says that Ethereum's decentralization for staking needs a key measure: anti-correlation incentives."
+    "date": "2024-03-28T18:36:59.000Z",
+    "title": "TRON DAO reveals exciting updates to sponsor and judge list for HackaTRON Season 6",
+    "url": "https://cryptobriefing.com/trondao-sponsor-judge-list-hackatron/",
+    "description": "HackaTRON Season 6 unveils new sponsors, partners, and judges for a hackathon with a massive prize pool of $650K in TRX and energy."
   },
   {
-    "source": "Crypto Daily",
-    "date": "2024-03-28T17:49:28.000Z",
-    "title": "The Underdog Altcoins Set to Disrupt the Market!",
-    "url": "https://cryptodaily.co.uk/2024/03/the-underdog-altcoins-set-to-disrupt-the-market",
-    "description": "Explore an insightful look at underrated altcoins waiting to make a major impact on the cryptocurrency market. Dive into the potential of these underdog digital currencies and their potential to reshape the crypto landscape."
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-03-28T18:01:19.000Z",
-    "title": "Northern Ireland’s Universities Unite for AI Innovation",
-    "url": "https://www.cryptopolitan.com/northern-irelands-universities-unite-for-ai/",
-    "description": "Northern Ireland&#8217;s two premier universities have started the Artificial Intelligence Collaboration Centre (AICC), a pioneering initiative seeking to exploit the benefits of artificial intelligence (AI) in several business sectors. The AICC will be based across Ulster University&#8217;s Belfast and Derry campuses, in partnership with Queen&#8217;s University, Belfast, through £16.3 million investment from Invest NI and [&#8230;]"
+    "source": "Crypto Briefing",
+    "date": "2024-03-28T18:30:01.000Z",
+    "title": "Restaking protocol Prisma Finance hit with $12 million exploit",
+    "url": "https://cryptobriefing.com/prisma-finance-exploit-hackers-steal-12m/",
+    "description": "Prisma Finance was exploited for over $11 million on Mar."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-28T17:52:50.000Z",
-    "title": "United States Treasury’s tokenized assets hit over $1 billion",
-    "url": "https://www.cryptopolitan.com/united-states-tokenized-asset-over-1-billion/",
-    "description": "The tokenization of United States Treasurys and other real-world assets on blockchain platforms has gained significant traction, with over $1 billion worth of U.S. Treasurys now existing across Ethereum, Polygon, Solana, and other blockchains. This surge has been fueled in part by the launch of the BlackRock USD Institutional Digital Liquidity Fund (BUIDL), which has [&#8230;]"
+    "date": "2024-03-28T18:14:07.000Z",
+    "title": "US and UK jointly sanction online media channel Gaza Now for fundraising for Hamas",
+    "url": "https://www.cryptopolitan.com/us-and-uk-sanction-gaza-now/",
+    "description": "Gaza Now, an online media channel supporting Hamas, and its owner, Mustafa Ayash, have been sanctioned jointly by the United States and the United Kingdom for their involvement in fundraising activities for the group. This move comes after the Oct 7 attack in Israel and emphasizes a unified approach in the attempt to restrict funding [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-03-28T18:02:43.000Z",
-    "title": "Hut 8 reports 32% revenue increase amid Bitcoin rally",
-    "url": "https://crypto.news/hut-8-revenue-increase-bitcoin/",
-    "description": "Cryptocurrency miner Hut 8 Corp has published a report on its results over the past six months."
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-03-28T18:00:31.000Z",
-    "title": "Dogecoin Holder Base Reaches New Record Amid Surge In Interest",
-    "url": "https://www.newsbtc.com/news/dogecoin/dogecoin-holder-base-record/",
-    "description": "Dogecoin has soared toward a new record in one notable metric as interest in the meme coin continues to surge. This time around, the holder base of the cryptocurrency has reached a new all-time high, signaling rapid adoption among crypto investors. Dogecoin Holders Cross 6.9 Million The month of March has come with glad tidings for Dogecoin. Not only has the meme coin’s price risen tremendously this month, its holder base has also seen a lot of growth. This month, the total DOGE holder base crossed 6.9 million for the very first time, setting a new record. However, the meme coin is not anywhere near done as the number continues to rise. Related Reading: Here’s Why The Cardano Price Is Struggling Below $0.7 According to data from the Coincarp website, the number of Dogecoin holders on the mainnet has reached 6,932,763 as of March 28. Given the growth rate of the number of holders over the last month, the number could cross 7 million before the month of March is over. This new record is a testament to the adoption that DOGE has witnessed over the last few months. Despite competitors such as BONK, PEPE, and WIF springing out of the woodwork, as well as its fiercest rival, Shiba Inu, continuing to put up a fight, Dogecoin has dominated as the leading meme coin. To put this growth in perspective, the DOGE holder base started out the year 2024 with around 6.06 million holders. Three months later, it is more than 6.9 million, meaning that the holder base grew more than 14% during this time. DOGE Outlook Continues To Be Bullish In addition to the rapid rise in Dogecoin holders, there has been a notable uptick in other metrics, such as daily transaction counts, whale transactions, and age consumed. These point to a rise in bullish sentiment among investors who expect the price to keep going up. Related Reading: Fifth Largest Bitcoin Whale Moves $6 Billion In BTC, Here’s The Destination The age consumed is particularly important here since it shows that more investors are choosing to hold their DOGE tokens for the longer term. This has significantly reduced the selling pressure on the meme coin, allowing it to rally at a time when most of the crypto market remains suppressed. Another metric that has shown a significant increase is the daily transaction volume which is up almost 50% in the last day. This uptick shows more interest in trading Dogecoin and with its price surging in the last day, it suggests that the majority of this volume is skewed toward buying rather than selling. The DOGE price is currently reflecting this surge in interest as its price is up almost 10% in the last day. However, the bears continue to maintain resistance around $0.2, forcing the meme coin back downward. DOGE price at $0.2 &#124; Source: DOGEUSDT on Tradingview.com Featured image from Capital.com, chart from Tradingview.com"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T18:00:50.000Z",
-    "title": "StakeStone Ushers In A New Era Of DeFi With Its Community-Centric Omnichain Airdrop Carnival",
-    "url": "https://coinedition.com/stakestone-ushers-in-a-new-era-of-defi-with-its-community-centric-omnichain-airdrop-carnival/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival.jpg 730w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/03/StakeStone-Ushers-In-A-New-Era-Of-DeFi-With-Its-Community-Centric-Omnichain-Airdrop-Carnival-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In an exciting development for the DeFi community, StakeStone, the pioneering&#160;liquidity infrastructure protocol, introduces a revolutionary approach to staking assets and liquidity distribution. As the first in its field, StakeStone has made significant strides in the DeFi space by focusing on staking assets on risk-free underlying assets beyond the consensus layer, minting yield-bearing assets like [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/stakestone-ushers-in-a-new-era-of-defi-with-its-community-centric-omnichain-airdrop-carnival/\">StakeStone Ushers In A New Era Of DeFi With Its Community-Centric Omnichain Airdrop Carnival</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T18:00:00.000Z",
-    "title": "SingularityNET (AGIX) Hits 7-Day High on Merger Announcement, Indicator Foresee Bull Rally",
-    "url": "https://coinedition.com/singularitynet-agix-hits-7-day-high-on-merger-announcement-indicator-foresee-bull-rally/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator.png 730w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/03/SingularityNET_AGIX_Hits_7_Day_High_on_Merger_Announcement_Indicator-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Since the news of a merger of SingularityNET (AGIX), Fetch.ai (FET), and Ocean Protocol (OCEAN) into AltSignals (ASI) Token, which would have a diluted valuation of $7.5 billion, AGIX has been on a positive surge. As a result, the AGIX bullish momentum regained strength, sending the price to a 7-day high of $1.39 after finding [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/singularitynet-agix-hits-7-day-high-on-merger-announcement-indicator-foresee-bull-rally/\">SingularityNET (AGIX) Hits 7-Day High on Merger Announcement, Indicator Foresee Bull Rally</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-03-28T17:57:18.000Z",
-    "title": "VeChain Unveils MaaS Platform As its Financial Reports Boom",
-    "url": "https://coinedition.com/vechain-unveils-maas-platform-as-its-financial-reports-boom/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"VeChain (VET) Rises by 20%: How Far Will the Uptrend Go?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis.jpg 730w, https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis-150x84.jpg 150w, https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis-600x338.jpg 600w, https://coinedition.com/wp-content/uploads/2022/12/VeChain-VET-price-analysis-696x392.jpg 696w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>VeChain has introduced a groundbreaking platform, Marketplace-as-a-Service (MaaS), aimed at simplifying asset tokenization without the need for complex coding. This initiative seeks to make blockchain technology more accessible to businesses and individuals alike. VeChain also announced MotoGP champions Gresinin Racing as its first enterprise client.&#160; Gresini Racing intends to use MaaS to engage its fanbase [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/vechain-unveils-maas-platform-as-its-financial-reports-boom/\">VeChain Unveils MaaS Platform As its Financial Reports Boom</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-28T18:05:18.000Z",
-    "title": "Ethereum Being Designated a Security Won’t Hurt Chances of Spot ETH ETFs Approval, Says BlackRock CEO Larry Fink",
-    "url": "https://dailyhodl.com/2024/03/28/ethereum-being-designated-a-security-wont-hurt-chances-of-spot-eth-etfs-approval-says-blackrock-ceo-larry-fink/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/03/blackrock-ceo-lagging-behind.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>BlackRock chief executive Larry Fink believes approval of spot Ethereum (ETH) exchange-traded funds (ETFs) could still occur even if the top altcoin is deemed a security. In a new interview on FOX Business, Fink says that the chances of approval for pending applications to launch spot ETH ETFs would not be adversely impacted if the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/28/ethereum-being-designated-a-security-wont-hurt-chances-of-spot-eth-etfs-approval-says-blackrock-ceo-larry-fink/\">Ethereum Being Designated a Security Won’t Hurt Chances of Spot ETH ETFs Approval, Says BlackRock CEO Larry Fink</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "source": "Cryptopolitan",
+    "date": "2024-03-28T18:11:02.000Z",
+    "title": "CBN Governor clarifies his stance on crypto regulation",
+    "url": "https://www.cryptopolitan.com/cbn-governor-clarifies-stance-on-crypto/",
+    "description": "The Central Bank of Nigeria (CBN) has been in the news over the developments concerning the regulation of cryptocurrencies in the country. In a recent turn of events, Yemi Cardoso, the governor of the Central Bank noted that crypto regulation in the country is under the jurisdiction of the Securities and Exchange Commission of Nigeria [&#8230;]"
   }
 ]

@@ -1,51 +1,79 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-03-29T18:45:00.000Z",
-    "title": " VC Roundup: Investors move into cross-chain, Bitcoin layer-2,= and institutional tools  ",
-    "url": "https://cointelegraph.com/news/vc-roundup-investors-crosschain-bitcoin-layer2-institutional-tools",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZDdiZTdkODItMGEzOS00MjlmLWI2ZmUtNmM0ZjlhOGZlNmNhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>This edition of Cointelegraph’s VC Roundup highlights Borderless Capital’s recent acquisition, along with new funding raises by Keyring Network, Morph, Rails, BOB, FLock, and Race.  </p>\n                    <p><p>Venture capital firms are moving to seize market share amid the current bull cycle. March’s developments include the acquisition of a quantitative trading firm, CFT Capital, by Web3-native investment company Borderless Capital.</p><p>The move adds artificial intelligence and quant proprietary trading products to Borderless' businesses, targeting more efficiency in capital deployment across Web3 verticals, said the company with $600 million in assets under management. </p><p>Borderless is an early investor in Algorand, Blockchdaemon and Securitize — the latter of which is BlackRock's new partner in a tokenized digital fund. </p><p><a href=\"https://cointelegraph.com/news/vc-roundup-investors-crosschain-bitcoin-layer2-institutional-tools\">Read more</a></p></p>\n                \n            "
+    "source": "Decrypt",
+    "date": "2024-03-29T19:29:02.000Z",
+    "title": "Solana User Wallets Drained of $523K as BONKbot Team Denies Link",
+    "url": "https://decrypt.co/224127/solana-wallets-drained-523k-bonkbot-denies-link",
+    "description": "Hundreds of Solana users have had their wallets drained, and many are pointing fingers at Telegram trading bots for a private key leak."
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-03-29T18:52:55.000Z",
-    "title": "Crypto can be the next phase of ‘attention economy’: Variant Fund co-founder",
-    "url": "https://cryptobriefing.com/crypto-enables-efficient-attention-economy/",
-    "description": "The crypto attention economy uses tokens and NFTs to translate attention into economic value, being more effective than Web2 models."
+    "source": "Cointelegraph",
+    "date": "2024-03-29T19:38:22.000Z",
+    "title": " CFTC commissioner warns against infringing on SEC’s authority in KuCoin case ",
+    "url": "https://cointelegraph.com/news/cftc-infringing-sec-authority-kucoin",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvNTI2ZDg1NzQtNzUwMS00ZjVhLTllZTgtYmRjZjY1N2ZkYTQ3LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Two U.S. financial regulators cannot seem to reach a consensus on how to treat certain cryptocurrencies as securities or commodities.</p>\n                    <p><p>Caroline Pham, a commissioner with the United States Commodity Futures Trading Commission (CFTC), has suggested that a recent “aggressive” crypto enforcement action could put the regulator at odds with the Securities and Exchange Commission (SEC).</p><p>In a March 29 statement, Pham <a href=\"https://www.cftc.gov/PressRoom/SpeechesTestimony/phamstatement032924\" target=\"_blank\" rel=\"noopener nofollow\">said</a> the CFTC appeared to have exerted authority over certain securities in its enforcement case against cryptocurrency exchange KuCoin. The commission charged the firm “with multiple violations of the Commodity Exchange Act (CEA) and CFTC regulations” on March 26, <a href=\"https://cointelegraph.com/news/justice-department-charges-kucoin-money-laundering\">parallel to criminal charges</a> from the U.S. Justice Department.</p><p>“The CFTC’s approach may infringe upon the SEC’s authority and undermine decades of robust investor protection laws by conflating a financial instrument with a financial activity, disrupting the foundations of securities markets,” said Pham. “Owning shares is not the same thing as trading derivatives.”</p><p><a href=\"https://cointelegraph.com/news/cftc-infringing-sec-authority-kucoin\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-29T19:25:00.000Z",
+    "title": " $1B of US Treasurys tokenized, Base TVL doubles in a month: Finance Redefined ",
+    "url": "https://cointelegraph.com/news/1-b-us-treasurys-tokenized-base-tvl-doubles-finance-redefined",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvZjI5YWI5NWUtZmUwMy00NGMxLWI5YzQtNGI3NTk3ZWIyMDk1LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The real-world asset tokenization trend is heating up, fueled by BlackRock’s first tokenized asset fund, “BUIDL,” which joined 16 other tokenized government securities funds in the last week.</p>\n                    <p><p data-ct-non-breakable=\"true\">Welcome to Finance Redefined, your weekly dose of essential <a href=\"https://cointelegraph.com/learn/defi-a-comprehensive-guide-to-decentralized-finance\">decentralized finance (DeFi)</a> insights — a newsletter crafted to bring you the most significant developments from the past week.</p><p>Over $1 billion of United States Treasurys have been tokenized on Ethereum, Polygon, Solana and other blockchains amid a growing trend of real-world asset tokenization.</p><p>A U.S. judge has ruled that Coinbase’s self-custody crypto wallet doesn’t make it a broker, which lawyers say is a “significant setback” for the U.S. Securities and Exchange Commission (SEC) and a boon for DeFi.</p><p><a href=\"https://cointelegraph.com/news/1-b-us-treasurys-tokenized-base-tvl-doubles-finance-redefined\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-03-29T19:33:53.000Z",
+    "title": "Coinbase Research on What to Expect From the Cryptocurrency Markets in Q2 2024",
+    "url": "https://www.cryptoglobe.com/latest/2024/03/coinbase-research-on-what-to-expect-from-the-cryptocurrency-markets-in-q2-2024/",
+    "description": "On March 30, David Duong, the Head of Institutional Research at Coinbase, shared a research note on LinkedIn, analyzing the current state and future outlook of the cryptocurrency markets as of this date. Despite potential disruptions from US holidays and the typical end-of-month and quarter corporate rebalancing, Duong notes that the crypto markets have remained […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-29T18:43:50.000Z",
-    "title": "Apex Legends Competitive Scene Undergoes Massive Shake-Up with Removal of Dropship and Introduction of POI Draft",
-    "url": "https://www.cryptopolitan.com/apex-legends-competitive-scene-undergoes/",
-    "description": "Professional play in the Apex Legends competitive scene isn&#8217;t new to controversies, with the most recent hack events undoubtedly leaving a trail often behind. The game company Electronic Arts (EA) revealed recently envisioned serious amendments in action for Apex Legends Global Series (ALGS) including the holding of the Dropship stage and the coming of Performance-Based [&#8230;]"
+    "date": "2024-03-29T19:37:37.000Z",
+    "title": "American crypto lobbyists might just be our biggest problem",
+    "url": "https://www.cryptopolitan.com/america-crypto-lobbyists-our-biggest-problem/",
+    "description": "America, land of the free, home of the brave, and now, a playground for crypto lobbyists who seem to have taken the term &#8220;influencing policy&#8221; to an entirely new level, kickstarting a sort of political war that could very well dictate the future of finance in the United States. Think I&#8217;m being dramatic? Okay. Read [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T19:31:15.000Z",
+    "title": "X Payments delays crypto integration amid licensing issues",
+    "url": "https://www.cryptopolitan.com/x-payments-delays-crypto-integration/",
+    "description": "In a strategic move that diverges from the trend of cryptocurrency integration, X Payments, the new venture by the social media giant formerly known as Twitter, helmed by billionaire entrepreneur Elon Musk, is set to debut without cryptocurrency support. This decision comes amidst licensing hurdles, specifically the absence of a Virtual Currency Business License, which [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T19:27:57.000Z",
+    "title": "Former FTX executives and promoters settle class-action lawsuit",
+    "url": "https://www.cryptopolitan.com/former-ftx-executives-promoters-lawsuit/",
+    "description": "Former executives and promoters of crypto exchange FTX have settled with a group representing former investors of the exchange in a lawsuit. According to the details of the settlement, the former executives and promoters of the exchange will part with $1.3 million. The settlement stems from a protracted lawsuit where investors were seeking compensation, by [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T19:21:55.000Z",
+    "title": "The Current State and Future Prospects of Web3 Gaming: A Critical Analysis",
+    "url": "https://www.cryptopolitan.com/prospects-of-web3-gaming-a-critical-analysis/",
+    "description": "Web3 gaming has become a substantial area for the transition, and with the increasing momentum of blockchain technology and gaming, the scenario of Web3 gaming stands at the edge today.&#160; With large crowds of gamers rushing in for sensors like Play-2-Earn and GameFi, the gaming industry&#8217;s transfiguration accuracy is cross-examined. This essay focuses on Web3 [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T19:16:02.000Z",
+    "title": "Flow Coin Price Prediction 2024-2033: Is FLOW a Good Investment?",
+    "url": "https://www.cryptopolitan.com/flow-coin-price-prediction/",
+    "description": "Flow Coin Price Prediction 2024-2034 The advice provided by seasoned traders, often referred to as the 50-35-15 rule, suggests allocating 50% of a crypto portfolio to Bitcoin (BTC), 35% to a selection of large-cap coins, and the remaining 15% to smaller projects with high growth potential. This strategy is grounded in the perceived stability of [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T19:10:39.000Z",
+    "title": "Mixed reactions: Google’s move into cryptocurrency monitoring",
+    "url": "https://www.cryptopolitan.com/googles-move-into-cryptocurrency-monitoring/",
+    "description": "Google recently made a breakthrough by expanding its search capability to monitor wallet balances across various blockchains, thus enabling Google users to effortlessly track their cryptocurrencies using the search engine. The enhancement includes popular blockchains like Bitcoin, Arbitrum, Avalanche, Optimism, Polygon, and Fantom and accommodates various cryptocurrency users.  Google’s upgraded search capability enables such users [&#8230;]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-03-29T18:57:40.000Z",
-    "title": "Grayscale Report: VeChain (VET) and Chainlink (LINK) Surge Amid Utilities Sector Attention",
-    "url": "https://www.crypto-news-flash.com/grayscale-report-vechain-vet-and-chainlink-link-surge-amid-utilities-sector-attention/?utm_source=rss&utm_medium=rss&utm_campaign=grayscale-report-vechain-vet-and-chainlink-link-surge-amid-utilities-sector-attention",
-    "description": "<img width=\"1200\" height=\"700\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-300x175.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-768x448.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-150x88.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/BLOCKCHAIN-TOKEN-450x263.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />A recent Grayscale report underscored the importance of blockchain networks that offer utility, with Chainlink, VeChain, Filecoin, Lido DAO and Render among those highlighted. Utility and service blockchain projects offer oracles to connect off-chain and on-chain worlds, offer liquid staking solutions, and aggregate physical data through decentralized networks. Blockchain has evolved from underpinning purely speculative [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-29T19:04:12.000Z",
-    "title": "$236,000,000,000 in ‘Improper Payments’ Made by US Government in One Year, Exposing Material Weakness in Internal Controls: Report",
-    "url": "https://dailyhodl.com/2024/03/29/236000000000-in-improper-payments-made-by-us-government-in-one-year-exposing-material-weakness-in-internal-controls-report/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/03/dollar-gov-payment.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The US government is botching hundreds of billions of dollars of payments per year, according to a new report. The Government Accountability Office (GAO) says federal agencies made $236 billion in &#8220;improper payments&#8221; last year – a number that includes overpayments, inaccurate recordkeeping and fraud. The agency says the wasteful and erroneous spending is a [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/29/236000000000-in-improper-payments-made-by-us-government-in-one-year-exposing-material-weakness-in-internal-controls-report/\">$236,000,000,000 in &#8216;Improper Payments&#8217; Made by US Government in One Year, Exposing Material Weakness in Internal Controls: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-29T18:45:38.000Z",
-    "title": "Hackers Loot Ethereum-Based DeFi Protocol Prisma Finance for $11,600,000 Worth of Crypto: PeckShield",
-    "url": "https://dailyhodl.com/2024/03/29/hackers-loot-ethereum-based-defi-protocol-prisma-finance-for-11600000-worth-of-crypto-peckshield/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/03/hackers-loot-prisma-based.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Bad actors have exploited decentralized finance (DeFi) protocol Prisma Finance and stole 3,257.69 Ethereum (ETH) worth $11.6 million, according to PeckShield. The blockchain security and analytics firm flagged the suspicious activity after the hacker initially siphoned $8.1 million worth of funds from the platform. The attacker eventually distributed the stolen assets to three wallets. The [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/29/hackers-loot-ethereum-based-defi-protocol-prisma-finance-for-11600000-worth-of-crypto-peckshield/\">Hackers Loot Ethereum-Based DeFi Protocol Prisma Finance for $11,600,000 Worth of Crypto: PeckShield</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-03-29T18:41:39.000Z",
-    "title": "Whales Move Over $618,000,000 in Bitcoin, Ethereum, XRP and Chainlink – Here’s Where the Crypto’s Headed",
-    "url": "https://dailyhodl.com/2024/03/29/whales-move-over-618000000-in-bitcoin-ethereum-xrp-and-chainlink-heres-where-the-cryptos-headed/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2023/11/Whales-Heavily-Accumulating-Ethereum.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Deep-pocketed crypto investors are abruptly shifting hundreds of millions of dollars worth of digital assets to and from unknown wallets. New data from whale-surveying platform Whale Alert reveals that over $350 million worth of Bitcoin (BTC), the top crypto asset by market cap, was moved in two separate transactions. The first transaction saw a crypto [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/03/29/whales-move-over-618000000-in-bitcoin-ethereum-xrp-and-chainlink-heres-where-the-cryptos-headed/\">Whales Move Over $618,000,000 in Bitcoin, Ethereum, XRP and Chainlink – Here’s Where the Crypto’s Headed</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-03-29T19:12:16.000Z",
+    "title": "Solana (SOL) Enters Regulatory Crosshairs: SEC Ruling Sparks Concerns",
+    "url": "https://www.crypto-news-flash.com/solana-sol-enters-regulatory-crosshairs-sec-ruling-sparks-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=solana-sol-enters-regulatory-crosshairs-sec-ruling-sparks-concerns",
+    "description": "<img width=\"1260\" height=\"787\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana.jpg 1260w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana-300x187.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana-1200x750.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana-768x480.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/02/Solana-450x281.jpg 450w\" sizes=\"(max-width: 1260px) 100vw, 1260px\" />Judge Failla&#8217;s ruling allows the SEC to continue its case against Coinbase, raising concerns about Solana&#8217;s classification as a security. The market initially reacted negatively, with Solana experiencing a 5.7% price drop, but it managed to recover most of its losses. In a recent ruling by United States Southern District of New York’s Judge Katherine [...]"
   }
 ]

@@ -1,30 +1,114 @@
 [
   {
     "source": "Cointelegraph",
-    "date": "2024-03-29T15:24:42.000Z",
-    "title": " Why is Bitcoin price stuck? ",
-    "url": "https://cointelegraph.com/news/why-is-bitcoin-price-stuck",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDUvYWZjOGVjMDgtNDc2OC00MTdhLWEzNzEtYTQ2NDQyMzQ0ZWE4LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin's daily chart suggests its price stability is part of a bull pennant pattern with an upside target of $97,600.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) is stuck inside a trading range this week, fluctuating between $68,350 and $71,500 in a period of indecision among traders aboout the next potential market bias.</p><p>Observing Bitcoin's daily chart, it appears that its current period of price stability is unfolding within the confines of a Bull Pennant formation.</p><p>A bull pennant is a bullish continuation pattern that occurs when the price fluctuates inside a symmetrical triangle range after a strong uptrend. This technical setup progresses in three distinctive phases: pole formation, consolidation, and breakout.</p><p><a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-stuck\">Read more</a></p></p>\n                \n            "
+    "date": "2024-03-29T16:00:00.000Z",
+    "title": " Web3 dev platform Mirror World launches first gaming rollup chain on Solana ",
+    "url": "https://cointelegraph.com/news/mirror-world-launches-first-gaming-rollup-chain-solana",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvYWNjYjE0ZGUtYzJkYy00MDA0LTliMGEtY2MzNjMxNTYxYzU0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The software development kit allows Solana games to settle \"millions of requests\" during game sessions and settle them back to Solana L1 for faster processing. </p>\n                    <p><p data-ct-non-breakable=\"true\">Web3 application development platform Mirror World is launching the first gaming rollup on Solana.</p><p>According to the March 29 announcement, the novel Solana Virtual Machine (SVM) computation engine, dubbed “Sonic,” will allow developers to deploy game engines or virtual machines of their choice on Solana via its software development kit (SDK) and power in-app transactions. At the same time, HyperGrid, the core technology of the Sonic SVM developed by Mirror World, enables gaming platforms to create their own on-ramp and cross-chain decentralized exchange (DEX) aggregators for Solana in-game interactions. </p><p>Currently, the Mirror World SDK has been deployed to 50 gaming clients as initial distribution nodes. Three games, Mahjong Meta, Matr1x Fire and Seraph/ActozSoft, with over $30 million raised in their series rounds, have seen more than 200,000 traffic and transaction engagements generated during their gaming sessions after incorporating the Mirror World SDK. “Sonic provides natively integrated tools for payment &amp; settlement infrastructure, as well as user engagement tools necessary to build a successful Web3 game,” Mirror World wrote. </p><p><a href=\"https://cointelegraph.com/news/mirror-world-launches-first-gaming-rollup-chain-solana\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Cointelegraph",
+    "date": "2024-03-29T15:45:00.000Z",
+    "title": " Bitcoin exchanges&#039; BTC balances have dropped almost $10B in 2024 ",
+    "url": "https://cointelegraph.com/news/bitcoin-exchanges-btc-balances-dropped-10b-2024",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMjgxODQwNGUtODQyMy00MTA1LTg5OTYtNjY2ODRjZGU0ZmQ0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin exchange withdrawal trends are clear as \"pent up demand\" from the spot ETFs combines with the upcoming halving to squeeze the available BTC supply.</p>\n                    <p><p>Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) worth nearly $10 billion has left crypto exchanges since the United States launched spot exchange-traded funds (ETFs).</p><p>Data from on-chain analytics firm <a href=\"https://studio.glassnode.com/metrics?a=BTC&amp;chartStyle=line&amp;m=distribution.BalanceExchanges&amp;zoom=all\" target=\"_blank\" rel=\"noopener nofollow\">Glassnode</a> shows that since Jan. 11, exchanges are down over 136,000 BTC.</p><p>Bitcoin supply dynamics continue to sway in bulls’ favor as exchanges see mass withdrawals this quarter.</p><p><a href=\"https://cointelegraph.com/news/bitcoin-exchanges-btc-balances-dropped-10b-2024\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-03-29T15:58:15.000Z",
+    "title": "Base network TVL exceeds $3 billion, with daily users surpassing 5 million",
+    "url": "https://cryptoslate.com/base-network-tvl-exceeds-3-billion-with-daily-users-surpassing-5-million/",
+    "description": "<p>The Ethereum layer-2 network, Base, has witnessed a remarkable surge in assets locked, soaring by approximately 200% over the last month to over $3 billion, according to L2beat data. Key contributor Jesse Pollak disclosed that Base hit the $3 billion milestone five days after crossing the $2 billion threshold. Notably, the network took 203 days [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/base-network-tvl-exceeds-3-billion-with-daily-users-surpassing-5-million/\">Base network TVL exceeds $3 billion, with daily users surpassing 5 million</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-03-29T15:29:25.000Z",
-    "title": "Best Crypto to Buy Now: Here’s Why $3M Platform Algotech (ALGT) is Leading Race Over Dogecoin (DOGE) and Cosmos (ATOM)",
-    "url": "https://cryptodaily.co.uk/2024/03/best-crypto-to-buy-now-heres-why-3m-platform-algotech-algt-is-leading-race-over-dogecoin-doge-and-cosmos-atom",
-    "description": "The crypto investment landscape is undergoing a dynamic shift, with many investors shifting attention away from established names like Dogecoin (DOGE) and Cosmos (ATOM) to newer, innovative projects like Algotech (ALGT)."
+    "date": "2024-03-29T16:08:21.000Z",
+    "title": "Navigating the World of Ethereum: Price Fluctuations and Technical Functionality",
+    "url": "https://cryptodaily.co.uk/2024/03/navigating-the-world-of-ethereum-price-fluctuations-and-technical-functionality",
+    "description": "Are you trying to understand the ups and downs of Ethereum? You're not alone. The Ethereum price can go up or down because of many things like demand, new technology, changes in rules, and how people feel about the market."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-03-29T15:48:33.000Z",
+    "title": "BNB investors expect ATH in 2024; avalanche and Algotech Rally With Bullish Momentum",
+    "url": "https://cryptodaily.co.uk/2024/03/bnb-investors-expect-ath-in-2024-avalanche-and-algotech-rally-with-bullish-momentum",
+    "description": "In 2024, the cryptocurrency market is making a strong comeback after some tough times. Investors are coming back in large numbers, excited about the possibilities of this groundbreaking technology."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-29T15:25:18.000Z",
-    "title": "Taiwan Shares Reach New Closing High with Strong Tech Sector Performance",
-    "url": "https://www.cryptopolitan.com/taiwan-new-closing-high-with-strong-sector/",
-    "description": "Taiwan shares scaled a fresh all-time closing high on Friday, as robust buying in the electronics sector, particularly heavyweight Taiwan Semiconductor Manufacturing Co (TSMC), pushed up the local bourse for another high with its gains. Analysts said the overwhelming sentiment was inspired by the gains across U.S. markets in the previous session. Tech stocks lead [&#8230;]"
+    "date": "2024-03-29T16:09:17.000Z",
+    "title": "Bitcoin halving spurs accelerated installations",
+    "url": "https://www.cryptopolitan.com/bitcoin-halving-spurs-installations/",
+    "description": "The global installation of Bitcoin ATMs is experiencing a notable surge following the Bitcoin halving, as predicted by the CEO of a major Bitcoin ATM operator. Brandon Mintz, CEO of Bitcoin Depot, anticipates a global acceleration in installations, attributing this trend to the typical surge in crypto FOMO (fear of missing out) accompanying the Bitcoin [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-03-29T15:20:28.000Z",
-    "title": "Tron blockchain leads in 45% of 2023’s illicit crypto transactions",
-    "url": "https://www.cryptopolitan.com/tron-leads-in-45-of-2023s-illicit-crypto/",
-    "description": "TRM Labs has shone a fresh light on the field of illicit cryptocurrency transactions of 2023. The findings indicated that the Tron blockchain accounted for 45% of all scamming activities. This is 41% better than the previous year. The Ethereum and Bitcoin blockchains followed, 24% and 18% respectively. TRM Labs analysis illustrates that there is [&#8230;]"
+    "date": "2024-03-29T16:01:44.000Z",
+    "title": "Sam Bankman-Fried goes to jail: Is Changpeng Zhao next?",
+    "url": "https://www.cryptopolitan.com/sbf-goes-to-jail-is-changpeng-zhao-next/",
+    "description": "So, it finally happened. Sam Bankman-Fried, the dirty little criminal, was sentenced to prison. Twenty-five years. Little too little if you ask&#8230; well, anybody. But it&#8217;s still something I guess. The entire crypto community has been kind of celebrating for the past twenty-four hours. That got me thinking; there is one other person in the [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T15:52:51.000Z",
+    "title": "NYC AI Chatbot Under Fire for Misinforming Businesses",
+    "url": "https://www.cryptopolitan.com/nyc-ai-chatbot-under-fire-for-businesses/",
+    "description": "AI Chatbot New York City&#8217;s effort to use AI in government operations is running into a blunder, as the city has reportedly realized that its AI-based chatbot is providing businesses with wrong and, in some cases, potentially unlawful advice. Launched in October and purporting to advise on how to wade through the complexities of doing [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T15:49:46.000Z",
+    "title": "Bitcoin miner’s shocking $800M offering sends stock plummeting",
+    "url": "https://www.cryptopolitan.com/bitcoin-miners-shocking-800m-offering/",
+    "description": "CleanSpark stock crashed during the after-hours trading session on Thursday. The conference details an adjustment in the company&#8217;s at-the-market (ATM) offering agreement alluded to. The Company announced that it would have the right to sell up to $800 million in stock, while the agreement previously signed with H.C. Wainwright &#38; Co. the selling for $500 [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T15:49:02.000Z",
+    "title": "Nintendo Switch Online Adds F-Zero: Maximum Velocity to GBA Collection",
+    "url": "https://www.cryptopolitan.com/nintendo-switch-adds-f-zero-maximum-velocity/",
+    "description": "After bringing back a whole bunch of old favorites, Nintendo excites retro gaming fans again by adding more classic titles to the Nintendo Switch Online library. The latest addition, F-Zero: Ma Vel, transfers you into the adrenaline-pump action Game Boy Advance time era on the current consoles. Expanding the library The Nintendo Switch Online is [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-03-29T15:42:19.000Z",
+    "title": "AI and Social Media Shape the Battlefield in South Africa’s Upcoming Elections",
+    "url": "https://www.cryptopolitan.com/ai-shape-south-africas-upcoming-elections/",
+    "description": "South African presidential elections are nearer, a unique topic that has not been seen in the political arena before has crept into the picture, and satire and fake news are undoubtedly perplexing. The collaboration of CAUCA with SANEF, which is a South African National Editors Forum, and MMA, which is an organization that has competence [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-03-29T15:53:59.000Z",
+    "title": "Crypto industry losses to hacking decreased by 23% in Q1",
+    "url": "https://crypto.news/crypto-hacking-losses-q1-2024/",
+    "description": "In the first quarter of the year, the crypto industry lost $336.3 million to hacking, 23.1% less than last year."
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-03-29T16:00:06.000Z",
+    "title": "Bitcoin Ready To Rip? Indicator Prints Bullish Signal After 9 Years",
+    "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-ready-to-rip-indicator-prints-bullish-signal-after-9-years/",
+    "description": "One analyst on X thinks Bitcoin bulls may be in for a treat in the coming months after one key indicator printed a buy signal for the first time in nearly a decade. While pointing to a bullish crossover on the 2-month chart&#8217;s Golden Moment Indicator, the analyst said the signal is again flashing green in almost nine years.  Further cementing this outlook, this is forming as yet the Supertrend indicator, which has historically preceded every major Bitcoin uptrend, is also bullish. Bitcoin On A Bullish Path? Though the analyst might be bullish on the world&#8217;s most valuable coin, the asset remains consolidated.  Technically, reading from the formation in the daily chart, the coin is slowly losing the uptrend momentum. This week, Bitcoin failed to build on to late last week&#8217;s spike to push above $72,000 in a buy trend continuation. In the daily chart, Bitcoin is trading above the 20-day moving average. However, prices have been moving horizontally below $72,000. Despite this, traders are hopeful.  Related Reading: Dogecoin Jumps 37% – How High Can DOGE Go This April? Whether bulls will flow back and thrust the coin to fresh highs above $74,000 will depend on many other factors. Inflows Into Spot BTC ETFs Pick Up Momentum A key influencer on price and sentiment remains spot Bitcoin exchange-traded funds (ETFs) and their flow trend. Since launching, nine out of the ten spot Bitcoin ETFs have accumulated over 500,000 BTC, or roughly 2.5% of the total supply.  When Grayscale&#8217;s BTC holding is factored in, all spot Bitcoin ETF issuers in the United States control 830,000 BTC. Cumulatively, this figure translates to roughly 4% of the total supply. Of note, after last week&#8217;s slowdown, inflows continued throughout this week, pushing their holdings even higher—a net positive for the price and, most importantly, investor confidence. By March 28, Lookonchain data shows that 21Shares led the charge, adding 2,924 BTC.  Despite the general lull in Bitcoin prices, the uptick in demand for these derivative products indicates growing interest among institutional and retail investors. Related Reading: Crypto Analyst Predicts Top 8 Altcoins With 50x Potential Not Yet On Binance It remains to be seen how prices react going into April, an important month. In less than four weeks, the network will halve miner rewards from 6.25 BTC to 3.125 BTC, making the coin scarce. If the current level of demand remains, BTC prices will likely rise as market forces automatically adjust prices.  Feature image from DALLE, chart from TradingView"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-03-29T16:00:11.000Z",
+    "title": "Robert Kiyosaki Predicts Bitcoin To Reach $100K By September; Internet Computer and NuggetRush Price Prediction",
+    "url": "https://www.crypto-news-flash.com/robert-kiyosaki-predicts-bitcoin-to-reach-100k-by-september-internet-computer-and-nuggetrush-price-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=robert-kiyosaki-predicts-bitcoin-to-reach-100k-by-september-internet-computer-and-nuggetrush-price-prediction",
+    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-29T093629.254-450x253.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Robert Kiyosaki has forecasted that the price of Bitcoin will rise to $100k by September.  Internet Computer has increased 71.7% in the past week and is predicted to reach $67.57 in the long term. NuggetRush is forecasted to see a 50x surge after launch.  Renowned author and business mogul Robert Kiyosaki has forecasted that Bitcoin [...]"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-03-29T15:42:24.000Z",
+    "title": "This Crypto Ecosystem Can Be the Next SOLANA",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/this-crypto-ecosystem-can-be-the-next-solana/",
+    "description": "<p>Coinbase’s Base hit over $2 billion Total Value Locked (TVL). It has almost 2xed over the last 25 days. Unfortunately, Base has no native token. So we do not see this TVL growth contribute to a token price pump like Solana (839%). But, all this growth seems to be coming in from the upcoming Airdrops [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/this-crypto-ecosystem-can-be-the-next-solana/\">This Crypto Ecosystem Can Be the Next SOLANA</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-03-29T16:00:00.000Z",
+    "title": "Solana Dev Ecosystem Welcomes Automatic Private Nodes: Details",
+    "url": "https://coinedition.com/solana-dev-ecosystem-welcomes-automatic-private-nodes-details/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana-Themed Meme Coin BOME Produces $30.2 Million for Biggest Buyer\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record.jpg 730w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-311x175.jpg 311w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-124x70.jpg 124w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2023/09/Solana-Chain-Mints-NFTs-Record-129x73.jpg 129w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Helius, the leading crypto developer platform exclusively on Solana, has introduced a game-changing feature set to redefine the landscape of Solana node deployment. In a recent post on X, Helius declared that “Solana will never be the same again” by introducing Automatic Private Nodes. Helius noted that previously, setting up dedicated nodes, which are computers [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/solana-dev-ecosystem-welcomes-automatic-private-nodes-details/\">Solana Dev Ecosystem Welcomes Automatic Private Nodes: Details</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

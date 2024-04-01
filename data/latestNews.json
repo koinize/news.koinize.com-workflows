@@ -1,121 +1,86 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-04-01T11:19:26.000Z",
-    "title": " Vitalik Buterin shares the next steps for Ethereum Purge ",
-    "url": "https://cointelegraph.com/news/vitalik-buterin-next-steps-ethereum-purge",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNjE3ODMzMTAtNmZiOS00ZWZlLTg5YWUtYzJmYjQ5MTNiYTUwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p> Purge will introduce history expiration via the EIP-4444 to limit the amount of historical data stored. </p>\n                    <p><p data-ct-non-breakable=\"true\">Ethereum co-founder Vitalik Buterin took to X to share the next steps for protocol simplification and node resource load decreases, aka <a href=\"https://notes.ethereum.org/@vbuterin/purge_2024_03_31\" target=\"_blank\" rel=\"noopener nofollow\">Purge</a>.</p><p>The Purge is a key stage in the Ethereum transition that involves the removal of old and excess network history and simplifying the network over time. </p><p>Aside from reducing the historical data storage, this stage also significantly lowers the hard disk requirements for node operators and the technical debt of the Ethereum protocol. </p><p><a href=\"https://cointelegraph.com/news/vitalik-buterin-next-steps-ethereum-purge\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-01T11:11:28.000Z",
-    "title": " Thailand’s biggest crypto exchange goes on hiring spree ahead of IPO  ",
-    "url": "https://cointelegraph.com/news/thailand-crypto-bitkub-hiring-ipo-2025",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNDlhY2M0ZTgtMzczNC00OGYzLTg2NmEtN2MyYTliNDJjZGYyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitkub targets to go public on the Stock Exchange of Thailand in 2025 and is planning to hire 1,000 employees by IPO launch.</p>\n                    <p><p data-ct-non-breakable=\"true\">Bitkub Capital Group Holdings, the owner of Thailand’s largest cryptocurrency exchange, is hiring financial advisers to facilitate its planned initial public offering (IPO) listing.</p><p>Bitkub aims to go public on the Stock Exchange of Thailand (SET) in 2025, CEO Jirayut Srupsrisopa <a href=\"https://www.bloomberg.com/news/articles/2024-04-01/thailand-s-biggest-crypto-exchange-hiring-advisers-for-2025-ipo\" target=\"_blank\" rel=\"noopener nofollow\">told</a> Bloomberg on April 1. The upcoming public listing aims to raise new capital and boost Bitkub’s profile.</p><p>In addition to hiring advisers, Bitkub is now actively expanding staff despite <a href=\"https://asia.nikkei.com/Spotlight/DealStreetAsia/Thailand-crypto-exchange-Bitkub-s-parent-cuts-5.5-of-staff\" target=\"_blank\" rel=\"noopener nofollow\">cutting</a> its headcount by 6% in 2022 and 2023. </p><p><a href=\"https://cointelegraph.com/news/thailand-crypto-bitkub-hiring-ipo-2025\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-04-01T11:18:49.000Z",
-    "title": "Tether becomes seventh largest Bitcoin holder with recent $618 million purchase",
-    "url": "https://cryptoslate.com/tether-becomes-seventh-largest-bitcoin-holder-with-recent-618-million-purchase/",
-    "description": "<p>Tether (USDT) is now the seventh-largest Bitcoin holder globally, following its purchase of more than 8,000 BTC in the past day, according to Bitinfocharts data. On-chain data shows that the stablecoin issuer received approximately 8,889 BTC, valued at around $618 million, from a Bitfinex hot wallet on March 31. This purchase amplified Tether&#8217;s total Bitcoin holdings [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/tether-becomes-seventh-largest-bitcoin-holder-with-recent-618-million-purchase/\">Tether becomes seventh largest Bitcoin holder with recent $618 million purchase</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-01T11:23:37.000Z",
-    "title": "JizzLord (JIZZLORD) Is Now Available for Trading on LBank Exchange",
-    "url": "https://cryptodaily.co.uk/2024/04/jizzlord-jizzlord-is-now-available-for-trading-on-lbank-exchange",
-    "description": "JizzLord (JIZZLORD) Is Now Available for Trading on LBank Exchange"
+    "source": "Decrypt",
+    "date": "2024-04-01T12:03:50.000Z",
+    "title": "Telegram to Enable Ad Purchases Using Toncoin",
+    "url": "https://decrypt.co/224260/telegram-to-enable-ad-purchases-using-toncoin",
+    "description": "Telegram users will be able to purchase in-platform advertisements with budgets starting at \"a handful of Toncoins.\""
   },
   {
     "source": "Bitcoin.com",
-    "date": "2024-04-01T11:29:18.000Z",
-    "title": "Composable Data Assists Dapp Developers in Unlocking Rich Data Applications – Swaroop Hegde",
-    "url": "https://news.bitcoin.com/composable-data-assists-dapp-developers-in-unlocking-rich-data-applications-swaroop-hegde/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Composable Data Assists Dapp Developers in Unlocking Rich Data Applications - Swaroop Hegde\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2284126663.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Composable data, a flexible and modular approach in the field of data analytics, benefits decentralized application (dapp) developers constrained by the limitations of current data protocols. Swaroop Hegde, co-founder of Powerloom, explains that composable data maintains a decentralized database of data points verified through a consensus mechanism. Clean Insights Versus Actionable Intelligence Hegde, a thought [&#8230;]"
+    "date": "2024-04-01T11:50:15.000Z",
+    "title": "Bitcoin Technical Analysis: Upper Resistance Holds Strong Amidst Consolidation Phase",
+    "url": "https://news.bitcoin.com/bitcoin-technical-analysis-upper-resistance-holds-strong-amidst-consolidation-phase/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Bitcoin Technical Analysis: Upper Resistance Holds Strong Amidst Consolidation Phase\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/upper.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />As bitcoin flirts with the $69,556 mark, its oscillation between $68,900 and $71,391 within the last 24 hours suggests a battleground for bulls and bears alike. Amidst a trading volume of $27.37 billion, the cryptocurrency giant showcases a current market capitalization of $1.36 trillion. Bitcoin Bitcoin&#x2019;s current trading landscape, through the lens of oscillators and [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-01T11:31:10.000Z",
-    "title": "AI-Powered Galaxy S24 Series Elevates Samsung to Top Position in Smartphone Market",
-    "url": "https://www.cryptopolitan.com/ai-powered-galaxy-s24-elevate-samsung-to-top/",
-    "description": "Samsung has, yet again, climbed the ladder of the world smartphone market and thrived to beat Apple in total sales in February 2024. The largest part of this success was when the Galaxy S24 series was successfully launched, which recently had a big role in the company&#8217;s market performance. As Regional Monitoring, according to Counterpoint [&#8230;]"
+    "date": "2024-04-01T12:04:53.000Z",
+    "title": "Boston University Responds to Criticisms Over AI Suggestions Amid Graduate Student Strike",
+    "url": "https://www.cryptopolitan.com/boston-university-responds-to-criticisms/",
+    "description": "Boston University (BU) has responded robustly to criticisms following a dean&#8217;s suggestion to employ artificial intelligence (AI) tools amidst a graduate student strike. The controversy arose after an email from Stan Sclaroff, the Dean of Arts and Sciences, surfaced recommending the use of AI to supplement teaching amidst the strike. University clarifies stance on AI [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-01T12:02:25.000Z",
+    "title": "Tech Solutions Emerge to Tackle Higher Education’s Enrollment Cliff",
+    "url": "https://www.cryptopolitan.com/tech-emerge-to-tackle-higher-educations/",
+    "description": "Tech in higher education&#8217;s near future, last week&#8217;s annual UPCEA conference in Boston displayed myriad new and inventive solutions that may indeed aid educators and administrators in tackling the dilemma head-on. Attendance was up to its highest levels as educators and administrators searched for new ways to journey through the changing space. Personalized Learning takes [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-01T11:50:59.000Z",
+    "title": "AI in Journalism: Advancements, Limitations, and Apprehensions",
+    "url": "https://www.cryptopolitan.com/ai-in-journalism-advancements/",
+    "description": "Artificial intelligence (AI) has made remarkable strides in transforming the journalism landscape, ushering in a new era of content creation and dissemination. Spearheaded by advanced large language models such as ChatGPT and Claud 2, the cost of producing written content has plummeted, presenting an unprecedented opportunity for news organizations to reimagine their role in the [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-01T11:38:02.000Z",
-    "title": "Tether adds 8,888 Bitcoins to its reserves, holding more than 75K Bitcoin",
-    "url": "https://crypto.news/tether-adds-8888-bitcoins-to-its-reserves-holding-more-than-75k-bitcoin/",
-    "description": "Stablecoin issuer Tether made headlines on March 31, as it acquitted 8,888 Bitcoin, valued at $618 million. The recent acquisition significantly boosts Tether&#8217;s reserves prior to the upcoming Bitcoin halving event. With this, the total number of Bitcoins in the&#8230;"
+    "date": "2024-04-01T12:02:19.000Z",
+    "title": "What next for Solana’s BOME price after 2,200% gains in March?",
+    "url": "https://crypto.news/what-next-for-solanas-bome-price-after-2200-gains-in-march/",
+    "description": "Book of Meme market data analysis explores how media trends and liquidity flows could impact BOME price action in April 2024. "
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-01T11:33:19.000Z",
-    "title": "Whales sent over 806k SOL to Coinbase following drop below $200",
-    "url": "https://crypto.news/whales-sent-over-806k-sol-to-coinbase-following-drop-below-200/",
-    "description": "Data shows that whales have sent a massive amount of Solana (SOL) to the Coinbase exchange as the asset falls below the $200 mark. According to data from Whale Alert, four whale addresses sent a total of 806,711 SOL tokens&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-01T11:22:30.000Z",
-    "title": "Optimism and Injective enthusiasts turn eyes to Fezoo’s presale",
-    "url": "https://crypto.news/optimism-and-injective-enthusiasts-turn-eyes-to-fezoos-presale/",
-    "description": "Amid the unpredictable market, Fezoo emerges as a compelling option for Optimism and Injective Protocol investors, offering a decentralized exchange with the potential for significant returns. #partnercontent"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-01T11:21:27.000Z",
-    "title": "Bitcoin and Ethereum surge as NFTFN eyes a 50x profit explosion",
-    "url": "https://crypto.news/bitcoin-and-ethereum-surge-as-nftfn-eyes-a-50x-profit-explosion/",
-    "description": "NFT Token (NFTFN) is attracting interest from crypto enthusiasts and experts, with some speculating a 50x surge soon#partnercontent"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-01T11:20:09.000Z",
-    "title": "Thailand’s crypto exchange Bitkub eyes IPO in 2025",
-    "url": "https://crypto.news/thailands-crypto-exchange-bitkub-eyes-ipo-in-2025/",
-    "description": "Thailand&#8217;s biggest crypto exchange Bitkub is hiring advisers to go public on the Stock Exchange of Thailand next year. Bitkub Capital Group Holdings, the owner of Thailand&#8216;s largest crypto exchange by trading volume Bitkub, has started hiring advisors for its&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-01T11:18:31.000Z",
-    "title": "Defending decentralization Tron fights back at SEC lawsuit",
-    "url": "https://crypto.news/defending-decentralization-tron-fights-back-at-sec-lawsuit/",
-    "description": "Tron Foundation, the organization behind the Layer 1 blockchain network Tron, has asked the United States Securities and Exchange Commission (SEC) to dismiss a securities lawsuit against the platform.&#160; According to a March 28 dismissal motion, the Tron Foundation has&#8230;"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-01T11:10:50.000Z",
-    "title": "The best-performing cryptocurrencies of March 2024",
-    "url": "https://crypto.news/the-best-performing-cryptocurrencies-of-march-2024/",
-    "description": "During March, the broader cryptocurrency market exhibited a predominantly bullish trend, with over $250 billion capital injected into the global crypto market cap.&#160; Among the prominent mainstream assets, Dogwifhat (WIF), Core (CORE), Jupiter (JUP), Pepe (PEPE), and Floki (FLOKI) distinguished&#8230;"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-01T11:23:28.000Z",
-    "title": "JizzLord (JIZZLORD) Is Now Available for Trading on LBank Exchange",
-    "url": "https://www.crypto-news-flash.com/jizzlord-jizzlord-is-now-available-for-trading-on-lbank-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=jizzlord-jizzlord-is-now-available-for-trading-on-lbank-exchange",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO.jpeg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO-300x180.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO-768x461.jpeg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO-150x90.jpeg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/9215DCFD-9934-49F7-8A73-BD106B3D4847_1711968411e0GYuko6WO-450x270.jpeg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Road Town, BVI, April 1st, 2024, Chainwire In a significant move for cryptocurrency and mobile technology enthusiasts, LBank Exchange, a premier global digital asset trading platform, has announced the listing of JizzLord (JIZZLORD) on April 1, 2024. Users of LBank Exchange can brace themselves for the JIZZLORD/USDT trading pair, which went live already. JizzLord (JIZZLORD) [...]"
+    "date": "2024-04-01T12:00:45.000Z",
+    "title": "Bithumb’s annual revenue down by nearly 60% in 2023, report says",
+    "url": "https://crypto.news/bithumbs-annual-revenue-down-by-nearly-60-in-2023-report-says/",
+    "description": "Bithumb disclosed an operating loss of 14.9 billion won ($11 million) in 2023, citing a 58% revenue drop and Q4&#8217;s fee-free policy as contibuting factors. South Korea&#8217;s cryptocurrency exchange Bithumb has revealed an operating loss of 14.9 billion won (~$11&#8230;"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-04-01T11:28:40.000Z",
-    "title": "Chainlink Set to Lead 2024 Bullrun with BlackRock Boost",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/chainlink-set-to-lead-2024-bullrun-with-blackrock-boost/",
-    "description": "<p>Recently, Chainlink&#8217;s price has experienced a notable increase, reigniting excitement among its users In this article, we&#8217;ll explore why Chainlink is a prime choice to capitalize on the bull market trend. CCIP We believe Chainlink is going to go Parabolic and one of the main pillars for this belief is its CCIP You might be [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/chainlink-set-to-lead-2024-bullrun-with-blackrock-boost/\">Chainlink Set to Lead 2024 Bullrun with BlackRock Boost</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-04-01T12:00:08.000Z",
+    "title": "Ritestream Begins Crowdfunding for Web3 Reality Show",
+    "url": "https://www.altcoinbuzz.io/spotlight/ritestream-begins-crowdfunding-for-web3-reality-show/",
+    "description": "<p>One of the benefits of a bull market is the flood of newer projects hitting the market. A lot of crypto projects are in launch mode right now. However, one of the most common obstacles to project launching is the lack of funding.  Some projects lack the resources to attract investors. Or to secure the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/spotlight/ritestream-begins-crowdfunding-for-web3-reality-show/\">Ritestream Begins Crowdfunding for Web3 Reality Show</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-04-01T11:47:34.000Z",
+    "title": "Sui Partners with Revolut",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/sui-partners-with-revolut/",
+    "description": "<p>Sui is a favorite guest in the current spotlight. It stays there as well, with regular news and updates. Now, there is a new partnership with Revolut. This is a global all-in-one finance platform. Revolut changes the way you use money. It has over 40 million worldwide users. So, let&#8217;s find out what this new [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/sui-partners-with-revolut/\">Sui Partners with Revolut</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-04-01T11:30:00.000Z",
-    "title": "Unveiling Tomorrow’s Crypto Winners: Who Will Lead the Charge?",
-    "url": "https://coinedition.com/unveiling-tomorrows-crypto-winners-who-will-lead-the-charge/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Unveiling Tomorrow&#039;s Crypto Winners Who Will Lead the Charge\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/Unveiling-Tomorrows-Crypto-Winners-Who-Will-Lead-the-Charge-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency landscape sees Bitcoin&#8217;s dominance reach 52%, nearing $71,000. Altcoins experience a $50 billion dip, market cap falling below $2.8 trillion. Bitcoin&#8217;s halving event could reduce its dominance, prompting a bullish phase for alternative coins, a pattern recognized by Michael van de Poppe. Overall, the current market seems highly unpredictable, but there still are [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/unveiling-tomorrows-crypto-winners-who-will-lead-the-charge/\">Unveiling Tomorrow&#8217;s Crypto Winners: Who Will Lead the Charge?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-04-01T11:57:59.000Z",
+    "title": "What is the GRAM Coin and Why Its Value Will Skyrocket in 2024",
+    "url": "https://coinedition.com/what-is-the-gram-coin-and-why-its-value-will-skyrocket-in-2024/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/PR-28.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/PR-28.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/PR-28-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The next Bitcoin halving is approaching &#8211; an event that occurs almost every 4 years and kickstarts a new growth cycle in the market – members of the crypto community are looking for promising altcoins for investment.&#160; Altcoins generally grow significantly faster during this period and investors that buy these tokens before the halving get [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/what-is-the-gram-coin-and-why-its-value-will-skyrocket-in-2024/\">What is the GRAM Coin and Why Its Value Will Skyrocket in 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-04-01T11:23:14.000Z",
-    "title": "Upcoming Altseason Promises 50x-100x Returns For Investors – Analyst",
-    "url": "https://coinedition.com/upcoming-altseason-promises-50x-100x-returns-for-investors-analyst/",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://coinedition.com/wp-content/uploads/2024/04/unnamed-20.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Upcoming Altseason Promises 50x-100x Returns For Investors - Analyst\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/unnamed-20.jpg 512w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-127x70.jpg 127w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/unnamed-20-355x200.jpg 355w\" sizes=\"(max-width: 512px) 100vw, 512px\" /><p>Renowned crypto analyst identified as Cyril-DeFi on X predicts the upcoming altseason promises 50x-100x returns for investors. According to Cyril, any investor with an average of $10,000 could raise their capital to between $500,000 and $1 million by 2025 if smartly invested. In a recent post on X, Cyril shared his main narratives and the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/upcoming-altseason-promises-50x-100x-returns-for-investors-analyst/\">Upcoming Altseason Promises 50x-100x Returns For Investors &#8211; Analyst</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-04-01T11:50:37.000Z",
+    "title": "Ripple CTO Rejects Proposal to Donate 30 Billion XRP to XRPL Foundation",
+    "url": "https://coinedition.com/ripple-cto-rejects-proposal-to-donate-30-billion-xrp-to-xrpl-foundation/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple CTO Rejects Proposal to Donate 30 Billion XRP to XRPL Foundation\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/Ripple_CTO_Rejects_Proposal_to_Donate_30_Billion_XRP_to_XRPL_Foundation-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Ripple CTO David Schwartz responded to a proposal advocating for Ripple to donate most of the tokens held in escrow to the XRP Ledger Foundation (XRPLF) to benefit the XRP community. The suggestion originated from Panos Mekras, co-founder of Anodos Finance, who believes locked-up XRP tokens in Ripple’s escrow would be of better use with [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-cto-rejects-proposal-to-donate-30-billion-xrp-to-xrpl-foundation/\">Ripple CTO Rejects Proposal to Donate 30 Billion XRP to XRPL Foundation</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "The Daily Hodl",
+    "date": "2024-04-01T11:45:05.000Z",
+    "title": "Economist Alex Krüger Says Bitcoin All-Time Highs Coming Soon, Predicts 4x Move for One Layer-One Altcoin",
+    "url": "https://dailyhodl.com/2024/04/01/economist-alex-kruger-says-bitcoin-all-time-highs-coming-soon-predicts-4x-move-for-one-layer-one-altcoin/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/01/Bitcoin-Would-Be-Disappointing-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Closely followed trader and economist Alex Krüger says new all-time highs for Bitcoin (BTC) are likely just around the corner. Krüger tells his 169,000 followers on the social media platform X that the daily market structures of several large-cap crypto assets are all clearly bullish. Based on the charts, Krüger says he&#8217;s expecting a new [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/01/economist-alex-kruger-says-bitcoin-all-time-highs-coming-soon-predicts-4x-move-for-one-layer-one-altcoin/\">Economist Alex Krüger Says Bitcoin All-Time Highs Coming Soon, Predicts 4x Move for One Layer-One Altcoin</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

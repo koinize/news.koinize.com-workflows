@@ -1,261 +1,65 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-04-02T17:23:43.000Z",
-    "title": "Argentina President Milei Disappoints Some Bitcoiners as Crypto Registration Rule Begins",
-    "url": "https://www.coindesk.com/business/2024/04/02/argentina-president-milei-disappoints-some-bitcoiners-as-crypto-registration-rule-begins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The nation unveiled a mandatory registration process for cryptocurrency platforms."
+    "source": "Decrypt",
+    "date": "2024-04-02T18:01:24.000Z",
+    "title": "Feds Move Bitcoin From Seized Silk Road Wallet Holding $2 Billion in Funds",
+    "url": "https://decrypt.co/224457/feds-move-bitcoin-seized-silk-road-wallet-holding-2-billion",
+    "description": "The Bitcoin—believed to be seized crypto from the infamous Silk Road marketplace—is on the move again, per blockchain data."
+  },
+  {
+    "source": "Decrypt",
+    "date": "2024-04-02T17:41:46.000Z",
+    "title": "'Notcoin' Game Token to Launch on April 20 Alongside Bitcoin Halving",
+    "url": "https://decrypt.co/224452/notcoin-game-token-launch-april-20-bitcoin-halving",
+    "description": "Bitcoin and Notcoin are both planning to have a big 4/20, with the NOT token planned to drop alongside the BTC halving."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-02T17:21:03.000Z",
-    "title": " Why is Bitcoin price down today? ",
-    "url": "https://cointelegraph.com/news/why-is-bitcoin-price-down-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZDM2MDViNmItMGVmZi00NmY2LWE0NmYtYjE1ZWMzYjNlY2JlLmpwZWc=.jpeg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin price is down today as traders realize profits and futures liquidations surge.</p>\n                    <p><p>The bullish momentum that propelled Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) to an all-time high of $73,835 on March 14 is waning and Bitcoin price is down 10% from the <a href=\"https://cointelegraph.com/news/bitcoin-price-drops-9-percent-ath-market-shows-signs-overheated\">all-time high</a> on April 2. </p><p>The contraction in <a href=\"https://cointelegraph.com/news/bitcoin-resets-bull-market-btc-price-april-dip\">Bitcoin price</a> has led to over a 7% plunge to start the month of April. </p><p>Let’s take a closer look at the factors impacting Bitcoin price today.</p><p><a href=\"https://cointelegraph.com/news/why-is-bitcoin-price-down-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-02T16:56:28.000Z",
-    "title": " $2B Silk Road Bitcoin seized by DOJ moves to new wallet ",
-    "url": "https://cointelegraph.com/news/silk-road-bitcoin-justice-department-wallet",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvZjljZGFhOGMtNjNiZi00ZWQ1LWIwZTctZDFlYjcxNTAwYmUzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The crypto seized was connected to James Zhong, who was convicted in 2022 of wire fraud related to the Silk Road marketplace.</p>\n                    <p><p>Roughly $2 billion in Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) previously seized by United States authorities and connected to the Silk Road marketplace has moved to a new address.</p><p>According to data from the blockchain on April 2, a wallet known to be associated with the U.S. Justice Department <a href=\"https://blockchair.com/bitcoin/transaction/9c3af4b48e66565f1da1da8278036fa1dbb09f2beaaca99c3504475390ba4590\" target=\"_blank\" rel=\"noopener nofollow\">made</a> a 0.001 Bitcoin transaction to a Coinbase Prime address — possibly as a test transaction. Shortly thereafter, the same wallet transferred 30,174 BTC, or roughly $2 billion at the time of publication, to a new address. Online sleuths identified the DOJ wallet as that containing Bitcoin seized from James Zhong, who in 2022 was <a href=\"https://cointelegraph.com/news/us-authorities-announce-conviction-connected-to-bitcoin-stolen-from-silk-road\">convicted of charges</a> connected to “unlawfully obtained” crypto from Silk Road.</p><p>Zhong stole more than 50,000 BTC from Silk Road in 2012. In 2021, U.S. authorities raided his property and discovered hard wallets containing Bitcoin, including one “on a single-board computer that was submerged under blankets in a popcorn tin.” The bulk of the seized crypto was sent to the same address that moved more than 30,000 BTC on April 2.</p><p><a href=\"https://cointelegraph.com/news/silk-road-bitcoin-justice-department-wallet\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-04-02T17:25:03.000Z",
-    "title": "Historical patterns repeat as Bitcoin declines before halving",
-    "url": "https://cryptoslate.com/insights/historical-patterns-repeat-as-bitcoin-declines-before-halving/",
-    "description": "<p>Quick Take With the halving event looming roughly 18 days away, Bitcoin is showing a predictable downturn. It has dipped below $65,000, marking a 12% decline from its all-time high and nearly 10% lower since the beginning of April. In a pattern reminiscent of March, when Bitcoin reached its peak, it promptly retreated to around [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/historical-patterns-repeat-as-bitcoin-declines-before-halving/\">Historical patterns repeat as Bitcoin declines before halving</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-04-02T16:51:37.000Z",
-    "title": "US government moves 30,175 Bitcoin confiscated from Silk Road to Coinbase",
-    "url": "https://cryptoslate.com/us-government-moves-30175-bitcoin-confiscated-from-silk-road-to-coinbase/",
-    "description": "<p>The US government transferred 30,175 Bitcoin (BTC), approximately worth $2 billion, to a wallet linked to crypto exchange Coinbase on April 2. The move occurred amid a major dip in Bitcoin that took its price to a weekly low of $64,500 per BTC before bouncing above the key $65,000 support level. On-chain sleuth ZachXBT drew [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/us-government-moves-30175-bitcoin-confiscated-from-silk-road-to-coinbase/\">US government moves 30,175 Bitcoin confiscated from Silk Road to Coinbase</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-04-02T16:30:00.000Z",
-    "title": "Bitcoin surpasses tipping point – Hyper-Bitcoinization and the future of financial sovereignty",
-    "url": "https://cryptoslate.com/podcasts/hyper-bitcoinization-and-the-future-of-financial-sovereignty/",
-    "description": "<p>On the latest episode of the SlateCast, CryptoSlate welcomed Samson Mow, CEO and founder of Jan3, a pioneer in nation-state Bitcoin adoption. Mow, the man behind Aqua Bitcoin and the architect of the innovative Bitcoin bonds, joined Senior Editor Liam &#8220;Akiba&#8221; Wright and CryptoSlate CEO Nate Whitehill to discuss his vision of hyper-Bitcoinization. In this [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/podcasts/hyper-bitcoinization-and-the-future-of-financial-sovereignty/\">Bitcoin surpasses tipping point &#8211; Hyper-Bitcoinization and the future of financial sovereignty</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-04-02T18:05:00.000Z",
+    "title": " Spot Bitcoin ETF trading volume tripled in March to $111 billion ",
+    "url": "https://cointelegraph.com/news/spot-bitcoin-etf-trading-volume-tripled-in-march-to-111-billion",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNTgzMGI3M2UtYzY1MC00YTFiLTkwN2ItNjcwYTFlYmM1YjAwLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Spot Bitcoin ETF volumes soared to $111 billion in March, highlighting investors’ consistent interest in BTC.</p>\n                    <p><p>Spot Bitcoin exchange-traded funds witnessed a spike in trading volume in March, reaching $111 billion. This was nearly three times the trading volume recorded in February, as Grayscale and BlackRock ETFs dominated the market.</p><p>According to data shared by Bloomberg ETF analyst Eric Balchunas, <a href=\"https://cointelegraph.com/learn/types-of-bitcoin-etfs#:~:text=Spot%20Bitcoin%20ETFs,ETFs%2C%20unlike%20Bitcoin%20futures%20ETFs.\">spot Bitcoin ETF </a>trading volume hit $111 billion in March, compared to $42.2 billion recorded in February. </p><p>Note that February marked the first full month of trading as the Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) investment products made their <a href=\"https://cointelegraph.com/news/first-spot-bitcoin-etf-in-us-begins-trading-in-pre-market-with-double-digit-gains\">market debut on Jan. 11</a>. Therefore, the strong performance in March reinforces a growing interest in spot Bitcoin ETFs. </p><p><a href=\"https://cointelegraph.com/news/spot-bitcoin-etf-trading-volume-tripled-in-march-to-111-billion\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-04-02T16:46:06.000Z",
-    "title": "Dump incoming? US authorities move Bitcoin stash seized from Silk Road",
-    "url": "https://cryptobriefing.com/dump-incoming-us-authorities-bitcoin-silk-road/",
-    "description": "A US government-tied Bitcoin address moved over 30,100 BTC and sent a possible test transaction to Coinbase, on-chain sleuth ZachXBT reported."
+    "date": "2024-04-02T18:04:54.000Z",
+    "title": "Uniswap goes live on Blast network",
+    "url": "https://cryptobriefing.com/uniswap-blast-network-yield/",
+    "description": "Uniswap now offers liquidity providers native yield on Blast, enhancing swapping and liquidity options with lower costs."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T16:46:07.000Z",
-    "title": "Low-Key Altcoins That Are Potential Moonshots",
-    "url": "https://cryptodaily.co.uk/2024/04/low-key-altcoins-that-are-potential-moonshots",
-    "description": "Explore the lesser-known world of Altcoins. Dive into the promising crypto assets that hold explosive potential in this article spotlighting low-key Altcoins that could be your next moonshot investments."
+    "date": "2024-04-02T17:54:14.000Z",
+    "title": "Is Polkadot (DOT) Destined for $20? A Deep Dive into Upcoming Price Movements",
+    "url": "https://cryptodaily.co.uk/2024/04/is-polkadot-dot-destined-for-20-a-deep-dive-into-upcoming-price-movements",
+    "description": "Delve into Polkadot's (DOT) latest market analysis and discover the potential for its growth. This article covers Polkadot's recent price changes, from weekly to six-month trends, and forecasts future movements based on key technical indicators like SMA, RSI, and MACD. Understand Polkadot's current position and explore the factors that could drive its price towards $20, highlighting its performance and the cryptocurrency market dynamics."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T16:36:30.000Z",
-    "title": "🌟 Exploding Altcoins! Top Picks Destined for 1000% Returns",
-    "url": "https://cryptodaily.co.uk/2024/04/exploding-altcoins-top-picks-destined-for-1000-returns",
-    "description": "Discover the top altcoins poised for exponential growth in this insightful article. Learn how to identify exploding altcoins destined for 1000% returns and make informed investment decisions."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T16:58:45.000Z",
-    "title": "How The Blockchain Era Is Transforming Access To Finance",
-    "url": "https://cryptodaily.co.uk/2024/04/how-the-blockchain-era-is-transforming-access-to-finance",
-    "description": "Back when physical banking was king, you had to go to the bank to get credit. Through digitization and decentralization, financing can now come to you within minutes. The transformation in access to finance has been greatly enhanced by blockchain platforms that thrive on empowering their communities for growth."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T16:57:51.000Z",
-    "title": "Easter Eggs Crypto Gains Tether (USDT) and Polkadot (DOT): Aficionados Unwrap the 100X Promise of Koala Coin (KLC)",
-    "url": "https://cryptodaily.co.uk/2024/04/easter-eggs-crypto-gains-tether-usdt-and-polkadot-dot-aficionados-unwrap-the-100x-promise-of-koala-coin-klc",
-    "description": "Imagine a future where your digital wallets value skyrockets overnight, transforming financial dreams into reality. This is not just wishful thinking for Tether (USDT) and Polkadot (DOT) enthusiasts, The presale of Koala Coin (KLC) at stage one and price $0.014 holds a 100X growth promise. Do not let Fear of Missing Out (FOMO) be your downfall. The opportunity is now."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T16:26:56.000Z",
-    "title": "5 Crypto Gems Destined for 300% Gains",
-    "url": "https://cryptodaily.co.uk/2024/04/5-crypto-gems-destined-for-300-gains",
-    "description": "Explore potential top performers in the cryptocurrency market within this insightful article focusing on five crypto gems predicted for a whopping 300% increase in value. Don’t miss these potential investment opportunities."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-04-02T17:10:09.000Z",
-    "title": "US Government Transfers Nearly $2B in Bitcoin to Coinbase, Arkham Data Reveals",
-    "url": "https://news.bitcoin.com/us-government-transfers-nearly-2b-in-bitcoin-to-coinbase-arkham-data-reveals/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"US Government Transfers Nearly $2B in Bitcoin to Coinbase, Arkham Data Reveals\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/10_news_bytes-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On April 2, 2024, the U.S. government executed a transaction involving nearly $2 billion in bitcoin (BTC), channeling the assets to Coinbase Prime, as Arkham Intelligence&#x2019;s data reveals. The transfer comprised 30,174.70 BTC, successfully processed at block height 837,413, incurring a fee of $1.57. In recent years, the U.S. has accumulated a noteworthy collection of [&#8230;]"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-04-02T17:00:03.000Z",
-    "title": "How to Use Seasonal Tokens to Get Bitcoins",
-    "url": "https://news.bitcoin.com/how-to-use-seasonal-tokens-to-get-bitcoins/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-768x432.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-300x169.png 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-1024x576.png 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-768x432.png 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-190x107.png 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-380x214.png 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01-760x428.png 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/seasonaltokensbanner01.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Like Bitcoin, the four Seasonal Tokens &#x2013; Spring, Summer, Autumn and Winter &#x2013; are produced by proof-of-work mining, and become scarcer over time. Once every nine months, the rate of production of one of the tokens is cut in half. The token that was produced at the fastest rate becomes the slowest. As the market [&#8230;]"
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-04-02T16:10:38.000Z",
-    "title": "Owner of Thailand’s Largest Cryptocurrency Exchange Set to Go Public in 2025",
-    "url": "https://news.bitcoin.com/owner-of-thailands-largest-cryptocurrency-exchange-set-to-go-public-in-2025/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Owner of Thailand’s Largest Cryptocurrency Exchange Set to Go Public in 2025\" decoding=\"async\" loading=\"lazy\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/shutterstock_1263270802.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Bitkub Capital Group Holdings, the owner of Thailand’s largest cryptocurrency exchange, reportedly plans to go public in 2025. Jirayut Srupsrisopa, the CEO of the holding company, revealed that Bitkub Capital Group is currently hiring financial advisers to assist with the listing. Enhancing Bitkub Capital Group’s Profile Bitkub Capital Group Holdings, the owner of Bitkub Online [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T17:36:06.000Z",
-    "title": "The Urgent Imperative for Companies: Make Your Data AI-Ready Now",
-    "url": "https://www.cryptopolitan.com/make-your-data-ai-ready-now/",
-    "description": "In the rapidly evolving landscape of artificial intelligence (AI), the conversation has shifted from mere curiosity to urgent necessity. Annie Weckesser, a notable figure at Uniphore, underscores a critical point: every company must swiftly embark on an AI transformation journey or face the risk of obsolescence. The AI transformation imperative The crux lies in How [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T17:22:19.000Z",
-    "title": "Jamaica is the only economy genuinely doing good right now – but how?",
-    "url": "https://www.cryptopolitan.com/jamaica-is-the-only-economy-doing-good/",
-    "description": "While the world&#8217;s economies seem to be having such a terrible time, Jamaica conspicuously stands out, challenging the norms and showcasing an economic resilience that&#8217;s hard to ignore. The island&#8217;s journey from financial despair to economic stability is not just inspiring. It&#8217;s a beautiful lesson in determination and strategic finesse. So, what&#8217;s Jamaica&#8217;s secret? You&#8217;re [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T17:14:23.000Z",
-    "title": "Groundbreaking Robot Inspired by Chinese Rice Grasshopper Revolutionizes Robotics",
-    "url": "https://www.cryptopolitan.com/robot-inspired-by-chinese-grasshopper/",
-    "description": "In a pioneering study published in the Proceedings of the National Academy of Sciences, a team including Professor Stanislav N. Gorb from the Institute of Zoology at Kiel University and researchers from China present a new robot inspired by the Chinese rice grasshopper, Oxya chinensis. Using this robotics innovation, it is going to be able [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T16:59:50.000Z",
-    "title": "Vitalik Buterin on why degen communism is the only perfect political ideology",
-    "url": "https://www.cryptopolitan.com/vitalik-buterin-on-why-degen-communism/",
-    "description": "The legendary Vitalik Buterin recently made waves with a bold declaration: as of 2024, every political ideology we&#8217;ve leaned on in the West is outdated and failing. According to him, from the capitalists singing praises of tariffs to libertarians who&#8217;ve veered off their path of liberty, it&#8217;s clear the traditional frameworks aren&#8217;t cutting it anymore. [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T16:48:56.000Z",
-    "title": "Vitalik Buterin shares his Ethereum simplification plan",
-    "url": "https://www.cryptopolitan.com/vitalik-buterin-ethereum-simplification-plan/",
-    "description": "Vitalik Buterin has laid out his vision for streamlining Ethereum, a plan he’s calling “The Purge.” Central to this initiative is the implementation of EIP-6780 during the Dencun hard fork, which significantly dials back the capabilities of the SELFDESTRUCT opcode. This move is part of a broader effort to declutter Ethereum&#8217;s protocol, aiming to make [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T16:40:14.000Z",
-    "title": "Yahoo Acquires AI News App Artifact from Instagram Founders",
-    "url": "https://www.cryptopolitan.com/yahoo-ai-news-app-artifact-from-founders/",
-    "description": "Yahoo has announced acquiring Artifact, an AI-powered news aggregation and recommendation app developed by Instagram co-founders Kevin Systrom and Mike Krieger. That would be a strategic move from Yahoo to help bolster its digital offerings. The deal closes the shutdown of the innovative app concluded last week; its technology will be integrated into Yahoo&#8217;s suite [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T16:35:33.000Z",
-    "title": "Fortnite Content Creator Exposes Flaw in Creative Mode, Urges Epic Games for Fix",
-    "url": "https://www.cryptopolitan.com/fortnite-content-creator-exposes-flaw/",
-    "description": "Recently, Epic Games&#8217; Fortnite universe has grown with the addition of LEGO Fortnite and Rocket Racing, which offer the players a wide range of experiences beyond the main Battle Royale mode. Nevertheless, a Fortnite content creator has come across a critical issue with one of these formats that merits immediate action from Epic on its [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-04-02T17:30:30.000Z",
-    "title": "POLYGON MATIC PRICE ANALYSIS & PREDICTION (April 2) – Matic Sits At Support, Negotiating For The Next DrawDown",
-    "url": "https://nulltx.com/polygon-matic-price-analysis-prediction-april-2-matic-sits-at-support-negotiating-for-the-next-drawdown/",
-    "description": "Matic is in a downward range again after facing resistance in the past week. It has lost 5% this week with no sign of stopping yet. However, the price is trading at a key support level, negotiating for the next leg down. A week ago, Matic initiated another sell after [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-04-02T17:26:29.000Z",
-    "title": "CARDANO PRICE ANALYSIS & PREDICTION (April 2) – ADA Signals Sell-Off Amid Latest Bearish Sentiment, Loses 12% Weekly",
-    "url": "https://nulltx.com/cardano-price-analysis-prediction-april-2-ada-signals-sell-off-amid-latest-bearish-sentiment-loses-12-weekly/",
-    "description": "Cardano ADA resumed bearish actions this week following a fresh meltdown across the crypto space. The price appears weak as it heads towards a support line, where a major break or bounce is likely to play. In mid-March, Cardano went through a serious drop after testing the $0.8 level. It [&#8230;]"
-  },
-  {
-    "source": "NullTX",
-    "date": "2024-04-02T16:54:55.000Z",
-    "title": "Dogecoin (DOGE): As DOGE Day Approaches Will Elon Drop Hints? Dogecoin Rival Launches On 420",
-    "url": "https://nulltx.com/dogecoin-doge-as-doge-day-approaches-will-elon-drop-hints-dogecoin-rival-launches-on-420/",
-    "description": "As the crypto community gears up for the eagerly anticipated Dogecoin (DOGE) Day, speculation is rife about potential moves by influential figures like Elon Musk. Will the tech mogul, known for his cryptic tweets that have historically sent Dogecoin (DOGE) soaring, drop hints that could influence DOGE&#8217;s trajectory? Amidst this [&#8230;]"
+    "date": "2024-04-02T17:51:51.000Z",
+    "title": "Cryptocurrency Millionaires: Here's Why Whales Bought Shiba Inu, Dogecoin and A.I Driven 1000x Token O2T Early",
+    "url": "https://cryptodaily.co.uk/2024/04/cryptocurrency-millionaires-heres-why-whales-bought-shiba-inu-dogecoin-and-ai-driven-1000x-token-o2t-early",
+    "description": "Cryptocurrency whales have long demonstrated an uncanny ability to identify and invest in tokens with explosive potential long before they become household names."
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-02T17:34:39.000Z",
-    "title": "US government transfers Silk Road’s 30k Bitcoins to Coinbase",
-    "url": "https://crypto.news/us-government-silk-road-bitcoin-coinbase/",
-    "description": "The U.S. government wallet has moved Bitcoins previously confiscated from a well-known darknet platform."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-02T16:30:46.000Z",
-    "title": "Ethereum’s dip under $3.4k could signal steeper drop",
-    "url": "https://crypto.news/ethereum-dips-steeper-drop/",
-    "description": "An analyst predicts a further Ethereum price retrace below $3,000 due to thin support levels, as the asset declined 6% in 24 hours."
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-02T16:24:50.000Z",
-    "title": "XRP, Monero face hurdles while Rebel Satoshi’s presale excites investors",
-    "url": "https://crypto.news/xrp-monero-face-hurdles-while-rebel-satoshis-presale-excites-investors/",
-    "description": "As the SEC debates fines and restrictions on institutional sales of Ripple (XRP), Monero (XMR) experiences a downturn below $140, while Rebel Satoshi's RBLZ coin is poised for exponential growth amidst a surging meme coin market. #partnercontent"
-  },
-  {
-    "source": "Kraken Blog",
-    "date": "2024-04-02T16:10:08.000Z",
-    "title": "Trading for Wormhole (W) starts April 3 – deposit now",
-    "url": "https://blog.kraken.com/product/asset-listings/trading-for-wormhole-w-starts-april-3-deposit-now",
-    "description": "<p> <img width=\"300\" height=\"137\" src=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?fit=300%2C137&amp;ssl=1\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?w=3070&amp;ssl=1 3070w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=300%2C137&amp;ssl=1 300w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=1024%2C467&amp;ssl=1 1024w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=768%2C350&amp;ssl=1 768w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=1536%2C700&amp;ssl=1 1536w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=2048%2C934&amp;ssl=1 2048w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=1200%2C547&amp;ssl=1 1200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?resize=200%2C91&amp;ssl=1 200w, https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?w=3000&amp;ssl=1 3000w\" sizes=\"(max-width: 300px) 100vw, 300px\" data-attachment-id=\"24843\" data-permalink=\"https://blog.kraken.com/product/asset-listings/trading-for-wormhole-w-starts-april-3-deposit-now/attachment/blog-banner-wormhole\" data-orig-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?fit=3070%2C1400&amp;ssl=1\" data-orig-size=\"3070,1400\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Blog-Banner-Wormhole\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?fit=300%2C137&amp;ssl=1\" data-large-file=\"https://i0.wp.com/blog.kraken.com/wp-content/uploads/2024/04/Blog-Banner-Wormhole.png?fit=1024%2C467&amp;ssl=1\" /> We’re thrilled to announce that Wormhole (W) is now available on Kraken! Funding and trading Funding for W is live and trading will begin on April 3. Add W to your Kraken account by navigating to Funding, selecting the asset, and hitting Deposit.  Only deposit W on Solana. Deposits using other networks will be lost. [&#8230;]</p>\n<p>The post <a href=\"https://blog.kraken.com/product/asset-listings/trading-for-wormhole-w-starts-april-3-deposit-now\">Trading for Wormhole (W) starts April 3 &#8211; deposit now</a> appeared first on <a href=\"https://blog.kraken.com\">Kraken Blog</a>.</p>\n"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-04-02T17:30:03.000Z",
-    "title": "Ethereum And Altcoins Crash: Why Is This Analyst Super Bullish?",
-    "url": "https://www.newsbtc.com/altcoin/ethereum-and-altcoins-crash-why-is-this-analyst-super-bullish/",
-    "description": "Altcoins like Ethereum, Cardano, Solana, and the rest might be lower at spot rates. However, according to one analyst who sees a parallel in the current formation to the 2020 market cycle, they are gearing up for a potential surge.  In a post on X, the analyst says that often, after a period of accumulation and a retest of previous highs, altcoins tend to be volatile. The crypto analyst also notes that Bitcoin has pulled back from its all-time highs and is preparing for a possible retest of this level registered in March.  Though altcoins have been decimated, looking at price action in the past 24 hours, altcoins are on a bullish path, similar to the last cycle registered in 2020. The analyst says Bitcoin will catalyze the altcoin swing to fresh levels and valuations. Will Altcoins Repeat The 2020 Cycle? For now, it is hard to predict the exact valuation of top altcoins. However, the analyst notes a similar formation in the current price action.  Related Reading: Bitcoin Final Dance: Analyst Eyes Final Peak Ahead Of Halving When altcoins consolidated after surging, prices tended to recover strongly. This spike was evident, especially once Bitcoin broke through critical liquidation levels and entered &#8220;price discovery&#8221; or fresh all-time highs.  Currently, Bitcoin is in this position. The coin is trading lower and cooling off from all-time highs. Even after higher highs last week, bulls didn&#8217;t break the $71,700 level in the daily chart. With BTC collapsing, altcoins also fell, with Ethereum, Solana, and top coins slipping below support levels.  Will Ethereum And Other Altcoins Bounce Back Strongly? The altcoin season might come earlier this time, especially once Bitcoin recovers. Possible triggers include the upcoming Bitcoin halving event. Analysts claim that halving will likely create a supply crisis, causing scarcity. If institutions funnel the same demand level, BTC will likely rip higher, breaking $71,700 and even $73,800 all-time highs. Beyond this, upcoming network upgrades in Ethereum, like the recently mentioned &#8220;Purge&#8221; and Firedancer integration in Solana, might trigger demand. Developers are working towards Voltaire in Cardano. All these changes plan to make the top smart contracts platform more reliable and enhance performance.  Related Reading: Tether Buys 8,888 Bitcoin For $618 Million, But Why Is Price Down? Besides network upgrades, analysts are considering the possible approval of spot Ethereum exchange-traded funds (ETFs). If the United States Securities and Exchange Commission (SEC) approves this product, ETH might benefit by lifting others. It might also accelerate the drafting of fitting laws, especially now that BlackRock thinks tokenization and real-world assets (RWAs) are the future of finance.  Feature image from Shutterstock, chart from TradingView"
+    "date": "2024-04-02T17:41:57.000Z",
+    "title": "CORE surges by 300% despite wider market liquidation ",
+    "url": "https://crypto.news/core-surges-market-liquidation/",
+    "description": "CORE, a layer 1 token, is up by over 300% weekly despite the market's notable liquidation on Tuesday."
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-02T17:11:27.000Z",
-    "title": "El Salvador Launches Bitcoin Education Initiative in Public Schools",
-    "url": "https://www.crypto-news-flash.com/el-salvador-launches-bitcoin-education-initiative-in-public-schools/?utm_source=rss&utm_medium=rss&utm_campaign=el-salvador-launches-bitcoin-education-initiative-in-public-schools",
-    "description": "<img width=\"1920\" height=\"1440\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920.jpg 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-300x225.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-1024x768.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-768x576.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-1536x1152.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-24x18.jpg 24w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-36x27.jpg 36w, https://www.crypto-news-flash.com/wp-content/uploads/2022/01/el-salvador-2131184_1920-48x36.jpg 48w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />El Salvador introduced the Bitcoin Diploma program to enhance awareness and understanding of Bitcoin&#8217;s technology among students. Through a structured curriculum covering various aspects of Bitcoin and financial literacy, the initiative seeks to equip individuals with the knowledge and skills essential for digital economy. The Latin American country of El Salvador is taking its Bitcoin [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T17:00:49.000Z",
-    "title": "Analyst Predicts 50x Gains After NuggetRush Launch As US Levies Kucoin With Criminal Charges",
-    "url": "https://www.crypto-news-flash.com/analyst-predicts-50x-gains-after-nuggetrush-launch-as-us-levies-kucoin-with-criminal-charges/?utm_source=rss&utm_medium=rss&utm_campaign=analyst-predicts-50x-gains-after-nuggetrush-launch-as-us-levies-kucoin-with-criminal-charges",
-    "description": "<img width=\"1200\" height=\"698\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417-300x175.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417-768x447.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417-150x87.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-02T093203.417-450x262.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Kucoin faces the law as criminal charges against the cryptocurrency exchange surface. NuggetRush merges impact gaming, GameFi, and cryptocurrency within a single ecosystem. NUGX has been recognized for its high growth potential, as analysts predict a 50x rally. The US Department of Justice (DOJ) is pursuing the cryptocurrency exchange Kucoin (KCS) with an indictment that [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T16:32:38.000Z",
-    "title": "Analyst Anticipates Bullish Surge for Dogecoin (DOGE) and Solana Memecoins",
-    "url": "https://www.crypto-news-flash.com/analyst-anticipates-bullish-surge-for-dogecoin-doge-and-solana-memecoins/?utm_source=rss&utm_medium=rss&utm_campaign=analyst-anticipates-bullish-surge-for-dogecoin-doge-and-solana-memecoins",
-    "description": "<img width=\"1764\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background.jpg 1764w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-300x204.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1024x697.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-768x522.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1536x1045.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-150x102.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-450x306.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Dogecoin-DOGE-vs-Shiba-Inu-SHIB-logos-on-a-blurred-background-1200x816.jpg 1200w\" sizes=\"(max-width: 1764px) 100vw, 1764px\" />Crypto analysts predict big price jumps for Dogecoin, BOOK OF MEME, and dogwifhat. Dogecoin could surge over 50% to hit $0.33, while BOOK OF MEME might break resistance at $0.0152. Altcoin Sherpa, a prominent crypto analyst, has set the stage for a potential Dogecoin (DOGE) breakout surge. Sherpa predicts a bullish momentum propelling the meme [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T16:26:35.000Z",
-    "title": "Embracing the Long Haul: Building Sustainable Crypto Strategies in the Bitcoin Halving Era",
-    "url": "https://www.crypto-news-flash.com/embracing-the-long-haul-building-sustainable-crypto-strategies-in-the-bitcoin-halving-era/?utm_source=rss&utm_medium=rss&utm_campaign=embracing-the-long-haul-building-sustainable-crypto-strategies-in-the-bitcoin-halving-era",
-    "description": "<img width=\"1792\" height=\"1024\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul.webp 1792w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-300x171.webp 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-1200x686.webp 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-768x439.webp 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-1536x878.webp 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-150x86.webp 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/DALL·E-2024-03-22-12.05.53-Illustrate-a-concept-related-to-the-Bitcoin-price-outlook-with-the-specific-theme-of-a-forecast-predicting-a-90000-year-end-target.-The-image-shoul-450x257.webp 450w\" sizes=\"(max-width: 1792px) 100vw, 1792px\" />The crypto market is transforming, driven by the upcoming Bitcoin halving, a quadrennial event that cuts the reward for mining Bitcoin in half. This event, expected in April 2024, is more than just a technical adjustment, it&#8217;s a market catalyst with a history of triggering substantial price movements and triggering discussions about the long-term viability [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T16:24:56.000Z",
-    "title": "Clearpool Launches Credit Vaults on Avalanche, Redefining On-chain RWAs",
-    "url": "https://www.crypto-news-flash.com/clearpool-launches-credit-vaults-on-avalanche-redefining-on-chain-rwas/?utm_source=rss&utm_medium=rss&utm_campaign=clearpool-launches-credit-vaults-on-avalanche-redefining-on-chain-rwas",
-    "description": "<img width=\"1200\" height=\"551\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55-300x138.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55-768x353.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55-150x69.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/photo_2024-04-02_18-41-55-450x207.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Clearpool launches Credit Vaults on Avalanche, offering flexible borrowing terms for DeFi users. Banxa partners with Clearpool to inaugurate the first Credit Vault, enabling access to up to USDT 5 million in borrowing capacity. Clearpool, a prominent decentralized finance (DeFi) player, has moved significantly by expanding its operations to Avalanche and introducing its latest product, [...]"
+    "date": "2024-04-02T17:43:55.000Z",
+    "title": "Real Estate Meets Blockchain: PropyKeys Integrates Chainlink Automation for Staking Rewards",
+    "url": "https://www.crypto-news-flash.com/real-estate-meets-blockchain-propykeys-integrates-chainlink-automation-for-staking-rewards/?utm_source=rss&utm_medium=rss&utm_campaign=real-estate-meets-blockchain-propykeys-integrates-chainlink-automation-for-staking-rewards",
+    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Chainlink\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Chainlink-LINK-Oracles-with-trading-charts-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />PropyKeys aims to make real estate ownership more accessible, secure, and engaging through the help of Chainlink Automation. The integration of PropyKeys and Chainlink Automation is a huge leap toward mainstream adoption of LINK and PRO crypto assets. The unquenchable need to tokenize real-world assets (RWA) through blockchain technology has significantly improved global cryptocurrency liquidity. [...]"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-04-02T16:55:45.000Z",
-    "title": "Tron Foundation Files Motion To Have SEC Lawsuit Dismissed, Says Agency ‘Not a Worldwide Regulator’",
-    "url": "https://dailyhodl.com/2024/04/02/tron-foundation-files-motion-to-have-sec-lawsuit-dismissed-says-agency-not-a-worldwide-regulator/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/04/tron-motion-to-hacve.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Tron Foundation and other firms associated with Tron (TRX) founder Justin Sun are asking a judge to dismiss the lawsuit lodged against them by the U.S. Securities and Exchange Commission (SEC). In a motion filed late last month, lawyers for Tron say that the SEC is going beyond its jurisdiction when it moved to regulate [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/tron-foundation-files-motion-to-have-sec-lawsuit-dismissed-says-agency-not-a-worldwide-regulator/\">Tron Foundation Files Motion To Have SEC Lawsuit Dismissed, Says Agency ‘Not a Worldwide Regulator’</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "Bitfinex Blog",
-    "date": "2024-04-02T16:21:50.000Z",
-    "title": "Is Liquid Network Blending Traditional & Crypto Markets?",
-    "url": "https://blog.bitfinex.com/education/is-liquid-network-blending-traditional-crypto-markets/",
-    "description": "<p>The Liquid Network represents a sophisticated layer 2 scaling solution for Bitcoin, focusing on the expedited, confidential settlement, and issuance of digital assets. Developed as a sidechain to Bitcoin, Liquid facilitates a seamless transfer of BTC between the main Bitcoin blockchain and the Liquid sidechain,...</p>\n<p>The post <a rel=\"nofollow\" href=\"https://blog.bitfinex.com/education/is-liquid-network-blending-traditional-crypto-markets/\">Is Liquid Network Blending Traditional &#038; Crypto Markets?</a> appeared first on <a rel=\"nofollow\" href=\"https://blog.bitfinex.com\">Bitfinex blog</a>.</p>\n"
+    "date": "2024-04-02T18:05:32.000Z",
+    "title": "Crypto’s Biggest Exchanges Announce Plan To List Highly-Anticipated New Cross-Chain Altcoin Project",
+    "url": "https://dailyhodl.com/2024/04/02/cryptos-biggest-exchanges-announce-plan-to-list-highly-anticipated-new-cross-chain-altcoin-project/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2023/07/Altcoin-Could-Plummet-.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>The world&#8217;s largest crypto exchanges are gearing up to list a new cross-chain altcoin project for millions of traders worldwide. In a new announcement, Binance, the largest digital asset exchange in the world, says that the platform will support Wormhole (W) for spot trading starting Wednesday. Once launched for open trading, Binance says it will attach [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/cryptos-biggest-exchanges-announce-plan-to-list-highly-anticipated-new-cross-chain-altcoin-project/\">Crypto’s Biggest Exchanges Announce Plan To List Highly-Anticipated New Cross-Chain Altcoin Project</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

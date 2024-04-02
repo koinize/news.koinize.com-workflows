@@ -1,93 +1,135 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-04-02T18:42:51.000Z",
-    "title": "Crypto Venture Capital Fundraising Jumped Over 50% in March Amid Rally",
-    "url": "https://www.coindesk.com/business/2024/04/02/crypto-venture-capital-fundraising-jumped-over-50-in-march-amid-rally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Most capital went into infrastructure and decentralized finance (DeFi) projects, data by RootData shows."
-  },
-  {
     "source": "Decrypt",
-    "date": "2024-04-02T19:06:02.000Z",
-    "title": "Bitcoin Halving to Boost BTC Price? History May Not Repeat, Says Coinbase Exec",
-    "url": "https://decrypt.co/224458/bitcoin-halving-to-boost-btc-price-history-may-not-repeat-says-coinbase-exec",
-    "description": "Despite bullish trends, unpredictability around the halving calls for a careful approach."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-04-02T18:52:02.000Z",
-    "title": "Wormhole Airdrop on Solana Just Hours Away as Binance, Kraken Prep Listings",
-    "url": "https://decrypt.co/224363/wormhole-airdrop-solana-days-away-exchanges-prep-listings",
-    "description": "The W token airdrop is all set for this week, with over 400,000 wallets eligible to claim Wormhole tokens on Solana."
+    "date": "2024-04-02T19:21:02.000Z",
+    "title": "Microsoft Is Testing an Xbox AI Chatbot—Here's What It Will Do",
+    "url": "https://decrypt.co/224472/microsoft-xbox-ai-chatbot-support",
+    "description": "Microsoft says Xbox support will be able to offer help more quickly through natural language interaction."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-02T19:00:00.000Z",
-    "title": " Price analysis 4/2: SPX, DXY, BTC, ETH, BNB, SOL, XRP, DOGE, ADA, AVAX ",
-    "url": "https://cointelegraph.com/news/price-analysis-4-2-spx-dxy-btc-eth-bnb-sol-xrp-doge-ada-avax",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvMzBjYmUwNjgtNzMyMi00NWJhLWIzOTEtMDdkMDk0Njk2NGE5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Bitcoin and select altcoins rallied sharply in Q1 2024, but the near term may witness a correction.</p>\n                    <p><p>Risky assets have been on a roll in the first quarter of 2024. The S&amp;P 500 Index (SPX) rose 10.2% to record its best first-quarter performance since 2019, while Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) <a href=\"https://cointelegraph.com/news/highest-monthly-close-ever-5-things-bitcoin-this-week\">rallied nearly 69%</a>. Will the rally continue into the second quarter, or is it time for profit booking?</p><p>Investors remain upbeat on Bitcoin’s prospects for the second quarter. Expectations of a <a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">pick up in institutional demand</a> for spot Bitcoin exchange-traded funds and <a href=\"https://cointelegraph.com/news/bitcoin-halving-2024\">Bitcoin’s halving</a> is helping maintain the bullish sentiment. </p><p>Traders need to be careful after the strong Q1 performance because nothing goes up in a straight line. Bull markets are known for their sharp corrections, which shake out the late entrants. However, the dips offer a low-risk buying opportunity to the long-term investors.</p><p><a href=\"https://cointelegraph.com/news/price-analysis-4-2-spx-dxy-btc-eth-bnb-sol-xrp-doge-ada-avax\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-02T19:30:12.000Z",
+    "title": " OpenSea enables support for ERC-721C programmable earnings standard ",
+    "url": "https://cointelegraph.com/news/open-sea-enables-support-erc-721c-programmable-earnings-standard",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvN2Y1OGU5ZTktMDEwNy00ZjUwLWJhZWItZmU2MTczOTQ5NDljLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The standard allows creators to implement programmable and enforceable creator earnings on-chain.</p>\n                    <p><p>Nonfungible tokens (NFT) trading platform OpenSea has added support for the ERC-721C token standard that allows creators to set and enforce royalties.</p><p>According to the April 2 <a href=\"https://opensea.io/blog/articles/creator-earnings-erc721-c-compatibility-on-opensea\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, creators on OpenSea can now enforce earnings via one click. Invented last May by blockchain gaming company Limit Break, ERC-721C solves the problem of NFT wash trading by standardizing token transfer conditions, such as royalties, across all channels. Before their invention, users could easily bypass creator royalty commissions on secondary markets, such as OpenSea and Blur, by transferring NFTs through self-custody wallets or even other NFT marketplaces that did not honor creators' royalty requirements. </p><p>\"In the long-run, this allowed for the incentivization of zero-fee, royalty-optional trading with airdrops, effectively turning tokens intended to be non-fungible into proxies for fungible tokens,\" Limit Break <a href=\"https://medium.com/limit-break/introducing-erc721-c-a-new-standard-for-enforceable-on-chain-programmable-royalties-defaa127410\" target=\"_blank\" rel=\"noopener nofollow\">explained</a> in a Medium post, adding that \"traders were incentivized to farm tokens by wash-trading NFTs among their own wallets, which is bad for the NFT industry.\"</p><p><a href=\"https://cointelegraph.com/news/open-sea-enables-support-erc-721c-programmable-earnings-standard\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-04-02T19:36:17.000Z",
+    "title": "Coinbase raises concerns about risks stemming from Ethereum restaking",
+    "url": "https://cryptoslate.com/coinbase-raises-concerns-about-risks-stemming-from-ethereum-restaking/",
+    "description": "<p>A recent report by Coinbase has brought attention to the burgeoning restaking sector within Ethereum&#8217;s DeFi landscape, pinpointing a series of potential risks that could accompany its growth. While restaking has quickly become a critical component of Ethereum&#8217;s infrastructure, concerns surrounding financial and security vulnerabilities have emerged. Restaking challenges Restaking involves validators earning rewards by [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-raises-concerns-about-risks-stemming-from-ethereum-restaking/\">Coinbase raises concerns about risks stemming from Ethereum restaking</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
     "source": "Crypto Briefing",
-    "date": "2024-04-02T18:57:19.000Z",
-    "title": "EigenLayer restaking empowers security of privacy-focused rollup Fhenix",
-    "url": "https://cryptobriefing.com/fhe-coprocessor-ethereum-innovation/",
-    "description": "Discover how the FHE coprocessor innovation by Fhenix and EigenLayer is set to revolutionize Ethereum's onchain confidentiality and security."
+    "date": "2024-04-02T19:59:51.000Z",
+    "title": "Paradigm prepares to raise up to $850M, largest crypto fund since 2022",
+    "url": "https://cryptobriefing.com/paradigm-850m-funding-raise/",
+    "description": "Crypto VC firm Paradigm aims to raise up to $850 million for a new crypto fund, seizing on renewed investor appetite."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-04-02T19:51:16.000Z",
+    "title": "Brazil targets crypto investors with new tax proposal",
+    "url": "https://cryptobriefing.com/brazil-crypto-tax-reform/",
+    "description": "Brazil's government proposes a bill to reform tax rules for financial investments and crypto assets, targeting tax havens with a 22.5% rate."
+  },
+  {
+    "source": "Crypto Briefing",
+    "date": "2024-04-02T19:21:41.000Z",
+    "title": "Coalition of 36 crypto companies wants to see a Bitcoin emoji",
+    "url": "https://cryptobriefing.com/bitcoin-emoji-campaign-petition/",
+    "description": "Kraken, Nexo, Nansen, Polygon and other relevant crypto entities start a Bitcoin emoji campaign after a new BTC all-time high."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T18:50:10.000Z",
-    "title": "DOGLNAUT Launches on Solana with Charitable Focus",
-    "url": "https://cryptodaily.co.uk/2024/04/doglnaut-launches-on-solana-with-charitable-focus",
-    "description": "DOGLNAUT Launches on Solana with Charitable Focus"
+    "date": "2024-04-02T19:36:09.000Z",
+    "title": "2024 Bull Run Top Crypto: Why Retik Finance (RETIK) Is a Better Buy Than Shiba Inu (SHIB)",
+    "url": "https://cryptodaily.co.uk/2024/04/2024-bull-run-top-crypto-why-retik-finance-retik-is-a-better-buy-than-shiba-inu-shib",
+    "description": "As the cryptocurrency market heats up for the anticipated bull run in 2024, investors are eager to identify the top-performing assets that offer the potential for significant gains."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-04-02T19:28:34.000Z",
+    "title": "NFTFN Smashes First Presale Round of $250,000 in No Time, Defying Crypto Gravity",
+    "url": "https://cryptodaily.co.uk/2024/04/nftfn-smashes-first-presale-round-of-250000-in-no-time-defying-crypto-gravity",
+    "description": "Discover how NFTFN, the groundbreaking NFT perpetual decentralized exchange, smashed its first presale round in record time. Join now!"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-04-02T19:21:53.000Z",
+    "title": "Which Crypto to Buy Now? Analyst Advises on ADA, XRP, or NFTFN",
+    "url": "https://cryptodaily.co.uk/2024/04/which-crypto-to-buy-now-analyst-advises-on-ada-xrp-or-nftfn",
+    "description": "An analyst suggests ADA, XRP, and NFTFN will take the cake this year as they are prime to surge beyond expectations. Investors looking to make it big can read on to understand how these assets will let them make winning investments."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-04-02T19:17:06.000Z",
+    "title": "Cardano & Ethereum Classic Investors Enticed by DeeStream's Promise of 120X Streaming Profits",
+    "url": "https://cryptodaily.co.uk/2024/04/cardano-ethereum-classic-investors-enticed-by-deestreams-promise-of-120x-streaming-profits",
+    "description": "Investors are constantly trying to get connected to great profits. The crypto space is often the best bet for that with many options and various success stories. Despite a volatile market, opportunities are there for the taking."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-04-02T19:23:59.000Z",
+    "title": "Polygon CEO: L3s Might Represent a Threat to Ethereum’s Security",
+    "url": "https://news.bitcoin.com/polygon-ceo-l3s-might-represent-a-threat-to-ethereums-security/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Polygon CEO: L3s Might Represent a Threat for Ethereum&#039;s Security\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Marc Boiron, CEO of Polygon, an Ethereum-compatible sidechain scaling solution, gave his take on the rise of Layer 3 (L3) scaling structures in the Ethereum ecosystem. According to Boiron, L3s only take value away from Ethereum&#8217;s chain and concentrate it in their corresponding base L2, creating a security risk for the network. Polygon CEO Criticizes [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-02T19:04:52.000Z",
-    "title": "America, you have a debt problem – and it is going to kill you",
-    "url": "https://www.cryptopolitan.com/america-you-have-a-debt-problem/",
-    "description": "America is on the edge of a financial cliff, and the music’s about to stop. Imagine this: a giant weighing scale where on one side, we have the U.S. economy, buzzing with life, dreams, and burgers. On the other, a colossal heap of debt that’s about to tip the balance. The Congressional Budget Office (CBO) [&#8230;]"
+    "date": "2024-04-02T19:44:24.000Z",
+    "title": "AI Innovations Revolutionize Credit Risk Management in Financial Institution",
+    "url": "https://www.cryptopolitan.com/ai-innovations-revolutionize-credit-risk/",
+    "description": "Innovative solutions leveraging artificial intelligence (AI) are reshaping the landscape of credit assessment. Ivan Perić, the head of global artificial intelligence R&#38;D at Synechron, advocates for adopting smarter credit assessment models capable of parsing vast volumes of data in real-time. Perić&#8217;s insights shed light on the evolving dynamics within the financial services sector and the [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-02T18:44:16.000Z",
-    "title": "Crypto platform dYdX chooses Cayman Islands for operations as US tightens DeFi oversight",
-    "url": "https://www.cryptopolitan.com/dydx-chooses-cayman-islands-for-operations/",
-    "description": "dYdX, a decentralized exchange, after the community referendum with over 90% support, has announced its decision to operate from the Cayman Islands partially. However, this move is targeted to reduce the probable legal risks because the United States security regulators have been concentrating on decentralized finance (DeFi) protocols.&#160; Despite dYdX not having any operations within [&#8230;]"
+    "date": "2024-04-02T19:38:15.000Z",
+    "title": "AI or Real? Ghanaian singer Transformation Sparks Debate",
+    "url": "https://www.cryptopolitan.com/ai-or-real-ghanaian-singer-transformation/",
+    "description": "Ghanaian singer Mr Drew has stirred up a frenzy on social media with his recent transformation, leaving fans and critics buzzing with speculation. On April 1, 2024, the Dayana hitmaker surprised everyone by debuting a striking new look, complete with a full head of hair and a sharp haircut, departing from his signature bald appearance. [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-02T19:25:11.000Z",
+    "title": "Uh, is Xi Jinping trying to copy America’s economic problems?",
+    "url": "https://www.cryptopolitan.com/xi-jinping-to-copy-america-economic-problems/",
+    "description": "If you&#8217;re wondering whether Xi Jinping is on a mission to mimic America&#8217;s economic headaches, you&#8217;re not alone. The Chinese President has thrown a curveball into the global finance with a strategy that smells oddly familiar to what&#8217;s been cooking in the U.S. treasury and the Federal Reserve&#8217;s kitchen for years. Jinping&#8217;s latest musings have [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-04-02T20:06:44.000Z",
+    "title": "Paradigm targets $850m crypto fundraiser ",
+    "url": "https://crypto.news/paradigm-crypto-fundraiser-ftx/",
+    "description": "Paradigm is looking to raise new funds for crypto investments as venture capitalists flock back to the burgeoning digital asset industry. "
   },
   {
     "source": "NewsBTC",
-    "date": "2024-04-02T19:00:50.000Z",
-    "title": "Dogecoin Hits Major Roadblock As Whales Go On Massive Selling Spree",
-    "url": "https://www.newsbtc.com/news/dogecoin/dogecoin-major-roadblock/",
-    "description": "The Dogecoin (DOGE) price looks at risk of further declines as on-chain data show that the meme coin’s largest holders are securing profits. This follows DOGE’s recent price surge, which saw the crypto token rise to a new three-year high of $0.22.  Dogecoin Witnesses Wave Of Profit-Taking Data from the market intelligence platform Santiment shows a drop in the number of Dogecoin holders holding between 10 million and 100 million DOGE tokens. This suggests that some holders have offloaded their tokens to secure profits from DOGE’s recent price gains.  Related Reading: Hedge Fund Manager Predicts When Bitcoin Price Will Reach $150,000 This wave of profit-taking looks to have become a pattern among DOGE holders, as further data from Santimemt showed that these whales also instantly booked their profits just after DOGE enjoyed an upward trend earlier in March. Bitcoinist even reported then of a Dogecoin whale that offloaded 86 million DOGE tokens on the market.  Considering the magnitude of these whales’ holdings, their actions are bound to exert much selling pressure on the DOGE token. That explains why the meme coin has steadily declined since rising to as high as $0.22 last week. Interestingly, Santiment, in an X (formerly Twitter) post, had recently warned of an impending sell-off by these whales.  The crypto analytics platform noted how major dormant whales were moving their Dogecoin holdings back into circulation, which usually suggests they are getting ready to sell. Meanwhile, members of the DOGE community seem unfazed by the recent price dip, with many of them seeing it as an opportunity to accumulate more of the meme coin. The Whales Will Soon Return   Dogecoin whales are expected to return and position themselves again once this wave of profit-taking by them is done. Besides taking profits, these whales also see this period as an opportunity to invest in DOGE at the market bottom and in anticipation of future price gains.  Related Reading: Bitcoin Halving Inches Closer With Less Than 2,900 Blocks Left Despite this recent correction, there looks to be a lot of bullish momentum on the largest meme coin by market cap, especially with analysts predicting that it could rise to $1 in this market cycle. In the short term, Dogecoin is also expected to make another run soon, with significant events coming up for the meme coin this April. The foremost US exchange, Coinbase, is set to launch Dogecoin futures for its institutional clients on April 29. This move could cause new money to flow into the meme coin’s ecosystem and spark a price surge. DOGE Day is also happening on April 20, which will put the spotlight on the crypto token and possibly impact its price positively.  At the time of writing, DOGE is trading at around $0.18, down over 6% in the last 24 hours, according to data from CoinMarketCap.  DOGE price falls to $0.18 &#124; Source: DOGEUSDT on Tradingview.com Featured image from Bankrate, chart from Tradingview.com"
+    "date": "2024-04-02T20:00:05.000Z",
+    "title": "Is Ethereum In Danger? Analyst Warns Of Bearish Future If ETH Drops Below This Level",
+    "url": "https://www.newsbtc.com/news/is-ethereum-in-danger-analyst-warns-of-bearish-future-if-eth-drops-below-this-level/",
+    "description": "Ethereum (ETH) showed a notable performance throughout March. The second largest cryptocurrency hit $4,000 twice and seemed ready for lift-off to a new all-time high (ATH) while the whole crypto market soared. Quarter one (Q1) 2024 closed with important achievements for the crypto community. However, as Q2 started, Bitcoin began a correction that dragged Ethereum and the rest of the crypto market. Related Reading: Investor Alert: Ethereum Q2 Potential Promises Double-Digit Gains – Analyst Are Ethereum Bulls In Problems? The king of altcoins has registered red numbers for the past two days. ETH’s momentum recovery after the market slowdown was halted after the token followed BTC and the rest of the market. On Monday, crypto analyst Ali Martinez expressed concerns about Ether’s future. He suggested investors should “always be prepared for the best and the worst” scenario. Martinez deemed “breaching the $3,400 support level” as the most brutal scenario for the second-largest cryptocurrency. This move would confirm a bear pennant pattern that formed on the daily chart. If confirmed, the bearish formation could trigger ETH’s price to face a “major correction,” according to the analyst. The correction could make Ether’s price dip to $2,800. Martinez reaffirmed his analysis after Ethereum continued to dip in the early hours of Tuesday. After the token fell under the support level mentioned above, the analyst asserted that falling under $3,460 was a problem for the bulls. #Ethereum dropping below $3,460 is a problem for the bulls! Given the lack of support, it increases the chances for a further $ETH correction toward $2,850 or lower. pic.twitter.com/dFpnpZtBVM &#8212; Ali (@ali_charts) April 2, 2024 “Given the lack of support,” failing to regain this support zone could trigger further corrections for ETH that could go even lower than the previously forecasted $2,800. According to the In/Out of the Money Around Price (IOMAP) chart shared by Martinez, Ethereum shows a potential price support between $2,846 and $2,905, with over 1.64 million ETH bought by 1.99 million addresses at this level. Nonetheless, the chart also displays that an ETH rally could face resistance at $3,457 and $3,557. ETH’s Follows Bitcoin’s Correction Ethereum behaved no differently than the rest of the crypto market. Bitcoin’s correction saw its price drop from the $70,000 mark to hover between the $65,000-$64,000 price range. The flagship cryptocurrency shredded 7.1% of its price in the last 24 hours. Similarly, Ethereum’s red numbers show a 7.4% drop from yesterday and a 7.5% decrease on Monday. April fools shakeout to start the quarter. Time to get to work. Let&#39;s get this bread boys 🤝 pic.twitter.com/0458Qvrr4F &#8212; Jelle (@CryptoJelleNL) April 1, 2024 In the weekly and monthly timeframes, the king of altcoins has decreased by 9.2% and 3.4%.  However, its 3-month chart shows green numbers, with a positive 39.74% increase since 2024 started. Despite the negative performance, Ethereum’s daily trading volume increased a remarkable 80.80%, with over $22.5 billion traded in the last 24 hours, suggesting a rise in market activity. At the time of writing, ETH was trading at $3,283. Related Reading: Brace For Market Impact: Ethereum Open Interest Has Reached A New All-Time High Ethereum is trading at $3,238 in the one-day chart. Source: ETHUSDT on Tradingview.com Featured Image from Unsplash.com, Chart from TradingView.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-02T18:43:29.000Z",
-    "title": "BlackRock and Institutions Spearhead Innovation on Polygon’s Blockchain",
-    "url": "https://www.crypto-news-flash.com/blackrock-and-institutions-spearhead-innovation-on-polygons-blockchain/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-and-institutions-spearhead-innovation-on-polygons-blockchain",
-    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Polygon-MATIC-logo-floating-on-a-dark-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Polygon-MATIC-logo-floating-on-a-dark-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Interest in Blockchain tokenization is currently sweeping the Web3 ecosystem. Polygon remains one of the most functional protocols that many like BlckRock and Franklin Templeton are exploring. Leading asset manager BlackRock and some of the world’s biggest institutional giants have started driving innovation onto the Polygon blockchain.  This move demonstrates a growing acceptance of blockchain [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T18:40:41.000Z",
-    "title": "Bitcoin-Powered Altcoin CORE Surges Over 470% Amid Market Correction",
-    "url": "https://www.crypto-news-flash.com/bitcoin-powered-altcoin-core-surges-over-470-amid-market-correction/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-powered-altcoin-core-surges-over-470-amid-market-correction",
-    "description": "<img width=\"1695\" height=\"915\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE.jpeg 1695w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-300x162.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-1200x648.jpeg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-768x415.jpeg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-1536x829.jpeg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-150x81.jpeg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/CORE-450x243.jpeg 450w\" sizes=\"(max-width: 1695px) 100vw, 1695px\" />CORE has defied bearish market trends with over 470% jump in the past week. CORE has shown its uniqueness as a Bitcoin-feature-linked token and a DeFi asset. Amid a broader crypto market correction, Core (CORE), an altcoin powered by Bitcoin (BTC) has emerged as a stand-out player with its price on a consistent soaring path [...]"
+    "date": "2024-04-02T19:40:44.000Z",
+    "title": "Floki Emerges as Meme Coin Leader: 12 Million Users Transact via Binance Pay",
+    "url": "https://www.crypto-news-flash.com/floki-emerges-as-meme-coin-leader-12-million-users-transact-via-binance-pay/?utm_source=rss&utm_medium=rss&utm_campaign=floki-emerges-as-meme-coin-leader-12-million-users-transact-via-binance-pay",
+    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Floki Inu\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu.png 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-1536x864.png 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Floki Inu (FLOKI) skyrockets by 487% monthly due to Binance Pay integration and token burning program. With over 12 million users, Binance Pay allows global transactions with Floki Inu, boosting its value.  Floki Inu (FLOKI) has experienced a remarkable surge in value in recent weeks, which comes from significant developments, including integrating with Binance Pay [...]"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-04-02T18:45:28.000Z",
-    "title": "Firm Behind Crypto Project Founded by Former Coinbase Executives Hits $1,000,000,000 Valuation: Report",
-    "url": "https://dailyhodl.com/2024/04/02/firm-behind-crypto-project-founded-by-former-coinbase-executives-hits-1000000000-valuation-report/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/04/firm-behind-project-founded.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Merkle Manufactory, a Los Angeles-based software company behind the Farcaster decentralized social networking protocol, is reportedly nearing the conclusion of a funding round with a $1 billion valuation. Bloomberg, citing &#8220;people with knowledge of the matter,&#8221; reported the billion-dollar valuation and noted that the crypto investment firm Paradigm is leading the round. Merkle is behind [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/firm-behind-crypto-project-founded-by-former-coinbase-executives-hits-1000000000-valuation-report/\">Firm Behind Crypto Project Founded by Former Coinbase Executives Hits $1,000,000,000 Valuation: Report</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-04-02T20:00:38.000Z",
+    "title": "Here Are Realistic Price Targets for Bitcoin (BTC) and Ethereum (ETH) for Bull Market Top: Crypto Analyst",
+    "url": "https://dailyhodl.com/2024/04/02/here-are-realistic-price-targets-for-bitcoin-btc-and-ethereum-eth-for-bull-market-top-crypto-analyst/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A popular crypto analyst is unveiling his Ethereum (ETH) and Bitcoin (BTC) peak price predictions for the current bull market cycle. The pseudonymous analyst known as Credible tells his 384,800 followers on the social media platform X that Ethereum will surge past $10,000 at &#8220;minimum,&#8221; but notes that ETH can realistically rally to as high [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/here-are-realistic-price-targets-for-bitcoin-btc-and-ethereum-eth-for-bull-market-top-crypto-analyst/\">Here Are Realistic Price Targets for Bitcoin (BTC) and Ethereum (ETH) for Bull Market Top: Crypto Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   },
   {
     "source": "The Daily Hodl",
-    "date": "2024-04-02T18:41:46.000Z",
-    "title": "Institutional Sentiment Mounts Recovery With $862,000,000 in Weekly Inflows: CoinShares",
-    "url": "https://dailyhodl.com/2024/04/02/institutional-sentiment-mounts-recovery-with-862000000-in-weekly-inflows-coinshares/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/03/regulator-rejects-bitcoin-etfs.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Digital assets manager CoinShares says institutions resumed investing in crypto products last week after a brief break. In its latest Digital Asset Fund Flows report, CoinShares says digital asset investment products brought in $862 million in inflows last week, nearly erasing the prior week&#8217;s $931 million outflows. &#8220;While this recovery is encouraging, ETF (exchange-traded fund) activity [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/institutional-sentiment-mounts-recovery-with-862000000-in-weekly-inflows-coinshares/\">Institutional Sentiment Mounts Recovery With $862,000,000 in Weekly Inflows: CoinShares</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-04-02T19:55:08.000Z",
+    "title": "Injection of New Capital Supporting Bitcoin As Long-Term Holders Distribute to Newcomers, According to Glassnode",
+    "url": "https://dailyhodl.com/2024/04/02/injection-of-new-capital-supporting-bitcoin-as-long-term-holders-distribute-to-newcomers-according-to-glassnode/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Longer-term Bitcoin (BTC) holders have begun trading their coins off to new investors entering the market, according to on-chain analytics firm Glassnode. In a new report, Glassnode says that Bitcoin&#8217;s recent move into price discovery above new all-time highs has enticed holders who were far in profit to distribute to a newer investor cohort. The [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/injection-of-new-capital-supporting-bitcoin-as-long-term-holders-distribute-to-newcomers-according-to-glassnode/\">Injection of New Capital Supporting Bitcoin As Long-Term Holders Distribute to Newcomers, According to Glassnode</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

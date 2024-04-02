@@ -1,72 +1,107 @@
 [
   {
+    "source": "Decrypt",
+    "date": "2024-04-02T13:00:02.000Z",
+    "title": "The Richest People in Crypto: 2024 Edition",
+    "url": "https://decrypt.co/224374/the-richest-people-in-crypto-2024-edition",
+    "description": "The Forbes Billionaires List has nothing on these whales."
+  },
+  {
     "source": "Cointelegraph",
-    "date": "2024-04-02T12:31:24.000Z",
-    "title": " Crypto derivatives firm Deribit moves to Dubai after winning VARA approval  ",
-    "url": "https://cointelegraph.com/news/deribit-vara-regulatory-approval-dubai",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvMmQzOTY1OTEtYzI2ZC00ZjE0LWIzNTEtODI5YWU5ZjQyYTExLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Crypto derivatives platform Deribit is relocating headquarters to Dubai after securing major local regulatory approval. </p>\n                    <p><p>Deribit, one of the world’s largest exchanges offering options and futures for cryptocurrencies like Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>), is relocating to Dubai after securing new local regulatory approval.</p><p>The Dubai subsidiary of Deribit group, Deribit FZE, has received a Virtual Asset Service Provider (VASP) license from Dubai’s Virtual Asset Regulatory Authority (VARA), Deribit <a href=\"https://insights.deribit.com/exchange-updates/deribit-first-derivatives-exchange-to-receive-vara-regulatory-approval/\" target=\"_blank\" rel=\"noopener nofollow\">announced</a> on April 2.</p><p>The new license allows Deribit to offer crypto trading services in Dubai, covering both spot and <a href=\"https://cointelegraph.com/learn/crypto-derivatives\">crypto derivatives trading</a>, such as futures and options.</p><p><a href=\"https://cointelegraph.com/news/deribit-vara-regulatory-approval-dubai\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-02T13:03:11.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">BNB Chain is the latest to jump on the memecoin bandwagon, offering a reward to entice developers to its blockchain. Memecoins are making this bull market “weird,” crypto watchers say. Meanwhile, Sam Bankman-Fried has reportedly claimed he never thought his actions were illegal.</p><p>Smart contract blockchain BNB Chain is attempting to attract memecoin developers amid the explosive growth of meme tokens within the crypto ecosystem. </p><p>BNB Chain said it is allocating up to $1 million to <a href=\"https://cointelegraph.com/news/bnb-chain-memecoin-award-attract-developers\">reward eligible developers</a> deploying their memecoin projects in the network.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Crypto Briefing",
-    "date": "2024-04-02T12:10:19.000Z",
-    "title": "Sam Bankman-Fried denies intentional illegality, talks failed standards from Brooklyn jail",
-    "url": "https://cryptobriefing.com/sam-bankman-fried-denies-intentional-illegality/",
-    "description": "Despite asserting no intentional wrongdoing, Sam Bankman-Fried acknowledges shortcomings, expressing a haunting remorse for FTX victims."
+    "source": "Cointelegraph",
+    "date": "2024-04-02T13:00:00.000Z",
+    "title": " ‘No bridges or wrapping’ — dWallet and Avail are building native Bitcoin rollups ",
+    "url": "https://cointelegraph.com/news/dwallet-avail-build-native-bitcoin-rollups",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNzBjN2UwYzAtMmNlNC00MTU5LWI2NTktY2IyMTY2ODEzZjEzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The integration is touted to allow users to natively manage Bitcoin on any rollup in Avail’s data availability ecosystem without bridging or wrapping BTC. </p>\n                    <p><p data-ct-non-breakable=\"true\">Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) users will soon be able to access smart contract functionality without having to bridge, wrap or relinquish control of their BTC through a new integration between dWallet Network and Avail.</p><p>The partnership will enable dWallet’s smart contracts, built on Avail’s data availability solution, to create Bitcoin signatures for the first time while maintaining a user’s complete control of their BTC.</p><p>Speaking to Cointelegraph, dWallet co-founder and CEO Omer Sadika said the Bitcoin rollup solution would interact with native BTC without bridging or wrapping, which by design has created considerable incentives to hack or collude to exploit:</p><p><a href=\"https://cointelegraph.com/news/dwallet-avail-build-native-bitcoin-rollups\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoSlate",
+    "date": "2024-04-02T12:54:53.000Z",
+    "title": "FixedFloat reportedly suffers $2.8 million theft, Tether freezes $400,000 from attackers",
+    "url": "https://cryptoslate.com/fixedfloat-reportedly-suffers-2-8-million-theft-tether-blocks-400000-from-attackers/",
+    "description": "<p>Decentralized exchange FixedFloat&#8217;s Ethereum-based hot wallet saw several suspicious transactions that led to the withdrawals of $2.8 million during the past day, according to the Web3 security firm Cyvers. Following the news, stablecoin issuer Tether blocklisted ten addresses involved in these withdrawals, effectively freezing about $400,000 worth of USDT tokens, according to blockchain security firm [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/fixedfloat-reportedly-suffers-2-8-million-theft-tether-blocks-400000-from-attackers/\">FixedFloat reportedly suffers $2.8 million theft, Tether freezes $400,000 from attackers</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-04-02T12:50:38.000Z",
+    "title": "Bitcoin’s Macro Story: U.S. Government “Can’t Keep Its Pants On and Is Spending Too Much Money” (Says Mike Novogratz)",
+    "url": "https://www.cryptoglobe.com/latest/2024/04/bitcoins-macro-story-u-s-government-cant-keep-its-pants-on-and-is-spending-too-much-money-says-mike-novogratz/",
+    "description": "Mike Novogratz, the CEO of Galaxy Digital, provided compelling insights into Bitcoin’s evolving market dynamics at the recent Bitcoin Investor Day conference in New York City. According to Novogratz, following the U.S. Securities and Exchange Commission’s (SEC) landmark approval of 11 spot Bitcoin ETFs in January, Bitcoin has been catapulted into a new realm of […]\n"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T12:37:08.000Z",
-    "title": "Fetch.ai Skyrockets Post-Merger Announcement, Algotech Expected to Follow With $3.6M Presale",
-    "url": "https://cryptodaily.co.uk/2024/04/fetchai-skyrockets-post-merger-announcement-algotech-expected-to-follow-with-36m-presale",
-    "description": "Fetch.ai skyrockets on merger news! Can Algotech follow this path? Learn how their $3.6M presale and innovative AI features position them for a potential price explosion."
+    "date": "2024-04-02T13:06:59.000Z",
+    "title": "Avail Partners With dWallet Network To Introduce Native Bitcoin Rollups to Web3",
+    "url": "https://cryptodaily.co.uk/2024/04/avail-partners-with-dwallet-network-to-introduce-native-bitcoin-rollups-to-web3",
+    "description": "Avail Partners With dWallet Network To Introduce Native Bitcoin Rollups to Web3"
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T12:16:25.000Z",
-    "title": "Unicapital's Alliance with Binance Link Program",
-    "url": "https://cryptodaily.co.uk/2024/04/unicapitals-alliance-with-binance-link-program",
-    "description": "In the fast-evolving industry of digital asset trading, the integration of advanced, secure, and comprehensive trading platforms is crucial for success."
+    "date": "2024-04-02T12:59:07.000Z",
+    "title": "Excitement Swirls Around Fezoo (FEZ) Presale Engaging Uniswap & Chainlink Communities with Easter 100X Win Speculations",
+    "url": "https://cryptodaily.co.uk/2024/04/excitement-swirls-around-fezoo-fez-presale-engaging-uniswap-chainlink-communities-with-easter-100x-win-speculations",
+    "description": "As excitement permeates the cryptocurrency market, all eyes turn to Fezoo and its ongoing presale, captivating communities invested in Uniswap and Chainlink."
   },
   {
-    "source": "Bitcoin.com",
-    "date": "2024-04-02T12:29:19.000Z",
-    "title": "In 22 Days, Liquid Staking Platforms Witness a 340,000 ETH Decline",
-    "url": "https://news.bitcoin.com/in-22-days-liquid-staking-platforms-witness-a-340000-eth-decline/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/dddfliquid.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />According to the most recent data, within the last 22 days, the volume of staked ether locked across various liquid staking derivative token platforms has seen a decline of 2.45%. This downward trend was observed across 27 unique platforms, culminating in a reduction of 340,000 ETH, valued at approximately $1.18 billion. $1.18 Billion Worth of [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-04-02T12:54:08.000Z",
+    "title": "2As Easter Approaches, Raffle Coin (RAFF) Gears Up for a 50X Surge, Attracting Stellar (XLM) and Uniswap (UNI) investors",
+    "url": "https://cryptodaily.co.uk/2024/04/2as-easter-approaches-raffle-coin-raff-gears-up-for-a-50x-surge-attracting-stellar-xlm-and-uniswap-uni-investors",
+    "description": "With Easter just coming, Raffle Coin (RAFF) promises its investors a 50X bump. The coin of this quite recently entered cryptocurrency space has already started to catch the attention of Stellar (XLM) and Uniswap (UNI) supporters due to the incredible mechanism where win-lose deals are common in the raffle world but otherwise have not been seen in cryptocurrency."
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-04-02T12:48:03.000Z",
+    "title": "Anticipating Retail Breakthrough Sees Solana & Cardano Investors Swarm Pushd's Presale",
+    "url": "https://cryptodaily.co.uk/2024/04/anticipating-retail-breakthrough-sees-solana-cardano-investors-swarm-pushds-presale",
+    "description": "The anticipation of a retail breakthrough has led investors from the Solana and Cardano communities to swarm the Pushd presale. T"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-02T12:21:58.000Z",
-    "title": "Building Trust in AI: A Path Towards a Safer Future",
-    "url": "https://www.cryptopolitan.com/building-trust-in-ai-a-path-towards-a-safer/",
-    "description": "In the modern world inundated by digital presence, algorithms hold absolute authority over individuals in every aspect of their lives. Nevertheless, since AI dependency increases, the requirement is to build trust in it. If we want AI to be accepted by people, the interpretability of AI algorithms is one of the most important issues that [&#8230;]"
+    "date": "2024-04-02T12:55:54.000Z",
+    "title": "Tether’s Bitcoin holdings skyrocket with $618M acquisition",
+    "url": "https://www.cryptopolitan.com/tethers-bitcoin-holdings-skyrocket-with-618m/",
+    "description": "Tether, the issuer of the stablecoin USDT, has bought a lot of BTC to its reserves. The company acquired 8,888 Bitcoins worth $618 million on March 31. This brings Tether’s total Bitcoin holdings to 75,354 bitcoins, with an estimated value of about $5.2 billion, according to on-chain data. The median cost of these Bitcoins to [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-04-02T12:25:46.000Z",
-    "title": "Borroe Finance’s growth ambitions high; Ethereum probe raises ETF delay concerns",
-    "url": "https://crypto.news/borroe-finances-growth-ambitions-high-ethereum-probe-raises-etf-delay-concerns/",
-    "description": "Borroe Finance has emerged as a pioneering force in CrossFi, offering an AI-powered funding marketplace for Web3 businesses and creators#partnercontent"
+    "source": "Cryptopolitan",
+    "date": "2024-04-02T12:52:35.000Z",
+    "title": "Cryptocurrency community pranks unfold on April Fools’ Day",
+    "url": "https://www.cryptopolitan.com/cryptocurrency-community-pranks-unfold/",
+    "description": "Anatoly Yakovenko, CEO of Solana, tends to send people in the cryptocurrency industry into a frenzy of hysterical laughter because last April 1st, he opened the virtual vault and introduced the made-up &#8220;BunkerCoin&#8221; token to the world.&#160; His tweets may not have made much sense to me as they were tech vocabulary-stacked; however, I know [&#8230;]"
   },
   {
-    "source": "BTCManager",
-    "date": "2024-04-02T12:14:30.000Z",
-    "title": "ETC, XRP investors set sights on Koala Coin amid market shifts",
-    "url": "https://crypto.news/etc-xrp-investors-set-sights-on-koala-coin-amid-market-shifts/",
-    "description": "Amid Q2's unpredictable crypto shifts, Ethereum Classic and Ripple investors are increasingly drawn to Koala Coin's presale, captivated by its promise of significant gains and a vibrant community, marking a unique investment opportunity in the crypto landscape. #partnercontent"
+    "source": "NullTX",
+    "date": "2024-04-02T13:04:36.000Z",
+    "title": "Dogwifhat Enters Top30 Crypto List After WIF Price Surge, Algotech Crosses 10,000 Unique Holders in Historic Pre-sale",
+    "url": "https://nulltx.com/dogwifhat-enters-top30-crypto-list-after-wif-price-surge-algotech-crosses-10000-unique-holders-in-historic-pre-sale/",
+    "description": "In a stunning display of crypto-market dynamics, Dogwifhat (WIF), the latest meme token craze on the Solana blockchain, has captivated the crypto community with its whimsical charm – posting remarkable gains. Meanwhile, Algotech (ALGT) is setting records in its own right, crossing a milestone with over 10,000 unique holders in [&#8230;]"
   },
   {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T12:24:18.000Z",
-    "title": "8 Best Free Cryptocurrency Cloud Mining Sites in 2024 – Side Hustle to Earn Passive Income",
-    "url": "https://www.crypto-news-flash.com/8-best-free-cryptocurrency-cloud-mining-sites-in-2024-side-hustle-to-earn-passive-income/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-free-cryptocurrency-cloud-mining-sites-in-2024-side-hustle-to-earn-passive-income",
-    "description": "<img width=\"1200\" height=\"673\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg-300x168.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg-768x431.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/sgfg-450x252.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Cloud mining of cryptocurrencies such as Bitcoin, Litecoin, Dashcoin, and Dogecoin has become an increasingly popular method of generating passive income. So our team of analysts compiled a shortlist of the top eight reliable and profitable cloud mining sites for bitcoin mining. The sites were selected based on several factors, including reliability, reputation and profitability. [...]"
+    "source": "NullTX",
+    "date": "2024-04-02T12:58:05.000Z",
+    "title": "Web3 Tokens Stacks (STX) and Conflux (CFX) See 20% Gains As Raboo (RABT) Presale Soars to New Highs",
+    "url": "https://nulltx.com/web3-tokens-stacks-stx-and-conflux-cfx-see-20-gains-as-raboo-rabt-presale-soars-to-new-highs/",
+    "description": "The crypto market has seen a flurry of excitement following Bitcoin&#8217;s impressive pre-halving performance pre-halving. As the frenzy reverberates, Web3 tokens like Stacks and Conflux witnessed a significant uptick. The new meme star, Raboo (RABT), has not been left out. The innovative AI-backed Social-Fi project reached unprecedented heights in its [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-04-02T13:00:48.000Z",
+    "title": "Tether Buys 8,888 Bitcoin For $618 Million, But Why Is Price Down?",
+    "url": "https://www.newsbtc.com/news/bitcoin/tether-buys-8888-bitcoin/",
+    "description": "On-chain data shows that the world’s largest stablecoin issuer, Tether, recently added more Bitcoin to its holdings. The magnitude of the purchase has caused the crypto community to speculate on why Bitcoin’s price has dipped instead when such a development is usually bullish for the crypto token.  Tether Acquires 8,888 BTC Data from the blockchain analysis platform Arkham Intelligence shows that Tether acquired 8,888 Bitcoin on March 31, and the stablecoin issuer now holds almost 75,400 BTC. With its BTC holding, Tether now ranks as one of the largest Bitcoin holders, even having more BTC than some of the most prominent crypto exchanges and Spot Bitcoin ETF issuers. Last year, the stablecoin issuer announced its plan to regularly purchase Bitcoin for its stablecoin reserves using part of the profits realized from its operations. Therefore, it is no surprise that the company has been able to acquire this amount of BTC since then, especially with the success they have attained recently.  However, what is surprising is that Bitcoin has since dropped below $70,000 following this development. Usually, a Bitcoin purchase of such size should positively impact Bitcoin’s price and not cause a price dip like the one currently experienced. However, there is reason to believe other factors have overshadowed Tether’s purchase and caused Bitcoin to see such a sharp correction.  Why The Bitcoin Price Is Down Crypto trading firm QCP Capital recently provided insights into why Bitcoin’s price broke below $70,000 and dropped to as low as $66,000. The firm claimed that the sharp move to the downside was due to the “large liquidations on retail-heavy exchanges like Binance, which saw perp funding rates go from as high as 77% to flat.” Related Reading: Shiba Inu Dips Below $0.00003 Again – Can Bulls Reverse The Bullish Momentum? The Spot Bitcoin ETFs, specifically Grayscale’s GBTC, also look to have contributed to Bitcoin’s decline as Grayscale continues to experience significant outflows from its fund. On April 1, GBTC saw an outflow of $302.6 million, mainly contributing to the combined net outflows of $85.7 million recorded by these Bitcoin ETFs.This has brought about more selling pressure on Bitcoin, which is currently overwhelming the buying pressure in the ecosystem.  Activity in the derivatives market has also played a part in the bearish market sentiment, with the bears looking firmly in control. Data from Coinglass shows that $409 million has been liquidated from the market in the last 24 hours, with $328 million in long positions being wiped out during this period.  At the time of writing, Bitcoin is trading at around $66,500, down over 4% in the last 24 hours, according to data from CoinMarketCap. BTC price falls to $65,000 &#124; Source: BTCUSD on Tradingview.com Featured image from CFA Institute Blog, chart from Tradingview.com"
   },
   {
     "source": "Coin Edition",
-    "date": "2024-04-02T12:26:03.000Z",
-    "title": "MAS Strengthens Crypto Market Supervision Under Payment Services Act",
-    "url": "https://coinedition.com/mas-strengthens-crypto-market-supervision-under-payment-services-act/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"MAS Strengthens Crypto Market Supervision Under Payment Services Act\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations.png 730w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/04/Singapore-Tightens-Grip-on-Crypto-with-New-Regulations-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a step to tighten supervision of the growing crypto market, the Monetary Authority of Singapore (MAS) has declared a series of amendments to its Payment Services Act and related laws. Effective April 4th, the regulatory scope will be extended to cover a larger spectrum of digital payment token (DPT) services. This includes custodial services, [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/mas-strengthens-crypto-market-supervision-under-payment-services-act/\">MAS Strengthens Crypto Market Supervision Under Payment Services Act</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-04-02T12:55:57.000Z",
+    "title": "Ripple Chief Legal Officer Critiques SEC’s Approach Amidst Coinbase Ruling",
+    "url": "https://coinedition.com/ripple-chief-legal-officer-critiques-secs-approach-amidst-coinbase-ruling/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/image2-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ripple Chief Legal Officer Critiques SEC&#039;s Approach Amidst Coinbase Ruling\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/image2-1.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/image2-1-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In a recent statement, Ripple&#8217;s Chief Legal Officer, Stuart Alderoty, scrutinized the definitions of a crypto &#8220;ecosystem&#8221; as outlined in a March 27 court ruling concerning Coinbase. The ruling, made by Judge Katherine Failla, differentiated the term &#8220;ecosystem&#8221; to describe coordinated enterprises by issuers and promoters of thirteen crypto-assets.&#160; This distinction determined their status as [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ripple-chief-legal-officer-critiques-secs-approach-amidst-coinbase-ruling/\">Ripple Chief Legal Officer Critiques SEC&#8217;s Approach Amidst Coinbase Ruling</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

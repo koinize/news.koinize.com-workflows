@@ -1,135 +1,37 @@
 [
   {
     "source": "Decrypt",
-    "date": "2024-04-02T19:21:02.000Z",
-    "title": "Microsoft Is Testing an Xbox AI Chatbot—Here's What It Will Do",
-    "url": "https://decrypt.co/224472/microsoft-xbox-ai-chatbot-support",
-    "description": "Microsoft says Xbox support will be able to offer help more quickly through natural language interaction."
+    "date": "2024-04-02T20:32:49.000Z",
+    "title": "Ethena Just Launched to a $1.2 Billion Market Cap—Here’s What You Need to Know",
+    "url": "https://decrypt.co/224494/ethena-ena-usde-susde-launch",
+    "description": "The ENA governance token from Ethena Labs, along with USDe, have a controversial history, but that hasn’t held back billions in backing from investors and traders."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-02T19:30:12.000Z",
-    "title": " OpenSea enables support for ERC-721C programmable earnings standard ",
-    "url": "https://cointelegraph.com/news/open-sea-enables-support-erc-721c-programmable-earnings-standard",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvN2Y1OGU5ZTktMDEwNy00ZjUwLWJhZWItZmU2MTczOTQ5NDljLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The standard allows creators to implement programmable and enforceable creator earnings on-chain.</p>\n                    <p><p>Nonfungible tokens (NFT) trading platform OpenSea has added support for the ERC-721C token standard that allows creators to set and enforce royalties.</p><p>According to the April 2 <a href=\"https://opensea.io/blog/articles/creator-earnings-erc721-c-compatibility-on-opensea\" target=\"_blank\" rel=\"noopener nofollow\">announcement</a>, creators on OpenSea can now enforce earnings via one click. Invented last May by blockchain gaming company Limit Break, ERC-721C solves the problem of NFT wash trading by standardizing token transfer conditions, such as royalties, across all channels. Before their invention, users could easily bypass creator royalty commissions on secondary markets, such as OpenSea and Blur, by transferring NFTs through self-custody wallets or even other NFT marketplaces that did not honor creators' royalty requirements. </p><p>\"In the long-run, this allowed for the incentivization of zero-fee, royalty-optional trading with airdrops, effectively turning tokens intended to be non-fungible into proxies for fungible tokens,\" Limit Break <a href=\"https://medium.com/limit-break/introducing-erc721-c-a-new-standard-for-enforceable-on-chain-programmable-royalties-defaa127410\" target=\"_blank\" rel=\"noopener nofollow\">explained</a> in a Medium post, adding that \"traders were incentivized to farm tokens by wash-trading NFTs among their own wallets, which is bad for the NFT industry.\"</p><p><a href=\"https://cointelegraph.com/news/open-sea-enables-support-erc-721c-programmable-earnings-standard\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-02T20:38:01.000Z",
+    "title": " Meet the Solana memecoin that suffered two rug pulls but still survived ",
+    "url": "https://cointelegraph.com/news/meet-the-solana-meme-coin-that-suffered-two-rug-pulls-but-still-survived",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDMvMWE0M2Y0ZWYtZjVmNy00ZGQwLTliYmItMDFlMjNkOTRmZDgyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Catwifhat’s first and second development teams dumped all of their tokens and disappeared, yet the token managed to bounce back. </p>\n                    <p><p data-ct-non-breakable=\"true\">While most exit scams or rug pulls result in the collapse of a project, Solana-based memecoin Catwifhat (CIF) managed to survive two of them, illustrating how crypto’s decentralized nature can sometimes allow a project to continue even when its developer disappears.</p><p>In a conversation with Cointelegraph, Catwifhat investor NFT_Sloth claimed that the project survived two rug pulls over 12 days, yet still has a dedicated community behind it today. </p><p>First, the project’s founder allegedly dumped their tokens into the open market only a few hours after launch on Dec. 12, 2023, cashing in 20% of WIF’s supply for 3.86 SOL (<a href=\"https://cointelegraph.com/solana-price-index\">SOL</a>) (worth approximately $265 at the time) and pulling most of its liquidity. Despite this setback, the remaining investors quickly took over the project, forming a new dev team to promote the token. As a result, CIF recovered to a market cap of more than $4 million by Dec. 23, just 11 days after it had been rugged. </p><p><a href=\"https://cointelegraph.com/news/meet-the-solana-meme-coin-that-suffered-two-rug-pulls-but-still-survived\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-04-02T19:36:17.000Z",
-    "title": "Coinbase raises concerns about risks stemming from Ethereum restaking",
-    "url": "https://cryptoslate.com/coinbase-raises-concerns-about-risks-stemming-from-ethereum-restaking/",
-    "description": "<p>A recent report by Coinbase has brought attention to the burgeoning restaking sector within Ethereum&#8217;s DeFi landscape, pinpointing a series of potential risks that could accompany its growth. While restaking has quickly become a critical component of Ethereum&#8217;s infrastructure, concerns surrounding financial and security vulnerabilities have emerged. Restaking challenges Restaking involves validators earning rewards by [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/coinbase-raises-concerns-about-risks-stemming-from-ethereum-restaking/\">Coinbase raises concerns about risks stemming from Ethereum restaking</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-04-02T19:59:51.000Z",
-    "title": "Paradigm prepares to raise up to $850M, largest crypto fund since 2022",
-    "url": "https://cryptobriefing.com/paradigm-850m-funding-raise/",
-    "description": "Crypto VC firm Paradigm aims to raise up to $850 million for a new crypto fund, seizing on renewed investor appetite."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-04-02T19:51:16.000Z",
-    "title": "Brazil targets crypto investors with new tax proposal",
-    "url": "https://cryptobriefing.com/brazil-crypto-tax-reform/",
-    "description": "Brazil's government proposes a bill to reform tax rules for financial investments and crypto assets, targeting tax havens with a 22.5% rate."
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-04-02T19:21:41.000Z",
-    "title": "Coalition of 36 crypto companies wants to see a Bitcoin emoji",
-    "url": "https://cryptobriefing.com/bitcoin-emoji-campaign-petition/",
-    "description": "Kraken, Nexo, Nansen, Polygon and other relevant crypto entities start a Bitcoin emoji campaign after a new BTC all-time high."
+    "source": "Cointelegraph",
+    "date": "2024-04-02T20:25:59.000Z",
+    "title": " Argentine government passes registration requirements for crypto firms ",
+    "url": "https://cointelegraph.com/news/argentina-registration-law-crypto",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNTYyOWY2MDItNjNkZS00M2VhLWFjZGItOGU5ODczZjFhNmMyLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Comisión Nacional de Valores President Roberto Silva said virtual asset service providers that are not registered “will not be able to operate“ in Argentina.</p>\n                    <p><p>Argentina’s government has begun implementing requirements for cryptocurrency exchanges to operate legally in the country.</p><p>In a March 25 announcement, Argentina’s Comisión Nacional de Valores (CNV) — the country’s equivalent of a securities regulator — <a href=\"https://www.argentina.gob.ar/noticias/la-cnv-crea-el-registro-de-proveedores-de-servicios-de-activos-virtuales-psav\" target=\"_blank\" rel=\"noopener nofollow\">said</a> virtual asset service providers would be operating in accordance with recommendations from the Financial Action Task Force (FATF). Certain companies offering crypto-related services must register with the Argentina government as part of reforms to the country’s Anti-Money Laundering (AML) and Combatting the Financing of Terrorism (CFT) laws.</p><p>The implementation of the law affecting crypto providers in Argentina <a href=\"https://twitter.com/SenadoArgentina/status/1768328967302398385\" target=\"_blank\" rel=\"noopener nofollow\">moved</a> forward on March 14, when the country’s senate approved modifying laws aimed at preventing money laundering and the financing of terrorism. CNV President Roberto Silva said virtual asset service providers that are not registered “will not be able to operate in the country.”</p><p><a href=\"https://cointelegraph.com/news/argentina-registration-law-crypto\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-02T19:36:09.000Z",
-    "title": "2024 Bull Run Top Crypto: Why Retik Finance (RETIK) Is a Better Buy Than Shiba Inu (SHIB)",
-    "url": "https://cryptodaily.co.uk/2024/04/2024-bull-run-top-crypto-why-retik-finance-retik-is-a-better-buy-than-shiba-inu-shib",
-    "description": "As the cryptocurrency market heats up for the anticipated bull run in 2024, investors are eager to identify the top-performing assets that offer the potential for significant gains."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T19:28:34.000Z",
-    "title": "NFTFN Smashes First Presale Round of $250,000 in No Time, Defying Crypto Gravity",
-    "url": "https://cryptodaily.co.uk/2024/04/nftfn-smashes-first-presale-round-of-250000-in-no-time-defying-crypto-gravity",
-    "description": "Discover how NFTFN, the groundbreaking NFT perpetual decentralized exchange, smashed its first presale round in record time. Join now!"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T19:21:53.000Z",
-    "title": "Which Crypto to Buy Now? Analyst Advises on ADA, XRP, or NFTFN",
-    "url": "https://cryptodaily.co.uk/2024/04/which-crypto-to-buy-now-analyst-advises-on-ada-xrp-or-nftfn",
-    "description": "An analyst suggests ADA, XRP, and NFTFN will take the cake this year as they are prime to surge beyond expectations. Investors looking to make it big can read on to understand how these assets will let them make winning investments."
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-02T19:17:06.000Z",
-    "title": "Cardano & Ethereum Classic Investors Enticed by DeeStream's Promise of 120X Streaming Profits",
-    "url": "https://cryptodaily.co.uk/2024/04/cardano-ethereum-classic-investors-enticed-by-deestreams-promise-of-120x-streaming-profits",
-    "description": "Investors are constantly trying to get connected to great profits. The crypto space is often the best bet for that with many options and various success stories. Despite a volatile market, opportunities are there for the taking."
-  },
-  {
-    "source": "Bitcoin.com",
-    "date": "2024-04-02T19:23:59.000Z",
-    "title": "Polygon CEO: L3s Might Represent a Threat to Ethereum’s Security",
-    "url": "https://news.bitcoin.com/polygon-ceo-l3s-might-represent-a-threat-to-ethereums-security/",
-    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Polygon CEO: L3s Might Represent a Threat for Ethereum&#039;s Security\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/a143b985-ed31-4b96-80fa-148b11823eb9.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Marc Boiron, CEO of Polygon, an Ethereum-compatible sidechain scaling solution, gave his take on the rise of Layer 3 (L3) scaling structures in the Ethereum ecosystem. According to Boiron, L3s only take value away from Ethereum&#8217;s chain and concentrate it in their corresponding base L2, creating a security risk for the network. Polygon CEO Criticizes [&#8230;]"
+    "date": "2024-04-02T20:28:09.000Z",
+    "title": "Dexed.io is the new portuguese platform that predicts the future and indicates the next cryptocurrency to invest in",
+    "url": "https://cryptodaily.co.uk/2024/04/dexedio-is-the-new-portuguese-platform-that-predicts-the-future-and-indicates-the-next-cryptocurrency-to-invest-in",
+    "description": "Coinscribble - April 2, 2024 / Portuguese tech startup Dexed is launching a decentralised trading platform (DEX) that operates on the Ethereum blockchain"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-02T19:44:24.000Z",
-    "title": "AI Innovations Revolutionize Credit Risk Management in Financial Institution",
-    "url": "https://www.cryptopolitan.com/ai-innovations-revolutionize-credit-risk/",
-    "description": "Innovative solutions leveraging artificial intelligence (AI) are reshaping the landscape of credit assessment. Ivan Perić, the head of global artificial intelligence R&#38;D at Synechron, advocates for adopting smarter credit assessment models capable of parsing vast volumes of data in real-time. Perić&#8217;s insights shed light on the evolving dynamics within the financial services sector and the [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T19:38:15.000Z",
-    "title": "AI or Real? Ghanaian singer Transformation Sparks Debate",
-    "url": "https://www.cryptopolitan.com/ai-or-real-ghanaian-singer-transformation/",
-    "description": "Ghanaian singer Mr Drew has stirred up a frenzy on social media with his recent transformation, leaving fans and critics buzzing with speculation. On April 1, 2024, the Dayana hitmaker surprised everyone by debuting a striking new look, complete with a full head of hair and a sharp haircut, departing from his signature bald appearance. [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-02T19:25:11.000Z",
-    "title": "Uh, is Xi Jinping trying to copy America’s economic problems?",
-    "url": "https://www.cryptopolitan.com/xi-jinping-to-copy-america-economic-problems/",
-    "description": "If you&#8217;re wondering whether Xi Jinping is on a mission to mimic America&#8217;s economic headaches, you&#8217;re not alone. The Chinese President has thrown a curveball into the global finance with a strategy that smells oddly familiar to what&#8217;s been cooking in the U.S. treasury and the Federal Reserve&#8217;s kitchen for years. Jinping&#8217;s latest musings have [&#8230;]"
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-02T20:06:44.000Z",
-    "title": "Paradigm targets $850m crypto fundraiser ",
-    "url": "https://crypto.news/paradigm-crypto-fundraiser-ftx/",
-    "description": "Paradigm is looking to raise new funds for crypto investments as venture capitalists flock back to the burgeoning digital asset industry. "
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-04-02T20:00:05.000Z",
-    "title": "Is Ethereum In Danger? Analyst Warns Of Bearish Future If ETH Drops Below This Level",
-    "url": "https://www.newsbtc.com/news/is-ethereum-in-danger-analyst-warns-of-bearish-future-if-eth-drops-below-this-level/",
-    "description": "Ethereum (ETH) showed a notable performance throughout March. The second largest cryptocurrency hit $4,000 twice and seemed ready for lift-off to a new all-time high (ATH) while the whole crypto market soared. Quarter one (Q1) 2024 closed with important achievements for the crypto community. However, as Q2 started, Bitcoin began a correction that dragged Ethereum and the rest of the crypto market. Related Reading: Investor Alert: Ethereum Q2 Potential Promises Double-Digit Gains – Analyst Are Ethereum Bulls In Problems? The king of altcoins has registered red numbers for the past two days. ETH’s momentum recovery after the market slowdown was halted after the token followed BTC and the rest of the market. On Monday, crypto analyst Ali Martinez expressed concerns about Ether’s future. He suggested investors should “always be prepared for the best and the worst” scenario. Martinez deemed “breaching the $3,400 support level” as the most brutal scenario for the second-largest cryptocurrency. This move would confirm a bear pennant pattern that formed on the daily chart. If confirmed, the bearish formation could trigger ETH’s price to face a “major correction,” according to the analyst. The correction could make Ether’s price dip to $2,800. Martinez reaffirmed his analysis after Ethereum continued to dip in the early hours of Tuesday. After the token fell under the support level mentioned above, the analyst asserted that falling under $3,460 was a problem for the bulls. #Ethereum dropping below $3,460 is a problem for the bulls! Given the lack of support, it increases the chances for a further $ETH correction toward $2,850 or lower. pic.twitter.com/dFpnpZtBVM &#8212; Ali (@ali_charts) April 2, 2024 “Given the lack of support,” failing to regain this support zone could trigger further corrections for ETH that could go even lower than the previously forecasted $2,800. According to the In/Out of the Money Around Price (IOMAP) chart shared by Martinez, Ethereum shows a potential price support between $2,846 and $2,905, with over 1.64 million ETH bought by 1.99 million addresses at this level. Nonetheless, the chart also displays that an ETH rally could face resistance at $3,457 and $3,557. ETH’s Follows Bitcoin’s Correction Ethereum behaved no differently than the rest of the crypto market. Bitcoin’s correction saw its price drop from the $70,000 mark to hover between the $65,000-$64,000 price range. The flagship cryptocurrency shredded 7.1% of its price in the last 24 hours. Similarly, Ethereum’s red numbers show a 7.4% drop from yesterday and a 7.5% decrease on Monday. April fools shakeout to start the quarter. Time to get to work. Let&#39;s get this bread boys 🤝 pic.twitter.com/0458Qvrr4F &#8212; Jelle (@CryptoJelleNL) April 1, 2024 In the weekly and monthly timeframes, the king of altcoins has decreased by 9.2% and 3.4%.  However, its 3-month chart shows green numbers, with a positive 39.74% increase since 2024 started. Despite the negative performance, Ethereum’s daily trading volume increased a remarkable 80.80%, with over $22.5 billion traded in the last 24 hours, suggesting a rise in market activity. At the time of writing, ETH was trading at $3,283. Related Reading: Brace For Market Impact: Ethereum Open Interest Has Reached A New All-Time High Ethereum is trading at $3,238 in the one-day chart. Source: ETHUSDT on Tradingview.com Featured Image from Unsplash.com, Chart from TradingView.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-02T19:40:44.000Z",
-    "title": "Floki Emerges as Meme Coin Leader: 12 Million Users Transact via Binance Pay",
-    "url": "https://www.crypto-news-flash.com/floki-emerges-as-meme-coin-leader-12-million-users-transact-via-binance-pay/?utm_source=rss&utm_medium=rss&utm_campaign=floki-emerges-as-meme-coin-leader-12-million-users-transact-via-binance-pay",
-    "description": "<img width=\"1920\" height=\"1080\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Floki Inu\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu.png 1920w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-1024x576.png 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/06/Floki-Inu-1536x864.png 1536w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" />Floki Inu (FLOKI) skyrockets by 487% monthly due to Binance Pay integration and token burning program. With over 12 million users, Binance Pay allows global transactions with Floki Inu, boosting its value.  Floki Inu (FLOKI) has experienced a remarkable surge in value in recent weeks, which comes from significant developments, including integrating with Binance Pay [...]"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-04-02T20:00:38.000Z",
-    "title": "Here Are Realistic Price Targets for Bitcoin (BTC) and Ethereum (ETH) for Bull Market Top: Crypto Analyst",
-    "url": "https://dailyhodl.com/2024/04/02/here-are-realistic-price-targets-for-bitcoin-btc-and-ethereum-eth-for-bull-market-top-crypto-analyst/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2024/04/realistic-price-bull-top.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A popular crypto analyst is unveiling his Ethereum (ETH) and Bitcoin (BTC) peak price predictions for the current bull market cycle. The pseudonymous analyst known as Credible tells his 384,800 followers on the social media platform X that Ethereum will surge past $10,000 at &#8220;minimum,&#8221; but notes that ETH can realistically rally to as high [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/here-are-realistic-price-targets-for-bitcoin-btc-and-ethereum-eth-for-bull-market-top-crypto-analyst/\">Here Are Realistic Price Targets for Bitcoin (BTC) and Ethereum (ETH) for Bull Market Top: Crypto Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
-  },
-  {
-    "source": "The Daily Hodl",
-    "date": "2024-04-02T19:55:08.000Z",
-    "title": "Injection of New Capital Supporting Bitcoin As Long-Term Holders Distribute to Newcomers, According to Glassnode",
-    "url": "https://dailyhodl.com/2024/04/02/injection-of-new-capital-supporting-bitcoin-as-long-term-holders-distribute-to-newcomers-according-to-glassnode/",
-    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg 1365w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=750,440 750w, https://dailyhodl.com/wp-content/uploads/2022/08/kevin-warns-bitcoin-break.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>Longer-term Bitcoin (BTC) holders have begun trading their coins off to new investors entering the market, according to on-chain analytics firm Glassnode. In a new report, Glassnode says that Bitcoin&#8217;s recent move into price discovery above new all-time highs has enticed holders who were far in profit to distribute to a newer investor cohort. The [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/02/injection-of-new-capital-supporting-bitcoin-as-long-term-holders-distribute-to-newcomers-according-to-glassnode/\">Injection of New Capital Supporting Bitcoin As Long-Term Holders Distribute to Newcomers, According to Glassnode</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
+    "date": "2024-04-02T20:30:08.000Z",
+    "title": "Chief Investment Officer confirms lack of crypto appetite among Goldman Sachs clients",
+    "url": "https://www.cryptopolitan.com/cio-crypto-appetite-among-goldman-sachs-clients/",
+    "description": "Goldman Sachs, one of the major Wall Street banks, remains skeptical about cryptocurrency, as it claims that digital assets are not an investment class. This perspective was even more clearly substantiated by Sharmin Mossavar-Rahmani, the Chief Investment Officer of the bank’s Wealth Management unit, in a recent interview with the Wall Street Journal, stating that [&#8230;]"
   }
 ]

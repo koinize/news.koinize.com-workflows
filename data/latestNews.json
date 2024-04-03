@@ -1,37 +1,79 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-04-03T08:32:46.000Z",
-    "title": "Bitcoin ETF Trading Volumes Tripled in March as the Largest Cryptocurrency Hit Record Highs",
-    "url": "https://www.coindesk.com/markets/2024/04/03/bitcoin-etf-trading-volumes-tripled-in-march-as-the-largest-cryptocurrency-hit-record-highs/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Trading volumes for the exchange-traded funds soared to $110 billion, three times higher than either January or February, led by BlackRock's IBIT."
+    "date": "2024-04-03T09:00:00.000Z",
+    "title": "Bitfinex Derivatives Users Can Now Place Bets on Bitcoin and Ether Implied Volatility",
+    "url": "https://www.coindesk.com/markets/2024/04/03/bitfinex-derivatives-users-can-now-place-bets-on-bitcoin-and-ether-implied-volatility/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Bitfinex Derivatives announced the launch of perpetual futures tied to Volmex's proprietary bitcoin and ether implied volatility indices."
   },
   {
     "source": "CoinDesk",
-    "date": "2024-04-03T08:14:29.000Z",
-    "title": "ARK 21Shares Bitcoin ETF Logs $88M of Outflows, Overtaking Grayscale for First Time",
-    "url": "https://www.coindesk.com/business/2024/04/03/ark-21shares-bitcoin-etf-logs-88m-of-outflows-overtaking-grayscale-for-first-time/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "For the first time, outflows from Ark 21 Shares overtook Grayscale’s."
+    "date": "2024-04-03T08:45:43.000Z",
+    "title": "Stablecoin Expansion Continues as Bitcoin Rally Appears to Stall",
+    "url": "https://www.coindesk.com/markets/2024/04/03/stablecoin-expansion-continues-as-bitcoin-rally-appears-to-stall/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The unabated expansion of stablecoin supply shows capital continues to flow into the crypto market, one observer noted."
   },
   {
-    "source": "BTCManager",
-    "date": "2024-04-03T08:10:58.000Z",
-    "title": "Elastos (ELA) surges 45% after major crypto exchange listing",
-    "url": "https://crypto.news/elastos-ela-surges-45-after-major-crypto-exchange-listing/",
-    "description": "Elastos (ELA), the native token of the decentralized blockchain platform aimed at creating a secure and scalable Internet, experienced a substantial price increase of over 45%. As of the latest reports, ELA was trading at $5.14, with its 24-hour trading&#8230;"
+    "source": "Crypto Daily",
+    "date": "2024-04-03T09:02:53.000Z",
+    "title": "Agora Raises $12M In Seed Funding Round Led By Dragonfly",
+    "url": "https://cryptodaily.co.uk/2024/04/agora-raises-12m-in-seed-funding-round-led-by-dragonfly",
+    "description": "Emerging stablecoin issuer Agora has raised $12 million in a seed funding round led by Dragonfly to launch their upcoming stablecoin."
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-04-03T09:07:45.000Z",
+    "title": "Aave Proposal Aims to Safeguard Against DAI’s Rapid Market Cap Increase",
+    "url": "https://news.bitcoin.com/aave-proposal-aims-to-safeguard-against-dais-rapid-market-cap-increase/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"News Bytes - Aave Proposal Aims to Safeguard Against DAI&#039;s Rapid Market Cap Increase\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/1_news_bytes.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />The Aave Risk Framework Committee (ARFC) has proposed adjustments to the risk parameters of the dai (DAI) stablecoin to mitigate potential risks associated with Makerdao&#8217;s aggressive expansion of the DAI credit line. The proposal, initiated by the Aave Chan Initiative (ACI) team, suggests setting the loan-to-value (LTV) ratio for DAI to 0% across all Aave [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-03T09:01:35.000Z",
+    "title": "US, Britain Establish AI Partnership for Ensuring Safety",
+    "url": "https://www.cryptopolitan.com/us-britain-establish-ai-partnership-safety/",
+    "description": "A historic AI partnership that will influence future technological advancements and cross-border cooperation is the United States and Britain&#8217;s formation of a revolutionary alliance with the goal of ensuring the security of artificial intelligence (AI) systems. Following promises made at an AI Safety Summit in November at Bletchley Park, Secretary of Commerce Gina Raimondo and [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-03T08:58:20.000Z",
+    "title": "Israeli High-Tech Sector Shows Resilience Amidst War Challenges",
+    "url": "https://www.cryptopolitan.com/israeli-high-tech-shows-amidst-war/",
+    "description": "However, with the unprecedented magnitude of the recent war and post-war events, there remains remarkable resilience in the Israeli high-tech sector. This is according to Start-Up Nation Central (SNC), pointing out that while the startups locally were inelastic by recruiting from 15% of their workforce into the IDF reserves and were grappling with a near-complete [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-04-03T08:40:44.000Z",
+    "title": "Asia’s Bitcoin Volatility Linked To Algos Tracking ETF Flows",
+    "url": "https://www.newsbtc.com/news/bitcoin/asia-bitcoin-volatility-algos-tracking-etf-flows/",
+    "description": "Recent Bitcoin price volatility in Asia has been closely linked to automated trading algorithms that monitor flows in US exchange-traded funds (ETFs). According to Bloomberg, this algorithmic trading response to daily US ETF flow data is causing pronounced swings in Bitcoin prices during Asian trading hours. Trading Algos Spoil The Bitcoin Price The trigger for Bitcoin&#8217;s steep decline, marking its worst drop in a month, was observed on Tuesday morning in Asia. This downturn coincided with the release of US ETF flows data, which indicated a net withdrawal of investments. Shiliang Tang, president of Arbelos Markets, highlighted the impact of algorithmic trading on these market movements. &#8220;From an algorithmic trading perspective, bots can basically auto-scrape this data and buy and sell based on this,&#8221; Tang explained. &#8220;It seems that’s basically what is happening.&#8221; Related Reading: Bitcoin Supply In Loss Hits 10% After Crash: What Happened Last Time The introduction of several Bitcoin ETFs in the United States on January 11 has since attracted a net $12 billion in investments. These ETFs experienced a surge in inflows, especially in the first half of March, propelling Bitcoin to a record high of $73,798. However, the premier cryptocurrency has seen a decline of up to 17.6% from this peak, amidst fluctuating inflows and outflows within the sector. This pattern of flows has notably impacted the Asian market&#8217;s returns, with February and early March witnessing particularly strong performance, which diminished later in the month. The influence of algorithmic protocols on Bitcoin&#8217;s price not only affects the spot market but extends to derivatives as well, with Coinglass reporting about $357 million in bullish crypto bets being liquidated on Tuesday alone. Related Reading: Bitcoin Price Tumbles Below $66,000: 4 Major Reasons Charlie Morris, Chief Investment Officer at ByteTree Asset Management, pointed out the significance of ETF flows for Bitcoin compared to gold, noting that 5.5% of Bitcoin is held in ETFs, against 1% for gold. This makes ETF flows a more critical factor for Bitcoin&#8217;s market movements. Market participants like Jakob Kronbichler, co-founder of Clearpool Finance, emphasize the market&#8217;s responsiveness to ETF flow data and suggest the recent correction as a natural pause for the market to &#8220;take a bit of a breather&#8221; amidst widespread excitement. Spot ETFs Rake In $40 Million Yesterday, all spot Bitcoin ETFs experienced an inflow totaling $40.3 million, primarily due to Blackrock&#8217;s significant contribution of $150.5 million, which played a crucial role in boosting the market. On the contrary, ARK faced a challenging day with $87.9 million in outflows, despite having $200 million inflows the previous week. Grayscale&#8217;s GBTC saw rather low outflows, amounting to $81.9 million. Renowned analyst WhalePanda commented: “Maybe profit taking after Q1? Speculation though. [&#8230;] Mondays always seem to have the most outflows and wondering if end of Q1 had something to do with it as I suspect. Price crashed further on US government moving/selling some of the BTC from Silk Road. Better to sell here than at $100k or $200k. 17 days until halving.” At press time, BTC traded at $66,398. Featured image created with DALL·E, chart from TradingView.com"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-03T08:11:00.000Z",
-    "title": "Solana Primed to Reach New All-Time High, Set to Surpass BNB’s Market Cap",
-    "url": "https://www.crypto-news-flash.com/solana-primed-to-reach-new-all-time-high-set-to-surpass-bnbs-market-cap/?utm_source=rss&utm_medium=rss&utm_campaign=solana-primed-to-reach-new-all-time-high-set-to-surpass-bnbs-market-cap",
-    "description": "<img width=\"2119\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Solana-SOL-logo-with-reddish-blue-dynamic-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background.jpg 2119w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-300x170.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-1024x580.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-768x435.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-1536x870.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-2048x1160.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-150x85.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-450x255.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Solana-SOL-logo-with-reddish-blue-dynamic-background-1200x680.jpg 1200w\" sizes=\"(max-width: 2119px) 100vw, 2119px\" />Solana has been predicted to establish a new all-time high price above the $260 recorded on November 6, 2021. Another analyst has predicted that SOL could surge by 80% from the bottom of the bull flag to $330.  Chris Burniske, the former head of crypto at Cathie Wood’s ARK Invest makes a bold prediction for [...]"
+    "date": "2024-04-03T09:08:35.000Z",
+    "title": "US Government Transfers $2.1B Seized Bitcoin to Coinbase: Could BTC Price Dip to $60,000?",
+    "url": "https://www.crypto-news-flash.com/us-government-transfers-2-1b-seized-bitcoin-to-coinbase-could-btc-price-dip-to-60000/?utm_source=rss&utm_medium=rss&utm_campaign=us-government-transfers-2-1b-seized-bitcoin-to-coinbase-could-btc-price-dip-to-60000",
+    "description": "The US Government has reportedly transferred 30,174 Bitcoin, valued at approximately $2.1 billion, to Coinbase, raising questions about potential market impacts. This move is part of a pattern of government sales of seized Bitcoin, including a previous $1 billion transfer, with implications for the cryptocurrency market and Bitcoin&#8217;s price. According to the wallet database Arkham [...]"
+  },
+  {
+    "source": "Crypto News Flash",
+    "date": "2024-04-03T09:00:18.000Z",
+    "title": "$RECQ Presale Momentum Impresses SHIB And Aptos Holders; Can The New Coin Go For A Major Price Rally?",
+    "url": "https://www.crypto-news-flash.com/recq-presale-momentum-impresses-shib-and-aptos-holders-can-the-new-coin-go-for-a-major-price-rally/?utm_source=rss&utm_medium=rss&utm_campaign=recq-presale-momentum-impresses-shib-and-aptos-holders-can-the-new-coin-go-for-a-major-price-rally",
+    "description": "<img width=\"1200\" height=\"752\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1-300x188.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1-768x481.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1-150x94.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T021952.467-1-450x282.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Shiba Inu surges 16% in a week, and experts believe more growth is in store. Aptos pumps 9% in a week, and analysts foresee more gains in March. Rebel Satoshi’s $RECQ gains more adoption as it enters Stage 1 of its presale. The crypto market has performed commendably over the past week, with top altcoins [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-04-03T08:17:55.000Z",
-    "title": "15 AI Coins Exceed Q1-2024 Funding Targets – Part 1",
-    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/15-ai-coins-exceed-q1-2024-funding-targets-part-1/",
-    "description": "<p>The future is Al. Investors know this information, and because of this, the funding aspects of AI projects are massive. As we look back at Q1- 2024, many Al coins have aced their funding goals. This showcases the significance of AI to investors and the potential of Al in the crypto space. This two-part article [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/15-ai-coins-exceed-q1-2024-funding-targets-part-1/\">15 AI Coins Exceed Q1-2024 Funding Targets &#8211; Part 1</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-04-03T08:54:07.000Z",
+    "title": "BIGGEST Move Coinbase Base | Powered by Wanchain",
+    "url": "https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/biggest-move-coinbase-base-powered-by-wanchain/",
+    "description": "<p>Which is the HOTTEST Chain at the moment? It is Coinbase’s Base. But this video is not about Base, it is about the biggest and quickest move that our favorite bridge Wanchain has made toward Base.  This is going to play a very important role in the growth of the Base ecosystem just the way it [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/biggest-move-coinbase-base-powered-by-wanchain/\">BIGGEST Move Coinbase Base | Powered by Wanchain</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-04-03T08:45:53.000Z",
+    "title": "Better Markets CEO Calls Crypto ‘Lawless,’ Asks for Lifetime Jail of FTX Execs",
+    "url": "https://coinedition.com/better-markets-ceo-calls-crypto-lawless-asks-for-lifetime-jail-of-ftx-execs/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/image1-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Better Markets CEO Calls Crypto ‘Lawless,’ Asks for Lifetime Jail of FTX Execs\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/image1-2.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/image1-2-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The collapse of FTX, a prominent cryptocurrency exchange, which led to the subsequent sentencing of its co-founder, Sam Bankman-Fried, has raised multiple questions regarding the legitimacy of such platforms. Notably, Better Markets CEO, Dennis Kelleher, called for former FTX executives to face jail time and potentially be banned from financial markets. In a recent interview [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/better-markets-ceo-calls-crypto-lawless-asks-for-lifetime-jail-of-ftx-execs/\">Better Markets CEO Calls Crypto ‘Lawless,’ Asks for Lifetime Jail of FTX Execs</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

@@ -1,93 +1,86 @@
 [
   {
-    "source": "Cointelegraph",
-    "date": "2024-04-03T13:30:00.000Z",
-    "title": " Ethereum’s ERC-20 design flaws are a crypto scammer’s best friend ",
-    "url": "https://cointelegraph.com/magazine/phishing-crypto-erc-20-bait-scammers/",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-The-irreparable-ERC20-design-is-now-a-scammers-best-friend-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>First introduced back in 2015, ERC-20 tokens are full of gaping security holes, with little chance of a fix any time soon.</p>\n                    <p><p><strong>ERC-20 tokens are among the most frequently stolen assets in the crypto industry, and even some of the updates intended to fix the issues are inadvertently facilitating theft.</strong><br><br>The Ethereum networks near-ubiquitous token standard accounted for 89.5% of the $71.5 million worth of crypto lost to phishing scams in March, according to <a href=\"https://dune.com/scam-sniffer/march-2024-scam-sniffer-phishing-report\" target=\"_blank\" rel=\"nofollow\">Scam Sniffer</a>.</p><p>These tokens were stolen as a result of victims unwittingly being phished and approving functions like permit and increaseAllowance. Functions intended to enhance the token standards efficiency have introduced new vulnerabilities.</p><p>First introduced back in 2015, ERC-20 tokens are full of gaping security holes, with little chance of a fix any time soon.</p><p><a href=\"https://cointelegraph.com/magazine/phishing-crypto-erc-20-bait-scammers/\">Read more</a></p></p>\n                \n            "
+    "source": "CoinDesk",
+    "date": "2024-04-03T14:00:00.000Z",
+    "title": "Central Bank Group Starts Tokenization Project to Enhance Monetary System ",
+    "url": "https://www.coindesk.com/policy/2024/04/03/central-bank-group-starts-tokenization-project-to-enhance-monetary-system/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The project will investigate the integration of tokenized commercial bank deposits with central bank money using smart contracts and programmability, the Bank for International Settlements said."
+  },
+  {
+    "source": "CoinDesk",
+    "date": "2024-04-03T13:54:50.000Z",
+    "title": "Texas Takedown: Nic Carter and David Hoffman Square Off for Karate Combat at Consensus",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/04/03/texas-takedown-nic-carter-and-david-hoffman-square-off-for-karate-combat-at-consensus/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The influencers, representing Bitcoin and Ethereum, will enter the pit at the Consensus festival May 30, 2024. Fyre Festival’s Billy McFarland is also on the fight card."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-03T13:19:56.000Z",
-    "title": " Fantom founder concerned that negative funding rates will introduce next Terra-like &#039;unbacked asset&#039; ",
-    "url": "https://cointelegraph.com/news/fantom-founder-next-terra-like-unbacked-asset",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvMDBmYjFjYjctYmJlMC00ODRkLWJmMDMtNzMwYjNiOTNlOTM2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Without naming the protocol, Cronje shared his concerns about negative funding rates potentially leading to an “unbacked asset.”</p>\n                    <p><p data-ct-non-breakable=\"true\">Fantom creator Andre Cronje is concerned that incentives behind Ethena Labs’ USDe could lead to the next Terra-Luna-like meltdown. Cronje is considered one of the most influential thought leaders in decentralized finance (DeFi).</p><p>Without mentioning the protocol or its synthetic dollar directly by name, Cronje shared a note about his concerns regarding the risk management behind Ethena Labs, highlighting the issue with funding rates in perpetual futures contracts. In an April 3 <a href=\"https://twitter.com/AndreCronjeTech/status/1775398490404724914\" target=\"_blank\" rel=\"noopener nofollow\">X</a> <a href=\"https://twitter.com/AndreCronjeTech/status/1775398490404724914\" target=\"_blank\" rel=\"noopener nofollow\">post</a>, Cronje wrote:</p><p>Ethena's USDe stablecoin yield first caused widespread concerns on Feb. 19, when it launched on public mainnet with a 27.6% annual percentage yield (APY), which was considerably higher than failed Terra UST’s 20% yield on Anchor protocol, which collapsed in May 2022, erasing tens of billions of dollars of value in a few days.</p><p><a href=\"https://cointelegraph.com/news/fantom-founder-next-terra-like-unbacked-asset\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-03T13:17:46.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">The founder of a security firm warns that phishing attacks are becoming increasingly sophisticated despite fewer incidents. A faulty smart contract has locked up $24 million worth of Lido-staked Solana. Meanwhile, U.S. authorities transferred billions of dollars worth of Silk Road-era Bitcoin.</p><p>While the first quarter of 2024 seems “relatively typical” when it comes to hacks and exploits, Ronghui Gu, the co-founder of blockchain security firm CertiK, said the complexity of private key compromises and phishing attacks raises concerns.</p><p>Gu told Cointelegraph that among the incidents this quarter, losses attributed to private key compromises had increased significantly compared to the first quarter of 2023.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-03T13:15:00.000Z",
-    "title": " AI token prices soar: Is it all hype, or is there real potential? ",
-    "url": "https://cointelegraph.com/news/ai-token-prices-hype-potential-markets",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvMTFmMzkwNTgtNjNiZC00ZjIxLWE3ZDQtM2FlOTVlZGRiYzgzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>With several AI tokens registering triple digital growth in 2024, observers are questioning whether many of these projects have merit.</p>\n                    <p><p data-ct-non-breakable=\"true\">The artificial intelligence (AI) token market has been on a remarkable upswing over the last few months, with things reaching a fever pitch last month as trading volumes and market valuations <a href=\"https://www.reuters.com/technology/cryptoverse-ai-tokens-outpace-record-breaking-bitcoin-2024-03-19/\" target=\"_blank\" rel=\"noopener nofollow\">skyrocketed</a> across many exchanges. </p><p>Data from the crypto platform Bitget revealed that the dedicated AI token zone witnessed an astonishing 400% <a href=\"https://www.bitget.com/blog/articles/bitget-february-2024-report\" target=\"_blank\" rel=\"noopener nofollow\">surge</a> in trading volume throughout February alone, <a href=\"https://www.bitget.com/price/category/ai-&amp;-big-data/2\" target=\"_blank\" rel=\"noopener nofollow\">reaching</a> a total market capitalization of over $39 billion.</p><p>This rapid rise has primarily been fueled by investors piling into AI-centric concepts like Worldcoin (<a href=\"https://cointelegraph.com/worldcoin-wld-price-index\">WLD</a>), Livepeer (LPT) and Arkham (ARKM), all of which have seen their prices erupt over the past few months. </p><p><a href=\"https://cointelegraph.com/news/ai-token-prices-hype-potential-markets\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-03T13:47:37.000Z",
+    "title": " First VR developer integrates with OpenAI setting stage for no-code VR development  ",
+    "url": "https://cointelegraph.com/news/vr-developer-openai-no-code-vr-development",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNjAwMWQ5YjktNjFhMC00ZjQ4LWI0YjUtNzA4NWM4OGQ2MTliLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Victoria VR’s new AI builder platform enables users to create virtual reality experiences and entire metaverses, without any programming skills.</p>\n                    <p><p data-ct-non-breakable=\"true\">Virtual reality (VR) developer Victoria VR has announced its integration with artificial intelligence (AI) giant OpenAI, the creator of the popular generative AI tool ChatGPT.</p><p>The new implementation will enable users to experience the first AI integration through Victoria VR’s AI builder platform, which allows the development of virtual reality experiences through AI algorithms, according to Adam Bém, CEO and co-founder of Victoria VR, who told Cointelegraph:</p><p>Victoria VR’s AI builder enables users to design their own 3D virtual reality experiences, games, and applications without requiring programming knowledge. The OpenAI integration will enable a variety of new content-building, from in-game items and virtual accessories to metaverse platforms.</p><p><a href=\"https://cointelegraph.com/news/vr-developer-openai-no-code-vr-development\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "CryptoSlate",
-    "date": "2024-04-03T13:38:45.000Z",
-    "title": "Despite Grayscale and ARK’s outflows, Bitcoin ETF market records net inflow",
-    "url": "https://cryptoslate.com/insights/despite-grayscale-and-arks-outflows-bitcoin-etf-market-records-net-inflow/",
-    "description": "<p>Quick Take Bitcoin (BTC) exchange-traded funds (ETFs) on Apr. 2 experienced a moderate net inflow of $40.3 million, according to Farside data. Particularly noteworthy is the Grayscale Bitcoin Trust (GBTC), which saw a relatively smaller outflow of $81.9 million, signaling a significant slowdown from previous outflows. GBTC has now totaled $15,152.0 billion in net outflows. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/insights/despite-grayscale-and-arks-outflows-bitcoin-etf-market-records-net-inflow/\">Despite Grayscale and ARK’s outflows, Bitcoin ETF market records net inflow</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "date": "2024-04-03T14:07:44.000Z",
+    "title": "Solana’s stablecoin supply surges past $3 billion, USDC leads the charge",
+    "url": "https://cryptoslate.com/solanas-stablecoin-supply-surges-past-3-billion-usdc-leads-the-charge/",
+    "description": "<p>Stablecoin supply on the layer-1 blockchain network Solana has increased steadily since the beginning of the year, crossing the $3 billion mark during the past week. Data from the blockchain analytical platform Artemis shows that the stablecoin supply on the network has increased by 55.72% in the last three months to reach $3.12 billion. Notably, [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/solanas-stablecoin-supply-surges-past-3-billion-usdc-leads-the-charge/\">Solana&#8217;s stablecoin supply surges past $3 billion, USDC leads the charge</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
   },
   {
-    "source": "Coin Telegraph India",
-    "date": "2024-04-03T13:30:00.000Z",
-    "title": " Ethereum’s ERC-20 design flaws are a crypto scammer’s best friend ",
-    "url": "https://cointelegraph.com/magazine/phishing-crypto-erc-20-bait-scammers/",
-    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/03/magazine-The-irreparable-ERC20-design-is-now-a-scammers-best-friend-scaled.jpg\"></p><p>First introduced back in 2015, ERC-20 tokens are full of gaping security holes, with little chance of a fix any time soon.</p>\n            "
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-03T13:33:21.000Z",
-    "title": "Byte Federal Launches Point of Sale System for Merchants seeking to accept Bitcoin",
-    "url": "https://cryptodaily.co.uk/2024/04/byte-federal-launches-point-of-sale-system-for-merchants-seeking-to-accept-bitcoin",
-    "description": "Byte Federal Launches Point of Sale System for Merchants seeking to accept Bitcoin"
-  },
-  {
-    "source": "Crypto Daily",
-    "date": "2024-04-03T13:10:37.000Z",
-    "title": "Somnia Launches Its Metaverse-based Blockchain To Enhance Virtual Experiences",
-    "url": "https://cryptodaily.co.uk/2024/04/somnia-launches-its-metaverse-based-blockchain-to-enhance-virtual-experiences",
-    "description": "The launch aims to connect the metaverse and incentivize builders."
+    "source": "Crypto Briefing",
+    "date": "2024-04-03T14:00:27.000Z",
+    "title": "Binance launches support for ARC-20 tokens on its inscription marketplace",
+    "url": "https://cryptobriefing.com/binance-arc-20-token-support/",
+    "description": "Binance Inscription Marketplace launches ARC-20 token support, offering users new trading opportunities and a simplified way to manage asset."
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-03T13:11:27.000Z",
-    "title": "RagaAI Unveils Advanced Testing Tools for More Reliable AI-Language Models",
-    "url": "https://www.cryptopolitan.com/ragaai-unveils-advanced-test-language-models/",
-    "description": "Artificial intelligence development comes to light, and what assesses large language machines (LLMs) as highly meaningful is a question of attention. Those advanced devices will determine the forthcoming technology; thus, their adverse effects recognition and cause security and fair play are necessary. Big language models that have opened up a new frontier for AI technology [&#8230;]"
+    "date": "2024-04-03T13:52:15.000Z",
+    "title": "CrowdSwap launches first decentralized crypto ETF bull run dETF",
+    "url": "https://www.cryptopolitan.com/crowdswap-launches-first-decentralized-crypto-etf-bull-run-detf/",
+    "description": "CrowdSwap in the decentralized finance (DeFi) space has announced that the first decentralized crypto exchange-traded fund (ETF), Bull Run dETF, has been launched. The novel financial instrument allows investors to access the crypto market using one crypto token to invest in a diversified portfolio. This is one of the fundamental points of cryptocurrency asset use [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-03T13:50:56.000Z",
+    "title": "Malaysia’s Border Security Takes Leap Forward with AI and Drone Implementation",
+    "url": "https://www.cryptopolitan.com/malaysias-border-security-ai-and-drone-used/",
+    "description": "Perlis Raja Muda Ti is passionate about combining Artificial Intelligence (AI), drones, and advanced CCTV (Closed Circuit Television) systems to enhance security at strategic locations throughout the country to protect the Malaysia border security.  Malaysia&#8217;s border security advancements His Highness elaborated on the essence of this feature at the Wang Kelian Border Checkpost, that these [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-03T13:37:14.000Z",
-    "title": "Impressive gains for SOL and FET; RECQ eyes ambitious targets",
-    "url": "https://crypto.news/impressive-gains-for-sol-and-fet-recq-eyes-ambitious-targets/",
-    "description": "Solana (SOL) leads the charge against top altcoins, while Fetch.ai (FET) soars to new heights amid bullish momentum. Meanwhile, investors in Rebel Satoshi (RECQ) set their sights on ambitious profit targets. #partnercontent"
+    "date": "2024-04-03T14:04:14.000Z",
+    "title": "BTC, ETH see dip; Pullix platform’s rise offers new opportunities ",
+    "url": "https://crypto.news/btc-eth-see-dip-pullix-platforms-rise-offers-new-opportunities/",
+    "description": "As Bitcoin and Ethereum face significant dips, falling below key price thresholds, the new Pullix platform emerges as a lead option for investors looking for growth opportunities. #sponsored"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-03T13:25:55.000Z",
-    "title": "The Bitcoin Ponzi scheme: unveiling the truth",
-    "url": "https://crypto.news/is-bitcoin-a-ponzi-scheme/",
-    "description": "Explore the Bitcoin Ponzi scheme debate. Check the criticisms, Ponzi explanation, and why Bitcoin isn't one."
+    "date": "2024-04-03T14:02:28.000Z",
+    "title": "Koala Coin’s 100x potential has Litecoin and Filecoin investors jumping in",
+    "url": "https://crypto.news/koala-coins-100x-potential-has-litecoin-and-filecoin-investors-jumping-in/",
+    "description": "The Koala Coin presale is attracting Filecoin and Litecoin investors, thanks to its 100x surge potential#partnercontent"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-04-03T14:00:24.000Z",
+    "title": "Fear Grips XRP Market As Liquidations Top $6 Million – Details",
+    "url": "https://www.newsbtc.com/analysis/xrp/fear-grips-xrp-market-as-liquidations-top-6-million-details/",
+    "description": "The cryptocurrency market continues to feel the tremors of a brutal April Fools&#8217; Day price crash, with XRP taking a significant hit. In the last 24 hours, a staggering $6 million in XRP contracts were liquidated, according to Coinglass data. This liquidation frenzy can be attributed to the sharp price decline experienced by XRP on April 1st. The new month began with XRP trading around $0.61. However, a domino effect triggered by Bitcoin&#8217;s plunge below $67,000 sent shockwaves through the market, dragging down XRP along with other major cryptocurrencies. Related Reading: Canine Comeback? KNINE Brushes Off 50% Loss, Gets Listed On Major Exchange Looking deeper into the liquidation data, a clear trend emerges. A whopping $5.6 million of the liquidated contracts were long positions, indicating that traders who bet on XRP&#8217;s price increasing were forced out of their positions. Conversely, short positions, which profit from price decreases, saw a significantly smaller liquidation value of $324,200. Market Contrasts: XRP&#8217;s Uncertain Path Interestingly, the situation on the spot market, where actual cryptocurrency is bought and sold, presented a contrasting picture. XRP&#8217;s trading volume surged by nearly 60% during the same period when these hefty liquidations occurred. While a surge in volume might suggest increased buying activity, a closer look reveals a dominance of selling pressure. The price action suggests that a significant portion of this volume resulted in selling rather than accumulation. XRP price down in the last week. Source: CoinMarketCap This trend of rising volume alongside a falling price indicates that the downward momentum for XRP might persist. If this selling pressure continues unabated, analysts predict a potential drop in XRP&#8217;s price towards the $0.55 support level. With these conditions in play, XRP&#8217;s future appears uncertain. The token faces the risk of getting caught in a market bloodbath. However, it&#8217;s important to acknowledge dissenting viewpoints. Some analysts hold a different perspective and predict a potential short-term upside for XRP, with a price target of $0.74. Bitcoin is now trading at $66.117. Chart: TradingView XRP&#8217;s Stable Funding Rate Amidst Bearish Sentiment Meanwhile, amidst the bearish sentiment, a glimmer of optimism emerges from technical analysis. Despite the high liquidation value, XRP&#8217;s funding rate has remained stable. In simpler terms, a positive funding rate implies that traders holding long positions (expecting a price increase) are currently paying a premium to those holding short positions (expecting a price decrease). Source: Coinglass This can be interpreted in two ways. It could suggest that some traders still believe in a potential XRP price increase, or it could indicate that short sellers are willing to pay a premium to maintain their bearish positions. Related Reading: Shiba Inu Fires Up With 4,000% Burn – Price Rebound Coming? NewsBTC&#8217;s analysis indicates that XRP&#8217;s Funding Rate currently sits at 0.030, slightly higher than the predicted rate of 0.029. Should the Funding Rate hold positive while the price continues to decline, those holding long positions might not receive the usual funding payments. This scenario could further exacerbate the bearish bias and empower aggressive sellers. Featured image from Pexels, chart from TradingView"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-03T13:30:25.000Z",
-    "title": "Why This Altcoin Is Set For A Huge April As Investors Rush To Sign Up To Their Revolutionary New Hybrid Trading Platform",
-    "url": "https://www.crypto-news-flash.com/why-this-altcoin-is-set-for-a-huge-april-as-investors-rush-to-sign-up-to-their-revolutionary-new-hybrid-trading-platform/?utm_source=rss&utm_medium=rss&utm_campaign=why-this-altcoin-is-set-for-a-huge-april-as-investors-rush-to-sign-up-to-their-revolutionary-new-hybrid-trading-platform",
-    "description": "<img width=\"1200\" height=\"675\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944.png 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944-300x169.png 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944-768x432.png 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944-150x84.png 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-03T162303.944-450x253.png 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Pullix (PLX) has gained a significant level of attention following the completion of its blockchain ICO, and official launch, where it showcased a significant level of growth and momentum as it appealed to thousands of traders who bought the cryptocurrency.  Since its listing on major exchanges, Pullix has also jumped in value by 300%, indicating [...]"
+    "date": "2024-04-03T14:07:37.000Z",
+    "title": "Cardano ADA Plummets 10.4% as Support at $0.62 Crumbles: What’s Next for ADA Price?",
+    "url": "https://www.crypto-news-flash.com/cardano-ada-plummets-10-4-as-support-at-0-62-crumbles-whats-next-for-ada-price/?utm_source=rss&utm_medium=rss&utm_campaign=cardano-ada-plummets-10-4-as-support-at-0-62-crumbles-whats-next-for-ada-price",
+    "description": "<img width=\"512\" height=\"341\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Cardano\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208.jpg 512w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/01/unnamed-2024-01-24T094738.208-450x300.jpg 450w\" sizes=\"(max-width: 512px) 100vw, 512px\" />Cardano (ADA) suffers a 10% fall to trade below a crucial support level in the ongoing broad market pullback. In the last 30 days, ADA has fallen below this support level thrice but bounced back on the first two occasions.  Investors&#8217; hope of seeing Cardano (ADA) extending its bullish trend fades as the asset slips [...]"
   },
   {
-    "source": "Altcoin Buzz",
-    "date": "2024-04-03T13:16:40.000Z",
-    "title": "$MEW to List on Kucoin, Trading Starts April 3rd",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/mew-to-list-on-kucoin-trading-starts-april-3rd/",
-    "description": "<p>This announcement is a major milestone for $MEW. It opens new avenues for liquidity and engagement among Kucoin&#8217;s extensive user base. Deposits for $MEW are now open on the SOL-SPL network. This allows users to transfer their $MEW tokens to their Kucoin wallets before trading begins. Deposits Open for $MEW on Kucoin This step readies [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/mew-to-list-on-kucoin-trading-starts-april-3rd/\">$MEW to List on Kucoin, Trading Starts April 3rd</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "source": "Coin Edition",
+    "date": "2024-04-03T13:40:06.000Z",
+    "title": "Ethena Soars on Bullish Prediction and Binance Promotion – Can It Reach $10?",
+    "url": "https://coinedition.com/ethena-soars-on-bullish-prediction-and-binance-promotion-can-it-reach-10/",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://coinedition.com/wp-content/uploads/2024/04/Bull.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Ethena Soars on Bullish Prediction and Binance Promotion - Can It Reach $10?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/Bull.png 512w, https://coinedition.com/wp-content/uploads/2024/04/Bull-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/04/Bull-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/04/Bull-127x70.png 127w, https://coinedition.com/wp-content/uploads/2024/04/Bull-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/04/Bull-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/04/Bull-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/04/Bull-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/04/Bull-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/04/Bull-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/04/Bull-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/04/Bull-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/04/Bull-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/04/Bull-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/04/Bull-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/04/Bull-355x200.png 355w\" sizes=\"(max-width: 512px) 100vw, 512px\" /><p>Ethena’s native cryptocurrency, ENA, surged significantly within a few hours of going live. The token launched on Tuesday and rallied from a listing price of $0.57 to $0.92 in less than 24 hours, according to data from TradingView. The surge reflects a 68% gain amid consolidation in the crypto market. Although ENA’s price surge is [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/ethena-soars-on-bullish-prediction-and-binance-promotion-can-it-reach-10/\">Ethena Soars on Bullish Prediction and Binance Promotion &#8211; Can It Reach $10?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

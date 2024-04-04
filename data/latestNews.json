@@ -1,128 +1,58 @@
 [
   {
-    "source": "CoinDesk",
-    "date": "2024-04-04T13:00:00.000Z",
-    "title": "Ripple, Developer Behind XRP Ledger, Enters Stablecoin Fray vs. Tether, USDC",
-    "url": "https://www.coindesk.com/tech/2024/04/04/ripple-developer-behind-xrp-ledger-enters-stablecoin-fray-vs-tether-usdc/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The token will be \"100% backed by U.S. dollar deposits, short-term U.S. government Treasuries and other cash equivalents.\" according to the company."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-04-04T13:00:00.000Z",
-    "title": "Credbull's First Crypto Fund Chases High Fixed Yields ",
-    "url": "https://www.coindesk.com/business/2024/04/04/credbulls-first-crypto-fund-chases-high-fixed-yields/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "Crypto's high yield structured product sector is getting a bit more mature."
-  },
-  {
-    "source": "CoinDesk",
-    "date": "2024-04-04T13:02:53.000Z",
-    "title": "Protocol Village: Optimism-Based DEX Velodrome Deploys to Bitcoin L2 BOB",
-    "url": "https://www.coindesk.com/tech/2024/04/03/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of April 4-10."
+    "source": "Decrypt",
+    "date": "2024-04-04T13:31:02.000Z",
+    "title": "AI Video Startup Raises $8 Million to Animate Social Media Characters",
+    "url": "https://decrypt.co/224737/higgsfield-diffuse-ai-character-video-generation",
+    "description": "Instead of going for long-form photorealistic movies, Higgsfield wants to help creators rapidly generate animated content."
   },
   {
     "source": "Decrypt",
-    "date": "2024-04-04T13:01:02.000Z",
-    "title": "Ripple to Launch USD-Backed Stablecoin on Ethereum and XRP Ledger",
-    "url": "https://decrypt.co/224736/ripple-launch-usd-backed-stablecoin-ethereum-xrp",
-    "description": "Crypto payments firm Ripple is gearing up to debut its own dollar-pegged stablecoin this year. Here’s what we know so far."
+    "date": "2024-04-04T13:25:04.000Z",
+    "title": "Binance NFT Marketplace Axes Support for Bitcoin Ordinals",
+    "url": "https://decrypt.co/224788/binance-nft-marketplace-axes-bitcoin-ordinals",
+    "description": "Trading of Bitcoin Ordinals on Binance's NFT marketplace will end on April 18, with users advised to withdraw assets before April 10."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-04T13:08:30.000Z",
-    "title": " Here’s what happened in crypto today ",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p>Rivalry is mounting between the U.S.’s major banks over which will be the first to add a Bitcoin ETF. Bitcoin Cash, an offshoot of Bitcoin launched in 2017, has undergone its halving event. Meanwhile, Meta, formerly Facebook, has lost $40 billion on its metaverse division since 2021.</p><p>The launch of spot Bitcoin (<a href=\"https://cointelegraph.com/bitcoin-price\">BTC</a>) exchange-traded funds (ETF) in the United States has fueled rivalry between investment banks over which will be the first wirehouse to add the products.</p><p>Morgan Stanley is <a href=\"https://cointelegraph.com/news/morgan-stanley-beat-ubs-first-bitcoin-etf\">hoping to beat UBS</a> in becoming the first wirehouse to fully approve the Bitcoin ETF, crypto enthusiast Andrew (AP_Abacus) <a href=\"https://x.com/AP_Abacus/status/1775527946343653779?s=20\" target=\"_blank\" rel=\"noopener nofollow\">reported</a> on X on April 3.</p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-04T13:30:00.000Z",
+    "title": " AI will build the metaverse says Alien Worlds, Eric Wall vs Bittensor: AI Eye ",
+    "url": "https://cointelegraph.com/magazine/ai-build-metaverse-alien-worlds-eric-wall-vs-bittensor-ai-eye/",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-AI-Eye-column-scaled.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>AI didn’t kill the metaverse, it’s going to build it says Alien Worlds. Bittensor fires back at Eric Wall, medical/beer breakthroughs: AI Eye.</p>\n                    <p><p>Hype over the metaverse was everywhere in 2022, with tens of billions poured into the sector. Largely substance and user-free at the time, the narrative was all but forgotten in 2023 as speculators excitedly jumped on board the AI train.</p><p>But generative AI is shaping up as a potentially new way for users to build the metaverse themselves  and by metaverse, were talking virtual worlds in which creators own a slice of the economy via blockchain and NFTs.</p><p>AI enables nonartists to generate imagery, enables non-developers to code programs, and basically allows anybody with a bright idea to pitch in to create new worlds and games.</p><p><a href=\"https://cointelegraph.com/magazine/ai-build-metaverse-alien-worlds-eric-wall-vs-bittensor-ai-eye/\">Read more</a></p></p>\n                \n            "
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-04T13:04:31.000Z",
-    "title": " Coinbase secures restricted dealer license in Canada ",
-    "url": "https://cointelegraph.com/news/coinbase-restricted-dealer-license-canada",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNzhmZmMxNTUtZDY2YS00YjgxLTkxYzAtMWNhMzUyNjZhMjc2LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Coinbase now has two entities in Canada: Coinbase Canada, with an international license, and Coinbase, registered as a restricted dealer.</p>\n                    <p><p>The United States-based cryptocurrency exchange Coinbase has secured restricted dealer licenses in Canada, doubling down on global expansion amid regulatory crackdown at home.</p><p>Coinbase has obtained a new license in Canada, becoming registered in Ontario as a restricted dealer under the Canadian Securities Administrators (CSA), CNBC reported on April 4.</p><p>According to CSA’s national registration data, there are two Coinbase-related entities <a href=\"https://info.securities-administrators.ca/nrsmobile/nrssearch.aspx\" target=\"_blank\" rel=\"noopener nofollow\">registered</a> in Canada, including Coinbase Incorporated, which is registered as a restricted dealer. The other one, Coinbase Canada, is registered as an international dealer.</p><p><a href=\"https://cointelegraph.com/news/coinbase-restricted-dealer-license-canada\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-04T13:27:00.000Z",
+    "title": " Crypto bull run ignites surge in job listings, salary increases ",
+    "url": "https://cointelegraph.com/news/crypto-bull-run-job-listings-salary-careers",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvYWNmZmI3MGYtZDY1Yy00NDZjLTg3MmYtNTljMmI2Nzc4MTIzLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Jobseekers in crypto currently have a wealth of options as firms seek out fresh talent to help fuel their growth.</p>\n                    <p><p data-ct-non-breakable=\"true\">The crypto jobs market is heating up as the industry enters a new bull run.</p><p>Increased crypto prices and activity have resulted in a surge of applicants and postings on industry job sites. </p><p>Raman Shalupau, founder of the jobs board CryptoJobsList, told Cointelegraph that there has <a href=\"https://cryptojobslist.com/trends\" target=\"_blank\" rel=\"noopener nofollow\">been</a> 20–30% growth month-over-month for the number of companies active.</p><p><a href=\"https://cointelegraph.com/news/crypto-bull-run-job-listings-salary-careers\">Read more</a></p></p>\n                \n            "
   },
   {
-    "source": "Cointelegraph",
-    "date": "2024-04-04T12:56:56.000Z",
-    "title": " Web3 needs player-centric games for mass adoption — Websea COO  ",
-    "url": "https://cointelegraph.com/news/web3-player-centric-games-mass-adoption-websea",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvYmUxOWI0NmMtNmI3Mi00OTJlLWFiYTktNjJiMjY5ODhiYzJmLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p> Institutions are also becoming interested in Web3 gaming, as more player-centric GameFi projects emerge.</p>\n                    <p><p data-ct-non-breakable=\"true\">Web3 gaming needs more player-centric projects with smooth onboarding to bolster mainstream adoption, according to Herbert Sim, the COO of hybrid cryptocurrency exchange Websea.</p><p>He told Cointelegraph in an exclusive interview:</p><p>Web3 games have been widely criticized for their lack of gameplay and user experience. Many previous Web3 games have grown in popularity simply based on their promised economic incentives for users, despite having poor overall user experience.</p><p><a href=\"https://cointelegraph.com/news/web3-player-centric-games-mass-adoption-websea\">Read more</a></p></p>\n                \n            "
+    "source": "Coin Telegraph India",
+    "date": "2024-04-04T13:30:00.000Z",
+    "title": " AI will build the metaverse says Alien Worlds, Eric Wall vs Bittensor: AI Eye ",
+    "url": "https://cointelegraph.com/magazine/ai-build-metaverse-alien-worlds-eric-wall-vs-bittensor-ai-eye/",
+    "description": "\n                <p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://cointelegraph.com/magazine/wp-content/uploads/2024/01/magazine-AI-Eye-column-scaled.jpg\"></p><p>AI didn’t kill the metaverse, it’s going to build it says Alien Worlds. Bittensor fires back at Eric Wall, medical/beer breakthroughs: AI Eye.</p>\n            "
   },
   {
-    "source": "CryptoSlate",
-    "date": "2024-04-04T13:02:28.000Z",
-    "title": "How Wormhole hacker almost profited from W token airdrop mishap",
-    "url": "https://cryptoslate.com/how-wormhole-hacker-almost-profited-from-w-token-airdrop-mishap/",
-    "description": "<p>The malicious actor behind the infamous hack incident that stole over 80,000 ETH from Wormhole in 2022 was briefly entitled to receive an undisclosed amount of airdropped W tokens, pseudonymous blockchain researcher Pland revealed. In his social media post on X, Pland quipped: &#8220;Wormhole forgot to exclude the exploiter from the airdrop.&#8221; Degen News corroborated [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/how-wormhole-hacker-almost-profited-from-w-token-airdrop-mishap/\">How Wormhole hacker almost profited from W token airdrop mishap</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-04-04T12:43:51.000Z",
-    "title": "Fantom founder Andre Cronje speaks out on negative funding rates and unbacked assets",
-    "url": "https://cryptobriefing.com/fantom-founder-negative-funding-rates-unbacked-assets/",
-    "description": "Andre Cronje warns that while \"things are going great now\" such a momentum in the crypto space would eventually turn."
+    "source": "CryptoGlobe",
+    "date": "2024-04-04T13:11:59.000Z",
+    "title": "Coinbase’s Base Blockchain Is Becoming a Hotbed for Memecoin Mania: Bloomberg",
+    "url": "https://www.cryptoglobe.com/latest/2024/04/coinbases-base-blockchain-is-becoming-a-hotbed-for-memecoin-mania-bloomberg/",
+    "description": "In an article published by Bloomberg News on April 2, 2024, the explosive growth of Coinbase’s Base blockchain has been attributed to the memecoin frenzy that has taken the platform by storm. Base, designed to be the cornerstone of Coinbase’s expansion into decentralized finance (DeFi) and non-fungible tokens (NFTs), has seen an influx of activity, […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-04T13:03:51.000Z",
-    "title": "Struggling News Agency Ceases Operations Amidst Financial Turmoil",
-    "url": "https://www.cryptopolitan.com/news-agency-ceases-operations-turmoil/",
-    "description": "A prominent news agency newsflash network—Central European News (CEN), AsiaWire, and Clipzilla—stopped news publication after illness from financial difficulties. The founder, Michael Leidig, who has blamed the growth of AI-generated content and the shrinkage of commissioning budgets, is taking over the newsrooms in the city to help teach young journalists the ropes. At one point, [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T12:58:55.000Z",
-    "title": "Worldcoin Price Prediction 2024 – 2033: How High Will WLD Go?",
-    "url": "https://www.cryptopolitan.com/worldcoin-price-prediction/",
-    "description": "Worldcoin Price Prediction 2024-2033 Worldcoin, spearheaded by OpenAI chief Sam Altman,&#160;launched&#160;on Monday, 24 July 2023, after years in development, promising to verify users’ identity by iris-scanning and potentially solving one of the more pressing problems posed by recent advances in artificial intelligence. When it surged in price as an opening salvo, there was a flurry [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T12:50:32.000Z",
-    "title": "What Role Does a Growth Mindset Play in AI Development?",
-    "url": "https://www.cryptopolitan.com/what-role-growth-mindset-play-ai-development/",
-    "description": "The way innovation is carried out in the field of developing artificial intelligence has become more and more dependent on growth mindsets. Growth mindsets have become increasingly important in determining how innovation proceeds in the field of AI development. A strong dedication to accepting difficulties and fostering learning opportunities is just as important as technical [&#8230;]"
+    "date": "2024-04-04T13:19:47.000Z",
+    "title": "Victoria VR Integrates OpenAI to Pioneer AI-Powered Virtual Reality",
+    "url": "https://www.cryptopolitan.com/victoria-openai-to-ai-virtual-reality/",
+    "description": "Today, Victoria VR, a leading virtual reality developer, announced breakthrough news of integration with OpenAI that might be a game changer in implementing how AI-based virtual worlds&#8217; capabilities are done. Revolutionizing virtual reality creation &#160;Faced with democratizing the creation of virtual reality content, Victoria VR integrated OpenAI into its VR-building platform. This cutting-edge step positions [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-04T12:55:01.000Z",
-    "title": "Tron faces legal troubles. What’s next for the network?",
-    "url": "https://crypto.news/tron-faces-legal-troubles-whats-next-for-the-network/",
-    "description": "How have recent legal challenges impacted Tron&#8217;s trajectory, and what implications does this hold for Tether&#8217;s future?  According to recent research by TRM Labs, in 2023, Tron (TRX), led by Chinese entrepreneur Justin Sun, saw 45% of all illicit crypto&#8230;"
-  },
-  {
-    "source": "NewsBTC",
-    "date": "2024-04-04T13:00:03.000Z",
-    "title": "Fantom Supply On Exchanges See Drastic Increase, A Cause For Alarm?",
-    "url": "https://www.newsbtc.com/news/fantom-news/fantom-ftm-supply-exchanges/",
-    "description": "The Fantom (FTM) supply on exchanges has been rising in recent times, leading to speculations for what this might mean for the price of the cryptocurrency. Going by trends in the crypto market of when the exchange balances of a particular coin goes up, there might be some pain ahead for FTM investors. Fantom Supply On Exchanges Rise By 16 Million The Fantom price had increased over the last month to reach a new three-year high above $1.2. However, this rally was only short-lived and the altcoin has begun to eliminate its gains from the month of March gradually in the past week. Related Reading: Shiba Inu To Rally 100% To $0.000062? Analyst Reveals Why This Is Possible One culprit for this decline in price is the high level of selling that have been taken place among FTM holders, majority of which have been holding their coins for a rather long time. As a result, the available supply of Fantom on centralized exchanges continued to balloon as investors rush to sell off their tokens and capitalize on gains. Data from the on-chain tracking website Santiment shows that in the last week of March, there was a considerable number of FTM flowing into centralized exchanges. This saw their available balance go from around 654 million to over 670 million in the space of a week, with over 16 million flowing into exchanges. This inflow trend coincides with the drop in the Fantom price from above $1.1 to $0.84, suggesting that it is indeed the selling pressure from these FTM investors that is responsible for the price decline. Given this, there would have to be a reversal in this selling trend is the FTM price is to recover from here. Bullishness On FTM Not Dead The inflow of millions of FTM into centralized exchanges is bearish, but this could only last for the short term. As a rule of crypto, eventually, these sellers will run out of coins to sell, leaving room for demand to catch up with the available supply. At this point, the FTM price will begin to see a reversal in the trend. Related Reading: Bitcoin ETF Outflows Are Ramping Up Again, What Does This Mean For BTC Price? There is also the fact that adoption has been increasing on the Fantom chain as founder Andre Conje has been actively talking about it on X (formerly Twitter). Santiment’s data shows that the FTM holder base also grew alongside the price in March. In the week of March 17 and 28 alone, the chain’s holder BASE jumped from 109,000 to over 111,000. This shows that while the trends are bearish right now, there could be a change soon as the price could resume another leg up. The Fantom price has also established support at $0.8 which could serve as the bounce point for another rally. Presently, the FTM price is sitting at $0.84, with a 5.48% and 18.2% decline on the daily and weekly charts, respectively. Its market cap is at $2.37 billion, making it the 51st largest cryptocurrency in the space. FTM price at $0.84 &#124; Source: FTMUSDT on Tradingview.com Featured image from Coin Edition, chart from Tradingview.com"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-04T13:08:36.000Z",
-    "title": "Xterio to Launch Gaming-Oriented Blockchain in Collaboration with AltLayer, aiming for Wider Web3 Gaming Adoption",
-    "url": "https://www.crypto-news-flash.com/xterio-to-launch-gaming-oriented-blockchain-in-collaboration-with-altlayer-aiming-for-wider-web3-gaming-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=xterio-to-launch-gaming-oriented-blockchain-in-collaboration-with-altlayer-aiming-for-wider-web3-gaming-adoption",
-    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE-300x180.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE-768x461.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE-150x90.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Xterio_X_AltLayer_1712106243Plrr2KPSIE-450x270.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Singapore, Singapore, April 4th, 2024, Chainwire Xterio, a leading Web3 gaming publisher and platform, and AltLayer, an open and decentralized protocol for launching native and ZK rollup stacks, have announced the launch of a game-focused restaked rollup designed specifically for Web3 games. Xterio is a Web3 gaming ecosystem &#38; infrastructure, distinguishing itself as a gaming [...]"
-  },
-  {
-    "source": "Crypto News Flash",
-    "date": "2024-04-04T12:41:49.000Z",
-    "title": "TRON (TRX) Price Analysis: What’s Next After a 20% Correction?",
-    "url": "https://www.crypto-news-flash.com/tron-trx-price-analysis-whats-next-after-a-20-correction/?utm_source=rss&utm_medium=rss&utm_campaign=tron-trx-price-analysis-whats-next-after-a-20-correction",
-    "description": "<img width=\"1812\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"TRON-TRX-logo-with-red-trading-prices-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background.jpg 1812w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-300x199.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-1024x678.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-768x509.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-1536x1017.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-150x99.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-450x298.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/TRON-TRX-logo-with-red-trading-prices-background-1200x795.jpg 1200w\" sizes=\"(max-width: 1812px) 100vw, 1812px\" />TRON (TRX) faces a bearish market with recent losses but gains slightly in 24 hours. Technical analysis suggests potential support and resistance levels for TRX. TRON (TRX), one of the prominent cryptocurrencies in the market, has been facing a challenging period amidst the overall bearish sentiment prevailing in the industry. Despite recent gains, TRX has [...]"
-  },
-  {
-    "source": "Altcoin Buzz",
-    "date": "2024-04-04T13:10:21.000Z",
-    "title": "Trade Smarter with LogX: Earn Through AI",
-    "url": "https://www.altcoinbuzz.io/reviews/trade-smarter-with-logx-earn-through-ai/",
-    "description": "<p>LogX provides a platform where traders can have ample liquidity for seamless transactions and efficient trading experiences. Log X enables traders to use its tools in centralized and decentralized exchanges. Also, users can trade against a liquidity pool (LP). In a decentralized exchange, traders receive tokens representing their share of the LP. The LP holds [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/reviews/trade-smarter-with-logx-earn-through-ai/\">Trade Smarter with LogX: Earn Through AI</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-04-04T13:00:00.000Z",
-    "title": "SEC’s Advocates for Clear Crypto Regulations and Investor Safety",
-    "url": "https://coinedition.com/secs-advocates-for-clear-crypto-regulations-and-investor-safety/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/image1-4.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"SEC’s Advocates for Clear Crypto Regulations and Investor Safety\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/image1-4.png 730w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/04/image1-4-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Gurbir Grewal, the SEC&#8217;s Division of Enforcement chief, at the SEC Speaks conference, articulated a persuasive argument for the necessity of stringent regulatory measures in the crypto space. He highlighted the differing opinions within the commission, mentioning a discussion with Commissioner Hester Peirce to emphasize the ongoing talks about the most effective way to regulate [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/secs-advocates-for-clear-crypto-regulations-and-investor-safety/\">SEC’s Advocates for Clear Crypto Regulations and Investor Safety</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-04-04T13:33:48.000Z",
+    "title": "Ripple to launch USD-pegged stablecoin ",
+    "url": "https://crypto.news/ripple-usd-pegged-stablecoin/",
+    "description": "Ripple will launch a new stablecoin pegged to the U.S. dollar, entering the $150 billion market dominated by Tether and Circle."
   }
 ]

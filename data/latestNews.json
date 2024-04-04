@@ -1,142 +1,86 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-04-04T14:00:00.000Z",
-    "title": "Protocol Village: Manta Pacific to Provide On-Chain Access for AGI Models",
-    "url": "https://www.coindesk.com/tech/2024/04/03/protocol-village/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The latest in blockchain tech upgrades, funding announcements and deals. For the period of April 4-10."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-04-04T14:01:02.000Z",
-    "title": "Bitcoin Layer-2 Social Network Offers Rewards for 'Touching Grass' in NFT Game",
-    "url": "https://decrypt.co/224764/bitcoin-layer-2-social-network-touching-grass-nft-game",
-    "description": "Combining AR and NFTs, the Bitcoin layer-2 project aims to get users outdoors—and align Bitcoin with environmental consciousness."
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-04T13:55:38.000Z",
-    "title": " Number of new memecoin traders hit record high — IntoTheBlock  ",
-    "url": "https://cointelegraph.com/news/new-memecoin-traders-hit-record-high",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvODAyNmMzNTYtMTZlMi00MDMzLTg0YWYtMWEwYTM0MzE1NTU0LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The attention given to memecoins may be driven by the massive gains many projects displayed in the first quarter of 2024. </p>\n                    <p><p data-ct-non-breakable=\"true\">Memecoins have kick-started a new crypto frenzy, attracting investors new to trading and searching for the next big token that could bring massive gains. </p><p>Market intelligence platform IntoTheBlock shows that the number of wallet addresses wallet address holding meme-related tokens for under 30 days hit a record high in March. </p><p>The analytics platform explained that this indicates a large inflow of new traders buying memecoins last month. </p><p><a href=\"https://cointelegraph.com/news/new-memecoin-traders-hit-record-high\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "Cointelegraph",
-    "date": "2024-04-04T13:50:05.000Z",
-    "title": " Nvidia eyes Indonesia for $200M AI center amid global AI scramble  ",
-    "url": "https://cointelegraph.com/news/nvidia-eyes-indonesia-200-m-ai-center",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvZjEwYWJjZWItZTdiNy00ZWFkLTg2MjItNjU2NTZkNTJmNzhkLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The world’s leading AI semiconductor chipmaker, Nvidia, has teamed up with the Indonesia government and telecom provider Indosat to create a multimillion-dollar AI center in the country. </p>\n                    <p><p data-ct-non-breakable=\"true\">Nvidia, one of the world’s leading semiconductor producers for artificial intelligence (AI), announced a plan alongside the Indonesian government and telecom provider PT Indosat Ooredoo Hutchison to build a new AI center in the country. </p><p>On April 4, Budi Arie Setiadi, the country’s communication minister, said the center will be worth $200 million and be located in Surakarta city in the Central Java region. </p><p>Setiadi said the AI center will host either telecommunication infrastructure or a human resource center. </p><p><a href=\"https://cointelegraph.com/news/nvidia-eyes-indonesia-200-m-ai-center\">Read more</a></p></p>\n                \n            "
-  },
-  {
-    "source": "CryptoSlate",
-    "date": "2024-04-04T14:00:55.000Z",
-    "title": "Binance to end Bitcoin NFT support in marketplace within a week",
-    "url": "https://cryptoslate.com/binance-to-end-bitcoin-nft-support-in-marketplace-within-a-week/",
-    "description": "<p>Crypto exchange Binance said its non-fungible token (NFT) marketplace will discontinue support for Bitcoin NFTs by April 18, per an April 4 statement. According to the exchange: &#8220;Starting from 2024-04-18 06:00 (UTC), users will no longer be able to buy, deposit, bid on, or list NFTs on the Binance NFT Marketplace via the Bitcoin network. [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/binance-to-end-bitcoin-nft-support-in-marketplace-within-a-week/\">Binance to end Bitcoin NFT support in marketplace within a week</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
-  },
-  {
-    "source": "Crypto Briefing",
-    "date": "2024-04-04T14:00:52.000Z",
-    "title": "Flare teams up with Hypernative to combat zero-day exploits",
-    "url": "https://cryptobriefing.com/flare-hypernative-security-partnership/",
-    "description": "Flare joins forces with Hypernative to bolster Web3 security, proactively shielding its ecosystem from emerging cyber threats and exploits."
-  },
-  {
-    "source": "CryptoGlobe",
-    "date": "2024-04-04T13:39:43.000Z",
-    "title": "Ripple Plans to Launch USD-Backed Stablecoin on Ethereum and XRP Ledger",
-    "url": "https://www.cryptoglobe.com/latest/2024/04/ripple-plans-to-launch-usd-backed-stablecoin-on-ethereum-and-xrp-ledger/",
-    "description": "Ripple, a leading provider of enterprise blockchain and crypto solutions, announced its plans to launch a stablecoin pegged 1:1 to the US dollar (USD) on April 4, 2024. The stablecoin will be fully backed by a reserve of US dollar deposits, short-term US government treasuries, and other cash equivalents, with monthly attestations published by a […]\n"
+    "date": "2024-04-04T14:21:47.000Z",
+    "title": "Binance Stops Support for Bitcoin NFTs Citing 'Streamlining' of Offered Products",
+    "url": "https://www.coindesk.com/business/2024/04/04/binance-stops-support-for-bitcoin-nfts-citing-streamlining-of-offered-products/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "Cryptocurrency exchange Binance will cease support for bitcoin-based non-fungible tokens (NFTs) as it undergoes a process to \"streamline\" its product offerings."
   },
   {
     "source": "Crypto Daily",
-    "date": "2024-04-04T14:02:06.000Z",
-    "title": "Candy Digital Announces Landmark Partnership with Gaming Publisher Kakao Games and Developer METABORA",
-    "url": "https://cryptodaily.co.uk/2024/04/candy-digital-announces-landmark-partnership-with-gaming-publisher-kakao-games-and-developer-metabora",
-    "description": "Candy Digital Announces Landmark Partnership with Gaming Publisher Kakao Games and Developer METABORA"
+    "date": "2024-04-04T14:37:10.000Z",
+    "title": "MAGA (TRUMP) Is Now Available for Trading on LBank Exchange",
+    "url": "https://cryptodaily.co.uk/2024/04/maga-trump-is-now-available-for-trading-on-lbank-exchange",
+    "description": "MAGA (TRUMP) Is Now Available for Trading on LBank Exchange"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T14:06:59.000Z",
-    "title": "Ethereum Backers Purchase Pepecoin & New Cryptocurrency Built On ETH",
-    "url": "https://www.cryptopolitan.com/ethereum-backers-purchase-pepecoin-new-cryptocurrency-built-on-eth/",
-    "description": "Backers of Ethereum (ETH), always on the lookout for promising investment opportunities to broadening their horizons. They&#8217;re not just sticking to the foundational assets of the crypto world; they&#8217;re venturing into more speculative territories with unique potential. Among these ventures, Pepecoin (PEPE) has emerged as an intriguing option, and a new player, Shiba Budz (BUDZ), [&#8230;]"
+    "source": "Crypto Daily",
+    "date": "2024-04-04T14:16:49.000Z",
+    "title": "LeverFi Launches OmniZK: A Secure Validation Protocol for Bitcoin DeFi and Omnichain Interactions",
+    "url": "https://cryptodaily.co.uk/2024/04/leverfi-launches-omnizk-a-secure-validation-protocol-for-bitcoin-defi-and-omnichain-interactions",
+    "description": "LeverFi Launches OmniZK: A Secure Validation Protocol for Bitcoin DeFi and Omnichain Interactions"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T14:06:57.000Z",
-    "title": "Bonk (BONK)  Millionaire Purchases O2T Tokens and Enters $888k Competition Simply “To Buy A New Range Rover With Crypto”",
-    "url": "https://www.cryptopolitan.com/bonk-bonk-millionaire-purchases-o2t-tokens-and-enters-888k-competition-simply-to-buy-a-new-range-rover-with-crypto/",
-    "description": "In a narrative that vividly illustrates the ambition and strategies characteristic of today&#8217;s cryptocurrency investors, a notable figure within the Bonk (BONK) community has recently garnered attention. This individual, a millionaire attributed to strategic investments in Bonk (BONK), embarked on a new venture by acquiring a significant stake in Option2Trade (O2T). Furthermore, they&#8217;ve thrown their [&#8230;]"
+    "source": "Bitcoin.com",
+    "date": "2024-04-04T14:33:12.000Z",
+    "title": "Ripple Plans to Launch USD-Pegged Stablecoin, Expanding Token to XRP and Ethereum Ecosystems",
+    "url": "https://news.bitcoin.com/ripple-plans-to-launch-usd-pegged-stablecoin-expanding-token-to-xrp-and-ethereum-ecosystems/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Ripple Plans to Launch USD-Pegged Stablecoin, Expanding Token to XRP and Ethereum Ecosystems\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/04/cxrp.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />Blockchain solutions company Ripple has unveiled its strategy to launch a stablecoin pegged to the U.S. dollar, aiming to boost liquidity on the XRP Ledger. Ripple Set to Introduce U.S. Dollar-Linked Stablecoin, Aiming for Wider Crypto Adoption In a statement released on Thursday, Ripple revealed its intention to introduce a stablecoin token linked to the [&#8230;]"
   },
   {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T14:01:22.000Z",
-    "title": "Welcome to SirWin Casino: The Premier Crypto Casino for Enthusiasts and High Rollers",
-    "url": "https://www.cryptopolitan.com/welcome-to-sirwin-casino-the-premier-crypto-casino-for-enthusiasts-and-high-rollers/",
-    "description": "In the fast-paced world of online gambling, SirWin Casino emerges as a cutting-edge destination for crypto casino players. With its vast arsenal of games, state-of-the-art security measures, and an array of enticing bonuses, SirWin stands as a colossus in the realm of digital casinos. Let’s dive into what makes SirWin the go-to casino for players [&#8230;]"
-  },
-  {
-    "source": "Cryptopolitan",
-    "date": "2024-04-04T13:48:26.000Z",
-    "title": "US Bitcoin sales could benefit investors, says Adam Back",
-    "url": "https://www.cryptopolitan.com/us-bitcoin-sales-could-benefit-investors/",
-    "description": "The CEO of Blockstream, Adam Back, has recently talked about the US government’s decision to sell some of its bitcoins. On X, he proposed that this action would be good for long-term Bitcoin investors and HODLers. HODLers are people who keep their investment in cryptocurrency through market fluctuations to profit from long-term value appreciation. Back’s [&#8230;]"
+    "source": "NullTX",
+    "date": "2024-04-04T14:37:58.000Z",
+    "title": "Investor Alert: Algotech’s Dynamic Presale Draws XRP and AVAX Enthusiasts Towards Unmatched Gains",
+    "url": "https://nulltx.com/investor-alert-algotechs-dynamic-presale-draws-xrp-and-avax-enthusiasts-towards-unmatched-gains/",
+    "description": "XRP and Avalanche (AVAX) have faced a noticeable downturn over the past month due to increased market fluctuations. Amid this turbulence, Algotech (ALGT) has showcased resilience, leveraging algorithmic trading tactics to maximize returns and minimize risks. Let’s unravel why Algotech (ALGT) is considered the best presale crypto and how it [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-04T13:51:36.000Z",
-    "title": "Spot Bitcoin ETF capital inflows hit $113m in one day",
-    "url": "https://crypto.news/spot-bitcoin-etf-capital-inflows-hit-113m-in-one-day/",
-    "description": "On April 3, net daily capital inflows in the spot Bitcoin ETF sector reached over $113 million."
+    "date": "2024-04-04T14:32:04.000Z",
+    "title": "Coinbase receives dealer license in Canada",
+    "url": "https://crypto.news/coinbase-dealer-license-canada/",
+    "description": "Cryptocurrency exchange Coinbase has received a license to operate in Canada."
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-04T13:43:53.000Z",
-    "title": "Nigerian court postpones detained Binance official’s hearing",
-    "url": "https://crypto.news/binance-nigeria-official-hearing-delay/",
-    "description": "The court has postponed the hearing for a Binance official detained in Nigeria on allegations of tax evasion to April 19. "
+    "date": "2024-04-04T14:29:07.000Z",
+    "title": "Google sues crypto scammers for tricking users via fake apps",
+    "url": "https://crypto.news/google-crypto-scammers-lawsuit-fake-apps/",
+    "description": "Google has initiated a lawsuit against a group of individuals accused of orchestrating a vast cryptocurrency scam that impacted over 100,000 users globally."
   },
   {
     "source": "NewsBTC",
-    "date": "2024-04-04T14:00:17.000Z",
-    "title": "Trouble Ahead? Binance Coin Futures Market Under Pressure With Negative Funding Rates",
-    "url": "https://www.newsbtc.com/news/trouble-ahead-binance-coin-futures-market-under-pressure-with-negative-funding-rates/",
-    "description": "The outlook for Binance Coin (BNB) has turned cloudy, with both futures market data and technical indicators flashing bearish signals. Based on our analysis of Coinglass data, negative funding rates and declining open interest in BNB futures contracts paint a picture of growing pessimism among traders. Related Reading: XRP Battle Cry: Must Rally 70% To Reconquer $1 Peak After Market Turmoil A negative funding rate suggests that more traders are holding short positions, anticipating a decline in the price of the asset. This sentiment was confirmed on April 1st, when BNB&#8217;s funding rate dipped into negative territory at -0.012%. Binance Coin Funding Rate And Open Interest Down Further fueling the bearish narrative, BNB&#8217;s futures open interest has also witnessed a slight decline of 0.15%. Open interest reflects the total amount of outstanding futures contracts that haven&#8217;t been settled yet. A decrease in open interest suggests traders are exiting their positions without opening new ones, potentially signaling waning confidence in the market. Source: Coinglass Funding rates are a crucial mechanism in perpetual futures contracts that keep the contract price aligned with the spot price. When the contract price trades higher than the spot price, long position holders pay a fee to shorts, resulting in positive funding rates. Conversely, negative funding rates materialize when the contract price dips below the spot price, indicating that short sellers are currently paying fees to longs. Source: Coinglass More Traders Close Their Positions As negative sentiments mount, this open interest is expected to plummet further. This would imply that more traders are closing their positions and not opening new ones, suggesting a potential price drop for BNB. The bearish sentiment isn&#8217;t confined to the futures market. The Moving Average Convergence Divergence (MACD), another technical indicator, is suggesting a possible resurgence in selling pressure. There&#8217;s an indication that the MACD line might cross below the signal line, typically interpreted as a bearish sign signaling the return of sellers to the market. It&#8217;s noteworthy that since March 18th, the MACD lines for BNB have been positioned for a downtrend. BNB market cap currently at $87.9 billion. Chart: TradingView.com BNB Price Retreat In The Offing? Considering both the futures market and technical analysis, there&#8217;s a potential for a short-term decline in BNB&#8217;s price. However, it&#8217;s important to acknowledge that market sentiment can shift rapidly, and technical indicators aren&#8217;t infallible predictors of future price movements. At the time of writing, BNB was trading at $587, up 6% in the last 24 hours, data from CoinMarketCap shows. Related Reading: Fear Grips XRP Market As Liquidations Top $6 Million – Details Meanwhile, a closer look at BNB&#8217;s technical indicators on the 24-hour chart reveals another trend. The Directional Movement Index (DMI), used to gauge trend strength, displayed a bearish crossover where the negative directional index sits above the positive directional index. This positioning suggests that bearish momentum is currently dominating the market. Analysts commonly interpret this particular crossover as an imperative signal prompting traders to consider exiting long positions and initiating short positions. This strategic move aligns with the prevailing trend indicated by the DMI, reinforcing the notion of a prevailing bearish sentiment within the market ecosystem. Featured image from Pexels, chart from TradingView"
+    "date": "2024-04-04T14:15:17.000Z",
+    "title": "Ripple Prepares To Shake Up $150B Market With Imminent Launch Of New Stablecoin",
+    "url": "https://www.newsbtc.com/breaking-news-ticker/ripple-prepares-to-shake-up-150b-market-with-imminent-launch-of-new-stablecoin/",
+    "description": "In a notable development, blockchain developer Ripple Labs recently announced its plans to launch a stablecoin pegged 1:1 to the US dollar (USD).  Ripple Enters Booming Stablecoin Market According to the company&#8217;s announcement on Thursday, the stablecoin&#8217;s reserves will consist of US dollar deposits, short-term US Treasury bills, and other undisclosed cash equivalents. All of these will be audited by a third-party accounting firm. Ripple plans to publish monthly certifications to ensure transparency. With the stablecoin market currently valued at around $150 billion, Ripple&#8217;s entry is significant. The market is projected to exceed $2.8 trillion by 2028, highlighting the potential for growth and adoption.  Related Reading: XRP Battle Cry: Must Rally 70% To Reconquer $1 Peak After Market Turmoil Ripple CEO Brad Garlinghouse emphasized the importance of partnerships with compliant, crypto-native players for success in this space. He highlighted Ripple&#8217;s track record in launching new products and acquiring companies across various market cycles.  Garlinghouse believes that this move is not only a significant step for Ripple but will also positively impact the XRP Ledger (XRPL) community, driving more use cases, liquidity, and opportunities for developers and users. Institutional And DeFi Adoption Across Multiple Ecosystems Initially, the stablecoin will be available on the XRP Ledger and Ethereum (ETH) blockchains. Ripple plans to expand its presence to additional blockchains and decentralized finance (DeFi) protocols and applications.  Monica Long, Ripple President, stated that issuing the stablecoin on XRPL and Ethereum will unlock new opportunities for institutional and DeFi use cases across multiple ecosystems. Long further stated: The XRP Ledger’s native capabilities, including a decentralized exchange and automated market maker, were built to utilize XRP as the bridge asset. Bringing a trusted stablecoin onto XRPL will drive more adoption and development, contributing to a vibrant ecosystem Related Reading: US Govt Moves $90 Million in Bitcoin, ETH From Estonian Scammers Ultimately, Ripple&#8217;s stablecoin is expected to launch later this year, pending regulatory approval in the US market. The introduction of this stablecoin is a significant development that has the potential to reshape the stablecoin market while offering new opportunities for institutions, developers, and users alike. Featured image from Shutterstock, chart from TradingView.com "
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-04T14:00:37.000Z",
-    "title": "Solana (SOL) Price Prediction For Q2; Dogecoin’s (DOGE) 2024 Price Milestone; InQubeta (QUBE) Crosses $12.9M in Presale",
-    "url": "https://www.crypto-news-flash.com/solana-sol-price-prediction-for-q2-dogecoins-doge-2024-price-milestone-inqubeta-qube-crosses-12-9m-in-presale/?utm_source=rss&utm_medium=rss&utm_campaign=solana-sol-price-prediction-for-q2-dogecoins-doge-2024-price-milestone-inqubeta-qube-crosses-12-9m-in-presale",
-    "description": "<img width=\"1200\" height=\"799\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976-300x200.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976-768x511.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976-150x100.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/unnamed-2024-04-04T014000.976-450x300.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />The first quarter of the year was eventful, from GoDaddy’s integration with ENS to massive airdrops by Starknet, DYM and Pixels. With the second quarter kicking off on a strong foot, Solana (SOL), one of the top altcoins, is poised to skyrocket. Meanwhile, Dogecoin (DOGE) hit a price milestone this year as it trades on [...]"
+    "date": "2024-04-04T14:37:01.000Z",
+    "title": "MAGA (TRUMP) Is Now Available for Trading on LBank Exchange",
+    "url": "https://www.crypto-news-flash.com/maga-trump-is-now-available-for-trading-on-lbank-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=maga-trump-is-now-available-for-trading-on-lbank-exchange",
+    "description": "<img width=\"1200\" height=\"720\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb.jpeg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb-300x180.jpeg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb-768x461.jpeg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb-150x90.jpeg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/04/Trump_17122373752AN48uRjcb-450x270.jpeg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Road Town, BVI, April 4th, 2024, Chainwire In a significant move for cryptocurrency and mobile technology enthusiasts, LBank Exchange, a premier global digital asset trading platform, has announced the listing of MAGA (TRUMP) on April 2, 2024. Users of LBank Exchange can brace themselves for the TRUMP/USDT trading pair, which went live already. MAGA (TRUMP) [...]"
   },
   {
     "source": "Crypto News Flash",
-    "date": "2024-04-04T13:46:58.000Z",
-    "title": "Ripple Announces The Launch Of A U.S. Dollar-Pegged Stablecoin, Aiming To Enter The $150 Billion Market",
-    "url": "https://www.crypto-news-flash.com/ripple-announces-the-launch-of-a-u-s-dollar-pegged-stablecoin-aiming-to-enter-the-150-billion-market/?utm_source=rss&utm_medium=rss&utm_campaign=ripple-announces-the-launch-of-a-u-s-dollar-pegged-stablecoin-aiming-to-enter-the-150-billion-market",
-    "description": "<img width=\"1200\" height=\"618\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758.jpg 1200w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758-300x155.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758-768x396.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758-150x77.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2024/03/unnamed-2024-03-16T114922.758-450x232.jpg 450w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" />Ripple plans monthly attestation reports for transparency, though the auditing firm responsible has not been disclosed yet. The stablecoin will be backed by U.S. dollar deposits, government bonds, and cash equivalents, ensuring stability. Ripple, has announced its plan to launch a stablecoin pegged to the U.S. dollar. This move places Ripple in direct competition with [...]"
+    "date": "2024-04-04T14:24:01.000Z",
+    "title": "Binance ernennt den ersten Vorstand unter der Leitung von Gabriel Abed",
+    "url": "https://www.crypto-news-flash.com/binance-appoints-first-ever-board-of-directors-led-by-gabriel-abed/?utm_source=rss&utm_medium=rss&utm_campaign=binance-appoints-first-ever-board-of-directors-led-by-gabriel-abed",
+    "description": "<img width=\"2133\" height=\"1200\" src=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Binance-Coin-BNB-flag-waving-with-white-background\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background.jpg 2133w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-300x169.jpg 300w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-1024x576.jpg 1024w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-768x432.jpg 768w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-1536x864.jpg 1536w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-2048x1152.jpg 2048w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-150x84.jpg 150w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-450x253.jpg 450w, https://www.crypto-news-flash.com/wp-content/uploads/2023/12/Binance-Coin-BNB-flag-waving-with-white-background-1200x675.jpg 1200w\" sizes=\"(max-width: 2133px) 100vw, 2133px\" />Bei Führungswechseln bildet Binance einen neuen Vorstand mit Führungskräften und unabhängigen Mitgliedern unter dem Vorsitz von Gabriel Abed. Der Schritt folgt auf bedeutende Führungswechsel, darunter die Ernennung von Richard Teng zum CEO und der Rücktritt des ehemaligen CEO Changpeng &#8220;CZ&#8221; Zhao im Rahmen einer Einigung mit den US-Behörden. Binance Holdings, die renommierte Kryptowährungsbörse, hat einen [...]"
   },
   {
     "source": "Altcoin Buzz",
-    "date": "2024-04-04T13:58:37.000Z",
-    "title": "Coinbase Partners with Lightspark: Lightning Bitcoin Transactions",
-    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/coinbase-partners-with-lightspark-lightning-bitcoin-transactions/",
-    "description": "<p>This partnership introduces quick, low-cost Bitcoin transactions on Coinbase through the Lightning Network. This game-changing move addresses the slow and expensive Bitcoin transactions in the crypto space. Revolutionizing Bitcoin Transactions with Lightspark &#38; Coinbase The Bitcoin Lightning Network is a second-layer protocol built on top of the Bitcoin blockchain. It enables faster and cheaper transactions [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/coinbase-partners-with-lightspark-lightning-bitcoin-transactions/\">Coinbase Partners with Lightspark: Lightning Bitcoin Transactions</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+    "date": "2024-04-04T14:34:48.000Z",
+    "title": "Crypto.com App Debuts in South Korea",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/crypto-com-app-debuts-in-south-korea/",
+    "description": "<p>It is set to launch the Crypto.com App in South Korea, marking a significant expansion into the Korean market. This launch from crypto.com opens up crypto trading to Korean retail users, providing an entry into the vibrant crypto market. Korea Joins the Crypto Trading Wave with Crypto.com This initial Crypto.com launch lets retail customers open [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/crypto-com-app-debuts-in-south-korea/\">Crypto.com App Debuts in South Korea</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
   },
   {
-    "source": "Coin Edition",
-    "date": "2024-04-04T13:52:43.000Z",
-    "title": "UK Financial Authorities Join Forces to Launch Digital Securities Sandbox",
-    "url": "https://coinedition.com/uk-financial-authorities-join-forces-to-launch-digital-securities-sandbox/",
-    "description": "<img width=\"512\" height=\"288\" src=\"https://coinedition.com/wp-content/uploads/2024/04/sanbox-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"UK Financial Authorities Join Forces to Launch Digital Securities Sandbox\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/sanbox-2.jpg 512w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-127x70.jpg 127w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/sanbox-2-355x200.jpg 355w\" sizes=\"(max-width: 512px) 100vw, 512px\" /><p>The Bank of England (BoE) and the UK Financial Conduct Authority (FCA) have announced their joint effort to launch the Digital Securities Sandbox (DSS). This initiative will serve as a testing ground for emerging technologies in the issuance, trading, and settlement of securities. Consequently, it will offer firms a unique opportunity to operate within a [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/uk-financial-authorities-join-forces-to-launch-digital-securities-sandbox/\">UK Financial Authorities Join Forces to Launch Digital Securities Sandbox</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
-  },
-  {
-    "source": "Coin Edition",
-    "date": "2024-04-04T13:43:16.000Z",
-    "title": "Breaking: Ripple Moves to Launch Stablecoin on XRP Ledger, XRP Soars 4%",
-    "url": "https://coinedition.com/breaking-ripple-moves-to-launch-stablecoin-on-xrp-ledger-xrp-soars-4/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet.png 730w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-300x169.png 300w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-380x214.png 380w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-696x392.png 696w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-159x89.png 159w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-255x143.png 255w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-313x175.png 313w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-440x247.png 440w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-414x233.png 414w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-293x165.png 293w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-375x211.png 375w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-328x185.png 328w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-144x81.png 144w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-123x70.png 123w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-129x73.png 129w, https://coinedition.com/wp-content/uploads/2024/02/XRPL_EVM_Validators_Receive_Rewards_in_XRP_Unlike_XRPL_Mainnet-355x200.png 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Renowned crypto platform Ripple has disclosed its intention to launch a stablecoin pegged 1:1 to the USD on the XRP Ledger and Ethereum. The firm disclosed this move in a statement via its official X account in the last few hours. The notification highlighted Ripple&#8217;s observation of the flourishing stablecoin market, currently valued at approximately [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/breaking-ripple-moves-to-launch-stablecoin-on-xrp-ledger-xrp-soars-4/\">Breaking: Ripple Moves to Launch Stablecoin on XRP Ledger, XRP Soars 4%</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "source": "The Daily Hodl",
+    "date": "2024-04-04T14:30:34.000Z",
+    "title": "Bitcoin Could Now ‘Go Vertical’ As Several Critical Indicators Align, According to Crypto Analyst",
+    "url": "https://dailyhodl.com/2024/04/04/bitcoin-could-now-go-vertical-as-several-critical-indicators-align-according-to-crypto-analyst/",
+    "description": "<img width=\"1024\" height=\"600\" src=\"https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?w=1024\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg 1366w, https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?resize=300,176 300w, https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?resize=768,450 768w, https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?resize=1024,600 1024w, https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?resize=750,439 750w, https://dailyhodl.com/wp-content/uploads/2024/04/Several-Critical-Indicators.jpg?resize=1140,668 1140w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p>A popular crypto analyst says Bitcoin (BTC) may be gearing up for a massive breakout based on several aligning indicators. Pseudonymous analyst TechDev tells his 443,100 followers on the social media platform X that the Wyckoff accumulation schematic is bullish for digital assets. He also says that the Gaussian channel is indicating digital assets are [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://dailyhodl.com/2024/04/04/bitcoin-could-now-go-vertical-as-several-critical-indicators-align-according-to-crypto-analyst/\">Bitcoin Could Now ‘Go Vertical’ As Several Critical Indicators Align, According to Crypto Analyst</a> appeared first on <a rel=\"nofollow\" href=\"https://dailyhodl.com\">The Daily Hodl</a>.</p>\n"
   }
 ]

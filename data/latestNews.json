@@ -1,16 +1,58 @@
 [
   {
-    "source": "CryptoSlate",
-    "date": "2024-04-05T01:32:44.000Z",
-    "title": "Crypto VC investments increased 38% in first quarter breaking 2 year trend",
-    "url": "https://cryptoslate.com/crypto-vc-investments-increased-38-in-first-quarter-breaking-2-year-trend/",
-    "description": "<p>Crypto venture capital (VC) investments increased in the first quarter of 2024, according to a survey published by Crypto Koryo on April 4. The analyst measured growth across two distinct metrics. VCs invested nearly $2 billion in crypto projects, marking an increase of 38% from Q4 2023. VCs also invested in 250 crypto projects, representing [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/crypto-vc-investments-increased-38-in-first-quarter-breaking-2-year-trend/\">Crypto VC investments increased 38% in first quarter breaking 2 year trend</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cointelegraph",
+    "date": "2024-04-05T01:44:12.000Z",
+    "title": " Solana struggles: Record 75% of users txs are failing... or are they? ",
+    "url": "https://cointelegraph.com/news/solana-struggling-record-seventy-five-percent-trasnactions-fail-memecoin-mania",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvNTJlOTQ1YjctNTY3NC00MTllLThjMjItNjdiOTdjNDk4MTczLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>The Solana network appears to be struggling to keep up with a ravenous demand for memecoins, with data showing roughly 75% of transactions on the network currently failing. </p>\n                    <p><p>Roughly three-quarters of all transactions on the Solana network have been failing amid a deluge of activity brought by the recent memecoin mania on Solana, however, proponents say the data is being widely misinterpreted. </p><p>Dune Analytics <a href=\"https://dune.com/scarn_eth/solana-tx-fail-rate\" target=\"_blank\" rel=\"noopener nofollow\">data</a> shows that on April 4, just over 75% of all “non-vote” Solana transactions failed, the highest failure rate on record.</p><p>The uptick has been paralleled by a recent uproar from Solana users on social media, complaining of failed transactions and degraded user experience.</p><p><a href=\"https://cointelegraph.com/news/solana-struggling-record-seventy-five-percent-trasnactions-fail-memecoin-mania\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-04-05T02:00:00.000Z",
+    "title": "Memecoin Takeover: $SHIB, $PEPE, and $FLOKI Outshine Bitcoin’s Trading Volume on India’s Largest Exchange",
+    "url": "https://www.cryptoglobe.com/latest/2024/04/memecoin-takeover-shib-pepe-and-floki-outshine-bitcoins-trading-volume-on-indias-largest-exchange/",
+    "description": "A quirky shift has taken hold in the Indian cryptocurrency market, with memecoins surging in popularity to the point meme-inspired cryptocurrency Shiba Inu ($SHIB), $PEPE, and $FLOKI dominated trading on the country’s leading cryptocurrency exchanges WazirX last month. Data first reported on by Benzinga reveals that, on WazirX, all of the top five most traded […]\n"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-05T01:13:15.000Z",
-    "title": "Federal Reserve v. ECB – Who will cut interest rates first?",
-    "url": "https://www.cryptopolitan.com/fed-v-ecb-who-will-cut-interest-rates-first/",
-    "description": "Amidst the global economic rollercoaster, the million-dollar question that&#8217;s got investors biting their nails and analysts spitting predictions like fortune-tellers is: Who&#8217;s going to blink first in the face-off between the Federal Reserve and the European Central Bank when it comes to slashing interest rates? You&#8217;re not getting an intro that starts with &#8220;In a…&#8221; [&#8230;]"
+    "date": "2024-04-05T02:00:58.000Z",
+    "title": "Canadian Regulatory Licence Secured By Coinbase",
+    "url": "https://www.cryptopolitan.com/coinbase-canadian-regulatory-licence/",
+    "description": "Coinbase, a huge crypto based company from the United States, has just made a shocking development in Canada. They&#8217;ve just secured a special license. This license is a great step in their growth and shows they&#8217;re serious about following the rules, especially when there&#8217;s a lot of attention on regulations back home. Getting the green [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T01:44:13.000Z",
+    "title": "PayPal Advances in Crypto with PYUSD Stablecoin for Zero-Fee International Transfers",
+    "url": "https://www.cryptopolitan.com/paypal-stablecoin-cross-border-payments/",
+    "description": "PayPal, which is based in California, the well-known Silicon Valley, is going to aim at widening its PYUSD crypto application among its US customers. As a result, it will become possible to use this currency for cross-border money transfers, as well. Now through Paypal, individuals will can pay through Xoom since this service will be [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T01:43:27.000Z",
+    "title": "GSR Markets has Won the License to Run a Major Payment Institution in Singapore.",
+    "url": "https://www.cryptopolitan.com/gsr-markets-license-institution-in-singapore/",
+    "description": "The indirect consequence of cryptocurrency to the finance industry of Singapore has come to be the obtaining of an MPI license from the Monetary Authority of Singapore (MAS) by GSR Markets, the subsidiary of global crypto market maker GSR. This happened at the end of April 1. This milestone demonstrates GSR Market as the first [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T01:43:09.000Z",
+    "title": "Hybrid NFTs: Bridging ERC-20 and ERC-721 for Fractional Digital Ownership",
+    "url": "https://www.cryptopolitan.com/hybrid-nfts-erc-20-and-erc-721-ownership/",
+    "description": "It is a mixed standard between ERC-20 features (these tokens are utilized for cryptocurrencies) along ERC-721 features (for NFTs). But this lifestyle is no different from owning the shares of a company in the sense that you can have a fraction of the NFT in your collection. Hence, a new kind of investing in digital [&#8230;]"
+  },
+  {
+    "source": "NullTX",
+    "date": "2024-04-05T02:00:06.000Z",
+    "title": "BlockDAG: Crypto Growth Payment Card Vs Aave, PENDLE Trends",
+    "url": "https://nulltx.com/blockdag-crypto-growth-payment-card-vs-aave-pendle-trends/",
+    "description": "Whitepaper V2 Launch: BlockDAG Potential of 20,000X ROI Amid Aave&#8217;s Uplift &#38; PENDLE&#8217;s Momentum Cryptocurrency investors are always searching for promising opportunities, and BlockDAG stands out amidst fluctuations in Aave prices and PENDLE reaching all-time highs. This unique project captures attention with its innovative Crypto Payment Card and a presale [&#8230;]"
+  },
+  {
+    "source": "NewsBTC",
+    "date": "2024-04-05T02:00:47.000Z",
+    "title": "Cat-Themed Memecoins Growing Popularity: Traders Earn Millions With MEW and MOEW",
+    "url": "https://www.newsbtc.com/meme-coins/cat-themed-memecoins-growing-popularity-traders-earn-millions-with-mew-and-moew/",
+    "description": "The memecoin market has been dominated by dog-themed tokens for the past few years. Despite not being as popular and well-known as their canine crypto counterparts, cat-themed tokens are starting to appear at the forefront of the meme-inspired market. Related Reading: Memecoins Reign Supreme: CoinGecko Reveals Most Profitable Crypto Narrative Of Q1 Cats In A Dogs Crypto Market Memecoins can become a market sensation overnight, and their communities can be some of the most supporting investors, as seen with the Vegas Sphere “wif on sphere” fundraiser campaign. Dogecoin and Shiba Inu remain the biggest tokens by market capitalization in this category. About a month ago, eight of the ten largest memecoins by market capitalization were canine-inspired. Nonetheless, cat-themed tokens have started infiltrating the pack of dogs after a recently launched player made it to the top ten memecoins list. Cat in a Dogs World (MEW) launched on March 26 and just 48 hours later reached a $200 million market cap. MEW surpassed BONK, WIF, and PEPE as the fastest fair launch to accomplish this feat. MEW’s market cap reached $644 million in just eight days, making it the eighth largest memecoin by this metric. Moreover, the token rallied over 50% on Wednesday after crypto exchange KuCoin announced its listing. Cat in a dogs world among the top 10 memecoins. Source: CoinMarketCap MEW’s performance in the past seven days shows an impressive 267.54% surge. Despite this, the token’s rally slowed down today. The cat-themed cryptocurrency lost over 15% of its value from the day prior. At writing time, MEW is trading at $0.00737049. Similarly, its daily market activity took a hit, decreasing 35.3% to $208.4 million traded in the past 24 hours. What Are They Feeding Cat-Themed Memecoins? The growing interest in feline-inspired tokens has resulted in many newly launched memecoins quickly surpassing massive levels. On Wednesday, a new token called Ansem’s Cat (HOBBES), inspired by Hobbes, the cat of crypto trader Ansem, broke a $100 million market cap on its launch day. MOEW, a Base token launched on Wednesday, made the news after a trader turned $13,000 into $2 million in just one hour. According to data provided by Lookonchain, the crypto trader spent 3 ETH ($13,000) to buy 499.9 million MOEW, a 158x gain. Then, the trader sold 116 million MOEW for 99 ETH, around $328,000, when the rice surged. At the time of the report, the trader had 388.24 million MOEW left, worth over $1.7 million. In less than 1 hour, this guy turned $13K into $2M, a gain of 158x! He spotted $MOEW 10 minutes after opening trading and spent 4 $ETH($13K) to buy 499.9M $MOEW. Then he sold 111.65M $MOEW for 99 $ETH($328K). He currently holds 388.24M $MOEW, worth $1.76M.… pic.twitter.com/DFRGOYh8ZM &#8212; Lookonchain (@lookonchain) April 3, 2024 Similarly, another trader made a profit on MEW’s opening day. In 20 minutes, this crypto trader made almost $900,000 in profits from selling SOL and buying the memecoin. Nonetheless, the community has questioned these whale moves. Many wonder whether the cat-themed profits come from strategic trading or insiders from the projects. Whichever the case, cat-themed tokens are starting to make a sound in the crypto market. Ultimately, the crypto community has begun noticing potential in the feline-inspired coins. Related Reading: Dogecoin Hits Major Roadblock As Whales Go On Massive Selling Spree MEW's performance in the weekly chart. Source: MEWUSDT on Tradingview.com Featured Image from Unsplash.com, Chart from TradingView.com"
   }
 ]

@@ -1,58 +1,51 @@
 [
   {
     "source": "CoinDesk",
-    "date": "2024-04-05T19:43:52.000Z",
-    "title": "New York Jury Finds Do Kwon, Terraform Labs Liable for Fraud in SEC Case",
-    "url": "https://www.coindesk.com/policy/2024/04/05/new-york-jury-finds-do-kwon-terraform-labs-liable-for-fraud-in-sec-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-    "description": "The SEC accused Kwon and his company of misleading investors about the stability of their so-called “algorithmic stablecoin” Terra USD."
-  },
-  {
-    "source": "Decrypt",
-    "date": "2024-04-05T19:46:02.000Z",
-    "title": "‘Notcoin’ Telegram Game Will Return After Token Launch—With Big Changes",
-    "url": "https://decrypt.co/225034/notcoin-telegram-game-return-after-token-launch-big-changes",
-    "description": "Viral Telegram-based game Notcoin is plotting a revival after the April 20 airdrop. Here’s what the team told us about the new approach."
+    "date": "2024-04-05T20:26:02.000Z",
+    "title": "What the Ethereum Community's Staking Argument Is Really About",
+    "url": "https://www.coindesk.com/consensus-magazine/2024/04/05/what-the-ethereum-communitys-staking-argument-is-really-about/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+    "description": "The Ethereum community is debating the power and responsibilities of the Ethereum Foundation, which some think is playing central banker by suggesting changes to the ether issuance formula."
   },
   {
     "source": "Cointelegraph",
-    "date": "2024-04-05T19:48:50.000Z",
-    "title": " Terraform Labs and Do Kwon found liable for fraud in SEC case ",
-    "url": "https://cointelegraph.com/news/terraform-labs-do-kwon-liable-fraud-sec",
-    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvMjM4NGQ1OGUtNGZmYS00MGZmLTg4Y2UtNGVlMmQwOGFhYzFhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Jurors took a short time to deliberate on the evidence presented by the U.S. Securities and Exchange Commission and Terraform Labs before reaching a verdict.</p>\n                    <p><p>A jury found Terraform Labs and co-founder <a href=\"https://cointelegraph.com/top-people-in-crypto-and-blockchain-2023/do-kwon\">Do Kwon</a> liable for defrauding investors in its civil case with the United States Securities and Exchange Commission (SEC).</p><p>In an April 5 announcement, SEC Enforcement Director Gurbir Grewal <a href=\"https://www.sec.gov/news/statement/grewal-statement-040424\" target=\"_blank\" rel=\"noopener nofollow\">said</a> jurors in U.S. District Court for the Southern District of New York found Kwon and Terraform liable in the civil enforcement case after a short deliberation. The SEC trial started on March 25 without the attendance of Kwon, who remains in Montenegro as courts determine whether to grant an extradition request from the U.S. or South Korea.</p><p>“We are pleased with today’s jury verdict holding Terraform Labs and Do Kwon liable for a massive crypto fraud,” said Grewal. “Terraform Labs and Kwon, its former CEO, deceived investors about the stability of the crypto asset security and so-called algorithmic stablecoin Terra USD, and they further misled investors about whether a popular payment application used Terraform’s blockchain to process and settle payments.”</p><p><a href=\"https://cointelegraph.com/news/terraform-labs-do-kwon-liable-fraud-sec\">Read more</a></p></p>\n                \n            "
+    "date": "2024-04-05T20:17:48.000Z",
+    "title": " Here’s what happened in crypto today ",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvNzhkNzg3NjEtM2JkMi00NTY5LTk2YTctNjJhOTdmMGExYjBhLmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>\n                    <p><p data-ct-non-breakable=\"true\">Do Kwon and Terraform Labs were found liable for defrauding investors in a U.S. SEC civil case that ended on April 5. Expecting mining profitability to drop after the Bitcoin halving? Think again, says a market maker interviewed by Cointelegraph. Meanwhile, Solana’s non-vote transaction failure rate has hit a record 75% amid reports of degraded user experience on the network. </p><p>The United States Securities and Exchange Commission’s civil lawsuit against Terraform Labs and Do Kwon has ended, with a jury finding the former executive and his defunct company <a href=\"https://cointelegraph.com/news/terraform-labs-do-kwon-liable-fraud-sec\">liable for defrauding investors</a>. </p><p>Jurors made quick work of their deliberation, with the decision coming mere hours after Cointelegraph reported on the SEC’s in-trial allegations that <a href=\"https://cointelegraph.com/news/terraform-labs-lies-sec-trial\">Terraform was “built on lies.”</a></p><p><a href=\"https://cointelegraph.com/news/what-happened-in-crypto-today\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "Bitcoin.com",
+    "date": "2024-04-05T20:33:57.000Z",
+    "title": "Terraform Labs and Former CEO Do Kwon Found Liable for Civil Fraud by Jury",
+    "url": "https://news.bitcoin.com/terraform-labs-and-former-ceo-do-kwon-found-liable-for-civil-fraud-by-jury/",
+    "description": "<img width=\"768\" height=\"432\" src=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-768x432.jpg\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"Terraform Labs and Former CEO Do Kwon Found Liable for Civil Fraud by Jury\" decoding=\"async\" style=\"float:left; margin:0 15px 15px 0;\" srcset=\"https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/3_news_bytes-1.jpg 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />On Friday, Zack Guzmán, founder of Coinage Media, announced that Terraform Labs&#8217; co-founder Do Kwon and his startup were deemed responsible for fraudulent activities in its legal battle against the U.S. Securities and Exchange Commission (SEC). The lawsuit spanned approximately two weeks. The trial culminated in the jury&#8217;s decision in a federal courtroom subsequent to [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-05T19:52:55.000Z",
-    "title": "Zimbabwe turns to gold in efforts to permanently ditching US dollar",
-    "url": "https://www.cryptopolitan.com/zimbabwe-gold-to-permanently-ditch-us-dollar/",
-    "description": "Buckle up, because Zimbabwe&#8217;s going for a wild ride down Gold Lane, ditching the US dollar like it&#8217;s out of fashion. Under President Emmerson Mnangagwa’s regime, this southern African gem is shaking up its monetary system yet again. This time, they&#8217;re pulling a bold move by introducing a new gold-backed currency. The Birth of the [&#8230;]"
+    "date": "2024-04-05T20:28:52.000Z",
+    "title": "ZA Bank launches banking services for stablecoin issuers",
+    "url": "https://www.cryptopolitan.com/za-bank-banking-services-stablecoin-issuers/",
+    "description": "In a bid to boost local Web3 adoption, Hong Kong-based ZA Bank has announced that it will offer banking services to issuers of stablecoins. According to its official announcement, the online banking platform said that it will open up security for fiat reserves, which issuers can leverage to back up their digital assets. ZA Bank [&#8230;]"
   },
   {
     "source": "Cryptopolitan",
-    "date": "2024-04-05T19:42:00.000Z",
-    "title": "Binance Coin Price Prediction 2024-2033: Is BNB Ready for the Bull Run?",
-    "url": "https://www.cryptopolitan.com/binance-coin-price-prediction/",
-    "description": "Binance Coin Price Prediction 2024-2033 After notable changes in its executive team, Binance has shown notable resilience and prospects for recovery. The departure of Changpeng Zhao, Binance&#8217;s CEO, who was also embroiled in legal challenges, initially caused a decline in the value of Binance Coin (BNB). Despite this initial setback, the cryptocurrency has shown a [&#8230;]"
+    "date": "2024-04-05T20:15:53.000Z",
+    "title": "Destiny Tech100 Fund Surges 818% Since NYSE Debut",
+    "url": "https://www.cryptopolitan.com/destiny-tech100-fund-surges-818-since-nyse/",
+    "description": "Destiny Tech100 Holdings Inc, a new fund, reported making a significant profit, further established by the fact that even a single day of listing on the New York Stock Exchange (NYSE) had delivered tremendous returns.&#160; There was a huge bull market, as big as 800%, which was the marketcap at its all-time high. The same [&#8230;]"
   },
   {
     "source": "BTCManager",
-    "date": "2024-04-05T20:08:59.000Z",
-    "title": "Analysts predict MicroStrategy’s stock to rise 16% ",
-    "url": "https://crypto.news/microstrategy-stock-forecast-analyst/",
-    "description": "Analysts see potential for further growth in MicroStrategy Inc.'s shares following its Bitcoin acquisitions throughout the bull market. "
-  },
-  {
-    "source": "BTCManager",
-    "date": "2024-04-05T20:04:06.000Z",
-    "title": "CFPB stresses risks in crypto-focused gaming, virtual worlds",
-    "url": "https://crypto.news/cfpb-crypto-gaming-virtual-risk/",
-    "description": "In a recent release, the Consumer Financial Protection Bureau warned about the emerging risks associated with crypto-focused gaming."
+    "date": "2024-04-05T20:14:18.000Z",
+    "title": "Jury finds Terraform Labs, Do Kwon guilty on fraud charges ",
+    "url": "https://crypto.news/jury-finds-terraform-labs-do-kwon-guilty-on-fraud-charges/",
+    "description": "A New York jury has found Terraform Labs and its Co-Founder, Do Kwon, guilty of deceiving investors about UST's stability."
   },
   {
     "source": "Coin Edition",
-    "date": "2024-04-05T20:00:00.000Z",
-    "title": "Dogwifhat (WIF) and Hump (HUMP) Named the Best Meme Coins for 2024 Bull Run, Like Shiba Inu (SHIB) and Dogecoin (DOGE) Last Cycle",
-    "url": "https://coinedition.com/dogwifhat-wif-and-hump-hump-named-the-best-meme-coins-for-2024-bull-run-like-shiba-inu-shib-and-dogecoin-doge-last-cycle/",
-    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/pr-5-20.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/pr-5-20.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/pr-5-20-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>In the volatile world of cryptocurrencies, meme coins have gained significant traction, capturing the imagination of investors and traders alike. Dogwifhat (WIF) and Hump (HUMP) have emerged as two meme coins poised for a potential bull run in 2024, drawing parallels to the meteoric rise of Shiba Inu (SHIB) and Dogecoin (DOGE) in previous cycles. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/dogwifhat-wif-and-hump-hump-named-the-best-meme-coins-for-2024-bull-run-like-shiba-inu-shib-and-dogecoin-doge-last-cycle/\">Dogwifhat (WIF) and Hump (HUMP) Named the Best Meme Coins for 2024 Bull Run, Like Shiba Inu (SHIB) and Dogecoin (DOGE) Last Cycle</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+    "date": "2024-04-05T20:30:00.000Z",
+    "title": "Three Must-Have Meme Coins with Insane Potential in April 2024",
+    "url": "https://coinedition.com/three-must-have-meme-coins-with-insane-potential-in-april-2024/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/pr-4-27.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/pr-4-27.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/pr-4-27-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Memes have established a distinct niche for themselves in the rapidly changing cryptocurrency market, attracting investors with their quirky appeal and explosive potential. Three meme coins—Hump, Bonk, and Dogwifhat—stand out as the most significant ones as we approach April 2024. With their unique attributes and community-focused mindset, these tokens have the potential to revolutionize the [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/three-must-have-meme-coins-with-insane-potential-in-april-2024/\">Three Must-Have Meme Coins with Insane Potential in April 2024</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]

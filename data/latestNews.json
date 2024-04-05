@@ -1,9 +1,86 @@
 [
   {
-    "source": "CryptoSlate",
-    "date": "2024-04-05T12:02:35.000Z",
-    "title": "BlackRock adds 5 new APs to spot Bitcoin ETF including Goldman Sachs, Citadel, Citigroup",
-    "url": "https://cryptoslate.com/blackrock-adds-5-new-aps-to-spot-bitcoin-etf-including-goldman-sachs-citadel-citigroup/",
-    "description": "<p>BlackRock, the world&#8217;s largest asset manager, has today updated the list of Authorized Participants (APs) for its spot Bitcoin exchange-traded fund (ETF), IBIT. The ETF, which has been live since January 10, 2024, allows investors to gain exposure to Bitcoin without directly holding the digital assets. According to the latest prospectus, BlackRock has added five [&#8230;]</p>\n<p>The post <a href=\"https://cryptoslate.com/blackrock-adds-5-new-aps-to-spot-bitcoin-etf-including-goldman-sachs-citadel-citigroup/\">BlackRock adds 5 new APs to spot Bitcoin ETF including Goldman Sachs, Citadel, Citigroup</a> appeared first on <a href=\"https://cryptoslate.com\">CryptoSlate</a>.</p>\n"
+    "source": "Cointelegraph",
+    "date": "2024-04-05T12:20:46.000Z",
+    "title": " Starknet explains reasons for 4-hour block outage ",
+    "url": "https://cointelegraph.com/news/starknet-details-bug-reorganization-blockss",
+    "description": "\n                \n                    <p style=\"float:right; margin:0 0 10px 15px; width:240px;\">\n                        <img src=\"https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMDQvZTJjZWE5NWEtYTRkYy00NmQ1LTkyZjgtYWM1OGRkNDA1YTc5LmpwZw==.jpg\" class=\"type:primaryImage\">\n                    </p>\n                                    <p>Blockchain data from Starkscan indicates that Starknet’s system stopped producing blocks for four hours on April 5.</p>\n                    <p><p data-ct-non-breakable=\"true\">Ethereum layer-2 protocol Starknet suffered a block reorganization that led to a backlog of transactions. The protocol’s block monitoring tool, Starkscan, showed an outage of four hours in block production. </p><p><a href=\"https://starkscan.co/blocks\" target=\"_blank\" rel=\"noopener nofollow\">Starkscan</a> shows a gap between the creation of blocks 630028 and 630029 on April 4, while Starknet’s status page did not reflect any outages on the network on the same day.</p><p data-ct-non-breakable=\"true\">Starknet subsequently released a statement on X, explaining that a rounding error bug led to a reorganization of blocks. The company said block production continued as usual, but the reorganization caused a transaction backlog that prevented it from reaching full capacity.</p><p><a href=\"https://cointelegraph.com/news/starknet-details-bug-reorganization-blockss\">Read more</a></p></p>\n                \n            "
+  },
+  {
+    "source": "CryptoGlobe",
+    "date": "2024-04-05T12:29:00.000Z",
+    "title": "Scorpion Casino Blends Excitement of Gaming with Crypto After Raising $6 Million From Over 10,000 Investors",
+    "url": "https://www.cryptoglobe.com/latest/2024/04/scorpion-casino-blends-excitement-of-gaming-with-crypto-after-raising-6-million-from-over-10000-investors/",
+    "description": "Disclaimer: This article is sponsored content and should not be considered as financial or investment advice. Always do your own research before making any financial decisions. The opinions expressed in this article are those of the author and do not necessarily reflect the views of CryptoGlobe. Scorpion Casino is making waves in the online gaming […]\n"
+  },
+  {
+    "source": "Crypto Daily",
+    "date": "2024-04-05T12:41:35.000Z",
+    "title": "Aethir and Meta48 Revolutionize XR Streaming with Lag-Free Solutions",
+    "url": "https://cryptodaily.co.uk/2024/04/aethir-and-meta48-revolutionize-xr-streaming-with-lag-free-solutions",
+    "description": "Aethir and Meta48 Revolutionize XR Streaming with Lag-Free Solutions"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T12:38:10.000Z",
+    "title": "Sui Price Prediction 2024-2033: Is SUI A Good Investment?",
+    "url": "https://www.cryptopolitan.com/sui-price-prediction/",
+    "description": "Sui Price Prediction 2024-2033 As the cryptocurrency market gains momentum and traders search for potential investment opportunities, Sui (SUI) has emerged as a coin, capturing significant attention. SUI operates on a smart contract platform maintained by a permissionless group of validators, contributing to the network&#8217;s security and functionality.&#160; The native token, SUI, serves as a [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T12:31:14.000Z",
+    "title": "Do AI Projects Break the Bank? Deciphering the True Expenses",
+    "url": "https://www.cryptopolitan.com/do-ai-projects-break-the-bank-true-expenses/",
+    "description": "Because AI efforts provide new solutions across multiple industries, they have attracted a lot of attention in the realm of technical innovation. Though the excitement around AI&#8217;s promise is understandable, it&#8217;s necessary to expose the real costs associated with these audacious plans. Breaking down the complex costs of AI projects—which go well beyond traditional budgetary [&#8230;]"
+  },
+  {
+    "source": "Cryptopolitan",
+    "date": "2024-04-05T12:30:49.000Z",
+    "title": "Photobucket Explores New Frontier in AI Data Licensing",
+    "url": "https://www.cryptopolitan.com/photobucket-explores-new-frontier/",
+    "description": "Surprise! What do you envision today if you realized yesterday was the day Photobucket occupies the top rung of profitability? But they were the ones who forged ahead and redesigned the operational concept of hosting marquee events and impact-driven functions. As supporters of independence, they did not do anything else but do this. The homo [&#8230;]"
+  },
+  {
+    "source": "BTCManager",
+    "date": "2024-04-05T12:27:04.000Z",
+    "title": "Preparing for bull-run 2024: how to build a crypto portfolio",
+    "url": "https://crypto.news/how-to-build-a-diversified-crypto-portfolio/",
+    "description": "Learn how to build a good crypto portfolio and how diversification helps offset losses and maintain stability. Given the wild ups and downs of the crypto market, the formula for long-term success lies in crafting a well-diversified crypto assets portfolio.&#8230;"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-04-05T12:38:01.000Z",
+    "title": "Solana Faces High Transaction Failures During Memecoin Craze",
+    "url": "https://www.altcoinbuzz.io/cryptocurrency-news/solana-faces-high-transaction-failures-during-memecoin-craze/",
+    "description": "<p>Dune Analytics data shows about 75% of Solana&#8217;s &#8220;non-vote&#8221; transactions fail, the network&#8217;s highest failure rate. This spike in failed transactions aligns with the memecoin craze on Solana, causing widespread concern among users. Memecoin Mania Tests Solana&#8217;s Limits News of transaction failures led Solana users to social media to express frustration over a worsening user [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/cryptocurrency-news/solana-faces-high-transaction-failures-during-memecoin-craze/\">Solana Faces High Transaction Failures During Memecoin Craze</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Altcoin Buzz",
+    "date": "2024-04-05T12:21:16.000Z",
+    "title": "What Is sSCRT?",
+    "url": "https://www.altcoinbuzz.io/reviews/what-is-sscrt/",
+    "description": "<p>Most of our readers are familiar with the Secret Network and its $SCRT coin. That&#8217;s pronounced as the Secret coin. But did you know that there&#8217;s also a wrapped version of the $SCRT coin available? That&#8217;s the sSCRT coin. You pronounce this as secretSCRT.  So, in this article, we take a closer look at the [&#8230;]</p>\n<p>The post <a href=\"https://www.altcoinbuzz.io/reviews/what-is-sscrt/\">What Is sSCRT?</a> appeared first on <a href=\"https://www.altcoinbuzz.io\">Altcoin Buzz</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-04-05T12:37:20.000Z",
+    "title": "Will Crypto Have to Go to The Supreme Court For Clarity?",
+    "url": "https://coinedition.com/will-crypto-have-to-go-to-the-supreme-court-for-clarity/",
+    "description": "<img width=\"512\" height=\"288\" src=\"https://coinedition.com/wp-content/uploads/2024/04/thinking.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Will Crypto Have to Go to The Supreme Court For Clarity?\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/thinking.jpg 512w, https://coinedition.com/wp-content/uploads/2024/04/thinking-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/thinking-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/thinking-127x70.jpg 127w, https://coinedition.com/wp-content/uploads/2024/04/thinking-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/thinking-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/thinking-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/thinking-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/thinking-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/thinking-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/thinking-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/thinking-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/thinking-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/thinking-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/thinking-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/thinking-355x200.jpg 355w\" sizes=\"(max-width: 512px) 100vw, 512px\" /><p>Participants in the crypto market continue to clamor for clear crypto rules from U.S. regulators, particularly from the SEC, infamous for charging crypto firms with violating federal security laws. A significant breakthrough emerged when U.S. District Judge Analisa Torres ruled against the SEC in July 2023 that XRP is not a security. However, the SEC [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/will-crypto-have-to-go-to-the-supreme-court-for-clarity/\">Will Crypto Have to Go to The Supreme Court For Clarity?</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-04-05T12:33:00.000Z",
+    "title": "Diving Into Shiba Inu & Shiba Budz: SHIB Investors Shift Focus To Blockchain Gaming Cryptocurrency",
+    "url": "https://coinedition.com/diving-into-shiba-inu-shiba-budz-shib-investors-shift-focus-to-blockchain-gaming-cryptocurrency/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/pr-9-5.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/pr-9-5.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/pr-9-5-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>The cryptocurrency market is witnessing a paradigm shift, with investors increasingly exploring niches that offer both novelty and tangible utility. Among these emerging trends, blockchain gaming has surged in popularity, presenting a new frontier for digital asset investments. Within this dynamic landscape, two tokens have captured the attention of the crypto community: Shiba Inu (SHIB) [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/diving-into-shiba-inu-shiba-budz-shib-investors-shift-focus-to-blockchain-gaming-cryptocurrency/\">Diving Into Shiba Inu &amp; Shiba Budz: SHIB Investors Shift Focus To Blockchain Gaming Cryptocurrency</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
+  },
+  {
+    "source": "Coin Edition",
+    "date": "2024-04-05T12:17:21.000Z",
+    "title": "Fantom Set to Unveil Canonical Stablecoin Backed by Circle and Wormhole",
+    "url": "https://coinedition.com/fantom-set-to-unveil-canonical-stablecoin-backed-by-circle-and-wormhole/",
+    "description": "<img width=\"730\" height=\"411\" src=\"https://coinedition.com/wp-content/uploads/2024/04/image1-8.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Fantom Set to Unveil Canonical Stablecoin Backed by Circle and Wormhole\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://coinedition.com/wp-content/uploads/2024/04/image1-8.jpg 730w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-300x169.jpg 300w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-380x214.jpg 380w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-696x392.jpg 696w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-159x89.jpg 159w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-255x143.jpg 255w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-313x175.jpg 313w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-440x247.jpg 440w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-414x233.jpg 414w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-293x165.jpg 293w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-375x211.jpg 375w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-328x185.jpg 328w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-144x81.jpg 144w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-123x70.jpg 123w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-129x73.jpg 129w, https://coinedition.com/wp-content/uploads/2024/04/image1-8-355x200.jpg 355w\" sizes=\"(max-width: 730px) 100vw, 730px\" /><p>Fantom is set to roll out its new stablecoin, USDC.e, in collaboration with Circle and Wormhole. Billed to debut on April 5, this move marks a positive for the Fantom Foundation and promises potential upsides for users. USDC.e is bridged via Wormhole from native $USDC on Ethereum, boasting potential future upgrades to native USDC status. [&#8230;]</p>\n<p>The post <a href=\"https://coinedition.com/fantom-set-to-unveil-canonical-stablecoin-backed-by-circle-and-wormhole/\">Fantom Set to Unveil Canonical Stablecoin Backed by Circle and Wormhole</a> appeared first on <a href=\"https://coinedition.com\">Coin Edition</a>.</p>\n"
   }
 ]
